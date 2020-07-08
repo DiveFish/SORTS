@@ -1,21 +1,21 @@
 # SORTS
 A Subject-Object Resolution Test Suite of German minimal sentence pairs for morpho-syntactic and semantic model introspection.
 
-The SORTS test suite consists of 18,502 monotransitive clauses, annotated with 24 property classes:
+The SORTS test suite consists of 18,502 monotransitive clauses, annotated with the following property classes:
 
 |Property | Annotation |
 |:------------- |:-------------|
-|**_Word order_**|
-|LK[V]MF[SO]|`LK[V]MF[SO]`|
-|LK[V]MF[SO] (question)|`LK[V]MF[SO]Q`|
-|VF[S]LK[V]MF[O]|`VF[S]LK[V]MF[O]`|
-|MF[SO]VC[V]|`MF[SO]VC[V]`|
-|LK[V]MF[OS]|`LK[V]MF[OS]`|
-|LK[V]MF[OS] (question)|`LK[V]MF[OS]Q`|
-|VF[O]LK[V]MF[S]|`VF[O]LK[V]MF[S]`|
-|MF[OS]VC[V]|`MF[OS]VC[V]`|
-|**_Morpho-syntax_**|
 |Base case|`acc`|
+|**_1. Word order_**|
+|VSO|`LK[V]MF[SO]`|
+|VSO (question)|`LK[V]MF[SO]Q`|
+|SVO|`VF[S]LK[V]MF[O]`|
+|SOV|`MF[SO]VC[V]`|
+|VOS|`LK[V]MF[OS]`|
+|VOS (question)|`LK[V]MF[OS]Q`|
+|OVS|`VF[O]LK[V]MF[S]`|
+|OSV|`MF[OS]VC[V]`|
+|**_2. Morpho-syntax_**|
 |Dative object|`dat`|
 |Subject-object case syncretism|`amb`|
 |Pronoun subject|`spron`|
@@ -23,7 +23,7 @@ The SORTS test suite consists of 18,502 monotransitive clauses, annotated with 2
 |Negated object|`oneg`|
 |Auxiliary verb|`aux`|
 |Prepositional phrase|`pp`|
-|**_Semantics_**|
+|**_3. Semantics_**|
 |Inanimate subject|`sinan`|
 |Animate object|`oan`|
 |Inverted animacy|`invan`|
@@ -36,4 +36,30 @@ The SORTS test suite consists of 18,502 monotransitive clauses, annotated with 2
 |Synonymous verb|`syn`|
 |Idiom|`idm`|
 
-The test suite is available both in a gold standard and an annotated format. The gold standard includes token forms along with subject and object head indices and labels. The annotated format has been automatically annotated with the [sticker2](https://github.com/stickeritis/sticker2) software for lemmas, part of speech and topological fields and has been manually corrected.
+## Sentence variations
+Sentences with particular properties can be extracted from the test suite using the full word order and property annotations as in this example:
+
+|Variations | Property | Full annotation |
+|:------------- |:-------------|:-------------|
+|0| Base sentence, e.g. SVO order |`order:VF[S]LK[V]MF[O]\|props:base-acc`|
+|1| Base sentence, e.g. SVO order with auxiliary verb|`order:VF[S]LK[V]MF[O]\|props:base-aux`|
+|2| Base sentence, e.g. SVO order with auxiliary verb and synonym of main verb |`order:VF[S]LK[V]MF[O]\|props:aux-syn`|
+
+### Test suite subsets
+- `german_part-ambiguous_gold.conll`: only the `amb` variant displays case syncretism between subject and object
+- `german_ambiguous_gold.conll`: all sentences display case syncretism between subject and object; no `dat` and `amb` variants
+
+### `Conll` annotations
+Gold standard
+- Token forms
+- Subject head index and label
+- Object head index and label
+
+Annotated format
+- Automatically annotated with the [sticker2](https://github.com/stickeritis/sticker2) software
+- Token forms, lemmas, part of speech and topological fields (manually corrected)
+- Morphological information
+
+### In progress
+- The Dutch translation of this test suite - will be interesting since Dutch only allows subject-object disambiguation via subject-verb agreement, no case marking!
+- A PP attachment test suite - more brain teasers for NLP systems...
