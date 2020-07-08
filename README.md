@@ -45,20 +45,18 @@ Sentences with particular properties can be extracted from the test suite using 
 |1| Base sentence, e.g. SVO order with auxiliary verb|`order:VF[S]LK[V]MF[O]\|props:base-aux`|
 |2| Base sentence, e.g. SVO order with auxiliary verb and synonym of main verb |`order:VF[S]LK[V]MF[O]\|props:aux-syn`|
 
-### Test suite subsets
-- `german_part-ambiguous_gold.conll`: only the `amb` variant displays case syncretism between subject and object
-- `german_ambiguous_gold.conll`: all sentences display case syncretism between subject and object; no `dat` and `amb` variants
-
-### `Conll` annotations
-Gold standard
-- Token forms
+### Additional annotations
+[Gold standard](https://github.com/DiveFish/SORTS/tree/master/gold)
 - Subject head index and label
 - Object head index and label
 
-Annotated format
-- Automatically annotated with the [sticker2](https://github.com/stickeritis/sticker2) software
-- Token forms, lemmas, part of speech and topological fields (manually corrected)
+[Annotated](https://github.com/DiveFish/SORTS/tree/master/annotated) (automatically annotated using [sticker2](https://github.com/stickeritis/sticker2))
+- Lemmas, part of speech and topological fields (manually corrected)
 - Morphological information
+
+### Test suite subsets
+- `german_part-ambiguous_gold.conll`: only the `amb` variant displays case syncretism between subject and object
+- `german_ambiguous_gold.conll`: all sentences display case syncretism between subject and object; no `dat` and `amb` variants
 
 ### In progress
 - The Dutch translation of this test suite - will be interesting since Dutch only allows subject-object disambiguation via subject-verb agreement, no case marking!
