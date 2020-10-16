@@ -1,0 +1,9 @@
+[package]
+name = "tools"
+version = "0.1.0"
+authors = ["DiveFish"]
+
+[dependencies]
+clap = "2.31.2"
+conllx = "0.10.2"
+flate2 = "0.2.20"
