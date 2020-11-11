@@ -13,7 +13,7 @@ The SORTS test suite consists of 18,502 monotransitive clauses, annotated with t
 |Verb-last, subject-object|`MF[SO]VC[V]`|
 |Verb-first, object-subject|`LK[V]MF[OS]`|
 |Verb-second, object-subject|`VF[O]LK[V]MF[S]`|
-|Verb-second, object-subject, object-subject|`VF[ADV]LK[V]MF[OS]`|
+|Verb-second, object-subject|`VF[ADV]LK[V]MF[OS]`|
 |Verb-last, object-subject|`MF[OS]VC[V]`|
 |**_2. Morphology/syntax_**|
 |Dative object|`dat`|
