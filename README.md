@@ -7,15 +7,15 @@ The SORTS test suite consists of 18,502 monotransitive clauses, annotated with t
 |:------------- |:-------------|
 |Base case|`acc`|
 |**_1. Word order_**|
-|VSO|`LK[V]MF[SO]`|
-|VSO (question)|`LK[V]MF[SO]Q`|
-|SVO|`VF[S]LK[V]MF[O]`|
-|SOV|`MF[SO]VC[V]`|
-|VOS|`LK[V]MF[OS]`|
-|VOS (question)|`LK[V]MF[OS]Q`|
-|OVS|`VF[O]LK[V]MF[S]`|
-|OSV|`MF[OS]VC[V]`|
-|**_2. Morpho-syntax_**|
+|Verb-first, subject-object|`LK[V]MF[SO]`|
+|Verb-second, subject-object|`VF[S]LK[V]MF[O]`|
+|Verb-second, subject-object|`VF[ADV]LK[V]MF[SO]`|
+|Verb-last, subject-object|`MF[SO]VC[V]`|
+|Verb-first, object-subject|`LK[V]MF[OS]`|
+|Verb-second, object-subject|`VF[O]LK[V]MF[S]`|
+|Verb-second, object-subject, object-subject|`VF[ADV]LK[V]MF[OS]`|
+|Verb-last, object-subject|`MF[OS]VC[V]`|
+|**_2. Morphology/syntax_**|
 |Dative object|`dat`|
 |Subject-object case syncretism|`amb`|
 |Pronoun subject|`spron`|
@@ -27,10 +27,10 @@ The SORTS test suite consists of 18,502 monotransitive clauses, annotated with t
 |Inanimate subject|`sinan`|
 |Animate object|`oan`|
 |Inverted animacy|`invan`|
-|Ambiguous institutional subject|`sinst`|
+|Regular polysemy|`regpol`|
 |Proper name subject|`sname`|
-|Subject-object directedness|`sodir`|
-|Void object|`oempt`|
+|Semantic asymmetry|`semas`|
+|Non-referential object|`noref`|
 |Psych verb with experiencer object|`psy`|
 |Light verb construction|`vlight`|
 |Synonymous verb|`syn`|
@@ -55,8 +55,8 @@ Sentences with particular properties can be extracted from the test suite using 
 - Morphological information
 
 ### Test suite subsets
-- `german_part-ambiguous_gold.conll`: only the `amb` variant displays case syncretism between subject and object
-- `german_ambiguous_gold.conll`: all sentences display case syncretism between subject and object; no `dat` and `amb` variants
+- `german_part-ambiguous_gold`: only the `amb` variant displays case syncretism between subject and object
+- `german_ambiguous_gold`: all sentences display case syncretism between subject and object; no `dat` and `amb` variants
 
 ### In progress
 - The Dutch translation of this test suite - will be interesting since Dutch only allows subject-object disambiguation via subject-verb agreement, no case marking!
