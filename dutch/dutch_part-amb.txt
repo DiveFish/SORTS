@@ -592,111 +592,111 @@
 +	pp-invan	de rugleuning	steunt	kantoorbedienden	in een week	
 +	pp-invan	de broek	knijpt	entertainers	in een week	
 +	pp-invan	de landbouw	bedreigt	bijen	in een week	
-+	base-sinst	het kantoor	begint	aanvallen		
-+	base-sinst	de winkels	leven	een dubbelleven		
-+	base-sinst	het reclamebureau	synchroniseert	opnames		
-+	base-sinst	de gemeente	speelt	droombruiloften		
-+	base-sinst	het dorp	bekogelt	kunstwerken		
-+	base-sinst	het bureau	vindt	oplossingen		
-+	base-sinst	de praktijk	bestelt	tijdschriften		
-+	base-sinst	het kapsalon	scheert	baarden		
-+	base-sinst	de redactie	drinkt	kopjes koffie		
-+	base-sinst	de instituut	schrijft	romans		
-+	base-sinst	het districtskantoor	beëindigt	toespraken		
-+	base-sinst	de scholen	krijgen	een basissalaris		
-+	base-sinst	de garage	bouwt	hekken		
-+	base-sinst	de universiteiten	winnen	een toer		
-+	base-sinst	het concern	neemt	constructies		
-+	amb-sinst	de kantoren	beginnen	aanvallen		
-+	amb-sinst	de winkel	leeft	een dubbelleven		
-+	amb-sinst	het reclamebureau	synchroniseert	een opname		
-+	amb-sinst	de gemeente	speelt	een droombruiloft		
-+	amb-sinst	het dorp	bekogelt	een kunstwerk		
-+	amb-sinst	het bureau	vindt	een oplossing		
-+	amb-sinst	de praktijk	bestelt	een tijdschrift		
-+	amb-sinst	de kapsalons	scheren	baarden		
-+	amb-sinst	de redactie	drinkt	een kopje koffie		
-+	amb-sinst	de instituten	schrijven	romans		
-+	amb-sinst	het districtskantoor	beëindigt	een toespraak		
-+	amb-sinst	de school	krijgt	een basissalaris		
-+	amb-sinst	de garages	bouwen	hekken		
-+	amb-sinst	de universiteit	wint	een toer		
-+	amb-sinst	de concerns	nemen	constructies		
-+	aux-sinst	het kantoor	zal	aanvallen	beginnen	
-+	aux-sinst	de winkels	zullen	dubbellevens	leven	
-+	aux-sinst	het reclamebureau	zal	opnames	synchroniseren	
-+	aux-sinst	de gemeente	zal	droombruiloften	spelen	
-+	aux-sinst	het dorp	zal	kunstwerken	bekogelen	
-+	aux-sinst	het bureau	zal	oplossingen	vinden	
-+	aux-sinst	de praktijk	zal	tijdschriften	bestellen	
-+	aux-sinst	het kapsalon	zal	baarden	scheren	
-+	aux-sinst	de redactie	zal	kopjes koffie	drinken	
-+	aux-sinst	de instituut	zal	romans	schrijven	
-+	aux-sinst	het districtskantoor	zal	toespraken	beëindigen	
-+	aux-sinst	de scholen	zullen	een basissalaris	krijgen	
-+	aux-sinst	de garage	zal	hekken	bouwen	
-+	aux-sinst	de universiteiten	zullen	een toer	winnen	
-+	aux-sinst	het concern	zal	constructies	nemen	
-+	opron-sinst	het kantoor	begint	hem		
-+	opron-sinst	de winkels	leven	het		
-+	opron-sinst	het reclamebureau	synchroniseert	hem		
-+	opron-sinst	de gemeente	speelt	hem		
-+	opron-sinst	het dorp	bekogelt	hem		
-+	opron-sinst	het bureau	vindt	hem		
-+	opron-sinst	de praktijk	bestelt	hem		
-+	opron-sinst	het kapsalon	scheert	haar		
-+	opron-sinst	de redactie	drinkt	hem		
-+	opron-sinst	de instituut	schrijft	hem		
-+	opron-sinst	het districtskantoor	beëindigt	hem		
-+	opron-sinst	de school	krijgt	hem		
-+	opron-sinst	de garage	bouwt	hem		
-+	opron-sinst	de universiteiten	winnen	hem		
-+	opron-sinst	het concern	neemt	haar		
-+	oneg-sinst	het kantoor	begint	geen aanvallen		
-+	oneg-sinst	de winkels	leven	geen dubbellevens		
-+	oneg-sinst	het reclamebureau	synchroniseert	geen opnames		
-+	oneg-sinst	de gemeente	speelt	geen droombruiloften		
-+	oneg-sinst	het dorp	bekogelt	geen kunstwerken		
-+	oneg-sinst	het bureau	vindt	geen oplossingen		
-+	oneg-sinst	de praktijk	bestelt	geen tijdschriften		
-+	oneg-sinst	het kapsalon	scheert	geen baarden		
-+	oneg-sinst	de redactie	drinkt	geen kopjes koffie		
-+	oneg-sinst	de instituut	schrijft	geen romans		
-+	oneg-sinst	het districtskantoor	beëindigt	geen toespraken		
-+	oneg-sinst	de scholen	krijgen	geen basissalaris		
-+	oneg-sinst	de garage	bouwt	geen hekken		
-+	oneg-sinst	de universiteiten	winnen	geen toer		
-+	oneg-sinst	het concern	neemt	geen constructies		
-+	pp-sinst	het kantoor	begint	aanvallen	in een week	
-+	pp-sinst	de winkels	leven	een dubbelleven	in een week	
-+	pp-sinst	het reclamebureau	synchroniseert	opnames	in een week	
-+	pp-sinst	de gemeente	speelt	droombruiloften	in een week	
-+	pp-sinst	het dorp	bekogelt	kunstwerken	in een week	
-+	pp-sinst	het bureau	vindt	oplossingen	in een week	
-+	pp-sinst	de praktijk	bestelt	tijdschriften	in een week	
-+	pp-sinst	het kapsalon	scheert	baarden	in een week	
-+	pp-sinst	de redactie	drinkt	kopjes koffie	in een week	
-+	pp-sinst	de instituut	schrijft	romans	in een week	
-+	pp-sinst	het districtskantoor	beëindigt	toespraken	in een week	
-+	pp-sinst	de scholen	krijgen	een basissalaris	in een week	
-+	pp-sinst	de garage	bouwt	hekken	in een week	
-+	pp-sinst	de universiteiten	winnen	een toer	in een week	
-+	pp-sinst	het concern	neemt	constructies	in een week	
-+	oan-sinst	het kapsalon	benoemt	vertegenwoordigers		
-+	oan-sinst	het kantoor	interviewt	ECB-bazinnen		
-+	oan-sinst	het dorp	voedt	spinnen		
-+	oan-sinst	het bureau	krabt	een hondeneigenaars		
-+	oan-sinst	de winkels	beroeren	koks		
-+	oan-sinst	de praktijk	accepteert	sollicitanten		
-+	oan-sinst	het reclamebureau	imiteert	jazzpianisten		
-+	oan-sinst	de gemeente	huurt	verdelgers		
-+	oan-sinst	de redactie	verwondt	tieners		
-+	oan-sinst	de instituut	dirigeert	orkestmusici		
-+	oan-sinst	de garage	beschrijft	modellen		
-+	oan-sinst	het districtskantoor	leidt	cursisten		
-+	oan-sinst	de scholen	bezoeken	een burgemeesteres		
-+	oan-sinst	het concern	behoeft	tolken		
-+	oan-sinst	de universiteit	bevrijdt	een behoeftigen		
++	base-regpol	het kantoor	begint	aanvallen		
++	base-regpol	de winkels	leven	een dubbelleven		
++	base-regpol	het reclamebureau	synchroniseert	opnames		
++	base-regpol	de gemeente	speelt	droombruiloften		
++	base-regpol	het dorp	bekogelt	kunstwerken		
++	base-regpol	het bureau	vindt	oplossingen		
++	base-regpol	de praktijk	bestelt	tijdschriften		
++	base-regpol	het kapsalon	scheert	baarden		
++	base-regpol	de redactie	drinkt	kopjes koffie		
++	base-regpol	de instituut	schrijft	romans		
++	base-regpol	het districtskantoor	beëindigt	toespraken		
++	base-regpol	de scholen	krijgen	een basissalaris		
++	base-regpol	de garage	bouwt	hekken		
++	base-regpol	de universiteiten	winnen	een toer		
++	base-regpol	het concern	neemt	constructies		
++	amb-regpol	de kantoren	beginnen	aanvallen		
++	amb-regpol	de winkel	leeft	een dubbelleven		
++	amb-regpol	het reclamebureau	synchroniseert	een opname		
++	amb-regpol	de gemeente	speelt	een droombruiloft		
++	amb-regpol	het dorp	bekogelt	een kunstwerk		
++	amb-regpol	het bureau	vindt	een oplossing		
++	amb-regpol	de praktijk	bestelt	een tijdschrift		
++	amb-regpol	de kapsalons	scheren	baarden		
++	amb-regpol	de redactie	drinkt	een kopje koffie		
++	amb-regpol	de instituten	schrijven	romans		
++	amb-regpol	het districtskantoor	beëindigt	een toespraak		
++	amb-regpol	de school	krijgt	een basissalaris		
++	amb-regpol	de garages	bouwen	hekken		
++	amb-regpol	de universiteit	wint	een toer		
++	amb-regpol	de concerns	nemen	constructies		
++	aux-regpol	het kantoor	zal	aanvallen	beginnen	
++	aux-regpol	de winkels	zullen	dubbellevens	leven	
++	aux-regpol	het reclamebureau	zal	opnames	synchroniseren	
++	aux-regpol	de gemeente	zal	droombruiloften	spelen	
++	aux-regpol	het dorp	zal	kunstwerken	bekogelen	
++	aux-regpol	het bureau	zal	oplossingen	vinden	
++	aux-regpol	de praktijk	zal	tijdschriften	bestellen	
++	aux-regpol	het kapsalon	zal	baarden	scheren	
++	aux-regpol	de redactie	zal	kopjes koffie	drinken	
++	aux-regpol	de instituut	zal	romans	schrijven	
++	aux-regpol	het districtskantoor	zal	toespraken	beëindigen	
++	aux-regpol	de scholen	zullen	een basissalaris	krijgen	
++	aux-regpol	de garage	zal	hekken	bouwen	
++	aux-regpol	de universiteiten	zullen	een toer	winnen	
++	aux-regpol	het concern	zal	constructies	nemen	
++	opron-regpol	het kantoor	begint	hem		
++	opron-regpol	de winkels	leven	het		
++	opron-regpol	het reclamebureau	synchroniseert	hem		
++	opron-regpol	de gemeente	speelt	hem		
++	opron-regpol	het dorp	bekogelt	hem		
++	opron-regpol	het bureau	vindt	hem		
++	opron-regpol	de praktijk	bestelt	hem		
++	opron-regpol	het kapsalon	scheert	haar		
++	opron-regpol	de redactie	drinkt	hem		
++	opron-regpol	de instituut	schrijft	hem		
++	opron-regpol	het districtskantoor	beëindigt	hem		
++	opron-regpol	de school	krijgt	hem		
++	opron-regpol	de garage	bouwt	hem		
++	opron-regpol	de universiteiten	winnen	hem		
++	opron-regpol	het concern	neemt	haar		
++	oneg-regpol	het kantoor	begint	geen aanvallen		
++	oneg-regpol	de winkels	leven	geen dubbellevens		
++	oneg-regpol	het reclamebureau	synchroniseert	geen opnames		
++	oneg-regpol	de gemeente	speelt	geen droombruiloften		
++	oneg-regpol	het dorp	bekogelt	geen kunstwerken		
++	oneg-regpol	het bureau	vindt	geen oplossingen		
++	oneg-regpol	de praktijk	bestelt	geen tijdschriften		
++	oneg-regpol	het kapsalon	scheert	geen baarden		
++	oneg-regpol	de redactie	drinkt	geen kopjes koffie		
++	oneg-regpol	de instituut	schrijft	geen romans		
++	oneg-regpol	het districtskantoor	beëindigt	geen toespraken		
++	oneg-regpol	de scholen	krijgen	geen basissalaris		
++	oneg-regpol	de garage	bouwt	geen hekken		
++	oneg-regpol	de universiteiten	winnen	geen toer		
++	oneg-regpol	het concern	neemt	geen constructies		
++	pp-regpol	het kantoor	begint	aanvallen	in een week	
++	pp-regpol	de winkels	leven	een dubbelleven	in een week	
++	pp-regpol	het reclamebureau	synchroniseert	opnames	in een week	
++	pp-regpol	de gemeente	speelt	droombruiloften	in een week	
++	pp-regpol	het dorp	bekogelt	kunstwerken	in een week	
++	pp-regpol	het bureau	vindt	oplossingen	in een week	
++	pp-regpol	de praktijk	bestelt	tijdschriften	in een week	
++	pp-regpol	het kapsalon	scheert	baarden	in een week	
++	pp-regpol	de redactie	drinkt	kopjes koffie	in een week	
++	pp-regpol	de instituut	schrijft	romans	in een week	
++	pp-regpol	het districtskantoor	beëindigt	toespraken	in een week	
++	pp-regpol	de scholen	krijgen	een basissalaris	in een week	
++	pp-regpol	de garage	bouwt	hekken	in een week	
++	pp-regpol	de universiteiten	winnen	een toer	in een week	
++	pp-regpol	het concern	neemt	constructies	in een week	
++	oan-regpol	het kapsalon	benoemt	vertegenwoordigers		
++	oan-regpol	het kantoor	interviewt	ECB-bazinnen		
++	oan-regpol	het dorp	voedt	spinnen		
++	oan-regpol	het bureau	krabt	een hondeneigenaars		
++	oan-regpol	de winkels	beroeren	koks		
++	oan-regpol	de praktijk	accepteert	sollicitanten		
++	oan-regpol	het reclamebureau	imiteert	jazzpianisten		
++	oan-regpol	de gemeente	huurt	verdelgers		
++	oan-regpol	de redactie	verwondt	tieners		
++	oan-regpol	de instituut	dirigeert	orkestmusici		
++	oan-regpol	de garage	beschrijft	modellen		
++	oan-regpol	het districtskantoor	leidt	cursisten		
++	oan-regpol	de scholen	bezoeken	een burgemeesteres		
++	oan-regpol	het concern	behoeft	tolken		
++	oan-regpol	de universiteit	bevrijdt	een behoeftigen		
 +	base-snp	AkzoNobel	begint	aanvallen		
 +	base-snp	Balazs	leeft	dubbellevens		
 +	base-snp	Mercedes	synchroniseert	opnames		
@@ -802,227 +802,227 @@
 +	oan-snp	Degas	bezoekt	een burgemeesteressen		
 +	oan-snp	Nijmegen	behoeft	tolken		
 +	oan-snp	Vietnam	bevrijdt	een behoeftigen		
-+	base-sodir	de sterke	houdt	een zwakken		
-+	base-sodir	de speurhonden	vinden	een prooi		
-+	base-sodir	de kapper	scheert	klanten		
-+	base-sodir	de politieman	arresteert	verdachten		
-+	base-sodir	de leraar	onderwijst	leerlingen		
-+	base-sodir	de moeder	voedt	zoons		
-+	base-sodir	de president	commandeert	soldaten		
-+	base-sodir	de superieur	ontslaat	employés		
-+	base-sodir	de producenten	bevoorraden	een afnemer		
-+	base-sodir	de jongeren	bejubelen	een ster		
-+	base-sodir	de arts	behandelt	patiënten		
-+	base-sodir	de eigenares	berispt	pachters		
-+	base-sodir	de priester	verzorgt	kerkgangers		
-+	base-sodir	de examinatrice	test	examinandi		
-+	base-sodir	de meester	corrigeert	leerjongens		
-+	amb-sodir	de sterken	houden	een zwakken		
-+	amb-sodir	de speurhond	vindt	een prooi		
-+	amb-sodir	de kappers	scheren	klanten		
-+	amb-sodir	de politieman	arresteert	een verdachte		
-+	amb-sodir	de leraren	onderwijzen	leerlingen		
-+	amb-sodir	de moeders	voeden	zoons		
-+	amb-sodir	de presidenten	commanderen	soldaten		
-+	amb-sodir	de superieuren	ontslaan	employés		
-+	amb-sodir	de producenten	bevoorraden	afnemers		
-+	amb-sodir	de jongeren	bejubelen	sterren		
-+	amb-sodir	de artsen	behandelen	patiënten		
-+	amb-sodir	de eigenaressen	berispen	pachters		
-+	amb-sodir	de priester	verzorgt	een kerkganger		
-+	amb-sodir	de examinatrice	test	een examinandus		
-+	amb-sodir	de meesters	corrigeren	leerjongens		
-+	aux-sodir	de sterke	zal	een zwakken houden		
-+	aux-sodir	de speurhonden	zullen	een prooi	vinden	
-+	aux-sodir	de kapper	zal	klanten	scheren	
-+	aux-sodir	de politieman	zal	verdachten	arresteren	
-+	aux-sodir	de leraar	zal	leerlingen	onderwijzen	
-+	aux-sodir	de moeder	zal	zoons	voeden	
-+	aux-sodir	de president	zal	soldaten	commanderen	
-+	aux-sodir	de superieur	zal	employés	ontslaan	
-+	aux-sodir	de producenten	zullen	een afnemer	bevoorraden	
-+	aux-sodir	de jongeren	zullen	een ster	bejubelen	
-+	aux-sodir	de arts	zal	patiënten	behandelen	
-+	aux-sodir	de eigenares	zal	pachters	berispen	
-+	aux-sodir	de priester	zal	kerkgangers	verzorgen	
-+	aux-sodir	de examinatrice	zal	examinandi	testen	
-+	aux-sodir	de meester	zal	leerjongens	corrigeren	
-+	oneg-sodir	de sterke	houdt	geen zwakken		
-+	oneg-sodir	de speurhonden	vinden	geen prooi		
-+	oneg-sodir	de kapper	scheert	geen klanten		
-+	oneg-sodir	de politieman	arresteert	geen verdachten		
-+	oneg-sodir	de leraar	onderwijst	geen leerlingen		
-+	oneg-sodir	de moeder	voedt	geen zoons		
-+	oneg-sodir	de president	commandeert	geen soldaten		
-+	oneg-sodir	de superieur	ontslaat	geen employés		
-+	oneg-sodir	de producenten	bevoorraden	geen afnemer		
-+	oneg-sodir	de jongeren	bejubelen	geen ster		
-+	oneg-sodir	de arts	behandelt	geen patiënten		
-+	oneg-sodir	de eigenares	berispt	geen pachters		
-+	oneg-sodir	de priester	verzorgt	geen kerkgangers		
-+	oneg-sodir	de examinatrice	test	geen examinandi		
-+	oneg-sodir	de meester	corrigeert	geen leerjongens		
-+	pp-sodir	de sterke	houdt	een zwakken	in een week	
-+	pp-sodir	de speurhonden	vinden	een prooi	in een week	
-+	pp-sodir	de kapper	scheert	klanten	in een week	
-+	pp-sodir	de politieman	arresteert	verdachten	in een week	
-+	pp-sodir	de leraar	onderwijst	leerlingen	in een week	
-+	pp-sodir	de moeder	voedt	zoons	in een week	
-+	pp-sodir	de president	commandeert	soldaten	in een week	
-+	pp-sodir	de superieur	ontslaat	employés	in een week	
-+	pp-sodir	de producenten	bevoorraden	een afnemer	in een week	
-+	pp-sodir	de jongeren	bejubelen	een ster	in een week	
-+	pp-sodir	de arts	behandelt	patiënten	in een week	
-+	pp-sodir	de eigenares	berispt	pachters	in een week	
-+	pp-sodir	de priester	verzorgt	kerkgangers	in een week	
-+	pp-sodir	de examinatrice	test	examinandi	in een week	
-+	pp-sodir	de meester	corrigeert	leerjongens	in een week	
-+	sinst-sodir	de parochie	houdt	een zwakken		
-+	sinst-sodir	de meute	vindt	prooien		
-+	sinst-sodir	het kappersteam	scheert	klanten		
-+	sinst-sodir	de politie	arresteert	verdachten		
-+	sinst-sodir	de school	onderwijst	leerlingen		
-+	sinst-sodir	de clan	voedt	zoons		
-+	sinst-sodir	de staat	commandeert	soldaten		
-+	sinst-sodir	het bestuur	ontslaat	employés		
-+	sinst-sodir	de handel	bevoorraadt	afnemers		
-+	sinst-sodir	de menigte	bejubelt	sterren		
-+	sinst-sodir	de praktijk	behandelt	patiënten		
-+	sinst-sodir	de vereniging van eigenaars	berispt	pachters		
-+	sinst-sodir	de kerk	verzorgt	kerkgangers		
-+	sinst-sodir	het instituut	test	examinandi		
-+	sinst-sodir	het opleidingsbedrijf	corrigeert	leerjongens		
-+	base-oempt	de generaals	beginnen	niets		
-+	base-oempt	de partners	leven	niets		
-+	base-oempt	de journalisten	synchroniseren	niets		
-+	base-oempt	de vriendinnen	spelen	niets		
-+	base-oempt	de voorbijgangers	bekogelen	niets		
-+	base-oempt	de kinderen	vinden	niets		
-+	base-oempt	de lezers	bestellen	niets		
-+	base-oempt	de heren	scheren	niets		
-+	base-oempt	de mama’s	drinken	niets		
-+	base-oempt	de schrijvers	schrijven	niets		
-+	base-oempt	de politici	beëindigen	niets		
-+	base-oempt	de parlementsleden	krijgen	niets		
-+	base-oempt	de boeren	bouwen	niets		
-+	base-oempt	de sportvrouwen	winnen	niets		
-+	base-oempt	de ambachtsmannen	nemen	niets		
-+	amb-oempt	de generaal	begint	niets		
-+	amb-oempt	de partner	leeft	niets		
-+	amb-oempt	de journalist	synchroniseert	niets		
-+	amb-oempt	de vriendin	speelt	niets		
-+	amb-oempt	de voorbijganger	bekogelt	niets		
-+	amb-oempt	het kind	vindt	niets		
-+	amb-oempt	de lezer	bestelt	niets		
-+	amb-oempt	de heer	scheert	niets		
-+	amb-oempt	de mama	drinkt	niets		
-+	amb-oempt	de schrijver	schrijft	niets		
-+	amb-oempt	de politicus	beëindigt	niets		
-+	amb-oempt	het parlementslid	krijgt	niets		
-+	amb-oempt	de boer	bouwt	niets		
-+	amb-oempt	de sportvrouw	wint	niets		
-+	amb-oempt	de ambachtsman	neemt	niets		
-+	aux-oempt	de generaals	zullen	niets	beginnen	
-+	aux-oempt	de partners	zullen	niets	leven	
-+	aux-oempt	de journalisten	zullen	niets	synchroniseren	
-+	aux-oempt	de vriendinnen	zullen	niets	spelen	
-+	aux-oempt	de voorbijgangers	zullen	niets	bekogelen	
-+	aux-oempt	de kinderen	zullen	niets	vinden	
-+	aux-oempt	de lezers	zullen	niets	bestellen	
-+	aux-oempt	de heren	zullen	niets	scheren	
-+	aux-oempt	de mama’s	zullen	niets	drinken	
-+	aux-oempt	de schrijvers	zullen	niets	schrijven	
-+	aux-oempt	de politici	zullen	niets	beëindigen	
-+	aux-oempt	de parlementsleden	zullen	niets	krijgen	
-+	aux-oempt	de boeren	zullen	niets	bouwen	
-+	aux-oempt	de sportvrouwen	zullen	niets	winnen	
-+	aux-oempt	de ambachtsmannen	zullen	niets	nemen	
-+	spron-oempt	hij	begint	niets		
-+	spron-oempt	ze	leven	niets		
-+	spron-oempt	hij	synchroniseert	niets		
-+	spron-oempt	we	spelen	niets		
-+	spron-oempt	hij	bekogelt	niets		
-+	spron-oempt	ze	vinden	niets		
-+	spron-oempt	ik	bestel	niets		
-+	spron-oempt	jullie	scheren	niets		
-+	spron-oempt	jullie	drinken	niets		
-+	spron-oempt	hij	schrijft	niets		
-+	spron-oempt	we	beëindigen	niets		
-+	spron-oempt	jullie	krijgen	niets		
-+	spron-oempt	we	bouwen	niets		
-+	spron-oempt	jullie	winnen	niets		
-+	spron-oempt	hij	neemt	niets		
-+	sinan-oempt	de quota	vermijden	niets		
-+	sinan-oempt	de gassen	schenden	niets		
-+	sinan-oempt	de muurreliëfs	roepen	niets		
-+	sinan-oempt	de werken	brengen	niets		
-+	sinan-oempt	de bekentenissen	veranderen	niets		
-+	sinan-oempt	de cyclonen	raken	niets		
-+	sinan-oempt	de vliegdekschepen	verlaten	niets		
-+	sinan-oempt	de orkanen	vernietigen	niets		
-+	sinan-oempt	de video-installaties	vormen	niets		
-+	sinan-oempt	de aanvragen	eisen	niets		
-+	sinan-oempt	de lekken	betekenen	niets		
-+	sinan-oempt	de bomen	blokkeren	niets		
-+	sinan-oempt	de ideeën	ontplooien	niets		
-+	sinan-oempt	het afzetgebieden	openen	niets		
-+	sinan-oempt	de films	stichten	niets		
-+	oan-oempt	de bestuursvoorzitters	benoemen	niemand		
-+	oan-oempt	de televisiereporters	interviewen	niemand		
-+	oan-oempt	de fokkers	voeden	niemand		
-+	oan-oempt	de katten	krabben	niemand		
-+	oan-oempt	de obers	beroeren	niemand		
-+	oan-oempt	de HR-managers	accepteren	niemand		
-+	oan-oempt	de componisten	imiteren	niemand		
-+	oan-oempt	de huurders	huren	niemand		
-+	oan-oempt	de 18-jarigen	verwonden	niemand		
-+	oan-oempt	de Zwitsers	dirigeren	niemand		
-+	oan-oempt	de fotografen	beschrijven	niemand		
-+	oan-oempt	de ingenieurs	leiden	niemand		
-+	oan-oempt	de deskundigen	bezoeken	niemand		
-+	oan-oempt	de pioniersters	behoeven	niemand		
-+	oan-oempt	de brandweermannen	bevrijden	niemand		
-+	invan-oempt	de schulden	treffen	niemand		
-+	invan-oempt	de schoenen	drukken	niemand		
-+	invan-oempt	de deadlines	dringen	niemand		
-+	invan-oempt	de kachels	verwarmen	niemand		
-+	invan-oempt	de buien	doordrenken	niemand		
-+	invan-oempt	de camera’s	begeleiden	niemand		
-+	invan-oempt	de complexen	beschermen	niemand		
-+	invan-oempt	de aangiften	betreffen	niemand		
-+	invan-oempt	de zonnen	verblinden	niemand		
-+	invan-oempt	de treinen	vervoeren	niemand		
-+	invan-oempt	de rugleuningen	steunen	niemand		
-+	invan-oempt	de broeken	knijpen	niemand		
-+	sinst-oempt	de kantoren	beginnen	niets		
-+	sinst-oempt	de winkels	leven	niets		
-+	sinst-oempt	de reclamebureaus	synchroniseren	niets		
-+	sinst-oempt	de gemeenten	spelen	niets		
-+	sinst-oempt	de dorpen	bekogelen	niets		
-+	sinst-oempt	de bureaus	vinden	niets		
-+	sinst-oempt	de praktijken	bestellen	niets		
-+	sinst-oempt	de kapsalons	scheren	niets		
-+	sinst-oempt	de instituten	schrijven	niets		
-+	sinst-oempt	de districtskantoren	beëindigen	niets		
-+	sinst-oempt	de scholen	krijgen	niets		
-+	sinst-oempt	de garages	bouwen	niets		
-+	sinst-oempt	de universiteiten	winnen	niets		
-+	sinst-oempt	de concerns	nemen	niets		
-*	snp-oempt	AkzoNobel	begint	niets		
-*	snp-oempt	Balazs	leeft	niets		
-*	snp-oempt	Mercedes	synchroniseert	niets		
-*	snp-oempt	NPO 1	speelt	niets		
-*	snp-oempt	Degas	bekogelt	niets		
-*	snp-oempt	Staf Coppens	vindt	niets		
-*	snp-oempt	Harry	bestelt	niets		
-*	snp-oempt	Gillette	scheert	niets		
-*	snp-oempt	Clooney	drinkt	niets		
-*	snp-oempt	Han Voskuil	schrijft	niets		
-*	snp-oempt	Rutte	beëindigt	niets		
-*	snp-oempt	Vietnam	krijgt	niets		
-*	snp-oempt	Anouk	bouwt	niets		
-*	snp-oempt	Nijmegen	wint	niets		
-*	snp-oempt	Essent NV	neemt	niets		
++	base-semas	de sterke	houdt	een zwakken		
++	base-semas	de speurhonden	vinden	een prooi		
++	base-semas	de kapper	scheert	klanten		
++	base-semas	de politieman	arresteert	verdachten		
++	base-semas	de leraar	onderwijst	leerlingen		
++	base-semas	de moeder	voedt	zoons		
++	base-semas	de president	commandeert	soldaten		
++	base-semas	de superieur	ontslaat	employés		
++	base-semas	de producenten	bevoorraden	een afnemer		
++	base-semas	de jongeren	bejubelen	een ster		
++	base-semas	de arts	behandelt	patiënten		
++	base-semas	de eigenares	berispt	pachters		
++	base-semas	de priester	verzorgt	kerkgangers		
++	base-semas	de examinatrice	test	examinandi		
++	base-semas	de meester	corrigeert	leerjongens		
++	amb-semas	de sterken	houden	een zwakken		
++	amb-semas	de speurhond	vindt	een prooi		
++	amb-semas	de kappers	scheren	klanten		
++	amb-semas	de politieman	arresteert	een verdachte		
++	amb-semas	de leraren	onderwijzen	leerlingen		
++	amb-semas	de moeders	voeden	zoons		
++	amb-semas	de presidenten	commanderen	soldaten		
++	amb-semas	de superieuren	ontslaan	employés		
++	amb-semas	de producenten	bevoorraden	afnemers		
++	amb-semas	de jongeren	bejubelen	sterren		
++	amb-semas	de artsen	behandelen	patiënten		
++	amb-semas	de eigenaressen	berispen	pachters		
++	amb-semas	de priester	verzorgt	een kerkganger		
++	amb-semas	de examinatrice	test	een examinandus		
++	amb-semas	de meesters	corrigeren	leerjongens		
++	aux-semas	de sterke	zal	een zwakken houden		
++	aux-semas	de speurhonden	zullen	een prooi	vinden	
++	aux-semas	de kapper	zal	klanten	scheren	
++	aux-semas	de politieman	zal	verdachten	arresteren	
++	aux-semas	de leraar	zal	leerlingen	onderwijzen	
++	aux-semas	de moeder	zal	zoons	voeden	
++	aux-semas	de president	zal	soldaten	commanderen	
++	aux-semas	de superieur	zal	employés	ontslaan	
++	aux-semas	de producenten	zullen	een afnemer	bevoorraden	
++	aux-semas	de jongeren	zullen	een ster	bejubelen	
++	aux-semas	de arts	zal	patiënten	behandelen	
++	aux-semas	de eigenares	zal	pachters	berispen	
++	aux-semas	de priester	zal	kerkgangers	verzorgen	
++	aux-semas	de examinatrice	zal	examinandi	testen	
++	aux-semas	de meester	zal	leerjongens	corrigeren	
++	oneg-semas	de sterke	houdt	geen zwakken		
++	oneg-semas	de speurhonden	vinden	geen prooi		
++	oneg-semas	de kapper	scheert	geen klanten		
++	oneg-semas	de politieman	arresteert	geen verdachten		
++	oneg-semas	de leraar	onderwijst	geen leerlingen		
++	oneg-semas	de moeder	voedt	geen zoons		
++	oneg-semas	de president	commandeert	geen soldaten		
++	oneg-semas	de superieur	ontslaat	geen employés		
++	oneg-semas	de producenten	bevoorraden	geen afnemer		
++	oneg-semas	de jongeren	bejubelen	geen ster		
++	oneg-semas	de arts	behandelt	geen patiënten		
++	oneg-semas	de eigenares	berispt	geen pachters		
++	oneg-semas	de priester	verzorgt	geen kerkgangers		
++	oneg-semas	de examinatrice	test	geen examinandi		
++	oneg-semas	de meester	corrigeert	geen leerjongens		
++	pp-semas	de sterke	houdt	een zwakken	in een week	
++	pp-semas	de speurhonden	vinden	een prooi	in een week	
++	pp-semas	de kapper	scheert	klanten	in een week	
++	pp-semas	de politieman	arresteert	verdachten	in een week	
++	pp-semas	de leraar	onderwijst	leerlingen	in een week	
++	pp-semas	de moeder	voedt	zoons	in een week	
++	pp-semas	de president	commandeert	soldaten	in een week	
++	pp-semas	de superieur	ontslaat	employés	in een week	
++	pp-semas	de producenten	bevoorraden	een afnemer	in een week	
++	pp-semas	de jongeren	bejubelen	een ster	in een week	
++	pp-semas	de arts	behandelt	patiënten	in een week	
++	pp-semas	de eigenares	berispt	pachters	in een week	
++	pp-semas	de priester	verzorgt	kerkgangers	in een week	
++	pp-semas	de examinatrice	test	examinandi	in een week	
++	pp-semas	de meester	corrigeert	leerjongens	in een week	
++	regpol-semas	de parochie	houdt	een zwakken		
++	regpol-semas	de meute	vindt	prooien		
++	regpol-semas	het kappersteam	scheert	klanten		
++	regpol-semas	de politie	arresteert	verdachten		
++	regpol-semas	de school	onderwijst	leerlingen		
++	regpol-semas	de clan	voedt	zoons		
++	regpol-semas	de staat	commandeert	soldaten		
++	regpol-semas	het bestuur	ontslaat	employés		
++	regpol-semas	de handel	bevoorraadt	afnemers		
++	regpol-semas	de menigte	bejubelt	sterren		
++	regpol-semas	de praktijk	behandelt	patiënten		
++	regpol-semas	de vereniging van eigenaars	berispt	pachters		
++	regpol-semas	de kerk	verzorgt	kerkgangers		
++	regpol-semas	het instituut	test	examinandi		
++	regpol-semas	het opleidingsbedrijf	corrigeert	leerjongens		
++	base-noref	de generaals	beginnen	niets		
++	base-noref	de partners	leven	niets		
++	base-noref	de journalisten	synchroniseren	niets		
++	base-noref	de vriendinnen	spelen	niets		
++	base-noref	de voorbijgangers	bekogelen	niets		
++	base-noref	de kinderen	vinden	niets		
++	base-noref	de lezers	bestellen	niets		
++	base-noref	de heren	scheren	niets		
++	base-noref	de mama’s	drinken	niets		
++	base-noref	de schrijvers	schrijven	niets		
++	base-noref	de politici	beëindigen	niets		
++	base-noref	de parlementsleden	krijgen	niets		
++	base-noref	de boeren	bouwen	niets		
++	base-noref	de sportvrouwen	winnen	niets		
++	base-noref	de ambachtsmannen	nemen	niets		
++	amb-noref	de generaal	begint	niets		
++	amb-noref	de partner	leeft	niets		
++	amb-noref	de journalist	synchroniseert	niets		
++	amb-noref	de vriendin	speelt	niets		
++	amb-noref	de voorbijganger	bekogelt	niets		
++	amb-noref	het kind	vindt	niets		
++	amb-noref	de lezer	bestelt	niets		
++	amb-noref	de heer	scheert	niets		
++	amb-noref	de mama	drinkt	niets		
++	amb-noref	de schrijver	schrijft	niets		
++	amb-noref	de politicus	beëindigt	niets		
++	amb-noref	het parlementslid	krijgt	niets		
++	amb-noref	de boer	bouwt	niets		
++	amb-noref	de sportvrouw	wint	niets		
++	amb-noref	de ambachtsman	neemt	niets		
++	aux-noref	de generaals	zullen	niets	beginnen	
++	aux-noref	de partners	zullen	niets	leven	
++	aux-noref	de journalisten	zullen	niets	synchroniseren	
++	aux-noref	de vriendinnen	zullen	niets	spelen	
++	aux-noref	de voorbijgangers	zullen	niets	bekogelen	
++	aux-noref	de kinderen	zullen	niets	vinden	
++	aux-noref	de lezers	zullen	niets	bestellen	
++	aux-noref	de heren	zullen	niets	scheren	
++	aux-noref	de mama’s	zullen	niets	drinken	
++	aux-noref	de schrijvers	zullen	niets	schrijven	
++	aux-noref	de politici	zullen	niets	beëindigen	
++	aux-noref	de parlementsleden	zullen	niets	krijgen	
++	aux-noref	de boeren	zullen	niets	bouwen	
++	aux-noref	de sportvrouwen	zullen	niets	winnen	
++	aux-noref	de ambachtsmannen	zullen	niets	nemen	
++	spron-noref	hij	begint	niets		
++	spron-noref	ze	leven	niets		
++	spron-noref	hij	synchroniseert	niets		
++	spron-noref	we	spelen	niets		
++	spron-noref	hij	bekogelt	niets		
++	spron-noref	ze	vinden	niets		
++	spron-noref	ik	bestel	niets		
++	spron-noref	jullie	scheren	niets		
++	spron-noref	jullie	drinken	niets		
++	spron-noref	hij	schrijft	niets		
++	spron-noref	we	beëindigen	niets		
++	spron-noref	jullie	krijgen	niets		
++	spron-noref	we	bouwen	niets		
++	spron-noref	jullie	winnen	niets		
++	spron-noref	hij	neemt	niets		
++	sinan-noref	de quota	vermijden	niets		
++	sinan-noref	de gassen	schenden	niets		
++	sinan-noref	de muurreliëfs	roepen	niets		
++	sinan-noref	de werken	brengen	niets		
++	sinan-noref	de bekentenissen	veranderen	niets		
++	sinan-noref	de cyclonen	raken	niets		
++	sinan-noref	de vliegdekschepen	verlaten	niets		
++	sinan-noref	de orkanen	vernietigen	niets		
++	sinan-noref	de video-installaties	vormen	niets		
++	sinan-noref	de aanvragen	eisen	niets		
++	sinan-noref	de lekken	betekenen	niets		
++	sinan-noref	de bomen	blokkeren	niets		
++	sinan-noref	de ideeën	ontplooien	niets		
++	sinan-noref	het afzetgebieden	openen	niets		
++	sinan-noref	de films	stichten	niets		
++	oan-noref	de bestuursvoorzitters	benoemen	niemand		
++	oan-noref	de televisiereporters	interviewen	niemand		
++	oan-noref	de fokkers	voeden	niemand		
++	oan-noref	de katten	krabben	niemand		
++	oan-noref	de obers	beroeren	niemand		
++	oan-noref	de HR-managers	accepteren	niemand		
++	oan-noref	de componisten	imiteren	niemand		
++	oan-noref	de huurders	huren	niemand		
++	oan-noref	de 18-jarigen	verwonden	niemand		
++	oan-noref	de Zwitsers	dirigeren	niemand		
++	oan-noref	de fotografen	beschrijven	niemand		
++	oan-noref	de ingenieurs	leiden	niemand		
++	oan-noref	de deskundigen	bezoeken	niemand		
++	oan-noref	de pioniersters	behoeven	niemand		
++	oan-noref	de brandweermannen	bevrijden	niemand		
++	invan-noref	de schulden	treffen	niemand		
++	invan-noref	de schoenen	drukken	niemand		
++	invan-noref	de deadlines	dringen	niemand		
++	invan-noref	de kachels	verwarmen	niemand		
++	invan-noref	de buien	doordrenken	niemand		
++	invan-noref	de camera’s	begeleiden	niemand		
++	invan-noref	de complexen	beschermen	niemand		
++	invan-noref	de aangiften	betreffen	niemand		
++	invan-noref	de zonnen	verblinden	niemand		
++	invan-noref	de treinen	vervoeren	niemand		
++	invan-noref	de rugleuningen	steunen	niemand		
++	invan-noref	de broeken	knijpen	niemand		
++	regpol-noref	de kantoren	beginnen	niets		
++	regpol-noref	de winkels	leven	niets		
++	regpol-noref	de reclamebureaus	synchroniseren	niets		
++	regpol-noref	de gemeenten	spelen	niets		
++	regpol-noref	de dorpen	bekogelen	niets		
++	regpol-noref	de bureaus	vinden	niets		
++	regpol-noref	de praktijken	bestellen	niets		
++	regpol-noref	de kapsalons	scheren	niets		
++	regpol-noref	de instituten	schrijven	niets		
++	regpol-noref	de districtskantoren	beëindigen	niets		
++	regpol-noref	de scholen	krijgen	niets		
++	regpol-noref	de garages	bouwen	niets		
++	regpol-noref	de universiteiten	winnen	niets		
++	regpol-noref	de concerns	nemen	niets		
+*	snp-noref	AkzoNobel	begint	niets		
+*	snp-noref	Balazs	leeft	niets		
+*	snp-noref	Mercedes	synchroniseert	niets		
+*	snp-noref	NPO 1	speelt	niets		
+*	snp-noref	Degas	bekogelt	niets		
+*	snp-noref	Staf Coppens	vindt	niets		
+*	snp-noref	Harry	bestelt	niets		
+*	snp-noref	Gillette	scheert	niets		
+*	snp-noref	Clooney	drinkt	niets		
+*	snp-noref	Han Voskuil	schrijft	niets		
+*	snp-noref	Rutte	beëindigt	niets		
+*	snp-noref	Vietnam	krijgt	niets		
+*	snp-noref	Anouk	bouwt	niets		
+*	snp-noref	Nijmegen	wint	niets		
+*	snp-noref	Essent NV	neemt	niets		
 +	base-psy	de aanval	boeit	generaals		
 +	base-psy	het dubbelleven	verveelt	partners		
 +	base-psy	de opnames	bezielen	een journalist		
@@ -1128,21 +1128,21 @@
 +	pp-psy	de hekken	berouwen	een boer	in een week	
 +	pp-psy	de toer	amuseert	sportvrouwen	in een week	
 +	pp-psy	de constructies	vermaken	een ambachtsman	in een week	
-+	sinst-psy	de aanvallen	boeien	een kantoor		
-+	sinst-psy	het dubbelleven	verveelt	winkels		
-+	sinst-psy	de opnames	bezielen	een reclamebureau		
-+	sinst-psy	de droombruiloften	vertoornen	een gemeente		
-+	sinst-psy	de kunstwerken	fascineren	een dorp		
-+	sinst-psy	de oplossingen	bewegen	een bureau		
-+	sinst-psy	de tijdschriften	beangstigen	een praktijk		
-+	sinst-psy	de baarden	verbazen	een kapsalon		
-+	sinst-psy	de kopjes koffie	bevallen	een personeel		
-+	sinst-psy	de romans	frustreren	een instituut		
-+	sinst-psy	de toespraken	agiteren	een districtskantoor		
-+	sinst-psy	het basissalaris	beschaamt	scholen		
-+	sinst-psy	het hek	berouwt	een garages		
-+	sinst-psy	de toer	amuseert	universiteiten		
-+	sinst-psy	de constructies	vermaken	een concern		
++	regpol-psy	de aanvallen	boeien	een kantoor		
++	regpol-psy	het dubbelleven	verveelt	winkels		
++	regpol-psy	de opnames	bezielen	een reclamebureau		
++	regpol-psy	de droombruiloften	vertoornen	een gemeente		
++	regpol-psy	de kunstwerken	fascineren	een dorp		
++	regpol-psy	de oplossingen	bewegen	een bureau		
++	regpol-psy	de tijdschriften	beangstigen	een praktijk		
++	regpol-psy	de baarden	verbazen	een kapsalon		
++	regpol-psy	de kopjes koffie	bevallen	een personeel		
++	regpol-psy	de romans	frustreren	een instituut		
++	regpol-psy	de toespraken	agiteren	een districtskantoor		
++	regpol-psy	het basissalaris	beschaamt	scholen		
++	regpol-psy	het hek	berouwt	een garages		
++	regpol-psy	de toer	amuseert	universiteiten		
++	regpol-psy	de constructies	vermaken	een concern		
 +	snp-psy	de aanvallen	boeien	Mercedes		
 +	snp-psy	de dubbellevens	vervelen	AkzoNobel		
 +	snp-psy	de droombruiloften	vertoornen	Harry		
@@ -1158,36 +1158,36 @@
 +	snp-psy	de hekken	berouwen	Anouk		
 +	snp-psy	de toeren	amuseren	Nijmegen		
 +	snp-psy	de constructies	vermaken	Essent NV		
-+	sodir-psy	de zwakke	verveelt	een sterken		
-+	sodir-psy	de prooi	boeit	een speurhonden		
-+	sodir-psy	de afnemer	vertoornt	producenten		
-+	sodir-psy	de ster	fascineert	een jongeren		
-+	sodir-psy	de zoons	bewegen	een moeder		
-+	sodir-psy	de klanten	beangstigen	een kapper		
-+	sodir-psy	de leerlingen	verbasen	een leraar		
-+	sodir-psy	de employés	bevallen	een superieur		
-+	sodir-psy	de verdachten	frustreren	een politieman		
-+	sodir-psy	de soldaten	agiteren	een president		
-+	sodir-psy	de patiënten	amuseren	een arts		
-+	sodir-psy	de pachters	berouwen	een eigenares		
-+	sodir-psy	de kerkgangers	beschamen	een priester		
-+	sodir-psy	de examinandi	vermaken	een examinatrice		
-+	sodir-psy	de leerjongens	bezielen	een meester		
-+	oempt-psy	de aanvallen	boeien	niemand		
-+	oempt-psy	de dubbellevens	vervelen	niemand		
-+	oempt-psy	de opnames	bezielen	niemand		
-+	oempt-psy	de droombruiloften	vertoornen	niemand		
-+	oempt-psy	de kunstwerken	fascineren	niemand		
-+	oempt-psy	de oplossingen	bewegen	niemand		
-+	oempt-psy	de tijdschriften	beangstigen	niemand		
-+	oempt-psy	de baarden	verbazen	niemand		
-+	oempt-psy	de kopjes koffie	bevallen	niemand		
-+	oempt-psy	de romans	frustreren	niemand		
-+	oempt-psy	de toespraken	agiteren	niemand		
-+	oempt-psy	de basissalarissen	beschamen	niemand		
-+	oempt-psy	de hekken	berouwen	niemand		
-+	oempt-psy	de toeren	amuseren	niemand		
-+	oempt-psy	de constructies	vermaken	niemand		
++	semas-psy	de zwakke	verveelt	een sterken		
++	semas-psy	de prooi	boeit	een speurhonden		
++	semas-psy	de afnemer	vertoornt	producenten		
++	semas-psy	de ster	fascineert	een jongeren		
++	semas-psy	de zoons	bewegen	een moeder		
++	semas-psy	de klanten	beangstigen	een kapper		
++	semas-psy	de leerlingen	verbasen	een leraar		
++	semas-psy	de employés	bevallen	een superieur		
++	semas-psy	de verdachten	frustreren	een politieman		
++	semas-psy	de soldaten	agiteren	een president		
++	semas-psy	de patiënten	amuseren	een arts		
++	semas-psy	de pachters	berouwen	een eigenares		
++	semas-psy	de kerkgangers	beschamen	een priester		
++	semas-psy	de examinandi	vermaken	een examinatrice		
++	semas-psy	de leerjongens	bezielen	een meester		
++	noref-psy	de aanvallen	boeien	niemand		
++	noref-psy	de dubbellevens	vervelen	niemand		
++	noref-psy	de opnames	bezielen	niemand		
++	noref-psy	de droombruiloften	vertoornen	niemand		
++	noref-psy	de kunstwerken	fascineren	niemand		
++	noref-psy	de oplossingen	bewegen	niemand		
++	noref-psy	de tijdschriften	beangstigen	niemand		
++	noref-psy	de baarden	verbazen	niemand		
++	noref-psy	de kopjes koffie	bevallen	niemand		
++	noref-psy	de romans	frustreren	niemand		
++	noref-psy	de toespraken	agiteren	niemand		
++	noref-psy	de basissalarissen	beschamen	niemand		
++	noref-psy	de hekken	berouwen	niemand		
++	noref-psy	de toeren	amuseren	niemand		
++	noref-psy	de constructies	vermaken	niemand		
 +	base-vlight	de mens	maakt	fouten		
 +	base-vlight	de boef	begaat	misdaden		
 +	base-vlight	de bazin	neemt	beslissingen		
@@ -1291,21 +1291,21 @@
 +	sinan-vlight	de ritssluitingen	bieden	weerstand		
 +	sinan-vlight	de boeken	verdelen	rollen		
 +	sinan-vlight	de verslagen	bepalen	hun houding		
-+	sinst-vlight	de praktijk	maakt	fouten		
-+	sinst-vlight	de winkel	begaat	misdaden		
-+	sinst-vlight	het districtskantoor	neemt	beslissingen		
-+	sinst-vlight	het reclamebureau	plaatst	orders		
-+	sinst-vlight	de redactie	stelt	vragen		
-+	sinst-vlight	het kapsalon	doet	verzoeken		
-+	sinst-vlight	de dorpen	hebben	geluk		
-+	sinst-vlight	de instituten	houden	rekening		
-+	sinst-vlight	de gemeenten	nemen	afscheid		
-+	sinst-vlight	de scholen	blazen	een aftocht		
-+	sinst-vlight	de bureaus	leveren	kritiek		
-+	sinst-vlight	de kantoren	bieden	weerstand		
-+	sinst-vlight	de universiteit	verdeelt	rollen		
-+	sinst-vlight	de garages	vervullen	een hoop		
-+	sinst-vlight	de concerns	bepalen	hun houding		
++	regpol-vlight	de praktijk	maakt	fouten		
++	regpol-vlight	de winkel	begaat	misdaden		
++	regpol-vlight	het districtskantoor	neemt	beslissingen		
++	regpol-vlight	het reclamebureau	plaatst	orders		
++	regpol-vlight	de redactie	stelt	vragen		
++	regpol-vlight	het kapsalon	doet	verzoeken		
++	regpol-vlight	de dorpen	hebben	geluk		
++	regpol-vlight	de instituten	houden	rekening		
++	regpol-vlight	de gemeenten	nemen	afscheid		
++	regpol-vlight	de scholen	blazen	een aftocht		
++	regpol-vlight	de bureaus	leveren	kritiek		
++	regpol-vlight	de kantoren	bieden	weerstand		
++	regpol-vlight	de universiteit	verdeelt	rollen		
++	regpol-vlight	de garages	vervullen	een hoop		
++	regpol-vlight	de concerns	bepalen	hun houding		
 +	snp-vlight	Mercedes	maakt	fouten		
 +	snp-vlight	AkzoNobel	begaat	misdaden		
 +	snp-vlight	Harry	neemt	beslissingen		
@@ -1471,21 +1471,21 @@
 +	invan-syn	de rugleuning	ondersteunt	kantoorbedienden		
 +	invan-syn	de broek	knelt	entertainers		
 +	invan-syn	de landbouw	dreigt	bijen		
-+	sinst-syn	het kantoor	start	aanvallen		
-+	sinst-syn	de winkels	leiden	een dubbelleven		
-+	sinst-syn	het reclamebureau	dubt	opnames		
-+	sinst-syn	de gemeente	ensceneert	droombruiloften		
-+	sinst-syn	het dorp	begooit	kunstwerken		
-+	sinst-syn	het bureau	raadt	oplossingen		
-+	sinst-syn	de praktijk	bezorgt	tijdschriften		
-+	sinst-syn	het kapsalon	knipt	baarden		
-+	sinst-syn	de redactie	slurpt	kopjes koffie		
-+	sinst-syn	de instituut	noteert	romans		
-+	sinst-syn	het districtskantoor	eindigt	toespraken		
-+	sinst-syn	de scholen	ontvangen	een basissalaris		
-+	sinst-syn	de garage	construeert	hekken		
-+	sinst-syn	de universiteiten	behalen	een toer		
-+	sinst-syn	het concern	bestrijdt	constructies		
++	regpol-syn	het kantoor	start	aanvallen		
++	regpol-syn	de winkels	leiden	een dubbelleven		
++	regpol-syn	het reclamebureau	dubt	opnames		
++	regpol-syn	de gemeente	ensceneert	droombruiloften		
++	regpol-syn	het dorp	begooit	kunstwerken		
++	regpol-syn	het bureau	raadt	oplossingen		
++	regpol-syn	de praktijk	bezorgt	tijdschriften		
++	regpol-syn	het kapsalon	knipt	baarden		
++	regpol-syn	de redactie	slurpt	kopjes koffie		
++	regpol-syn	de instituut	noteert	romans		
++	regpol-syn	het districtskantoor	eindigt	toespraken		
++	regpol-syn	de scholen	ontvangen	een basissalaris		
++	regpol-syn	de garage	construeert	hekken		
++	regpol-syn	de universiteiten	behalen	een toer		
++	regpol-syn	het concern	bestrijdt	constructies		
 +	snp-syn	AkzoNobel	start	aanvallen		
 +	snp-syn	Balazs	leidt	dubbellevens		
 +	snp-syn	Mercedes	dubt	opnames		
@@ -1501,36 +1501,36 @@
 +	snp-syn	Anouk	construeert	hekken		
 +	snp-syn	Nijmegen	behaalt	toeren		
 +	snp-syn	Essent NV	bestrijdt	constructies		
-+	sodir-syn	de sterke	ondersteunt	een zwakken		
-+	sodir-syn	de speurhonden	raden	een prooi		
-+	sodir-syn	de kapper	knipt	klanten		
-+	sodir-syn	de politieman	vat	verdachten		
-+	sodir-syn	de leraar	leert	leerlingen		
-+	sodir-syn	de moeder	stilt	zoons		
-+	sodir-syn	de president	beveelt	soldaten		
-+	sodir-syn	de superieur	suspendeert	employés		
-+	sodir-syn	de producenten	verzorgen	een afnemer		
-+	sodir-syn	de jongeren	vieren	een ster		
-+	sodir-syn	de arts	geneest	patiënten		
-+	sodir-syn	de eigenares	berispt	pachters		
-+	sodir-syn	de priester	begeleidt	kerkgangers		
-+	sodir-syn	de examinatrice	examineert	examinandi		
-+	sodir-syn	de meester	verbetert	leerjongens		
-+	oempt-syn	de generaals	starten	niets		
-+	oempt-syn	de partners	leiden	niets		
-+	oempt-syn	de journalisten	dubben	niets		
-+	oempt-syn	de vriendinnen	ensceneren	niets		
-+	oempt-syn	de voorbijgangers	begooien	niets		
-+	oempt-syn	de kinderen	raden	niets		
-+	oempt-syn	de lezers	bezorgen	niets		
-+	oempt-syn	de heren	knippen	niets		
-+	oempt-syn	de mama’s	slurpen	niets		
-+	oempt-syn	de schrijvers	noteren	niets		
-+	oempt-syn	de politici	eindigen	niets		
-+	oempt-syn	de parlementsleden	ontvangen	niets		
-+	oempt-syn	de boeren	construeren	niets		
-+	oempt-syn	de sportvrouwen	behalen	niets		
-+	oempt-syn	de ambachtsmannen	bestrijden	niets		
++	semas-syn	de sterke	ondersteunt	een zwakken		
++	semas-syn	de speurhonden	raden	een prooi		
++	semas-syn	de kapper	knipt	klanten		
++	semas-syn	de politieman	vat	verdachten		
++	semas-syn	de leraar	leert	leerlingen		
++	semas-syn	de moeder	stilt	zoons		
++	semas-syn	de president	beveelt	soldaten		
++	semas-syn	de superieur	suspendeert	employés		
++	semas-syn	de producenten	verzorgen	een afnemer		
++	semas-syn	de jongeren	vieren	een ster		
++	semas-syn	de arts	geneest	patiënten		
++	semas-syn	de eigenares	berispt	pachters		
++	semas-syn	de priester	begeleidt	kerkgangers		
++	semas-syn	de examinatrice	examineert	examinandi		
++	semas-syn	de meester	verbetert	leerjongens		
++	noref-syn	de generaals	starten	niets		
++	noref-syn	de partners	leiden	niets		
++	noref-syn	de journalisten	dubben	niets		
++	noref-syn	de vriendinnen	ensceneren	niets		
++	noref-syn	de voorbijgangers	begooien	niets		
++	noref-syn	de kinderen	raden	niets		
++	noref-syn	de lezers	bezorgen	niets		
++	noref-syn	de heren	knippen	niets		
++	noref-syn	de mama’s	slurpen	niets		
++	noref-syn	de schrijvers	noteren	niets		
++	noref-syn	de politici	eindigen	niets		
++	noref-syn	de parlementsleden	ontvangen	niets		
++	noref-syn	de boeren	construeren	niets		
++	noref-syn	de sportvrouwen	behalen	niets		
++	noref-syn	de ambachtsmannen	bestrijden	niets		
 +	psy-syn	de aanval	pakt	generaals		
 +	psy-syn	het dubbelleven	vermoeit	partners		
 +	psy-syn	de opnames	interesseren	een journalist		
