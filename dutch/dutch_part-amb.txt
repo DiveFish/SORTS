@@ -133,7 +133,7 @@
 +	amb-opron	de boeren	bouwen	ze		
 +	amb-opron	de sportvrouwen	winnen	ze		
 +	amb-opron	de ambachtsmannen	nemen	ze		
-+	aux-opron	de generaal	zal	hem	starten	
++	aux-opron	de generaal	zal	hem	beginnen	
 +	aux-opron	de partners	zullen	haar	leven	
 +	aux-opron	de journalist	zal	hem	synchroniseren	
 +	aux-opron	de vriendinnen	zullen	haar	spelen	
@@ -329,7 +329,7 @@
 +	base-sinan	het afzetgebied	opent	mogelijkheden		
 +	base-sinan	de films	stichten	een herstart		
 +	amb-sinan	het quotum	vermijdt	een argument		
-+	amb-sinan	de cyclonen	raken	een kuststroken		
++	amb-sinan	de cyclonen	raken	kuststroken
 +	amb-sinan	de gassen	schenden	mensenrechten		
 +	amb-sinan	het muurreliëf	roept	een hallo		
 +	amb-sinan	de video-installatie	vormt	een afsluiting		
@@ -416,7 +416,7 @@
 +	base-oan	de ingenieur	leidt	cursisten		
 +	base-oan	de deskundigen	bezoeken	een burgemeesteres		
 +	base-oan	de pioniersters	behoeven	een tolk		
-+	base-oan	de brandweerman	bevrijdt	een behoeftigen		
++	base-oan	de brandweermannen	bevrijden	een behoeftige
 +	amb-oan	de bestuursvoorzitters	benoemen	vertegenwoordigers		
 +	amb-oan	de televisiereporter	interviewt	een ECB-bazin		
 +	amb-oan	de fokkers	voeden	spinnen		
@@ -431,7 +431,7 @@
 +	amb-oan	de ingenieurs	leiden	cursisten		
 +	amb-oan	de deskundige	bezoekt	een burgemeesteres		
 +	amb-oan	de pioniersters	behoeven	tolken		
-+	amb-oan	de brandweermannen	bevrijden	een behoeftigen		
++	amb-oan	de brandweerman	bevrijdt	een behoeftige
 +	aux-oan	de bestuursvoorzitter	zal	vertegenwoordigers	benoemen	
 +	aux-oan	de televisiereporters	zullen	een ECB-bazin	interviewen	
 +	aux-oan	de fokker	zal	spinnen	voeden	
@@ -446,7 +446,7 @@
 +	aux-oan	de ingenieur	zal	cursisten	leiden	
 +	aux-oan	de deskundigen	zullen	een burgemeesteres	bezoeken	
 +	aux-oan	de pioniersters	zullen	een tolk	behoeven	
-+	aux-oan	de brandweerman	zal	een behoeftigen	bevrijden	
++	aux-oan	de brandweermannen	zullen	een behoeftige	bevrijden
 +	spron-oan	hij	benoemt	een vertegenwoordiger		
 +	spron-oan	ze	interviewen	een ECB-bazin		
 +	spron-oan	hij	voedt	spinnen		
@@ -461,7 +461,7 @@
 +	spron-oan	je	leidt	cursisten		
 +	spron-oan	we	bezoeken	een burgemeesteres		
 +	spron-oan	jullie	behoeven	een tolk		
-+	spron-oan	je	bevrijdt	een behoeftigen		
++	spron-oan	ze	bevrijden	een behoeftige
 +	oneg-oan	de bestuursvoorzitter	benoemt	geen vertegenwoordigers		
 +	oneg-oan	de televisiereporters	interviewen	geen ECB-bazin		
 +	oneg-oan	de fokker	voedt	geen spinnen		
@@ -476,10 +476,10 @@
 +	oneg-oan	de ingenieur	leidt	geen cursisten		
 +	oneg-oan	de deskundigen	bezoeken	geen burgemeesteres		
 +	oneg-oan	de pioniersters	behoeven	geen tolk		
-+	oneg-oan	de brandweerman	bevrijdt	geen behoeftigen		
-+	sinan-oan	het quotum	vermijdt	een vrouwen		
-+	sinan-oan	de cycloon	raakt	een kustbewoners		
-+	sinan-oan	het gas	schendt	een dokters		
++	oneg-oan	de brandweermannen	bevrijden	geen behoeftige
++	sinan-oan	het quotum	vermijdt	vrouwen
++	sinan-oan	de cycloon	raakt	kustbewoners
++	sinan-oan	het gas	schendt	dokters
 +	sinan-oan	het muurreliëf	roept	schilders		
 +	sinan-oan	de video-installaties	vormen	een waarnemer		
 +	sinan-oan	de aanvraag	eist	voorstanders		
@@ -696,7 +696,7 @@
 +	oan-regpol	het districtskantoor	leidt	cursisten		
 +	oan-regpol	de scholen	bezoeken	een burgemeesteres		
 +	oan-regpol	het concern	behoeft	tolken		
-+	oan-regpol	de universiteit	bevrijdt	een behoeftigen		
++	oan-regpol	de universiteit	bevrijdt	een behoeftige
 +	base-snp	AkzoNobel	begint	aanvallen		
 +	base-snp	Balazs	leeft	dubbellevens		
 +	base-snp	Mercedes	synchroniseert	opnames		
@@ -801,7 +801,7 @@
 +	oan-snp	Essent NV	leidt	cursisten		
 +	oan-snp	Degas	bezoekt	een burgemeesteressen		
 +	oan-snp	Nijmegen	behoeft	tolken		
-+	oan-snp	Vietnam	bevrijdt	een behoeftigen		
++	oan-snp	Vietnam	bevrijdt	behoeftigen
 +	base-semas	de sterke	houdt	een zwakken		
 +	base-semas	de speurhonden	vinden	een prooi		
 +	base-semas	de kapper	scheert	klanten		
@@ -1455,7 +1455,7 @@
 +	oan-syn	de ingenieur	instrueert	cursisten		
 +	oan-syn	de deskundigen	raadplegen	een burgemeesteres		
 +	oan-syn	de pioniersters	benodigen	een tolk		
-+	oan-syn	de brandweerman	redt	een behoeftigen		
++	oan-syn	de brandweermannen	redden	een behoeftige
 +	invan-syn	de koppigheid	grijpt	badmeesters		
 +	invan-syn	de schuld	betreft	werknemers		
 +	invan-syn	de schoen	smart	joggers		
