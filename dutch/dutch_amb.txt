@@ -1,0 +1,1354 @@
++	base-acc	de generaals	beginnen	aanvallen		
++	base-acc	de partner	leeft	een dubbelleven		
++	base-acc	de journalisten	synchroniseren	opnames		
++	base-acc	de vriendin	speelt	een droombruiloft		
++	base-acc	de voorbijgangers	bekogelen	kunstwerken		
++	base-acc	het kind	vindt	een oplossing		
++	base-acc	de lezers	bestellen	tijdschriften		
++	base-acc	de heren	scheren	baarden		
++	base-acc	de mama’s	drinken	kopjes koffie		
++	base-acc	de schrijvers	schrijven	romans		
++	base-acc	de politicus	beëindigt	een toespraak		
++	base-acc	het parlementslid	krijgt	een basissalaris		
++	base-acc	de boeren	bouwen	hekken		
++	base-acc	de sportvrouw	wint	een toer		
++	base-acc	de ambachtsmannen	nemen	constructies		
++	base-aux	de generaals	zullen	aanvallen	beginnen	
++	base-aux	de partner	zal	een dubbelleven	leven	
++	base-aux	de journalisten	zullen	opnames	synchroniseren	
++	base-aux	de vriendin	zal	een droombruiloft	spelen	
++	base-aux	de voorbijgangers	zullen	kunstwerken	bekogelen	
++	base-aux	het kind	zal	een oplossing	vinden	
++	base-aux	de lezers	zullen	tijdschriften	bestellen	
++	base-aux	de heren	zullen	baarden	scheren	
++	base-aux	de mama’s	zullen	kopjes koffie	drinken	
++	base-aux	de schrijvers	zullen	romans	schrijven	
++	base-aux	de politicus	zal	een toespraak	beëindigen	
++	base-aux	het parlementslid	zal	een basissalaris	krijgen	
++	base-aux	de boeren	zullen	hekken	bouwen	
++	base-aux	de sportvrouw	zal	een toer	winnen	
++	base-aux	de ambachtsmannen	zullen	constructies	nemen	
++	base-spron	ze	beginnen	aanvallen		
++	base-spron	jullie	leven	dubbellevens		
++	base-spron	je	synchroniseert	een opname		
++	base-spron	ze	spelen	droombruiloften		
++	base-spron	ze	bekogelen	kunstwerken		
++	base-spron	jullie	vinden	oplossingen		
++	base-spron	ze	bestellen	tijdschriften		
++	base-spron	ze	scheren	baarden		
++	base-spron	ze	drinken	kopjes koffie		
++	base-spron	ze	schrijven	romans		
++	base-spron	jullie	beëindigen	toespraken		
++	base-spron	jullie	krijgen	basissalarissen		
++	base-spron	ze	bouwen	hekken		
++	base-spron	je	wint	een toer		
++	base-spron	ze	nemen	constructies		
++	aux-spron	ze	zullen	aanvallen	beginnen	
++	aux-spron	jullie	zullen	dubbellevens	leven	
++	aux-spron	ze	zal	een opname	synchroniseren	
++	aux-spron	ze	zullen	droombruiloften	spelen	
++	aux-spron	ze	zullen	kunstwerken	bekogelen	
++	aux-spron	jullie	zullen	oplossingen	vinden	
++	aux-spron	ze	zullen	tijdschriften	bestellen	
++	aux-spron	ze	zullen	baarden	scheren	
++	aux-spron	ze	zullen	kopjes koffie	drinken	
++	aux-spron	ze	zullen	romans	schrijven	
++	aux-spron	jullie	zullen	toespraken	beëindigen	
++	aux-spron	jullie	zullen	basissalarissen	krijgen	
++	aux-spron	ze	zullen	hekken	bouwen	
++	aux-spron	ze	zal	een toer	winnen	
++	aux-spron	ze	zullen	constructies	nemen
++	base-opron	de generaals	beginnen	ze		
++	base-opron	de partner	leeft	het		
++	base-opron	de journalisten	synchroniseren	ze		
++	base-opron	de vriendinnen	spelen	ze		
++	base-opron	de voorbijgangers	bekogelen	ze		
++	base-opron	het kind	vindt	het		
++	base-opron	de lezers	bestellen	ze		
++	base-opron	de heren	scheren	ze		
++	base-opron	de mama	drinkt	het		
++	base-opron	de schrijvers	schrijven	ze		
++	base-opron	de politici	beëindigen	ze		
++	base-opron	de parlementsleden	krijgen	ze		
++	base-opron	de boeren	bouwen	ze		
++	base-opron	de sportvrouwen	winnen	ze		
++	base-opron	de ambachtsmannen	nemen	ze	
++	aux-opron	de generaals	zullen	ze	beginnen	
++	aux-opron	de partner	zal	het	leven	
++	aux-opron	de journalisten	zullen	ze	synchroniseren	
++	aux-opron	de vriendinnen	zullen	ze	spelen	
++	aux-opron	de voorbijgangers	zullen	ze	bekogelen	
++	aux-opron	de kinder	zal	het	vinden	
++	aux-opron	de lezers	zullen	ze	bestellen	
++	aux-opron	de heren	zullen	ze	scheren	
++	aux-opron	de mama	zal	het	drinken	
++	aux-opron	de schrijvers	zullen	ze	schrijven	
++	aux-opron	de politici	zullen	ze	beëindigen	
++	aux-opron	de parlementsleden	zullen	ze	krijgen	
++	aux-opron	de boeren	zullen	ze	bouwen	
++	aux-opron	de sportvrouwen	zullen	ze	winnen	
++	aux-opron	de ambachtsmannen	zullen	ze	nemen	
++	spron-opron	ze	begint	het		
++	spron-opron	ze	leeft	het		
++	spron-opron	je	synchroniseert	het		
++	spron-opron	ze	speelt	het		
++	spron-opron	ze	bekogelt	het		
++	spron-opron	ze	vindt	het		
++	spron-opron	ze	bestelt	het		
++	spron-opron	ze	scheert	het		
++	spron-opron	ze	drinkt	het		
++	spron-opron	ze	schrijft	het		
++	spron-opron	ze	beëindigt	het		
++	spron-opron	ze	krijgt	het		
++	spron-opron	ze	bouwt	het		
++	spron-opron	je	wint	het		
++	spron-opron	ze	neemt	het		
++	base-oneg	de generaals	beginnen	geen aanvallen		
++	base-oneg	de partner	leeft	geen dubbelleven		
++	base-oneg	de journalisten	synchroniseren	geen opnames		
++	base-oneg	de vriendin	speelt	geen droombruiloft		
++	base-oneg	de voorbijgangers	bekogelen	geen kunstwerken		
++	base-oneg	het kind	vindt	geen oplossing		
++	base-oneg	de lezers	bestellen	geen tijdschriften		
++	base-oneg	de heren	scheren	geen baarden		
++	base-oneg	de mama’s	drinken	geen kopjes koffie		
++	base-oneg	de schrijvers	schrijven	geen romans		
++	base-oneg	de politicus	beëindigt	geen toespraak		
++	base-oneg	het parlementslid	krijgt	geen basissalaris		
++	base-oneg	de boeren	bouwen	geen hekken		
++	base-oneg	de sportvrouw	wint	geen toer		
++	base-oneg	de ambachtsmannen	nemen	geen constructies	
++	aux-oneg	de generaals	zullen	geen aanvallen	beginnen	
++	aux-oneg	de partner	zal	geen dubbelleven	leven	
++	aux-oneg	de journalisten	zullen	geen opnames	synchroniseren	
++	aux-oneg	de vriendin	zal	geen droombruiloft	spelen	
++	aux-oneg	de voorbijgangers	zullen	geen kunstwerken	bekogelen	
++	aux-oneg	het kind	zal	geen oplossing	vinden	
++	aux-oneg	de lezers	zullen	geen tijdschriften	bestellen	
++	aux-oneg	de heren	zullen	geen baarden	scheren	
++	aux-oneg	de mama’s	zullen	geen kopjes koffie	drinken	
++	aux-oneg	de schrijvers	zullen	geen romans	schrijven	
++	aux-oneg	de politicus	zal	geen toespraak	beëindigen	
++	aux-oneg	het parlementslid	zal	geen basissalaris	krijgen	
++	aux-oneg	de boeren	zullen	geen hekken	bouwen	
++	aux-oneg	de sportvrouw	zal	geen toer	winnen	
++	aux-oneg	de ambachtsmannen	zullen	geen constructies	nemen
++	spron-oneg	ze	beginnen	geen aanvallen		
++	spron-oneg	jullie	leven	geen dubbellevens		
++	spron-oneg	je	synchroniseert	geen opname		
++	spron-oneg	ze	spelen	geen droombruiloften		
++	spron-oneg	ze	bekogelen	geen kunstwerken		
++	spron-oneg	jullie	vinden	geen oplossingen		
++	spron-oneg	ze	bestellen	geen tijdschriften		
++	spron-oneg	ze	scheren	geen baarden		
++	spron-oneg	ze	drinken	geen kopjes koffie		
++	spron-oneg	ze	schrijven	geen romans		
++	spron-oneg	jullie	beëindigen	geen toespraken		
++	spron-oneg	jullie	krijgen	geen basissalarissen		
++	spron-oneg	ze	bouwen	geen hekken		
++	spron-oneg	je	wint	geen toer		
++	spron-oneg	ze	nemen	geen constructies	
++	base-pp	de generaals	beginnen	aanvallen	in een week	
++	base-pp	de partner	leeft	een dubbelleven	in een week	
++	base-pp	de journalisten	synchroniseren	opnames	in een week	
++	base-pp	de vriendin	speelt	een droombruiloft	in een week	
++	base-pp	de voorbijgangers	bekogelen	kunstwerken	in een week	
++	base-pp	het kind	vindt	een oplossing	in een week	
++	base-pp	de lezers	bestellen	tijdschriften	in een week	
++	base-pp	de heren	scheren	baarden	in een week	
++	base-pp	de mama’s	drinken	kopjes koffie	in een week	
++	base-pp	de schrijvers	schrijven	romans	in een week	
++	base-pp	de politicus	beëindigt	een toespraak	in een week	
++	base-pp	het parlementslid	krijgt	een basissalaris	in een week	
++	base-pp	de boeren	bouwen	hekken	in een week	
++	base-pp	de sportvrouw	wint	een toer	in een week	
++	base-pp	de ambachtsmannen	nemen	constructies	in een week	
++	aux-pp	de generaals	zullen	aanvallen	beginnen	in een week
++	aux-pp	de partner	zal	een dubbelleven	leven	in een week
++	aux-pp	de journalisten	zullen	opnames	synchroniseren	in een week
++	aux-pp	de vriendin	zal	een droombruiloft	spelen	in een week
++	aux-pp	de voorbijgangers	zullen	kunstwerken	bekogelen	in een week
++	aux-pp	het kind	zal	een oplossing	vinden	in een week
++	aux-pp	de lezers	zullen	tijdschriften	bestellen	in een week
++	aux-pp	de heren	zullen	baarden	scheren	in een week
++	aux-pp	de mama’s	zullen	kopjes koffie	drinken	in een week
++	aux-pp	de schrijvers	zullen	romans	schrijven	in een week
++	aux-pp	de politicus	zal	een toespraak	beëindigen	in een week
++	aux-pp	het parlementslid	zal	een basissalaris	krijgen	in een week
++	aux-pp	de boeren	zullen	hekken	bouwen	in een week
++	aux-pp	de sportvrouw	zal	een toer	winnen	in een week
++	aux-pp	de ambachtsmannen	zullen	constructies	nemen	in een week
++	spron-pp	ze	beginnen	aanvallen	in een week	
++	spron-pp	jullie	leven	dubbellevens	in een week	
++	spron-pp	je	synchroniseert	een opname	in een week	
++	spron-pp	ze	spelen	droombruiloften	in een week	
++	spron-pp	ze	bekogelen	kunstwerken	in een week	
++	spron-pp	jullie	vinden	oplossingen	in een week	
++	spron-pp	ze	bestellen	tijdschriften	in een week	
++	spron-pp	ze	scheren	baarden	in een week	
++	spron-pp	ze	drinken	kopjes koffie	in een week	
++	spron-pp	ze	schrijven	romans	in een week	
++	spron-pp	jullie	beëindigen	toespraken	in een week	
++	spron-pp	jullie	krijgen	basissalarissen	in een week	
++	spron-pp	ze	bouwen	hekken	in een week	
++	spron-pp	ze	wint	een toer	in een week	
++	spron-pp	ze	nemen	constructies	in een week
++	opron-pp	de generaals	beginnen	ze	in een week	
++	opron-pp	de partner	leeft	het	in een week	
++	opron-pp	de journalisten	synchroniseren	ze	in een week	
++	opron-pp	de vriendinnen	spelen	ze	in een week	
++	opron-pp	de voorbijgangers	bekogelen	ze	in een week	
++	opron-pp	het kind	vindt	het	in een week	
++	opron-pp	de lezers	bestellen	ze	in een week	
++	opron-pp	de heren	scheren	ze	in een week	
++	opron-pp	de mama	drinkt	het	in een week	
++	opron-pp	de schrijvers	schrijven	ze	in een week	
++	opron-pp	de politici	beëindigen	ze	in een week	
++	opron-pp	de parlementsleden	krijgen	ze	in een week	
++	opron-pp	de boeren	bouwen	ze	in een week	
++	opron-pp	de sportvrouwen	winnen	ze	in een week	
++	opron-pp	de ambachtsmannen	nemen	ze	in een week	
++	oneg-pp	de generaals	beginnen	geen aanvallen	in een week	
++	oneg-pp	de partner	leeft	geen dubbelleven	in een week	
++	oneg-pp	de journalisten	synchroniseren	geen opnames	in een week	
++	oneg-pp	de vriendin	speelt	geen droombruiloft	in een week	
++	oneg-pp	de voorbijgangers	bekogelen	geen kunstwerken	in een week	
++	oneg-pp	het kind	vindt	geen oplossing	in een week	
++	oneg-pp	de lezers	bestellen	geen tijdschriften	in een week	
++	oneg-pp	de heren	scheren	geen baarden	in een week	
++	oneg-pp	de mama’s	drinken	geen kopjes koffie	in een week	
++	oneg-pp	de schrijvers	schrijven	geen romans	in een week	
++	oneg-pp	de politicus	beëindigt	geen toespraak	in een week	
++	oneg-pp	het parlementslid	krijgt	geen basissalaris	in een week	
++	oneg-pp	de boeren	bouwen	geen hekken	in een week	
++	oneg-pp	de sportvrouw	wint	geen toer	in een week	
++	oneg-pp	de ambachtsmannen	nemen	geen constructies	in een week	
++	base-sinan	het quotum	vermijdt	een argument		
++	base-sinan	de cyclonen	raken	kuststroken		
++	base-sinan	de gassen	schenden	mensenrechten		
++	base-sinan	het muurreliëf	roept	een hallo		
++	base-sinan	de video-installatie	vormt	een afsluiting		
++	base-sinan	de aanvragen	eisen	herstelbetalingen		
++	base-sinan	het werk	brengt	een erkenning		
++	base-sinan	de bekentenis	verandert	een klimaat		
++	base-sinan	de vliegdekschepen	verlaten	havens		
++	base-sinan	de orkanen	vernietigen	plaatsen		
++	base-sinan	het lek	betekent	een einde		
++	base-sinan	de boom	blokkeert	een uitzicht		
++	base-sinan	het idee	ontplooit	een kracht		
++	base-sinan	de afzetgebieden	openen	mogelijkheden		
++	base-sinan	de film	sticht	een herstart		
++	aux-sinan	het quotum	zal	een argument	vermijden
++	aux-sinan	de cyclonen	zullen	kuststroken	raken	
++	aux-sinan	de gassen	zullen	mensenrechten	schenden
++	aux-sinan	het muurreliëf	zal	een hallo	roepen	
++	aux-sinan	de video-installatie	zal	een afsluiting	vormen	
++	aux-sinan	de aanvragen	zullen	herstelbetalingen	eisen
++	aux-sinan	het werk	zal	een erkenning	brengen	
++	aux-sinan	de bekentenis	zal	een klimaat	veranderen	
++	aux-sinan	de vliegdekschepen	zullen	havens	verlaten	
++	aux-sinan	de orkanen	zullen	plaatsen	vernietigen
++	aux-sinan	het lek	zal	een einde	betekenen	
++	aux-sinan	de boom	zal	een uitzicht	blokkeren	
++	aux-sinan	het idee	zal	een kracht	ontplooien	
++	aux-sinan	de afzetgebieden	zullen	mogelijkheden	openen	
++	aux-sinan	de film	zal	een herstart	stichten
++	opron-sinan	het quotum	vermijdt	het		
++	opron-sinan	de cycloon	raakt	het		
++	opron-sinan	het gas	schendt	het		
++	opron-sinan	het muurreliëf	roept	het		
++	opron-sinan	de video-installatie	vormt	het		
++	opron-sinan	de aanvraag	eist	het		
++	opron-sinan	het werk	brengt	het		
++	opron-sinan	de bekentenis	verandert	het		
++	opron-sinan	het vliegdekschip	verlaat	het		
++	opron-sinan	de orkaan	vernietigt	het		
++	opron-sinan	de boom	blokkeert	het		
++	opron-sinan	het idee	ontplooit	het		
++	opron-sinan	het afzetgebied	opent	het		
++	opron-sinan	de film	sticht	het	
++	oneg-sinan	het quotum	vermijdt	geen argument		
++	oneg-sinan	de cyclonen	raken	geen kuststroken	
++	oneg-sinan	de gassen	schenden	geen mensenrechten		
++	oneg-sinan	het muurreliëf	roept	geen hallo			
++	oneg-sinan	de video-installatie	vormt	geen afsluiting
++	oneg-sinan	de aanvragen	eisen	geen herstelbetalingen	
++	oneg-sinan	het werk	brengt	geen erkenning		
++	oneg-sinan	de bekentenis	verandert	geen klimaat			
++	oneg-sinan	de vliegdekschepen	verlaten	geen havens	
++	oneg-sinan	de orkanen	vernietigen	geen plaatsen	
++	oneg-sinan	het lek	betekent	geen einde		
++	oneg-sinan	de boom	blokkeert	geen uitzicht		
++	oneg-sinan	het idee	ontplooit	geen kracht		
++	oneg-sinan	de afzetgebieden	openen	geen mogelijkheden		
++	oneg-sinan	de film	sticht	geen herstart	
++	pp-sinan	het quotum	vermijdt	enn argument	in een week	
++	pp-sinan	de cyclonen	raken	kuststroken	in een week	
++	pp-sinan	de gassen	schenden	mensenrechten	in een week	
++	pp-sinan	het muurreliëf	roept	een hallo	in een week	
++	pp-sinan	de video-installatie	vormt	een afsluiting	in een week	
++	pp-sinan	de aanvragen	eisen	herstelbetalingen	in een week	
++	pp-sinan	het werk	brengt	een erkenning	in een week	
++	pp-sinan	de bekentenis	verandert	een klimaat	in een week	
++	pp-sinan	de vliegdekschepen	verlaten	havens	in een week	
++	pp-sinan	de orkanen	vernietigen	plaatsen	in een week	
++	pp-sinan	het lek	betekent	een einde	in een week	
++	pp-sinan	de boom	blokkeert	een uitzicht	in een week	
++	pp-sinan	het idee	ontplooit	een kracht	in een week	
++	pp-sinan	de afzetgebieden	openen	mogelijkheden	in een week	
++	pp-sinan	de film	sticht	een herstart	in een week	
++	base-oan	de bestuursvoorzitters	benoemen	vertegenwoordigers		
++	base-oan	de televisiereporter	interviewt	een ECB-bazin		
++	base-oan	de fokkers	voeden	spinnen		
++	base-oan	de katten	krabben	hondeneigenaren		
++	base-oan	de obers	beroeren	koks		
++	base-oan	de HR-manager	accepteert	een sollicitant		
++	base-oan	de componist	imiteert	een jazzpianist		
++	base-oan	de huurders	huren	verdelgers		
++	base-oan	de 18-jarigen	verwonden	tieners		
++	base-oan	de Zwitser	dirigeert	een orkestmusicus		
++	base-oan	de fotograaf	beschrijft	een model		
++	base-oan	de ingenieurs	leiden	cursisten		
++	base-oan	de deskundige	bezoekt	een burgemeesteres		
++	base-oan	de pioniersters	behoeven	tolken		
++	base-oan	de brandweermannen	bevrijden	behoeftigen
++	aux-oan	de bestuursvoorzitters	zullen	vertegenwoordigers	benoemen	
++	aux-oan	de televisiereporter	zal	een ECB-bazin	interviewen	
++	aux-oan	de fokkers	zullen	spinnen	voeden	
++	aux-oan	de katten	zullen	hondeneigenaren	krabben	
++	aux-oan	de obers	zullen	koks	beroeren	
++	aux-oan	de HR-manager	zal	een sollicitant	accepteren	
++	aux-oan	de componist	zal	een jazzpianist	imiteren	
++	aux-oan	de huurders	zullen	verdelgers	huren	
++	aux-oan	de 18-jarigen	zullen	tieners	verwonden	
++	aux-oan	de Zwitser	zal	een orkestmusicus	dirigeren	
++	aux-oan	de fotograaf	zal	een model	beschrijven	
++	aux-oan	de ingenieurs	zullen	cursisten	leiden	
++	aux-oan	de deskundige	zal	een burgemeesteres	bezoeken	
++	aux-oan	de pioniersters	zullen	tolken	behoeven	
++	aux-oan	de brandweermannen	zullen	behoeftigen	bevrijden	
++	spron-oan	ze	benoemen	vertegenwoordigers		
++	spron-oan	jullie	interviewen	ECB-bazinnen		
++	spron-oan	je	voeden	spinnen		
++	spron-oan	ze	krabben	hondeneigenaren		
++	spron-oan	ze	beroeren	koks		
++	spron-oan	jullie	accepteren	sollicitanten		
++	spron-oan	ze	imiteert	een jazzpianist		
++	spron-oan	ze	huren	verdelgers		
++	spron-oan	ze	verwonden	tieners		
++	spron-oan	ze	dirigeert	een orkestmusicus		
++	spron-oan	jullie	beschrijven	modellen		
++	spron-oan	jullie	leiden	cursisten		
++	spron-oan	ze	bezoekt	een burgemeesteres		
++	spron-oan	je	behoeft	een tolk		
++	spron-oan	ze	bevrijden	behoeftigen		
++	oneg-oan	de bestuursvoorzitters	benoemen	geen vertegenwoordigers		
++	oneg-oan	de televisiereporter	interviewt	geen ECB-bazin		
++	oneg-oan	de fokkers	voeden	geen spinnen		
++	oneg-oan	de katten	krabben	geen hondeneigenaren		
++	oneg-oan	de obers	beroeren	geen koks		
++	oneg-oan	de HR-manager	accepteert	geen sollicitant		
++	oneg-oan	de componist	imiteert	geen jazzpianist		
++	oneg-oan	de huurders	huren	geen verdelgers		
++	oneg-oan	de 18-jarigen	verwonden	geen tieners		
++	oneg-oan	de Zwitser	dirigeert	geen orkestmusicus		
++	oneg-oan	de fotograaf	beschrijft	geen model		
++	oneg-oan	de ingenieurs	leiden	geen cursisten		
++	oneg-oan	de deskundige	bezoekt	geen burgemeesteres		
++	oneg-oan	de pioniersters	behoeven	geen tolken		
++	oneg-oan	de brandweermannen	bevrijden	geen behoeftigen		
++	sinan-oan	het quotum	vermijdt	een vrouw		
++	sinan-oan	de cyclonen	raken	kustbewoners		
++	sinan-oan	de gassen	schenden	dokters		
++	sinan-oan	de muurreliëfs	roepen	schilders		
++	sinan-oan	de video-installatie	vormt	een waarnemer		
++	sinan-oan	de aanvraag	eist	een voorstander		
++	sinan-oan	de werken	brengen	gastarbeiders		
++	sinan-oan	de bekentenis	verandert	een bevelhebber		
++	sinan-oan	het vliegdekschip	verlaat	een technica		
++	sinan-oan	de orkanen	vernietigen	ambachtsmannen
++	base-invan	de koppigheid	overvalt	een badmeester		
++	base-invan	de schuld	treft	een werknemer		
++	base-invan	de schoenen	drukken	joggers		
++	base-invan	de deadline	dringt	een informaticus		
++	base-invan	de kachels	verwarmen	wandelaars		
++	base-invan	de buien	doordrenken	pendelaars		
++	base-invan	de camera's	begeleiden	vrachtwagenchauffeurs		
++	base-invan	de complexen	beschermen	reizigers		
++	base-invan	de aangiften	betreffen	huiseigenaren		
++	base-invan	de hulpeloosheid	brandmerkt	een groene		
++	base-invan	de zon	verblindt	een zwemster		
++	base-invan	de treinen	vervoeren	passagiers		
++	base-invan	de rugleuningen	steunen	kantoorbedienden		
++	base-invan	de broek	knijpt	een entertainer		
++	base-invan	de landbouw	bedreigt	een bij		
++	aux-invan	de koppigheid	zal	een badmeester	overvallen	
++	aux-invan	de schuld	zal	een werknemer	treffen	
++	aux-invan	de schoenen	zullen	joggers	drukken	
++	aux-invan	de deadline	zal	een informaticus	dringen	
++	aux-invan	de kachels	zullen	wandelaars	verwarmen	
++	aux-invan	de buien	zullen	pendelaars	doordrenken	
++	aux-invan	de camera's	zullen	vrachtwagenchauffeurs	begeleiden	
++	aux-invan	de complexen	zullen	reizigers	beschermen	
++	aux-invan	de aangiften	zullen	huiseigenaren	betreffen	
++	aux-invan	de hulpeloosheid	zal	een groene	brandmerken	
++	aux-invan	de zon	zal	een zwemster	verblinden	
++	aux-invan	de treinen	zullen	passagiers	vervoeren	
++	aux-invan	de rugleuningen	zullen	kantoorbedienden	steunen	
++	aux-invan	de broek	zal	een entertainer	knijpen	
++	aux-invan	de landbouw	zal	een bij	bedreigen	
++	spron-invan	ze	overvalt	een badmeester
++	spron-invan	ze	treft	een werknemer		
++	spron-invan	ze	drukken	joggers
++	spron-invan	ze	dringt	een informaticus		
++	spron-invan	ze	verwarmen	wandelaars
++	spron-invan	ze	doordrenken	pendelaars		
++	spron-invan	ze	begeleiden	vrachtwagenchauffeurs		
++	spron-invan	ze	beschermen	reizigers
++	spron-invan	ze	betreffen	huiseigenaren
++	spron-invan	ze	brandmerkt	een groene		
++	spron-invan	ze	verblindt	een zwemster
++	spron-invan	ze	vervoeren	passagiers		
++	spron-invan	ze	steunen	kantoorbedienden		
++	spron-invan	ze	knijpt	een entertainer		
++	spron-invan	ze	bedreigt	een bij		
++	opron-invan	de koppigheid	overvalt	ze		
++	opron-invan	de schuld	treft	ze		
++	opron-invan	de schoen	drukt	ze		
++	opron-invan	de deadline	dringt	ze		
++	opron-invan	de kachel	verwarmt	ze		
++	opron-invan	de bui	doordrenkt	ze		
++	opron-invan	de camera	begeleidt	ze		
++	opron-invan	de complexen	beschermen	ze		
++	opron-invan	de aangiften	betreffen	ze		
++	opron-invan	de hulpeloosheid	brandmerkt	ze		
++	opron-invan	de zon	verblindt	ze		
++	opron-invan	de trein	vervoert	ze		
++	opron-invan	de rugleuning	steunt	ze		
++	opron-invan	de broek	knijpt	ze		
++	opron-invan	de landbouw	bedreigt	ze		
++	oneg-invan	de koppigheid	overvalt	geen badmeester		
++	oneg-invan	de schuld	treft	geen werknemer		
++	oneg-invan	de schoenen	drukken	geen joggers		
++	oneg-invan	de deadline	dringt	geen informaticus
++	oneg-invan	de kachels	verwarmen	geen wandelaars		
++	oneg-invan	de buien	doordrenken	geen pendelaars		
++	oneg-invan	de camera's	begeleiden	geen vrachtwagenchauffeurs		
++	oneg-invan	de complexen	beschermen	geen reizigers
++	oneg-invan	de aangiften	betreffen	geen huiseigenaren
++	oneg-invan	de hulpeloosheid	brandmerkt	geen groene
++	oneg-invan	de zon	verblindt	geen zwemster
++	oneg-invan	de treinen	vervoeren	geen passagiers		
++	oneg-invan	de rugleuningen	steunen	geen kantoorbedienden		
++	oneg-invan	de broek	knijpt	geen entertainer
++	oneg-invan	de landbouw	bedreigt	geen bij
++	pp-invan	de koppigheid	overvalt	een badmeester	in een week	
++	pp-invan	de schuld	treft	een werknemer	in een week	
++	pp-invan	de schoenen	drukken	joggers	in een week	
++	pp-invan	de deadline	dringt	een informaticus	in een week	
++	pp-invan	de kachels	verwarmen	wandelaars	in een week	
++	pp-invan	de buien	doordrenken	pendelaars	in een week	
++	pp-invan	de camera's	begeleiden	vrachtwagenchauffeurs	in een week	
++	pp-invan	de complexen	beschermen	reizigers	in een week	
++	pp-invan	de aangiften	betreffen	huiseigenaren	in een week	
++	pp-invan	de hulpeloosheid	brandmerkt	een groene	in een week	
++	pp-invan	de zon	verblindt	een zwemster	in een week	
++	pp-invan	de treinen	vervoeren	passagiers	in een week	
++	pp-invan	de rugleuningen	steunen	kantoorbedienden	in een week	
++	pp-invan	de broek	knijpt	een entertainer	in een week	
++	pp-invan	de landbouw	bedreigt	een bij	in een week	
++	base-regpol	de kantoren	beginnen	aanvallen		
++	base-regpol	de winkel	leeft	een dubbelleven		
++	base-regpol	het reclamebureau	synchroniseert	een opname		
++	base-regpol	de gemeente	speelt	een droombruiloft		
++	base-regpol	het dorp	bekogelt	een kunstwerk		
++	base-regpol	het bureau	vindt	een oplossing		
++	base-regpol	de praktijk	bestelt	een tijdschrift		
++	base-regpol	de kapsalons	scheren	baarden		
++	base-regpol	de redactie	drinkt	een kopje koffie		
++	base-regpol	de instituten	schrijven	romans		
++	base-regpol	het districtskantoor	beëindigt	een toespraak		
++	base-regpol	de school	krijgt	een basissalaris		
++	base-regpol	de garages	bouwen	hekken		
++	base-regpol	de universiteit	wint	een toer		
++	base-regpol	de concerns	nemen	constructies		
++	aux-regpol	de kantoren	zullen	aanvallen	beginnen	
++	aux-regpol	de winkel	zal	een dubbelleven	leven	
++	aux-regpol	het reclamebureau	zal	een opname	synchroniseren	
++	aux-regpol	de gemeente	zal	een droombruiloft	spelen	
++	aux-regpol	het dorp	zal	een kunstwerk	bekogelen	
++	aux-regpol	het bureau	zal	een oplossing	vinden	
++	aux-regpol	de praktijk	zal	een tijdschrift	bestellen	
++	aux-regpol	de kapsalons	zullen	baarden	scheren	
++	aux-regpol	de redactie	zal	een kopje koffie	drinken	
++	aux-regpol	de instituten	zullen	romans	schrijven	
++	aux-regpol	het districtskantoor	zal	een toespraak	beëindigen	
++	aux-regpol	de school	zal	een basissalaris	krijgen	
++	aux-regpol	de garages	zullen	hekken	bouwen	
++	aux-regpol	de universiteit	zal	een toer	winnen	
++	aux-regpol	de concerns	zullen	constructies	nemen	
++	opron-regpol	het kantoor	begint	ze		
++	opron-regpol	de winkel	leeft	het		
++	opron-regpol	het reclamebureau	synchroniseert	ze		
++	opron-regpol	de gemeente	speelt	ze		
++	opron-regpol	het dorp	bekogelt	ze		
++	opron-regpol	het bureau	vindt	het		
++	opron-regpol	de praktijk	bestelt	ze		
++	opron-regpol	het kapsalon	scheert	ze		
++	opron-regpol	de redactie	drinkt	het		
++	opron-regpol	de instituut	schrijft	ze		
++	opron-regpol	het districtskantoor	beëindigt	ze		
++	opron-regpol	de school	krijgt	ze		
++	opron-regpol	de garage	bouwt	ze		
++	opron-regpol	de universiteiten	winnen	ze		
++	opron-regpol	het concern	neemt	ze		
++	oneg-regpol	de kantoren	beginnen	geen aanvallen		
++	oneg-regpol	de winkels	leven	geen dubbellevens		
++	oneg-regpol	het reclamebureau	synchroniseert	geen opname		
++	oneg-regpol	de gemeente	speelt	geen droombruiloft	
++	oneg-regpol	het dorp	bekogelt	geen kunstwerk		
++	oneg-regpol	het bureau	vindt	geen oplossing		
++	oneg-regpol	de praktijk	bestelt	geen tijdschrift		
++	oneg-regpol	de kapsalons	scheren	geen baarden		
++	oneg-regpol	de redactie	drinkt	geen kopje koffie		
++	oneg-regpol	de instituten	schrijven	geen romans		
++	oneg-regpol	het districtskantoor	beëindigt	geen toespraak
++	oneg-regpol	de school	krijgt	geen basissalaris		
++	oneg-regpol	de garages	bouwen	geen hekken		
++	oneg-regpol	de universiteit	wint	geen toer		
++	oneg-regpol	de concerns	nemen	geen constructies		
++	pp-regpol	de kantoren	beginnen	aanvallen	in een week	
++	pp-regpol	de winkel	leeft	een dubbelleven	in een week	
++	pp-regpol	het reclamebureau	synchroniseert	een opname	in een week	
++	pp-regpol	de gemeente	speelt	een droombruiloft	in een week	
++	pp-regpol	het dorp	bekogelt	een kunstwerk	in een week	
++	pp-regpol	het bureau	vindt	een oplossing	in een week	
++	pp-regpol	de praktijk	bestelt	een tijdschrift	in een week	
++	pp-regpol	het kapsalons	scheren	baarden	in een week	
++	pp-regpol	de redactie	drinkt	een kopje koffie	in een week	
++	pp-regpol	de instituten	schrijven	romans	in een week	
++	pp-regpol	het districtskantoor	beëindigt	een toespraak	in een week	
++	pp-regpol	de school	krijgt	een basissalaris	in een week	
++	pp-regpol	de garages	bouwen	hekken	in een week	
++	pp-regpol	de universiteit	wint	een toer	in een week	
++	pp-regpol	de concerns	nemen	constructies	in een week	
++	oan-regpol	de kapsalons	benoemen	vertegenwoordigers		
++	oan-regpol	de kantoren	interviewen	ECB-bazinnen		
++	oan-regpol	de dorpen	voeden	spinnen		
++	oan-regpol	het bureau	krabt	een hondeneigenaar		
++	oan-regpol	de winkels	beroeren	koks		
++	oan-regpol	de praktijk	accepteert	een sollicitant
++	oan-regpol	het reclamebureau	imiteert	een jazzpianist
++	oan-regpol	de gemeente	huurt	een verdelger
++	oan-regpol	de redactie	verwondt	een tiener
++	oan-regpol	de instituut	dirigeert	een orkestmusicus
++	oan-regpol	de garage	beschrijft	een model
++	oan-regpol	de districtskantoren	leiden	cursisten		
++	oan-regpol	de scholen	bezoeken	burgemeesteressen
++	oan-regpol	het concern	behoeft	een tolk
++	oan-regpol	de universiteit	bevrijdt	een behoeftige		
++	base-snp	AkzoNobel	begint	een aanval		
++	base-snp	Balazs	leeft	een dubbelleven		
++	base-snp	Mercedes	synchroniseert	een opname		
++	base-snp	NPO 1	speelt	een droombruiloft		
++	base-snp	Degas	bekogelt	een kunstwerk		
++	base-snp	Staf Coppens	vindt	een oplossing		
++	base-snp	Harry	bestelt	een tijdschrift		
++	base-snp	Gillette	scheert	een baard		
++	base-snp	Clooney	drinkt	een kopje koffie		
++	base-snp	Han Voskuil	schrijft	een roman		
++	base-snp	Rutte	beëindigt	een toespraak		
++	base-snp	Vietnam	krijgt	een basissalaris		
++	base-snp	Anouk	bouwt	een hek		
++	base-snp	Nijmegen	wint	een toer		
++	base-snp	Essent NV	neemt	een constructie		
++	aux-snp	AkzoNobel	zal	een aanval	beginnen	
++	aux-snp	Balazs	zal	een dubbelleven	leven	
++	aux-snp	Mercedes	zal	een opname	synchroniseren	
++	aux-snp	NPO 1	zal	een droombruiloft	spelen	
++	aux-snp	Degas	zal	een kunstwerk	bekogelen	
++	aux-snp	Staf Coppens	zal	een oplossing	vinden	
++	aux-snp	Harry	zal	een tijdschrift	bestellen	
++	aux-snp	Gillette	zal	een baard	scheren	
++	aux-snp	Clooney	zal	een kopje koffie	drinken	
++	aux-snp	Han Voskuil	zal	een roman	schrijven	
++	aux-snp	Rutte	zal	een toespraak	beëindigen	
++	aux-snp	Vietnam	zal	een basissalaris	krijgen	
++	aux-snp	Anouk	zal	een hek	bouwen	
++	aux-snp	Nijmegen	zal	een toer	winnen	
++	aux-snp	Essent NV	zal	een constructie	nemen
++	opron-snp	AkzoNobel	begint	ze		
++	opron-snp	Balazs	leeft	het		
++	opron-snp	Mercedes	synchroniseert	ze		
++	opron-snp	NPO 1	speelt	ze		
++	opron-snp	Degas	bekogelt	ze		
++	opron-snp	Staf Coppens	vindt	het		
++	opron-snp	Harry	bestelt	ze		
++	opron-snp	Gillette	scheert	ze		
++	opron-snp	Clooney	drinkt	het		
++	opron-snp	Han Voskuil	schrijft	ze		
++	opron-snp	Rutte	beëindigt	ze		
++	opron-snp	Vietnam	krijgt	ze		
++	opron-snp	Anouk	bouwt	ze		
++	opron-snp	Nijmegen	wint	ze		
++	opron-snp	Essent NV	neemt	ze		
++	oneg-snp	AkzoNobel	begint	geen aanval	
++	oneg-snp	Balazs	leeft	geen dubbelleven		
++	oneg-snp	Mercedes	synchroniseert	geen opname
++	oneg-snp	NPO 1	speelt	geen droombruiloft	
++	oneg-snp	Degas	bekogelt	geen kunstwerk
++	oneg-snp	Staf Coppens	vindt	geen oplossing		
++	oneg-snp	Harry	bestelt	geen tijdschrift
++	oneg-snp	Gillette	scheert	geen baard
++	oneg-snp	Clooney	drinkt	geen kopje koffie		
++	oneg-snp	Han Voskuil	schrijft	geen roman
++	oneg-snp	Rutte	beëindigt	geen toespraak		
++	oneg-snp	Vietnam	krijgt	geen basissalaris
++	oneg-snp	Anouk	bouwt	geen hek
++	oneg-snp	Nijmegen	wint	geen toer
++	oneg-snp	Essent NV	neemt	geen constructie
++	oan-snp	AkzoNobel	benoemt	een vertegenwoordiger
++	oan-snp	Balazs	interviewt	een ECB-bazin
++	oan-snp	Harry	voedt	een spin	
++	oan-snp	Clooney	krabt	een hondeneigenaar
++	oan-snp	Han Voskuil	beroert	een kok		
++	oan-snp	NPO 1	accepteert	een sollicitant
++	oan-snp	Mercedes	imiteert	een jazzpianist
++	oan-snp	Staf Coppens	huurt	een verdelger
++	oan-snp	Gillette	verwondt	een tiener
++	oan-snp	Rutte	dirigeert	een orkestmusicus	
++	oan-snp	Anouk	beschrijft	een model
++	oan-snp	Essent NV	leidt	een cursist		
++	oan-snp	Degas	bezoekt	een burgemeesteres
++	oan-snp	Nijmegen	behoeft	een tolk	
++	oan-snp	Vietnam	bevrijdt	een behoeftige
++	base-semas	de sterken	houden	zwakken		
++	base-semas	de speurhond	vindt	een prooi		
++	base-semas	de kappers	scheren	klanten		
++	base-semas	de politieman	arresteert	een verdachte		
++	base-semas	de leraren	onderwijzen	leerlingen		
++	base-semas	de moeders	voeden	zoons		
++	base-semas	de presidenten	commanderen	soldaten		
++	base-semas	de superieuren	ontslaan	employés		
++	base-semas	de producenten	bevoorraden	afnemers		
++	base-semas	de jongeren	bejubelen	sterren		
++	base-semas	de artsen	behandelen	patiënten		
++	base-semas	de eigenaressen	berispen	pachters		
++	base-semas	de priester	verzorgt	een kerkganger		
++	base-semas	de examinatrice	test	een examinandus		
++	base-semas	de meesters	corrigeren	leerjongens		
++	aux-semas	de sterken	zullen	zwakken houden		
++	aux-semas	de speurhond	zal	een prooi	vinden	
++	aux-semas	de kappers	zullen	klanten	scheren	
++	aux-semas	de politieman	zal	een verdachte	arresteren	
++	aux-semas	de leraren	zullen	leerlingen	onderwijzen	
++	aux-semas	de moeders	zullen	zoons	voeden	
++	aux-semas	de presidenten	zullen	soldaten	commanderen	
++	aux-semas	de superieuren	zullen	employés	ontslaan	
++	aux-semas	de producenten	zullen	afnemers	bevoorraden	
++	aux-semas	de jongeren	zullen	sterren	bejubelen	
++	aux-semas	de artsen	zullen	patiënten	behandelen	
++	aux-semas	de eigenaressen	zullen	pachters	berispen	
++	aux-semas	de priester	zal	een kerkganger	verzorgen	
++	aux-semas	de examinatrice	zal	een examinandus	testen	
++	aux-semas	de meesters	zullen	leerjongens	corrigeren	
++	oneg-semas	de sterken	houden	geen zwakken		
++	oneg-semas	de speurhond	vindt	geen prooi		
++	oneg-semas	de kappers	scheren	geen klanten		
++	oneg-semas	de politieman	arresteert	geen verdachte
++	oneg-semas	de leraren	onderwijzen	geen leerlingen		
++	oneg-semas	de moeders	voeden	geen zoons		
++	oneg-semas	de presidenten	commanderen	geen soldaten		
++	oneg-semas	de superieuren	ontslaan	geen employés		
++	oneg-semas	de producenten	bevoorraden	geen afnemers
++	oneg-semas	de jongeren	bejubelen	geen sterren	
++	oneg-semas	de artsen	behandelen	geen patiënten		
++	oneg-semas	de eigenaressen	berispen	geen pachters		
++	oneg-semas	de priester	verzorgt	geen kerkganger
++	oneg-semas	de examinatrice	test	geen examinandus		
++	oneg-semas	de meesters	corrigeren	geen leerjongens		
++	pp-semas	de sterken	houden	zwakken	in een week	
++	pp-semas	de speurhond	vindt	een prooi	in een week	
++	pp-semas	de kappers	scheren	klanten	in een week	
++	pp-semas	de politieman	arresteert	een verdachte	in een week	
++	pp-semas	de leraren	onderwijzen	leerlingen	in een week	
++	pp-semas	de moeders	voeden	zoons	in een week	
++	pp-semas	de presidenten	commanderen	soldaten	in een week	
++	pp-semas	de superieuren	ontslaan	employés	in een week	
++	pp-semas	de producenten	bevoorraden	afnemers	in een week	
++	pp-semas	de jongeren	bejubelen	sterren	in een week	
++	pp-semas	de artsen	behandelen	patiënten	in een week	
++	pp-semas	de eigenaressen	berispen	pachters	in een week	
++	pp-semas	de priester	verzorgt	een kerkganger	in een week	
++	pp-semas	de examinatrice	test	een examinandus	in een week	
++	pp-semas	de meesters	corrigeren	leerjongens	in een week	
++	regpol-semas	de parochie	houdt	een zwakke
++	regpol-semas	de meute	vindt	een prooi		
++	regpol-semas	het kappersteam	scheert	een klant
++	regpol-semas	de politie	arresteert	een verdachte		
++	regpol-semas	de school	onderwijst	een leerling
++	regpol-semas	de clan	voedt	een zoon
++	regpol-semas	de staat	commandeert	een soldat		
++	regpol-semas	het bestuur	ontslaat	een employé		
++	regpol-semas	de handel	bevoorraadt	een afnemer		
++	regpol-semas	de menigte	bejubelt	een ster		
++	regpol-semas	de praktijk	behandelt	een patiënt		
++	regpol-semas	de vereniging van eigenaars	berispt	een pachter		
++	regpol-semas	de kerk	verzorgt	een kerkganger
++	regpol-semas	het instituut	test	een examinandus		
++	regpol-semas	het opleidingsbedrijf	corrigeert	een leerjongen
++	base-noref	de generaal	begint	niets		
++	base-noref	de partner	leeft	niets		
++	base-noref	de journalist	synchroniseert	niets		
++	base-noref	de vriendin	speelt	niets		
++	base-noref	de voorbijganger	bekogelt	niets		
++	base-noref	het kind	vindt	niets		
++	base-noref	de lezer	bestelt	niets		
++	base-noref	de heer	scheert	niets		
++	base-noref	de mama	drinkt	niets		
++	base-noref	de schrijver	schrijft	niets		
++	base-noref	de politicus	beëindigt	niets		
++	base-noref	het parlementslid	krijgt	niets		
++	base-noref	de boer	bouwt	niets		
++	base-noref	de sportvrouw	wint	niets		
++	base-noref	de ambachtsman	neemt	niets		
++	aux-noref	de generaal	zal	niets	beginnen	
++	aux-noref	de partner	zal	niets	leven	
++	aux-noref	de journalist	zal	niets	synchroniseren	
++	aux-noref	de vriendin	zal	niets	spelen	
++	aux-noref	de voorbijganger	zal	niets	bekogelen	
++	aux-noref	het kind	zal	niets	vinden	
++	aux-noref	de lezer	zal	niets	bestellen	
++	aux-noref	de heer	zal	niets	scheren	
++	aux-noref	de mama	zal	niets	drinken	
++	aux-noref	de schrijver	zal	niets	schrijven	
++	aux-noref	de politicus	zal	niets	beëindigen	
++	aux-noref	het parlementslid	zal	niets	krijgen	
++	aux-noref	de boer	zal	niets	bouwen	
++	aux-noref	de sportvrouw	zal	niets	winnen	
++	aux-noref	de ambachtsman	zal	niets	nemen	
++	spron-noref	ze	begint	niets		
++	spron-noref	je	leven	niets		
++	spron-noref	je	synchroniseert	niets		
++	spron-noref	ze	spelen	niets		
++	spron-noref	ze	bekogelt	niets		
++	spron-noref	je	vinden	niets		
++	spron-noref	ze	bestel	niets		
++	spron-noref	ze	scheren	niets		
++	spron-noref	ze	drinken	niets		
++	spron-noref	ze	schrijft	niets		
++	spron-noref	je	beëindigen	niets		
++	spron-noref	je	krijgen	niets		
++	spron-noref	ze	bouwen	niets		
++	spron-noref	je	winnen	niets		
++	spron-noref	ze	neemt	niets		
++	sinan-noref	het quotum	vermijdt	niets		
++	sinan-noref	het gas	schendt	niets		
++	sinan-noref	het muurreliëf	roept	niets		
++	sinan-noref	het werk	brengt	niets		
++	sinan-noref	de bekentenis	verandert	niets		
++	sinan-noref	de cycloon	raakt	niets		
++	sinan-noref	de vliegdekschip	verlaat	niets		
++	sinan-noref	de orkaan	vernietigt	niets		
++	sinan-noref	de video-installatie	vormt	niets		
++	sinan-noref	de aanvraag	eist	niets		
++	sinan-noref	het lek	betekent	niets		
++	sinan-noref	de boom	blokkert	niets		
++	sinan-noref	het idee	ontplooit	niets		
++	sinan-noref	het afzetgebied	opent	niets		
++	sinan-noref	de film	sticht	niets		
++	oan-noref	de bestuursvoorzitter	benoemt	niemand		
++	oan-noref	de televisiereporter	interviewt	niemand		
++	oan-noref	de fokker	voedt	niemand		
++	oan-noref	de kat	krabt	niemand		
++	oan-noref	de ober	beroert	niemand		
++	oan-noref	de HR-manager	accepteret	niemand		
++	oan-noref	de componist	imiteert	niemand		
++	oan-noref	de huurder	huurt	niemand		
++	oan-noref	de 18-jarige	verwondt	niemand		
++	oan-noref	de Zwitser	dirigeert	niemand		
++	oan-noref	de fotograf	beschrijft	niemand		
++	oan-noref	de ingenieur	leidt	niemand		
++	oan-noref	de deskundige	bezoekt	niemand		
++	oan-noref	de pionierster	behoeft	niemand		
++	oan-noref	de brandweerman	bevrijdt	niemand		
++	invan-noref	de schuld	treft	niemand		
++	invan-noref	de schoen	drukt	niemand		
++	invan-noref	de deadline	dringt	niemand		
++	invan-noref	de kachel	verwarmt	niemand		
++	invan-noref	de bui	doordrenkt	niemand		
++	invan-noref	de camera	begeleidt	niemand		
++	invan-noref	het complex	beschermt	niemand		
++	invan-noref	de aangifte	betreft	niemand		
++	invan-noref	de zon	verblindt	niemand		
++	invan-noref	de trein	vervoert	niemand		
++	invan-noref	de rugleuning	steunt	niemand		
++	invan-noref	de broek	knijpt	niemand		
++	regpol-noref	het kantoor	begint	niets		
++	regpol-noref	de winkel	leeft	niets		
++	regpol-noref	het reclamebureau	synchroniseert	niets		
++	regpol-noref	de gemeente	speelt	niets		
++	regpol-noref	het dorp	bekogelt	niets		
++	regpol-noref	het bureau	vindt	niets		
++	regpol-noref	de praktijk	bestelt	niets		
++	regpol-noref	het kapsalon	scheert	niets		
++	regpol-noref	de instituut	schrijft	niets		
++	regpol-noref	het districtskantoor	beëindigt	niets		
++	regpol-noref	de school	krijgt	niets		
++	regpol-noref	de garage	bouwt	niets		
++	regpol-noref	de universiteit	wint	niets		
++	regpol-noref	het concern	neemt	niets		
++	snp-noref	AkzoNobel	begint	niets		
++	snp-noref	Balazs	leeft	niets		
++	snp-noref	Mercedes	synchroniseert	niets		
++	snp-noref	NPO 1	speelt	niets		
++	snp-noref	Degas	bekogelt	niets		
++	snp-noref	Staf Coppens	vindt	niets		
++	snp-noref	Harry	bestelt	niets		
++	snp-noref	Gillette	scheert	niets		
++	snp-noref	Clooney	drinkt	niets		
++	snp-noref	Han Voskuil	schrijft	niets		
++	snp-noref	Rutte	beëindigt	niets		
++	snp-noref	Vietnam	krijgt	niets		
++	snp-noref	Anouk	bouwt	niets		
++	snp-noref	Nijmegen	wint	niets		
++	snp-noref	Essent NV	neemt	niets		
++	base-psy	de aanvallen	boeien	generaals		
++	base-psy	het dubbelleven	verveelt	een partner		
++	base-psy	de opnames	bezielen	journalisten		
++	base-psy	de droombruiloft	vertoornt	een vriendin		
++	base-psy	de kunstwerken	fascineren	voorbijgangers		
++	base-psy	de oplossing	beweegt	een kind		
++	base-psy	het tijdschrift	beangstigt	een lezer		
++	base-psy	de baarden	verbazen	heren		
++	base-psy	de kopjes koffie	bevallen	mama’s		
++	base-psy	de romans	frustreren	schrijvers		
++	base-psy	de toespraken	agiteren	politici		
++	base-psy	het basissalaris	beschaamt	een parlementslid		
++	base-psy	de hekken	berouwen	boeren		
++	base-psy	de toer	amuseert	een sportvrouw		
++	base-psy	de constructies	vermaken	ambachtsmannen		
++	aux-psy	de aanvallen	zullen	generaals	boeien	
++	aux-psy	het dubbellevens	zal	een partner	vervelen	
++	aux-psy	de opnames	zullen	journalisten	bezielen	
++	aux-psy	de droombruiloft	zal	een vriendin	vertoornen	
++	aux-psy	de kunstwerken	zullen	voorbijgangers	fascineren	
++	aux-psy	de oplossing	zal	een kind	bewegen	
++	aux-psy	het tijdschrift	zal	een lezer	beangstigen	
++	aux-psy	de baarden	zullen	heren	verbazen	
++	aux-psy	het kopjes koffie	zullen	mama’s	bevallen	
++	aux-psy	de romans	zullen	schrijvers	frustreren	
++	aux-psy	de toespraken	zullen	politici	agiteren	
++	aux-psy	het basissalaris	zal	een parlementslid	beschamen	
++	aux-psy	de hekken	zal	boeren	berouwen	
++	aux-psy	de toer	zal	een sportvrouw	amuseren	
++	aux-psy	de constructies	zullen	ambachtsmannen	vermaken
++	spron-psy	ze	boeit	een generaal		
++	spron-psy	het	verveelt	een partner
++	spron-psy	ze	bezielen	journalisten
++	spron-psy	ze	vertoornt	een vriendin
++	spron-psy	ze	fascineren	voorbijgangers		
++	spron-psy	het	beweegt	een kind	
++	spron-psy	ze	beangstigt	een lezer
++	spron-psy	ze	verbaast	een heer		
++	spron-psy	ze	bevalt	een mama	
++	spron-psy	ze	frustreert	een schrijver		
++	spron-psy	ze	agiteren	politici		
++	spron-psy	het	beschaamt	een parlementslid		
++	spron-psy	ze	berouwt	een boer		
++	spron-psy	ze	amuseert	een sportvrouw
++	spron-psy	ze	vermaakt	een ambachtsman		
++	opron-psy	de aanvallen	boeien	ze		
++	opron-psy	het dubbelleven	verveelt	ze		
++	opron-psy	de opnames	bezielen	ze		
++	opron-psy	de droombruiloft	vertoornt	ze		
++	opron-psy	de kunstwerken	fascineren	ze		
++	opron-psy	de oplossing	beweegt	ze		
++	opron-psy	het tijdschrift	beangstigt	ze		
++	opron-psy	de baarden	verbazen	ze		
++	opron-psy	de kopjes koffie	bevallen	ze		
++	opron-psy	de romans	frustreren	ze		
++	opron-psy	de toespraken	agiteren	ze		
++	opron-psy	het basissalaris	beschaamt	ze		
++	opron-psy	de hekken	berouwen	ze		
++	opron-psy	de toer	amuseert	ze
++	opron-psy	de constructies	vermaken	ze
++	oneg-psy	de aanvallen	boeien	geen generaals		
++	oneg-psy	het dubbelleven	verveelt	geen partner
++	oneg-psy	de opnames	bezielen	geen journalisten	
++	oneg-psy	de droombruiloft	vertoornt	geen vriendin
++	oneg-psy	de kunstwerken	fascineren	geen voorbijgangers	
++	oneg-psy	de oplossing	beweegt	geen kind	
++	oneg-psy	het tijdschrift	beangstigt	geen lezer
++	oneg-psy	de baarden	verbazen	geen heren		
++	oneg-psy	de kopjes koffie	bevallen	geen mama’s		
++	oneg-psy	de romans	frustreren	geen schrijvers		
++	oneg-psy	de toespraken	agiteren	geen politici
++	oneg-psy	het basissalaris	beschaamt	geen parlementslid
++	oneg-psy	de hekken	berouwen	geen boeren
++	oneg-psy	de toer	amuseert	geen sportvrouw
++	oneg-psy	de constructies	vermaken	geen ambachtsmannen	
++	pp-psy	de aanvallen	boeien	generaals	in een week	
++	pp-psy	het dubbelleven	verveelt	een partner	in een week	
++	pp-psy	de opnames	bezielen	journalisten	in een week	
++	pp-psy	de droombruiloft	vertoornt	een vriendin	in een week	
++	pp-psy	de kunstwerken	fascineren	voorbijgangers	in een week	
++	pp-psy	de oplossing	beweegt	een kind	in een week	
++	pp-psy	het tijdschrift	beangstigt	een lezer	in een week	
++	pp-psy	de baarden	verbazen	heren	in een week	
++	pp-psy	de kopjes koffie	bevallen	mama’s	in een week	
++	pp-psy	de romans	frustreren	schrijvers	in een week	
++	pp-psy	de toespraken	agiteren	politici	in een week	
++	pp-psy	het basissalaris	beschaamt	een parlementslid	in een week	
++	pp-psy	de hekken	berouwen	boeren	in een week	
++	pp-psy	de toer	amuseert	een sportvrouw	in een week	
++	pp-psy	de constructies	vermaken	ambachtsmannen	in een week	
++	regpol-psy	de aanvallen	boeien	kantoren
++	regpol-psy	het dubbelleven	verveelt	een winkel
++	regpol-psy	de opnames	bezielen	reclamebureaus
++	regpol-psy	de droombruiloft	vertoornt	een gemeente		
++	regpol-psy	de kunstwerken	fascineren	dorpen		
++	regpol-psy	de oplossing	beweegt	een bureau		
++	regpol-psy	het tijdschrift	beangstigt	een praktijk		
++	regpol-psy	de baarden	verbazen	kapsalons		
++	regpol-psy	het kopje koffie	bevalt	een personeel		
++	regpol-psy	de romans	frustreren	instituten
++	regpol-psy	de toespraken	agiteren	districtskantoren
++	regpol-psy	het basissalaris	beschaamt	een school		
++	regpol-psy	het hek	berouwt	een garage		
++	regpol-psy	de toer	amuseert	een universiteit
++	regpol-psy	de constructies	vermaken	concerns
++	snp-psy	de aanval	boeit	Mercedes		
++	snp-psy	het dubbelleven	verveelt	AkzoNobel		
++	snp-psy	de droombruiloft	vertoornt	Harry		
++	snp-psy	het kunstwerk	fascineert	Balazs		
++	snp-psy	de oplossing	beweegt	Clooney		
++	snp-psy	het tijdschrift	beangstigt	Han Voskuil		
++	snp-psy	de baard	verbaast	Gillette		
++	snp-psy	het kopje koffie	bevalt	NPO 1		
++	snp-psy	de roman	frustreert	Staf Coppens		
++	snp-psy	de toespraak	agiteert	Rutte		
++	snp-psy	de opname	bezielt	Degas		
++	snp-psy	het basissalaris	beschaamt	Vietnam		
++	snp-psy	het hek	berouwt	Anouk		
++	snp-psy	de toer	amuseert	Nijmegen		
++	snp-psy	de constructie	vermaakt	Essent NV		
++	semas-psy	de zwakke	verveelt	een sterke		
++	semas-psy	de prooi	boeit	een speurhond		
++	semas-psy	de afnemer	vertoornt	een producent
++	semas-psy	de sterren	fascineren	jongeren
++	semas-psy	de zoons	bewegen	moeders
++	semas-psy	de klanten	beangstigen	kappers		
++	semas-psy	de leerlingen	verbasen	leraren		
++	semas-psy	de employés	bevallen	superieurs		
++	semas-psy	de verdachten	frustreren	politiemannen
++	semas-psy	de soldaten	agiteren	presidenten		
++	semas-psy	de patiënten	amuseren	artsen		
++	semas-psy	de pachters	berouwen	eigenaressen
++	semas-psy	de kerkgangers	beschamen	priesters		
++	semas-psy	de examinandus	vermaakt	een examinatrice		
++	semas-psy	de leerjongens	bezielen	meesters
++	noref-psy	de aanval	boeit	niemand		
++	noref-psy	het dubbelleven	verveelt	niemand		
++	noref-psy	de opname	bezielt	niemand		
++	noref-psy	de droombruiloft	vertoornt	niemand		
++	noref-psy	het kunstwerk	fascineert	niemand		
++	noref-psy	de oplossing	beweegt	niemand		
++	noref-psy	het tijdschrift	beangstigt	niemand		
++	noref-psy	de baard	verbaast	niemand		
++	noref-psy	het kopje koffie	bevalt	niemand		
++	noref-psy	de roman	frustreert	niemand		
++	noref-psy	de toespraak	agiteert	niemand		
++	noref-psy	het basissalaris	beschaamt	niemand		
++	noref-psy	het hek	berouwt	niemand		
++	noref-psy	de toer	amuseert	niemand		
++	noref-psy	de constructie	vermaakt	niemand		
++	base-vlight	de mensen	maken	fouten		
++	base-vlight	de boeven	begaan	misdaden		
++	base-vlight	de bazin	neemt	een beslissing		
++	base-vlight	de advocaten	doen	verzoeken		
++	base-vlight	de leerlingen	stellen	vragen		
++	base-vlight	de klerken	plaatsen	orders		
++	base-vlight	het dier	heeft	geluk		
++	base-vlight	de collega	houdt	rekening		
++	base-vlight	de vriendin	neemt	afscheid		
++	base-vlight	de kandidaat	blaast	een aftocht		
++	base-vlight	de politicus	levert	kritiek		
++	base-vlight	de gevangene	biedt	weerstand		
++	base-vlight	de auteurs	verdelen	rollen		
++	base-vlight	de mountainbiker	vervult	een hoop		
++	base-vlight	de persvoorlichter	bepaalt	zijn houding		
++	aux-vlight	de mensen	zullen	fouten	maken	
++	aux-vlight	de boeven	zullen	misdaden	begaan	
++	aux-vlight	de bazin	zal	een beslissing	nemen	
++	aux-vlight	de advocaten	zullen	verzoeken	doen	
++	aux-vlight	de leerlingen	zullen	vragen	stellen	
++	aux-vlight	de klerken	zullen	orders	plaatsen	
++	aux-vlight	het dier	zal	geluk	hebben	
++	aux-vlight	de collega	zal	rekening	houden	
++	aux-vlight	de vriendin	zal	afscheid	nemen	
++	aux-vlight	de kandidaat	zal	een aftocht	blazen	
++	aux-vlight	de politicus	zal	kritiek	leveren	
++	aux-vlight	de gevangene	zal	weerstand	bieden	
++	aux-vlight	de auteurs	zullen	rollen	verdelen	
++	aux-vlight	de mountainbiker	zal	een hoop	vervullen	
++	aux-vlight	de persvoorlichter	zal	hun houding	bepalen	
++	spron-vlight	ze	maakt	een fout		
++	spron-vlight	jullie	begaan	misdaden
++	spron-vlight	je	neemt	een beslissing		
++	spron-vlight	ze	doen	verzoeken		
++	spron-vlight	ze	stelt	een vraag		
++	spron-vlight	jullie	plaatsen	orders
++	spron-vlight	ze	heeft	geluk		
++	spron-vlight	ze	houdt	rekening		
++	spron-vlight	ze	neemt	afscheid		
++	spron-vlight	ze	blaast	een aftocht		
++	spron-vlight	ze	levert	kritiek		
++	spron-vlight	ze	biedt	weerstand		
++	spron-vlight	ze	verdelen	rollen		
++	spron-vlight	je	vervult	een hoop		
++	spron-vlight	ze	bepaalt	zijn houding		
++	oneg-vlight	de mensen	maken	geen fouten		
++	oneg-vlight	de boeven	begaan	geen misdaden		
++	oneg-vlight	de bazin	neemt	geen beslissing
++	oneg-vlight	de advocaten	doen	geen verzoeken		
++	oneg-vlight	de leerlingen	stellen	geen vragen
++	oneg-vlight	de klerken	plaatsen	geen orders		
++	oneg-vlight	het dier	heeft	geen geluk		
++	oneg-vlight	de collega	houdt	geen rekening		
++	oneg-vlight	de vriendin	neemt	geen afscheid		
++	oneg-vlight	de kandidaat	blaast	geen aftocht		
++	oneg-vlight	de politicus	levert	geen kritiek		
++	oneg-vlight	de gevangene	biedt	geen weerstand		
++	oneg-vlight	de auteurs	verdelen	geen rollen		
++	oneg-vlight	de mountainbiker	vervult	geen hoop		
++	oneg-vlight	de persvoorlichter	bepaalt	geen houding		
++	pp-vlight	de mensen	maken	fouten	in een week	
++	pp-vlight	de boeven	begaan	misdaden	in een week	
++	pp-vlight	de bazin	neemt	een beslissing	in een week	
++	pp-vlight	de advocaten	doen	verzoeken	in een week	
++	pp-vlight	de leerlingen	stellen	vragen	in een week	
++	pp-vlight	de klerken	plaatsen	orders	in een week	
++	pp-vlight	het dier	heeft	geluk	in een week	
++	pp-vlight	de collega	houdt	rekening	in een week	
++	pp-vlight	de vriendin	neemt	afscheid	in een week	
++	pp-vlight	de kandidat	blaast	een aftocht	in een week	
++	pp-vlight	de politicus	levert	kritiek	in een week	
++	pp-vlight	de gevangene	biedt	weerstand	in een week	
++	pp-vlight	de auteurs	verdelen	rollen	in een week	
++	pp-vlight	de mountainbiker	vervult	een hoop	in een week	
++	pp-vlight	de persvoorlichter	bepaalt	hun houding	in een week	
+
+%TODO
+
++	sinan-vlight	het programma	maakt	fouten		
++	sinan-vlight	de software	begaat	misdaden		
++	sinan-vlight	het systeem	neemt	beslissingen		
++	sinan-vlight	de klik	doet	verzoeken		
++	sinan-vlight	de chatbot	stelt	vragen		
++	sinan-vlight	de vergunning	plaatst	orders		
++	sinan-vlight	de onderwerpen	leveren	kritiek		
++	sinan-vlight	de watermassa's	houden	rekening		
++	sinan-vlight	de faxapparaten	nemen	afscheid		
++	sinan-vlight	de omstandigheden	hebben	geluk		
++	sinan-vlight	de ritssluitingen	bieden	weerstand		
++	sinan-vlight	de boeken	verdelen	rollen		
++	sinan-vlight	de verslagen	bepalen	hun houding		
++	regpol-vlight	de praktijk	maakt	fouten		
++	regpol-vlight	de winkel	begaat	misdaden		
++	regpol-vlight	het districtskantoor	neemt	beslissingen		
++	regpol-vlight	het reclamebureau	plaatst	orders		
++	regpol-vlight	de redactie	stelt	vragen		
++	regpol-vlight	het kapsalon	doet	verzoeken		
++	regpol-vlight	de dorpen	hebben	geluk		
++	regpol-vlight	de instituten	houden	rekening		
++	regpol-vlight	de gemeenten	nemen	afscheid		
++	regpol-vlight	de scholen	blazen	een aftocht		
++	regpol-vlight	de bureaus	leveren	kritiek		
++	regpol-vlight	de kantoren	bieden	weerstand		
++	regpol-vlight	de universiteit	verdeelt	rollen		
++	regpol-vlight	de garages	vervullen	een hoop		
++	regpol-vlight	de concerns	bepalen	hun houding		
++	snp-vlight	Mercedes	maakt	fouten		
++	snp-vlight	AkzoNobel	begaat	misdaden		
++	snp-vlight	Harry	neemt	beslissingen		
++	snp-vlight	Balazs	plaatst	orders		
++	snp-vlight	Clooney	stelt	vragen		
++	snp-vlight	Han Voskuil	doet	verzoeken		
++	snp-vlight	Gillette	heeft	geluk		
++	snp-vlight	NPO 1	houdt	rekening		
++	snp-vlight	Staf Coppens	neemt	afscheid		
++	snp-vlight	Rutte	blaast	een aftochten		
++	snp-vlight	Degas	hebben	geluk		
++	snp-vlight	Vietnam	biedt	weerstand		
++	snp-vlight	Anouk	verdeelt	rollen		
++	snp-vlight	Nijmegen	vervult	een hopen		
++	snp-vlight	Essent NV	bepaalt	zijn houding		
++	base-syn	de generaals	starten	aanvallen		
++	base-syn	de partner	leidt	een dubbelleven		
++	base-syn	de journalisten	dubben	opnames		
++	base-syn	de vriendin	ensceneert	een droombruiloft		
++	base-syn	de voorbijgangers	begooien	kunstwerken		
++	base-syn	het kind	raadt	een oplossing		
++	base-syn	de lezers	bezorgen	tijdschriften		
++	base-syn	de heren	knippen	baarden		
++	base-syn	de mama’s	slurpen	kopjes koffie		
++	base-syn	de schrijvers	noteren	romans		
++	base-syn	de politicus	eindigt	een toespraak		
++	base-syn	het parlementslid	ontvangt	een basissalaris		
++	base-syn	de boeren	construeren	hekken		
++	base-syn	de sportvrouw	behaalt	een toer		
++	base-syn	de ambachtsmannen	bestrijden	constructies		
++	aux-syn	de generaal	zal	aanvallen	starten	
++	aux-syn	de partners	zullen	een dubbelleven	leiden	
++	aux-syn	de journalist	zal	opnames	dubben	
++	aux-syn	de vriendinnen	zullen	een droombruiloft	ensceneren	
++	aux-syn	de voorbijganger	zal	kunstwerken	begooien	
++	aux-syn	de kinderen	zullen	een oplossing	raden	
++	aux-syn	de lezer	zal	tijdschriften	bezorgen	
++	aux-syn	de heer	zal	baarden	knippen	
++	aux-syn	de mama’s	zullen	een kopje koffie	slurpen	
++	aux-syn	de schrijver	zal	romans	noteren	
++	aux-syn	de politicus	zal	toespraken	eindigen	
++	aux-syn	de parlementsleden	zullen	een basissalaris	ontvangen	
++	aux-syn	de boer	zal	hekken	construeren	
++	aux-syn	de sportvrouwen	zullen	een toer	behalen	
++	aux-syn	de ambachtsman	zal	constructies	bestrijden	
++	spron-syn	hij	start	een aanval		
++	spron-syn	ze	leiden	een dubbelleven		
++	spron-syn	hij	dubt	opnames		
++	spron-syn	we	ensceneren	een droombruiloft		
++	spron-syn	hij	begooit	kunstwerken		
++	spron-syn	ze	raden	een oplossing		
++	spron-syn	ik	bezorg	een tijdschrift		
++	spron-syn	je	knipt	baarden		
++	spron-syn	jullie	slurpen	een kopje koffie		
++	spron-syn	hij	noteert	een roman		
++	spron-syn	we	eindigen	een toespraak		
++	spron-syn	hij	ontvangt	een basissalaris		
++	spron-syn	we	construeren	een hek		
++	spron-syn	jullie	behalen	een toer		
++	spron-syn	je	bestrijdt	constructies		
++	opron-syn	de generaal	start	hem		
++	opron-syn	de partners	leiden	het		
++	opron-syn	de journalist	dubt	haar		
++	opron-syn	de vriendin	ensceneert	hem		
++	opron-syn	de voorbijganger	begooit	haar		
++	opron-syn	de kinderen	raden	hem		
++	opron-syn	de lezer	bezorgt	haar		
++	opron-syn	de heer	knipt	hem		
++	opron-syn	de mama’s	slurpen	het		
++	opron-syn	de schrijver	noteert	hem		
++	opron-syn	de politicus	eindigt	haar		
++	opron-syn	de parlementsleden	ontvangen	hem		
++	opron-syn	de boer	construeert	hem		
++	opron-syn	de sportvrouwen	behalen	hem		
++	opron-syn	de ambachtsman	bestrijdt	haar		
++	oneg-syn	de generaal	start	geen aanvallen		
++	oneg-syn	de partners	leiden	geen dubbelleven		
++	oneg-syn	de journalist	dubt	geen opnames		
++	oneg-syn	de vriendinnen	ensceneeren	geen droombruiloft		
++	oneg-syn	de voorbijganger	begooit	geen kunstwerken		
++	oneg-syn	de kinderen	raden	geen oplossing		
++	oneg-syn	de lezer	bezorgt	geen tijdschriften		
++	oneg-syn	de heer	knipt	geen baarden		
++	oneg-syn	de mama's	slurpen	geen kopje koffie		
++	oneg-syn	de schrijver	noteert	geen romans		
++	oneg-syn	de politicus	eindigt	geen toespraken		
++	oneg-syn	de parlementsleden	ontvangen	geen basissalaris		
++	oneg-syn	de boer	construeert	geen hekken		
++	oneg-syn	de sportvrouwen	behalen	geen toer		
++	oneg-syn	de ambachtsman	bestrijdt	geen constructies		
++	pp-syn	de aanval	boeit	generaals	in een week	
++	pp-syn	het dubbelleven	verveelt	partners	in een week	
++	pp-syn	de opnames	bezielen	een journalist	in een week	
++	pp-syn	de droombruiloft	vertoornt	vriendinnen	in een week	
++	pp-syn	de kunstwerken	fascineren	een voorbijganger	in een week	
++	pp-syn	de oplossing	beweegt	kinderen	in een week	
++	pp-syn	het tijdschrift	beangstigt	lezers	in een week	
++	pp-syn	de baard	verbaast	heren	in een week	
++	pp-syn	het kopje koffie	bevalt	mama’s	in een week	
++	pp-syn	de roman	frustreert	schrijvers	in een week	
++	pp-syn	de toespraken	agiteren	een politicus	in een week	
++	pp-syn	het basissalaris	beschaamt	parlementsleden	in een week	
++	pp-syn	de hekken	berouwen	een boer	in een week	
++	pp-syn	de toer	amuseert	sportvrouwen	in een week	
++	pp-syn	de constructies	vermaken	een ambachtsman	in een week	
++	sinan-syn	het quotum	mijdt	argumenten		
++	sinan-syn	het gas	overschrijdt	mensenrechten		
++	sinan-syn	de muurreliëfs	schreeuwen	een hallo		
++	sinan-syn	de werken	genereren	een erkenning		
++	sinan-syn	de bekentenissen	wijzigen	een klimaat		
++	sinan-syn	de cyclonen	bereiken	een kuststrook		
++	sinan-syn	de orkanen	verwoesten	een plaats		
++	sinan-syn	de video-installaties	maken	een afsluiting		
++	sinan-syn	de aanvraag	verlangt	herstelbetalingen		
++	sinan-syn	de vliegdekschepen	ontvluchten	een haven		
++	sinan-syn	de lekken	bezweren	een einde		
++	sinan-syn	de bomen	versperren	een uitzicht		
++	sinan-syn	de ideeën	ontwikkelen	een kracht		
++	sinan-syn	het afzetgebied	biedt	mogelijkheden		
++	sinan-syn	de films	geven	een herstart		
++	oan-syn	de bestuursvoorzitter	geroept	vertegenwoordigers		
++	oan-syn	de televisiereporters	ondervragen	een ECB-bazin		
++	oan-syn	de fokker	voedert	spinnen		
++	oan-syn	de katten	krassen	een hondeneigenar		
++	oan-syn	de ober	raakt	koks		
++	oan-syn	de HR-manager	kiest	sollicitanten		
++	oan-syn	de componisten	kopiëren	een jazzpianist		
++	oan-syn	de huurders	belasten	een verdelger		
++	oan-syn	de 18-jarige	wonden	tieners		
++	oan-syn	de Zwitser	leidt	orkestmusici		
++	oan-syn	de fotograaf	portretteert	modellen		
++	oan-syn	de ingenieur	instrueert	cursisten		
++	oan-syn	de deskundigen	raadplegen	een burgemeesteres		
++	oan-syn	de pioniersters	benodigen	een tolk		
++	oan-syn	de brandweerman	redt	een behoeftigen		
++	invan-syn	de koppigheid	grijpt	badmeesters		
++	invan-syn	de schuld	betreft	werknemers		
++	invan-syn	de schoen	smart	joggers		
++	invan-syn	de deadline	haast	informatici		
++	invan-syn	de kachel	verwarmt	wandelaars		
++	invan-syn	de bui	doorweekt	pendelaars		
++	invan-syn	de camera	volgt	vrachtwagenchauffeurs		
++	invan-syn	de complexen	behoeden	een reiziger		
++	invan-syn	de aangiften	treffen	een huiseigenaar		
++	invan-syn	de hulpeloosheid	merkt	een groenen		
++	invan-syn	de zon	irriteert	zwemsters		
++	invan-syn	de trein	vervoert	passagiers		
++	invan-syn	de rugleuning	ondersteunt	kantoorbedienden		
++	invan-syn	de broek	knelt	entertainers		
++	invan-syn	de landbouw	dreigt	bijen		
++	regpol-syn	het kantoor	start	aanvallen		
++	regpol-syn	de winkels	leiden	een dubbelleven		
++	regpol-syn	het reclamebureau	dubt	opnames		
++	regpol-syn	de gemeente	ensceneert	droombruiloften		
++	regpol-syn	het dorp	begooit	kunstwerken		
++	regpol-syn	het bureau	raadt	oplossingen		
++	regpol-syn	de praktijk	bezorgt	tijdschriften		
++	regpol-syn	het kapsalon	knipt	baarden		
++	regpol-syn	de redactie	slurpt	kopjes koffie		
++	regpol-syn	de instituut	noteert	romans		
++	regpol-syn	het districtskantoor	eindigt	toespraken		
++	regpol-syn	de scholen	ontvangen	een basissalaris		
++	regpol-syn	de garage	construeert	hekken		
++	regpol-syn	de universiteiten	behalen	een toer		
++	regpol-syn	het concern	bestrijdt	constructies		
++	snp-syn	AkzoNobel	start	aanvallen		
++	snp-syn	Balazs	leidt	dubbellevens		
++	snp-syn	Mercedes	dubt	opnames		
++	snp-syn	NPO 1	ensceneert	droombruiloften		
++	snp-syn	Degas	begooit	kunstwerken		
++	snp-syn	Staf Coppens	raadt	oplossingen		
++	snp-syn	Harry	bezorgt	tijdschriften		
++	snp-syn	Gillette	knipt	baarden		
++	snp-syn	Clooney	slurpt	kopjes koffie		
++	snp-syn	Han Voskuil	noteert	romans		
++	snp-syn	Rutte	eindigt	toespraken		
++	snp-syn	Vietnam	ontvangt	basissalarissen		
++	snp-syn	Anouk	construeert	hekken		
++	snp-syn	Nijmegen	behaalt	toeren		
++	snp-syn	Essent NV	bestrijdt	constructies		
++	semas-syn	de sterke	ondersteunt	een zwakken		
++	semas-syn	de speurhonden	raden	een prooi		
++	semas-syn	de kapper	knipt	klanten		
++	semas-syn	de politieman	vat	verdachten		
++	semas-syn	de leraar	leert	leerlingen		
++	semas-syn	de moeder	stilt	zoons		
++	semas-syn	de president	beveelt	soldaten		
++	semas-syn	de superieur	suspendeert	employés		
++	semas-syn	de producenten	verzorgen	een afnemer		
++	semas-syn	de jongeren	vieren	een ster		
++	semas-syn	de arts	geneest	patiënten		
++	semas-syn	de eigenares	berispt	pachters		
++	semas-syn	de priester	begeleidt	kerkgangers		
++	semas-syn	de examinatrice	examineert	examinandi		
++	semas-syn	de meester	verbetert	leerjongens		
++	noref-syn	de generaals	starten	niets		
++	noref-syn	de partners	leiden	niets		
++	noref-syn	de journalisten	dubben	niets		
++	noref-syn	de vriendinnen	ensceneren	niets		
++	noref-syn	de voorbijgangers	begooien	niets		
++	noref-syn	de kinderen	raden	niets		
++	noref-syn	de lezers	bezorgen	niets		
++	noref-syn	de heren	knippen	niets		
++	noref-syn	de mama’s	slurpen	niets		
++	noref-syn	de schrijvers	noteren	niets		
++	noref-syn	de politici	eindigen	niets		
++	noref-syn	de parlementsleden	ontvangen	niets		
++	noref-syn	de boeren	construeren	niets		
++	noref-syn	de sportvrouwen	behalen	niets		
++	noref-syn	de ambachtsmannen	bestrijden	niets		
++	psy-syn	de aanval	pakt	generaals		
++	psy-syn	het dubbelleven	vermoeit	partners		
++	psy-syn	de opnames	interesseren	een journalist		
++	psy-syn	de droombruiloft	verontwaardigt	vriendinnen		
++	psy-syn	de kunstwerken	imponeren	een voorbijganger		
++	psy-syn	de oplossing	roert	kinderen		
++	psy-syn	het tijdschrift	benauwt	lezers		
++	psy-syn	de baard	verbluft	heren		
++	psy-syn	het kopje koffie	behaagt	mama’s		
++	psy-syn	de roman	demotiveert	schrijvers		
++	psy-syn	de toespraken	hinderen	een politicus		
++	psy-syn	het basissalaris	blameert	parlementsleden		
++	psy-syn	de hekken	ergeren	een boer		
++	psy-syn	de toer	vermaakt	sportvrouwen		
++	psy-syn	de constructies	amuseren	een ambachtsman		
++	base-idm	belofte	maakt	schuld		
++	base-idm	de eersten	zijn	de laatsten		
++	base-idm	de gestadige drup	holt	de steen		
++	base-idm	de grote vissen	eten	de kleine		
++	base-idm	de muren	hebben	oren		
++	base-idm	de ratten	verlaten	het zinkende schip		
++	base-idm	de uitkomst	leert	het		
++	base-idm	de uitzondering	bevestigt	de regel		
++	base-idm	goed voorgaan	doet	goed volgen		
++	base-idm	goede wijn	behoeft	geen krans		
++	base-idm	het geluk	helpt	de dapperen		
++	base-idm	kleine potjes	hebben	grote oren		
++	base-idm	leugens	hebben	korte benen		
++	base-idm	het doel	heiligt	de middel		
++	base-idm	tijd	heelt	alle wonden		
++	aux-idm	belofte	zal	schuld	maken	
++	aux-idm	de eersten	zullen	de laatsten	zijn	
++	aux-idm	de gestadige drup	zal	de steen	holen	
++	aux-idm	de grote vissen	zullen	de kleine	eten	
++	aux-idm	de muren	zullen	oren	hebben	
++	aux-idm	de ratten	zullen	het zinkende schip	verlaten	
++	aux-idm	de uitkomst	zal	het	leren	
++	aux-idm	de uitzondering	zal	de regel	bevestigen	
++	aux-idm	goed voorgaan	zal	goed volgen	doen	
++	aux-idm	goede wijn	zal	geen krans	behoeven	
++	aux-idm	het geluk	zal	de dapperen	helpen	
++	aux-idm	kleine potjes	zullen	grote oren	hebben	
++	aux-idm	leugens	zullen	korte benen	hebben	
++	aux-idm	het doel	zal	de middel	heiligen	
++	aux-idm	tijd	zal	alle wonden	helen	
++	oneg-idm	belofte	maakt	geen schuld		
++	oneg-idm	de eersten	zijn	geen laatsten		
++	oneg-idm	de gestadige drup	holt	geen steen		
++	oneg-idm	de grote vissen	eten	geen kleine		
++	oneg-idm	de muren	hebben	geen oren		
++	oneg-idm	de ratten	verlaten	geen zinkende schip		
++	oneg-idm	de uitzondering	bevestigt	geen regel		
++	oneg-idm	goed voorgaan	doet	geen goed volgen		
++	oneg-idm	het geluk	helpt	geen dapperen		
++	oneg-idm	kleine potjes	hebben	geen grote oren		
++	oneg-idm	leugens	hebben	geen korte benen		
++	oneg-idm	het doel	heiligt	geen middel		
++	oneg-idm	tijd	heelt	geen wonden		
++	pp-idm	belofte	maakt	schuld	in een week	
++	pp-idm	de eersten	zijn	de laatsten	in een week	
++	pp-idm	de gestadige drup	holt	de steen	in een week	
++	pp-idm	de grote vissen	eten	de kleine	in een week	
++	pp-idm	de muren	hebben	oren	in een week	
++	pp-idm	de ratten	verlaten	het zinkende schip	in een week	
++	pp-idm	de uitkomst	leert	het	in een week	
++	pp-idm	de uitzondering	bevestigt	de regel	in een week	
++	pp-idm	goed voorgaan	doet	goed volgen	in een week	
++	pp-idm	goede wijn	behoeft	geen krans	in een week	
++	pp-idm	het geluk	helpt	de dapperen	in een week	
++	pp-idm	kleine potjes	hebben	grote oren	in een week	
++	pp-idm	leugens	hebben	korte benen	in een week	
++	pp-idm	het doel	heiligt	de middel	in een week	
++	pp-idm	tijd	heelt	alle wonden	in een week	

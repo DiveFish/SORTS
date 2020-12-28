@@ -496,7 +496,7 @@
 +	base-invan	de camera	begeleidt	vrachtwagenchauffeurs		
 +	base-invan	de complexen	beschermen	een reiziger		
 +	base-invan	de aangiften	betreffen	een huiseigenaar		
-+	base-invan	de hulpeloosheid	brandmerkt	een groenen		
++	base-invan	de hulpeloosheid	brandmerkt	groenen	
 +	base-invan	de zon	verblindt	zwemsters		
 +	base-invan	de trein	vervoert	passagiers		
 +	base-invan	de rugleuning	steunt	kantoorbedienden		
@@ -526,7 +526,7 @@
 +	aux-invan	de camera	zal	vrachtwagenchauffeurs	begeleiden	
 +	aux-invan	de complexen	zullen	een reiziger	beschermen	
 +	aux-invan	de aangiften	zullen	een huiseigenaar	betreffen	
-+	aux-invan	de hulpeloosheid	zal	een groenen	brandmerken	
++	aux-invan	de hulpeloosheid	zal	groenen	brandmerken	
 +	aux-invan	de zon	zal	zwemsters	verblinden	
 +	aux-invan	de trein	zal	passagiers	vervoeren	
 +	aux-invan	de rugleuning	zal	kantoorbedienden	steunen	
@@ -541,7 +541,7 @@
 +	spron-invan	ze	begeleidt	vrachtwagenchauffeurs		
 +	spron-invan	ze	beschermen	een reiziger		
 +	spron-invan	ze	betreffen	een huiseigenaar		
-+	spron-invan	ze	brandmerkt	een groenen		
++	spron-invan	ze	brandmerkt	groenen		
 +	spron-invan	ze	verblindt	zwemsters		
 +	spron-invan	hij	vervoert	passagiers		
 +	spron-invan	ze	steunt	kantoorbedienden		
@@ -567,7 +567,7 @@
 +	oneg-invan	de schoen	drukt	geen joggers		
 +	oneg-invan	de deadline	dringt	geen informatici		
 +	oneg-invan	de kachel	verwarmt	geen wandelaars		
-+	oneg-invan	de buien	doordrenkt	geen pendelaars		
++	oneg-invan	de bui	doordrenkt	geen pendelaars		
 +	oneg-invan	de camera	begeleidt	geen vrachtwagenchauffeurs		
 +	oneg-invan	de complexen	beschermen	geen reiziger		
 +	oneg-invan	de aangiften	betreffen	geen huiseigenaar		
@@ -586,7 +586,7 @@
 +	pp-invan	de camera	begeleidt	vrachtwagenchauffeurs	in een week	
 +	pp-invan	de complexen	beschermen	een reiziger	in een week	
 +	pp-invan	de aangiften	betreffen	een huiseigenaar	in een week	
-+	pp-invan	de hulpeloosheid	brandmerkt	een groenen	in een week	
++	pp-invan	de hulpeloosheid	brandmerkt	groenen	in een week	
 +	pp-invan	de zon	verblindt	zwemsters	in een week	
 +	pp-invan	de trein	vervoert	passagiers	in een week	
 +	pp-invan	de rugleuning	steunt	kantoorbedienden	in een week	
@@ -623,7 +623,7 @@
 +	amb-regpol	de universiteit	wint	een toer		
 +	amb-regpol	de concerns	nemen	constructies		
 +	aux-regpol	het kantoor	zal	aanvallen	beginnen	
-+	aux-regpol	de winkels	zullen	dubbellevens	leven	
++	aux-regpol	de winkels	zullen	een dubbelleven	leven	
 +	aux-regpol	het reclamebureau	zal	opnames	synchroniseren	
 +	aux-regpol	de gemeente	zal	droombruiloften	spelen	
 +	aux-regpol	het dorp	zal	kunstwerken	bekogelen	
@@ -653,7 +653,7 @@
 +	opron-regpol	de universiteiten	winnen	hem		
 +	opron-regpol	het concern	neemt	haar		
 +	oneg-regpol	het kantoor	begint	geen aanvallen		
-+	oneg-regpol	de winkels	leven	geen dubbellevens		
++	oneg-regpol	de winkels	leven	geen dubbelleven		
 +	oneg-regpol	het reclamebureau	synchroniseert	geen opnames		
 +	oneg-regpol	de gemeente	speelt	geen droombruiloften		
 +	oneg-regpol	het dorp	bekogelt	geen kunstwerken		
@@ -685,8 +685,8 @@
 +	oan-regpol	het kapsalon	benoemt	vertegenwoordigers		
 +	oan-regpol	het kantoor	interviewt	ECB-bazinnen		
 +	oan-regpol	het dorp	voedt	spinnen		
-+	oan-regpol	het bureau	krabt	een hondeneigenaars		
-+	oan-regpol	de winkels	beroeren	koks		
++	oan-regpol	het bureau	krabt	hondeneigenaren
++	oan-regpol	de winkels	beroeren	een kok
 +	oan-regpol	de praktijk	accepteert	sollicitanten		
 +	oan-regpol	het reclamebureau	imiteert	jazzpianisten		
 +	oan-regpol	de gemeente	huurt	verdelgers		
@@ -696,7 +696,7 @@
 +	oan-regpol	het districtskantoor	leidt	cursisten		
 +	oan-regpol	de scholen	bezoeken	een burgemeesteres		
 +	oan-regpol	het concern	behoeft	tolken		
-+	oan-regpol	de universiteit	bevrijdt	een behoeftige
++	oan-regpol	de universiteit	bevrijdt	behoeftigen
 +	base-snp	AkzoNobel	begint	aanvallen		
 +	base-snp	Balazs	leeft	dubbellevens		
 +	base-snp	Mercedes	synchroniseert	opnames		
@@ -772,25 +772,10 @@
 +	oneg-snp	Anouk	bouwt	geen hekken		
 +	oneg-snp	Nijmegen	wint	geen toeren		
 +	oneg-snp	Essent NV	neemt	geen constructies		
-+	pp-oneg	de generaal	begint	geen aanvallen	in een week	
-+	pp-oneg	de partners	leven	geen dubbelleven	in een week	
-+	pp-oneg	de journalist	synchroniseert	geen opnames	in een week	
-+	pp-oneg	de vriendinnen	spelen	geen droombruiloft	in een week	
-+	pp-oneg	de voorbijganger	bekogelt	geen kunstwerken	in een week	
-+	pp-oneg	de kinderen	vinden	geen oplossing	in een week	
-+	pp-oneg	de lezer	bestelt	geen tijdschriften	in een week	
-+	pp-oneg	de heer	scheert	geen baarden	in een week	
-+	pp-oneg	de mama’s	drinken	geen kopje koffie	in een week	
-+	pp-oneg	de schrijver	schrijft	geen romans	in een week	
-+	pp-oneg	de politicus	beëindigt	geen toespraken	in een week	
-+	pp-oneg	de parlementsleden	krijgen	geen basissalaris	in een week	
-+	pp-oneg	de boer	bouwt	geen hekken	in een week	
-+	pp-oneg	de sportvrouwen	winnen	geen toer	in een week	
-+	pp-oneg	de ambachtsman	neemt	geen constructies	in een week	
 +	oan-snp	AkzoNobel	benoemt	vertegenwoordigers		
 +	oan-snp	Balazs	interviewt	ECB-bazinnen		
 +	oan-snp	Harry	voedt	spinnen		
-+	oan-snp	Clooney	krabt	hondeneigenars		
++	oan-snp	Clooney	krabt	hondeneigenaren	
 +	oan-snp	Han Voskuil	beroert	koks		
 +	oan-snp	NPO 1	accepteert	sollicitanten		
 +	oan-snp	Mercedes	imiteert	jazzpianisten		
@@ -799,10 +784,10 @@
 +	oan-snp	Rutte	dirigeert	orkestmusici		
 +	oan-snp	Anouk	beschrijft	modellen		
 +	oan-snp	Essent NV	leidt	cursisten		
-+	oan-snp	Degas	bezoekt	een burgemeesteressen		
++	oan-snp	Degas	bezoekt	burgemeesteressen		
 +	oan-snp	Nijmegen	behoeft	tolken		
 +	oan-snp	Vietnam	bevrijdt	behoeftigen
-+	base-semas	de sterke	houdt	een zwakken		
++	base-semas	de sterke	houdt	zwakken		
 +	base-semas	de speurhonden	vinden	een prooi		
 +	base-semas	de kapper	scheert	klanten		
 +	base-semas	de politieman	arresteert	verdachten		
@@ -817,7 +802,7 @@
 +	base-semas	de priester	verzorgt	kerkgangers		
 +	base-semas	de examinatrice	test	examinandi		
 +	base-semas	de meester	corrigeert	leerjongens		
-+	amb-semas	de sterken	houden	een zwakken		
++	amb-semas	de sterken	houden	zwakken		
 +	amb-semas	de speurhond	vindt	een prooi		
 +	amb-semas	de kappers	scheren	klanten		
 +	amb-semas	de politieman	arresteert	een verdachte		
@@ -832,7 +817,7 @@
 +	amb-semas	de priester	verzorgt	een kerkganger		
 +	amb-semas	de examinatrice	test	een examinandus		
 +	amb-semas	de meesters	corrigeren	leerjongens		
-+	aux-semas	de sterke	zal	een zwakken houden		
++	aux-semas	de sterken	zullen	een zwakke houden		
 +	aux-semas	de speurhonden	zullen	een prooi	vinden	
 +	aux-semas	de kapper	zal	klanten	scheren	
 +	aux-semas	de politieman	zal	verdachten	arresteren	
@@ -847,7 +832,7 @@
 +	aux-semas	de priester	zal	kerkgangers	verzorgen	
 +	aux-semas	de examinatrice	zal	examinandi	testen	
 +	aux-semas	de meester	zal	leerjongens	corrigeren	
-+	oneg-semas	de sterke	houdt	geen zwakken		
++	oneg-semas	de sterken	houden	geen zwakke
 +	oneg-semas	de speurhonden	vinden	geen prooi		
 +	oneg-semas	de kapper	scheert	geen klanten		
 +	oneg-semas	de politieman	arresteert	geen verdachten		
@@ -862,7 +847,7 @@
 +	oneg-semas	de priester	verzorgt	geen kerkgangers		
 +	oneg-semas	de examinatrice	test	geen examinandi		
 +	oneg-semas	de meester	corrigeert	geen leerjongens		
-+	pp-semas	de sterke	houdt	een zwakken	in een week	
++	pp-semas	de sterken	houden	een zwakke	in een week	
 +	pp-semas	de speurhonden	vinden	een prooi	in een week	
 +	pp-semas	de kapper	scheert	klanten	in een week	
 +	pp-semas	de politieman	arresteert	verdachten	in een week	
@@ -877,7 +862,7 @@
 +	pp-semas	de priester	verzorgt	kerkgangers	in een week	
 +	pp-semas	de examinatrice	test	examinandi	in een week	
 +	pp-semas	de meester	corrigeert	leerjongens	in een week	
-+	regpol-semas	de parochie	houdt	een zwakken		
++	regpol-semas	de parochie	houdt	zwakken
 +	regpol-semas	de meute	vindt	prooien		
 +	regpol-semas	het kappersteam	scheert	klanten		
 +	regpol-semas	de politie	arresteert	verdachten		
@@ -965,7 +950,7 @@
 +	sinan-noref	de lekken	betekenen	niets		
 +	sinan-noref	de bomen	blokkeren	niets		
 +	sinan-noref	de ideeën	ontplooien	niets		
-+	sinan-noref	het afzetgebieden	openen	niets		
++	sinan-noref	de afzetgebieden	openen	niets		
 +	sinan-noref	de films	stichten	niets		
 +	oan-noref	de bestuursvoorzitters	benoemen	niemand		
 +	oan-noref	de televisiereporters	interviewen	niemand		
@@ -1140,7 +1125,7 @@
 +	regpol-psy	de romans	frustreren	een instituut		
 +	regpol-psy	de toespraken	agiteren	een districtskantoor		
 +	regpol-psy	het basissalaris	beschaamt	scholen		
-+	regpol-psy	het hek	berouwt	een garages		
++	regpol-psy	het hek	berouwt	garages	
 +	regpol-psy	de toer	amuseert	universiteiten		
 +	regpol-psy	de constructies	vermaken	een concern		
 +	snp-psy	de aanvallen	boeien	Mercedes		
@@ -1158,10 +1143,10 @@
 +	snp-psy	de hekken	berouwen	Anouk		
 +	snp-psy	de toeren	amuseren	Nijmegen		
 +	snp-psy	de constructies	vermaken	Essent NV		
-+	semas-psy	de zwakke	verveelt	een sterken		
-+	semas-psy	de prooi	boeit	een speurhonden		
++	semas-psy	de zwakke	verveelt	sterken		
++	semas-psy	de prooi	boeit	speurhonden		
 +	semas-psy	de afnemer	vertoornt	producenten		
-+	semas-psy	de ster	fascineert	een jongeren		
++	semas-psy	de ster	fascineert	jongeren		
 +	semas-psy	de zoons	bewegen	een moeder		
 +	semas-psy	de klanten	beangstigen	een kapper		
 +	semas-psy	de leerlingen	verbasen	een leraar		
@@ -1465,7 +1450,7 @@
 +	invan-syn	de camera	volgt	vrachtwagenchauffeurs		
 +	invan-syn	de complexen	behoeden	een reiziger		
 +	invan-syn	de aangiften	treffen	een huiseigenaar		
-+	invan-syn	de hulpeloosheid	merkt	een groenen		
++	invan-syn	de hulpeloosheid	merkt	groenen		
 +	invan-syn	de zon	irriteert	zwemsters		
 +	invan-syn	de trein	vervoert	passagiers		
 +	invan-syn	de rugleuning	ondersteunt	kantoorbedienden		
@@ -1501,7 +1486,7 @@
 +	snp-syn	Anouk	construeert	hekken		
 +	snp-syn	Nijmegen	behaalt	toeren		
 +	snp-syn	Essent NV	bestrijdt	constructies		
-+	semas-syn	de sterke	ondersteunt	een zwakken		
++	semas-syn	de sterken	ondersteunen	een zwakke
 +	semas-syn	de speurhonden	raden	een prooi		
 +	semas-syn	de kapper	knipt	klanten		
 +	semas-syn	de politieman	vat	verdachten		
