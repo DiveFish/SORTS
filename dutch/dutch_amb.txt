@@ -1038,51 +1038,48 @@
 +	pp-vlight	de auteurs	verdelen	rollen	in een week	
 +	pp-vlight	de mountainbiker	vervult	een hoop	in een week	
 +	pp-vlight	de persvoorlichter	bepaalt	hun houding	in een week	
-
-%TODO
-
-+	sinan-vlight	het programma	maakt	fouten		
-+	sinan-vlight	de software	begaat	misdaden		
-+	sinan-vlight	het systeem	neemt	beslissingen		
-+	sinan-vlight	de klik	doet	verzoeken		
-+	sinan-vlight	de chatbot	stelt	vragen		
-+	sinan-vlight	de vergunning	plaatst	orders		
-+	sinan-vlight	de onderwerpen	leveren	kritiek		
-+	sinan-vlight	de watermassa's	houden	rekening		
-+	sinan-vlight	de faxapparaten	nemen	afscheid		
-+	sinan-vlight	de omstandigheden	hebben	geluk		
-+	sinan-vlight	de ritssluitingen	bieden	weerstand		
-+	sinan-vlight	de boeken	verdelen	rollen		
-+	sinan-vlight	de verslagen	bepalen	hun houding		
-+	regpol-vlight	de praktijk	maakt	fouten		
-+	regpol-vlight	de winkel	begaat	misdaden		
-+	regpol-vlight	het districtskantoor	neemt	beslissingen		
-+	regpol-vlight	het reclamebureau	plaatst	orders		
-+	regpol-vlight	de redactie	stelt	vragen		
-+	regpol-vlight	het kapsalon	doet	verzoeken		
-+	regpol-vlight	de dorpen	hebben	geluk		
-+	regpol-vlight	de instituten	houden	rekening		
-+	regpol-vlight	de gemeenten	nemen	afscheid		
-+	regpol-vlight	de scholen	blazen	een aftocht		
-+	regpol-vlight	de bureaus	leveren	kritiek		
-+	regpol-vlight	de kantoren	bieden	weerstand		
-+	regpol-vlight	de universiteit	verdeelt	rollen		
-+	regpol-vlight	de garages	vervullen	een hoop		
-+	regpol-vlight	de concerns	bepalen	hun houding		
-+	snp-vlight	Mercedes	maakt	fouten		
-+	snp-vlight	AkzoNobel	begaat	misdaden		
-+	snp-vlight	Harry	neemt	beslissingen		
-+	snp-vlight	Balazs	plaatst	orders		
-+	snp-vlight	Clooney	stelt	vragen		
-+	snp-vlight	Han Voskuil	doet	verzoeken		
-+	snp-vlight	Gillette	heeft	geluk		
++	sinan-vlight	het programma	maakt	een fout
++	sinan-vlight	de software	begaat	een misdaad
++	sinan-vlight	het systeem	neemt	een beslissing
++	sinan-vlight	de klik	doet	een verzoek
++	sinan-vlight	de chatbot	stelt	een vraag	
++	sinan-vlight	de vergunning	plaatst	een order
++	sinan-vlight	het onderwerp	levert	kritiek		
++	sinan-vlight	de watermassa	houdt	rekening		
++	sinan-vlight	het faxapparaat	neemt	afscheid		
++	sinan-vlight	de omstandigheid	heeft	geluk		
++	sinan-vlight	de ritssluiting	biedt	weerstand		
++	sinan-vlight	de boeken	verdelen	rollen
++	sinan-vlight	het verslag	bepaalt	hun houding		
++	regpol-vlight	de praktijk	maakt	een fout
++	regpol-vlight	de winkel	begaat	een misdaad
++	regpol-vlight	het districtskantoor	neemt	een beslissing
++	regpol-vlight	het reclamebureau	plaatst	een order
++	regpol-vlight	de redactie	stelt	een vraag
++	regpol-vlight	het kapsalon	doet	een verzoek
++	regpol-vlight	het dorp	heeft	geluk		
++	regpol-vlight	het instituut	houdt	rekening		
++	regpol-vlight	de gemeente	neemt	afscheid		
++	regpol-vlight	de school	blaast	een aftocht		
++	regpol-vlight	het bureau	levert	kritiek		
++	regpol-vlight	het kantoor	biedt	weerstand		
++	regpol-vlight	de universiteiten	verdelen	rollen		
++	regpol-vlight	de garage	vervult	een hoop		
++	regpol-vlight	het concern	bepaalt	zijn houding		
++	snp-vlight	Mercedes	maakt	een fout
++	snp-vlight	AkzoNobel	begaat	een misdaad		
++	snp-vlight	Harry	neemt	een beslissing		
++	snp-vlight	Balazs	plaatst	een order
++	snp-vlight	Clooney	stelt	een vraag	
++	snp-vlight	Han Voskuil	doet	een verzoek
++	snp-vlight	Gillette	heeft	geluk
 +	snp-vlight	NPO 1	houdt	rekening		
 +	snp-vlight	Staf Coppens	neemt	afscheid		
 +	snp-vlight	Rutte	blaast	een aftochten		
-+	snp-vlight	Degas	hebben	geluk		
++	snp-vlight	Degas	levert	kritiek		
 +	snp-vlight	Vietnam	biedt	weerstand		
-+	snp-vlight	Anouk	verdeelt	rollen		
-+	snp-vlight	Nijmegen	vervult	een hopen		
++	snp-vlight	Anouk	verdeelt	een rol
++	snp-vlight	Nijmegen	vervult	een hoop		
 +	snp-vlight	Essent NV	bepaalt	zijn houding		
 +	base-syn	de generaals	starten	aanvallen		
 +	base-syn	de partner	leidt	een dubbelleven		
@@ -1099,256 +1096,252 @@
 +	base-syn	de boeren	construeren	hekken		
 +	base-syn	de sportvrouw	behaalt	een toer		
 +	base-syn	de ambachtsmannen	bestrijden	constructies		
-+	aux-syn	de generaal	zal	aanvallen	starten	
-+	aux-syn	de partners	zullen	een dubbelleven	leiden	
-+	aux-syn	de journalist	zal	opnames	dubben	
-+	aux-syn	de vriendinnen	zullen	een droombruiloft	ensceneren	
-+	aux-syn	de voorbijganger	zal	kunstwerken	begooien	
-+	aux-syn	de kinderen	zullen	een oplossing	raden	
-+	aux-syn	de lezer	zal	tijdschriften	bezorgen	
-+	aux-syn	de heer	zal	baarden	knippen	
-+	aux-syn	de mama’s	zullen	een kopje koffie	slurpen	
-+	aux-syn	de schrijver	zal	romans	noteren	
-+	aux-syn	de politicus	zal	toespraken	eindigen	
-+	aux-syn	de parlementsleden	zullen	een basissalaris	ontvangen	
-+	aux-syn	de boer	zal	hekken	construeren	
-+	aux-syn	de sportvrouwen	zullen	een toer	behalen	
-+	aux-syn	de ambachtsman	zal	constructies	bestrijden	
-+	spron-syn	hij	start	een aanval		
-+	spron-syn	ze	leiden	een dubbelleven		
-+	spron-syn	hij	dubt	opnames		
-+	spron-syn	we	ensceneren	een droombruiloft		
-+	spron-syn	hij	begooit	kunstwerken		
-+	spron-syn	ze	raden	een oplossing		
-+	spron-syn	ik	bezorg	een tijdschrift		
-+	spron-syn	je	knipt	baarden		
-+	spron-syn	jullie	slurpen	een kopje koffie		
-+	spron-syn	hij	noteert	een roman		
-+	spron-syn	we	eindigen	een toespraak		
-+	spron-syn	hij	ontvangt	een basissalaris		
-+	spron-syn	we	construeren	een hek		
-+	spron-syn	jullie	behalen	een toer		
-+	spron-syn	je	bestrijdt	constructies		
-+	opron-syn	de generaal	start	hem		
-+	opron-syn	de partners	leiden	het		
-+	opron-syn	de journalist	dubt	haar		
-+	opron-syn	de vriendin	ensceneert	hem		
-+	opron-syn	de voorbijganger	begooit	haar		
-+	opron-syn	de kinderen	raden	hem		
-+	opron-syn	de lezer	bezorgt	haar		
-+	opron-syn	de heer	knipt	hem		
-+	opron-syn	de mama’s	slurpen	het		
-+	opron-syn	de schrijver	noteert	hem		
-+	opron-syn	de politicus	eindigt	haar		
-+	opron-syn	de parlementsleden	ontvangen	hem		
-+	opron-syn	de boer	construeert	hem		
-+	opron-syn	de sportvrouwen	behalen	hem		
-+	opron-syn	de ambachtsman	bestrijdt	haar		
-+	oneg-syn	de generaal	start	geen aanvallen		
-+	oneg-syn	de partners	leiden	geen dubbelleven		
-+	oneg-syn	de journalist	dubt	geen opnames		
-+	oneg-syn	de vriendinnen	ensceneeren	geen droombruiloft		
-+	oneg-syn	de voorbijganger	begooit	geen kunstwerken		
-+	oneg-syn	de kinderen	raden	geen oplossing		
-+	oneg-syn	de lezer	bezorgt	geen tijdschriften		
-+	oneg-syn	de heer	knipt	geen baarden		
-+	oneg-syn	de mama's	slurpen	geen kopje koffie		
-+	oneg-syn	de schrijver	noteert	geen romans		
-+	oneg-syn	de politicus	eindigt	geen toespraken		
-+	oneg-syn	de parlementsleden	ontvangen	geen basissalaris		
-+	oneg-syn	de boer	construeert	geen hekken		
-+	oneg-syn	de sportvrouwen	behalen	geen toer		
-+	oneg-syn	de ambachtsman	bestrijdt	geen constructies		
-+	pp-syn	de aanval	boeit	generaals	in een week	
-+	pp-syn	het dubbelleven	verveelt	partners	in een week	
-+	pp-syn	de opnames	bezielen	een journalist	in een week	
-+	pp-syn	de droombruiloft	vertoornt	vriendinnen	in een week	
-+	pp-syn	de kunstwerken	fascineren	een voorbijganger	in een week	
-+	pp-syn	de oplossing	beweegt	kinderen	in een week	
-+	pp-syn	het tijdschrift	beangstigt	lezers	in een week	
-+	pp-syn	de baard	verbaast	heren	in een week	
-+	pp-syn	het kopje koffie	bevalt	mama’s	in een week	
-+	pp-syn	de roman	frustreert	schrijvers	in een week	
-+	pp-syn	de toespraken	agiteren	een politicus	in een week	
-+	pp-syn	het basissalaris	beschaamt	parlementsleden	in een week	
-+	pp-syn	de hekken	berouwen	een boer	in een week	
-+	pp-syn	de toer	amuseert	sportvrouwen	in een week	
-+	pp-syn	de constructies	vermaken	een ambachtsman	in een week	
-+	sinan-syn	het quotum	mijdt	argumenten		
-+	sinan-syn	het gas	overschrijdt	mensenrechten		
-+	sinan-syn	de muurreliëfs	schreeuwen	een hallo		
-+	sinan-syn	de werken	genereren	een erkenning		
-+	sinan-syn	de bekentenissen	wijzigen	een klimaat		
-+	sinan-syn	de cyclonen	bereiken	een kuststrook		
-+	sinan-syn	de orkanen	verwoesten	een plaats		
-+	sinan-syn	de video-installaties	maken	een afsluiting		
-+	sinan-syn	de aanvraag	verlangt	herstelbetalingen		
-+	sinan-syn	de vliegdekschepen	ontvluchten	een haven		
-+	sinan-syn	de lekken	bezweren	een einde		
-+	sinan-syn	de bomen	versperren	een uitzicht		
-+	sinan-syn	de ideeën	ontwikkelen	een kracht		
-+	sinan-syn	het afzetgebied	biedt	mogelijkheden		
-+	sinan-syn	de films	geven	een herstart		
-+	oan-syn	de bestuursvoorzitter	geroept	vertegenwoordigers		
-+	oan-syn	de televisiereporters	ondervragen	een ECB-bazin		
-+	oan-syn	de fokker	voedert	spinnen		
-+	oan-syn	de katten	krassen	een hondeneigenar		
-+	oan-syn	de ober	raakt	koks		
-+	oan-syn	de HR-manager	kiest	sollicitanten		
-+	oan-syn	de componisten	kopiëren	een jazzpianist		
-+	oan-syn	de huurders	belasten	een verdelger		
-+	oan-syn	de 18-jarige	wonden	tieners		
-+	oan-syn	de Zwitser	leidt	orkestmusici		
-+	oan-syn	de fotograaf	portretteert	modellen		
-+	oan-syn	de ingenieur	instrueert	cursisten		
-+	oan-syn	de deskundigen	raadplegen	een burgemeesteres		
-+	oan-syn	de pioniersters	benodigen	een tolk		
-+	oan-syn	de brandweerman	redt	een behoeftigen		
-+	invan-syn	de koppigheid	grijpt	badmeesters		
-+	invan-syn	de schuld	betreft	werknemers		
-+	invan-syn	de schoen	smart	joggers		
-+	invan-syn	de deadline	haast	informatici		
-+	invan-syn	de kachel	verwarmt	wandelaars		
-+	invan-syn	de bui	doorweekt	pendelaars		
-+	invan-syn	de camera	volgt	vrachtwagenchauffeurs		
-+	invan-syn	de complexen	behoeden	een reiziger		
-+	invan-syn	de aangiften	treffen	een huiseigenaar		
-+	invan-syn	de hulpeloosheid	merkt	een groenen		
-+	invan-syn	de zon	irriteert	zwemsters		
-+	invan-syn	de trein	vervoert	passagiers		
-+	invan-syn	de rugleuning	ondersteunt	kantoorbedienden		
-+	invan-syn	de broek	knelt	entertainers		
-+	invan-syn	de landbouw	dreigt	bijen		
-+	regpol-syn	het kantoor	start	aanvallen		
-+	regpol-syn	de winkels	leiden	een dubbelleven		
-+	regpol-syn	het reclamebureau	dubt	opnames		
-+	regpol-syn	de gemeente	ensceneert	droombruiloften		
-+	regpol-syn	het dorp	begooit	kunstwerken		
-+	regpol-syn	het bureau	raadt	oplossingen		
-+	regpol-syn	de praktijk	bezorgt	tijdschriften		
-+	regpol-syn	het kapsalon	knipt	baarden		
-+	regpol-syn	de redactie	slurpt	kopjes koffie		
-+	regpol-syn	de instituut	noteert	romans		
-+	regpol-syn	het districtskantoor	eindigt	toespraken		
-+	regpol-syn	de scholen	ontvangen	een basissalaris		
-+	regpol-syn	de garage	construeert	hekken		
-+	regpol-syn	de universiteiten	behalen	een toer		
-+	regpol-syn	het concern	bestrijdt	constructies		
-+	snp-syn	AkzoNobel	start	aanvallen		
-+	snp-syn	Balazs	leidt	dubbellevens		
-+	snp-syn	Mercedes	dubt	opnames		
-+	snp-syn	NPO 1	ensceneert	droombruiloften		
-+	snp-syn	Degas	begooit	kunstwerken		
-+	snp-syn	Staf Coppens	raadt	oplossingen		
-+	snp-syn	Harry	bezorgt	tijdschriften		
-+	snp-syn	Gillette	knipt	baarden		
-+	snp-syn	Clooney	slurpt	kopjes koffie		
-+	snp-syn	Han Voskuil	noteert	romans		
-+	snp-syn	Rutte	eindigt	toespraken		
-+	snp-syn	Vietnam	ontvangt	basissalarissen		
-+	snp-syn	Anouk	construeert	hekken		
-+	snp-syn	Nijmegen	behaalt	toeren		
-+	snp-syn	Essent NV	bestrijdt	constructies		
-+	semas-syn	de sterke	ondersteunt	een zwakken		
-+	semas-syn	de speurhonden	raden	een prooi		
-+	semas-syn	de kapper	knipt	klanten		
-+	semas-syn	de politieman	vat	verdachten		
-+	semas-syn	de leraar	leert	leerlingen		
-+	semas-syn	de moeder	stilt	zoons		
-+	semas-syn	de president	beveelt	soldaten		
-+	semas-syn	de superieur	suspendeert	employés		
-+	semas-syn	de producenten	verzorgen	een afnemer		
-+	semas-syn	de jongeren	vieren	een ster		
-+	semas-syn	de arts	geneest	patiënten		
-+	semas-syn	de eigenares	berispt	pachters		
-+	semas-syn	de priester	begeleidt	kerkgangers		
-+	semas-syn	de examinatrice	examineert	examinandi		
-+	semas-syn	de meester	verbetert	leerjongens		
-+	noref-syn	de generaals	starten	niets		
-+	noref-syn	de partners	leiden	niets		
-+	noref-syn	de journalisten	dubben	niets		
-+	noref-syn	de vriendinnen	ensceneren	niets		
-+	noref-syn	de voorbijgangers	begooien	niets		
-+	noref-syn	de kinderen	raden	niets		
-+	noref-syn	de lezers	bezorgen	niets		
-+	noref-syn	de heren	knippen	niets		
-+	noref-syn	de mama’s	slurpen	niets		
-+	noref-syn	de schrijvers	noteren	niets		
-+	noref-syn	de politici	eindigen	niets		
-+	noref-syn	de parlementsleden	ontvangen	niets		
-+	noref-syn	de boeren	construeren	niets		
-+	noref-syn	de sportvrouwen	behalen	niets		
-+	noref-syn	de ambachtsmannen	bestrijden	niets		
-+	psy-syn	de aanval	pakt	generaals		
-+	psy-syn	het dubbelleven	vermoeit	partners		
-+	psy-syn	de opnames	interesseren	een journalist		
-+	psy-syn	de droombruiloft	verontwaardigt	vriendinnen		
-+	psy-syn	de kunstwerken	imponeren	een voorbijganger		
-+	psy-syn	de oplossing	roert	kinderen		
-+	psy-syn	het tijdschrift	benauwt	lezers		
-+	psy-syn	de baard	verbluft	heren		
-+	psy-syn	het kopje koffie	behaagt	mama’s		
-+	psy-syn	de roman	demotiveert	schrijvers		
-+	psy-syn	de toespraken	hinderen	een politicus		
-+	psy-syn	het basissalaris	blameert	parlementsleden		
-+	psy-syn	de hekken	ergeren	een boer		
-+	psy-syn	de toer	vermaakt	sportvrouwen		
-+	psy-syn	de constructies	amuseren	een ambachtsman		
-+	base-idm	belofte	maakt	schuld		
-+	base-idm	de eersten	zijn	de laatsten		
++	aux-syn	de generaals	zullen	aanvallen	starten	
++	aux-syn	de partner	zal	een dubbelleven	leiden	
++	aux-syn	de journalisten	zullen	opnames	dubben	
++	aux-syn	de vriendin	zal	een droombruiloft	ensceneren	
++	aux-syn	de voorbijgangers	zullen	kunstwerken	begooien	
++	aux-syn	het kind	zal	een oplossing	raden	
++	aux-syn	de lezers	zullen	tijdschriften	bezorgen	
++	aux-syn	de heren	zullen	baarden	knippen	
++	aux-syn	de mama’s	zullen	kopjes koffie	slurpen	
++	aux-syn	de schrijvers	zullen	romans	noteren	
++	aux-syn	de politicus	zal	een toespraak	eindigen	
++	aux-syn	het parlementslid	zal	een basissalaris	ontvangen	
++	aux-syn	de boeren	zullen	hekken	construeren	
++	aux-syn	de sportvrouw	zal	een toer	behalen	
++	aux-syn	de ambachtsmannen	zullen	constructies	bestrijden	
++	spron-syn	ze	starten	aanvallen
++	spron-syn	jullie	leiden	dubbellevens
++	spron-syn	je	dubt	een opname	
++	spron-syn	ze	ensceneren	droombruiloften
++	spron-syn	ze	begooien	kunstwerken		
++	spron-syn	jullie	raden	oplossingen
++	spron-syn	ze	bezorgen	tijdschriften
++	spron-syn	ze	knippen	baarden		
++	spron-syn	ze	slurpen	kopjes koffie		
++	spron-syn	ze	noteren	romans		
++	spron-syn	jullie	eindigen	toespraken
++	spron-syn	jullie	ontvangen	basissalarissen
++	spron-syn	ze	construeren	hekken
++	spron-syn	je	behaalt	een toer		
++	spron-syn	ze	bestrijden	constructies		
++	opron-syn	de generaals	starten	ze		
++	opron-syn	de partner	leidt	het		
++	opron-syn	de journalisten	dubben	ze		
++	opron-syn	de vriendinnen	ensceneren	ze
++	opron-syn	de voorbijgangers	begooien	ze
++	opron-syn	het kind	raadt	het
++	opron-syn	de lezers	bezorgen	ze		
++	opron-syn	de heren	knippen	ze
++	opron-syn	de mama	slurpt	het		
++	opron-syn	de schrijvers	noteren	ze
++	opron-syn	de politici	eindigen	ze
++	opron-syn	de parlementsleden	ontvangen	ze
++	opron-syn	de boeren	construeren	ze	
++	opron-syn	de sportvrouwen	behalen	ze
++	opron-syn	de ambachtsmannen	bestrijden	ze
++	oneg-syn	de generaals	starten	geen aanvallen		
++	oneg-syn	de partner	leidt	geen dubbelleven		
++	oneg-syn	de journalisten	dubben	geen opnames		
++	oneg-syn	de vriendin	ensceneert	geen droombruiloft		
++	oneg-syn	de voorbijgangers	begooien	geen kunstwerken		
++	oneg-syn	het kind	raadt	geen oplossing		
++	oneg-syn	de lezers	bezorgen	geen tijdschriften		
++	oneg-syn	de heren	knippen	geen baarden		
++	oneg-syn	de mama's	slurpen	geen kopjes koffie		
++	oneg-syn	de schrijvers	noteren	geen romans		
++	oneg-syn	de politicus	eindigt	geen toespraak
++	oneg-syn	het parlementslid	ontvangt	geen basissalaris		
++	oneg-syn	de boeren	construeeren	geen hekken		
++	oneg-syn	de sportvrouw	behaalt	geen toer		
++	oneg-syn	de ambachtsmannen	bestrijden	geen constructies
++	pp-syn	de generaals	starten	aanvallen	in een week		
++	pp-syn	de partner	leidt	een dubbelleven	in een week		
++	pp-syn	de journalisten	dubben	opnames	in een week		
++	pp-syn	de vriendin	ensceneert	een droombruiloft	in een week		
++	pp-syn	de voorbijgangers	begooien	kunstwerken	in een week		
++	pp-syn	het kind	raadt	een oplossing	in een week		
++	pp-syn	de lezers	bezorgen	tijdschriften	in een week		
++	pp-syn	de heren	knippen	baarden	in een week		
++	pp-syn	de mama’s	slurpen	kopjes koffie	in een week		
++	pp-syn	de schrijvers	noteren	romans	in een week		
++	pp-syn	de politicus	eindigt	een toespraak	in een week		
++	pp-syn	het parlementslid	ontvangt	een basissalaris	in een week		
++	pp-syn	de boeren	construeren	hekken	in een week	
++	pp-syn	de sportvrouw	behaalt	een toer	in een week
++	pp-syn	de ambachtsmannen	bestrijden	constructies	in een week
++	sinan-syn	het quotum	mijdt	een argument
++	sinan-syn	de gassen	overschrijden	mensenrechten		
++	sinan-syn	het muurreliëf	schreeuwt	een hallo		
++	sinan-syn	het werk	genereert	een erkenning		
++	sinan-syn	de bekentenis	wijzigt	een klimaat		
++	sinan-syn	de cyclonen	bereiken	kuststroken
++	sinan-syn	de orkanen	verwoesten	plaatsen		
++	sinan-syn	de video-installatie	maakt	een afsluiting		
++	sinan-syn	de aanvragen	verlangen	herstelbetalingen		
++	sinan-syn	de vliegdekschepen	ontvluchten	havens
++	sinan-syn	het lek	bezweert	een einde		
++	sinan-syn	de boom	hindert	een uitzicht		
++	sinan-syn	het idee	ontwikkelt	een kracht		
++	sinan-syn	de afzetgebieden	bieden	mogelijkheden		
++	sinan-syn	de film	geeft	een herstart		
++	oan-syn	de bestuursvoorzitters	geroepen	vertegenwoordigers		
++	oan-syn	de televisiereporter	ondervraagt	een ECB-bazin		
++	oan-syn	de fokkers	voedern	spinnen		
++	oan-syn	de katten	krassen	hondeneigenaren
++	oan-syn	de obers	raken	koks		
++	oan-syn	de HR-manager	kiest	een sollicitant		
++	oan-syn	de componist	kopieert	een jazzpianist		
++	oan-syn	de huurders	belasten	verdelgers
++	oan-syn	de 18-jarigen	wonden	tieners		
++	oan-syn	de Zwitser	leidt	een orkestmusicus
++	oan-syn	de fotograaf	portretteert	een model		
++	oan-syn	de ingenieurs	instrueeren	cursisten		
++	oan-syn	de deskundige	raadpleegt	een burgemeesteres		
++	oan-syn	de pioniersters	benodigen	tolken
++	oan-syn	de brandweermannen	redden	behoeftigen		
++	invan-syn	de koppigheid	grijpt	een badmeester		
++	invan-syn	de schuld	betreft	eeb werknemer
++	invan-syn	de schoenen	smarten	joggers		
++	invan-syn	de deadline	haast	een informaticus
++	invan-syn	de kachels	verwarmen	wandelaars		
++	invan-syn	de buien	doorweken	pendelaars		
++	invan-syn	de camera's	volgen	vrachtwagenchauffeurs		
++	invan-syn	de complexen	behoeden	reizigers
++	invan-syn	de aangiften	treffen	huiseigenaren
++	invan-syn	de hulpeloosheid	merkt	een groene
++	invan-syn	de zon	irriteert	een zwemster	
++	invan-syn	de treinen	transporteren	passagiers		
++	invan-syn	de rugleuningen	ondersteunen	kantoorbedienden		
++	invan-syn	de broek	knelt	een entertainer
++	invan-syn	de landbouw	dreigt	een bij		
++	regpol-syn	de kantoren	starten	aanvallen		
++	regpol-syn	de winkel	leidt	een dubbelleven		
++	regpol-syn	het reclamebureau	dubt	een opname		
++	regpol-syn	de gemeente	ensceneert	een droombruiloft
++	regpol-syn	het dorp	begooit	een kunstwerk	
++	regpol-syn	het bureau	raadt	een oplossing		
++	regpol-syn	de praktijk	bezorgt	een tijdschrift
++	regpol-syn	de kapsalons	knippen	baarden
++	regpol-syn	de redactie	slurpt	een kopje koffie		
++	regpol-syn	de instituten	noteren	romans		
++	regpol-syn	het districtskantoor	eindigt	een toespraak		
++	regpol-syn	de school	ontvangt	een basissalaris		
++	regpol-syn	de garages	construeeren	hekken		
++	regpol-syn	de universiteit	behaalt	een toer		
++	regpol-syn	de concerns	bestrijden	constructies		
++	snp-syn	AkzoNobel	start	een aanvall
++	snp-syn	Balazs	leidt	een dubbelleven	
++	snp-syn	Mercedes	dubt	een opname		
++	snp-syn	NPO 1	ensceneert	een droombruiloft
++	snp-syn	Degas	begooit	een kunstwerk	
++	snp-syn	Staf Coppens	raadt	een oplossing
++	snp-syn	Harry	bezorgt	een tijdschrift		
++	snp-syn	Gillette	knipt	een baard
++	snp-syn	Clooney	slurpt	een kopje koffie		
++	snp-syn	Han Voskuil	noteert	een roman
++	snp-syn	Rutte	eindigt	een toespraak
++	snp-syn	Vietnam	ontvangt	een basissalaris
++	snp-syn	Anouk	construeert	een hek
++	snp-syn	Nijmegen	behaalt	een toer
++	snp-syn	Essent NV	bestrijdt	een constructie
++	semas-syn	de sterke	ondersteunt	zwakken		
++	semas-syn	de speurhond	raadt	een prooi		
++	semas-syn	de kappers	knippen	klanten		
++	semas-syn	de politieman	vat	een verdachte
++	semas-syn	de leraren	leren	leerlingen		
++	semas-syn	de moeders	stillen	zoons		
++	semas-syn	de presidenten	bevelen	soldaten		
++	semas-syn	de superieuren	suspenderen	employés		
++	semas-syn	de producenten	verzorgen	afnemers
++	semas-syn	de jongeren	vieren	sterren	
++	semas-syn	de artsen	genesen	patiënten		
++	semas-syn	de eigenaressen	berispen	pachters		
++	semas-syn	de priester	begeleidt	een kerkganger
++	semas-syn	de examinatrice	examineert	een examinandus
++	semas-syn	de meesters	verbeteren	leerjongens		
++	noref-syn	de generaal	start	niets		
++	noref-syn	de partner	leidt	niets		
++	noref-syn	de journalist	dubt	niets		
++	noref-syn	de vriendin	ensceneert	niets		
++	noref-syn	de voorbijganger	begooit	niets		
++	noref-syn	het kind	raadt	niets		
++	noref-syn	de lezer	bezorgt	niets		
++	noref-syn	de heer	knipt	niets		
++	noref-syn	de mama	slurpt	niets		
++	noref-syn	de schrijver	noteert	niets		
++	noref-syn	de politicus	eindigt	niets		
++	noref-syn	het parlementslid	ontvangt	niets		
++	noref-syn	de boer	construeert	niets		
++	noref-syn	de sportvrouw	behaalt	niets		
++	noref-syn	de ambachtsman	bestrijdt	niets		
++	psy-syn	de aanvallen	pakken	generaals		
++	psy-syn	het dubbelleven	vermoeit	een partner		
++	psy-syn	de opnames	interesseren	journalisten		
++	psy-syn	de droombruiloft	verontwaardigt	een vriendin
++	psy-syn	de kunstwerken	imponeren	voorbijgangers		
++	psy-syn	de oplossing	roert	een kind		
++	psy-syn	het tijdschrift	benauwt	een lezer
++	psy-syn	de baarden	verbluffen	heren		
++	psy-syn	de kopjes koffie	behagen	mama’s		
++	psy-syn	de romans	demotiveren	schrijvers		
++	psy-syn	de toespraken	hinderen	politici
++	psy-syn	het basissalaris	blameert	een parlementslid
++	psy-syn	de hekken	ergeren	boeren		
++	psy-syn	de toer	vermaakt	een sportvrouw
++	psy-syn	de constructies	amuseren	ambachtsmannen
++	base-idm	belofte	maakt	schuld
++	base-idm	de eerste	is	de laatste
 +	base-idm	de gestadige drup	holt	de steen		
-+	base-idm	de grote vissen	eten	de kleine		
++	base-idm	de grote vis	eet	de kleine		
 +	base-idm	de muren	hebben	oren		
-+	base-idm	de ratten	verlaten	het zinkende schip		
++	base-idm	de rat	verlaat	het zinkende schip		
 +	base-idm	de uitkomst	leert	het		
-+	base-idm	de uitzondering	bevestigt	de regel		
-+	base-idm	goed voorgaan	doet	goed volgen		
++	base-idm	de uitzondering	bevestigt	de regel
 +	base-idm	goede wijn	behoeft	geen krans		
-+	base-idm	het geluk	helpt	de dapperen		
++	base-idm	het geluk	helpt	de dappere	
 +	base-idm	kleine potjes	hebben	grote oren		
 +	base-idm	leugens	hebben	korte benen		
 +	base-idm	het doel	heiligt	de middel		
-+	base-idm	tijd	heelt	alle wonden		
++	base-idm	tijd	heelt	elke wond		
 +	aux-idm	belofte	zal	schuld	maken	
-+	aux-idm	de eersten	zullen	de laatsten	zijn	
++	aux-idm	de eerste	zal	de laatste	zijn	
 +	aux-idm	de gestadige drup	zal	de steen	holen	
-+	aux-idm	de grote vissen	zullen	de kleine	eten	
++	aux-idm	de grote vis	zal	de kleine	eten	
 +	aux-idm	de muren	zullen	oren	hebben	
-+	aux-idm	de ratten	zullen	het zinkende schip	verlaten	
++	aux-idm	de rat	zal	het zinkende schip	verlaten	
 +	aux-idm	de uitkomst	zal	het	leren	
-+	aux-idm	de uitzondering	zal	de regel	bevestigen	
-+	aux-idm	goed voorgaan	zal	goed volgen	doen	
++	aux-idm	de uitzondering	zal	de regel	bevestigen
 +	aux-idm	goede wijn	zal	geen krans	behoeven	
-+	aux-idm	het geluk	zal	de dapperen	helpen	
++	aux-idm	het geluk	zal	de dappere	helpen	
 +	aux-idm	kleine potjes	zullen	grote oren	hebben	
 +	aux-idm	leugens	zullen	korte benen	hebben	
 +	aux-idm	het doel	zal	de middel	heiligen	
-+	aux-idm	tijd	zal	alle wonden	helen	
++	aux-idm	tijd	zal	elke wond	helen	
 +	oneg-idm	belofte	maakt	geen schuld		
-+	oneg-idm	de eersten	zijn	geen laatsten		
++	oneg-idm	de eerste	is	geen laatste
 +	oneg-idm	de gestadige drup	holt	geen steen		
-+	oneg-idm	de grote vissen	eten	geen kleine		
++	oneg-idm	de grote vis	eet	geen kleine		
 +	oneg-idm	de muren	hebben	geen oren		
-+	oneg-idm	de ratten	verlaten	geen zinkende schip		
++	oneg-idm	de rat	verlaat	geen zinkende schip		
 +	oneg-idm	de uitzondering	bevestigt	geen regel		
-+	oneg-idm	goed voorgaan	doet	geen goed volgen		
-+	oneg-idm	het geluk	helpt	geen dapperen		
++	oneg-idm	het geluk	helpt	geen dappere		
 +	oneg-idm	kleine potjes	hebben	geen grote oren		
 +	oneg-idm	leugens	hebben	geen korte benen		
 +	oneg-idm	het doel	heiligt	geen middel		
-+	oneg-idm	tijd	heelt	geen wonden		
++	oneg-idm	tijd	heelt	geen wond
 +	pp-idm	belofte	maakt	schuld	in een week	
-+	pp-idm	de eersten	zijn	de laatsten	in een week	
++	pp-idm	de eerste	is	de laatste	in een week	
 +	pp-idm	de gestadige drup	holt	de steen	in een week	
-+	pp-idm	de grote vissen	eten	de kleine	in een week	
++	pp-idm	de grote vis	eet	de kleine	in een week	
 +	pp-idm	de muren	hebben	oren	in een week	
-+	pp-idm	de ratten	verlaten	het zinkende schip	in een week	
++	pp-idm	de rat	verlaat	het zinkende schip	in een week	
 +	pp-idm	de uitkomst	leert	het	in een week	
 +	pp-idm	de uitzondering	bevestigt	de regel	in een week	
-+	pp-idm	goed voorgaan	doet	goed volgen	in een week	
 +	pp-idm	goede wijn	behoeft	geen krans	in een week	
-+	pp-idm	het geluk	helpt	de dapperen	in een week	
++	pp-idm	het geluk	helpt	de dappere	in een week	
 +	pp-idm	kleine potjes	hebben	grote oren	in een week	
 +	pp-idm	leugens	hebben	korte benen	in een week	
 +	pp-idm	het doel	heiligt	de middel	in een week	
-+	pp-idm	tijd	heelt	alle wonden	in een week	
++	pp-idm	tijd	heelt	elke wond	in een week	

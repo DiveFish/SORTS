@@ -1274,7 +1274,7 @@
 +	sinan-vlight	de faxapparaten	nemen	afscheid		
 +	sinan-vlight	de omstandigheden	hebben	geluk		
 +	sinan-vlight	de ritssluitingen	bieden	weerstand		
-+	sinan-vlight	de boeken	verdelen	rollen		
++	sinan-vlight	het boek	verdeelt	rollen		
 +	sinan-vlight	de verslagen	bepalen	hun houding		
 +	regpol-vlight	de praktijk	maakt	fouten		
 +	regpol-vlight	de winkel	begaat	misdaden		
@@ -1301,10 +1301,10 @@
 +	snp-vlight	NPO 1	houdt	rekening		
 +	snp-vlight	Staf Coppens	neemt	afscheid		
 +	snp-vlight	Rutte	blaast	een aftochten		
-+	snp-vlight	Degas	hebben	geluk		
++	snp-vlight	Degas	levert	kritiek		
 +	snp-vlight	Vietnam	biedt	weerstand		
 +	snp-vlight	Anouk	verdeelt	rollen		
-+	snp-vlight	Nijmegen	vervult	een hopen		
++	snp-vlight	Nijmegen	vervult	een hoop		
 +	snp-vlight	Essent NV	bepaalt	zijn houding		
 +	base-syn	de generaal	start	aanvallen		
 +	base-syn	de partners	leiden	een dubbelleven		
@@ -1395,22 +1395,22 @@
 +	oneg-syn	de parlementsleden	ontvangen	geen basissalaris		
 +	oneg-syn	de boer	construeert	geen hekken		
 +	oneg-syn	de sportvrouwen	behalen	geen toer		
-+	oneg-syn	de ambachtsman	bestrijdt	geen constructies		
-+	pp-syn	de aanval	boeit	generaals	in een week	
-+	pp-syn	het dubbelleven	verveelt	partners	in een week	
-+	pp-syn	de opnames	bezielen	een journalist	in een week	
-+	pp-syn	de droombruiloft	vertoornt	vriendinnen	in een week	
-+	pp-syn	de kunstwerken	fascineren	een voorbijganger	in een week	
-+	pp-syn	de oplossing	beweegt	kinderen	in een week	
-+	pp-syn	het tijdschrift	beangstigt	lezers	in een week	
-+	pp-syn	de baard	verbaast	heren	in een week	
-+	pp-syn	het kopje koffie	bevalt	mama’s	in een week	
-+	pp-syn	de roman	frustreert	schrijvers	in een week	
-+	pp-syn	de toespraken	agiteren	een politicus	in een week	
-+	pp-syn	het basissalaris	beschaamt	parlementsleden	in een week	
-+	pp-syn	de hekken	berouwen	een boer	in een week	
-+	pp-syn	de toer	amuseert	sportvrouwen	in een week	
-+	pp-syn	de constructies	vermaken	een ambachtsman	in een week	
++	oneg-syn	de ambachtsman	bestrijdt	geen constructies	
++	pp-syn	de generaal	start	aanvallen	in een week		
++	pp-syn	de partners	leiden	een dubbelleven	in een week		
++	pp-syn	de journalist	dubt	opnames	in een week		
++	pp-syn	de vriendinnen	ensceneren	een droombruiloft	in een week		
++	pp-syn	de voorbijganger	begooit	kunstwerken	in een week		
++	pp-syn	de kinderen	raden	een oplossing	in een week		
++	pp-syn	de lezer	bezorgt	tijdschriften	in een week		
++	pp-syn	de heer	knipt	baarden	in een week		
++	pp-syn	de mama’s	slurpen	een kopje koffie	in een week		
++	pp-syn	de schrijver	noteert	romans	in een week	
++	pp-syn	de politicus	eindigt	toespraken	in een week
++	pp-syn	de parlementsleden	ontvangen	een basissalaris	in een week
++	pp-syn	de boer	construeert	hekken	in een week
++	pp-syn	de sportvrouwen	behalen	een toer	in een week
++	pp-syn	de ambachtsmannen	bestrijden	een constructie	in een week
 +	sinan-syn	het quotum	mijdt	argumenten		
 +	sinan-syn	het gas	overschrijdt	mensenrechten		
 +	sinan-syn	de muurreliëfs	schreeuwen	een hallo		
@@ -1422,7 +1422,7 @@
 +	sinan-syn	de aanvraag	verlangt	herstelbetalingen		
 +	sinan-syn	de vliegdekschepen	ontvluchten	een haven		
 +	sinan-syn	de lekken	bezweren	een einde		
-+	sinan-syn	de bomen	versperren	een uitzicht		
++	sinan-syn	de bomen	hinderen	een uitzicht		
 +	sinan-syn	de ideeën	ontwikkelen	een kracht		
 +	sinan-syn	het afzetgebied	biedt	mogelijkheden		
 +	sinan-syn	de films	geven	een herstart		
@@ -1434,7 +1434,7 @@
 +	oan-syn	de HR-manager	kiest	sollicitanten		
 +	oan-syn	de componisten	kopiëren	een jazzpianist		
 +	oan-syn	de huurders	belasten	een verdelger		
-+	oan-syn	de 18-jarige	wonden	tieners		
++	oan-syn	de 18-jarige	wondt	tieners		
 +	oan-syn	de Zwitser	leidt	orkestmusici		
 +	oan-syn	de fotograaf	portretteert	modellen		
 +	oan-syn	de ingenieur	instrueert	cursisten		
@@ -1452,7 +1452,7 @@
 +	invan-syn	de aangiften	treffen	een huiseigenaar		
 +	invan-syn	de hulpeloosheid	merkt	groenen		
 +	invan-syn	de zon	irriteert	zwemsters		
-+	invan-syn	de trein	vervoert	passagiers		
++	invan-syn	de trein	transporteert	passagiers		
 +	invan-syn	de rugleuning	ondersteunt	kantoorbedienden		
 +	invan-syn	de broek	knelt	entertainers		
 +	invan-syn	de landbouw	dreigt	bijen		
@@ -1538,13 +1538,12 @@
 +	base-idm	de muren	hebben	oren		
 +	base-idm	de ratten	verlaten	het zinkende schip		
 +	base-idm	de uitkomst	leert	het		
-+	base-idm	de uitzondering	bevestigt	de regel		
-+	base-idm	goed voorgaan	doet	goed volgen		
++	base-idm	de uitzondering	bevestigt	de regel	
 +	base-idm	goede wijn	behoeft	geen krans		
 +	base-idm	het geluk	helpt	de dapperen		
 +	base-idm	kleine potjes	hebben	grote oren		
 +	base-idm	leugens	hebben	korte benen		
-+	base-idm	het doel	heiligt	de middel		
++	base-idm	het doel	heiligt	de middelen		
 +	base-idm	tijd	heelt	alle wonden		
 +	aux-idm	belofte	zal	schuld	maken	
 +	aux-idm	de eersten	zullen	de laatsten	zijn	
@@ -1553,8 +1552,7 @@
 +	aux-idm	de muren	zullen	oren	hebben	
 +	aux-idm	de ratten	zullen	het zinkende schip	verlaten	
 +	aux-idm	de uitkomst	zal	het	leren	
-+	aux-idm	de uitzondering	zal	de regel	bevestigen	
-+	aux-idm	goed voorgaan	zal	goed volgen	doen	
++	aux-idm	de uitzondering	zal	de regel	bevestigen
 +	aux-idm	goede wijn	zal	geen krans	behoeven	
 +	aux-idm	het geluk	zal	de dapperen	helpen	
 +	aux-idm	kleine potjes	zullen	grote oren	hebben	
@@ -1567,12 +1565,11 @@
 +	oneg-idm	de grote vissen	eten	geen kleine		
 +	oneg-idm	de muren	hebben	geen oren		
 +	oneg-idm	de ratten	verlaten	geen zinkende schip		
-+	oneg-idm	de uitzondering	bevestigt	geen regel		
-+	oneg-idm	goed voorgaan	doet	geen goed volgen		
++	oneg-idm	de uitzondering	bevestigt	geen regel	
 +	oneg-idm	het geluk	helpt	geen dapperen		
 +	oneg-idm	kleine potjes	hebben	geen grote oren		
 +	oneg-idm	leugens	hebben	geen korte benen		
-+	oneg-idm	het doel	heiligt	geen middel		
++	oneg-idm	het doel	heiligt	geen middelen		
 +	oneg-idm	tijd	heelt	geen wonden		
 +	pp-idm	belofte	maakt	schuld	in een week	
 +	pp-idm	de eersten	zijn	de laatsten	in een week	
@@ -1582,10 +1579,9 @@
 +	pp-idm	de ratten	verlaten	het zinkende schip	in een week	
 +	pp-idm	de uitkomst	leert	het	in een week	
 +	pp-idm	de uitzondering	bevestigt	de regel	in een week	
-+	pp-idm	goed voorgaan	doet	goed volgen	in een week	
 +	pp-idm	goede wijn	behoeft	geen krans	in een week	
 +	pp-idm	het geluk	helpt	de dapperen	in een week	
 +	pp-idm	kleine potjes	hebben	grote oren	in een week	
 +	pp-idm	leugens	hebben	korte benen	in een week	
-+	pp-idm	het doel	heiligt	de middel	in een week	
++	pp-idm	het doel	heiligt	de middelen	in een week	
 +	pp-idm	tijd	heelt	alle wonden	in een week	
