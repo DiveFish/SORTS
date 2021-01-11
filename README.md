@@ -1,5 +1,5 @@
 # SORTS
-A Subject-Object Resolution Test Suite of German minimal sentence pairs for morpho-syntactic and semantic model introspection.
+A Subject-Object Resolution Test Suite of German minimal sentence pairs for morpho-syntactic and semantic model introspection, described in detail in the [SORTS paper](https://www.aclweb.org/anthology/2020.coling-main.269.pdf) (_When Beards Start Shaving Men: A Subject-object Resolution Test Suite for Morpho-syntactic and Semantic Model Introspection_, Fischer et al., COLING 2020).
 
 The SORTS test suite consists of 18,502 monotransitive clauses, annotated with the following property classes:
 
