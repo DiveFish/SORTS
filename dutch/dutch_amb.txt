@@ -728,19 +728,19 @@
 +	aux-noref	de sportvrouw	zal	niets	winnen
 +	aux-noref	de ambachtsman	zal	niets	nemen
 +	spron-noref	ze	begint	niets
-+	spron-noref	je	leven	niets
++	spron-noref	je	leeft	niets
 +	spron-noref	je	synchroniseert	niets
-+	spron-noref	ze	spelen	niets
++	spron-noref	ze	speelt	niets
 +	spron-noref	ze	bekogelt	niets
-+	spron-noref	je	vinden	niets
-+	spron-noref	ze	bestel	niets
-+	spron-noref	ze	scheren	niets
-+	spron-noref	ze	drinken	niets
++	spron-noref	je	vindt	niets
++	spron-noref	ze	bestelt	niets
++	spron-noref	ze	scheert	niets
++	spron-noref	ze	drinkt	niets
 +	spron-noref	ze	schrijft	niets
-+	spron-noref	je	beëindigen	niets
-+	spron-noref	je	krijgen	niets
-+	spron-noref	ze	bouwen	niets
-+	spron-noref	je	winnen	niets
++	spron-noref	je	beëindigt	niets
++	spron-noref	je	krijget	niets
++	spron-noref	ze	bouwt	niets
++	spron-noref	je	wint	niets
 +	spron-noref	ze	neemt	niets
 +	sinan-noref	het quotum	vermijdt	niets
 +	sinan-noref	het gas	schendt	niets
