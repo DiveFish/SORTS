@@ -1,7 +1,7 @@
 # SORTS
 A Subject-Object Resolution Test Suite of German and Dutch minimal sentence pairs for morpho-syntactic and semantic model introspection.
 
-The SORTS test suite consists of monotransitive clauses (18,502 German, ? Dutch), annotated with the following property classes:
+The SORTS test suite consists of monotransitive clauses (18,502 German; 14,670 Dutch), annotated with the following property classes:
 
 |Property | Annotation |
 |:------------- |:-------------|
