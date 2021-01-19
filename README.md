@@ -1,5 +1,5 @@
 # SORTS
-A Subject-Object Resolution Test Suite of German minimal sentence pairs for morpho-syntactic and semantic model introspection, described in detail in the [SORTS paper](https://www.aclweb.org/anthology/2020.coling-main.269.pdf) (_When Beards Start Shaving Men: A Subject-object Resolution Test Suite for Morpho-syntactic and Semantic Model Introspection_, Fischer et al., COLING 2020).
+A Subject-Object Resolution Test Suite of German and Dutch minimal sentence pairs for morpho-syntactic and semantic model introspection, described in detail in the [SORTS paper](https://www.aclweb.org/anthology/2020.coling-main.269.pdf) (Fischer et al., _When Beards Start Shaving Men: A Subject-object Resolution Test Suite for Morpho-syntactic and Semantic Model Introspection_, COLING 2020).
 
 The SORTS test suite consists of monotransitive clauses (18,502 German; 14,670 Dutch), annotated with the following property classes:
 
@@ -55,9 +55,8 @@ Sentences with particular properties can be extracted from the test suite using 
 - Morphological information
 
 ### Test suite subsets
-- `german_part-ambiguous_gold`: only the `amb` variant displays case syncretism between subject and object
-- `german_ambiguous_gold`: all sentences display case syncretism between subject and object; no `dat` and `amb` variants
+- `part-ambiguous_gold`: only the `amb` variant displays case syncretism between subject and object
+- `ambiguous_gold`: all sentences display case syncretism between subject and object; no `dat` and `amb` variants
 
 ### In progress
-- The Dutch translation of this test suite - will be interesting since Dutch only allows subject-object disambiguation via subject-verb agreement, no case marking!
 - A PP attachment test suite - more brain teasers for NLP systems...
