@@ -58,5 +58,8 @@ Sentences with particular properties can be extracted from the test suite using 
 - `part-ambiguous_gold`: only the `amb` variant displays case syncretism between subject and object
 - `ambiguous_gold`: all sentences display case syncretism between subject and object; no `dat` and `amb` variants
 
+### Utilities
+Data processing utilities, e.g. to convert between different formats, are available in the repository of the PP test suite [PPATS](https://github.com/DiveFish/PPATS).
+
 ### In progress
-- A PP attachment test suite - more brain teasers for NLP systems...
+- A [PP attachment test suite](https://github.com/DiveFish/PPATS) - more brain teasers for NLP systems...
