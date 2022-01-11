@@ -61,5 +61,5 @@ Sentences with particular properties can be extracted from the test suite using 
 ### Utilities
 Data processing utilities, e.g. to convert between different formats, are available in the repository of the PP test suite [PPATS](https://github.com/DiveFish/PPATS).
 
-### In progress
-- A [PP attachment test suite](https://github.com/DiveFish/PPATS) - more brain teasers for NLP systems...
+### Looking for a PP test suite?
+- Then check out the German [PPATS PP attachment test suite](https://github.com/DiveFish/PPATS) - more brain teasers for NLP systems! :tada:
