@@ -7514,78 +7514,78 @@ VF[O]LK[V]MF[S]	psy-syn	5	2	Een aannemer amuseren de constructies .
 VF[ADV]LK[V]MF[SO]	psy-syn	4	6	Daarom amuseren de constructies een aannemer .
 LK[V]MF[SO]	psy-syn	3	5	Amuseren de constructies een aannemer ?
 MF[SO]VC[V]	psy-syn	3	5	Omdat de constructies een aannemer amuseren .
-VF[S]LK[V]MF[O]	base-idm	2	6	De ratten verlaten het zinkende schip .
-VF[O]LK[V]MF[S]	base-idm	6	3	Het zinkende schip verlaten de ratten .
-VF[ADV]LK[V]MF[SO]	base-idm	4	7	Daarom verlaten de ratten het zinkende schip .
-LK[V]MF[SO]	base-idm	3	6	Verlaten de ratten het zinkende schip ?
-MF[SO]VC[V]	base-idm	3	6	Omdat de ratten het zinkende schip verlaten .
-VF[S]LK[V]MF[O]	base-idm	2	5	Het geluk helpt de dapperen .
-VF[ADV]LK[V]MF[SO]	base-idm	4	6	Daarom helpt het geluk de dapperen .
-LK[V]MF[SO]	base-idm	3	5	Helpt het geluk de dapperen ?
-MF[SO]VC[V]	base-idm	3	5	Omdat het geluk de dapperen helpt .
-VF[S]LK[V]MF[O]	base-idm	2	5	Het doel heiligt de middelen .
-VF[ADV]LK[V]MF[SO]	base-idm	4	6	Daarom heiligt het doel de middelen .
-LK[V]MF[SO]	base-idm	3	5	Heiligt het doel de middelen ?
-MF[SO]VC[V]	base-idm	3	5	Omdat het doel de middelen heiligt .
-VF[S]LK[V]MF[O]	base-idm	1	4	Tijd heelt alle wonden .
-VF[O]LK[V]MF[S]	base-idm	4	2	Alle wonden heelt tijd .
-VF[ADV]LK[V]MF[SO]	base-idm	3	5	Daarom heelt tijd alle wonden .
-LK[V]MF[SO]	base-idm	2	4	Heelt tijd alle wonden ?
-MF[SO]VC[V]	base-idm	2	4	Omdat tijd alle wonden heelt .
-VF[S]LK[V]MF[O]	aux-idm	2	6	De ratten zullen het zinkende schip verlaten .
-VF[O]LK[V]MF[S]	aux-idm	6	3	Het zinkende schip zullen de ratten verlaten .
-VF[ADV]LK[V]MF[SO]	aux-idm	4	7	Daarom zullen de ratten het zinkende schip verlaten .
-LK[V]MF[SO]	aux-idm	3	6	Zullen de ratten het zinkende schip verlaten ?
-MF[SO]VC[V]	aux-idm	3	6	Omdat de ratten het zinkende schip zullen verlaten .
-VF[S]LK[V]MF[O]	aux-idm	2	5	Het geluk zal de dapperen helpen .
-VF[ADV]LK[V]MF[SO]	aux-idm	4	6	Daarom zal het geluk de dapperen helpen .
-LK[V]MF[SO]	aux-idm	3	5	Zal het geluk de dapperen helpen ?
-MF[SO]VC[V]	aux-idm	3	5	Omdat het geluk de dapperen zal helpen .
-VF[S]LK[V]MF[O]	aux-idm	2	5	Het doel zal het middel heiligen .
-VF[ADV]LK[V]MF[SO]	aux-idm	4	6	Daarom zal het doel het middel heiligen .
-LK[V]MF[SO]	aux-idm	3	5	Zal het doel het middel heiligen ?
-MF[SO]VC[V]	aux-idm	3	5	Omdat het doel het middel zal heiligen .
-VF[S]LK[V]MF[O]	aux-idm	1	4	Tijd zal alle wonden helen .
-VF[O]LK[V]MF[S]	aux-idm	4	2	Alle wonden zal tijd helen .
-VF[ADV]LK[V]MF[SO]	aux-idm	3	5	Daarom zal tijd alle wonden helen .
-LK[V]MF[SO]	aux-idm	2	4	Zal tijd alle wonden helen ?
-MF[SO]VC[V]	aux-idm	2	4	Omdat tijd alle wonden zal helen .
-VF[S]LK[V]MF[O]	oneg-idm	2	6	De ratten verlaten geen zinkend schip .
-VF[O]LK[V]MF[S]	oneg-idm	6	3	Geen zinkend schip verlaten de ratten .
-VF[ADV]LK[V]MF[SO]	oneg-idm	4	7	Daarom verlaten de ratten geen zinkend schip .
-LK[V]MF[SO]	oneg-idm	3	6	Verlaten de ratten geen zinkend schip ?
-MF[SO]VC[V]	oneg-idm	3	6	Omdat de ratten geen zinkend schip verlaten .
-VF[S]LK[V]MF[O]	oneg-idm	2	5	Het geluk helpt geen dapperen .
-VF[ADV]LK[V]MF[SO]	oneg-idm	4	6	Daarom helpt het geluk geen dapperen .
-LK[V]MF[SO]	oneg-idm	3	5	Helpt het geluk geen dapperen ?
-MF[SO]VC[V]	oneg-idm	3	5	Omdat het geluk geen dapperen helpt .
-VF[S]LK[V]MF[O]	oneg-idm	2	5	Het doel heiligt geen middelen .
-VF[ADV]LK[V]MF[SO]	oneg-idm	4	6	Daarom heiligt het doel geen middelen .
-LK[V]MF[SO]	oneg-idm	3	5	Heiligt het doel geen middelen ?
-MF[SO]VC[V]	oneg-idm	3	5	Omdat het doel geen middelen heiligt .
-VF[S]LK[V]MF[O]	oneg-idm	1	4	Tijd heelt geen wonden .
-VF[O]LK[V]MF[S]	oneg-idm	4	2	Geen wonden heelt tijd .
-VF[ADV]LK[V]MF[SO]	oneg-idm	3	5	Daarom heelt tijd geen wonden .
-LK[V]MF[SO]	oneg-idm	2	4	Heelt tijd geen wonden ?
-MF[SO]VC[V]	oneg-idm	2	4	Omdat tijd geen wonden heelt .
-VF[S]LK[V]MF[O]	pp-idm	2	9	De ratten verlaten na een week het zinkende schip .
-VF[O]LK[V]MF[S]	pp-idm	6	3	Het zinkende schip verlaten de ratten na een week .
-VF[ADV]LK[V]MF[SO]	pp-idm	4	10	Daarom verlaten de ratten na een week het zinkende schip .
-LK[V]MF[SO]	pp-idm	3	9	Verlaten de ratten na een week het zinkende schip ?
-MF[SO]VC[V]	pp-idm	3	9	Omdat de ratten na een week het zinkende schip verlaten .
-VF[S]LK[V]MF[O]	pp-idm	2	8	Het geluk helpt gedurende een week de dapperen .
-VF[ADV]LK[V]MF[SO]	pp-idm	4	9	Daarom helpt het geluk gedurende een week de dapperen .
-LK[V]MF[SO]	pp-idm	3	8	Helpt het geluk gedurende een week de dapperen ?
-MF[SO]VC[V]	pp-idm	3	8	Omdat het geluk gedurende een week de dapperen helpt .
-VF[S]LK[V]MF[O]	pp-idm	2	8	Het doel heiligt gedurende een week de middelen .
-VF[ADV]LK[V]MF[SO]	pp-idm	4	9	Daarom heiligt het doel gedurende een week de middelen .
-LK[V]MF[SO]	pp-idm	3	8	Heiligt het doel gedurende een week de middelen ?
-MF[SO]VC[V]	pp-idm	3	8	Omdat het doel gedurende een week de middelen heiligt .
-VF[S]LK[V]MF[O]	pp-idm	1	7	Tijd heelt gedurende een week alle wonden .
-VF[O]LK[V]MF[S]	pp-idm	4	2	Alle wonden heelt tijd gedurende een week .
-VF[ADV]LK[V]MF[SO]	pp-idm	3	8	Daarom heelt tijd gedurende een week alle wonden .
-LK[V]MF[SO]	pp-idm	2	7	Heelt tijd gedurende een week alle wonden ?
-MF[SO]VC[V]	pp-idm	2	7	Omdat tijd gedurende een week alle wonden heelt .
+VF[S]LK[V]MF[O]	base-prov	2	6	De ratten verlaten het zinkende schip .
+VF[O]LK[V]MF[S]	base-prov	6	3	Het zinkende schip verlaten de ratten .
+VF[ADV]LK[V]MF[SO]	base-prov	4	7	Daarom verlaten de ratten het zinkende schip .
+LK[V]MF[SO]	base-prov	3	6	Verlaten de ratten het zinkende schip ?
+MF[SO]VC[V]	base-prov	3	6	Omdat de ratten het zinkende schip verlaten .
+VF[S]LK[V]MF[O]	base-prov	2	5	Het geluk helpt de dapperen .
+VF[ADV]LK[V]MF[SO]	base-prov	4	6	Daarom helpt het geluk de dapperen .
+LK[V]MF[SO]	base-prov	3	5	Helpt het geluk de dapperen ?
+MF[SO]VC[V]	base-prov	3	5	Omdat het geluk de dapperen helpt .
+VF[S]LK[V]MF[O]	base-prov	2	5	Het doel heiligt de middelen .
+VF[ADV]LK[V]MF[SO]	base-prov	4	6	Daarom heiligt het doel de middelen .
+LK[V]MF[SO]	base-prov	3	5	Heiligt het doel de middelen ?
+MF[SO]VC[V]	base-prov	3	5	Omdat het doel de middelen heiligt .
+VF[S]LK[V]MF[O]	base-prov	1	4	Tijd heelt alle wonden .
+VF[O]LK[V]MF[S]	base-prov	4	2	Alle wonden heelt tijd .
+VF[ADV]LK[V]MF[SO]	base-prov	3	5	Daarom heelt tijd alle wonden .
+LK[V]MF[SO]	base-prov	2	4	Heelt tijd alle wonden ?
+MF[SO]VC[V]	base-prov	2	4	Omdat tijd alle wonden heelt .
+VF[S]LK[V]MF[O]	aux-prov	2	6	De ratten zullen het zinkende schip verlaten .
+VF[O]LK[V]MF[S]	aux-prov	6	3	Het zinkende schip zullen de ratten verlaten .
+VF[ADV]LK[V]MF[SO]	aux-prov	4	7	Daarom zullen de ratten het zinkende schip verlaten .
+LK[V]MF[SO]	aux-prov	3	6	Zullen de ratten het zinkende schip verlaten ?
+MF[SO]VC[V]	aux-prov	3	6	Omdat de ratten het zinkende schip zullen verlaten .
+VF[S]LK[V]MF[O]	aux-prov	2	5	Het geluk zal de dapperen helpen .
+VF[ADV]LK[V]MF[SO]	aux-prov	4	6	Daarom zal het geluk de dapperen helpen .
+LK[V]MF[SO]	aux-prov	3	5	Zal het geluk de dapperen helpen ?
+MF[SO]VC[V]	aux-prov	3	5	Omdat het geluk de dapperen zal helpen .
+VF[S]LK[V]MF[O]	aux-prov	2	5	Het doel zal het middel heiligen .
+VF[ADV]LK[V]MF[SO]	aux-prov	4	6	Daarom zal het doel het middel heiligen .
+LK[V]MF[SO]	aux-prov	3	5	Zal het doel het middel heiligen ?
+MF[SO]VC[V]	aux-prov	3	5	Omdat het doel het middel zal heiligen .
+VF[S]LK[V]MF[O]	aux-prov	1	4	Tijd zal alle wonden helen .
+VF[O]LK[V]MF[S]	aux-prov	4	2	Alle wonden zal tijd helen .
+VF[ADV]LK[V]MF[SO]	aux-prov	3	5	Daarom zal tijd alle wonden helen .
+LK[V]MF[SO]	aux-prov	2	4	Zal tijd alle wonden helen ?
+MF[SO]VC[V]	aux-prov	2	4	Omdat tijd alle wonden zal helen .
+VF[S]LK[V]MF[O]	oneg-prov	2	6	De ratten verlaten geen zinkend schip .
+VF[O]LK[V]MF[S]	oneg-prov	6	3	Geen zinkend schip verlaten de ratten .
+VF[ADV]LK[V]MF[SO]	oneg-prov	4	7	Daarom verlaten de ratten geen zinkend schip .
+LK[V]MF[SO]	oneg-prov	3	6	Verlaten de ratten geen zinkend schip ?
+MF[SO]VC[V]	oneg-prov	3	6	Omdat de ratten geen zinkend schip verlaten .
+VF[S]LK[V]MF[O]	oneg-prov	2	5	Het geluk helpt geen dapperen .
+VF[ADV]LK[V]MF[SO]	oneg-prov	4	6	Daarom helpt het geluk geen dapperen .
+LK[V]MF[SO]	oneg-prov	3	5	Helpt het geluk geen dapperen ?
+MF[SO]VC[V]	oneg-prov	3	5	Omdat het geluk geen dapperen helpt .
+VF[S]LK[V]MF[O]	oneg-prov	2	5	Het doel heiligt geen middelen .
+VF[ADV]LK[V]MF[SO]	oneg-prov	4	6	Daarom heiligt het doel geen middelen .
+LK[V]MF[SO]	oneg-prov	3	5	Heiligt het doel geen middelen ?
+MF[SO]VC[V]	oneg-prov	3	5	Omdat het doel geen middelen heiligt .
+VF[S]LK[V]MF[O]	oneg-prov	1	4	Tijd heelt geen wonden .
+VF[O]LK[V]MF[S]	oneg-prov	4	2	Geen wonden heelt tijd .
+VF[ADV]LK[V]MF[SO]	oneg-prov	3	5	Daarom heelt tijd geen wonden .
+LK[V]MF[SO]	oneg-prov	2	4	Heelt tijd geen wonden ?
+MF[SO]VC[V]	oneg-prov	2	4	Omdat tijd geen wonden heelt .
+VF[S]LK[V]MF[O]	pp-prov	2	9	De ratten verlaten na een week het zinkende schip .
+VF[O]LK[V]MF[S]	pp-prov	6	3	Het zinkende schip verlaten de ratten na een week .
+VF[ADV]LK[V]MF[SO]	pp-prov	4	10	Daarom verlaten de ratten na een week het zinkende schip .
+LK[V]MF[SO]	pp-prov	3	9	Verlaten de ratten na een week het zinkende schip ?
+MF[SO]VC[V]	pp-prov	3	9	Omdat de ratten na een week het zinkende schip verlaten .
+VF[S]LK[V]MF[O]	pp-prov	2	8	Het geluk helpt gedurende een week de dapperen .
+VF[ADV]LK[V]MF[SO]	pp-prov	4	9	Daarom helpt het geluk gedurende een week de dapperen .
+LK[V]MF[SO]	pp-prov	3	8	Helpt het geluk gedurende een week de dapperen ?
+MF[SO]VC[V]	pp-prov	3	8	Omdat het geluk gedurende een week de dapperen helpt .
+VF[S]LK[V]MF[O]	pp-prov	2	8	Het doel heiligt gedurende een week de middelen .
+VF[ADV]LK[V]MF[SO]	pp-prov	4	9	Daarom heiligt het doel gedurende een week de middelen .
+LK[V]MF[SO]	pp-prov	3	8	Heiligt het doel gedurende een week de middelen ?
+MF[SO]VC[V]	pp-prov	3	8	Omdat het doel gedurende een week de middelen heiligt .
+VF[S]LK[V]MF[O]	pp-prov	1	7	Tijd heelt gedurende een week alle wonden .
+VF[O]LK[V]MF[S]	pp-prov	4	2	Alle wonden heelt tijd gedurende een week .
+VF[ADV]LK[V]MF[SO]	pp-prov	3	8	Daarom heelt tijd gedurende een week alle wonden .
+LK[V]MF[SO]	pp-prov	2	7	Heelt tijd gedurende een week alle wonden ?
+MF[SO]VC[V]	pp-prov	2	7	Omdat tijd gedurende een week alle wonden heelt .
 VF[S]LK[V]MF[O]	pp-oan	2	7	De bestuursvoorzitter benoemt in een week opvolgers .
 VF[O]LK[V]MF[S]	pp-oan	4	1	Opvolgers benoemt de bestuursvoorzitter in een week .
 VF[ADV]LK[V]MF[SO]	pp-oan	4	8	Daarom benoemt de bestuursvoorzitter in een week opvolgers .

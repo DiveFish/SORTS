@@ -53954,613 +53954,613 @@
 6	amuseren	amuseren	VERB	VERB-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:psy-syn
 7	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:psy-syn
 
-1	De	de	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:base-idm
-2	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:VF[S]LK[V]MF[O]|props:base-idm
-3	verlaten	verlaten	VERB	VERB-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:VF[S]LK[V]MF[O]|props:base-idm
-4	het	het	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:base-idm
-5	zinkende	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:VF[S]LK[V]MF[O]|props:base-idm
-6	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[S]LK[V]MF[O]|props:base-idm
-7	.	.	PUNCT	PUNCT	morph:null|order:VF[S]LK[V]MF[O]|props:base-idm
-
-1	Het	het	DET	DET-bep	morph:Definite=Def|order:VF[O]LK[V]MF[S]|props:base-idm
-2	zinkende	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:VF[O]LK[V]MF[S]|props:base-idm
-3	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[O]LK[V]MF[S]|props:base-idm
-4	verlaten	verlaten	VERB	VERB-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:VF[O]LK[V]MF[S]|props:base-idm
-5	de	de	DET	DET-bep	morph:Definite=Def|order:VF[O]LK[V]MF[S]|props:base-idm
-6	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:VF[O]LK[V]MF[S]|props:base-idm
-7	.	.	PUNCT	PUNCT	morph:null|order:VF[O]LK[V]MF[S]|props:base-idm
-
-1	Daarom	daarom	ADV	ADV-bw	morph:null|order:VF[ADV]LK[V]MF[SO]|props:base-idm
-2	verlaten	verlaten	VERB	VERB-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:VF[ADV]LK[V]MF[SO]|props:base-idm
-3	de	de	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:base-idm
-4	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:VF[ADV]LK[V]MF[SO]|props:base-idm
-5	het	het	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:base-idm
-6	zinkende	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:VF[ADV]LK[V]MF[SO]|props:base-idm
-7	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:base-idm
-8	.	.	PUNCT	PUNCT	morph:null|order:VF[ADV]LK[V]MF[SO]|props:base-idm
-
-1	Verlaten	verlaten	VERB	VERB-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:LK[V]MF[SO]|props:base-idm
-2	de	de	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:base-idm
-3	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:LK[V]MF[SO]|props:base-idm
-4	het	het	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:base-idm
-5	zinkende	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:LK[V]MF[SO]|props:base-idm
-6	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:LK[V]MF[SO]|props:base-idm
-7	?	?	PUNCT	PUNCT	morph:null|order:LK[V]MF[SO]|props:base-idm
-
-1	Omdat	omdat	SCONJ	SCONJ	morph:null|order:MF[SO]VC[V]|props:base-idm
-2	de	de	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:base-idm
-3	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:MF[SO]VC[V]|props:base-idm
-4	het	het	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:base-idm
-5	zinkende	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:MF[SO]VC[V]|props:base-idm
-6	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:MF[SO]VC[V]|props:base-idm
-7	verlaten	verlaten	VERB	VERB-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:base-idm
-8	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:base-idm
-
-1	Het	het	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:base-idm
-2	geluk	geluk	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[S]LK[V]MF[O]|props:base-idm
-3	helpt	helpen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[S]LK[V]MF[O]|props:base-idm
-4	de	de	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:base-idm
-5	dapperen	dappere	NOUN	NOUN	morph:Number=Plur|order:VF[S]LK[V]MF[O]|props:base-idm
-6	.	.	PUNCT	PUNCT	morph:null|order:VF[S]LK[V]MF[O]|props:base-idm
-
-1	Daarom	daarom	ADV	ADV-bw	morph:null|order:VF[ADV]LK[V]MF[SO]|props:base-idm
-2	helpt	helpen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[ADV]LK[V]MF[SO]|props:base-idm
-3	het	het	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:base-idm
-4	geluk	geluk	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:base-idm
-5	de	de	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:base-idm
-6	dapperen	dappere	NOUN	NOUN	morph:Number=Plur|order:VF[ADV]LK[V]MF[SO]|props:base-idm
-7	.	.	PUNCT	PUNCT	morph:null|order:VF[ADV]LK[V]MF[SO]|props:base-idm
-
-1	Helpt	helpen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:LK[V]MF[SO]|props:base-idm
-2	het	het	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:base-idm
-3	geluk	geluk	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:LK[V]MF[SO]|props:base-idm
-4	de	de	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:base-idm
-5	dapperen	dappere	NOUN	NOUN	morph:Number=Plur|order:LK[V]MF[SO]|props:base-idm
-6	?	?	PUNCT	PUNCT	morph:null|order:LK[V]MF[SO]|props:base-idm
-
-1	Omdat	omdat	SCONJ	SCONJ	morph:null|order:MF[SO]VC[V]|props:base-idm
-2	het	het	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:base-idm
-3	geluk	geluk	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:MF[SO]VC[V]|props:base-idm
-4	de	de	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:base-idm
-5	dapperen	dappere	NOUN	NOUN	morph:Number=Plur|order:MF[SO]VC[V]|props:base-idm
-6	helpt	helpen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:base-idm
-7	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:base-idm
-
-1	Het	het	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:base-idm
-2	doel	doel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[S]LK[V]MF[O]|props:base-idm
-3	heiligt	heiligen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[S]LK[V]MF[O]|props:base-idm
-4	de	de	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:base-idm
-5	middelen	middel	NOUN	NOUN	morph:Number=Plur|order:VF[S]LK[V]MF[O]|props:base-idm
-6	.	.	PUNCT	PUNCT	morph:null|order:VF[S]LK[V]MF[O]|props:base-idm
-
-1	Daarom	daarom	ADV	ADV-bw	morph:null|order:VF[ADV]LK[V]MF[SO]|props:base-idm
-2	heiligt	heiligen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[ADV]LK[V]MF[SO]|props:base-idm
-3	het	het	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:base-idm
-4	doel	doel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:base-idm
-5	de	de	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:base-idm
-6	middelen	middel	NOUN	NOUN	morph:Number=Plur|order:VF[ADV]LK[V]MF[SO]|props:base-idm
-7	.	.	PUNCT	PUNCT	morph:null|order:VF[ADV]LK[V]MF[SO]|props:base-idm
-
-1	Heiligt	heiligen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:LK[V]MF[SO]|props:base-idm
-2	het	het	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:base-idm
-3	doel	doel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:LK[V]MF[SO]|props:base-idm
-4	de	de	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:base-idm
-5	middelen	middel	NOUN	NOUN	morph:Number=Plur|order:LK[V]MF[SO]|props:base-idm
-6	?	?	PUNCT	PUNCT	morph:null|order:LK[V]MF[SO]|props:base-idm
-
-1	Omdat	omdat	SCONJ	SCONJ	morph:null|order:MF[SO]VC[V]|props:base-idm
-2	het	het	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:base-idm
-3	doel	doel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:MF[SO]VC[V]|props:base-idm
-4	de	de	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:base-idm
-5	middelen	middel	NOUN	NOUN	morph:Number=Plur|order:MF[SO]VC[V]|props:base-idm
-6	heiligt	heiligen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:base-idm
-7	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:base-idm
-
-1	Tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[S]LK[V]MF[O]|props:base-idm
-2	heelt	helen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[S]LK[V]MF[O]|props:base-idm
-3	alle	al	DET	DET-onbep	morph:null|order:VF[S]LK[V]MF[O]|props:base-idm
-4	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:VF[S]LK[V]MF[O]|props:base-idm
-5	.	.	PUNCT	PUNCT	morph:null|order:VF[S]LK[V]MF[O]|props:base-idm
-
-1	Alle	al	DET	DET-onbep	morph:null|order:VF[O]LK[V]MF[S]|props:base-idm
-2	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:VF[O]LK[V]MF[S]|props:base-idm
-3	heelt	helen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[O]LK[V]MF[S]|props:base-idm
-4	tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[O]LK[V]MF[S]|props:base-idm
-5	.	.	PUNCT	PUNCT	morph:null|order:VF[O]LK[V]MF[S]|props:base-idm
-
-1	Daarom	daarom	ADV	ADV-bw	morph:null|order:VF[ADV]LK[V]MF[SO]|props:base-idm
-2	heelt	helen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[ADV]LK[V]MF[SO]|props:base-idm
-3	tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:base-idm
-4	alle	al	DET	DET-onbep	morph:null|order:VF[ADV]LK[V]MF[SO]|props:base-idm
-5	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:VF[ADV]LK[V]MF[SO]|props:base-idm
-6	.	.	PUNCT	PUNCT	morph:null|order:VF[ADV]LK[V]MF[SO]|props:base-idm
-
-1	Heelt	helen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:LK[V]MF[SO]|props:base-idm
-2	tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:LK[V]MF[SO]|props:base-idm
-3	alle	al	DET	DET-onbep	morph:null|order:LK[V]MF[SO]|props:base-idm
-4	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:LK[V]MF[SO]|props:base-idm
-5	?	?	PUNCT	PUNCT	morph:null|order:LK[V]MF[SO]|props:base-idm
-
-1	Omdat	omdat	SCONJ	SCONJ	morph:null|order:MF[SO]VC[V]|props:base-idm
-2	tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:MF[SO]VC[V]|props:base-idm
-3	alle	al	DET	DET-onbep	morph:null|order:MF[SO]VC[V]|props:base-idm
-4	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:MF[SO]VC[V]|props:base-idm
-5	heelt	helen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:base-idm
-6	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:base-idm
-
-1	De	de	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:aux-idm
-2	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:VF[S]LK[V]MF[O]|props:aux-idm
-3	zullen	zullen	AUX	AUX-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:VF[S]LK[V]MF[O]|props:aux-idm
-4	het	het	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:aux-idm
-5	zinkende	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:VF[S]LK[V]MF[O]|props:aux-idm
-6	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[S]LK[V]MF[O]|props:aux-idm
-7	verlaten	verlaten	VERB	VERB-inf	morph:VerbForm=Inf|order:VF[S]LK[V]MF[O]|props:aux-idm
-8	.	.	PUNCT	PUNCT	morph:null|order:VF[S]LK[V]MF[O]|props:aux-idm
-
-1	Het	het	DET	DET-bep	morph:Definite=Def|order:VF[O]LK[V]MF[S]|props:aux-idm
-2	zinkende	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:VF[O]LK[V]MF[S]|props:aux-idm
-3	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[O]LK[V]MF[S]|props:aux-idm
-4	zullen	zullen	AUX	AUX-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:VF[O]LK[V]MF[S]|props:aux-idm
-5	de	de	DET	DET-bep	morph:Definite=Def|order:VF[O]LK[V]MF[S]|props:aux-idm
-6	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:VF[O]LK[V]MF[S]|props:aux-idm
-7	verlaten	verlaten	VERB	VERB-inf	morph:VerbForm=Inf|order:VF[O]LK[V]MF[S]|props:aux-idm
-8	.	.	PUNCT	PUNCT	morph:null|order:VF[O]LK[V]MF[S]|props:aux-idm
-
-1	Daarom	daarom	ADV	ADV-bw	morph:null|order:VF[ADV]LK[V]MF[SO]|props:aux-idm
-2	zullen	zullen	AUX	AUX-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:VF[ADV]LK[V]MF[SO]|props:aux-idm
-3	de	de	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:aux-idm
-4	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:VF[ADV]LK[V]MF[SO]|props:aux-idm
-5	het	het	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:aux-idm
-6	zinkende	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:VF[ADV]LK[V]MF[SO]|props:aux-idm
-7	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:aux-idm
-8	verlaten	verlaten	VERB	VERB-inf	morph:VerbForm=Inf|order:VF[ADV]LK[V]MF[SO]|props:aux-idm
-9	.	.	PUNCT	PUNCT	morph:null|order:VF[ADV]LK[V]MF[SO]|props:aux-idm
-
-1	Zullen	zullen	AUX	AUX-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:LK[V]MF[SO]|props:aux-idm
-2	de	de	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:aux-idm
-3	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:LK[V]MF[SO]|props:aux-idm
-4	het	het	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:aux-idm
-5	zinkende	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:LK[V]MF[SO]|props:aux-idm
-6	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:LK[V]MF[SO]|props:aux-idm
-7	verlaten	verlaten	VERB	VERB-inf	morph:VerbForm=Inf|order:LK[V]MF[SO]|props:aux-idm
-8	?	?	PUNCT	PUNCT	morph:null|order:LK[V]MF[SO]|props:aux-idm
-
-1	Omdat	omdat	SCONJ	SCONJ	morph:null|order:MF[SO]VC[V]|props:aux-idm
-2	de	de	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:aux-idm
-3	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:MF[SO]VC[V]|props:aux-idm
-4	het	het	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:aux-idm
-5	zinkende	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:MF[SO]VC[V]|props:aux-idm
-6	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:MF[SO]VC[V]|props:aux-idm
-7	zullen	zullen	AUX	AUX-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:aux-idm
-8	verlaten	verlaten	VERB	VERB-inf	morph:VerbForm=Inf|order:MF[SO]VC[V]|props:aux-idm
-9	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:aux-idm
-
-1	Het	het	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:aux-idm
-2	geluk	geluk	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[S]LK[V]MF[O]|props:aux-idm
-3	zal	zullen	AUX	AUX-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[S]LK[V]MF[O]|props:aux-idm
-4	de	de	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:aux-idm
-5	dapperen	dappere	NOUN	NOUN	morph:Number=Plur|order:VF[S]LK[V]MF[O]|props:aux-idm
-6	helpen	helpen	VERB	VERB-inf	morph:VerbForm=Inf|order:VF[S]LK[V]MF[O]|props:aux-idm
-7	.	.	PUNCT	PUNCT	morph:null|order:VF[S]LK[V]MF[O]|props:aux-idm
-
-1	Daarom	daarom	ADV	ADV-bw	morph:null|order:VF[ADV]LK[V]MF[SO]|props:aux-idm
-2	zal	zullen	AUX	AUX-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[ADV]LK[V]MF[SO]|props:aux-idm
-3	het	het	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:aux-idm
-4	geluk	geluk	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:aux-idm
-5	de	de	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:aux-idm
-6	dapperen	dappere	NOUN	NOUN	morph:Number=Plur|order:VF[ADV]LK[V]MF[SO]|props:aux-idm
-7	helpen	helpen	VERB	VERB-inf	morph:VerbForm=Inf|order:VF[ADV]LK[V]MF[SO]|props:aux-idm
-8	.	.	PUNCT	PUNCT	morph:null|order:VF[ADV]LK[V]MF[SO]|props:aux-idm
-
-1	Zal	zullen	AUX	AUX-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:LK[V]MF[SO]|props:aux-idm
-2	het	het	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:aux-idm
-3	geluk	geluk	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:LK[V]MF[SO]|props:aux-idm
-4	de	de	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:aux-idm
-5	dapperen	dappere	NOUN	NOUN	morph:Number=Plur|order:LK[V]MF[SO]|props:aux-idm
-6	helpen	helpen	VERB	VERB-inf	morph:VerbForm=Inf|order:LK[V]MF[SO]|props:aux-idm
-7	?	?	PUNCT	PUNCT	morph:null|order:LK[V]MF[SO]|props:aux-idm
-
-1	Omdat	omdat	SCONJ	SCONJ	morph:null|order:MF[SO]VC[V]|props:aux-idm
-2	het	het	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:aux-idm
-3	geluk	geluk	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:MF[SO]VC[V]|props:aux-idm
-4	de	de	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:aux-idm
-5	dapperen	dappere	NOUN	NOUN	morph:Number=Plur|order:MF[SO]VC[V]|props:aux-idm
-6	zal	zullen	AUX	AUX-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:aux-idm
-7	helpen	helpen	VERB	VERB-inf	morph:VerbForm=Inf|order:MF[SO]VC[V]|props:aux-idm
-8	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:aux-idm
-
-1	Het	het	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:aux-idm
-2	doel	doel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[S]LK[V]MF[O]|props:aux-idm
-3	zal	zullen	AUX	AUX-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[S]LK[V]MF[O]|props:aux-idm
-4	het	het	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:aux-idm
-5	middel	middel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[S]LK[V]MF[O]|props:aux-idm
-6	heiligen	heiligen	VERB	VERB-inf	morph:VerbForm=Inf|order:VF[S]LK[V]MF[O]|props:aux-idm
-7	.	.	PUNCT	PUNCT	morph:null|order:VF[S]LK[V]MF[O]|props:aux-idm
-
-1	Daarom	daarom	ADV	ADV-bw	morph:null|order:VF[ADV]LK[V]MF[SO]|props:aux-idm
-2	zal	zullen	AUX	AUX-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[ADV]LK[V]MF[SO]|props:aux-idm
-3	het	het	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:aux-idm
-4	doel	doel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:aux-idm
-5	het	het	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:aux-idm
-6	middel	middel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:aux-idm
-7	heiligen	heiligen	VERB	VERB-inf	morph:VerbForm=Inf|order:VF[ADV]LK[V]MF[SO]|props:aux-idm
-8	.	.	PUNCT	PUNCT	morph:null|order:VF[ADV]LK[V]MF[SO]|props:aux-idm
-
-1	Zal	zullen	AUX	AUX-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:LK[V]MF[SO]|props:aux-idm
-2	het	het	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:aux-idm
-3	doel	doel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:LK[V]MF[SO]|props:aux-idm
-4	het	het	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:aux-idm
-5	middel	middel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:LK[V]MF[SO]|props:aux-idm
-6	heiligen	heiligen	VERB	VERB-inf	morph:VerbForm=Inf|order:LK[V]MF[SO]|props:aux-idm
-7	?	?	PUNCT	PUNCT	morph:null|order:LK[V]MF[SO]|props:aux-idm
-
-1	Omdat	omdat	SCONJ	SCONJ	morph:null|order:MF[SO]VC[V]|props:aux-idm
-2	het	het	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:aux-idm
-3	doel	doel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:MF[SO]VC[V]|props:aux-idm
-4	het	het	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:aux-idm
-5	middel	middel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:MF[SO]VC[V]|props:aux-idm
-6	zal	zullen	AUX	AUX-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:aux-idm
-7	heiligen	heiligen	VERB	VERB-inf	morph:VerbForm=Inf|order:MF[SO]VC[V]|props:aux-idm
-8	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:aux-idm
-
-1	Tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[S]LK[V]MF[O]|props:aux-idm
-2	zal	zullen	AUX	AUX-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[S]LK[V]MF[O]|props:aux-idm
-3	alle	al	DET	DET-onbep	morph:null|order:VF[S]LK[V]MF[O]|props:aux-idm
-4	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:VF[S]LK[V]MF[O]|props:aux-idm
-5	helen	helen	VERB	VERB-inf	morph:VerbForm=Inf|order:VF[S]LK[V]MF[O]|props:aux-idm
-6	.	.	PUNCT	PUNCT	morph:null|order:VF[S]LK[V]MF[O]|props:aux-idm
-
-1	Alle	al	DET	DET-onbep	morph:null|order:VF[O]LK[V]MF[S]|props:aux-idm
-2	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:VF[O]LK[V]MF[S]|props:aux-idm
-3	zal	zullen	AUX	AUX-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[O]LK[V]MF[S]|props:aux-idm
-4	tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[O]LK[V]MF[S]|props:aux-idm
-5	helen	helen	VERB	VERB-inf	morph:VerbForm=Inf|order:VF[O]LK[V]MF[S]|props:aux-idm
-6	.	.	PUNCT	PUNCT	morph:null|order:VF[O]LK[V]MF[S]|props:aux-idm
-
-1	Daarom	daarom	ADV	ADV-bw	morph:null|order:VF[ADV]LK[V]MF[SO]|props:aux-idm
-2	zal	zullen	AUX	AUX-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[ADV]LK[V]MF[SO]|props:aux-idm
-3	tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:aux-idm
-4	alle	al	DET	DET-onbep	morph:null|order:VF[ADV]LK[V]MF[SO]|props:aux-idm
-5	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:VF[ADV]LK[V]MF[SO]|props:aux-idm
-6	helen	helen	VERB	VERB-inf	morph:VerbForm=Inf|order:VF[ADV]LK[V]MF[SO]|props:aux-idm
-7	.	.	PUNCT	PUNCT	morph:null|order:VF[ADV]LK[V]MF[SO]|props:aux-idm
-
-1	Zal	zullen	AUX	AUX-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:LK[V]MF[SO]|props:aux-idm
-2	tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:LK[V]MF[SO]|props:aux-idm
-3	alle	al	DET	DET-onbep	morph:null|order:LK[V]MF[SO]|props:aux-idm
-4	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:LK[V]MF[SO]|props:aux-idm
-5	helen	helen	VERB	VERB-inf	morph:VerbForm=Inf|order:LK[V]MF[SO]|props:aux-idm
-6	?	?	PUNCT	PUNCT	morph:null|order:LK[V]MF[SO]|props:aux-idm
-
-1	Omdat	omdat	SCONJ	SCONJ	morph:null|order:MF[SO]VC[V]|props:aux-idm
-2	tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:MF[SO]VC[V]|props:aux-idm
-3	alle	al	DET	DET-onbep	morph:null|order:MF[SO]VC[V]|props:aux-idm
-4	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:MF[SO]VC[V]|props:aux-idm
-5	zal	zullen	AUX	AUX-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:aux-idm
-6	helen	helen	VERB	VERB-inf	morph:VerbForm=Inf|order:MF[SO]VC[V]|props:aux-idm
-7	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:aux-idm
-
-1	De	de	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:oneg-idm
-2	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:VF[S]LK[V]MF[O]|props:oneg-idm
-3	verlaten	verlaten	VERB	VERB-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:VF[S]LK[V]MF[O]|props:oneg-idm
-4	geen	geen	DET	DET-onbep	morph:null|order:VF[S]LK[V]MF[O]|props:oneg-idm
-5	zinkend	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:VF[S]LK[V]MF[O]|props:oneg-idm
-6	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[S]LK[V]MF[O]|props:oneg-idm
-7	.	.	PUNCT	PUNCT	morph:null|order:VF[S]LK[V]MF[O]|props:oneg-idm
-
-1	Geen	geen	DET	DET-onbep	morph:null|order:VF[O]LK[V]MF[S]|props:oneg-idm
-2	zinkend	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:VF[O]LK[V]MF[S]|props:oneg-idm
-3	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[O]LK[V]MF[S]|props:oneg-idm
-4	verlaten	verlaten	VERB	VERB-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:VF[O]LK[V]MF[S]|props:oneg-idm
-5	de	de	DET	DET-bep	morph:Definite=Def|order:VF[O]LK[V]MF[S]|props:oneg-idm
-6	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:VF[O]LK[V]MF[S]|props:oneg-idm
-7	.	.	PUNCT	PUNCT	morph:null|order:VF[O]LK[V]MF[S]|props:oneg-idm
-
-1	Daarom	daarom	ADV	ADV-bw	morph:null|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm
-2	verlaten	verlaten	VERB	VERB-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm
-3	de	de	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm
-4	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm
-5	geen	geen	DET	DET-onbep	morph:null|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm
-6	zinkend	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm
-7	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm
-8	.	.	PUNCT	PUNCT	morph:null|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm
-
-1	Verlaten	verlaten	VERB	VERB-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:LK[V]MF[SO]|props:oneg-idm
-2	de	de	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:oneg-idm
-3	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:LK[V]MF[SO]|props:oneg-idm
-4	geen	geen	DET	DET-onbep	morph:null|order:LK[V]MF[SO]|props:oneg-idm
-5	zinkend	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:LK[V]MF[SO]|props:oneg-idm
-6	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:LK[V]MF[SO]|props:oneg-idm
-7	?	?	PUNCT	PUNCT	morph:null|order:LK[V]MF[SO]|props:oneg-idm
-
-1	Omdat	omdat	SCONJ	SCONJ	morph:null|order:MF[SO]VC[V]|props:oneg-idm
-2	de	de	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:oneg-idm
-3	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:MF[SO]VC[V]|props:oneg-idm
-4	geen	geen	DET	DET-onbep	morph:null|order:MF[SO]VC[V]|props:oneg-idm
-5	zinkend	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:MF[SO]VC[V]|props:oneg-idm
-6	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:MF[SO]VC[V]|props:oneg-idm
-7	verlaten	verlaten	VERB	VERB-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:oneg-idm
-8	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:oneg-idm
-
-1	Het	het	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:oneg-idm
-2	geluk	geluk	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[S]LK[V]MF[O]|props:oneg-idm
-3	helpt	helpen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[S]LK[V]MF[O]|props:oneg-idm
-4	geen	geen	DET	DET-onbep	morph:null|order:VF[S]LK[V]MF[O]|props:oneg-idm
-5	dapperen	dappere	NOUN	NOUN	morph:Number=Plur|order:VF[S]LK[V]MF[O]|props:oneg-idm
-6	.	.	PUNCT	PUNCT	morph:null|order:VF[S]LK[V]MF[O]|props:oneg-idm
-
-1	Daarom	daarom	ADV	ADV-bw	morph:null|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm
-2	helpt	helpen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm
-3	het	het	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm
-4	geluk	geluk	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm
-5	geen	geen	DET	DET-onbep	morph:null|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm
-6	dapperen	dappere	NOUN	NOUN	morph:Number=Plur|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm
-7	.	.	PUNCT	PUNCT	morph:null|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm
-
-1	Helpt	helpen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:LK[V]MF[SO]|props:oneg-idm
-2	het	het	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:oneg-idm
-3	geluk	geluk	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:LK[V]MF[SO]|props:oneg-idm
-4	geen	geen	DET	DET-onbep	morph:null|order:LK[V]MF[SO]|props:oneg-idm
-5	dapperen	dappere	NOUN	NOUN	morph:Number=Plur|order:LK[V]MF[SO]|props:oneg-idm
-6	?	?	PUNCT	PUNCT	morph:null|order:LK[V]MF[SO]|props:oneg-idm
-
-1	Omdat	omdat	SCONJ	SCONJ	morph:null|order:MF[SO]VC[V]|props:oneg-idm
-2	het	het	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:oneg-idm
-3	geluk	geluk	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:MF[SO]VC[V]|props:oneg-idm
-4	geen	geen	DET	DET-onbep	morph:null|order:MF[SO]VC[V]|props:oneg-idm
-5	dapperen	dappere	NOUN	NOUN	morph:Number=Plur|order:MF[SO]VC[V]|props:oneg-idm
-6	helpt	helpen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:oneg-idm
-7	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:oneg-idm
-
-1	Het	het	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:oneg-idm
-2	doel	doel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[S]LK[V]MF[O]|props:oneg-idm
-3	heiligt	heiligen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[S]LK[V]MF[O]|props:oneg-idm
-4	geen	geen	DET	DET-onbep	morph:null|order:VF[S]LK[V]MF[O]|props:oneg-idm
-5	middelen	middel	NOUN	NOUN	morph:Number=Plur|order:VF[S]LK[V]MF[O]|props:oneg-idm
-6	.	.	PUNCT	PUNCT	morph:null|order:VF[S]LK[V]MF[O]|props:oneg-idm
-
-1	Daarom	daarom	ADV	ADV-bw	morph:null|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm
-2	heiligt	heiligen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm
-3	het	het	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm
-4	doel	doel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm
-5	geen	geen	DET	DET-onbep	morph:null|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm
-6	middelen	middel	NOUN	NOUN	morph:Number=Plur|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm
-7	.	.	PUNCT	PUNCT	morph:null|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm
-
-1	Heiligt	heiligen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:LK[V]MF[SO]|props:oneg-idm
-2	het	het	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:oneg-idm
-3	doel	doel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:LK[V]MF[SO]|props:oneg-idm
-4	geen	geen	DET	DET-onbep	morph:null|order:LK[V]MF[SO]|props:oneg-idm
-5	middelen	middel	NOUN	NOUN	morph:Number=Plur|order:LK[V]MF[SO]|props:oneg-idm
-6	?	?	PUNCT	PUNCT	morph:null|order:LK[V]MF[SO]|props:oneg-idm
-
-1	Omdat	omdat	SCONJ	SCONJ	morph:null|order:MF[SO]VC[V]|props:oneg-idm
-2	het	het	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:oneg-idm
-3	doel	doel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:MF[SO]VC[V]|props:oneg-idm
-4	geen	geen	DET	DET-onbep	morph:null|order:MF[SO]VC[V]|props:oneg-idm
-5	middelen	middel	NOUN	NOUN	morph:Number=Plur|order:MF[SO]VC[V]|props:oneg-idm
-6	heiligt	heiligen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:oneg-idm
-7	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:oneg-idm
-
-1	Tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[S]LK[V]MF[O]|props:oneg-idm
-2	heelt	helen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[S]LK[V]MF[O]|props:oneg-idm
-3	geen	geen	DET	DET-onbep	morph:null|order:VF[S]LK[V]MF[O]|props:oneg-idm
-4	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:VF[S]LK[V]MF[O]|props:oneg-idm
-5	.	.	PUNCT	PUNCT	morph:null|order:VF[S]LK[V]MF[O]|props:oneg-idm
-
-1	Geen	geen	DET	DET-onbep	morph:null|order:VF[O]LK[V]MF[S]|props:oneg-idm
-2	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:VF[O]LK[V]MF[S]|props:oneg-idm
-3	heelt	helen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[O]LK[V]MF[S]|props:oneg-idm
-4	tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[O]LK[V]MF[S]|props:oneg-idm
-5	.	.	PUNCT	PUNCT	morph:null|order:VF[O]LK[V]MF[S]|props:oneg-idm
-
-1	Daarom	daarom	ADV	ADV-bw	morph:null|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm
-2	heelt	helen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm
-3	tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm
-4	geen	geen	DET	DET-onbep	morph:null|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm
-5	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm
-6	.	.	PUNCT	PUNCT	morph:null|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm
-
-1	Heelt	helen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:LK[V]MF[SO]|props:oneg-idm
-2	tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:LK[V]MF[SO]|props:oneg-idm
-3	geen	geen	DET	DET-onbep	morph:null|order:LK[V]MF[SO]|props:oneg-idm
-4	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:LK[V]MF[SO]|props:oneg-idm
-5	?	?	PUNCT	PUNCT	morph:null|order:LK[V]MF[SO]|props:oneg-idm
-
-1	Omdat	omdat	SCONJ	SCONJ	morph:null|order:MF[SO]VC[V]|props:oneg-idm
-2	tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:MF[SO]VC[V]|props:oneg-idm
-3	geen	geen	DET	DET-onbep	morph:null|order:MF[SO]VC[V]|props:oneg-idm
-4	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:MF[SO]VC[V]|props:oneg-idm
-5	heelt	helen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:oneg-idm
-6	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:oneg-idm
-
-1	De	de	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:pp-idm
-2	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:VF[S]LK[V]MF[O]|props:pp-idm
-3	verlaten	verlaten	VERB	VERB-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:VF[S]LK[V]MF[O]|props:pp-idm
-4	na	na	ADP	ADP-init	morph:null|order:VF[S]LK[V]MF[O]|props:pp-idm
-5	een	een	DET	DET-onbep	morph:Definite=Ind|order:VF[S]LK[V]MF[O]|props:pp-idm
-6	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[S]LK[V]MF[O]|props:pp-idm
-7	het	het	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:pp-idm
-8	zinkende	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:VF[S]LK[V]MF[O]|props:pp-idm
-9	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[S]LK[V]MF[O]|props:pp-idm
-10	.	.	PUNCT	PUNCT	morph:null|order:VF[S]LK[V]MF[O]|props:pp-idm
-
-1	Het	het	DET	DET-bep	morph:Definite=Def|order:VF[O]LK[V]MF[S]|props:pp-idm
-2	zinkende	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:VF[O]LK[V]MF[S]|props:pp-idm
-3	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[O]LK[V]MF[S]|props:pp-idm
-4	verlaten	verlaten	VERB	VERB-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:VF[O]LK[V]MF[S]|props:pp-idm
-5	de	de	DET	DET-bep	morph:Definite=Def|order:VF[O]LK[V]MF[S]|props:pp-idm
-6	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:VF[O]LK[V]MF[S]|props:pp-idm
-7	na	na	ADP	ADP-init	morph:null|order:VF[O]LK[V]MF[S]|props:pp-idm
-8	een	een	DET	DET-onbep	morph:Definite=Ind|order:VF[O]LK[V]MF[S]|props:pp-idm
-9	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[O]LK[V]MF[S]|props:pp-idm
-10	.	.	PUNCT	PUNCT	morph:null|order:VF[O]LK[V]MF[S]|props:pp-idm
-
-1	Daarom	daarom	ADV	ADV-bw	morph:null|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-2	verlaten	verlaten	VERB	VERB-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-3	de	de	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-4	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-5	na	na	ADP	ADP-init	morph:null|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-6	een	een	DET	DET-onbep	morph:Definite=Ind|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-7	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-8	het	het	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-9	zinkende	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-10	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-11	.	.	PUNCT	PUNCT	morph:null|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-
-1	Verlaten	verlaten	VERB	VERB-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:LK[V]MF[SO]|props:pp-idm
-2	de	de	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:pp-idm
-3	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:LK[V]MF[SO]|props:pp-idm
-4	na	na	ADP	ADP-init	morph:null|order:LK[V]MF[SO]|props:pp-idm
-5	een	een	DET	DET-onbep	morph:Definite=Ind|order:LK[V]MF[SO]|props:pp-idm
-6	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:LK[V]MF[SO]|props:pp-idm
-7	het	het	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:pp-idm
-8	zinkende	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:LK[V]MF[SO]|props:pp-idm
-9	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:LK[V]MF[SO]|props:pp-idm
-10	?	?	PUNCT	PUNCT	morph:null|order:LK[V]MF[SO]|props:pp-idm
-
-1	Omdat	omdat	SCONJ	SCONJ	morph:null|order:MF[SO]VC[V]|props:pp-idm
-2	de	de	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:pp-idm
-3	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:MF[SO]VC[V]|props:pp-idm
-4	na	na	ADP	ADP-init	morph:null|order:MF[SO]VC[V]|props:pp-idm
-5	een	een	DET	DET-onbep	morph:Definite=Ind|order:MF[SO]VC[V]|props:pp-idm
-6	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:MF[SO]VC[V]|props:pp-idm
-7	het	het	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:pp-idm
-8	zinkende	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:MF[SO]VC[V]|props:pp-idm
-9	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:MF[SO]VC[V]|props:pp-idm
-10	verlaten	verlaten	VERB	VERB-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:pp-idm
-11	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:pp-idm
-
-1	Het	het	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:pp-idm
-2	geluk	geluk	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[S]LK[V]MF[O]|props:pp-idm
-3	helpt	helpen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[S]LK[V]MF[O]|props:pp-idm
-4	gedurende	gedurende	ADP	ADP-init	morph:null|order:VF[S]LK[V]MF[O]|props:pp-idm
-5	een	een	DET	DET-onbep	morph:Definite=Ind|order:VF[S]LK[V]MF[O]|props:pp-idm
-6	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[S]LK[V]MF[O]|props:pp-idm
-7	de	de	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:pp-idm
-8	dapperen	dappere	NOUN	NOUN	morph:Number=Plur|order:VF[S]LK[V]MF[O]|props:pp-idm
-9	.	.	PUNCT	PUNCT	morph:null|order:VF[S]LK[V]MF[O]|props:pp-idm
-
-1	Daarom	daarom	ADV	ADV-bw	morph:null|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-2	helpt	helpen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-3	het	het	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-4	geluk	geluk	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-5	gedurende	gedurende	ADP	ADP-init	morph:null|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-6	een	een	DET	DET-onbep	morph:Definite=Ind|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-7	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-8	de	de	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-9	dapperen	dappere	NOUN	NOUN	morph:Number=Plur|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-10	.	.	PUNCT	PUNCT	morph:null|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-
-1	Helpt	helpen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:LK[V]MF[SO]|props:pp-idm
-2	het	het	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:pp-idm
-3	geluk	geluk	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:LK[V]MF[SO]|props:pp-idm
-4	gedurende	gedurende	ADP	ADP-init	morph:null|order:LK[V]MF[SO]|props:pp-idm
-5	een	een	DET	DET-onbep	morph:Definite=Ind|order:LK[V]MF[SO]|props:pp-idm
-6	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:LK[V]MF[SO]|props:pp-idm
-7	de	de	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:pp-idm
-8	dapperen	dappere	NOUN	NOUN	morph:Number=Plur|order:LK[V]MF[SO]|props:pp-idm
-9	?	?	PUNCT	PUNCT	morph:null|order:LK[V]MF[SO]|props:pp-idm
-
-1	Omdat	omdat	SCONJ	SCONJ	morph:null|order:MF[SO]VC[V]|props:pp-idm
-2	het	het	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:pp-idm
-3	geluk	geluk	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:MF[SO]VC[V]|props:pp-idm
-4	gedurende	gedurende	ADP	ADP-init	morph:null|order:MF[SO]VC[V]|props:pp-idm
-5	een	een	DET	DET-onbep	morph:Definite=Ind|order:MF[SO]VC[V]|props:pp-idm
-6	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:MF[SO]VC[V]|props:pp-idm
-7	de	de	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:pp-idm
-8	dapperen	dappere	NOUN	NOUN	morph:Number=Plur|order:MF[SO]VC[V]|props:pp-idm
-9	helpt	helpen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:pp-idm
-10	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:pp-idm
-
-1	Het	het	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:pp-idm
-2	doel	doel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[S]LK[V]MF[O]|props:pp-idm
-3	heiligt	heiligen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[S]LK[V]MF[O]|props:pp-idm
-4	gedurende	gedurende	ADP	ADP-init	morph:null|order:VF[S]LK[V]MF[O]|props:pp-idm
-5	een	een	DET	DET-onbep	morph:Definite=Ind|order:VF[S]LK[V]MF[O]|props:pp-idm
-6	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[S]LK[V]MF[O]|props:pp-idm
-7	de	de	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:pp-idm
-8	middelen	middel	NOUN	NOUN	morph:Number=Plur|order:VF[S]LK[V]MF[O]|props:pp-idm
-9	.	.	PUNCT	PUNCT	morph:null|order:VF[S]LK[V]MF[O]|props:pp-idm
-
-1	Daarom	daarom	ADV	ADV-bw	morph:null|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-2	heiligt	heiligen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-3	het	het	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-4	doel	doel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-5	gedurende	gedurende	ADP	ADP-init	morph:null|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-6	een	een	DET	DET-onbep	morph:Definite=Ind|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-7	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-8	de	de	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-9	middelen	middel	NOUN	NOUN	morph:Number=Plur|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-10	.	.	PUNCT	PUNCT	morph:null|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-
-1	Heiligt	heiligen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:LK[V]MF[SO]|props:pp-idm
-2	het	het	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:pp-idm
-3	doel	doel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:LK[V]MF[SO]|props:pp-idm
-4	gedurende	gedurende	ADP	ADP-init	morph:null|order:LK[V]MF[SO]|props:pp-idm
-5	een	een	DET	DET-onbep	morph:Definite=Ind|order:LK[V]MF[SO]|props:pp-idm
-6	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:LK[V]MF[SO]|props:pp-idm
-7	de	de	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:pp-idm
-8	middelen	middel	NOUN	NOUN	morph:Number=Plur|order:LK[V]MF[SO]|props:pp-idm
-9	?	?	PUNCT	PUNCT	morph:null|order:LK[V]MF[SO]|props:pp-idm
-
-1	Omdat	omdat	SCONJ	SCONJ	morph:null|order:MF[SO]VC[V]|props:pp-idm
-2	het	het	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:pp-idm
-3	doel	doel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:MF[SO]VC[V]|props:pp-idm
-4	gedurende	gedurende	ADP	ADP-init	morph:null|order:MF[SO]VC[V]|props:pp-idm
-5	een	een	DET	DET-onbep	morph:Definite=Ind|order:MF[SO]VC[V]|props:pp-idm
-6	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:MF[SO]VC[V]|props:pp-idm
-7	de	de	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:pp-idm
-8	middelen	middel	NOUN	NOUN	morph:Number=Plur|order:MF[SO]VC[V]|props:pp-idm
-9	heiligt	heiligen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:pp-idm
-10	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:pp-idm
-
-1	Tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[S]LK[V]MF[O]|props:pp-idm
-2	heelt	helen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[S]LK[V]MF[O]|props:pp-idm
-3	gedurende	gedurende	ADP	ADP-init	morph:null|order:VF[S]LK[V]MF[O]|props:pp-idm
-4	een	een	DET	DET-onbep	morph:Definite=Ind|order:VF[S]LK[V]MF[O]|props:pp-idm
-5	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[S]LK[V]MF[O]|props:pp-idm
-6	alle	al	DET	DET-onbep	morph:null|order:VF[S]LK[V]MF[O]|props:pp-idm
-7	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:VF[S]LK[V]MF[O]|props:pp-idm
-8	.	.	PUNCT	PUNCT	morph:null|order:VF[S]LK[V]MF[O]|props:pp-idm
-
-1	Alle	al	DET	DET-onbep	morph:null|order:VF[O]LK[V]MF[S]|props:pp-idm
-2	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:VF[O]LK[V]MF[S]|props:pp-idm
-3	heelt	helen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[O]LK[V]MF[S]|props:pp-idm
-4	tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[O]LK[V]MF[S]|props:pp-idm
-5	gedurende	gedurende	ADP	ADP-init	morph:null|order:VF[O]LK[V]MF[S]|props:pp-idm
-6	een	een	DET	DET-onbep	morph:Definite=Ind|order:VF[O]LK[V]MF[S]|props:pp-idm
-7	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[O]LK[V]MF[S]|props:pp-idm
-8	.	.	PUNCT	PUNCT	morph:null|order:VF[O]LK[V]MF[S]|props:pp-idm
-
-1	Daarom	daarom	ADV	ADV-bw	morph:null|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-2	heelt	helen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-3	tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-4	gedurende	gedurende	ADP	ADP-init	morph:null|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-5	een	een	DET	DET-onbep	morph:Definite=Ind|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-6	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-7	alle	al	DET	DET-onbep	morph:null|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-8	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-9	.	.	PUNCT	PUNCT	morph:null|order:VF[ADV]LK[V]MF[SO]|props:pp-idm
-
-1	Heelt	helen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:LK[V]MF[SO]|props:pp-idm
-2	tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:LK[V]MF[SO]|props:pp-idm
-3	gedurende	gedurende	ADP	ADP-init	morph:null|order:LK[V]MF[SO]|props:pp-idm
-4	een	een	DET	DET-onbep	morph:Definite=Ind|order:LK[V]MF[SO]|props:pp-idm
-5	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:LK[V]MF[SO]|props:pp-idm
-6	alle	al	DET	DET-onbep	morph:null|order:LK[V]MF[SO]|props:pp-idm
-7	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:LK[V]MF[SO]|props:pp-idm
-8	?	?	PUNCT	PUNCT	morph:null|order:LK[V]MF[SO]|props:pp-idm
-
-1	Omdat	omdat	SCONJ	SCONJ	morph:null|order:MF[SO]VC[V]|props:pp-idm
-2	tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:MF[SO]VC[V]|props:pp-idm
-3	gedurende	gedurende	ADP	ADP-init	morph:null|order:MF[SO]VC[V]|props:pp-idm
-4	een	een	DET	DET-onbep	morph:Definite=Ind|order:MF[SO]VC[V]|props:pp-idm
-5	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:MF[SO]VC[V]|props:pp-idm
-6	alle	al	DET	DET-onbep	morph:null|order:MF[SO]VC[V]|props:pp-idm
-7	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:MF[SO]VC[V]|props:pp-idm
-8	heelt	helen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:pp-idm
-9	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:pp-idm
+1	De	de	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:base-prov
+2	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:VF[S]LK[V]MF[O]|props:base-prov
+3	verlaten	verlaten	VERB	VERB-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:VF[S]LK[V]MF[O]|props:base-prov
+4	het	het	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:base-prov
+5	zinkende	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:VF[S]LK[V]MF[O]|props:base-prov
+6	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[S]LK[V]MF[O]|props:base-prov
+7	.	.	PUNCT	PUNCT	morph:null|order:VF[S]LK[V]MF[O]|props:base-prov
+
+1	Het	het	DET	DET-bep	morph:Definite=Def|order:VF[O]LK[V]MF[S]|props:base-prov
+2	zinkende	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:VF[O]LK[V]MF[S]|props:base-prov
+3	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[O]LK[V]MF[S]|props:base-prov
+4	verlaten	verlaten	VERB	VERB-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:VF[O]LK[V]MF[S]|props:base-prov
+5	de	de	DET	DET-bep	morph:Definite=Def|order:VF[O]LK[V]MF[S]|props:base-prov
+6	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:VF[O]LK[V]MF[S]|props:base-prov
+7	.	.	PUNCT	PUNCT	morph:null|order:VF[O]LK[V]MF[S]|props:base-prov
+
+1	Daarom	daarom	ADV	ADV-bw	morph:null|order:VF[ADV]LK[V]MF[SO]|props:base-prov
+2	verlaten	verlaten	VERB	VERB-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:VF[ADV]LK[V]MF[SO]|props:base-prov
+3	de	de	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:base-prov
+4	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:VF[ADV]LK[V]MF[SO]|props:base-prov
+5	het	het	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:base-prov
+6	zinkende	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:VF[ADV]LK[V]MF[SO]|props:base-prov
+7	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:base-prov
+8	.	.	PUNCT	PUNCT	morph:null|order:VF[ADV]LK[V]MF[SO]|props:base-prov
+
+1	Verlaten	verlaten	VERB	VERB-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:LK[V]MF[SO]|props:base-prov
+2	de	de	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:base-prov
+3	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:LK[V]MF[SO]|props:base-prov
+4	het	het	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:base-prov
+5	zinkende	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:LK[V]MF[SO]|props:base-prov
+6	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:LK[V]MF[SO]|props:base-prov
+7	?	?	PUNCT	PUNCT	morph:null|order:LK[V]MF[SO]|props:base-prov
+
+1	Omdat	omdat	SCONJ	SCONJ	morph:null|order:MF[SO]VC[V]|props:base-prov
+2	de	de	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:base-prov
+3	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:MF[SO]VC[V]|props:base-prov
+4	het	het	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:base-prov
+5	zinkende	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:MF[SO]VC[V]|props:base-prov
+6	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:MF[SO]VC[V]|props:base-prov
+7	verlaten	verlaten	VERB	VERB-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:base-prov
+8	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:base-prov
+
+1	Het	het	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:base-prov
+2	geluk	geluk	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[S]LK[V]MF[O]|props:base-prov
+3	helpt	helpen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[S]LK[V]MF[O]|props:base-prov
+4	de	de	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:base-prov
+5	dapperen	dappere	NOUN	NOUN	morph:Number=Plur|order:VF[S]LK[V]MF[O]|props:base-prov
+6	.	.	PUNCT	PUNCT	morph:null|order:VF[S]LK[V]MF[O]|props:base-prov
+
+1	Daarom	daarom	ADV	ADV-bw	morph:null|order:VF[ADV]LK[V]MF[SO]|props:base-prov
+2	helpt	helpen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[ADV]LK[V]MF[SO]|props:base-prov
+3	het	het	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:base-prov
+4	geluk	geluk	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:base-prov
+5	de	de	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:base-prov
+6	dapperen	dappere	NOUN	NOUN	morph:Number=Plur|order:VF[ADV]LK[V]MF[SO]|props:base-prov
+7	.	.	PUNCT	PUNCT	morph:null|order:VF[ADV]LK[V]MF[SO]|props:base-prov
+
+1	Helpt	helpen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:LK[V]MF[SO]|props:base-prov
+2	het	het	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:base-prov
+3	geluk	geluk	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:LK[V]MF[SO]|props:base-prov
+4	de	de	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:base-prov
+5	dapperen	dappere	NOUN	NOUN	morph:Number=Plur|order:LK[V]MF[SO]|props:base-prov
+6	?	?	PUNCT	PUNCT	morph:null|order:LK[V]MF[SO]|props:base-prov
+
+1	Omdat	omdat	SCONJ	SCONJ	morph:null|order:MF[SO]VC[V]|props:base-prov
+2	het	het	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:base-prov
+3	geluk	geluk	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:MF[SO]VC[V]|props:base-prov
+4	de	de	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:base-prov
+5	dapperen	dappere	NOUN	NOUN	morph:Number=Plur|order:MF[SO]VC[V]|props:base-prov
+6	helpt	helpen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:base-prov
+7	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:base-prov
+
+1	Het	het	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:base-prov
+2	doel	doel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[S]LK[V]MF[O]|props:base-prov
+3	heiligt	heiligen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[S]LK[V]MF[O]|props:base-prov
+4	de	de	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:base-prov
+5	middelen	middel	NOUN	NOUN	morph:Number=Plur|order:VF[S]LK[V]MF[O]|props:base-prov
+6	.	.	PUNCT	PUNCT	morph:null|order:VF[S]LK[V]MF[O]|props:base-prov
+
+1	Daarom	daarom	ADV	ADV-bw	morph:null|order:VF[ADV]LK[V]MF[SO]|props:base-prov
+2	heiligt	heiligen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[ADV]LK[V]MF[SO]|props:base-prov
+3	het	het	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:base-prov
+4	doel	doel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:base-prov
+5	de	de	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:base-prov
+6	middelen	middel	NOUN	NOUN	morph:Number=Plur|order:VF[ADV]LK[V]MF[SO]|props:base-prov
+7	.	.	PUNCT	PUNCT	morph:null|order:VF[ADV]LK[V]MF[SO]|props:base-prov
+
+1	Heiligt	heiligen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:LK[V]MF[SO]|props:base-prov
+2	het	het	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:base-prov
+3	doel	doel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:LK[V]MF[SO]|props:base-prov
+4	de	de	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:base-prov
+5	middelen	middel	NOUN	NOUN	morph:Number=Plur|order:LK[V]MF[SO]|props:base-prov
+6	?	?	PUNCT	PUNCT	morph:null|order:LK[V]MF[SO]|props:base-prov
+
+1	Omdat	omdat	SCONJ	SCONJ	morph:null|order:MF[SO]VC[V]|props:base-prov
+2	het	het	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:base-prov
+3	doel	doel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:MF[SO]VC[V]|props:base-prov
+4	de	de	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:base-prov
+5	middelen	middel	NOUN	NOUN	morph:Number=Plur|order:MF[SO]VC[V]|props:base-prov
+6	heiligt	heiligen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:base-prov
+7	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:base-prov
+
+1	Tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[S]LK[V]MF[O]|props:base-prov
+2	heelt	helen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[S]LK[V]MF[O]|props:base-prov
+3	alle	al	DET	DET-onbep	morph:null|order:VF[S]LK[V]MF[O]|props:base-prov
+4	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:VF[S]LK[V]MF[O]|props:base-prov
+5	.	.	PUNCT	PUNCT	morph:null|order:VF[S]LK[V]MF[O]|props:base-prov
+
+1	Alle	al	DET	DET-onbep	morph:null|order:VF[O]LK[V]MF[S]|props:base-prov
+2	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:VF[O]LK[V]MF[S]|props:base-prov
+3	heelt	helen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[O]LK[V]MF[S]|props:base-prov
+4	tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[O]LK[V]MF[S]|props:base-prov
+5	.	.	PUNCT	PUNCT	morph:null|order:VF[O]LK[V]MF[S]|props:base-prov
+
+1	Daarom	daarom	ADV	ADV-bw	morph:null|order:VF[ADV]LK[V]MF[SO]|props:base-prov
+2	heelt	helen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[ADV]LK[V]MF[SO]|props:base-prov
+3	tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:base-prov
+4	alle	al	DET	DET-onbep	morph:null|order:VF[ADV]LK[V]MF[SO]|props:base-prov
+5	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:VF[ADV]LK[V]MF[SO]|props:base-prov
+6	.	.	PUNCT	PUNCT	morph:null|order:VF[ADV]LK[V]MF[SO]|props:base-prov
+
+1	Heelt	helen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:LK[V]MF[SO]|props:base-prov
+2	tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:LK[V]MF[SO]|props:base-prov
+3	alle	al	DET	DET-onbep	morph:null|order:LK[V]MF[SO]|props:base-prov
+4	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:LK[V]MF[SO]|props:base-prov
+5	?	?	PUNCT	PUNCT	morph:null|order:LK[V]MF[SO]|props:base-prov
+
+1	Omdat	omdat	SCONJ	SCONJ	morph:null|order:MF[SO]VC[V]|props:base-prov
+2	tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:MF[SO]VC[V]|props:base-prov
+3	alle	al	DET	DET-onbep	morph:null|order:MF[SO]VC[V]|props:base-prov
+4	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:MF[SO]VC[V]|props:base-prov
+5	heelt	helen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:base-prov
+6	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:base-prov
+
+1	De	de	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:aux-prov
+2	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:VF[S]LK[V]MF[O]|props:aux-prov
+3	zullen	zullen	AUX	AUX-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:VF[S]LK[V]MF[O]|props:aux-prov
+4	het	het	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:aux-prov
+5	zinkende	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:VF[S]LK[V]MF[O]|props:aux-prov
+6	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[S]LK[V]MF[O]|props:aux-prov
+7	verlaten	verlaten	VERB	VERB-inf	morph:VerbForm=Inf|order:VF[S]LK[V]MF[O]|props:aux-prov
+8	.	.	PUNCT	PUNCT	morph:null|order:VF[S]LK[V]MF[O]|props:aux-prov
+
+1	Het	het	DET	DET-bep	morph:Definite=Def|order:VF[O]LK[V]MF[S]|props:aux-prov
+2	zinkende	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:VF[O]LK[V]MF[S]|props:aux-prov
+3	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[O]LK[V]MF[S]|props:aux-prov
+4	zullen	zullen	AUX	AUX-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:VF[O]LK[V]MF[S]|props:aux-prov
+5	de	de	DET	DET-bep	morph:Definite=Def|order:VF[O]LK[V]MF[S]|props:aux-prov
+6	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:VF[O]LK[V]MF[S]|props:aux-prov
+7	verlaten	verlaten	VERB	VERB-inf	morph:VerbForm=Inf|order:VF[O]LK[V]MF[S]|props:aux-prov
+8	.	.	PUNCT	PUNCT	morph:null|order:VF[O]LK[V]MF[S]|props:aux-prov
+
+1	Daarom	daarom	ADV	ADV-bw	morph:null|order:VF[ADV]LK[V]MF[SO]|props:aux-prov
+2	zullen	zullen	AUX	AUX-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:VF[ADV]LK[V]MF[SO]|props:aux-prov
+3	de	de	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:aux-prov
+4	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:VF[ADV]LK[V]MF[SO]|props:aux-prov
+5	het	het	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:aux-prov
+6	zinkende	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:VF[ADV]LK[V]MF[SO]|props:aux-prov
+7	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:aux-prov
+8	verlaten	verlaten	VERB	VERB-inf	morph:VerbForm=Inf|order:VF[ADV]LK[V]MF[SO]|props:aux-prov
+9	.	.	PUNCT	PUNCT	morph:null|order:VF[ADV]LK[V]MF[SO]|props:aux-prov
+
+1	Zullen	zullen	AUX	AUX-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:LK[V]MF[SO]|props:aux-prov
+2	de	de	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:aux-prov
+3	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:LK[V]MF[SO]|props:aux-prov
+4	het	het	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:aux-prov
+5	zinkende	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:LK[V]MF[SO]|props:aux-prov
+6	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:LK[V]MF[SO]|props:aux-prov
+7	verlaten	verlaten	VERB	VERB-inf	morph:VerbForm=Inf|order:LK[V]MF[SO]|props:aux-prov
+8	?	?	PUNCT	PUNCT	morph:null|order:LK[V]MF[SO]|props:aux-prov
+
+1	Omdat	omdat	SCONJ	SCONJ	morph:null|order:MF[SO]VC[V]|props:aux-prov
+2	de	de	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:aux-prov
+3	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:MF[SO]VC[V]|props:aux-prov
+4	het	het	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:aux-prov
+5	zinkende	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:MF[SO]VC[V]|props:aux-prov
+6	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:MF[SO]VC[V]|props:aux-prov
+7	zullen	zullen	AUX	AUX-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:aux-prov
+8	verlaten	verlaten	VERB	VERB-inf	morph:VerbForm=Inf|order:MF[SO]VC[V]|props:aux-prov
+9	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:aux-prov
+
+1	Het	het	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:aux-prov
+2	geluk	geluk	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[S]LK[V]MF[O]|props:aux-prov
+3	zal	zullen	AUX	AUX-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[S]LK[V]MF[O]|props:aux-prov
+4	de	de	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:aux-prov
+5	dapperen	dappere	NOUN	NOUN	morph:Number=Plur|order:VF[S]LK[V]MF[O]|props:aux-prov
+6	helpen	helpen	VERB	VERB-inf	morph:VerbForm=Inf|order:VF[S]LK[V]MF[O]|props:aux-prov
+7	.	.	PUNCT	PUNCT	morph:null|order:VF[S]LK[V]MF[O]|props:aux-prov
+
+1	Daarom	daarom	ADV	ADV-bw	morph:null|order:VF[ADV]LK[V]MF[SO]|props:aux-prov
+2	zal	zullen	AUX	AUX-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[ADV]LK[V]MF[SO]|props:aux-prov
+3	het	het	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:aux-prov
+4	geluk	geluk	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:aux-prov
+5	de	de	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:aux-prov
+6	dapperen	dappere	NOUN	NOUN	morph:Number=Plur|order:VF[ADV]LK[V]MF[SO]|props:aux-prov
+7	helpen	helpen	VERB	VERB-inf	morph:VerbForm=Inf|order:VF[ADV]LK[V]MF[SO]|props:aux-prov
+8	.	.	PUNCT	PUNCT	morph:null|order:VF[ADV]LK[V]MF[SO]|props:aux-prov
+
+1	Zal	zullen	AUX	AUX-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:LK[V]MF[SO]|props:aux-prov
+2	het	het	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:aux-prov
+3	geluk	geluk	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:LK[V]MF[SO]|props:aux-prov
+4	de	de	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:aux-prov
+5	dapperen	dappere	NOUN	NOUN	morph:Number=Plur|order:LK[V]MF[SO]|props:aux-prov
+6	helpen	helpen	VERB	VERB-inf	morph:VerbForm=Inf|order:LK[V]MF[SO]|props:aux-prov
+7	?	?	PUNCT	PUNCT	morph:null|order:LK[V]MF[SO]|props:aux-prov
+
+1	Omdat	omdat	SCONJ	SCONJ	morph:null|order:MF[SO]VC[V]|props:aux-prov
+2	het	het	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:aux-prov
+3	geluk	geluk	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:MF[SO]VC[V]|props:aux-prov
+4	de	de	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:aux-prov
+5	dapperen	dappere	NOUN	NOUN	morph:Number=Plur|order:MF[SO]VC[V]|props:aux-prov
+6	zal	zullen	AUX	AUX-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:aux-prov
+7	helpen	helpen	VERB	VERB-inf	morph:VerbForm=Inf|order:MF[SO]VC[V]|props:aux-prov
+8	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:aux-prov
+
+1	Het	het	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:aux-prov
+2	doel	doel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[S]LK[V]MF[O]|props:aux-prov
+3	zal	zullen	AUX	AUX-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[S]LK[V]MF[O]|props:aux-prov
+4	het	het	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:aux-prov
+5	middel	middel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[S]LK[V]MF[O]|props:aux-prov
+6	heiligen	heiligen	VERB	VERB-inf	morph:VerbForm=Inf|order:VF[S]LK[V]MF[O]|props:aux-prov
+7	.	.	PUNCT	PUNCT	morph:null|order:VF[S]LK[V]MF[O]|props:aux-prov
+
+1	Daarom	daarom	ADV	ADV-bw	morph:null|order:VF[ADV]LK[V]MF[SO]|props:aux-prov
+2	zal	zullen	AUX	AUX-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[ADV]LK[V]MF[SO]|props:aux-prov
+3	het	het	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:aux-prov
+4	doel	doel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:aux-prov
+5	het	het	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:aux-prov
+6	middel	middel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:aux-prov
+7	heiligen	heiligen	VERB	VERB-inf	morph:VerbForm=Inf|order:VF[ADV]LK[V]MF[SO]|props:aux-prov
+8	.	.	PUNCT	PUNCT	morph:null|order:VF[ADV]LK[V]MF[SO]|props:aux-prov
+
+1	Zal	zullen	AUX	AUX-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:LK[V]MF[SO]|props:aux-prov
+2	het	het	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:aux-prov
+3	doel	doel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:LK[V]MF[SO]|props:aux-prov
+4	het	het	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:aux-prov
+5	middel	middel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:LK[V]MF[SO]|props:aux-prov
+6	heiligen	heiligen	VERB	VERB-inf	morph:VerbForm=Inf|order:LK[V]MF[SO]|props:aux-prov
+7	?	?	PUNCT	PUNCT	morph:null|order:LK[V]MF[SO]|props:aux-prov
+
+1	Omdat	omdat	SCONJ	SCONJ	morph:null|order:MF[SO]VC[V]|props:aux-prov
+2	het	het	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:aux-prov
+3	doel	doel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:MF[SO]VC[V]|props:aux-prov
+4	het	het	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:aux-prov
+5	middel	middel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:MF[SO]VC[V]|props:aux-prov
+6	zal	zullen	AUX	AUX-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:aux-prov
+7	heiligen	heiligen	VERB	VERB-inf	morph:VerbForm=Inf|order:MF[SO]VC[V]|props:aux-prov
+8	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:aux-prov
+
+1	Tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[S]LK[V]MF[O]|props:aux-prov
+2	zal	zullen	AUX	AUX-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[S]LK[V]MF[O]|props:aux-prov
+3	alle	al	DET	DET-onbep	morph:null|order:VF[S]LK[V]MF[O]|props:aux-prov
+4	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:VF[S]LK[V]MF[O]|props:aux-prov
+5	helen	helen	VERB	VERB-inf	morph:VerbForm=Inf|order:VF[S]LK[V]MF[O]|props:aux-prov
+6	.	.	PUNCT	PUNCT	morph:null|order:VF[S]LK[V]MF[O]|props:aux-prov
+
+1	Alle	al	DET	DET-onbep	morph:null|order:VF[O]LK[V]MF[S]|props:aux-prov
+2	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:VF[O]LK[V]MF[S]|props:aux-prov
+3	zal	zullen	AUX	AUX-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[O]LK[V]MF[S]|props:aux-prov
+4	tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[O]LK[V]MF[S]|props:aux-prov
+5	helen	helen	VERB	VERB-inf	morph:VerbForm=Inf|order:VF[O]LK[V]MF[S]|props:aux-prov
+6	.	.	PUNCT	PUNCT	morph:null|order:VF[O]LK[V]MF[S]|props:aux-prov
+
+1	Daarom	daarom	ADV	ADV-bw	morph:null|order:VF[ADV]LK[V]MF[SO]|props:aux-prov
+2	zal	zullen	AUX	AUX-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[ADV]LK[V]MF[SO]|props:aux-prov
+3	tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:aux-prov
+4	alle	al	DET	DET-onbep	morph:null|order:VF[ADV]LK[V]MF[SO]|props:aux-prov
+5	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:VF[ADV]LK[V]MF[SO]|props:aux-prov
+6	helen	helen	VERB	VERB-inf	morph:VerbForm=Inf|order:VF[ADV]LK[V]MF[SO]|props:aux-prov
+7	.	.	PUNCT	PUNCT	morph:null|order:VF[ADV]LK[V]MF[SO]|props:aux-prov
+
+1	Zal	zullen	AUX	AUX-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:LK[V]MF[SO]|props:aux-prov
+2	tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:LK[V]MF[SO]|props:aux-prov
+3	alle	al	DET	DET-onbep	morph:null|order:LK[V]MF[SO]|props:aux-prov
+4	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:LK[V]MF[SO]|props:aux-prov
+5	helen	helen	VERB	VERB-inf	morph:VerbForm=Inf|order:LK[V]MF[SO]|props:aux-prov
+6	?	?	PUNCT	PUNCT	morph:null|order:LK[V]MF[SO]|props:aux-prov
+
+1	Omdat	omdat	SCONJ	SCONJ	morph:null|order:MF[SO]VC[V]|props:aux-prov
+2	tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:MF[SO]VC[V]|props:aux-prov
+3	alle	al	DET	DET-onbep	morph:null|order:MF[SO]VC[V]|props:aux-prov
+4	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:MF[SO]VC[V]|props:aux-prov
+5	zal	zullen	AUX	AUX-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:aux-prov
+6	helen	helen	VERB	VERB-inf	morph:VerbForm=Inf|order:MF[SO]VC[V]|props:aux-prov
+7	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:aux-prov
+
+1	De	de	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:oneg-prov
+2	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:VF[S]LK[V]MF[O]|props:oneg-prov
+3	verlaten	verlaten	VERB	VERB-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:VF[S]LK[V]MF[O]|props:oneg-prov
+4	geen	geen	DET	DET-onbep	morph:null|order:VF[S]LK[V]MF[O]|props:oneg-prov
+5	zinkend	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:VF[S]LK[V]MF[O]|props:oneg-prov
+6	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[S]LK[V]MF[O]|props:oneg-prov
+7	.	.	PUNCT	PUNCT	morph:null|order:VF[S]LK[V]MF[O]|props:oneg-prov
+
+1	Geen	geen	DET	DET-onbep	morph:null|order:VF[O]LK[V]MF[S]|props:oneg-prov
+2	zinkend	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:VF[O]LK[V]MF[S]|props:oneg-prov
+3	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[O]LK[V]MF[S]|props:oneg-prov
+4	verlaten	verlaten	VERB	VERB-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:VF[O]LK[V]MF[S]|props:oneg-prov
+5	de	de	DET	DET-bep	morph:Definite=Def|order:VF[O]LK[V]MF[S]|props:oneg-prov
+6	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:VF[O]LK[V]MF[S]|props:oneg-prov
+7	.	.	PUNCT	PUNCT	morph:null|order:VF[O]LK[V]MF[S]|props:oneg-prov
+
+1	Daarom	daarom	ADV	ADV-bw	morph:null|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov
+2	verlaten	verlaten	VERB	VERB-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov
+3	de	de	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov
+4	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov
+5	geen	geen	DET	DET-onbep	morph:null|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov
+6	zinkend	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov
+7	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov
+8	.	.	PUNCT	PUNCT	morph:null|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov
+
+1	Verlaten	verlaten	VERB	VERB-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:LK[V]MF[SO]|props:oneg-prov
+2	de	de	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:oneg-prov
+3	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:LK[V]MF[SO]|props:oneg-prov
+4	geen	geen	DET	DET-onbep	morph:null|order:LK[V]MF[SO]|props:oneg-prov
+5	zinkend	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:LK[V]MF[SO]|props:oneg-prov
+6	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:LK[V]MF[SO]|props:oneg-prov
+7	?	?	PUNCT	PUNCT	morph:null|order:LK[V]MF[SO]|props:oneg-prov
+
+1	Omdat	omdat	SCONJ	SCONJ	morph:null|order:MF[SO]VC[V]|props:oneg-prov
+2	de	de	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:oneg-prov
+3	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:MF[SO]VC[V]|props:oneg-prov
+4	geen	geen	DET	DET-onbep	morph:null|order:MF[SO]VC[V]|props:oneg-prov
+5	zinkend	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:MF[SO]VC[V]|props:oneg-prov
+6	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:MF[SO]VC[V]|props:oneg-prov
+7	verlaten	verlaten	VERB	VERB-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:oneg-prov
+8	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:oneg-prov
+
+1	Het	het	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:oneg-prov
+2	geluk	geluk	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[S]LK[V]MF[O]|props:oneg-prov
+3	helpt	helpen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[S]LK[V]MF[O]|props:oneg-prov
+4	geen	geen	DET	DET-onbep	morph:null|order:VF[S]LK[V]MF[O]|props:oneg-prov
+5	dapperen	dappere	NOUN	NOUN	morph:Number=Plur|order:VF[S]LK[V]MF[O]|props:oneg-prov
+6	.	.	PUNCT	PUNCT	morph:null|order:VF[S]LK[V]MF[O]|props:oneg-prov
+
+1	Daarom	daarom	ADV	ADV-bw	morph:null|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov
+2	helpt	helpen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov
+3	het	het	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov
+4	geluk	geluk	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov
+5	geen	geen	DET	DET-onbep	morph:null|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov
+6	dapperen	dappere	NOUN	NOUN	morph:Number=Plur|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov
+7	.	.	PUNCT	PUNCT	morph:null|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov
+
+1	Helpt	helpen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:LK[V]MF[SO]|props:oneg-prov
+2	het	het	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:oneg-prov
+3	geluk	geluk	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:LK[V]MF[SO]|props:oneg-prov
+4	geen	geen	DET	DET-onbep	morph:null|order:LK[V]MF[SO]|props:oneg-prov
+5	dapperen	dappere	NOUN	NOUN	morph:Number=Plur|order:LK[V]MF[SO]|props:oneg-prov
+6	?	?	PUNCT	PUNCT	morph:null|order:LK[V]MF[SO]|props:oneg-prov
+
+1	Omdat	omdat	SCONJ	SCONJ	morph:null|order:MF[SO]VC[V]|props:oneg-prov
+2	het	het	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:oneg-prov
+3	geluk	geluk	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:MF[SO]VC[V]|props:oneg-prov
+4	geen	geen	DET	DET-onbep	morph:null|order:MF[SO]VC[V]|props:oneg-prov
+5	dapperen	dappere	NOUN	NOUN	morph:Number=Plur|order:MF[SO]VC[V]|props:oneg-prov
+6	helpt	helpen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:oneg-prov
+7	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:oneg-prov
+
+1	Het	het	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:oneg-prov
+2	doel	doel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[S]LK[V]MF[O]|props:oneg-prov
+3	heiligt	heiligen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[S]LK[V]MF[O]|props:oneg-prov
+4	geen	geen	DET	DET-onbep	morph:null|order:VF[S]LK[V]MF[O]|props:oneg-prov
+5	middelen	middel	NOUN	NOUN	morph:Number=Plur|order:VF[S]LK[V]MF[O]|props:oneg-prov
+6	.	.	PUNCT	PUNCT	morph:null|order:VF[S]LK[V]MF[O]|props:oneg-prov
+
+1	Daarom	daarom	ADV	ADV-bw	morph:null|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov
+2	heiligt	heiligen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov
+3	het	het	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov
+4	doel	doel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov
+5	geen	geen	DET	DET-onbep	morph:null|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov
+6	middelen	middel	NOUN	NOUN	morph:Number=Plur|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov
+7	.	.	PUNCT	PUNCT	morph:null|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov
+
+1	Heiligt	heiligen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:LK[V]MF[SO]|props:oneg-prov
+2	het	het	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:oneg-prov
+3	doel	doel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:LK[V]MF[SO]|props:oneg-prov
+4	geen	geen	DET	DET-onbep	morph:null|order:LK[V]MF[SO]|props:oneg-prov
+5	middelen	middel	NOUN	NOUN	morph:Number=Plur|order:LK[V]MF[SO]|props:oneg-prov
+6	?	?	PUNCT	PUNCT	morph:null|order:LK[V]MF[SO]|props:oneg-prov
+
+1	Omdat	omdat	SCONJ	SCONJ	morph:null|order:MF[SO]VC[V]|props:oneg-prov
+2	het	het	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:oneg-prov
+3	doel	doel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:MF[SO]VC[V]|props:oneg-prov
+4	geen	geen	DET	DET-onbep	morph:null|order:MF[SO]VC[V]|props:oneg-prov
+5	middelen	middel	NOUN	NOUN	morph:Number=Plur|order:MF[SO]VC[V]|props:oneg-prov
+6	heiligt	heiligen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:oneg-prov
+7	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:oneg-prov
+
+1	Tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[S]LK[V]MF[O]|props:oneg-prov
+2	heelt	helen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[S]LK[V]MF[O]|props:oneg-prov
+3	geen	geen	DET	DET-onbep	morph:null|order:VF[S]LK[V]MF[O]|props:oneg-prov
+4	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:VF[S]LK[V]MF[O]|props:oneg-prov
+5	.	.	PUNCT	PUNCT	morph:null|order:VF[S]LK[V]MF[O]|props:oneg-prov
+
+1	Geen	geen	DET	DET-onbep	morph:null|order:VF[O]LK[V]MF[S]|props:oneg-prov
+2	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:VF[O]LK[V]MF[S]|props:oneg-prov
+3	heelt	helen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[O]LK[V]MF[S]|props:oneg-prov
+4	tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[O]LK[V]MF[S]|props:oneg-prov
+5	.	.	PUNCT	PUNCT	morph:null|order:VF[O]LK[V]MF[S]|props:oneg-prov
+
+1	Daarom	daarom	ADV	ADV-bw	morph:null|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov
+2	heelt	helen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov
+3	tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov
+4	geen	geen	DET	DET-onbep	morph:null|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov
+5	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov
+6	.	.	PUNCT	PUNCT	morph:null|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov
+
+1	Heelt	helen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:LK[V]MF[SO]|props:oneg-prov
+2	tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:LK[V]MF[SO]|props:oneg-prov
+3	geen	geen	DET	DET-onbep	morph:null|order:LK[V]MF[SO]|props:oneg-prov
+4	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:LK[V]MF[SO]|props:oneg-prov
+5	?	?	PUNCT	PUNCT	morph:null|order:LK[V]MF[SO]|props:oneg-prov
+
+1	Omdat	omdat	SCONJ	SCONJ	morph:null|order:MF[SO]VC[V]|props:oneg-prov
+2	tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:MF[SO]VC[V]|props:oneg-prov
+3	geen	geen	DET	DET-onbep	morph:null|order:MF[SO]VC[V]|props:oneg-prov
+4	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:MF[SO]VC[V]|props:oneg-prov
+5	heelt	helen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:oneg-prov
+6	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:oneg-prov
+
+1	De	de	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:pp-prov
+2	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:VF[S]LK[V]MF[O]|props:pp-prov
+3	verlaten	verlaten	VERB	VERB-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:VF[S]LK[V]MF[O]|props:pp-prov
+4	na	na	ADP	ADP-init	morph:null|order:VF[S]LK[V]MF[O]|props:pp-prov
+5	een	een	DET	DET-onbep	morph:Definite=Ind|order:VF[S]LK[V]MF[O]|props:pp-prov
+6	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[S]LK[V]MF[O]|props:pp-prov
+7	het	het	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:pp-prov
+8	zinkende	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:VF[S]LK[V]MF[O]|props:pp-prov
+9	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[S]LK[V]MF[O]|props:pp-prov
+10	.	.	PUNCT	PUNCT	morph:null|order:VF[S]LK[V]MF[O]|props:pp-prov
+
+1	Het	het	DET	DET-bep	morph:Definite=Def|order:VF[O]LK[V]MF[S]|props:pp-prov
+2	zinkende	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:VF[O]LK[V]MF[S]|props:pp-prov
+3	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[O]LK[V]MF[S]|props:pp-prov
+4	verlaten	verlaten	VERB	VERB-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:VF[O]LK[V]MF[S]|props:pp-prov
+5	de	de	DET	DET-bep	morph:Definite=Def|order:VF[O]LK[V]MF[S]|props:pp-prov
+6	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:VF[O]LK[V]MF[S]|props:pp-prov
+7	na	na	ADP	ADP-init	morph:null|order:VF[O]LK[V]MF[S]|props:pp-prov
+8	een	een	DET	DET-onbep	morph:Definite=Ind|order:VF[O]LK[V]MF[S]|props:pp-prov
+9	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[O]LK[V]MF[S]|props:pp-prov
+10	.	.	PUNCT	PUNCT	morph:null|order:VF[O]LK[V]MF[S]|props:pp-prov
+
+1	Daarom	daarom	ADV	ADV-bw	morph:null|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+2	verlaten	verlaten	VERB	VERB-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+3	de	de	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+4	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+5	na	na	ADP	ADP-init	morph:null|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+6	een	een	DET	DET-onbep	morph:Definite=Ind|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+7	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+8	het	het	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+9	zinkende	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+10	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+11	.	.	PUNCT	PUNCT	morph:null|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+
+1	Verlaten	verlaten	VERB	VERB-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:LK[V]MF[SO]|props:pp-prov
+2	de	de	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:pp-prov
+3	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:LK[V]MF[SO]|props:pp-prov
+4	na	na	ADP	ADP-init	morph:null|order:LK[V]MF[SO]|props:pp-prov
+5	een	een	DET	DET-onbep	morph:Definite=Ind|order:LK[V]MF[SO]|props:pp-prov
+6	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:LK[V]MF[SO]|props:pp-prov
+7	het	het	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:pp-prov
+8	zinkende	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:LK[V]MF[SO]|props:pp-prov
+9	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:LK[V]MF[SO]|props:pp-prov
+10	?	?	PUNCT	PUNCT	morph:null|order:LK[V]MF[SO]|props:pp-prov
+
+1	Omdat	omdat	SCONJ	SCONJ	morph:null|order:MF[SO]VC[V]|props:pp-prov
+2	de	de	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:pp-prov
+3	ratten	rat	NOUN	NOUN	morph:Number=Plur|order:MF[SO]VC[V]|props:pp-prov
+4	na	na	ADP	ADP-init	morph:null|order:MF[SO]VC[V]|props:pp-prov
+5	een	een	DET	DET-onbep	morph:Definite=Ind|order:MF[SO]VC[V]|props:pp-prov
+6	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:MF[SO]VC[V]|props:pp-prov
+7	het	het	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:pp-prov
+8	zinkende	zinkend	ADJ	ADJ-prenom	morph:Degree=Pos|order:MF[SO]VC[V]|props:pp-prov
+9	schip	schip	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:MF[SO]VC[V]|props:pp-prov
+10	verlaten	verlaten	VERB	VERB-pv	morph:Number=Plur&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:pp-prov
+11	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:pp-prov
+
+1	Het	het	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:pp-prov
+2	geluk	geluk	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[S]LK[V]MF[O]|props:pp-prov
+3	helpt	helpen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[S]LK[V]MF[O]|props:pp-prov
+4	gedurende	gedurende	ADP	ADP-init	morph:null|order:VF[S]LK[V]MF[O]|props:pp-prov
+5	een	een	DET	DET-onbep	morph:Definite=Ind|order:VF[S]LK[V]MF[O]|props:pp-prov
+6	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[S]LK[V]MF[O]|props:pp-prov
+7	de	de	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:pp-prov
+8	dapperen	dappere	NOUN	NOUN	morph:Number=Plur|order:VF[S]LK[V]MF[O]|props:pp-prov
+9	.	.	PUNCT	PUNCT	morph:null|order:VF[S]LK[V]MF[O]|props:pp-prov
+
+1	Daarom	daarom	ADV	ADV-bw	morph:null|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+2	helpt	helpen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+3	het	het	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+4	geluk	geluk	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+5	gedurende	gedurende	ADP	ADP-init	morph:null|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+6	een	een	DET	DET-onbep	morph:Definite=Ind|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+7	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+8	de	de	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+9	dapperen	dappere	NOUN	NOUN	morph:Number=Plur|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+10	.	.	PUNCT	PUNCT	morph:null|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+
+1	Helpt	helpen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:LK[V]MF[SO]|props:pp-prov
+2	het	het	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:pp-prov
+3	geluk	geluk	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:LK[V]MF[SO]|props:pp-prov
+4	gedurende	gedurende	ADP	ADP-init	morph:null|order:LK[V]MF[SO]|props:pp-prov
+5	een	een	DET	DET-onbep	morph:Definite=Ind|order:LK[V]MF[SO]|props:pp-prov
+6	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:LK[V]MF[SO]|props:pp-prov
+7	de	de	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:pp-prov
+8	dapperen	dappere	NOUN	NOUN	morph:Number=Plur|order:LK[V]MF[SO]|props:pp-prov
+9	?	?	PUNCT	PUNCT	morph:null|order:LK[V]MF[SO]|props:pp-prov
+
+1	Omdat	omdat	SCONJ	SCONJ	morph:null|order:MF[SO]VC[V]|props:pp-prov
+2	het	het	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:pp-prov
+3	geluk	geluk	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:MF[SO]VC[V]|props:pp-prov
+4	gedurende	gedurende	ADP	ADP-init	morph:null|order:MF[SO]VC[V]|props:pp-prov
+5	een	een	DET	DET-onbep	morph:Definite=Ind|order:MF[SO]VC[V]|props:pp-prov
+6	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:MF[SO]VC[V]|props:pp-prov
+7	de	de	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:pp-prov
+8	dapperen	dappere	NOUN	NOUN	morph:Number=Plur|order:MF[SO]VC[V]|props:pp-prov
+9	helpt	helpen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:pp-prov
+10	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:pp-prov
+
+1	Het	het	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:pp-prov
+2	doel	doel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[S]LK[V]MF[O]|props:pp-prov
+3	heiligt	heiligen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[S]LK[V]MF[O]|props:pp-prov
+4	gedurende	gedurende	ADP	ADP-init	morph:null|order:VF[S]LK[V]MF[O]|props:pp-prov
+5	een	een	DET	DET-onbep	morph:Definite=Ind|order:VF[S]LK[V]MF[O]|props:pp-prov
+6	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[S]LK[V]MF[O]|props:pp-prov
+7	de	de	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:pp-prov
+8	middelen	middel	NOUN	NOUN	morph:Number=Plur|order:VF[S]LK[V]MF[O]|props:pp-prov
+9	.	.	PUNCT	PUNCT	morph:null|order:VF[S]LK[V]MF[O]|props:pp-prov
+
+1	Daarom	daarom	ADV	ADV-bw	morph:null|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+2	heiligt	heiligen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+3	het	het	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+4	doel	doel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+5	gedurende	gedurende	ADP	ADP-init	morph:null|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+6	een	een	DET	DET-onbep	morph:Definite=Ind|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+7	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+8	de	de	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+9	middelen	middel	NOUN	NOUN	morph:Number=Plur|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+10	.	.	PUNCT	PUNCT	morph:null|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+
+1	Heiligt	heiligen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:LK[V]MF[SO]|props:pp-prov
+2	het	het	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:pp-prov
+3	doel	doel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:LK[V]MF[SO]|props:pp-prov
+4	gedurende	gedurende	ADP	ADP-init	morph:null|order:LK[V]MF[SO]|props:pp-prov
+5	een	een	DET	DET-onbep	morph:Definite=Ind|order:LK[V]MF[SO]|props:pp-prov
+6	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:LK[V]MF[SO]|props:pp-prov
+7	de	de	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:pp-prov
+8	middelen	middel	NOUN	NOUN	morph:Number=Plur|order:LK[V]MF[SO]|props:pp-prov
+9	?	?	PUNCT	PUNCT	morph:null|order:LK[V]MF[SO]|props:pp-prov
+
+1	Omdat	omdat	SCONJ	SCONJ	morph:null|order:MF[SO]VC[V]|props:pp-prov
+2	het	het	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:pp-prov
+3	doel	doel	NOUN	NOUN	morph:Gender=Neut&Number=Sing|order:MF[SO]VC[V]|props:pp-prov
+4	gedurende	gedurende	ADP	ADP-init	morph:null|order:MF[SO]VC[V]|props:pp-prov
+5	een	een	DET	DET-onbep	morph:Definite=Ind|order:MF[SO]VC[V]|props:pp-prov
+6	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:MF[SO]VC[V]|props:pp-prov
+7	de	de	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:pp-prov
+8	middelen	middel	NOUN	NOUN	morph:Number=Plur|order:MF[SO]VC[V]|props:pp-prov
+9	heiligt	heiligen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:pp-prov
+10	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:pp-prov
+
+1	Tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[S]LK[V]MF[O]|props:pp-prov
+2	heelt	helen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[S]LK[V]MF[O]|props:pp-prov
+3	gedurende	gedurende	ADP	ADP-init	morph:null|order:VF[S]LK[V]MF[O]|props:pp-prov
+4	een	een	DET	DET-onbep	morph:Definite=Ind|order:VF[S]LK[V]MF[O]|props:pp-prov
+5	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[S]LK[V]MF[O]|props:pp-prov
+6	alle	al	DET	DET-onbep	morph:null|order:VF[S]LK[V]MF[O]|props:pp-prov
+7	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:VF[S]LK[V]MF[O]|props:pp-prov
+8	.	.	PUNCT	PUNCT	morph:null|order:VF[S]LK[V]MF[O]|props:pp-prov
+
+1	Alle	al	DET	DET-onbep	morph:null|order:VF[O]LK[V]MF[S]|props:pp-prov
+2	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:VF[O]LK[V]MF[S]|props:pp-prov
+3	heelt	helen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[O]LK[V]MF[S]|props:pp-prov
+4	tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[O]LK[V]MF[S]|props:pp-prov
+5	gedurende	gedurende	ADP	ADP-init	morph:null|order:VF[O]LK[V]MF[S]|props:pp-prov
+6	een	een	DET	DET-onbep	morph:Definite=Ind|order:VF[O]LK[V]MF[S]|props:pp-prov
+7	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[O]LK[V]MF[S]|props:pp-prov
+8	.	.	PUNCT	PUNCT	morph:null|order:VF[O]LK[V]MF[S]|props:pp-prov
+
+1	Daarom	daarom	ADV	ADV-bw	morph:null|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+2	heelt	helen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+3	tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+4	gedurende	gedurende	ADP	ADP-init	morph:null|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+5	een	een	DET	DET-onbep	morph:Definite=Ind|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+6	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+7	alle	al	DET	DET-onbep	morph:null|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+8	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+9	.	.	PUNCT	PUNCT	morph:null|order:VF[ADV]LK[V]MF[SO]|props:pp-prov
+
+1	Heelt	helen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:LK[V]MF[SO]|props:pp-prov
+2	tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:LK[V]MF[SO]|props:pp-prov
+3	gedurende	gedurende	ADP	ADP-init	morph:null|order:LK[V]MF[SO]|props:pp-prov
+4	een	een	DET	DET-onbep	morph:Definite=Ind|order:LK[V]MF[SO]|props:pp-prov
+5	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:LK[V]MF[SO]|props:pp-prov
+6	alle	al	DET	DET-onbep	morph:null|order:LK[V]MF[SO]|props:pp-prov
+7	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:LK[V]MF[SO]|props:pp-prov
+8	?	?	PUNCT	PUNCT	morph:null|order:LK[V]MF[SO]|props:pp-prov
+
+1	Omdat	omdat	SCONJ	SCONJ	morph:null|order:MF[SO]VC[V]|props:pp-prov
+2	tijd	tijd	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:MF[SO]VC[V]|props:pp-prov
+3	gedurende	gedurende	ADP	ADP-init	morph:null|order:MF[SO]VC[V]|props:pp-prov
+4	een	een	DET	DET-onbep	morph:Definite=Ind|order:MF[SO]VC[V]|props:pp-prov
+5	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:MF[SO]VC[V]|props:pp-prov
+6	alle	al	DET	DET-onbep	morph:null|order:MF[SO]VC[V]|props:pp-prov
+7	wonden	wond	NOUN	NOUN	morph:Number=Plur|order:MF[SO]VC[V]|props:pp-prov
+8	heelt	helen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:pp-prov
+9	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:pp-prov
 
 1	De	de	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:pp-oan
 2	bestuursvoorzitter	bestuursvoorzitter	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[S]LK[V]MF[O]|props:pp-oan

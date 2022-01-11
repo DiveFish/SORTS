@@ -53954,613 +53954,613 @@
 6	amuseren	_	_	_	order=MF[SO]VC[V]|props=psy-syn	0	verb	_	_
 7	.	_	_	_	order=MF[SO]VC[V]|props=psy-syn	_	_	_	_
 
-1	De	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	_	_	_	_
-2	ratten	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	3	nsubj	_	_
-3	verlaten	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	0	verb	_	_
-4	het	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	_	_	_	_
-5	zinkende	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	_	_	_	_
-6	schip	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	3	obj	_	_
-7	.	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	_	_	_	_
-
-1	Het	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	_	_	_	_
-2	zinkende	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	_	_	_	_
-3	schip	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	4	obj	_	_
-4	verlaten	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	0	verb	_	_
-5	de	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	_	_	_	_
-6	ratten	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	4	nsubj	_	_
-7	.	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	_	_	_	_
-
-1	Daarom	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-2	verlaten	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	0	verb	_	_
-3	de	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-4	ratten	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	2	nsubj	_	_
-5	het	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-6	zinkende	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-7	schip	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	2	obj	_	_
-8	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-
-1	Verlaten	_	_	_	order=LK[V]MF[SO]|props=base-idm	0	verb	_	_
-2	de	_	_	_	order=LK[V]MF[SO]|props=base-idm	_	_	_	_
-3	ratten	_	_	_	order=LK[V]MF[SO]|props=base-idm	1	nsubj	_	_
-4	het	_	_	_	order=LK[V]MF[SO]|props=base-idm	_	_	_	_
-5	zinkende	_	_	_	order=LK[V]MF[SO]|props=base-idm	_	_	_	_
-6	schip	_	_	_	order=LK[V]MF[SO]|props=base-idm	1	obj	_	_
-7	?	_	_	_	order=LK[V]MF[SO]|props=base-idm	_	_	_	_
-
-1	Omdat	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-2	de	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-3	ratten	_	_	_	order=MF[SO]VC[V]|props=base-idm	7	nsubj	_	_
-4	het	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-5	zinkende	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-6	schip	_	_	_	order=MF[SO]VC[V]|props=base-idm	7	obj	_	_
-7	verlaten	_	_	_	order=MF[SO]VC[V]|props=base-idm	0	verb	_	_
-8	.	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-
-1	Het	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	_	_	_	_
-2	geluk	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	3	nsubj	_	_
-3	helpt	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	0	verb	_	_
-4	de	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	_	_	_	_
-5	dapperen	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	3	obj	_	_
-6	.	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	_	_	_	_
-
-1	Daarom	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-2	helpt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	0	verb	_	_
-3	het	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-4	geluk	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	2	nsubj	_	_
-5	de	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-6	dapperen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	2	obj	_	_
-7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-
-1	Helpt	_	_	_	order=LK[V]MF[SO]|props=base-idm	0	verb	_	_
-2	het	_	_	_	order=LK[V]MF[SO]|props=base-idm	_	_	_	_
-3	geluk	_	_	_	order=LK[V]MF[SO]|props=base-idm	1	nsubj	_	_
-4	de	_	_	_	order=LK[V]MF[SO]|props=base-idm	_	_	_	_
-5	dapperen	_	_	_	order=LK[V]MF[SO]|props=base-idm	1	obj	_	_
-6	?	_	_	_	order=LK[V]MF[SO]|props=base-idm	_	_	_	_
-
-1	Omdat	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-2	het	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-3	geluk	_	_	_	order=MF[SO]VC[V]|props=base-idm	6	nsubj	_	_
-4	de	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-5	dapperen	_	_	_	order=MF[SO]VC[V]|props=base-idm	6	obj	_	_
-6	helpt	_	_	_	order=MF[SO]VC[V]|props=base-idm	0	verb	_	_
-7	.	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-
-1	Het	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	_	_	_	_
-2	doel	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	3	nsubj	_	_
-3	heiligt	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	0	verb	_	_
-4	de	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	_	_	_	_
-5	middelen	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	3	obj	_	_
-6	.	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	_	_	_	_
-
-1	Daarom	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-2	heiligt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	0	verb	_	_
-3	het	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-4	doel	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	2	nsubj	_	_
-5	de	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-6	middelen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	2	obj	_	_
-7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-
-1	Heiligt	_	_	_	order=LK[V]MF[SO]|props=base-idm	0	verb	_	_
-2	het	_	_	_	order=LK[V]MF[SO]|props=base-idm	_	_	_	_
-3	doel	_	_	_	order=LK[V]MF[SO]|props=base-idm	1	nsubj	_	_
-4	de	_	_	_	order=LK[V]MF[SO]|props=base-idm	_	_	_	_
-5	middelen	_	_	_	order=LK[V]MF[SO]|props=base-idm	1	obj	_	_
-6	?	_	_	_	order=LK[V]MF[SO]|props=base-idm	_	_	_	_
-
-1	Omdat	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-2	het	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-3	doel	_	_	_	order=MF[SO]VC[V]|props=base-idm	6	nsubj	_	_
-4	de	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-5	middelen	_	_	_	order=MF[SO]VC[V]|props=base-idm	6	obj	_	_
-6	heiligt	_	_	_	order=MF[SO]VC[V]|props=base-idm	0	verb	_	_
-7	.	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-
-1	Tijd	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	2	nsubj	_	_
-2	heelt	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	0	verb	_	_
-3	alle	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	_	_	_	_
-4	wonden	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	2	obj	_	_
-5	.	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	_	_	_	_
-
-1	Alle	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	_	_	_	_
-2	wonden	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	3	obj	_	_
-3	heelt	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	0	verb	_	_
-4	tijd	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	3	nsubj	_	_
-5	.	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	_	_	_	_
-
-1	Daarom	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-2	heelt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	0	verb	_	_
-3	tijd	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	2	nsubj	_	_
-4	alle	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-5	wonden	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	2	obj	_	_
-6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-
-1	Heelt	_	_	_	order=LK[V]MF[SO]|props=base-idm	0	verb	_	_
-2	tijd	_	_	_	order=LK[V]MF[SO]|props=base-idm	1	nsubj	_	_
-3	alle	_	_	_	order=LK[V]MF[SO]|props=base-idm	_	_	_	_
-4	wonden	_	_	_	order=LK[V]MF[SO]|props=base-idm	1	obj	_	_
-5	?	_	_	_	order=LK[V]MF[SO]|props=base-idm	_	_	_	_
-
-1	Omdat	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-2	tijd	_	_	_	order=MF[SO]VC[V]|props=base-idm	5	nsubj	_	_
-3	alle	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-4	wonden	_	_	_	order=MF[SO]VC[V]|props=base-idm	5	obj	_	_
-5	heelt	_	_	_	order=MF[SO]VC[V]|props=base-idm	0	verb	_	_
-6	.	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-
-1	De	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-2	ratten	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	7	nsubj	_	_
-3	zullen	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-4	het	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-5	zinkende	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-6	schip	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	7	obj	_	_
-7	verlaten	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	0	verb	_	_
-8	.	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-
-1	Het	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	_	_	_	_
-2	zinkende	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	_	_	_	_
-3	schip	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	7	obj	_	_
-4	zullen	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	_	_	_	_
-5	de	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	_	_	_	_
-6	ratten	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	7	nsubj	_	_
-7	verlaten	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	0	verb	_	_
-8	.	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	_	_	_	_
-
-1	Daarom	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-2	zullen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-3	de	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-4	ratten	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	8	nsubj	_	_
-5	het	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-6	zinkende	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-7	schip	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	8	obj	_	_
-8	verlaten	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	0	verb	_	_
-9	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-
-1	Zullen	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-2	de	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-3	ratten	_	_	_	order=LK[V]MF[SO]|props=aux-idm	7	nsubj	_	_
-4	het	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-5	zinkende	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-6	schip	_	_	_	order=LK[V]MF[SO]|props=aux-idm	7	obj	_	_
-7	verlaten	_	_	_	order=LK[V]MF[SO]|props=aux-idm	0	verb	_	_
-8	?	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-
-1	Omdat	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-2	de	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-3	ratten	_	_	_	order=MF[SO]VC[V]|props=aux-idm	7	nsubj	_	_
-4	het	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-5	zinkende	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-6	schip	_	_	_	order=MF[SO]VC[V]|props=aux-idm	7	obj	_	_
-7	zullen	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-8	verlaten	_	_	_	order=MF[SO]VC[V]|props=aux-idm	0	verb	_	_
-9	.	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-
-1	Het	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-2	geluk	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	6	nsubj	_	_
-3	zal	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-4	de	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-5	dapperen	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	6	obj	_	_
-6	helpen	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	0	verb	_	_
-7	.	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-
-1	Daarom	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-2	zal	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-3	het	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-4	geluk	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	7	nsubj	_	_
-5	de	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-6	dapperen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	7	obj	_	_
-7	helpen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	0	verb	_	_
-8	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-
-1	Zal	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-2	het	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-3	geluk	_	_	_	order=LK[V]MF[SO]|props=aux-idm	6	nsubj	_	_
-4	de	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-5	dapperen	_	_	_	order=LK[V]MF[SO]|props=aux-idm	6	obj	_	_
-6	helpen	_	_	_	order=LK[V]MF[SO]|props=aux-idm	0	verb	_	_
-7	?	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-
-1	Omdat	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-2	het	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-3	geluk	_	_	_	order=MF[SO]VC[V]|props=aux-idm	6	nsubj	_	_
-4	de	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-5	dapperen	_	_	_	order=MF[SO]VC[V]|props=aux-idm	6	obj	_	_
-6	zal	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-7	helpen	_	_	_	order=MF[SO]VC[V]|props=aux-idm	0	verb	_	_
-8	.	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-
-1	Het	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-2	doel	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	6	nsubj	_	_
-3	zal	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-4	het	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-5	middel	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	6	obj	_	_
-6	heiligen	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	0	verb	_	_
-7	.	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-
-1	Daarom	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-2	zal	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-3	het	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-4	doel	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	7	nsubj	_	_
-5	het	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-6	middel	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	7	obj	_	_
-7	heiligen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	0	verb	_	_
-8	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-
-1	Zal	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-2	het	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-3	doel	_	_	_	order=LK[V]MF[SO]|props=aux-idm	6	nsubj	_	_
-4	het	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-5	middel	_	_	_	order=LK[V]MF[SO]|props=aux-idm	6	obj	_	_
-6	heiligen	_	_	_	order=LK[V]MF[SO]|props=aux-idm	0	verb	_	_
-7	?	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-
-1	Omdat	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-2	het	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-3	doel	_	_	_	order=MF[SO]VC[V]|props=aux-idm	6	nsubj	_	_
-4	het	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-5	middel	_	_	_	order=MF[SO]VC[V]|props=aux-idm	6	obj	_	_
-6	zal	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-7	heiligen	_	_	_	order=MF[SO]VC[V]|props=aux-idm	0	verb	_	_
-8	.	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-
-1	Tijd	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	5	nsubj	_	_
-2	zal	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-3	alle	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-4	wonden	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	5	obj	_	_
-5	helen	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	0	verb	_	_
-6	.	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-
-1	Alle	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	_	_	_	_
-2	wonden	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	5	obj	_	_
-3	zal	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	_	_	_	_
-4	tijd	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	5	nsubj	_	_
-5	helen	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	0	verb	_	_
-6	.	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	_	_	_	_
-
-1	Daarom	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-2	zal	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-3	tijd	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	6	nsubj	_	_
-4	alle	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-5	wonden	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	6	obj	_	_
-6	helen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	0	verb	_	_
-7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-
-1	Zal	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-2	tijd	_	_	_	order=LK[V]MF[SO]|props=aux-idm	5	nsubj	_	_
-3	alle	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-4	wonden	_	_	_	order=LK[V]MF[SO]|props=aux-idm	5	obj	_	_
-5	helen	_	_	_	order=LK[V]MF[SO]|props=aux-idm	0	verb	_	_
-6	?	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-
-1	Omdat	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-2	tijd	_	_	_	order=MF[SO]VC[V]|props=aux-idm	5	nsubj	_	_
-3	alle	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-4	wonden	_	_	_	order=MF[SO]VC[V]|props=aux-idm	5	obj	_	_
-5	zal	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-6	helen	_	_	_	order=MF[SO]VC[V]|props=aux-idm	0	verb	_	_
-7	.	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-
-1	De	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	_	_	_	_
-2	ratten	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	3	nsubj	_	_
-3	verlaten	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	0	verb	_	_
-4	geen	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	_	_	_	_
-5	zinkend	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	_	_	_	_
-6	schip	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	3	obj	_	_
-7	.	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	_	_	_	_
-
-1	Geen	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	_	_	_	_
-2	zinkend	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	_	_	_	_
-3	schip	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	4	obj	_	_
-4	verlaten	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	0	verb	_	_
-5	de	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	_	_	_	_
-6	ratten	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	4	nsubj	_	_
-7	.	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	_	_	_	_
-
-1	Daarom	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-2	verlaten	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	0	verb	_	_
-3	de	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-4	ratten	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	2	nsubj	_	_
-5	geen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-6	zinkend	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-7	schip	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	2	obj	_	_
-8	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-
-1	Verlaten	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	0	verb	_	_
-2	de	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-3	ratten	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	1	nsubj	_	_
-4	geen	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-5	zinkend	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-6	schip	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	1	obj	_	_
-7	?	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-
-1	Omdat	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-2	de	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-3	ratten	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	7	nsubj	_	_
-4	geen	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-5	zinkend	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-6	schip	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	7	obj	_	_
-7	verlaten	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	0	verb	_	_
-8	.	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-
-1	Het	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	_	_	_	_
-2	geluk	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	3	nsubj	_	_
-3	helpt	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	0	verb	_	_
-4	geen	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	_	_	_	_
-5	dapperen	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	3	obj	_	_
-6	.	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	_	_	_	_
-
-1	Daarom	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-2	helpt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	0	verb	_	_
-3	het	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-4	geluk	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	2	nsubj	_	_
-5	geen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-6	dapperen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	2	obj	_	_
-7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-
-1	Helpt	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	0	verb	_	_
-2	het	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-3	geluk	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	1	nsubj	_	_
-4	geen	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-5	dapperen	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	1	obj	_	_
-6	?	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-
-1	Omdat	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-2	het	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-3	geluk	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	6	nsubj	_	_
-4	geen	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-5	dapperen	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	6	obj	_	_
-6	helpt	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	0	verb	_	_
-7	.	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-
-1	Het	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	_	_	_	_
-2	doel	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	3	nsubj	_	_
-3	heiligt	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	0	verb	_	_
-4	geen	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	_	_	_	_
-5	middelen	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	3	obj	_	_
-6	.	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	_	_	_	_
-
-1	Daarom	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-2	heiligt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	0	verb	_	_
-3	het	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-4	doel	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	2	nsubj	_	_
-5	geen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-6	middelen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	2	obj	_	_
-7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-
-1	Heiligt	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	0	verb	_	_
-2	het	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-3	doel	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	1	nsubj	_	_
-4	geen	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-5	middelen	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	1	obj	_	_
-6	?	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-
-1	Omdat	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-2	het	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-3	doel	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	6	nsubj	_	_
-4	geen	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-5	middelen	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	6	obj	_	_
-6	heiligt	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	0	verb	_	_
-7	.	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-
-1	Tijd	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	2	nsubj	_	_
-2	heelt	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	0	verb	_	_
-3	geen	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	_	_	_	_
-4	wonden	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	2	obj	_	_
-5	.	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	_	_	_	_
-
-1	Geen	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	_	_	_	_
-2	wonden	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	3	obj	_	_
-3	heelt	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	0	verb	_	_
-4	tijd	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	3	nsubj	_	_
-5	.	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	_	_	_	_
-
-1	Daarom	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-2	heelt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	0	verb	_	_
-3	tijd	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	2	nsubj	_	_
-4	geen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-5	wonden	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	2	obj	_	_
-6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-
-1	Heelt	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	0	verb	_	_
-2	tijd	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	1	nsubj	_	_
-3	geen	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-4	wonden	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	1	obj	_	_
-5	?	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-
-1	Omdat	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-2	tijd	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	5	nsubj	_	_
-3	geen	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-4	wonden	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	5	obj	_	_
-5	heelt	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	0	verb	_	_
-6	.	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-
-1	De	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-2	ratten	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	3	nsubj	_	_
-3	verlaten	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	0	verb	_	_
-4	na	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-5	een	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-6	week	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-7	het	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-8	zinkende	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-9	schip	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	3	obj	_	_
-10	.	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-
-1	Het	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-2	zinkende	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-3	schip	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	4	obj	_	_
-4	verlaten	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	0	verb	_	_
-5	de	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-6	ratten	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	4	nsubj	_	_
-7	na	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-8	een	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-9	week	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-10	.	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-
-1	Daarom	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-2	verlaten	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	0	verb	_	_
-3	de	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-4	ratten	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	2	nsubj	_	_
-5	na	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-6	een	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-7	week	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-8	het	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-9	zinkende	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-10	schip	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	2	obj	_	_
-11	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-
-1	Verlaten	_	_	_	order=LK[V]MF[SO]|props=pp-idm	0	verb	_	_
-2	de	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-3	ratten	_	_	_	order=LK[V]MF[SO]|props=pp-idm	1	nsubj	_	_
-4	na	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-5	een	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-6	week	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-7	het	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-8	zinkende	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-9	schip	_	_	_	order=LK[V]MF[SO]|props=pp-idm	1	obj	_	_
-10	?	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-
-1	Omdat	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-2	de	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-3	ratten	_	_	_	order=MF[SO]VC[V]|props=pp-idm	10	nsubj	_	_
-4	na	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-5	een	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-6	week	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-7	het	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-8	zinkende	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-9	schip	_	_	_	order=MF[SO]VC[V]|props=pp-idm	10	obj	_	_
-10	verlaten	_	_	_	order=MF[SO]VC[V]|props=pp-idm	0	verb	_	_
-11	.	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-
-1	Het	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-2	geluk	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	3	nsubj	_	_
-3	helpt	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	0	verb	_	_
-4	gedurende	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-5	een	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-6	week	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-7	de	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-8	dapperen	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	3	obj	_	_
-9	.	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-
-1	Daarom	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-2	helpt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	0	verb	_	_
-3	het	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-4	geluk	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	2	nsubj	_	_
-5	gedurende	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-6	een	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-7	week	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-8	de	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-9	dapperen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	2	obj	_	_
-10	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-
-1	Helpt	_	_	_	order=LK[V]MF[SO]|props=pp-idm	0	verb	_	_
-2	het	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-3	geluk	_	_	_	order=LK[V]MF[SO]|props=pp-idm	1	nsubj	_	_
-4	gedurende	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-5	een	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-6	week	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-7	de	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-8	dapperen	_	_	_	order=LK[V]MF[SO]|props=pp-idm	1	obj	_	_
-9	?	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-
-1	Omdat	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-2	het	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-3	geluk	_	_	_	order=MF[SO]VC[V]|props=pp-idm	9	nsubj	_	_
-4	gedurende	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-5	een	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-6	week	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-7	de	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-8	dapperen	_	_	_	order=MF[SO]VC[V]|props=pp-idm	9	obj	_	_
-9	helpt	_	_	_	order=MF[SO]VC[V]|props=pp-idm	0	verb	_	_
-10	.	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-
-1	Het	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-2	doel	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	3	nsubj	_	_
-3	heiligt	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	0	verb	_	_
-4	gedurende	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-5	een	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-6	week	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-7	de	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-8	middelen	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	3	obj	_	_
-9	.	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-
-1	Daarom	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-2	heiligt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	0	verb	_	_
-3	het	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-4	doel	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	2	nsubj	_	_
-5	gedurende	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-6	een	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-7	week	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-8	de	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-9	middelen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	2	obj	_	_
-10	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-
-1	Heiligt	_	_	_	order=LK[V]MF[SO]|props=pp-idm	0	verb	_	_
-2	het	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-3	doel	_	_	_	order=LK[V]MF[SO]|props=pp-idm	1	nsubj	_	_
-4	gedurende	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-5	een	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-6	week	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-7	de	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-8	middelen	_	_	_	order=LK[V]MF[SO]|props=pp-idm	1	obj	_	_
-9	?	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-
-1	Omdat	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-2	het	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-3	doel	_	_	_	order=MF[SO]VC[V]|props=pp-idm	9	nsubj	_	_
-4	gedurende	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-5	een	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-6	week	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-7	de	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-8	middelen	_	_	_	order=MF[SO]VC[V]|props=pp-idm	9	obj	_	_
-9	heiligt	_	_	_	order=MF[SO]VC[V]|props=pp-idm	0	verb	_	_
-10	.	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-
-1	Tijd	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	2	nsubj	_	_
-2	heelt	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	0	verb	_	_
-3	gedurende	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-4	een	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-5	week	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-6	alle	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-7	wonden	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	2	obj	_	_
-8	.	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-
-1	Alle	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-2	wonden	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	3	obj	_	_
-3	heelt	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	0	verb	_	_
-4	tijd	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	3	nsubj	_	_
-5	gedurende	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-6	een	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-7	week	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-8	.	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-
-1	Daarom	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-2	heelt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	0	verb	_	_
-3	tijd	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	2	nsubj	_	_
-4	gedurende	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-5	een	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-6	week	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-7	alle	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-8	wonden	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	2	obj	_	_
-9	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-
-1	Heelt	_	_	_	order=LK[V]MF[SO]|props=pp-idm	0	verb	_	_
-2	tijd	_	_	_	order=LK[V]MF[SO]|props=pp-idm	1	nsubj	_	_
-3	gedurende	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-4	een	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-5	week	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-6	alle	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-7	wonden	_	_	_	order=LK[V]MF[SO]|props=pp-idm	1	obj	_	_
-8	?	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-
-1	Omdat	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-2	tijd	_	_	_	order=MF[SO]VC[V]|props=pp-idm	8	nsubj	_	_
-3	gedurende	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-4	een	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-5	week	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-6	alle	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-7	wonden	_	_	_	order=MF[SO]VC[V]|props=pp-idm	8	obj	_	_
-8	heelt	_	_	_	order=MF[SO]VC[V]|props=pp-idm	0	verb	_	_
-9	.	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
+1	De	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	_	_	_	_
+2	ratten	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	3	nsubj	_	_
+3	verlaten	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	0	verb	_	_
+4	het	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	_	_	_	_
+5	zinkende	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	_	_	_	_
+6	schip	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	3	obj	_	_
+7	.	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	_	_	_	_
+
+1	Het	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	_	_	_	_
+2	zinkende	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	_	_	_	_
+3	schip	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	4	obj	_	_
+4	verlaten	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	0	verb	_	_
+5	de	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	_	_	_	_
+6	ratten	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	4	nsubj	_	_
+7	.	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	_	_	_	_
+
+1	Daarom	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+2	verlaten	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	0	verb	_	_
+3	de	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+4	ratten	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	2	nsubj	_	_
+5	het	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+6	zinkende	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+7	schip	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	2	obj	_	_
+8	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+
+1	Verlaten	_	_	_	order=LK[V]MF[SO]|props=base-prov	0	verb	_	_
+2	de	_	_	_	order=LK[V]MF[SO]|props=base-prov	_	_	_	_
+3	ratten	_	_	_	order=LK[V]MF[SO]|props=base-prov	1	nsubj	_	_
+4	het	_	_	_	order=LK[V]MF[SO]|props=base-prov	_	_	_	_
+5	zinkende	_	_	_	order=LK[V]MF[SO]|props=base-prov	_	_	_	_
+6	schip	_	_	_	order=LK[V]MF[SO]|props=base-prov	1	obj	_	_
+7	?	_	_	_	order=LK[V]MF[SO]|props=base-prov	_	_	_	_
+
+1	Omdat	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+2	de	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+3	ratten	_	_	_	order=MF[SO]VC[V]|props=base-prov	7	nsubj	_	_
+4	het	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+5	zinkende	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+6	schip	_	_	_	order=MF[SO]VC[V]|props=base-prov	7	obj	_	_
+7	verlaten	_	_	_	order=MF[SO]VC[V]|props=base-prov	0	verb	_	_
+8	.	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+
+1	Het	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	_	_	_	_
+2	geluk	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	3	nsubj	_	_
+3	helpt	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	0	verb	_	_
+4	de	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	_	_	_	_
+5	dapperen	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	3	obj	_	_
+6	.	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	_	_	_	_
+
+1	Daarom	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+2	helpt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	0	verb	_	_
+3	het	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+4	geluk	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	2	nsubj	_	_
+5	de	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+6	dapperen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	2	obj	_	_
+7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+
+1	Helpt	_	_	_	order=LK[V]MF[SO]|props=base-prov	0	verb	_	_
+2	het	_	_	_	order=LK[V]MF[SO]|props=base-prov	_	_	_	_
+3	geluk	_	_	_	order=LK[V]MF[SO]|props=base-prov	1	nsubj	_	_
+4	de	_	_	_	order=LK[V]MF[SO]|props=base-prov	_	_	_	_
+5	dapperen	_	_	_	order=LK[V]MF[SO]|props=base-prov	1	obj	_	_
+6	?	_	_	_	order=LK[V]MF[SO]|props=base-prov	_	_	_	_
+
+1	Omdat	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+2	het	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+3	geluk	_	_	_	order=MF[SO]VC[V]|props=base-prov	6	nsubj	_	_
+4	de	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+5	dapperen	_	_	_	order=MF[SO]VC[V]|props=base-prov	6	obj	_	_
+6	helpt	_	_	_	order=MF[SO]VC[V]|props=base-prov	0	verb	_	_
+7	.	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+
+1	Het	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	_	_	_	_
+2	doel	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	3	nsubj	_	_
+3	heiligt	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	0	verb	_	_
+4	de	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	_	_	_	_
+5	middelen	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	3	obj	_	_
+6	.	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	_	_	_	_
+
+1	Daarom	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+2	heiligt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	0	verb	_	_
+3	het	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+4	doel	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	2	nsubj	_	_
+5	de	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+6	middelen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	2	obj	_	_
+7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+
+1	Heiligt	_	_	_	order=LK[V]MF[SO]|props=base-prov	0	verb	_	_
+2	het	_	_	_	order=LK[V]MF[SO]|props=base-prov	_	_	_	_
+3	doel	_	_	_	order=LK[V]MF[SO]|props=base-prov	1	nsubj	_	_
+4	de	_	_	_	order=LK[V]MF[SO]|props=base-prov	_	_	_	_
+5	middelen	_	_	_	order=LK[V]MF[SO]|props=base-prov	1	obj	_	_
+6	?	_	_	_	order=LK[V]MF[SO]|props=base-prov	_	_	_	_
+
+1	Omdat	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+2	het	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+3	doel	_	_	_	order=MF[SO]VC[V]|props=base-prov	6	nsubj	_	_
+4	de	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+5	middelen	_	_	_	order=MF[SO]VC[V]|props=base-prov	6	obj	_	_
+6	heiligt	_	_	_	order=MF[SO]VC[V]|props=base-prov	0	verb	_	_
+7	.	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+
+1	Tijd	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	2	nsubj	_	_
+2	heelt	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	0	verb	_	_
+3	alle	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	_	_	_	_
+4	wonden	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	2	obj	_	_
+5	.	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	_	_	_	_
+
+1	Alle	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	_	_	_	_
+2	wonden	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	3	obj	_	_
+3	heelt	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	0	verb	_	_
+4	tijd	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	3	nsubj	_	_
+5	.	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	_	_	_	_
+
+1	Daarom	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+2	heelt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	0	verb	_	_
+3	tijd	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	2	nsubj	_	_
+4	alle	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+5	wonden	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	2	obj	_	_
+6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+
+1	Heelt	_	_	_	order=LK[V]MF[SO]|props=base-prov	0	verb	_	_
+2	tijd	_	_	_	order=LK[V]MF[SO]|props=base-prov	1	nsubj	_	_
+3	alle	_	_	_	order=LK[V]MF[SO]|props=base-prov	_	_	_	_
+4	wonden	_	_	_	order=LK[V]MF[SO]|props=base-prov	1	obj	_	_
+5	?	_	_	_	order=LK[V]MF[SO]|props=base-prov	_	_	_	_
+
+1	Omdat	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+2	tijd	_	_	_	order=MF[SO]VC[V]|props=base-prov	5	nsubj	_	_
+3	alle	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+4	wonden	_	_	_	order=MF[SO]VC[V]|props=base-prov	5	obj	_	_
+5	heelt	_	_	_	order=MF[SO]VC[V]|props=base-prov	0	verb	_	_
+6	.	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+
+1	De	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+2	ratten	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	7	nsubj	_	_
+3	zullen	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+4	het	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+5	zinkende	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+6	schip	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	7	obj	_	_
+7	verlaten	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	0	verb	_	_
+8	.	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+
+1	Het	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	_	_	_	_
+2	zinkende	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	_	_	_	_
+3	schip	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	7	obj	_	_
+4	zullen	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	_	_	_	_
+5	de	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	_	_	_	_
+6	ratten	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	7	nsubj	_	_
+7	verlaten	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	0	verb	_	_
+8	.	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	_	_	_	_
+
+1	Daarom	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+2	zullen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+3	de	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+4	ratten	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	8	nsubj	_	_
+5	het	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+6	zinkende	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+7	schip	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	8	obj	_	_
+8	verlaten	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	0	verb	_	_
+9	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+
+1	Zullen	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+2	de	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+3	ratten	_	_	_	order=LK[V]MF[SO]|props=aux-prov	7	nsubj	_	_
+4	het	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+5	zinkende	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+6	schip	_	_	_	order=LK[V]MF[SO]|props=aux-prov	7	obj	_	_
+7	verlaten	_	_	_	order=LK[V]MF[SO]|props=aux-prov	0	verb	_	_
+8	?	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+
+1	Omdat	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+2	de	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+3	ratten	_	_	_	order=MF[SO]VC[V]|props=aux-prov	7	nsubj	_	_
+4	het	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+5	zinkende	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+6	schip	_	_	_	order=MF[SO]VC[V]|props=aux-prov	7	obj	_	_
+7	zullen	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+8	verlaten	_	_	_	order=MF[SO]VC[V]|props=aux-prov	0	verb	_	_
+9	.	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+
+1	Het	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+2	geluk	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	6	nsubj	_	_
+3	zal	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+4	de	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+5	dapperen	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	6	obj	_	_
+6	helpen	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	0	verb	_	_
+7	.	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+
+1	Daarom	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+2	zal	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+3	het	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+4	geluk	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	7	nsubj	_	_
+5	de	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+6	dapperen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	7	obj	_	_
+7	helpen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	0	verb	_	_
+8	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+
+1	Zal	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+2	het	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+3	geluk	_	_	_	order=LK[V]MF[SO]|props=aux-prov	6	nsubj	_	_
+4	de	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+5	dapperen	_	_	_	order=LK[V]MF[SO]|props=aux-prov	6	obj	_	_
+6	helpen	_	_	_	order=LK[V]MF[SO]|props=aux-prov	0	verb	_	_
+7	?	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+
+1	Omdat	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+2	het	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+3	geluk	_	_	_	order=MF[SO]VC[V]|props=aux-prov	6	nsubj	_	_
+4	de	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+5	dapperen	_	_	_	order=MF[SO]VC[V]|props=aux-prov	6	obj	_	_
+6	zal	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+7	helpen	_	_	_	order=MF[SO]VC[V]|props=aux-prov	0	verb	_	_
+8	.	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+
+1	Het	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+2	doel	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	6	nsubj	_	_
+3	zal	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+4	het	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+5	middel	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	6	obj	_	_
+6	heiligen	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	0	verb	_	_
+7	.	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+
+1	Daarom	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+2	zal	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+3	het	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+4	doel	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	7	nsubj	_	_
+5	het	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+6	middel	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	7	obj	_	_
+7	heiligen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	0	verb	_	_
+8	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+
+1	Zal	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+2	het	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+3	doel	_	_	_	order=LK[V]MF[SO]|props=aux-prov	6	nsubj	_	_
+4	het	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+5	middel	_	_	_	order=LK[V]MF[SO]|props=aux-prov	6	obj	_	_
+6	heiligen	_	_	_	order=LK[V]MF[SO]|props=aux-prov	0	verb	_	_
+7	?	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+
+1	Omdat	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+2	het	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+3	doel	_	_	_	order=MF[SO]VC[V]|props=aux-prov	6	nsubj	_	_
+4	het	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+5	middel	_	_	_	order=MF[SO]VC[V]|props=aux-prov	6	obj	_	_
+6	zal	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+7	heiligen	_	_	_	order=MF[SO]VC[V]|props=aux-prov	0	verb	_	_
+8	.	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+
+1	Tijd	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	5	nsubj	_	_
+2	zal	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+3	alle	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+4	wonden	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	5	obj	_	_
+5	helen	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	0	verb	_	_
+6	.	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+
+1	Alle	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	_	_	_	_
+2	wonden	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	5	obj	_	_
+3	zal	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	_	_	_	_
+4	tijd	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	5	nsubj	_	_
+5	helen	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	0	verb	_	_
+6	.	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	_	_	_	_
+
+1	Daarom	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+2	zal	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+3	tijd	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	6	nsubj	_	_
+4	alle	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+5	wonden	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	6	obj	_	_
+6	helen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	0	verb	_	_
+7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+
+1	Zal	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+2	tijd	_	_	_	order=LK[V]MF[SO]|props=aux-prov	5	nsubj	_	_
+3	alle	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+4	wonden	_	_	_	order=LK[V]MF[SO]|props=aux-prov	5	obj	_	_
+5	helen	_	_	_	order=LK[V]MF[SO]|props=aux-prov	0	verb	_	_
+6	?	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+
+1	Omdat	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+2	tijd	_	_	_	order=MF[SO]VC[V]|props=aux-prov	5	nsubj	_	_
+3	alle	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+4	wonden	_	_	_	order=MF[SO]VC[V]|props=aux-prov	5	obj	_	_
+5	zal	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+6	helen	_	_	_	order=MF[SO]VC[V]|props=aux-prov	0	verb	_	_
+7	.	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+
+1	De	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	_	_	_	_
+2	ratten	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	3	nsubj	_	_
+3	verlaten	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	0	verb	_	_
+4	geen	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	_	_	_	_
+5	zinkend	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	_	_	_	_
+6	schip	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	3	obj	_	_
+7	.	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	_	_	_	_
+
+1	Geen	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	_	_	_	_
+2	zinkend	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	_	_	_	_
+3	schip	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	4	obj	_	_
+4	verlaten	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	0	verb	_	_
+5	de	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	_	_	_	_
+6	ratten	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	4	nsubj	_	_
+7	.	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	_	_	_	_
+
+1	Daarom	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+2	verlaten	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	0	verb	_	_
+3	de	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+4	ratten	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	2	nsubj	_	_
+5	geen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+6	zinkend	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+7	schip	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	2	obj	_	_
+8	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+
+1	Verlaten	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	0	verb	_	_
+2	de	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+3	ratten	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	1	nsubj	_	_
+4	geen	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+5	zinkend	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+6	schip	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	1	obj	_	_
+7	?	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+
+1	Omdat	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+2	de	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+3	ratten	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	7	nsubj	_	_
+4	geen	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+5	zinkend	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+6	schip	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	7	obj	_	_
+7	verlaten	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	0	verb	_	_
+8	.	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+
+1	Het	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	_	_	_	_
+2	geluk	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	3	nsubj	_	_
+3	helpt	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	0	verb	_	_
+4	geen	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	_	_	_	_
+5	dapperen	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	3	obj	_	_
+6	.	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	_	_	_	_
+
+1	Daarom	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+2	helpt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	0	verb	_	_
+3	het	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+4	geluk	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	2	nsubj	_	_
+5	geen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+6	dapperen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	2	obj	_	_
+7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+
+1	Helpt	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	0	verb	_	_
+2	het	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+3	geluk	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	1	nsubj	_	_
+4	geen	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+5	dapperen	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	1	obj	_	_
+6	?	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+
+1	Omdat	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+2	het	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+3	geluk	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	6	nsubj	_	_
+4	geen	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+5	dapperen	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	6	obj	_	_
+6	helpt	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	0	verb	_	_
+7	.	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+
+1	Het	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	_	_	_	_
+2	doel	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	3	nsubj	_	_
+3	heiligt	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	0	verb	_	_
+4	geen	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	_	_	_	_
+5	middelen	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	3	obj	_	_
+6	.	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	_	_	_	_
+
+1	Daarom	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+2	heiligt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	0	verb	_	_
+3	het	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+4	doel	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	2	nsubj	_	_
+5	geen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+6	middelen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	2	obj	_	_
+7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+
+1	Heiligt	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	0	verb	_	_
+2	het	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+3	doel	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	1	nsubj	_	_
+4	geen	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+5	middelen	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	1	obj	_	_
+6	?	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+
+1	Omdat	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+2	het	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+3	doel	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	6	nsubj	_	_
+4	geen	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+5	middelen	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	6	obj	_	_
+6	heiligt	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	0	verb	_	_
+7	.	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+
+1	Tijd	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	2	nsubj	_	_
+2	heelt	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	0	verb	_	_
+3	geen	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	_	_	_	_
+4	wonden	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	2	obj	_	_
+5	.	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	_	_	_	_
+
+1	Geen	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	_	_	_	_
+2	wonden	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	3	obj	_	_
+3	heelt	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	0	verb	_	_
+4	tijd	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	3	nsubj	_	_
+5	.	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	_	_	_	_
+
+1	Daarom	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+2	heelt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	0	verb	_	_
+3	tijd	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	2	nsubj	_	_
+4	geen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+5	wonden	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	2	obj	_	_
+6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+
+1	Heelt	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	0	verb	_	_
+2	tijd	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	1	nsubj	_	_
+3	geen	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+4	wonden	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	1	obj	_	_
+5	?	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+
+1	Omdat	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+2	tijd	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	5	nsubj	_	_
+3	geen	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+4	wonden	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	5	obj	_	_
+5	heelt	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	0	verb	_	_
+6	.	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+
+1	De	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+2	ratten	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	3	nsubj	_	_
+3	verlaten	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	0	verb	_	_
+4	na	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+5	een	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+6	week	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+7	het	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+8	zinkende	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+9	schip	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	3	obj	_	_
+10	.	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+
+1	Het	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+2	zinkende	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+3	schip	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	4	obj	_	_
+4	verlaten	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	0	verb	_	_
+5	de	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+6	ratten	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	4	nsubj	_	_
+7	na	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+8	een	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+9	week	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+10	.	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+
+1	Daarom	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+2	verlaten	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	0	verb	_	_
+3	de	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+4	ratten	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	2	nsubj	_	_
+5	na	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+6	een	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+7	week	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+8	het	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+9	zinkende	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+10	schip	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	2	obj	_	_
+11	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+
+1	Verlaten	_	_	_	order=LK[V]MF[SO]|props=pp-prov	0	verb	_	_
+2	de	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+3	ratten	_	_	_	order=LK[V]MF[SO]|props=pp-prov	1	nsubj	_	_
+4	na	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+5	een	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+6	week	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+7	het	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+8	zinkende	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+9	schip	_	_	_	order=LK[V]MF[SO]|props=pp-prov	1	obj	_	_
+10	?	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+
+1	Omdat	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+2	de	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+3	ratten	_	_	_	order=MF[SO]VC[V]|props=pp-prov	10	nsubj	_	_
+4	na	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+5	een	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+6	week	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+7	het	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+8	zinkende	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+9	schip	_	_	_	order=MF[SO]VC[V]|props=pp-prov	10	obj	_	_
+10	verlaten	_	_	_	order=MF[SO]VC[V]|props=pp-prov	0	verb	_	_
+11	.	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+
+1	Het	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+2	geluk	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	3	nsubj	_	_
+3	helpt	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	0	verb	_	_
+4	gedurende	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+5	een	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+6	week	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+7	de	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+8	dapperen	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	3	obj	_	_
+9	.	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+
+1	Daarom	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+2	helpt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	0	verb	_	_
+3	het	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+4	geluk	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	2	nsubj	_	_
+5	gedurende	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+6	een	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+7	week	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+8	de	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+9	dapperen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	2	obj	_	_
+10	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+
+1	Helpt	_	_	_	order=LK[V]MF[SO]|props=pp-prov	0	verb	_	_
+2	het	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+3	geluk	_	_	_	order=LK[V]MF[SO]|props=pp-prov	1	nsubj	_	_
+4	gedurende	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+5	een	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+6	week	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+7	de	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+8	dapperen	_	_	_	order=LK[V]MF[SO]|props=pp-prov	1	obj	_	_
+9	?	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+
+1	Omdat	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+2	het	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+3	geluk	_	_	_	order=MF[SO]VC[V]|props=pp-prov	9	nsubj	_	_
+4	gedurende	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+5	een	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+6	week	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+7	de	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+8	dapperen	_	_	_	order=MF[SO]VC[V]|props=pp-prov	9	obj	_	_
+9	helpt	_	_	_	order=MF[SO]VC[V]|props=pp-prov	0	verb	_	_
+10	.	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+
+1	Het	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+2	doel	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	3	nsubj	_	_
+3	heiligt	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	0	verb	_	_
+4	gedurende	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+5	een	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+6	week	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+7	de	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+8	middelen	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	3	obj	_	_
+9	.	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+
+1	Daarom	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+2	heiligt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	0	verb	_	_
+3	het	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+4	doel	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	2	nsubj	_	_
+5	gedurende	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+6	een	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+7	week	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+8	de	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+9	middelen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	2	obj	_	_
+10	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+
+1	Heiligt	_	_	_	order=LK[V]MF[SO]|props=pp-prov	0	verb	_	_
+2	het	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+3	doel	_	_	_	order=LK[V]MF[SO]|props=pp-prov	1	nsubj	_	_
+4	gedurende	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+5	een	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+6	week	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+7	de	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+8	middelen	_	_	_	order=LK[V]MF[SO]|props=pp-prov	1	obj	_	_
+9	?	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+
+1	Omdat	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+2	het	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+3	doel	_	_	_	order=MF[SO]VC[V]|props=pp-prov	9	nsubj	_	_
+4	gedurende	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+5	een	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+6	week	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+7	de	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+8	middelen	_	_	_	order=MF[SO]VC[V]|props=pp-prov	9	obj	_	_
+9	heiligt	_	_	_	order=MF[SO]VC[V]|props=pp-prov	0	verb	_	_
+10	.	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+
+1	Tijd	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	2	nsubj	_	_
+2	heelt	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	0	verb	_	_
+3	gedurende	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+4	een	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+5	week	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+6	alle	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+7	wonden	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	2	obj	_	_
+8	.	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+
+1	Alle	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+2	wonden	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	3	obj	_	_
+3	heelt	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	0	verb	_	_
+4	tijd	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	3	nsubj	_	_
+5	gedurende	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+6	een	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+7	week	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+8	.	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+
+1	Daarom	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+2	heelt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	0	verb	_	_
+3	tijd	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	2	nsubj	_	_
+4	gedurende	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+5	een	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+6	week	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+7	alle	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+8	wonden	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	2	obj	_	_
+9	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+
+1	Heelt	_	_	_	order=LK[V]MF[SO]|props=pp-prov	0	verb	_	_
+2	tijd	_	_	_	order=LK[V]MF[SO]|props=pp-prov	1	nsubj	_	_
+3	gedurende	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+4	een	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+5	week	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+6	alle	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+7	wonden	_	_	_	order=LK[V]MF[SO]|props=pp-prov	1	obj	_	_
+8	?	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+
+1	Omdat	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+2	tijd	_	_	_	order=MF[SO]VC[V]|props=pp-prov	8	nsubj	_	_
+3	gedurende	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+4	een	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+5	week	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+6	alle	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+7	wonden	_	_	_	order=MF[SO]VC[V]|props=pp-prov	8	obj	_	_
+8	heelt	_	_	_	order=MF[SO]VC[V]|props=pp-prov	0	verb	_	_
+9	.	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
 
 1	De	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-oan	_	_	_	_
 2	bestuursvoorzitter	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-oan	3	nsubj	_	_

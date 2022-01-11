@@ -49413,1224 +49413,1224 @@
 6	amüsiert	amüsieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[OS]VC[V]|props:psy-syn|tf:VC
 7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:psy-syn|tf:UNK
 					
-1	Jedes	jedes	_	ADJ-PIDAT	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:VF
-2	Böhnchen	Böhnchen	_	NOUN-NN	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:VF
-3	gibt	geben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:LK
-4	ein	ein	_	DET-ART	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:MF
-5	Tönchen	Tönchen	_	NOUN-NN	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:UNK
-					
-1	Ein	ein	_	DET-ART	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:VF
-2	Tönchen	Tönchen	_	NOUN-NN	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:VF
-3	gibt	geben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:LK
-4	jedes	jedes	_	ADJ-PIDAT	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:MF
-5	Böhnchen	Böhnchen	_	NOUN-NN	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:VF
-2	gibt	geben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:LK
-3	jedes	jedes	_	ADJ-PIDAT	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:MF
-4	Böhnchen	Böhnchen	_	NOUN-NN	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:MF
-5	ein	ein	_	DET-ART	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:MF
-6	Tönchen	Tönchen	_	NOUN-NN	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:MF
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:UNK
-					
-1	Gibt	geben	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:LK
-2	jedes	jedes	_	ADJ-PIDAT	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:MF
-3	Böhnchen	Böhnchen	_	NOUN-NN	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:MF
-4	ein	ein	_	DET-ART	Morph:asn|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:MF
-5	Tönchen	Tönchen	_	NOUN-NN	Morph:asn|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:MF
-6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:C
-2	jedes	jedes	_	ADJ-PIDAT	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:MF
-3	Böhnchen	Böhnchen	_	NOUN-NN	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:MF
-4	ein	ein	_	DET-ART	Morph:asn|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:MF
-5	Tönchen	Tönchen	_	NOUN-NN	Morph:asn|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:MF
-6	gibt	geben	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:VC
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:UNK
-					
-1	Alles	alles	_	PRON-PIS	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:VF
-2	hat	haben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:LK
-3	seine	seine	_	DET-PPOSAT	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:MF
-4	Zeit	Zeit	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:UNK
-					
-1	Seine	seine	_	DET-PPOSAT	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:VF
-2	Zeit	Zeit	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:VF
-3	hat	haben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:LK
-4	alles	alles	_	PRON-PIS	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:VF
-2	hat	haben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:LK
-3	alles	alles	_	PRON-PIS	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:MF
-4	seine	seine	_	DET-PPOSAT	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:MF
-5	Zeit	Zeit	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:UNK
-					
-1	Hat	haben	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:LK
-2	alles	alles	_	PRON-PIS	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:MF
-3	seine	seine	_	DET-PPOSAT	Morph:asf|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:MF
-4	Zeit	Zeit	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:MF
-5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:C
-2	alles	alles	_	PRON-PIS	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:MF
-3	seine	seine	_	DET-PPOSAT	Morph:asf|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:MF
-4	Zeit	Zeit	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:MF
-5	hat	haben	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:VC
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:UNK
-					
-1	Arbeit	Arbeit	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:VF
-2	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:LK
-3	Brot	Brot	_	NOUN-NN	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:MF
-4	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:UNK
-					
-1	Brot	Brot	_	NOUN-NN	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:VF
-2	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:LK
-3	Arbeit	Arbeit	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:MF
-4	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:VF
-2	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:LK
-3	Arbeit	Arbeit	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:MF
-4	Brot	Brot	_	NOUN-NN	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:UNK
-					
-1	Bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:LK
-2	Arbeit	Arbeit	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:MF
-3	Brot	Brot	_	NOUN-NN	Morph:asn|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:MF
-4	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:C
-2	Arbeit	Arbeit	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:MF
-3	Brot	Brot	_	NOUN-NN	Morph:asn|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:MF
-4	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:VC
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:UNK
-					
-1	Eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:VF
-2	Hand	Hand	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:VF
-3	wäscht	waschen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:LK
-4	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:MF
-5	andere	ander	_	ADJ-ADJA	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:UNK
-					
-1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:VF
-2	andere	ander	_	PRON-PIS	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:VF
-3	wäscht	waschen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:LK
-4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:MF
-5	Hand	Hand	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:VF
-2	wäscht	waschen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:LK
-3	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:MF
-4	Hand	Hand	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:MF
-5	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:MF
-6	andere	ander	_	ADJ-ADJA	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:MF
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:UNK
-					
-1	Wäscht	waschen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:LK
-2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:MF
-3	Hand	Hand	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:MF
-4	die	die	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:MF
-5	andere	ander	_	ADJ-ADJA	Morph:asf|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:MF
-6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:C
-2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:MF
-3	Hand	Hand	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:MF
-4	die	die	_	DET-ART	Morph:asf|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:MF
-5	andere	ander	_	ADJ-ADJA	Morph:asf|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:MF
-6	wäscht	waschen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:VC
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:UNK
-					
-1	Frühe	früh	_	ADJ-ADJA	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:VF
-2	Zucht	Zucht	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:VF
-3	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:LK
-4	gute	gut	_	ADJ-ADJA	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:MF
-5	Frucht	Frucht	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:UNK
-					
-1	Gute	gut	_	ADJ-ADJA	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:VF
-2	Frucht	Frucht	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:VF
-3	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:LK
-4	frühe	früh	_	ADJ-ADJA	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:MF
-5	Zucht	Zucht	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:VF
-2	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:LK
-3	frühe	früh	_	ADJ-ADJA	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:MF
-4	Zucht	Zucht	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:MF
-5	gute	gut	_	ADJ-ADJA	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:MF
-6	Frucht	Frucht	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:MF
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:UNK
-					
-1	Bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:LK
-2	frühe	früh	_	ADJ-ADJA	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:MF
-3	Zucht	Zucht	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:MF
-4	gute	gut	_	ADJ-ADJA	Morph:asf|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:MF
-5	Frucht	Frucht	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:MF
-6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:C
-2	frühe	früh	_	ADJ-ADJA	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:MF
-3	Zucht	Zucht	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:MF
-4	gute	gut	_	ADJ-ADJA	Morph:asf|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:MF
-5	Frucht	Frucht	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:MF
-6	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:VC
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:UNK
-					
-1	Geld	Geld	_	NOUN-NN	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:VF
-2	regiert	regieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:LK
-3	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:MF
-4	Welt	Welt	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:UNK
-					
-1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:VF
-2	Welt	Welt	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:VF
-3	regiert	regieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:LK
-4	Geld	Geld	_	NOUN-NN	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:VF
-2	regiert	regieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:LK
-3	Geld	Geld	_	NOUN-NN	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:MF
-4	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:MF
-5	Welt	Welt	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:UNK
-					
-1	Regiert	regieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:LK
-2	Geld	Geld	_	NOUN-NN	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:MF
-3	die	die	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:MF
-4	Welt	Welt	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:MF
-5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:C
-2	Geld	Geld	_	NOUN-NN	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:MF
-3	die	die	_	DET-ART	Morph:asf|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:MF
-4	Welt	Welt	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:MF
-5	regiert	regieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:VC
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:UNK
-					
-1	Das	das	_	DET-ART	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:VF
-2	Schicksal	Schicksal	_	NOUN-NN	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:VF
-3	bestimmt	bestimmen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:LK
-4	dein	dein	_	DET-PPOSAT	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:MF
-5	Leben	Leben	_	NOUN-NN	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:UNK
-					
-1	Dein	dein	_	DET-PPOSAT	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:VF
-2	Leben	Leben	_	NOUN-NN	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:VF
-3	bestimmt	bestimmen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:LK
-4	das	das	_	DET-ART	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:MF
-5	Schicksal	Schicksal	_	NOUN-NN	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:VF
-2	bestimmt	bestimmen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:LK
-3	das	das	_	DET-ART	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:MF
-4	Schicksal	Schicksal	_	NOUN-NN	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:MF
-5	dein	dein	_	DET-PPOSAT	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:MF
-6	Leben	Leben	_	NOUN-NN	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:MF
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:UNK
-					
-1	Bestimmt	bestimmen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:LK
-2	das	das	_	DET-ART	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:MF
-3	Schicksal	Schicksal	_	NOUN-NN	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:MF
-4	dein	dein	_	DET-PPOSAT	Morph:gsn|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:MF
-5	Leben	Leben	_	NOUN-NN	Morph:asn|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:MF
-6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:C
-2	das	das	_	DET-ART	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:MF
-3	Schicksal	Schicksal	_	NOUN-NN	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:MF
-4	dein	dein	_	DET-PPOSAT	Morph:asn|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:MF
-5	Leben	Leben	_	NOUN-NN	Morph:asn|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:MF
-6	bestimmt	bestimmen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:VC
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:UNK
-					
-1	Jugend	Jugend	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:VF
-2	kennt	kennen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:LK
-3	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:MF
-4	Tugend	Tugend	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:base-idm|tf:UNK
-					
-1	Keine	keine	_	DET-PIAT	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:VF
-2	Tugend	Tugend	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:VF
-3	kennt	kennen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:LK
-4	Jugend	Jugend	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:base-idm|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:VF
-2	kennt	kennen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:LK
-3	Jugend	Jugend	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:MF
-4	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:MF
-5	Tugend	Tugend	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-idm|tf:UNK
-					
-1	Kennt	kennen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:LK
-2	Jugend	Jugend	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:MF
-3	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:MF
-4	Tugend	Tugend	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:MF
-5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:base-idm|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:C
-2	Jugend	Jugend	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:MF
-3	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:MF
-4	Tugend	Tugend	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:MF
-5	kennt	kennen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:VC
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-idm|tf:UNK
-					
-1	Jedes	jedes	_	ADJ-PIDAT	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:VF
-2	Böhnchen	Böhnchen	_	NOUN-NN	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:VF
-3	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:LK
-4	ein	ein	_	DET-ART	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:MF
-5	Tönchen	Tönchen	_	NOUN-NN	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:MF
-6	geben	geben	_	VERB-VVINF	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:VC
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:UNK
-					
-1	Ein	ein	_	DET-ART	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:VF
-2	Tönchen	Tönchen	_	NOUN-NN	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:VF
-3	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:LK
-4	jedes	jedes	_	ADJ-PIDAT	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:MF
-5	Böhnchen	Böhnchen	_	NOUN-NN	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:MF
-6	geben	geben	_	VERB-VVINF	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:VC
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:VF
-2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:LK
-3	jedes	jedes	_	ADJ-PIDAT	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:MF
-4	Böhnchen	Böhnchen	_	NOUN-NN	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:MF
-5	ein	ein	_	DET-ART	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:MF
-6	Tönchen	Tönchen	_	NOUN-NN	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:MF
-7	geben	geben	_	VERB-VVINF	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:VC
-8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:UNK
-					
-1	Wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:LK
-2	jedes	jedes	_	ADJ-PIDAT	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:MF
-3	Böhnchen	Böhnchen	_	NOUN-NN	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:MF
-4	ein	ein	_	DET-ART	Morph:asn|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:MF
-5	Tönchen	Tönchen	_	NOUN-NN	Morph:asn|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:MF
-6	geben	geben	_	VERB-VVINF	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:VC
-7	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:C
-2	jedes	jedes	_	ADJ-PIDAT	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:MF
-3	Böhnchen	Böhnchen	_	NOUN-NN	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:MF
-4	ein	ein	_	DET-ART	Morph:asn|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:MF
-5	Tönchen	Tönchen	_	NOUN-NN	Morph:asn|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:MF
-6	geben	geben	_	VERB-VVINF	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:VC
-7	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:VC
-8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:UNK
-					
-1	Alles	alles	_	PRON-PIS	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:VF
-2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:LK
-3	seine	seine	_	DET-PPOSAT	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:MF
-4	Zeit	Zeit	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:MF
-5	haben	haben	_	VERB-VVINF	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:VC
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:UNK
-					
-1	Seine	seine	_	DET-PPOSAT	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:VF
-2	Zeit	Zeit	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:VF
-3	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:LK
-4	alles	alles	_	PRON-PIS	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:MF
-5	haben	haben	_	VERB-VVINF	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:VC
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:VF
-2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:LK
-3	alles	alles	_	PRON-PIS	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:MF
-4	seine	seine	_	DET-PPOSAT	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:MF
-5	Zeit	Zeit	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:MF
-6	haben	haben	_	VERB-VVINF	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:VC
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:UNK
-					
-1	Wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:LK
-2	alles	alles	_	PRON-PIS	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:MF
-3	seine	seine	_	DET-PPOSAT	Morph:asf|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:MF
-4	Zeit	Zeit	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:MF
-5	haben	haben	_	VERB-VVINF	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:VC
-6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:C
-2	alles	alles	_	PRON-PIS	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:MF
-3	seine	seine	_	DET-PPOSAT	Morph:asf|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:MF
-4	Zeit	Zeit	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:MF
-5	haben	haben	_	VERB-VVINF	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:VC
-6	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:VC
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:UNK
-					
-1	Arbeit	Arbeit	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:VF
-2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:LK
-3	Brot	Brot	_	NOUN-NN	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:MF
-4	bringen	bringen	_	VERB-VVINF	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:VC
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:UNK
-					
-1	Brot	Brot	_	NOUN-NN	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:VF
-2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:LK
-3	Arbeit	Arbeit	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:MF
-4	bringen	bringen	_	VERB-VVINF	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:VC
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:VF
-2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:LK
-3	Arbeit	Arbeit	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:MF
-4	Brot	Brot	_	NOUN-NN	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:MF
-5	bringen	bringen	_	VERB-VVINF	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:VC
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:UNK
-					
-1	Wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:LK
-2	Arbeit	Arbeit	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:MF
-3	Brot	Brot	_	NOUN-NN	Morph:asn|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:MF
-4	bringen	bringen	_	VERB-VVINF	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:VC
-5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:C
-2	Arbeit	Arbeit	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:MF
-3	Brot	Brot	_	NOUN-NN	Morph:asn|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:MF
-4	bringen	bringen	_	VERB-VVINF	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:VC
-5	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:VC
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:UNK
-					
-1	Eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:VF
-2	Hand	Hand	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:VF
-3	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:LK
-4	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:MF
-5	andere	ander	_	ADJ-ADJA	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:MF
-6	waschen	waschen	_	VERB-VVINF	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:VC
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:UNK
-					
-1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:VF
-2	andere	ander	_	PRON-PIS	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:VF
-3	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:LK
-4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:MF
-5	Hand	Hand	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:MF
-6	waschen	waschen	_	VERB-VVINF	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:VC
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:VF
-2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:LK
-3	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:MF
-4	Hand	Hand	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:MF
-5	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:MF
-6	andere	ander	_	ADJ-ADJA	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:MF
-7	waschen	waschen	_	VERB-VVINF	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:VC
-8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:UNK
-					
-1	Wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:LK
-2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:MF
-3	Hand	Hand	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:MF
-4	die	die	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:MF
-5	andere	ander	_	ADJ-ADJA	Morph:asf|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:MF
-6	waschen	waschen	_	VERB-VVINF	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:VC
-7	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:C
-2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:MF
-3	Hand	Hand	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:MF
-4	die	die	_	DET-ART	Morph:asf|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:MF
-5	andere	ander	_	ADJ-ADJA	Morph:asf|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:MF
-6	waschen	waschen	_	VERB-VVINF	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:VC
-7	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:VC
-8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:UNK
-					
-1	Frühe	früh	_	ADJ-ADJA	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:VF
-2	Zucht	Zucht	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:VF
-3	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:LK
-4	gute	gut	_	ADJ-ADJA	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:MF
-5	Frucht	Frucht	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:MF
-6	bringen	bringen	_	VERB-VVINF	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:VC
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:UNK
-					
-1	Gute	gut	_	ADJ-ADJA	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:VF
-2	Frucht	Frucht	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:VF
-3	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:LK
-4	frühe	früh	_	ADJ-ADJA	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:MF
-5	Zucht	Zucht	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:MF
-6	bringen	bringen	_	VERB-VVINF	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:VC
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:VF
-2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:LK
-3	frühe	früh	_	ADJ-ADJA	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:MF
-4	Zucht	Zucht	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:MF
-5	gute	gut	_	ADJ-ADJA	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:MF
-6	Frucht	Frucht	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:MF
-7	bringen	bringen	_	VERB-VVINF	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:VC
-8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:UNK
-					
-1	Wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:LK
-2	frühe	früh	_	ADJ-ADJA	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:MF
-3	Zucht	Zucht	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:MF
-4	gute	gut	_	ADJ-ADJA	Morph:asf|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:MF
-5	Frucht	Frucht	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:MF
-6	bringen	bringen	_	VERB-VVINF	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:VC
-7	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:C
-2	frühe	früh	_	ADJ-ADJA	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:MF
-3	Zucht	Zucht	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:MF
-4	gute	gut	_	ADJ-ADJA	Morph:asf|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:MF
-5	Frucht	Frucht	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:MF
-6	bringen	bringen	_	VERB-VVINF	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:VC
-7	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:VC
-8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:UNK
-					
-1	Geld	Geld	_	NOUN-NN	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:VF
-2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:LK
-3	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:MF
-4	Welt	Welt	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:MF
-5	regieren	regieren	_	VERB-VVINF	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:VC
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:UNK
-					
-1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:VF
-2	Welt	Welt	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:VF
-3	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:LK
-4	Geld	Geld	_	NOUN-NN	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:MF
-5	regieren	regieren	_	VERB-VVINF	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:VC
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:VF
-2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:LK
-3	Geld	Geld	_	NOUN-NN	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:MF
-4	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:MF
-5	Welt	Welt	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:MF
-6	regieren	regieren	_	VERB-VVINF	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:VC
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:UNK
-					
-1	Wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:LK
-2	Geld	Geld	_	NOUN-NN	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:MF
-3	die	die	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:MF
-4	Welt	Welt	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:MF
-5	regieren	regieren	_	VERB-VVINF	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:VC
-6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:C
-2	Geld	Geld	_	NOUN-NN	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:MF
-3	die	die	_	DET-ART	Morph:asf|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:MF
-4	Welt	Welt	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:MF
-5	regieren	regieren	_	VERB-VVINF	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:VC
-6	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:VC
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:UNK
-					
-1	Das	das	_	DET-ART	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:VF
-2	Schicksal	Schicksal	_	NOUN-NN	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:VF
-3	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:LK
-4	dein	dein	_	DET-PPOSAT	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:MF
-5	Leben	Leben	_	NOUN-NN	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:MF
-6	bestimmen	bestimmen	_	VERB-VVINF	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:VC
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:UNK
-					
-1	Dein	dein	_	DET-PPOSAT	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:VF
-2	Leben	Leben	_	NOUN-NN	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:VF
-3	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:LK
-4	das	das	_	DET-ART	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:MF
-5	Schicksal	Schicksal	_	NOUN-NN	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:MF
-6	bestimmen	bestimmen	_	VERB-VVINF	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:VC
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:VF
-2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:LK
-3	das	das	_	DET-ART	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:MF
-4	Schicksal	Schicksal	_	NOUN-NN	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:MF
-5	dein	dein	_	DET-PPOSAT	Morph:gsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:MF
-6	Leben	Leben	_	NOUN-NN	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:MF
-7	bestimmen	bestimmen	_	VERB-VVINF	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:VC
-8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:UNK
-					
-1	Wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:LK
-2	das	das	_	DET-ART	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:MF
-3	Schicksal	Schicksal	_	NOUN-NN	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:MF
-4	dein	dein	_	DET-PPOSAT	Morph:asn|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:MF
-5	Leben	Leben	_	NOUN-NN	Morph:asn|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:MF
-6	bestimmen	bestimmen	_	VERB-VVINF	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:VC
-7	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:C
-2	das	das	_	DET-ART	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:MF
-3	Schicksal	Schicksal	_	NOUN-NN	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:MF
-4	dein	dein	_	DET-PPOSAT	Morph:asn|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:MF
-5	Leben	Leben	_	NOUN-NN	Morph:asn|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:MF
-6	bestimmen	bestimmen	_	VERB-VVINF	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:VC
-7	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:VC
-8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:UNK
-					
-1	Jugend	Jugend	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:VF
-2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:LK
-3	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:MF
-4	Tugend	Tugend	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:MF
-5	kennen	kennen	_	VERB-VVINF	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:VC
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-idm|tf:UNK
-					
-1	Keine	keine	_	DET-PIAT	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:VF
-2	Tugend	Tugend	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:VF
-3	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:LK
-4	Jugend	Jugend	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:MF
-5	kennen	kennen	_	VERB-VVINF	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:VC
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-idm|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:VF
-2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:LK
-3	Jugend	Jugend	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:MF
-4	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:MF
-5	Tugend	Tugend	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:MF
-6	kennen	kennen	_	VERB-VVINF	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:VC
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-idm|tf:UNK
-					
-1	Wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:LK
-2	Jugend	Jugend	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:MF
-3	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:MF
-4	Tugend	Tugend	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:MF
-5	kennen	kennen	_	VERB-VVINF	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:VC
-6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-idm|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:C
-2	Jugend	Jugend	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:MF
-3	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:MF
-4	Tugend	Tugend	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:MF
-5	kennen	kennen	_	VERB-VVINF	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:VC
-6	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:VC
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-idm|tf:UNK
-					
-1	Jedes	jedes	_	ADJ-PIDAT	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:VF
-2	Böhnchen	Böhnchen	_	NOUN-NN	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:VF
-3	gibt	geben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:LK
-4	kein	kein	_	DET-PIAT	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:MF
-5	Tönchen	Tönchen	_	NOUN-NN	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:UNK
-					
-1	Kein	kein	_	DET-PIAT	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:VF
-2	Tönchen	Tönchen	_	NOUN-NN	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:VF
-3	gibt	geben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:LK
-4	jedes	jedes	_	ADJ-PIDAT	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:MF
-5	Böhnchen	Böhnchen	_	NOUN-NN	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:VF
-2	gibt	geben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:LK
-3	jedes	jedes	_	ADJ-PIDAT	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:MF
-4	Böhnchen	Böhnchen	_	NOUN-NN	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:MF
-5	kein	kein	_	DET-PIAT	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:MF
-6	Tönchen	Tönchen	_	NOUN-NN	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:MF
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:UNK
-					
-1	Gibt	geben	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:LK
-2	jedes	jedes	_	ADJ-PIDAT	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:MF
-3	Böhnchen	Böhnchen	_	NOUN-NN	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:MF
-4	kein	kein	_	DET-PIAT	Morph:asn|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:MF
-5	Tönchen	Tönchen	_	NOUN-NN	Morph:asn|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:MF
-6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:C
-2	jedes	jedes	_	ADJ-PIDAT	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:MF
-3	Böhnchen	Böhnchen	_	NOUN-NN	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:MF
-4	kein	kein	_	DET-PIAT	Morph:asn|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:MF
-5	Tönchen	Tönchen	_	NOUN-NN	Morph:asn|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:MF
-6	gibt	geben	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:VC
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:UNK
-					
-1	Alles	alles	_	PRON-PIS	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:VF
-2	hat	haben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:LK
-3	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:MF
-4	Zeit	Zeit	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:UNK
-					
-1	Keine	keine	_	DET-PIAT	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:VF
-2	Zeit	Zeit	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:VF
-3	hat	haben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:LK
-4	alles	alles	_	PRON-PIS	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:VF
-2	hat	haben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:LK
-3	alles	alles	_	PRON-PIS	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:MF
-4	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:MF
-5	Zeit	Zeit	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:UNK
-					
-1	Hat	haben	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:LK
-2	alles	alles	_	PRON-PIS	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:MF
-3	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:MF
-4	Zeit	Zeit	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:MF
-5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:C
-2	alles	alles	_	PRON-PIS	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:MF
-3	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:MF
-4	Zeit	Zeit	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:MF
-5	hat	haben	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:VC
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:UNK
-					
-1	Arbeit	Arbeit	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:VF
-2	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:LK
-3	kein	kein	_	DET-PIAT	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:MF
-4	Brot	Brot	_	NOUN-NN	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:UNK
-					
-1	Kein	kein	_	DET-PIAT	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:VF
-2	Brot	Brot	_	NOUN-NN	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:VF
-3	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:LK
-4	Arbeit	Arbeit	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:VF
-2	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:LK
-3	Arbeit	Arbeit	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:MF
-4	kein	kein	_	DET-PIAT	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:MF
-5	Brot	Brot	_	NOUN-NN	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:UNK
-					
-1	Bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:LK
-2	Arbeit	Arbeit	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:MF
-3	kein	kein	_	DET-PIAT	Morph:asn|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:MF
-4	Brot	Brot	_	NOUN-NN	Morph:asn|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:MF
-5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:C
-2	Arbeit	Arbeit	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:MF
-3	kein	kein	_	DET-PIAT	Morph:asn|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:MF
-4	Brot	Brot	_	NOUN-NN	Morph:asn|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:MF
-5	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:VC
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:UNK
-					
-1	Eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:VF
-2	Hand	Hand	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:VF
-3	wäscht	waschen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:LK
-4	keine	keine	_	DET-PIAT	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:MF
-5	andere	ander	_	ADJ-ADJA	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:UNK
-					
-1	Keine	keine	_	DET-PIAT	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:VF
-2	andere	ander	_	PRON-PIS	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:VF
-3	wäscht	waschen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:LK
-4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:MF
-5	Hand	Hand	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:VF
-2	wäscht	waschen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:LK
-3	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:MF
-4	Hand	Hand	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:MF
-5	keine	keine	_	DET-PIAT	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:MF
-6	andere	ander	_	ADJ-ADJA	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:MF
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:UNK
-					
-1	Wäscht	waschen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:LK
-2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:MF
-3	Hand	Hand	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:MF
-4	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:MF
-5	andere	ander	_	ADJ-ADJA	Morph:asf|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:MF
-6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:C
-2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:MF
-3	Hand	Hand	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:MF
-4	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:MF
-5	andere	ander	_	ADJ-ADJA	Morph:asf|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:MF
-6	wäscht	waschen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:VC
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:UNK
-					
-1	Frühe	früh	_	ADJ-ADJA	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:VF
-2	Zucht	Zucht	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:VF
-3	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:LK
-4	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:MF
-5	gute	gut	_	ADJ-ADJA	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:MF
-6	Frucht	Frucht	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:MF
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:UNK
-					
-1	Keine	keine	_	DET-PIAT	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:VF
-2	gute	gut	_	ADJ-ADJA	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:VF
-3	Frucht	Frucht	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:VF
-4	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:LK
-5	frühe	früh	_	ADJ-ADJA	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:MF
-6	Zucht	Zucht	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:MF
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:VF
-2	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:LK
-3	frühe	früh	_	ADJ-ADJA	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:MF
-4	Zucht	Zucht	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:MF
-5	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:MF
-6	gute	gut	_	ADJ-ADJA	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:MF
-7	Frucht	Frucht	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:MF
-8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:UNK
-					
-1	Bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:LK
-2	frühe	früh	_	ADJ-ADJA	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:MF
-3	Zucht	Zucht	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:MF
-4	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:MF
-5	gute	gut	_	ADJ-ADJA	Morph:asf|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:MF
-6	Frucht	Frucht	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:MF
-7	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:C
-2	frühe	früh	_	ADJ-ADJA	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:MF
-3	Zucht	Zucht	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:MF
-4	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:MF
-5	gute	gut	_	ADJ-ADJA	Morph:asf|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:MF
-6	Frucht	Frucht	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:MF
-7	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:VC
-8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:UNK
-					
-1	Geld	Geld	_	NOUN-NN	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:VF
-2	regiert	regieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:LK
-3	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:MF
-4	Welt	Welt	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:UNK
-					
-1	Keine	keine	_	DET-PIAT	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:VF
-2	Welt	Welt	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:VF
-3	regiert	regieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:LK
-4	Geld	Geld	_	NOUN-NN	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:VF
-2	regiert	regieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:LK
-3	Geld	Geld	_	NOUN-NN	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:MF
-4	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:MF
-5	Welt	Welt	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:UNK
-					
-1	Regiert	regieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:LK
-2	Geld	Geld	_	NOUN-NN	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:MF
-3	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:MF
-4	Welt	Welt	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:MF
-5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:C
-2	Geld	Geld	_	NOUN-NN	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:MF
-3	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:MF
-4	Welt	Welt	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:MF
-5	regiert	regieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:VC
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:UNK
-					
-1	Das	das	_	DET-ART	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:VF
-2	Schicksal	Schicksal	_	NOUN-NN	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:VF
-3	bestimmt	bestimmen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:LK
-4	kein	kein	_	DET-PIAT	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:MF
-5	Leben	Leben	_	NOUN-NN	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-idm|tf:UNK
-					
-1	Kein	kein	_	DET-PIAT	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:VF
-2	Leben	Leben	_	NOUN-NN	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:VF
-3	bestimmt	bestimmen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:LK
-4	das	das	_	DET-ART	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:MF
-5	Schicksal	Schicksal	_	NOUN-NN	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-idm|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:VF
-2	bestimmt	bestimmen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:LK
-3	das	das	_	DET-ART	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:MF
-4	Schicksal	Schicksal	_	NOUN-NN	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:MF
-5	kein	kein	_	DET-PIAT	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:MF
-6	Leben	Leben	_	NOUN-NN	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:MF
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm|tf:UNK
-					
-1	Bestimmt	bestimmen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:LK
-2	das	das	_	DET-ART	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:MF
-3	Schicksal	Schicksal	_	NOUN-NN	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:MF
-4	kein	kein	_	DET-PIAT	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:MF
-5	Leben	Leben	_	NOUN-NN	Morph:asn|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:MF
-6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:oneg-idm|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:C
-2	das	das	_	DET-ART	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:MF
-3	Schicksal	Schicksal	_	NOUN-NN	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:MF
-4	kein	kein	_	DET-PIAT	Morph:asn|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:MF
-5	Leben	Leben	_	NOUN-NN	Morph:asn|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:MF
-6	bestimmt	bestimmen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:VC
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:oneg-idm|tf:UNK
-					
-1	Jedes	jedes	_	ADJ-PIDAT	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:VF
-2	Böhnchen	Böhnchen	_	NOUN-NN	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:VF
-3	gibt	geben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:LK
-4	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-5	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-6	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-7	ein	ein	_	DET-ART	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-8	Tönchen	Tönchen	_	NOUN-NN	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:UNK
-					
-1	Ein	ein	_	DET-ART	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:VF
-2	Tönchen	Tönchen	_	NOUN-NN	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:VF
-3	gibt	geben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:LK
-4	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:MF
-5	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:MF
-6	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:MF
-7	jedes	jedes	_	ADJ-PIDAT	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:MF
-8	Böhnchen	Böhnchen	_	NOUN-NN	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:MF
-9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:VF
-2	gibt	geben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:LK
-3	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-6	jedes	jedes	_	ADJ-PIDAT	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-7	Böhnchen	Böhnchen	_	NOUN-NN	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-8	ein	ein	_	DET-ART	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-9	Tönchen	Tönchen	_	NOUN-NN	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-10	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:UNK
-					
-1	Gibt	geben	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:LK
-2	in	in	_	ADP-APPR	Morph:d|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-5	jedes	jedes	_	ADJ-PIDAT	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-6	Böhnchen	Böhnchen	_	NOUN-NN	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-7	ein	ein	_	DET-ART	Morph:asn|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-8	Tönchen	Tönchen	_	NOUN-NN	Morph:asn|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-9	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:C
-2	in	in	_	ADP-APPR	Morph:d|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-5	jedes	jedes	_	ADJ-PIDAT	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-6	Böhnchen	Böhnchen	_	NOUN-NN	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-7	ein	ein	_	DET-ART	Morph:asn|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-8	Tönchen	Tönchen	_	NOUN-NN	Morph:asn|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-9	gibt	geben	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:VC
-10	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:UNK
-					
-1	Alles	alles	_	PRON-PIS	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:VF
-2	hat	haben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:LK
-3	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-6	seine	seine	_	DET-PPOSAT	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-7	Zeit	Zeit	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:UNK
-					
-1	Seine	seine	_	DET-PPOSAT	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:VF
-2	Zeit	Zeit	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:VF
-3	hat	haben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:LK
-4	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:MF
-5	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:MF
-6	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:MF
-7	alles	alles	_	PRON-PIS	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:MF
-8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:VF
-2	hat	haben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:LK
-3	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-6	alles	alles	_	PRON-PIS	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-7	seine	seine	_	DET-PPOSAT	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-8	Zeit	Zeit	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:UNK
-					
-1	Hat	haben	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:LK
-2	in	in	_	ADP-APPR	Morph:d|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-5	alles	alles	_	PRON-PIS	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-6	seine	seine	_	DET-PPOSAT	Morph:asf|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-7	Zeit	Zeit	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-8	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:C
-2	in	in	_	ADP-APPR	Morph:d|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-5	alles	alles	_	PRON-PIS	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-6	seine	seine	_	DET-PPOSAT	Morph:asf|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-7	Zeit	Zeit	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-8	hat	haben	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:VC
-9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:UNK
-					
-1	Arbeit	Arbeit	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:VF
-2	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:LK
-3	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-6	Brot	Brot	_	NOUN-NN	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:UNK
-					
-1	Brot	Brot	_	NOUN-NN	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:VF
-2	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:LK
-3	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:MF
-4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:MF
-5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:MF
-6	Arbeit	Arbeit	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:MF
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:VF
-2	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:LK
-3	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-6	Arbeit	Arbeit	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-7	Brot	Brot	_	NOUN-NN	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:UNK
-					
-1	Bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:LK
-2	in	in	_	ADP-APPR	Morph:d|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-5	Arbeit	Arbeit	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-6	Brot	Brot	_	NOUN-NN	Morph:asn|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-7	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:C
-2	in	in	_	ADP-APPR	Morph:d|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-5	Arbeit	Arbeit	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-6	Brot	Brot	_	NOUN-NN	Morph:asn|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-7	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:VC
-8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:UNK
-					
-1	Eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:VF
-2	Hand	Hand	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:VF
-3	wäscht	waschen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:LK
-4	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-5	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-6	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-7	die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-8	andere	ander	_	ADJ-ADJA	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:UNK
-					
-1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:VF
-2	andere	ander	_	PRON-PIS	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:VF
-3	wäscht	waschen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:LK
-4	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:MF
-5	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:MF
-6	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:MF
-7	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:MF
-8	Hand	Hand	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:MF
-9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:VF
-2	wäscht	waschen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:LK
-3	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-6	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-7	Hand	Hand	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-8	die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-9	andere	ander	_	ADJ-ADJA	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-10	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:UNK
-					
-1	Wäscht	waschen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:LK
-2	in	in	_	ADP-APPR	Morph:d|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-5	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-6	Hand	Hand	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-7	die	die	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-8	andere	ander	_	ADJ-ADJA	Morph:asf|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-9	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:C
-2	in	in	_	ADP-APPR	Morph:d|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-5	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-6	Hand	Hand	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-7	die	die	_	DET-ART	Morph:asf|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-8	andere	ander	_	ADJ-ADJA	Morph:asf|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-9	wäscht	waschen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:VC
-10	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:UNK
-					
-1	Frühe	früh	_	ADJ-ADJA	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:VF
-2	Zucht	Zucht	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:VF
-3	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:LK
-4	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-5	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-6	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-7	gute	gut	_	ADJ-ADJA	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-8	Frucht	Frucht	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:UNK
-					
-1	Gute	gut	_	ADJ-ADJA	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:VF
-2	Frucht	Frucht	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:VF
-3	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:LK
-4	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:MF
-5	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:MF
-6	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:MF
-7	frühe	früh	_	ADJ-ADJA	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:MF
-8	Zucht	Zucht	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:MF
-9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:VF
-2	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:LK
-3	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-6	frühe	früh	_	ADJ-ADJA	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-7	Zucht	Zucht	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-8	gute	gut	_	ADJ-ADJA	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-9	Frucht	Frucht	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-10	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:UNK
-					
-1	Bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:LK
-2	in	in	_	ADP-APPR	Morph:d|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-5	frühe	früh	_	ADJ-ADJA	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-6	Zucht	Zucht	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-7	gute	gut	_	ADJ-ADJA	Morph:asf|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-8	Frucht	Frucht	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-9	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:C
-2	in	in	_	ADP-APPR	Morph:d|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-5	frühe	früh	_	ADJ-ADJA	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-6	Zucht	Zucht	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-7	gute	gut	_	ADJ-ADJA	Morph:asf|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-8	Frucht	Frucht	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-9	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:VC
-10	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:UNK
-					
-1	Geld	Geld	_	NOUN-NN	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:VF
-2	regiert	regieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:LK
-3	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-6	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-7	Welt	Welt	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:UNK
-					
-1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:VF
-2	Welt	Welt	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:VF
-3	regiert	regieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:LK
-4	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:MF
-5	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:MF
-6	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:MF
-7	Geld	Geld	_	NOUN-NN	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:MF
-8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:VF
-2	regiert	regieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:LK
-3	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-6	Geld	Geld	_	NOUN-NN	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-7	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-8	Welt	Welt	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:UNK
-					
-1	Regiert	regieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:LK
-2	in	in	_	ADP-APPR	Morph:d|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-5	Geld	Geld	_	NOUN-NN	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-6	die	die	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-7	Welt	Welt	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-8	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:C
-2	in	in	_	ADP-APPR	Morph:d|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-5	Geld	Geld	_	NOUN-NN	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-6	die	die	_	DET-ART	Morph:asf|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-7	Welt	Welt	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-8	regiert	regieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:VC
-9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:UNK
-					
-1	Das	das	_	DET-ART	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:VF
-2	Schicksal	Schicksal	_	NOUN-NN	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:VF
-3	bestimmt	bestimmen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:LK
-4	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-5	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-6	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-7	dein	dein	_	DET-PPOSAT	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-8	Leben	Leben	_	NOUN-NN	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:UNK
-					
-1	Dein	dein	_	DET-PPOSAT	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:VF
-2	Leben	Leben	_	NOUN-NN	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:VF
-3	bestimmt	bestimmen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:LK
-4	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:MF
-5	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:MF
-6	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:MF
-7	das	das	_	DET-ART	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:MF
-8	Schicksal	Schicksal	_	NOUN-NN	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:MF
-9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:VF
-2	bestimmt	bestimmen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:LK
-3	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-6	das	das	_	DET-ART	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-7	Schicksal	Schicksal	_	NOUN-NN	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-8	dein	dein	_	DET-PPOSAT	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-9	Leben	Leben	_	NOUN-NN	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-10	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:UNK
-					
-1	Bestimmt	bestimmen	_	VERB-ADV	Morph:null|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:LK
-2	in	in	_	ADP-APPR	Morph:d|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-5	das	das	_	DET-ART	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-6	Schicksal	Schicksal	_	NOUN-NN	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-7	dein	dein	_	DET-PPOSAT	Morph:gsn|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-8	Leben	Leben	_	NOUN-NN	Morph:gsn|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-9	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:C
-2	in	in	_	ADP-APPR	Morph:d|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-5	das	das	_	DET-ART	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-6	Schicksal	Schicksal	_	NOUN-NN	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-7	dein	dein	_	DET-PPOSAT	Morph:asn|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-8	Leben	Leben	_	NOUN-NN	Morph:asn|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-9	bestimmt	bestimmen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:VC
-10	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:UNK
-					
-1	Jugend	Jugend	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:VF
-2	kennt	kennen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:LK
-3	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-6	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-7	Tugend	Tugend	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:MF
-8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:pp-idm|tf:UNK
-					
-1	Keine	keine	_	DET-PIAT	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:VF
-2	Tugend	Tugend	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:VF
-3	kennt	kennen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:LK
-4	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:MF
-5	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:MF
-6	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:MF
-7	Jugend	Jugend	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:MF
-8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:pp-idm|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:VF
-2	kennt	kennen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:LK
-3	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-6	Jugend	Jugend	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-7	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-8	Tugend	Tugend	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:MF
-9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-idm|tf:UNK
-					
-1	Kennt	kennen	_	VERB-VVFIN	Morph:2pis|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:LK
-2	in	in	_	ADP-APPR	Morph:d|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-5	Jugend	Jugend	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-6	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-7	Tugend	Tugend	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:MF
-8	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:pp-idm|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:C
-2	in	in	_	ADP-APPR	Morph:d|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-5	Jugend	Jugend	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-6	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-7	Tugend	Tugend	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:MF
-8	kennt	kennen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:VC
-9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-idm|tf:UNK
+1	Jedes	jedes	_	ADJ-PIDAT	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:VF
+2	Böhnchen	Böhnchen	_	NOUN-NN	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:VF
+3	gibt	geben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:LK
+4	ein	ein	_	DET-ART	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:MF
+5	Tönchen	Tönchen	_	NOUN-NN	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:UNK
+					
+1	Ein	ein	_	DET-ART	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:VF
+2	Tönchen	Tönchen	_	NOUN-NN	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:VF
+3	gibt	geben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:LK
+4	jedes	jedes	_	ADJ-PIDAT	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:MF
+5	Böhnchen	Böhnchen	_	NOUN-NN	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:UNK
+					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:VF
+2	gibt	geben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:LK
+3	jedes	jedes	_	ADJ-PIDAT	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:MF
+4	Böhnchen	Böhnchen	_	NOUN-NN	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:MF
+5	ein	ein	_	DET-ART	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:MF
+6	Tönchen	Tönchen	_	NOUN-NN	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:MF
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:UNK
+					
+1	Gibt	geben	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:LK
+2	jedes	jedes	_	ADJ-PIDAT	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:MF
+3	Böhnchen	Böhnchen	_	NOUN-NN	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:MF
+4	ein	ein	_	DET-ART	Morph:asn|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:MF
+5	Tönchen	Tönchen	_	NOUN-NN	Morph:asn|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:MF
+6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:UNK
+					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:C
+2	jedes	jedes	_	ADJ-PIDAT	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:MF
+3	Böhnchen	Böhnchen	_	NOUN-NN	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:MF
+4	ein	ein	_	DET-ART	Morph:asn|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:MF
+5	Tönchen	Tönchen	_	NOUN-NN	Morph:asn|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:MF
+6	gibt	geben	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:VC
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:UNK
+					
+1	Alles	alles	_	PRON-PIS	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:VF
+2	hat	haben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:LK
+3	seine	seine	_	DET-PPOSAT	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:MF
+4	Zeit	Zeit	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:UNK
+					
+1	Seine	seine	_	DET-PPOSAT	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:VF
+2	Zeit	Zeit	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:VF
+3	hat	haben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:LK
+4	alles	alles	_	PRON-PIS	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:UNK
+					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:VF
+2	hat	haben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:LK
+3	alles	alles	_	PRON-PIS	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:MF
+4	seine	seine	_	DET-PPOSAT	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:MF
+5	Zeit	Zeit	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:UNK
+					
+1	Hat	haben	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:LK
+2	alles	alles	_	PRON-PIS	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:MF
+3	seine	seine	_	DET-PPOSAT	Morph:asf|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:MF
+4	Zeit	Zeit	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:MF
+5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:UNK
+					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:C
+2	alles	alles	_	PRON-PIS	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:MF
+3	seine	seine	_	DET-PPOSAT	Morph:asf|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:MF
+4	Zeit	Zeit	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:MF
+5	hat	haben	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:UNK
+					
+1	Arbeit	Arbeit	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:VF
+2	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:LK
+3	Brot	Brot	_	NOUN-NN	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:MF
+4	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:UNK
+					
+1	Brot	Brot	_	NOUN-NN	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:VF
+2	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:LK
+3	Arbeit	Arbeit	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:MF
+4	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:UNK
+					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:VF
+2	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:LK
+3	Arbeit	Arbeit	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:MF
+4	Brot	Brot	_	NOUN-NN	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:UNK
+					
+1	Bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:LK
+2	Arbeit	Arbeit	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:MF
+3	Brot	Brot	_	NOUN-NN	Morph:asn|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:MF
+4	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:UNK
+					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:C
+2	Arbeit	Arbeit	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:MF
+3	Brot	Brot	_	NOUN-NN	Morph:asn|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:MF
+4	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:VC
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:UNK
+					
+1	Eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:VF
+2	Hand	Hand	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:VF
+3	wäscht	waschen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:LK
+4	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:MF
+5	andere	ander	_	ADJ-ADJA	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:UNK
+					
+1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:VF
+2	andere	ander	_	PRON-PIS	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:VF
+3	wäscht	waschen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:LK
+4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:MF
+5	Hand	Hand	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:UNK
+					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:VF
+2	wäscht	waschen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:LK
+3	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:MF
+4	Hand	Hand	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:MF
+5	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:MF
+6	andere	ander	_	ADJ-ADJA	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:MF
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:UNK
+					
+1	Wäscht	waschen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:LK
+2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:MF
+3	Hand	Hand	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:MF
+4	die	die	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:MF
+5	andere	ander	_	ADJ-ADJA	Morph:asf|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:MF
+6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:UNK
+					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:C
+2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:MF
+3	Hand	Hand	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:MF
+4	die	die	_	DET-ART	Morph:asf|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:MF
+5	andere	ander	_	ADJ-ADJA	Morph:asf|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:MF
+6	wäscht	waschen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:VC
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:UNK
+					
+1	Frühe	früh	_	ADJ-ADJA	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:VF
+2	Zucht	Zucht	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:VF
+3	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:LK
+4	gute	gut	_	ADJ-ADJA	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:MF
+5	Frucht	Frucht	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:UNK
+					
+1	Gute	gut	_	ADJ-ADJA	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:VF
+2	Frucht	Frucht	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:VF
+3	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:LK
+4	frühe	früh	_	ADJ-ADJA	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:MF
+5	Zucht	Zucht	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:UNK
+					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:VF
+2	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:LK
+3	frühe	früh	_	ADJ-ADJA	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:MF
+4	Zucht	Zucht	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:MF
+5	gute	gut	_	ADJ-ADJA	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:MF
+6	Frucht	Frucht	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:MF
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:UNK
+					
+1	Bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:LK
+2	frühe	früh	_	ADJ-ADJA	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:MF
+3	Zucht	Zucht	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:MF
+4	gute	gut	_	ADJ-ADJA	Morph:asf|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:MF
+5	Frucht	Frucht	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:MF
+6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:UNK
+					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:C
+2	frühe	früh	_	ADJ-ADJA	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:MF
+3	Zucht	Zucht	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:MF
+4	gute	gut	_	ADJ-ADJA	Morph:asf|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:MF
+5	Frucht	Frucht	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:MF
+6	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:VC
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:UNK
+					
+1	Geld	Geld	_	NOUN-NN	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:VF
+2	regiert	regieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:LK
+3	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:MF
+4	Welt	Welt	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:UNK
+					
+1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:VF
+2	Welt	Welt	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:VF
+3	regiert	regieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:LK
+4	Geld	Geld	_	NOUN-NN	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:UNK
+					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:VF
+2	regiert	regieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:LK
+3	Geld	Geld	_	NOUN-NN	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:MF
+4	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:MF
+5	Welt	Welt	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:UNK
+					
+1	Regiert	regieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:LK
+2	Geld	Geld	_	NOUN-NN	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:MF
+3	die	die	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:MF
+4	Welt	Welt	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:MF
+5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:UNK
+					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:C
+2	Geld	Geld	_	NOUN-NN	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:MF
+3	die	die	_	DET-ART	Morph:asf|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:MF
+4	Welt	Welt	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:MF
+5	regiert	regieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:UNK
+					
+1	Das	das	_	DET-ART	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:VF
+2	Schicksal	Schicksal	_	NOUN-NN	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:VF
+3	bestimmt	bestimmen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:LK
+4	dein	dein	_	DET-PPOSAT	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:MF
+5	Leben	Leben	_	NOUN-NN	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:UNK
+					
+1	Dein	dein	_	DET-PPOSAT	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:VF
+2	Leben	Leben	_	NOUN-NN	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:VF
+3	bestimmt	bestimmen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:LK
+4	das	das	_	DET-ART	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:MF
+5	Schicksal	Schicksal	_	NOUN-NN	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:UNK
+					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:VF
+2	bestimmt	bestimmen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:LK
+3	das	das	_	DET-ART	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:MF
+4	Schicksal	Schicksal	_	NOUN-NN	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:MF
+5	dein	dein	_	DET-PPOSAT	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:MF
+6	Leben	Leben	_	NOUN-NN	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:MF
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:UNK
+					
+1	Bestimmt	bestimmen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:LK
+2	das	das	_	DET-ART	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:MF
+3	Schicksal	Schicksal	_	NOUN-NN	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:MF
+4	dein	dein	_	DET-PPOSAT	Morph:gsn|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:MF
+5	Leben	Leben	_	NOUN-NN	Morph:asn|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:MF
+6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:UNK
+					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:C
+2	das	das	_	DET-ART	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:MF
+3	Schicksal	Schicksal	_	NOUN-NN	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:MF
+4	dein	dein	_	DET-PPOSAT	Morph:asn|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:MF
+5	Leben	Leben	_	NOUN-NN	Morph:asn|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:MF
+6	bestimmt	bestimmen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:VC
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:UNK
+					
+1	Jugend	Jugend	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:VF
+2	kennt	kennen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:LK
+3	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:MF
+4	Tugend	Tugend	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:UNK
+					
+1	Keine	keine	_	DET-PIAT	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:VF
+2	Tugend	Tugend	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:VF
+3	kennt	kennen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:LK
+4	Jugend	Jugend	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:UNK
+					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:VF
+2	kennt	kennen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:LK
+3	Jugend	Jugend	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:MF
+4	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:MF
+5	Tugend	Tugend	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:UNK
+					
+1	Kennt	kennen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:LK
+2	Jugend	Jugend	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:MF
+3	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:MF
+4	Tugend	Tugend	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:MF
+5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:base-prov|tf:UNK
+					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:C
+2	Jugend	Jugend	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:MF
+3	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:MF
+4	Tugend	Tugend	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:MF
+5	kennt	kennen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-prov|tf:UNK
+					
+1	Jedes	jedes	_	ADJ-PIDAT	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:VF
+2	Böhnchen	Böhnchen	_	NOUN-NN	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:VF
+3	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:LK
+4	ein	ein	_	DET-ART	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:MF
+5	Tönchen	Tönchen	_	NOUN-NN	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:MF
+6	geben	geben	_	VERB-VVINF	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:VC
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:UNK
+					
+1	Ein	ein	_	DET-ART	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:VF
+2	Tönchen	Tönchen	_	NOUN-NN	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:VF
+3	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:LK
+4	jedes	jedes	_	ADJ-PIDAT	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:MF
+5	Böhnchen	Böhnchen	_	NOUN-NN	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:MF
+6	geben	geben	_	VERB-VVINF	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:VC
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:UNK
+					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:VF
+2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:LK
+3	jedes	jedes	_	ADJ-PIDAT	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:MF
+4	Böhnchen	Böhnchen	_	NOUN-NN	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:MF
+5	ein	ein	_	DET-ART	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:MF
+6	Tönchen	Tönchen	_	NOUN-NN	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:MF
+7	geben	geben	_	VERB-VVINF	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:VC
+8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:UNK
+					
+1	Wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:LK
+2	jedes	jedes	_	ADJ-PIDAT	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:MF
+3	Böhnchen	Böhnchen	_	NOUN-NN	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:MF
+4	ein	ein	_	DET-ART	Morph:asn|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:MF
+5	Tönchen	Tönchen	_	NOUN-NN	Morph:asn|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:MF
+6	geben	geben	_	VERB-VVINF	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:VC
+7	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:UNK
+					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:C
+2	jedes	jedes	_	ADJ-PIDAT	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:MF
+3	Böhnchen	Böhnchen	_	NOUN-NN	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:MF
+4	ein	ein	_	DET-ART	Morph:asn|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:MF
+5	Tönchen	Tönchen	_	NOUN-NN	Morph:asn|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:MF
+6	geben	geben	_	VERB-VVINF	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:VC
+7	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:VC
+8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:UNK
+					
+1	Alles	alles	_	PRON-PIS	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:VF
+2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:LK
+3	seine	seine	_	DET-PPOSAT	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:MF
+4	Zeit	Zeit	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:MF
+5	haben	haben	_	VERB-VVINF	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:UNK
+					
+1	Seine	seine	_	DET-PPOSAT	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:VF
+2	Zeit	Zeit	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:VF
+3	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:LK
+4	alles	alles	_	PRON-PIS	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:MF
+5	haben	haben	_	VERB-VVINF	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:UNK
+					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:VF
+2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:LK
+3	alles	alles	_	PRON-PIS	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:MF
+4	seine	seine	_	DET-PPOSAT	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:MF
+5	Zeit	Zeit	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:MF
+6	haben	haben	_	VERB-VVINF	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:VC
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:UNK
+					
+1	Wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:LK
+2	alles	alles	_	PRON-PIS	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:MF
+3	seine	seine	_	DET-PPOSAT	Morph:asf|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:MF
+4	Zeit	Zeit	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:MF
+5	haben	haben	_	VERB-VVINF	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:VC
+6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:UNK
+					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:C
+2	alles	alles	_	PRON-PIS	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:MF
+3	seine	seine	_	DET-PPOSAT	Morph:asf|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:MF
+4	Zeit	Zeit	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:MF
+5	haben	haben	_	VERB-VVINF	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:VC
+6	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:VC
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:UNK
+					
+1	Arbeit	Arbeit	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:VF
+2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:LK
+3	Brot	Brot	_	NOUN-NN	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:MF
+4	bringen	bringen	_	VERB-VVINF	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:VC
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:UNK
+					
+1	Brot	Brot	_	NOUN-NN	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:VF
+2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:LK
+3	Arbeit	Arbeit	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:MF
+4	bringen	bringen	_	VERB-VVINF	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:VC
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:UNK
+					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:VF
+2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:LK
+3	Arbeit	Arbeit	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:MF
+4	Brot	Brot	_	NOUN-NN	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:MF
+5	bringen	bringen	_	VERB-VVINF	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:UNK
+					
+1	Wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:LK
+2	Arbeit	Arbeit	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:MF
+3	Brot	Brot	_	NOUN-NN	Morph:asn|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:MF
+4	bringen	bringen	_	VERB-VVINF	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:VC
+5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:UNK
+					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:C
+2	Arbeit	Arbeit	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:MF
+3	Brot	Brot	_	NOUN-NN	Morph:asn|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:MF
+4	bringen	bringen	_	VERB-VVINF	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:VC
+5	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:UNK
+					
+1	Eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:VF
+2	Hand	Hand	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:VF
+3	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:LK
+4	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:MF
+5	andere	ander	_	ADJ-ADJA	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:MF
+6	waschen	waschen	_	VERB-VVINF	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:VC
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:UNK
+					
+1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:VF
+2	andere	ander	_	PRON-PIS	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:VF
+3	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:LK
+4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:MF
+5	Hand	Hand	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:MF
+6	waschen	waschen	_	VERB-VVINF	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:VC
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:UNK
+					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:VF
+2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:LK
+3	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:MF
+4	Hand	Hand	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:MF
+5	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:MF
+6	andere	ander	_	ADJ-ADJA	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:MF
+7	waschen	waschen	_	VERB-VVINF	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:VC
+8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:UNK
+					
+1	Wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:LK
+2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:MF
+3	Hand	Hand	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:MF
+4	die	die	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:MF
+5	andere	ander	_	ADJ-ADJA	Morph:asf|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:MF
+6	waschen	waschen	_	VERB-VVINF	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:VC
+7	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:UNK
+					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:C
+2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:MF
+3	Hand	Hand	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:MF
+4	die	die	_	DET-ART	Morph:asf|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:MF
+5	andere	ander	_	ADJ-ADJA	Morph:asf|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:MF
+6	waschen	waschen	_	VERB-VVINF	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:VC
+7	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:VC
+8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:UNK
+					
+1	Frühe	früh	_	ADJ-ADJA	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:VF
+2	Zucht	Zucht	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:VF
+3	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:LK
+4	gute	gut	_	ADJ-ADJA	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:MF
+5	Frucht	Frucht	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:MF
+6	bringen	bringen	_	VERB-VVINF	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:VC
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:UNK
+					
+1	Gute	gut	_	ADJ-ADJA	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:VF
+2	Frucht	Frucht	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:VF
+3	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:LK
+4	frühe	früh	_	ADJ-ADJA	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:MF
+5	Zucht	Zucht	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:MF
+6	bringen	bringen	_	VERB-VVINF	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:VC
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:UNK
+					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:VF
+2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:LK
+3	frühe	früh	_	ADJ-ADJA	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:MF
+4	Zucht	Zucht	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:MF
+5	gute	gut	_	ADJ-ADJA	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:MF
+6	Frucht	Frucht	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:MF
+7	bringen	bringen	_	VERB-VVINF	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:VC
+8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:UNK
+					
+1	Wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:LK
+2	frühe	früh	_	ADJ-ADJA	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:MF
+3	Zucht	Zucht	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:MF
+4	gute	gut	_	ADJ-ADJA	Morph:asf|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:MF
+5	Frucht	Frucht	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:MF
+6	bringen	bringen	_	VERB-VVINF	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:VC
+7	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:UNK
+					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:C
+2	frühe	früh	_	ADJ-ADJA	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:MF
+3	Zucht	Zucht	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:MF
+4	gute	gut	_	ADJ-ADJA	Morph:asf|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:MF
+5	Frucht	Frucht	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:MF
+6	bringen	bringen	_	VERB-VVINF	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:VC
+7	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:VC
+8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:UNK
+					
+1	Geld	Geld	_	NOUN-NN	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:VF
+2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:LK
+3	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:MF
+4	Welt	Welt	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:MF
+5	regieren	regieren	_	VERB-VVINF	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:UNK
+					
+1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:VF
+2	Welt	Welt	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:VF
+3	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:LK
+4	Geld	Geld	_	NOUN-NN	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:MF
+5	regieren	regieren	_	VERB-VVINF	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:UNK
+					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:VF
+2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:LK
+3	Geld	Geld	_	NOUN-NN	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:MF
+4	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:MF
+5	Welt	Welt	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:MF
+6	regieren	regieren	_	VERB-VVINF	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:VC
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:UNK
+					
+1	Wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:LK
+2	Geld	Geld	_	NOUN-NN	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:MF
+3	die	die	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:MF
+4	Welt	Welt	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:MF
+5	regieren	regieren	_	VERB-VVINF	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:VC
+6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:UNK
+					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:C
+2	Geld	Geld	_	NOUN-NN	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:MF
+3	die	die	_	DET-ART	Morph:asf|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:MF
+4	Welt	Welt	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:MF
+5	regieren	regieren	_	VERB-VVINF	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:VC
+6	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:VC
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:UNK
+					
+1	Das	das	_	DET-ART	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:VF
+2	Schicksal	Schicksal	_	NOUN-NN	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:VF
+3	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:LK
+4	dein	dein	_	DET-PPOSAT	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:MF
+5	Leben	Leben	_	NOUN-NN	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:MF
+6	bestimmen	bestimmen	_	VERB-VVINF	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:VC
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:UNK
+					
+1	Dein	dein	_	DET-PPOSAT	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:VF
+2	Leben	Leben	_	NOUN-NN	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:VF
+3	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:LK
+4	das	das	_	DET-ART	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:MF
+5	Schicksal	Schicksal	_	NOUN-NN	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:MF
+6	bestimmen	bestimmen	_	VERB-VVINF	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:VC
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:UNK
+					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:VF
+2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:LK
+3	das	das	_	DET-ART	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:MF
+4	Schicksal	Schicksal	_	NOUN-NN	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:MF
+5	dein	dein	_	DET-PPOSAT	Morph:gsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:MF
+6	Leben	Leben	_	NOUN-NN	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:MF
+7	bestimmen	bestimmen	_	VERB-VVINF	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:VC
+8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:UNK
+					
+1	Wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:LK
+2	das	das	_	DET-ART	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:MF
+3	Schicksal	Schicksal	_	NOUN-NN	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:MF
+4	dein	dein	_	DET-PPOSAT	Morph:asn|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:MF
+5	Leben	Leben	_	NOUN-NN	Morph:asn|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:MF
+6	bestimmen	bestimmen	_	VERB-VVINF	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:VC
+7	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:UNK
+					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:C
+2	das	das	_	DET-ART	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:MF
+3	Schicksal	Schicksal	_	NOUN-NN	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:MF
+4	dein	dein	_	DET-PPOSAT	Morph:asn|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:MF
+5	Leben	Leben	_	NOUN-NN	Morph:asn|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:MF
+6	bestimmen	bestimmen	_	VERB-VVINF	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:VC
+7	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:VC
+8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:UNK
+					
+1	Jugend	Jugend	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:VF
+2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:LK
+3	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:MF
+4	Tugend	Tugend	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:MF
+5	kennen	kennen	_	VERB-VVINF	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:UNK
+					
+1	Keine	keine	_	DET-PIAT	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:VF
+2	Tugend	Tugend	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:VF
+3	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:LK
+4	Jugend	Jugend	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:MF
+5	kennen	kennen	_	VERB-VVINF	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:UNK
+					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:VF
+2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:LK
+3	Jugend	Jugend	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:MF
+4	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:MF
+5	Tugend	Tugend	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:MF
+6	kennen	kennen	_	VERB-VVINF	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:VC
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:UNK
+					
+1	Wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:LK
+2	Jugend	Jugend	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:MF
+3	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:MF
+4	Tugend	Tugend	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:MF
+5	kennen	kennen	_	VERB-VVINF	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:VC
+6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-prov|tf:UNK
+					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:C
+2	Jugend	Jugend	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:MF
+3	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:MF
+4	Tugend	Tugend	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:MF
+5	kennen	kennen	_	VERB-VVINF	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:VC
+6	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:VC
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-prov|tf:UNK
+					
+1	Jedes	jedes	_	ADJ-PIDAT	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:VF
+2	Böhnchen	Böhnchen	_	NOUN-NN	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:VF
+3	gibt	geben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:LK
+4	kein	kein	_	DET-PIAT	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:MF
+5	Tönchen	Tönchen	_	NOUN-NN	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:UNK
+					
+1	Kein	kein	_	DET-PIAT	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:VF
+2	Tönchen	Tönchen	_	NOUN-NN	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:VF
+3	gibt	geben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:LK
+4	jedes	jedes	_	ADJ-PIDAT	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:MF
+5	Böhnchen	Böhnchen	_	NOUN-NN	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:UNK
+					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:VF
+2	gibt	geben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:LK
+3	jedes	jedes	_	ADJ-PIDAT	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:MF
+4	Böhnchen	Böhnchen	_	NOUN-NN	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:MF
+5	kein	kein	_	DET-PIAT	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:MF
+6	Tönchen	Tönchen	_	NOUN-NN	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:MF
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:UNK
+					
+1	Gibt	geben	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:LK
+2	jedes	jedes	_	ADJ-PIDAT	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:MF
+3	Böhnchen	Böhnchen	_	NOUN-NN	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:MF
+4	kein	kein	_	DET-PIAT	Morph:asn|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:MF
+5	Tönchen	Tönchen	_	NOUN-NN	Morph:asn|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:MF
+6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:UNK
+					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:C
+2	jedes	jedes	_	ADJ-PIDAT	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:MF
+3	Böhnchen	Böhnchen	_	NOUN-NN	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:MF
+4	kein	kein	_	DET-PIAT	Morph:asn|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:MF
+5	Tönchen	Tönchen	_	NOUN-NN	Morph:asn|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:MF
+6	gibt	geben	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:VC
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:UNK
+					
+1	Alles	alles	_	PRON-PIS	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:VF
+2	hat	haben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:LK
+3	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:MF
+4	Zeit	Zeit	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:UNK
+					
+1	Keine	keine	_	DET-PIAT	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:VF
+2	Zeit	Zeit	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:VF
+3	hat	haben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:LK
+4	alles	alles	_	PRON-PIS	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:UNK
+					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:VF
+2	hat	haben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:LK
+3	alles	alles	_	PRON-PIS	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:MF
+4	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:MF
+5	Zeit	Zeit	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:UNK
+					
+1	Hat	haben	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:LK
+2	alles	alles	_	PRON-PIS	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:MF
+3	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:MF
+4	Zeit	Zeit	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:MF
+5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:UNK
+					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:C
+2	alles	alles	_	PRON-PIS	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:MF
+3	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:MF
+4	Zeit	Zeit	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:MF
+5	hat	haben	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:UNK
+					
+1	Arbeit	Arbeit	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:VF
+2	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:LK
+3	kein	kein	_	DET-PIAT	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:MF
+4	Brot	Brot	_	NOUN-NN	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:UNK
+					
+1	Kein	kein	_	DET-PIAT	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:VF
+2	Brot	Brot	_	NOUN-NN	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:VF
+3	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:LK
+4	Arbeit	Arbeit	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:UNK
+					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:VF
+2	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:LK
+3	Arbeit	Arbeit	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:MF
+4	kein	kein	_	DET-PIAT	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:MF
+5	Brot	Brot	_	NOUN-NN	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:UNK
+					
+1	Bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:LK
+2	Arbeit	Arbeit	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:MF
+3	kein	kein	_	DET-PIAT	Morph:asn|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:MF
+4	Brot	Brot	_	NOUN-NN	Morph:asn|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:MF
+5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:UNK
+					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:C
+2	Arbeit	Arbeit	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:MF
+3	kein	kein	_	DET-PIAT	Morph:asn|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:MF
+4	Brot	Brot	_	NOUN-NN	Morph:asn|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:MF
+5	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:UNK
+					
+1	Eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:VF
+2	Hand	Hand	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:VF
+3	wäscht	waschen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:LK
+4	keine	keine	_	DET-PIAT	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:MF
+5	andere	ander	_	ADJ-ADJA	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:UNK
+					
+1	Keine	keine	_	DET-PIAT	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:VF
+2	andere	ander	_	PRON-PIS	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:VF
+3	wäscht	waschen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:LK
+4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:MF
+5	Hand	Hand	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:UNK
+					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:VF
+2	wäscht	waschen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:LK
+3	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:MF
+4	Hand	Hand	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:MF
+5	keine	keine	_	DET-PIAT	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:MF
+6	andere	ander	_	ADJ-ADJA	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:MF
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:UNK
+					
+1	Wäscht	waschen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:LK
+2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:MF
+3	Hand	Hand	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:MF
+4	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:MF
+5	andere	ander	_	ADJ-ADJA	Morph:asf|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:MF
+6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:UNK
+					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:C
+2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:MF
+3	Hand	Hand	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:MF
+4	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:MF
+5	andere	ander	_	ADJ-ADJA	Morph:asf|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:MF
+6	wäscht	waschen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:VC
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:UNK
+					
+1	Frühe	früh	_	ADJ-ADJA	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:VF
+2	Zucht	Zucht	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:VF
+3	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:LK
+4	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:MF
+5	gute	gut	_	ADJ-ADJA	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:MF
+6	Frucht	Frucht	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:MF
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:UNK
+					
+1	Keine	keine	_	DET-PIAT	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:VF
+2	gute	gut	_	ADJ-ADJA	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:VF
+3	Frucht	Frucht	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:VF
+4	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:LK
+5	frühe	früh	_	ADJ-ADJA	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:MF
+6	Zucht	Zucht	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:MF
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:UNK
+					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:VF
+2	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:LK
+3	frühe	früh	_	ADJ-ADJA	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:MF
+4	Zucht	Zucht	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:MF
+5	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:MF
+6	gute	gut	_	ADJ-ADJA	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:MF
+7	Frucht	Frucht	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:MF
+8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:UNK
+					
+1	Bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:LK
+2	frühe	früh	_	ADJ-ADJA	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:MF
+3	Zucht	Zucht	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:MF
+4	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:MF
+5	gute	gut	_	ADJ-ADJA	Morph:asf|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:MF
+6	Frucht	Frucht	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:MF
+7	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:UNK
+					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:C
+2	frühe	früh	_	ADJ-ADJA	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:MF
+3	Zucht	Zucht	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:MF
+4	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:MF
+5	gute	gut	_	ADJ-ADJA	Morph:asf|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:MF
+6	Frucht	Frucht	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:MF
+7	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:VC
+8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:UNK
+					
+1	Geld	Geld	_	NOUN-NN	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:VF
+2	regiert	regieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:LK
+3	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:MF
+4	Welt	Welt	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:UNK
+					
+1	Keine	keine	_	DET-PIAT	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:VF
+2	Welt	Welt	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:VF
+3	regiert	regieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:LK
+4	Geld	Geld	_	NOUN-NN	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:UNK
+					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:VF
+2	regiert	regieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:LK
+3	Geld	Geld	_	NOUN-NN	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:MF
+4	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:MF
+5	Welt	Welt	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:UNK
+					
+1	Regiert	regieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:LK
+2	Geld	Geld	_	NOUN-NN	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:MF
+3	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:MF
+4	Welt	Welt	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:MF
+5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:UNK
+					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:C
+2	Geld	Geld	_	NOUN-NN	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:MF
+3	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:MF
+4	Welt	Welt	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:MF
+5	regiert	regieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:UNK
+					
+1	Das	das	_	DET-ART	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:VF
+2	Schicksal	Schicksal	_	NOUN-NN	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:VF
+3	bestimmt	bestimmen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:LK
+4	kein	kein	_	DET-PIAT	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:MF
+5	Leben	Leben	_	NOUN-NN	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:UNK
+					
+1	Kein	kein	_	DET-PIAT	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:VF
+2	Leben	Leben	_	NOUN-NN	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:VF
+3	bestimmt	bestimmen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:LK
+4	das	das	_	DET-ART	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:MF
+5	Schicksal	Schicksal	_	NOUN-NN	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:UNK
+					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:VF
+2	bestimmt	bestimmen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:LK
+3	das	das	_	DET-ART	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:MF
+4	Schicksal	Schicksal	_	NOUN-NN	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:MF
+5	kein	kein	_	DET-PIAT	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:MF
+6	Leben	Leben	_	NOUN-NN	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:MF
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:UNK
+					
+1	Bestimmt	bestimmen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:LK
+2	das	das	_	DET-ART	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:MF
+3	Schicksal	Schicksal	_	NOUN-NN	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:MF
+4	kein	kein	_	DET-PIAT	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:MF
+5	Leben	Leben	_	NOUN-NN	Morph:asn|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:MF
+6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:oneg-prov|tf:UNK
+					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:C
+2	das	das	_	DET-ART	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:MF
+3	Schicksal	Schicksal	_	NOUN-NN	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:MF
+4	kein	kein	_	DET-PIAT	Morph:asn|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:MF
+5	Leben	Leben	_	NOUN-NN	Morph:asn|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:MF
+6	bestimmt	bestimmen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:VC
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:oneg-prov|tf:UNK
+					
+1	Jedes	jedes	_	ADJ-PIDAT	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:VF
+2	Böhnchen	Böhnchen	_	NOUN-NN	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:VF
+3	gibt	geben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:LK
+4	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+5	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+6	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+7	ein	ein	_	DET-ART	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+8	Tönchen	Tönchen	_	NOUN-NN	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:UNK
+					
+1	Ein	ein	_	DET-ART	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:VF
+2	Tönchen	Tönchen	_	NOUN-NN	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:VF
+3	gibt	geben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:LK
+4	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
+5	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
+6	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
+7	jedes	jedes	_	ADJ-PIDAT	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
+8	Böhnchen	Böhnchen	_	NOUN-NN	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
+9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:UNK
+					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:VF
+2	gibt	geben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:LK
+3	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+6	jedes	jedes	_	ADJ-PIDAT	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+7	Böhnchen	Böhnchen	_	NOUN-NN	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+8	ein	ein	_	DET-ART	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+9	Tönchen	Tönchen	_	NOUN-NN	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+10	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:UNK
+					
+1	Gibt	geben	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:LK
+2	in	in	_	ADP-APPR	Morph:d|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+5	jedes	jedes	_	ADJ-PIDAT	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+6	Böhnchen	Böhnchen	_	NOUN-NN	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+7	ein	ein	_	DET-ART	Morph:asn|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+8	Tönchen	Tönchen	_	NOUN-NN	Morph:asn|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+9	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:UNK
+					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:C
+2	in	in	_	ADP-APPR	Morph:d|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+5	jedes	jedes	_	ADJ-PIDAT	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+6	Böhnchen	Böhnchen	_	NOUN-NN	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+7	ein	ein	_	DET-ART	Morph:asn|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+8	Tönchen	Tönchen	_	NOUN-NN	Morph:asn|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+9	gibt	geben	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:VC
+10	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:UNK
+					
+1	Alles	alles	_	PRON-PIS	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:VF
+2	hat	haben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:LK
+3	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+6	seine	seine	_	DET-PPOSAT	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+7	Zeit	Zeit	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:UNK
+					
+1	Seine	seine	_	DET-PPOSAT	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:VF
+2	Zeit	Zeit	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:VF
+3	hat	haben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:LK
+4	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
+5	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
+6	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
+7	alles	alles	_	PRON-PIS	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
+8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:UNK
+					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:VF
+2	hat	haben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:LK
+3	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+6	alles	alles	_	PRON-PIS	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+7	seine	seine	_	DET-PPOSAT	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+8	Zeit	Zeit	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:UNK
+					
+1	Hat	haben	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:LK
+2	in	in	_	ADP-APPR	Morph:d|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+5	alles	alles	_	PRON-PIS	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+6	seine	seine	_	DET-PPOSAT	Morph:asf|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+7	Zeit	Zeit	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+8	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:UNK
+					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:C
+2	in	in	_	ADP-APPR	Morph:d|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+5	alles	alles	_	PRON-PIS	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+6	seine	seine	_	DET-PPOSAT	Morph:asf|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+7	Zeit	Zeit	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+8	hat	haben	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:VC
+9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:UNK
+					
+1	Arbeit	Arbeit	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:VF
+2	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:LK
+3	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+6	Brot	Brot	_	NOUN-NN	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:UNK
+					
+1	Brot	Brot	_	NOUN-NN	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:VF
+2	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:LK
+3	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
+4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
+5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
+6	Arbeit	Arbeit	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:UNK
+					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:VF
+2	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:LK
+3	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+6	Arbeit	Arbeit	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+7	Brot	Brot	_	NOUN-NN	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:UNK
+					
+1	Bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:LK
+2	in	in	_	ADP-APPR	Morph:d|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+5	Arbeit	Arbeit	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+6	Brot	Brot	_	NOUN-NN	Morph:asn|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+7	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:UNK
+					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:C
+2	in	in	_	ADP-APPR	Morph:d|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+5	Arbeit	Arbeit	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+6	Brot	Brot	_	NOUN-NN	Morph:asn|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+7	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:VC
+8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:UNK
+					
+1	Eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:VF
+2	Hand	Hand	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:VF
+3	wäscht	waschen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:LK
+4	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+5	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+6	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+7	die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+8	andere	ander	_	ADJ-ADJA	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:UNK
+					
+1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:VF
+2	andere	ander	_	PRON-PIS	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:VF
+3	wäscht	waschen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:LK
+4	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
+5	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
+6	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
+7	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
+8	Hand	Hand	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
+9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:UNK
+					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:VF
+2	wäscht	waschen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:LK
+3	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+6	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+7	Hand	Hand	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+8	die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+9	andere	ander	_	ADJ-ADJA	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+10	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:UNK
+					
+1	Wäscht	waschen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:LK
+2	in	in	_	ADP-APPR	Morph:d|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+5	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+6	Hand	Hand	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+7	die	die	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+8	andere	ander	_	ADJ-ADJA	Morph:asf|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+9	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:UNK
+					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:C
+2	in	in	_	ADP-APPR	Morph:d|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+5	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+6	Hand	Hand	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+7	die	die	_	DET-ART	Morph:asf|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+8	andere	ander	_	ADJ-ADJA	Morph:asf|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+9	wäscht	waschen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:VC
+10	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:UNK
+					
+1	Frühe	früh	_	ADJ-ADJA	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:VF
+2	Zucht	Zucht	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:VF
+3	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:LK
+4	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+5	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+6	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+7	gute	gut	_	ADJ-ADJA	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+8	Frucht	Frucht	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:UNK
+					
+1	Gute	gut	_	ADJ-ADJA	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:VF
+2	Frucht	Frucht	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:VF
+3	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:LK
+4	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
+5	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
+6	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
+7	frühe	früh	_	ADJ-ADJA	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
+8	Zucht	Zucht	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
+9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:UNK
+					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:VF
+2	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:LK
+3	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+6	frühe	früh	_	ADJ-ADJA	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+7	Zucht	Zucht	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+8	gute	gut	_	ADJ-ADJA	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+9	Frucht	Frucht	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+10	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:UNK
+					
+1	Bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:LK
+2	in	in	_	ADP-APPR	Morph:d|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+5	frühe	früh	_	ADJ-ADJA	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+6	Zucht	Zucht	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+7	gute	gut	_	ADJ-ADJA	Morph:asf|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+8	Frucht	Frucht	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+9	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:UNK
+					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:C
+2	in	in	_	ADP-APPR	Morph:d|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+5	frühe	früh	_	ADJ-ADJA	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+6	Zucht	Zucht	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+7	gute	gut	_	ADJ-ADJA	Morph:asf|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+8	Frucht	Frucht	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+9	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:VC
+10	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:UNK
+					
+1	Geld	Geld	_	NOUN-NN	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:VF
+2	regiert	regieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:LK
+3	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+6	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+7	Welt	Welt	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:UNK
+					
+1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:VF
+2	Welt	Welt	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:VF
+3	regiert	regieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:LK
+4	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
+5	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
+6	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
+7	Geld	Geld	_	NOUN-NN	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
+8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:UNK
+					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:VF
+2	regiert	regieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:LK
+3	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+6	Geld	Geld	_	NOUN-NN	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+7	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+8	Welt	Welt	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:UNK
+					
+1	Regiert	regieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:LK
+2	in	in	_	ADP-APPR	Morph:d|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+5	Geld	Geld	_	NOUN-NN	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+6	die	die	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+7	Welt	Welt	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+8	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:UNK
+					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:C
+2	in	in	_	ADP-APPR	Morph:d|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+5	Geld	Geld	_	NOUN-NN	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+6	die	die	_	DET-ART	Morph:asf|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+7	Welt	Welt	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+8	regiert	regieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:VC
+9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:UNK
+					
+1	Das	das	_	DET-ART	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:VF
+2	Schicksal	Schicksal	_	NOUN-NN	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:VF
+3	bestimmt	bestimmen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:LK
+4	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+5	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+6	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+7	dein	dein	_	DET-PPOSAT	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+8	Leben	Leben	_	NOUN-NN	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:UNK
+					
+1	Dein	dein	_	DET-PPOSAT	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:VF
+2	Leben	Leben	_	NOUN-NN	Morph:nsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:VF
+3	bestimmt	bestimmen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:LK
+4	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
+5	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
+6	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
+7	das	das	_	DET-ART	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
+8	Schicksal	Schicksal	_	NOUN-NN	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
+9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:UNK
+					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:VF
+2	bestimmt	bestimmen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:LK
+3	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+6	das	das	_	DET-ART	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+7	Schicksal	Schicksal	_	NOUN-NN	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+8	dein	dein	_	DET-PPOSAT	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+9	Leben	Leben	_	NOUN-NN	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+10	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:UNK
+					
+1	Bestimmt	bestimmen	_	VERB-ADV	Morph:null|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:LK
+2	in	in	_	ADP-APPR	Morph:d|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+5	das	das	_	DET-ART	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+6	Schicksal	Schicksal	_	NOUN-NN	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+7	dein	dein	_	DET-PPOSAT	Morph:gsn|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+8	Leben	Leben	_	NOUN-NN	Morph:gsn|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+9	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:UNK
+					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:C
+2	in	in	_	ADP-APPR	Morph:d|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+5	das	das	_	DET-ART	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+6	Schicksal	Schicksal	_	NOUN-NN	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+7	dein	dein	_	DET-PPOSAT	Morph:asn|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+8	Leben	Leben	_	NOUN-NN	Morph:asn|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+9	bestimmt	bestimmen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:VC
+10	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:UNK
+					
+1	Jugend	Jugend	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:VF
+2	kennt	kennen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:LK
+3	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+6	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+7	Tugend	Tugend	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
+8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:UNK
+					
+1	Keine	keine	_	DET-PIAT	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:VF
+2	Tugend	Tugend	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:VF
+3	kennt	kennen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:LK
+4	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
+5	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
+6	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
+7	Jugend	Jugend	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
+8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:UNK
+					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:VF
+2	kennt	kennen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:LK
+3	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+6	Jugend	Jugend	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+7	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+8	Tugend	Tugend	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
+9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:UNK
+					
+1	Kennt	kennen	_	VERB-VVFIN	Morph:2pis|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:LK
+2	in	in	_	ADP-APPR	Morph:d|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+5	Jugend	Jugend	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+6	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+7	Tugend	Tugend	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
+8	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:UNK
+					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:C
+2	in	in	_	ADP-APPR	Morph:d|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+5	Jugend	Jugend	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+6	keine	keine	_	DET-PIAT	Morph:asf|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+7	Tugend	Tugend	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:MF
+8	kennt	kennen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:VC
+9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-prov|tf:UNK

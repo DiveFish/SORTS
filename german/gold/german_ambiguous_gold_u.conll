@@ -49413,1225 +49413,1225 @@
 6	amüsiert	_	_	_	order=MF[OS]VC[V]|props=psy-syn	0	verb	_	_
 7	.	_	_	_	order=MF[OS]VC[V]|props=psy-syn	_	_	_	_
 
-1	Jedes	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	_	_	_	_
-2	Böhnchen	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	3	nsubj	_	_
-3	gibt	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	0	verb	_	_
-4	ein	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	_	_	_	_
-5	Tönchen	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	3	obj	_	_
-6	.	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	_	_	_	_
-
-1	Ein	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	_	_	_	_
-2	Tönchen	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	3	obj	_	_
-3	gibt	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	0	verb	_	_
-4	jedes	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	_	_	_	_
-5	Böhnchen	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	3	nsubj	_	_
-6	.	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	_	_	_	_
-
-1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-2	gibt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	0	verb	_	_
-3	jedes	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-4	Böhnchen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	2	nsubj	_	_
-5	ein	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-6	Tönchen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	2	obj	_	_
-7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-
-1	Gibt	_	_	_	order=LK[V]MF[SO]|props=base-idm	0	verb	_	_
-2	jedes	_	_	_	order=LK[V]MF[SO]|props=base-idm	_	_	_	_
-3	Böhnchen	_	_	_	order=LK[V]MF[SO]|props=base-idm	1	nsubj	_	_
-4	ein	_	_	_	order=LK[V]MF[SO]|props=base-idm	_	_	_	_
-5	Tönchen	_	_	_	order=LK[V]MF[SO]|props=base-idm	1	obj	_	_
-6	?	_	_	_	order=LK[V]MF[SO]|props=base-idm	_	_	_	_
-
-1	Weil	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-2	jedes	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-3	Böhnchen	_	_	_	order=MF[SO]VC[V]|props=base-idm	6	nsubj	_	_
-4	ein	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-5	Tönchen	_	_	_	order=MF[SO]VC[V]|props=base-idm	6	obj	_	_
-6	gibt	_	_	_	order=MF[SO]VC[V]|props=base-idm	0	verb	_	_
-7	.	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-
-1	Alles	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	2	nsubj	_	_
-2	hat	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	0	verb	_	_
-3	seine	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	_	_	_	_
-4	Zeit	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	2	obj	_	_
-5	.	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	_	_	_	_
-
-1	Seine	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	_	_	_	_
-2	Zeit	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	3	obj	_	_
-3	hat	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	0	verb	_	_
-4	alles	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	3	nsubj	_	_
-5	.	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	_	_	_	_
-
-1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-2	hat	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	0	verb	_	_
-3	alles	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	2	nsubj	_	_
-4	seine	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-5	Zeit	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	2	obj	_	_
-6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-
-1	Hat	_	_	_	order=LK[V]MF[SO]|props=base-idm	0	verb	_	_
-2	alles	_	_	_	order=LK[V]MF[SO]|props=base-idm	1	nsubj	_	_
-3	seine	_	_	_	order=LK[V]MF[SO]|props=base-idm	_	_	_	_
-4	Zeit	_	_	_	order=LK[V]MF[SO]|props=base-idm	1	obj	_	_
-5	?	_	_	_	order=LK[V]MF[SO]|props=base-idm	_	_	_	_
-
-1	Weil	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-2	alles	_	_	_	order=MF[SO]VC[V]|props=base-idm	5	nsubj	_	_
-3	seine	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-4	Zeit	_	_	_	order=MF[SO]VC[V]|props=base-idm	5	obj	_	_
-5	hat	_	_	_	order=MF[SO]VC[V]|props=base-idm	0	verb	_	_
-6	.	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-
-1	Arbeit	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	2	nsubj	_	_
-2	bringt	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	0	verb	_	_
-3	Brot	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	2	obj	_	_
-4	.	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	_	_	_	_
-
-1	Brot	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	2	obj	_	_
-2	bringt	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	0	verb	_	_
-3	Arbeit	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	2	nsubj	_	_
-4	.	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	_	_	_	_
-
-1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-2	bringt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	0	verb	_	_
-3	Arbeit	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	2	nsubj	_	_
-4	Brot	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	2	obj	_	_
-5	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-
-1	Bringt	_	_	_	order=LK[V]MF[SO]|props=base-idm	0	verb	_	_
-2	Arbeit	_	_	_	order=LK[V]MF[SO]|props=base-idm	1	nsubj	_	_
-3	Brot	_	_	_	order=LK[V]MF[SO]|props=base-idm	1	obj	_	_
-4	?	_	_	_	order=LK[V]MF[SO]|props=base-idm	_	_	_	_
-
-1	Weil	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-2	Arbeit	_	_	_	order=MF[SO]VC[V]|props=base-idm	4	nsubj	_	_
-3	Brot	_	_	_	order=MF[SO]VC[V]|props=base-idm	4	obj	_	_
-4	bringt	_	_	_	order=MF[SO]VC[V]|props=base-idm	0	verb	_	_
-5	.	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-
-1	Eine	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	_	_	_	_
-2	Hand	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	3	nsubj	_	_
-3	wäscht	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	0	verb	_	_
-4	die	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	_	_	_	_
-5	andere	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	3	obj	_	_
-6	.	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	_	_	_	_
-
-1	Die	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	_	_	_	_
-2	andere	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	3	obj	_	_
-3	wäscht	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	0	verb	_	_
-4	eine	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	_	_	_	_
-5	Hand	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	3	nsubj	_	_
-6	.	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	_	_	_	_
-
-1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-2	wäscht	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	0	verb	_	_
-3	eine	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-4	Hand	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	2	nsubj	_	_
-5	die	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-6	andere	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	2	obj	_	_
-7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-
-1	Wäscht	_	_	_	order=LK[V]MF[SO]|props=base-idm	0	verb	_	_
-2	eine	_	_	_	order=LK[V]MF[SO]|props=base-idm	_	_	_	_
-3	Hand	_	_	_	order=LK[V]MF[SO]|props=base-idm	1	nsubj	_	_
-4	die	_	_	_	order=LK[V]MF[SO]|props=base-idm	_	_	_	_
-5	andere	_	_	_	order=LK[V]MF[SO]|props=base-idm	1	obj	_	_
-6	?	_	_	_	order=LK[V]MF[SO]|props=base-idm	_	_	_	_
-
-1	Weil	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-2	eine	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-3	Hand	_	_	_	order=MF[SO]VC[V]|props=base-idm	6	nsubj	_	_
-4	die	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-5	andere	_	_	_	order=MF[SO]VC[V]|props=base-idm	6	obj	_	_
-6	wäscht	_	_	_	order=MF[SO]VC[V]|props=base-idm	0	verb	_	_
-7	.	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-
-1	Frühe	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	_	_	_	_
-2	Zucht	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	3	nsubj	_	_
-3	bringt	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	0	verb	_	_
-4	gute	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	_	_	_	_
-5	Frucht	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	3	obj	_	_
-6	.	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	_	_	_	_
-
-1	Gute	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	_	_	_	_
-2	Frucht	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	3	obj	_	_
-3	bringt	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	0	verb	_	_
-4	frühe	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	_	_	_	_
-5	Zucht	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	3	nsubj	_	_
-6	.	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	_	_	_	_
-
-1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-2	bringt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	0	verb	_	_
-3	frühe	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-4	Zucht	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	2	nsubj	_	_
-5	gute	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-6	Frucht	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	2	obj	_	_
-7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-
-1	Bringt	_	_	_	order=LK[V]MF[SO]|props=base-idm	0	verb	_	_
-2	frühe	_	_	_	order=LK[V]MF[SO]|props=base-idm	_	_	_	_
-3	Zucht	_	_	_	order=LK[V]MF[SO]|props=base-idm	1	nsubj	_	_
-4	gute	_	_	_	order=LK[V]MF[SO]|props=base-idm	_	_	_	_
-5	Frucht	_	_	_	order=LK[V]MF[SO]|props=base-idm	1	obj	_	_
-6	?	_	_	_	order=LK[V]MF[SO]|props=base-idm	_	_	_	_
-
-1	Weil	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-2	frühe	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-3	Zucht	_	_	_	order=MF[SO]VC[V]|props=base-idm	6	nsubj	_	_
-4	gute	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-5	Frucht	_	_	_	order=MF[SO]VC[V]|props=base-idm	6	obj	_	_
-6	bringt	_	_	_	order=MF[SO]VC[V]|props=base-idm	0	verb	_	_
-7	.	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-
-1	Geld	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	2	nsubj	_	_
-2	regiert	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	0	verb	_	_
-3	die	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	_	_	_	_
-4	Welt	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	2	obj	_	_
-5	.	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	_	_	_	_
-
-1	Die	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	_	_	_	_
-2	Welt	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	3	obj	_	_
-3	regiert	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	0	verb	_	_
-4	Geld	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	3	nsubj	_	_
-5	.	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	_	_	_	_
-
-1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-2	regiert	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	0	verb	_	_
-3	Geld	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	2	nsubj	_	_
-4	die	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-5	Welt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	2	obj	_	_
-6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-
-1	Regiert	_	_	_	order=LK[V]MF[SO]|props=base-idm	0	verb	_	_
-2	Geld	_	_	_	order=LK[V]MF[SO]|props=base-idm	1	nsubj	_	_
-3	die	_	_	_	order=LK[V]MF[SO]|props=base-idm	_	_	_	_
-4	Welt	_	_	_	order=LK[V]MF[SO]|props=base-idm	1	obj	_	_
-5	?	_	_	_	order=LK[V]MF[SO]|props=base-idm	_	_	_	_
-
-1	Weil	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-2	Geld	_	_	_	order=MF[SO]VC[V]|props=base-idm	5	nsubj	_	_
-3	die	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-4	Welt	_	_	_	order=MF[SO]VC[V]|props=base-idm	5	obj	_	_
-5	regiert	_	_	_	order=MF[SO]VC[V]|props=base-idm	0	verb	_	_
-6	.	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-
-1	Das	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	_	_	_	_
-2	Schicksal	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	3	nsubj	_	_
-3	bestimmt	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	0	verb	_	_
-4	dein	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	_	_	_	_
-5	Leben	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	3	obj	_	_
-6	.	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	_	_	_	_
-
-1	Dein	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	_	_	_	_
-2	Leben	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	3	obj	_	_
-3	bestimmt	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	0	verb	_	_
-4	das	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	_	_	_	_
-5	Schicksal	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	3	nsubj	_	_
-6	.	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	_	_	_	_
-
-1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-2	bestimmt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	0	verb	_	_
-3	das	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-4	Schicksal	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	2	nsubj	_	_
-5	dein	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-6	Leben	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	2	obj	_	_
-7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-
-1	Bestimmt	_	_	_	order=LK[V]MF[SO]|props=base-idm	0	verb	_	_
-2	das	_	_	_	order=LK[V]MF[SO]|props=base-idm	_	_	_	_
-3	Schicksal	_	_	_	order=LK[V]MF[SO]|props=base-idm	1	nsubj	_	_
-4	dein	_	_	_	order=LK[V]MF[SO]|props=base-idm	_	_	_	_
-5	Leben	_	_	_	order=LK[V]MF[SO]|props=base-idm	1	obj	_	_
-6	?	_	_	_	order=LK[V]MF[SO]|props=base-idm	_	_	_	_
-
-1	Weil	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-2	das	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-3	Schicksal	_	_	_	order=MF[SO]VC[V]|props=base-idm	6	nsubj	_	_
-4	dein	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-5	Leben	_	_	_	order=MF[SO]VC[V]|props=base-idm	6	obj	_	_
-6	bestimmt	_	_	_	order=MF[SO]VC[V]|props=base-idm	0	verb	_	_
-7	.	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-
-1	Jugend	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	2	nsubj	_	_
-2	kennt	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	0	verb	_	_
-3	keine	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	_	_	_	_
-4	Tugend	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	2	obj	_	_
-5	.	_	_	_	order=VF[S]LK[V]MF[O]|props=base-idm	_	_	_	_
-
-1	Keine	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	_	_	_	_
-2	Tugend	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	3	obj	_	_
-3	kennt	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	0	verb	_	_
-4	Jugend	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	3	nsubj	_	_
-5	.	_	_	_	order=VF[O]LK[V]MF[S]|props=base-idm	_	_	_	_
-
-1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-2	kennt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	0	verb	_	_
-3	Jugend	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	2	nsubj	_	_
-4	keine	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-5	Tugend	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	2	obj	_	_
-6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-idm	_	_	_	_
-
-1	Kennt	_	_	_	order=LK[V]MF[SO]|props=base-idm	0	verb	_	_
-2	Jugend	_	_	_	order=LK[V]MF[SO]|props=base-idm	1	nsubj	_	_
-3	keine	_	_	_	order=LK[V]MF[SO]|props=base-idm	_	_	_	_
-4	Tugend	_	_	_	order=LK[V]MF[SO]|props=base-idm	1	obj	_	_
-5	?	_	_	_	order=LK[V]MF[SO]|props=base-idm	_	_	_	_
-
-1	Weil	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-2	Jugend	_	_	_	order=MF[SO]VC[V]|props=base-idm	5	nsubj	_	_
-3	keine	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-4	Tugend	_	_	_	order=MF[SO]VC[V]|props=base-idm	5	obj	_	_
-5	kennt	_	_	_	order=MF[SO]VC[V]|props=base-idm	0	verb	_	_
-6	.	_	_	_	order=MF[SO]VC[V]|props=base-idm	_	_	_	_
-
-1	Jedes	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-2	Böhnchen	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	6	nsubj	_	_
-3	wird	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-4	ein	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-5	Tönchen	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	6	obj	_	_
-6	geben	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	0	verb	_	_
-7	.	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-
-1	Ein	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	_	_	_	_
-2	Tönchen	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	6	obj	_	_
-3	wird	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	_	_	_	_
-4	jedes	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	_	_	_	_
-5	Böhnchen	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	6	nsubj	_	_
-6	geben	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	0	verb	_	_
-7	.	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	_	_	_	_
-
-1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-2	wird	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-3	jedes	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-4	Böhnchen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	7	nsubj	_	_
-5	ein	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-6	Tönchen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	7	obj	_	_
-7	geben	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	0	verb	_	_
-8	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-
-1	Wird	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-2	jedes	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-3	Böhnchen	_	_	_	order=LK[V]MF[SO]|props=aux-idm	6	nsubj	_	_
-4	ein	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-5	Tönchen	_	_	_	order=LK[V]MF[SO]|props=aux-idm	6	obj	_	_
-6	geben	_	_	_	order=LK[V]MF[SO]|props=aux-idm	0	verb	_	_
-7	?	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-
-1	Weil	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-2	jedes	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-3	Böhnchen	_	_	_	order=MF[SO]VC[V]|props=aux-idm	6	nsubj	_	_
-4	ein	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-5	Tönchen	_	_	_	order=MF[SO]VC[V]|props=aux-idm	6	obj	_	_
-6	geben	_	_	_	order=MF[SO]VC[V]|props=aux-idm	0	verb	_	_
-7	wird	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-8	.	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-
-1	Alles	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	5	nsubj	_	_
-2	wird	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-3	seine	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-4	Zeit	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	5	obj	_	_
-5	haben	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	0	verb	_	_
-6	.	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-
-1	Seine	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	_	_	_	_
-2	Zeit	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	5	obj	_	_
-3	wird	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	_	_	_	_
-4	alles	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	5	nsubj	_	_
-5	haben	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	0	verb	_	_
-6	.	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	_	_	_	_
-
-1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-2	wird	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-3	alles	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	6	nsubj	_	_
-4	seine	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-5	Zeit	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	6	obj	_	_
-6	haben	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	0	verb	_	_
-7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-
-1	Wird	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-2	alles	_	_	_	order=LK[V]MF[SO]|props=aux-idm	5	nsubj	_	_
-3	seine	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-4	Zeit	_	_	_	order=LK[V]MF[SO]|props=aux-idm	5	obj	_	_
-5	haben	_	_	_	order=LK[V]MF[SO]|props=aux-idm	0	verb	_	_
-6	?	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-
-1	Weil	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-2	alles	_	_	_	order=MF[SO]VC[V]|props=aux-idm	5	nsubj	_	_
-3	seine	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-4	Zeit	_	_	_	order=MF[SO]VC[V]|props=aux-idm	5	obj	_	_
-5	haben	_	_	_	order=MF[SO]VC[V]|props=aux-idm	0	verb	_	_
-6	wird	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-7	.	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-
-1	Arbeit	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	4	nsubj	_	_
-2	wird	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-3	Brot	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	4	obj	_	_
-4	bringen	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	0	verb	_	_
-5	.	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-
-1	Brot	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	4	obj	_	_
-2	wird	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	_	_	_	_
-3	Arbeit	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	4	nsubj	_	_
-4	bringen	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	0	verb	_	_
-5	.	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	_	_	_	_
-
-1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-2	wird	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-3	Arbeit	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	5	nsubj	_	_
-4	Brot	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	5	obj	_	_
-5	bringen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	0	verb	_	_
-6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-
-1	Wird	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-2	Arbeit	_	_	_	order=LK[V]MF[SO]|props=aux-idm	4	nsubj	_	_
-3	Brot	_	_	_	order=LK[V]MF[SO]|props=aux-idm	4	obj	_	_
-4	bringen	_	_	_	order=LK[V]MF[SO]|props=aux-idm	0	verb	_	_
-5	?	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-
-1	Weil	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-2	Arbeit	_	_	_	order=MF[SO]VC[V]|props=aux-idm	4	nsubj	_	_
-3	Brot	_	_	_	order=MF[SO]VC[V]|props=aux-idm	4	obj	_	_
-4	bringen	_	_	_	order=MF[SO]VC[V]|props=aux-idm	0	verb	_	_
-5	wird	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-6	.	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-
-1	Eine	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-2	Hand	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	6	nsubj	_	_
-3	wird	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-4	die	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-5	andere	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	6	obj	_	_
-6	waschen	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	0	verb	_	_
-7	.	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-
-1	Die	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	_	_	_	_
-2	andere	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	6	obj	_	_
-3	wird	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	_	_	_	_
-4	eine	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	_	_	_	_
-5	Hand	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	6	nsubj	_	_
-6	waschen	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	0	verb	_	_
-7	.	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	_	_	_	_
-
-1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-2	wird	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-3	eine	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-4	Hand	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	7	nsubj	_	_
-5	die	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-6	andere	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	7	obj	_	_
-7	waschen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	0	verb	_	_
-8	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-
-1	Wird	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-2	eine	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-3	Hand	_	_	_	order=LK[V]MF[SO]|props=aux-idm	6	nsubj	_	_
-4	die	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-5	andere	_	_	_	order=LK[V]MF[SO]|props=aux-idm	6	obj	_	_
-6	waschen	_	_	_	order=LK[V]MF[SO]|props=aux-idm	0	verb	_	_
-7	?	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-
-1	Weil	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-2	eine	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-3	Hand	_	_	_	order=MF[SO]VC[V]|props=aux-idm	6	nsubj	_	_
-4	die	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-5	andere	_	_	_	order=MF[SO]VC[V]|props=aux-idm	6	obj	_	_
-6	waschen	_	_	_	order=MF[SO]VC[V]|props=aux-idm	0	verb	_	_
-7	wird	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-8	.	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-
-1	Frühe	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-2	Zucht	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	6	nsubj	_	_
-3	wird	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-4	gute	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-5	Frucht	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	6	obj	_	_
-6	bringen	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	0	verb	_	_
-7	.	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-
-1	Gute	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	_	_	_	_
-2	Frucht	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	6	obj	_	_
-3	wird	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	_	_	_	_
-4	frühe	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	_	_	_	_
-5	Zucht	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	6	nsubj	_	_
-6	bringen	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	0	verb	_	_
-7	.	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	_	_	_	_
-
-1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-2	wird	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-3	frühe	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-4	Zucht	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	7	nsubj	_	_
-5	gute	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-6	Frucht	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	7	obj	_	_
-7	bringen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	0	verb	_	_
-8	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-
-1	Wird	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-2	frühe	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-3	Zucht	_	_	_	order=LK[V]MF[SO]|props=aux-idm	6	nsubj	_	_
-4	gute	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-5	Frucht	_	_	_	order=LK[V]MF[SO]|props=aux-idm	6	obj	_	_
-6	bringen	_	_	_	order=LK[V]MF[SO]|props=aux-idm	0	verb	_	_
-7	?	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-
-1	Weil	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-2	frühe	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-3	Zucht	_	_	_	order=MF[SO]VC[V]|props=aux-idm	6	nsubj	_	_
-4	gute	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-5	Frucht	_	_	_	order=MF[SO]VC[V]|props=aux-idm	6	obj	_	_
-6	bringen	_	_	_	order=MF[SO]VC[V]|props=aux-idm	0	verb	_	_
-7	wird	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-8	.	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-
-1	Geld	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	5	nsubj	_	_
-2	wird	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-3	die	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-4	Welt	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	5	obj	_	_
-5	regieren	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	0	verb	_	_
-6	.	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-
-1	Die	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	_	_	_	_
-2	Welt	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	5	obj	_	_
-3	wird	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	_	_	_	_
-4	Geld	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	5	nsubj	_	_
-5	regieren	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	0	verb	_	_
-6	.	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	_	_	_	_
-
-1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-2	wird	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-3	Geld	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	6	nsubj	_	_
-4	die	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-5	Welt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	6	obj	_	_
-6	regieren	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	0	verb	_	_
-7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-
-1	Wird	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-2	Geld	_	_	_	order=LK[V]MF[SO]|props=aux-idm	5	nsubj	_	_
-3	die	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-4	Welt	_	_	_	order=LK[V]MF[SO]|props=aux-idm	5	obj	_	_
-5	regieren	_	_	_	order=LK[V]MF[SO]|props=aux-idm	0	verb	_	_
-6	?	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-
-1	Weil	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-2	Geld	_	_	_	order=MF[SO]VC[V]|props=aux-idm	5	nsubj	_	_
-3	die	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-4	Welt	_	_	_	order=MF[SO]VC[V]|props=aux-idm	5	obj	_	_
-5	regieren	_	_	_	order=MF[SO]VC[V]|props=aux-idm	0	verb	_	_
-6	wird	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-7	.	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-
-1	Das	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-2	Schicksal	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	6	nsubj	_	_
-3	wird	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-4	dein	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-5	Leben	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	6	obj	_	_
-6	bestimmen	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	0	verb	_	_
-7	.	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-
-1	Dein	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	_	_	_	_
-2	Leben	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	6	obj	_	_
-3	wird	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	_	_	_	_
-4	das	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	_	_	_	_
-5	Schicksal	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	6	nsubj	_	_
-6	bestimmen	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	0	verb	_	_
-7	.	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	_	_	_	_
-
-1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-2	wird	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-3	das	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-4	Schicksal	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	7	nsubj	_	_
-5	dein	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-6	Leben	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	7	obj	_	_
-7	bestimmen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	0	verb	_	_
-8	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-
-1	Wird	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-2	das	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-3	Schicksal	_	_	_	order=LK[V]MF[SO]|props=aux-idm	6	nsubj	_	_
-4	dein	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-5	Leben	_	_	_	order=LK[V]MF[SO]|props=aux-idm	6	obj	_	_
-6	bestimmen	_	_	_	order=LK[V]MF[SO]|props=aux-idm	0	verb	_	_
-7	?	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-
-1	Weil	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-2	das	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-3	Schicksal	_	_	_	order=MF[SO]VC[V]|props=aux-idm	6	nsubj	_	_
-4	dein	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-5	Leben	_	_	_	order=MF[SO]VC[V]|props=aux-idm	6	obj	_	_
-6	bestimmen	_	_	_	order=MF[SO]VC[V]|props=aux-idm	0	verb	_	_
-7	wird	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-8	.	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-
-1	Jugend	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	5	nsubj	_	_
-2	wird	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-3	keine	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-4	Tugend	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	5	obj	_	_
-5	kennen	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	0	verb	_	_
-6	.	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-idm	_	_	_	_
-
-1	Keine	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	_	_	_	_
-2	Tugend	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	5	obj	_	_
-3	wird	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	_	_	_	_
-4	Jugend	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	5	nsubj	_	_
-5	kennen	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	0	verb	_	_
-6	.	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-idm	_	_	_	_
-
-1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-2	wird	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-3	Jugend	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	6	nsubj	_	_
-4	keine	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-5	Tugend	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	6	obj	_	_
-6	kennen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	0	verb	_	_
-7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-idm	_	_	_	_
-
-1	Wird	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-2	Jugend	_	_	_	order=LK[V]MF[SO]|props=aux-idm	5	nsubj	_	_
-3	keine	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-4	Tugend	_	_	_	order=LK[V]MF[SO]|props=aux-idm	5	obj	_	_
-5	kennen	_	_	_	order=LK[V]MF[SO]|props=aux-idm	0	verb	_	_
-6	?	_	_	_	order=LK[V]MF[SO]|props=aux-idm	_	_	_	_
-
-1	Weil	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-2	Jugend	_	_	_	order=MF[SO]VC[V]|props=aux-idm	5	nsubj	_	_
-3	keine	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-4	Tugend	_	_	_	order=MF[SO]VC[V]|props=aux-idm	5	obj	_	_
-5	kennen	_	_	_	order=MF[SO]VC[V]|props=aux-idm	0	verb	_	_
-6	wird	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-7	.	_	_	_	order=MF[SO]VC[V]|props=aux-idm	_	_	_	_
-
-1	Jedes	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	_	_	_	_
-2	Böhnchen	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	3	nsubj	_	_
-3	gibt	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	0	verb	_	_
-4	kein	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	_	_	_	_
-5	Tönchen	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	3	obj	_	_
-6	.	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	_	_	_	_
-
-1	Kein	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	_	_	_	_
-2	Tönchen	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	3	obj	_	_
-3	gibt	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	0	verb	_	_
-4	jedes	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	_	_	_	_
-5	Böhnchen	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	3	nsubj	_	_
-6	.	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	_	_	_	_
-
-1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-2	gibt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	0	verb	_	_
-3	jedes	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-4	Böhnchen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	2	nsubj	_	_
-5	kein	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-6	Tönchen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	2	obj	_	_
-7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-
-1	Gibt	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	0	verb	_	_
-2	jedes	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-3	Böhnchen	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	1	nsubj	_	_
-4	kein	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-5	Tönchen	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	1	obj	_	_
-6	?	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-
-1	Weil	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-2	jedes	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-3	Böhnchen	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	6	nsubj	_	_
-4	kein	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-5	Tönchen	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	6	obj	_	_
-6	gibt	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	0	verb	_	_
-7	.	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-
-1	Alles	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	2	nsubj	_	_
-2	hat	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	0	verb	_	_
-3	keine	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	_	_	_	_
-4	Zeit	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	2	obj	_	_
-5	.	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	_	_	_	_
-
-1	Keine	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	_	_	_	_
-2	Zeit	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	3	obj	_	_
-3	hat	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	0	verb	_	_
-4	alles	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	3	nsubj	_	_
-5	.	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	_	_	_	_
-
-1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-2	hat	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	0	verb	_	_
-3	alles	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	2	nsubj	_	_
-4	keine	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-5	Zeit	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	2	obj	_	_
-6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-
-1	Hat	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	0	verb	_	_
-2	alles	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	1	nsubj	_	_
-3	keine	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-4	Zeit	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	1	obj	_	_
-5	?	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-
-1	Weil	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-2	alles	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	5	nsubj	_	_
-3	keine	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-4	Zeit	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	5	obj	_	_
-5	hat	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	0	verb	_	_
-6	.	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-
-1	Arbeit	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	2	nsubj	_	_
-2	bringt	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	0	verb	_	_
-3	kein	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	_	_	_	_
-4	Brot	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	2	obj	_	_
-5	.	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	_	_	_	_
-
-1	Kein	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	_	_	_	_
-2	Brot	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	3	obj	_	_
-3	bringt	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	0	verb	_	_
-4	Arbeit	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	3	nsubj	_	_
-5	.	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	_	_	_	_
-
-1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-2	bringt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	0	verb	_	_
-3	Arbeit	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	2	nsubj	_	_
-4	kein	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-5	Brot	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	2	obj	_	_
-6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-
-1	Bringt	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	0	verb	_	_
-2	Arbeit	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	1	nsubj	_	_
-3	kein	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-4	Brot	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	1	obj	_	_
-5	?	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-
-1	Weil	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-2	Arbeit	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	5	nsubj	_	_
-3	kein	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-4	Brot	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	5	obj	_	_
-5	bringt	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	0	verb	_	_
-6	.	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-
-1	Eine	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	_	_	_	_
-2	Hand	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	3	nsubj	_	_
-3	wäscht	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	0	verb	_	_
-4	keine	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	_	_	_	_
-5	andere	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	3	obj	_	_
-6	.	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	_	_	_	_
-
-1	Keine	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	_	_	_	_
-2	andere	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	3	obj	_	_
-3	wäscht	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	0	verb	_	_
-4	eine	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	_	_	_	_
-5	Hand	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	3	nsubj	_	_
-6	.	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	_	_	_	_
-
-1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-2	wäscht	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	0	verb	_	_
-3	eine	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-4	Hand	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	2	nsubj	_	_
-5	keine	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-6	andere	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	2	obj	_	_
-7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-
-1	Wäscht	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	0	verb	_	_
-2	eine	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-3	Hand	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	1	nsubj	_	_
-4	keine	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-5	andere	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	1	obj	_	_
-6	?	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-
-1	Weil	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-2	eine	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-3	Hand	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	6	nsubj	_	_
-4	keine	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-5	andere	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	6	obj	_	_
-6	wäscht	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	0	verb	_	_
-7	.	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-
-1	Frühe	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	_	_	_	_
-2	Zucht	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	3	nsubj	_	_
-3	bringt	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	0	verb	_	_
-4	keine	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	_	_	_	_
-5	gute	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	_	_	_	_
-6	Frucht	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	3	obj	_	_
-7	.	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	_	_	_	_
-
-1	Keine	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	_	_	_	_
-2	gute	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	_	_	_	_
-3	Frucht	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	4	obj	_	_
-4	bringt	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	0	verb	_	_
-5	frühe	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	_	_	_	_
-6	Zucht	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	4	nsubj	_	_
-7	.	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	_	_	_	_
-
-1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-2	bringt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	0	verb	_	_
-3	frühe	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-4	Zucht	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	2	nsubj	_	_
-5	keine	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-6	gute	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-7	Frucht	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	2	obj	_	_
-8	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-
-1	Bringt	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	0	verb	_	_
-2	frühe	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-3	Zucht	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	1	nsubj	_	_
-4	keine	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-5	gute	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-6	Frucht	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	1	obj	_	_
-7	?	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-
-1	Weil	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-2	frühe	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-3	Zucht	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	7	nsubj	_	_
-4	keine	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-5	gute	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-6	Frucht	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	7	obj	_	_
-7	bringt	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	0	verb	_	_
-8	.	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-
-1	Geld	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	2	nsubj	_	_
-2	regiert	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	0	verb	_	_
-3	keine	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	_	_	_	_
-4	Welt	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	2	obj	_	_
-5	.	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	_	_	_	_
-
-1	Keine	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	_	_	_	_
-2	Welt	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	3	obj	_	_
-3	regiert	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	0	verb	_	_
-4	Geld	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	3	nsubj	_	_
-5	.	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	_	_	_	_
-
-1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-2	regiert	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	0	verb	_	_
-3	Geld	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	2	nsubj	_	_
-4	keine	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-5	Welt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	2	obj	_	_
-6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-
-1	Regiert	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	0	verb	_	_
-2	Geld	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	1	nsubj	_	_
-3	keine	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-4	Welt	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	1	obj	_	_
-5	?	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-
-1	Weil	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-2	Geld	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	5	nsubj	_	_
-3	keine	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-4	Welt	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	5	obj	_	_
-5	regiert	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	0	verb	_	_
-6	.	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-
-1	Das	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	_	_	_	_
-2	Schicksal	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	3	nsubj	_	_
-3	bestimmt	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	0	verb	_	_
-4	kein	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	_	_	_	_
-5	Leben	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	3	obj	_	_
-6	.	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-idm	_	_	_	_
-
-1	Kein	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	_	_	_	_
-2	Leben	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	3	obj	_	_
-3	bestimmt	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	0	verb	_	_
-4	das	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	_	_	_	_
-5	Schicksal	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	3	nsubj	_	_
-6	.	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-idm	_	_	_	_
-
-1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-2	bestimmt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	0	verb	_	_
-3	das	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-4	Schicksal	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	2	nsubj	_	_
-5	kein	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-6	Leben	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	2	obj	_	_
-7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-
-1	Bestimmt	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	0	verb	_	_
-2	das	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-3	Schicksal	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	1	nsubj	_	_
-4	kein	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-5	Leben	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	1	obj	_	_
-6	?	_	_	_	order=LK[V]MF[SO]|props=oneg-idm	_	_	_	_
-
-1	Weil	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-2	das	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-3	Schicksal	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	6	nsubj	_	_
-4	kein	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-5	Leben	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	6	obj	_	_
-6	bestimmt	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	0	verb	_	_
-7	.	_	_	_	order=MF[SO]VC[V]|props=oneg-idm	_	_	_	_
-
-1	Jedes	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-2	Böhnchen	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	3	nsubj	_	_
-3	gibt	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	0	verb	_	_
-4	in	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-5	dem	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-6	Jahr	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-7	ein	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-8	Tönchen	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	3	obj	_	_
-9	.	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-
-1	Ein	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-2	Tönchen	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	3	obj	_	_
-3	gibt	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	0	verb	_	_
-4	in	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-5	dem	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-6	Jahr	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-7	jedes	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-8	Böhnchen	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	3	nsubj	_	_
-9	.	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-
-1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-2	gibt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	0	verb	_	_
-3	in	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-4	dem	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-5	Jahr	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-6	jedes	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-7	Böhnchen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	2	nsubj	_	_
-8	ein	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-9	Tönchen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	2	obj	_	_
-10	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-
-1	Gibt	_	_	_	order=LK[V]MF[SO]|props=pp-idm	0	verb	_	_
-2	in	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-3	dem	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-4	Jahr	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-5	jedes	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-6	Böhnchen	_	_	_	order=LK[V]MF[SO]|props=pp-idm	1	nsubj	_	_
-7	ein	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-8	Tönchen	_	_	_	order=LK[V]MF[SO]|props=pp-idm	1	obj	_	_
-9	?	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-
-1	Weil	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-2	in	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-3	dem	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-4	Jahr	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-5	jedes	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-6	Böhnchen	_	_	_	order=MF[SO]VC[V]|props=pp-idm	9	nsubj	_	_
-7	ein	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-8	Tönchen	_	_	_	order=MF[SO]VC[V]|props=pp-idm	9	obj	_	_
-9	gibt	_	_	_	order=MF[SO]VC[V]|props=pp-idm	0	verb	_	_
-10	.	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-
-1	Alles	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	2	nsubj	_	_
-2	hat	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	0	verb	_	_
-3	in	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-4	dem	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-5	Jahr	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-6	seine	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-7	Zeit	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	2	obj	_	_
-8	.	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-
-1	Seine	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-2	Zeit	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	3	obj	_	_
-3	hat	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	0	verb	_	_
-4	in	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-5	dem	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-6	Jahr	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-7	alles	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	3	nsubj	_	_
-8	.	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-
-1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-2	hat	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	0	verb	_	_
-3	in	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-4	dem	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-5	Jahr	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-6	alles	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	2	nsubj	_	_
-7	seine	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-8	Zeit	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	2	obj	_	_
-9	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-
-1	Hat	_	_	_	order=LK[V]MF[SO]|props=pp-idm	0	verb	_	_
-2	in	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-3	dem	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-4	Jahr	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-5	alles	_	_	_	order=LK[V]MF[SO]|props=pp-idm	1	nsubj	_	_
-6	seine	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-7	Zeit	_	_	_	order=LK[V]MF[SO]|props=pp-idm	1	obj	_	_
-8	?	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-
-1	Weil	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-2	in	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-3	dem	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-4	Jahr	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-5	alles	_	_	_	order=MF[SO]VC[V]|props=pp-idm	8	nsubj	_	_
-6	seine	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-7	Zeit	_	_	_	order=MF[SO]VC[V]|props=pp-idm	8	obj	_	_
-8	hat	_	_	_	order=MF[SO]VC[V]|props=pp-idm	0	verb	_	_
-9	.	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-
-1	Arbeit	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	2	nsubj	_	_
-2	bringt	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	0	verb	_	_
-3	in	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-4	dem	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-5	Jahr	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-6	Brot	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	2	obj	_	_
-7	.	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-
-1	Brot	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	2	obj	_	_
-2	bringt	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	0	verb	_	_
-3	in	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-4	dem	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-5	Jahr	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-6	Arbeit	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	2	nsubj	_	_
-7	.	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-
-1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-2	bringt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	0	verb	_	_
-3	in	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-4	dem	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-5	Jahr	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-6	Arbeit	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	2	nsubj	_	_
-7	Brot	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	2	obj	_	_
-8	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-
-1	Bringt	_	_	_	order=LK[V]MF[SO]|props=pp-idm	0	verb	_	_
-2	in	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-3	dem	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-4	Jahr	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-5	Arbeit	_	_	_	order=LK[V]MF[SO]|props=pp-idm	1	nsubj	_	_
-6	Brot	_	_	_	order=LK[V]MF[SO]|props=pp-idm	1	obj	_	_
-7	?	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-
-1	Weil	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-2	in	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-3	dem	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-4	Jahr	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-5	Arbeit	_	_	_	order=MF[SO]VC[V]|props=pp-idm	7	nsubj	_	_
-6	Brot	_	_	_	order=MF[SO]VC[V]|props=pp-idm	7	obj	_	_
-7	bringt	_	_	_	order=MF[SO]VC[V]|props=pp-idm	0	verb	_	_
-8	.	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-
-1	Eine	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-2	Hand	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	3	nsubj	_	_
-3	wäscht	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	0	verb	_	_
-4	in	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-5	dem	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-6	Jahr	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-7	die	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-8	andere	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	3	obj	_	_
-9	.	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-
-1	Die	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-2	andere	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	3	obj	_	_
-3	wäscht	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	0	verb	_	_
-4	in	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-5	dem	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-6	Jahr	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-7	eine	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-8	Hand	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	3	nsubj	_	_
-9	.	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-
-1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-2	wäscht	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	0	verb	_	_
-3	in	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-4	dem	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-5	Jahr	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-6	eine	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-7	Hand	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	2	nsubj	_	_
-8	die	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-9	andere	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	2	obj	_	_
-10	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-
-1	Wäscht	_	_	_	order=LK[V]MF[SO]|props=pp-idm	0	verb	_	_
-2	in	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-3	dem	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-4	Jahr	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-5	eine	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-6	Hand	_	_	_	order=LK[V]MF[SO]|props=pp-idm	1	nsubj	_	_
-7	die	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-8	andere	_	_	_	order=LK[V]MF[SO]|props=pp-idm	1	obj	_	_
-9	?	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-
-1	Weil	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-2	in	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-3	dem	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-4	Jahr	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-5	eine	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-6	Hand	_	_	_	order=MF[SO]VC[V]|props=pp-idm	9	nsubj	_	_
-7	die	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-8	andere	_	_	_	order=MF[SO]VC[V]|props=pp-idm	9	obj	_	_
-9	wäscht	_	_	_	order=MF[SO]VC[V]|props=pp-idm	0	verb	_	_
-10	.	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-
-1	Frühe	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-2	Zucht	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	3	nsubj	_	_
-3	bringt	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	0	verb	_	_
-4	in	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-5	dem	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-6	Jahr	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-7	gute	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-8	Frucht	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	3	obj	_	_
-9	.	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-
-1	Gute	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-2	Frucht	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	3	obj	_	_
-3	bringt	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	0	verb	_	_
-4	in	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-5	dem	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-6	Jahr	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-7	frühe	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-8	Zucht	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	3	nsubj	_	_
-9	.	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-
-1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-2	bringt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	0	verb	_	_
-3	in	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-4	dem	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-5	Jahr	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-6	frühe	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-7	Zucht	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	2	nsubj	_	_
-8	gute	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-9	Frucht	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	2	obj	_	_
-10	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-
-1	Bringt	_	_	_	order=LK[V]MF[SO]|props=pp-idm	0	verb	_	_
-2	in	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-3	dem	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-4	Jahr	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-5	frühe	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-6	Zucht	_	_	_	order=LK[V]MF[SO]|props=pp-idm	1	nsubj	_	_
-7	gute	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-8	Frucht	_	_	_	order=LK[V]MF[SO]|props=pp-idm	1	obj	_	_
-9	?	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-
-1	Weil	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-2	in	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-3	dem	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-4	Jahr	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-5	frühe	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-6	Zucht	_	_	_	order=MF[SO]VC[V]|props=pp-idm	9	nsubj	_	_
-7	gute	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-8	Frucht	_	_	_	order=MF[SO]VC[V]|props=pp-idm	9	obj	_	_
-9	bringt	_	_	_	order=MF[SO]VC[V]|props=pp-idm	0	verb	_	_
-10	.	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-
-1	Geld	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	2	nsubj	_	_
-2	regiert	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	0	verb	_	_
-3	in	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-4	dem	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-5	Jahr	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-6	die	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-7	Welt	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	2	obj	_	_
-8	.	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-
-1	Die	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-2	Welt	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	3	obj	_	_
-3	regiert	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	0	verb	_	_
-4	in	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-5	dem	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-6	Jahr	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-7	Geld	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	3	nsubj	_	_
-8	.	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-
-1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-2	regiert	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	0	verb	_	_
-3	in	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-4	dem	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-5	Jahr	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-6	Geld	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	2	nsubj	_	_
-7	die	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-8	Welt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	2	obj	_	_
-9	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-
-1	Regiert	_	_	_	order=LK[V]MF[SO]|props=pp-idm	0	verb	_	_
-2	in	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-3	dem	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-4	Jahr	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-5	Geld	_	_	_	order=LK[V]MF[SO]|props=pp-idm	1	nsubj	_	_
-6	die	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-7	Welt	_	_	_	order=LK[V]MF[SO]|props=pp-idm	1	obj	_	_
-8	?	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-
-1	Weil	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-2	in	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-3	dem	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-4	Jahr	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-5	Geld	_	_	_	order=MF[SO]VC[V]|props=pp-idm	8	nsubj	_	_
-6	die	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-7	Welt	_	_	_	order=MF[SO]VC[V]|props=pp-idm	8	obj	_	_
-8	regiert	_	_	_	order=MF[SO]VC[V]|props=pp-idm	0	verb	_	_
-9	.	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-
-1	Das	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-2	Schicksal	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	3	nsubj	_	_
-3	bestimmt	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	0	verb	_	_
-4	in	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-5	dem	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-6	Jahr	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-7	dein	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-8	Leben	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	3	obj	_	_
-9	.	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-
-1	Dein	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-2	Leben	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	3	obj	_	_
-3	bestimmt	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	0	verb	_	_
-4	in	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-5	dem	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-6	Jahr	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-7	das	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-8	Schicksal	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	3	nsubj	_	_
-9	.	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-
-1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-2	bestimmt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	0	verb	_	_
-3	in	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-4	dem	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-5	Jahr	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-6	das	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-7	Schicksal	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	2	nsubj	_	_
-8	dein	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-9	Leben	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	2	obj	_	_
-10	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-
-1	Bestimmt	_	_	_	order=LK[V]MF[SO]|props=pp-idm	0	verb	_	_
-2	in	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-3	dem	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-4	Jahr	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-5	das	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-6	Schicksal	_	_	_	order=LK[V]MF[SO]|props=pp-idm	1	nsubj	_	_
-7	dein	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-8	Leben	_	_	_	order=LK[V]MF[SO]|props=pp-idm	1	obj	_	_
-9	?	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-
-1	Weil	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-2	in	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-3	dem	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-4	Jahr	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-5	das	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-6	Schicksal	_	_	_	order=MF[SO]VC[V]|props=pp-idm	9	nsubj	_	_
-7	dein	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-8	Leben	_	_	_	order=MF[SO]VC[V]|props=pp-idm	9	obj	_	_
-9	bestimmt	_	_	_	order=MF[SO]VC[V]|props=pp-idm	0	verb	_	_
-10	.	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-
-1	Jugend	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	2	nsubj	_	_
-2	kennt	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	0	verb	_	_
-3	in	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-4	dem	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-5	Jahr	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-6	keine	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-7	Tugend	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	2	obj	_	_
-8	.	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-idm	_	_	_	_
-
-1	Keine	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-2	Tugend	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	3	obj	_	_
-3	kennt	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	0	verb	_	_
-4	in	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-5	dem	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-6	Jahr	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-7	Jugend	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	3	nsubj	_	_
-8	.	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-idm	_	_	_	_
-
-1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-2	kennt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	0	verb	_	_
-3	in	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-4	dem	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-5	Jahr	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-6	Jugend	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	2	nsubj	_	_
-7	keine	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-8	Tugend	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	2	obj	_	_
-9	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-idm	_	_	_	_
-
-1	Kennt	_	_	_	order=LK[V]MF[SO]|props=pp-idm	0	verb	_	_
-2	in	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-3	dem	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-4	Jahr	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-5	Jugend	_	_	_	order=LK[V]MF[SO]|props=pp-idm	1	nsubj	_	_
-6	keine	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-7	Tugend	_	_	_	order=LK[V]MF[SO]|props=pp-idm	1	obj	_	_
-8	?	_	_	_	order=LK[V]MF[SO]|props=pp-idm	_	_	_	_
-
-1	Weil	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-2	in	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-3	dem	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-4	Jahr	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-5	Jugend	_	_	_	order=MF[SO]VC[V]|props=pp-idm	8	nsubj	_	_
-6	keine	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
-7	Tugend	_	_	_	order=MF[SO]VC[V]|props=pp-idm	8	obj	_	_
-8	kennt	_	_	_	order=MF[SO]VC[V]|props=pp-idm	0	verb	_	_
-9	.	_	_	_	order=MF[SO]VC[V]|props=pp-idm	_	_	_	_
+1	Jedes	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	_	_	_	_
+2	Böhnchen	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	3	nsubj	_	_
+3	gibt	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	0	verb	_	_
+4	ein	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	_	_	_	_
+5	Tönchen	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	3	obj	_	_
+6	.	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	_	_	_	_
+
+1	Ein	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	_	_	_	_
+2	Tönchen	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	3	obj	_	_
+3	gibt	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	0	verb	_	_
+4	jedes	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	_	_	_	_
+5	Böhnchen	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	3	nsubj	_	_
+6	.	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	_	_	_	_
+
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+2	gibt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	0	verb	_	_
+3	jedes	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+4	Böhnchen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	2	nsubj	_	_
+5	ein	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+6	Tönchen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	2	obj	_	_
+7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+
+1	Gibt	_	_	_	order=LK[V]MF[SO]|props=base-prov	0	verb	_	_
+2	jedes	_	_	_	order=LK[V]MF[SO]|props=base-prov	_	_	_	_
+3	Böhnchen	_	_	_	order=LK[V]MF[SO]|props=base-prov	1	nsubj	_	_
+4	ein	_	_	_	order=LK[V]MF[SO]|props=base-prov	_	_	_	_
+5	Tönchen	_	_	_	order=LK[V]MF[SO]|props=base-prov	1	obj	_	_
+6	?	_	_	_	order=LK[V]MF[SO]|props=base-prov	_	_	_	_
+
+1	Weil	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+2	jedes	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+3	Böhnchen	_	_	_	order=MF[SO]VC[V]|props=base-prov	6	nsubj	_	_
+4	ein	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+5	Tönchen	_	_	_	order=MF[SO]VC[V]|props=base-prov	6	obj	_	_
+6	gibt	_	_	_	order=MF[SO]VC[V]|props=base-prov	0	verb	_	_
+7	.	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+
+1	Alles	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	2	nsubj	_	_
+2	hat	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	0	verb	_	_
+3	seine	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	_	_	_	_
+4	Zeit	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	2	obj	_	_
+5	.	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	_	_	_	_
+
+1	Seine	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	_	_	_	_
+2	Zeit	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	3	obj	_	_
+3	hat	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	0	verb	_	_
+4	alles	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	3	nsubj	_	_
+5	.	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	_	_	_	_
+
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+2	hat	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	0	verb	_	_
+3	alles	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	2	nsubj	_	_
+4	seine	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+5	Zeit	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	2	obj	_	_
+6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+
+1	Hat	_	_	_	order=LK[V]MF[SO]|props=base-prov	0	verb	_	_
+2	alles	_	_	_	order=LK[V]MF[SO]|props=base-prov	1	nsubj	_	_
+3	seine	_	_	_	order=LK[V]MF[SO]|props=base-prov	_	_	_	_
+4	Zeit	_	_	_	order=LK[V]MF[SO]|props=base-prov	1	obj	_	_
+5	?	_	_	_	order=LK[V]MF[SO]|props=base-prov	_	_	_	_
+
+1	Weil	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+2	alles	_	_	_	order=MF[SO]VC[V]|props=base-prov	5	nsubj	_	_
+3	seine	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+4	Zeit	_	_	_	order=MF[SO]VC[V]|props=base-prov	5	obj	_	_
+5	hat	_	_	_	order=MF[SO]VC[V]|props=base-prov	0	verb	_	_
+6	.	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+
+1	Arbeit	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	2	nsubj	_	_
+2	bringt	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	0	verb	_	_
+3	Brot	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	2	obj	_	_
+4	.	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	_	_	_	_
+
+1	Brot	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	2	obj	_	_
+2	bringt	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	0	verb	_	_
+3	Arbeit	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	2	nsubj	_	_
+4	.	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	_	_	_	_
+
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+2	bringt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	0	verb	_	_
+3	Arbeit	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	2	nsubj	_	_
+4	Brot	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	2	obj	_	_
+5	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+
+1	Bringt	_	_	_	order=LK[V]MF[SO]|props=base-prov	0	verb	_	_
+2	Arbeit	_	_	_	order=LK[V]MF[SO]|props=base-prov	1	nsubj	_	_
+3	Brot	_	_	_	order=LK[V]MF[SO]|props=base-prov	1	obj	_	_
+4	?	_	_	_	order=LK[V]MF[SO]|props=base-prov	_	_	_	_
+
+1	Weil	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+2	Arbeit	_	_	_	order=MF[SO]VC[V]|props=base-prov	4	nsubj	_	_
+3	Brot	_	_	_	order=MF[SO]VC[V]|props=base-prov	4	obj	_	_
+4	bringt	_	_	_	order=MF[SO]VC[V]|props=base-prov	0	verb	_	_
+5	.	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+
+1	Eine	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	_	_	_	_
+2	Hand	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	3	nsubj	_	_
+3	wäscht	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	0	verb	_	_
+4	die	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	_	_	_	_
+5	andere	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	3	obj	_	_
+6	.	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	_	_	_	_
+
+1	Die	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	_	_	_	_
+2	andere	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	3	obj	_	_
+3	wäscht	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	0	verb	_	_
+4	eine	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	_	_	_	_
+5	Hand	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	3	nsubj	_	_
+6	.	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	_	_	_	_
+
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+2	wäscht	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	0	verb	_	_
+3	eine	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+4	Hand	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	2	nsubj	_	_
+5	die	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+6	andere	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	2	obj	_	_
+7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+
+1	Wäscht	_	_	_	order=LK[V]MF[SO]|props=base-prov	0	verb	_	_
+2	eine	_	_	_	order=LK[V]MF[SO]|props=base-prov	_	_	_	_
+3	Hand	_	_	_	order=LK[V]MF[SO]|props=base-prov	1	nsubj	_	_
+4	die	_	_	_	order=LK[V]MF[SO]|props=base-prov	_	_	_	_
+5	andere	_	_	_	order=LK[V]MF[SO]|props=base-prov	1	obj	_	_
+6	?	_	_	_	order=LK[V]MF[SO]|props=base-prov	_	_	_	_
+
+1	Weil	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+2	eine	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+3	Hand	_	_	_	order=MF[SO]VC[V]|props=base-prov	6	nsubj	_	_
+4	die	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+5	andere	_	_	_	order=MF[SO]VC[V]|props=base-prov	6	obj	_	_
+6	wäscht	_	_	_	order=MF[SO]VC[V]|props=base-prov	0	verb	_	_
+7	.	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+
+1	Frühe	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	_	_	_	_
+2	Zucht	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	3	nsubj	_	_
+3	bringt	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	0	verb	_	_
+4	gute	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	_	_	_	_
+5	Frucht	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	3	obj	_	_
+6	.	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	_	_	_	_
+
+1	Gute	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	_	_	_	_
+2	Frucht	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	3	obj	_	_
+3	bringt	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	0	verb	_	_
+4	frühe	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	_	_	_	_
+5	Zucht	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	3	nsubj	_	_
+6	.	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	_	_	_	_
+
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+2	bringt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	0	verb	_	_
+3	frühe	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+4	Zucht	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	2	nsubj	_	_
+5	gute	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+6	Frucht	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	2	obj	_	_
+7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+
+1	Bringt	_	_	_	order=LK[V]MF[SO]|props=base-prov	0	verb	_	_
+2	frühe	_	_	_	order=LK[V]MF[SO]|props=base-prov	_	_	_	_
+3	Zucht	_	_	_	order=LK[V]MF[SO]|props=base-prov	1	nsubj	_	_
+4	gute	_	_	_	order=LK[V]MF[SO]|props=base-prov	_	_	_	_
+5	Frucht	_	_	_	order=LK[V]MF[SO]|props=base-prov	1	obj	_	_
+6	?	_	_	_	order=LK[V]MF[SO]|props=base-prov	_	_	_	_
+
+1	Weil	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+2	frühe	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+3	Zucht	_	_	_	order=MF[SO]VC[V]|props=base-prov	6	nsubj	_	_
+4	gute	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+5	Frucht	_	_	_	order=MF[SO]VC[V]|props=base-prov	6	obj	_	_
+6	bringt	_	_	_	order=MF[SO]VC[V]|props=base-prov	0	verb	_	_
+7	.	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+
+1	Geld	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	2	nsubj	_	_
+2	regiert	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	0	verb	_	_
+3	die	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	_	_	_	_
+4	Welt	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	2	obj	_	_
+5	.	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	_	_	_	_
+
+1	Die	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	_	_	_	_
+2	Welt	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	3	obj	_	_
+3	regiert	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	0	verb	_	_
+4	Geld	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	3	nsubj	_	_
+5	.	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	_	_	_	_
+
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+2	regiert	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	0	verb	_	_
+3	Geld	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	2	nsubj	_	_
+4	die	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+5	Welt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	2	obj	_	_
+6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+
+1	Regiert	_	_	_	order=LK[V]MF[SO]|props=base-prov	0	verb	_	_
+2	Geld	_	_	_	order=LK[V]MF[SO]|props=base-prov	1	nsubj	_	_
+3	die	_	_	_	order=LK[V]MF[SO]|props=base-prov	_	_	_	_
+4	Welt	_	_	_	order=LK[V]MF[SO]|props=base-prov	1	obj	_	_
+5	?	_	_	_	order=LK[V]MF[SO]|props=base-prov	_	_	_	_
+
+1	Weil	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+2	Geld	_	_	_	order=MF[SO]VC[V]|props=base-prov	5	nsubj	_	_
+3	die	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+4	Welt	_	_	_	order=MF[SO]VC[V]|props=base-prov	5	obj	_	_
+5	regiert	_	_	_	order=MF[SO]VC[V]|props=base-prov	0	verb	_	_
+6	.	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+
+1	Das	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	_	_	_	_
+2	Schicksal	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	3	nsubj	_	_
+3	bestimmt	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	0	verb	_	_
+4	dein	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	_	_	_	_
+5	Leben	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	3	obj	_	_
+6	.	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	_	_	_	_
+
+1	Dein	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	_	_	_	_
+2	Leben	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	3	obj	_	_
+3	bestimmt	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	0	verb	_	_
+4	das	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	_	_	_	_
+5	Schicksal	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	3	nsubj	_	_
+6	.	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	_	_	_	_
+
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+2	bestimmt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	0	verb	_	_
+3	das	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+4	Schicksal	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	2	nsubj	_	_
+5	dein	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+6	Leben	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	2	obj	_	_
+7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+
+1	Bestimmt	_	_	_	order=LK[V]MF[SO]|props=base-prov	0	verb	_	_
+2	das	_	_	_	order=LK[V]MF[SO]|props=base-prov	_	_	_	_
+3	Schicksal	_	_	_	order=LK[V]MF[SO]|props=base-prov	1	nsubj	_	_
+4	dein	_	_	_	order=LK[V]MF[SO]|props=base-prov	_	_	_	_
+5	Leben	_	_	_	order=LK[V]MF[SO]|props=base-prov	1	obj	_	_
+6	?	_	_	_	order=LK[V]MF[SO]|props=base-prov	_	_	_	_
+
+1	Weil	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+2	das	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+3	Schicksal	_	_	_	order=MF[SO]VC[V]|props=base-prov	6	nsubj	_	_
+4	dein	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+5	Leben	_	_	_	order=MF[SO]VC[V]|props=base-prov	6	obj	_	_
+6	bestimmt	_	_	_	order=MF[SO]VC[V]|props=base-prov	0	verb	_	_
+7	.	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+
+1	Jugend	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	2	nsubj	_	_
+2	kennt	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	0	verb	_	_
+3	keine	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	_	_	_	_
+4	Tugend	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	2	obj	_	_
+5	.	_	_	_	order=VF[S]LK[V]MF[O]|props=base-prov	_	_	_	_
+
+1	Keine	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	_	_	_	_
+2	Tugend	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	3	obj	_	_
+3	kennt	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	0	verb	_	_
+4	Jugend	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	3	nsubj	_	_
+5	.	_	_	_	order=VF[O]LK[V]MF[S]|props=base-prov	_	_	_	_
+
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+2	kennt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	0	verb	_	_
+3	Jugend	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	2	nsubj	_	_
+4	keine	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+5	Tugend	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	2	obj	_	_
+6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-prov	_	_	_	_
+
+1	Kennt	_	_	_	order=LK[V]MF[SO]|props=base-prov	0	verb	_	_
+2	Jugend	_	_	_	order=LK[V]MF[SO]|props=base-prov	1	nsubj	_	_
+3	keine	_	_	_	order=LK[V]MF[SO]|props=base-prov	_	_	_	_
+4	Tugend	_	_	_	order=LK[V]MF[SO]|props=base-prov	1	obj	_	_
+5	?	_	_	_	order=LK[V]MF[SO]|props=base-prov	_	_	_	_
+
+1	Weil	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+2	Jugend	_	_	_	order=MF[SO]VC[V]|props=base-prov	5	nsubj	_	_
+3	keine	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+4	Tugend	_	_	_	order=MF[SO]VC[V]|props=base-prov	5	obj	_	_
+5	kennt	_	_	_	order=MF[SO]VC[V]|props=base-prov	0	verb	_	_
+6	.	_	_	_	order=MF[SO]VC[V]|props=base-prov	_	_	_	_
+
+1	Jedes	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+2	Böhnchen	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	6	nsubj	_	_
+3	wird	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+4	ein	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+5	Tönchen	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	6	obj	_	_
+6	geben	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	0	verb	_	_
+7	.	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+
+1	Ein	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	_	_	_	_
+2	Tönchen	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	6	obj	_	_
+3	wird	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	_	_	_	_
+4	jedes	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	_	_	_	_
+5	Böhnchen	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	6	nsubj	_	_
+6	geben	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	0	verb	_	_
+7	.	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	_	_	_	_
+
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+2	wird	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+3	jedes	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+4	Böhnchen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	7	nsubj	_	_
+5	ein	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+6	Tönchen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	7	obj	_	_
+7	geben	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	0	verb	_	_
+8	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+
+1	Wird	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+2	jedes	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+3	Böhnchen	_	_	_	order=LK[V]MF[SO]|props=aux-prov	6	nsubj	_	_
+4	ein	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+5	Tönchen	_	_	_	order=LK[V]MF[SO]|props=aux-prov	6	obj	_	_
+6	geben	_	_	_	order=LK[V]MF[SO]|props=aux-prov	0	verb	_	_
+7	?	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+
+1	Weil	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+2	jedes	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+3	Böhnchen	_	_	_	order=MF[SO]VC[V]|props=aux-prov	6	nsubj	_	_
+4	ein	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+5	Tönchen	_	_	_	order=MF[SO]VC[V]|props=aux-prov	6	obj	_	_
+6	geben	_	_	_	order=MF[SO]VC[V]|props=aux-prov	0	verb	_	_
+7	wird	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+8	.	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+
+1	Alles	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	5	nsubj	_	_
+2	wird	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+3	seine	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+4	Zeit	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	5	obj	_	_
+5	haben	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	0	verb	_	_
+6	.	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+
+1	Seine	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	_	_	_	_
+2	Zeit	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	5	obj	_	_
+3	wird	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	_	_	_	_
+4	alles	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	5	nsubj	_	_
+5	haben	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	0	verb	_	_
+6	.	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	_	_	_	_
+
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+2	wird	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+3	alles	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	6	nsubj	_	_
+4	seine	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+5	Zeit	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	6	obj	_	_
+6	haben	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	0	verb	_	_
+7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+
+1	Wird	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+2	alles	_	_	_	order=LK[V]MF[SO]|props=aux-prov	5	nsubj	_	_
+3	seine	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+4	Zeit	_	_	_	order=LK[V]MF[SO]|props=aux-prov	5	obj	_	_
+5	haben	_	_	_	order=LK[V]MF[SO]|props=aux-prov	0	verb	_	_
+6	?	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+
+1	Weil	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+2	alles	_	_	_	order=MF[SO]VC[V]|props=aux-prov	5	nsubj	_	_
+3	seine	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+4	Zeit	_	_	_	order=MF[SO]VC[V]|props=aux-prov	5	obj	_	_
+5	haben	_	_	_	order=MF[SO]VC[V]|props=aux-prov	0	verb	_	_
+6	wird	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+7	.	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+
+1	Arbeit	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	4	nsubj	_	_
+2	wird	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+3	Brot	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	4	obj	_	_
+4	bringen	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	0	verb	_	_
+5	.	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+
+1	Brot	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	4	obj	_	_
+2	wird	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	_	_	_	_
+3	Arbeit	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	4	nsubj	_	_
+4	bringen	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	0	verb	_	_
+5	.	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	_	_	_	_
+
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+2	wird	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+3	Arbeit	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	5	nsubj	_	_
+4	Brot	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	5	obj	_	_
+5	bringen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	0	verb	_	_
+6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+
+1	Wird	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+2	Arbeit	_	_	_	order=LK[V]MF[SO]|props=aux-prov	4	nsubj	_	_
+3	Brot	_	_	_	order=LK[V]MF[SO]|props=aux-prov	4	obj	_	_
+4	bringen	_	_	_	order=LK[V]MF[SO]|props=aux-prov	0	verb	_	_
+5	?	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+
+1	Weil	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+2	Arbeit	_	_	_	order=MF[SO]VC[V]|props=aux-prov	4	nsubj	_	_
+3	Brot	_	_	_	order=MF[SO]VC[V]|props=aux-prov	4	obj	_	_
+4	bringen	_	_	_	order=MF[SO]VC[V]|props=aux-prov	0	verb	_	_
+5	wird	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+6	.	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+
+1	Eine	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+2	Hand	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	6	nsubj	_	_
+3	wird	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+4	die	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+5	andere	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	6	obj	_	_
+6	waschen	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	0	verb	_	_
+7	.	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+
+1	Die	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	_	_	_	_
+2	andere	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	6	obj	_	_
+3	wird	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	_	_	_	_
+4	eine	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	_	_	_	_
+5	Hand	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	6	nsubj	_	_
+6	waschen	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	0	verb	_	_
+7	.	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	_	_	_	_
+
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+2	wird	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+3	eine	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+4	Hand	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	7	nsubj	_	_
+5	die	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+6	andere	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	7	obj	_	_
+7	waschen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	0	verb	_	_
+8	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+
+1	Wird	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+2	eine	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+3	Hand	_	_	_	order=LK[V]MF[SO]|props=aux-prov	6	nsubj	_	_
+4	die	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+5	andere	_	_	_	order=LK[V]MF[SO]|props=aux-prov	6	obj	_	_
+6	waschen	_	_	_	order=LK[V]MF[SO]|props=aux-prov	0	verb	_	_
+7	?	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+
+1	Weil	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+2	eine	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+3	Hand	_	_	_	order=MF[SO]VC[V]|props=aux-prov	6	nsubj	_	_
+4	die	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+5	andere	_	_	_	order=MF[SO]VC[V]|props=aux-prov	6	obj	_	_
+6	waschen	_	_	_	order=MF[SO]VC[V]|props=aux-prov	0	verb	_	_
+7	wird	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+8	.	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+
+1	Frühe	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+2	Zucht	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	6	nsubj	_	_
+3	wird	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+4	gute	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+5	Frucht	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	6	obj	_	_
+6	bringen	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	0	verb	_	_
+7	.	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+
+1	Gute	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	_	_	_	_
+2	Frucht	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	6	obj	_	_
+3	wird	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	_	_	_	_
+4	frühe	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	_	_	_	_
+5	Zucht	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	6	nsubj	_	_
+6	bringen	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	0	verb	_	_
+7	.	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	_	_	_	_
+
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+2	wird	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+3	frühe	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+4	Zucht	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	7	nsubj	_	_
+5	gute	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+6	Frucht	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	7	obj	_	_
+7	bringen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	0	verb	_	_
+8	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+
+1	Wird	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+2	frühe	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+3	Zucht	_	_	_	order=LK[V]MF[SO]|props=aux-prov	6	nsubj	_	_
+4	gute	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+5	Frucht	_	_	_	order=LK[V]MF[SO]|props=aux-prov	6	obj	_	_
+6	bringen	_	_	_	order=LK[V]MF[SO]|props=aux-prov	0	verb	_	_
+7	?	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+
+1	Weil	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+2	frühe	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+3	Zucht	_	_	_	order=MF[SO]VC[V]|props=aux-prov	6	nsubj	_	_
+4	gute	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+5	Frucht	_	_	_	order=MF[SO]VC[V]|props=aux-prov	6	obj	_	_
+6	bringen	_	_	_	order=MF[SO]VC[V]|props=aux-prov	0	verb	_	_
+7	wird	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+8	.	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+
+1	Geld	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	5	nsubj	_	_
+2	wird	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+3	die	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+4	Welt	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	5	obj	_	_
+5	regieren	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	0	verb	_	_
+6	.	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+
+1	Die	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	_	_	_	_
+2	Welt	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	5	obj	_	_
+3	wird	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	_	_	_	_
+4	Geld	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	5	nsubj	_	_
+5	regieren	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	0	verb	_	_
+6	.	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	_	_	_	_
+
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+2	wird	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+3	Geld	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	6	nsubj	_	_
+4	die	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+5	Welt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	6	obj	_	_
+6	regieren	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	0	verb	_	_
+7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+
+1	Wird	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+2	Geld	_	_	_	order=LK[V]MF[SO]|props=aux-prov	5	nsubj	_	_
+3	die	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+4	Welt	_	_	_	order=LK[V]MF[SO]|props=aux-prov	5	obj	_	_
+5	regieren	_	_	_	order=LK[V]MF[SO]|props=aux-prov	0	verb	_	_
+6	?	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+
+1	Weil	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+2	Geld	_	_	_	order=MF[SO]VC[V]|props=aux-prov	5	nsubj	_	_
+3	die	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+4	Welt	_	_	_	order=MF[SO]VC[V]|props=aux-prov	5	obj	_	_
+5	regieren	_	_	_	order=MF[SO]VC[V]|props=aux-prov	0	verb	_	_
+6	wird	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+7	.	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+
+1	Das	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+2	Schicksal	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	6	nsubj	_	_
+3	wird	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+4	dein	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+5	Leben	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	6	obj	_	_
+6	bestimmen	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	0	verb	_	_
+7	.	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+
+1	Dein	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	_	_	_	_
+2	Leben	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	6	obj	_	_
+3	wird	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	_	_	_	_
+4	das	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	_	_	_	_
+5	Schicksal	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	6	nsubj	_	_
+6	bestimmen	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	0	verb	_	_
+7	.	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	_	_	_	_
+
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+2	wird	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+3	das	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+4	Schicksal	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	7	nsubj	_	_
+5	dein	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+6	Leben	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	7	obj	_	_
+7	bestimmen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	0	verb	_	_
+8	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+
+1	Wird	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+2	das	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+3	Schicksal	_	_	_	order=LK[V]MF[SO]|props=aux-prov	6	nsubj	_	_
+4	dein	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+5	Leben	_	_	_	order=LK[V]MF[SO]|props=aux-prov	6	obj	_	_
+6	bestimmen	_	_	_	order=LK[V]MF[SO]|props=aux-prov	0	verb	_	_
+7	?	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+
+1	Weil	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+2	das	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+3	Schicksal	_	_	_	order=MF[SO]VC[V]|props=aux-prov	6	nsubj	_	_
+4	dein	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+5	Leben	_	_	_	order=MF[SO]VC[V]|props=aux-prov	6	obj	_	_
+6	bestimmen	_	_	_	order=MF[SO]VC[V]|props=aux-prov	0	verb	_	_
+7	wird	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+8	.	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+
+1	Jugend	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	5	nsubj	_	_
+2	wird	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+3	keine	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+4	Tugend	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	5	obj	_	_
+5	kennen	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	0	verb	_	_
+6	.	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-prov	_	_	_	_
+
+1	Keine	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	_	_	_	_
+2	Tugend	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	5	obj	_	_
+3	wird	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	_	_	_	_
+4	Jugend	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	5	nsubj	_	_
+5	kennen	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	0	verb	_	_
+6	.	_	_	_	order=VF[O]LK[V]MF[S]|props=aux-prov	_	_	_	_
+
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+2	wird	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+3	Jugend	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	6	nsubj	_	_
+4	keine	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+5	Tugend	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	6	obj	_	_
+6	kennen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	0	verb	_	_
+7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-prov	_	_	_	_
+
+1	Wird	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+2	Jugend	_	_	_	order=LK[V]MF[SO]|props=aux-prov	5	nsubj	_	_
+3	keine	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+4	Tugend	_	_	_	order=LK[V]MF[SO]|props=aux-prov	5	obj	_	_
+5	kennen	_	_	_	order=LK[V]MF[SO]|props=aux-prov	0	verb	_	_
+6	?	_	_	_	order=LK[V]MF[SO]|props=aux-prov	_	_	_	_
+
+1	Weil	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+2	Jugend	_	_	_	order=MF[SO]VC[V]|props=aux-prov	5	nsubj	_	_
+3	keine	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+4	Tugend	_	_	_	order=MF[SO]VC[V]|props=aux-prov	5	obj	_	_
+5	kennen	_	_	_	order=MF[SO]VC[V]|props=aux-prov	0	verb	_	_
+6	wird	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+7	.	_	_	_	order=MF[SO]VC[V]|props=aux-prov	_	_	_	_
+
+1	Jedes	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	_	_	_	_
+2	Böhnchen	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	3	nsubj	_	_
+3	gibt	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	0	verb	_	_
+4	kein	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	_	_	_	_
+5	Tönchen	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	3	obj	_	_
+6	.	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	_	_	_	_
+
+1	Kein	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	_	_	_	_
+2	Tönchen	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	3	obj	_	_
+3	gibt	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	0	verb	_	_
+4	jedes	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	_	_	_	_
+5	Böhnchen	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	3	nsubj	_	_
+6	.	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	_	_	_	_
+
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+2	gibt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	0	verb	_	_
+3	jedes	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+4	Böhnchen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	2	nsubj	_	_
+5	kein	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+6	Tönchen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	2	obj	_	_
+7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+
+1	Gibt	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	0	verb	_	_
+2	jedes	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+3	Böhnchen	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	1	nsubj	_	_
+4	kein	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+5	Tönchen	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	1	obj	_	_
+6	?	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+
+1	Weil	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+2	jedes	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+3	Böhnchen	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	6	nsubj	_	_
+4	kein	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+5	Tönchen	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	6	obj	_	_
+6	gibt	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	0	verb	_	_
+7	.	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+
+1	Alles	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	2	nsubj	_	_
+2	hat	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	0	verb	_	_
+3	keine	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	_	_	_	_
+4	Zeit	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	2	obj	_	_
+5	.	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	_	_	_	_
+
+1	Keine	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	_	_	_	_
+2	Zeit	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	3	obj	_	_
+3	hat	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	0	verb	_	_
+4	alles	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	3	nsubj	_	_
+5	.	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	_	_	_	_
+
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+2	hat	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	0	verb	_	_
+3	alles	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	2	nsubj	_	_
+4	keine	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+5	Zeit	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	2	obj	_	_
+6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+
+1	Hat	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	0	verb	_	_
+2	alles	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	1	nsubj	_	_
+3	keine	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+4	Zeit	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	1	obj	_	_
+5	?	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+
+1	Weil	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+2	alles	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	5	nsubj	_	_
+3	keine	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+4	Zeit	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	5	obj	_	_
+5	hat	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	0	verb	_	_
+6	.	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+
+1	Arbeit	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	2	nsubj	_	_
+2	bringt	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	0	verb	_	_
+3	kein	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	_	_	_	_
+4	Brot	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	2	obj	_	_
+5	.	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	_	_	_	_
+
+1	Kein	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	_	_	_	_
+2	Brot	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	3	obj	_	_
+3	bringt	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	0	verb	_	_
+4	Arbeit	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	3	nsubj	_	_
+5	.	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	_	_	_	_
+
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+2	bringt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	0	verb	_	_
+3	Arbeit	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	2	nsubj	_	_
+4	kein	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+5	Brot	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	2	obj	_	_
+6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+
+1	Bringt	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	0	verb	_	_
+2	Arbeit	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	1	nsubj	_	_
+3	kein	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+4	Brot	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	1	obj	_	_
+5	?	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+
+1	Weil	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+2	Arbeit	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	5	nsubj	_	_
+3	kein	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+4	Brot	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	5	obj	_	_
+5	bringt	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	0	verb	_	_
+6	.	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+
+1	Eine	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	_	_	_	_
+2	Hand	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	3	nsubj	_	_
+3	wäscht	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	0	verb	_	_
+4	keine	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	_	_	_	_
+5	andere	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	3	obj	_	_
+6	.	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	_	_	_	_
+
+1	Keine	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	_	_	_	_
+2	andere	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	3	obj	_	_
+3	wäscht	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	0	verb	_	_
+4	eine	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	_	_	_	_
+5	Hand	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	3	nsubj	_	_
+6	.	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	_	_	_	_
+
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+2	wäscht	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	0	verb	_	_
+3	eine	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+4	Hand	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	2	nsubj	_	_
+5	keine	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+6	andere	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	2	obj	_	_
+7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+
+1	Wäscht	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	0	verb	_	_
+2	eine	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+3	Hand	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	1	nsubj	_	_
+4	keine	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+5	andere	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	1	obj	_	_
+6	?	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+
+1	Weil	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+2	eine	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+3	Hand	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	6	nsubj	_	_
+4	keine	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+5	andere	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	6	obj	_	_
+6	wäscht	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	0	verb	_	_
+7	.	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+
+1	Frühe	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	_	_	_	_
+2	Zucht	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	3	nsubj	_	_
+3	bringt	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	0	verb	_	_
+4	keine	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	_	_	_	_
+5	gute	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	_	_	_	_
+6	Frucht	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	3	obj	_	_
+7	.	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	_	_	_	_
+
+1	Keine	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	_	_	_	_
+2	gute	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	_	_	_	_
+3	Frucht	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	4	obj	_	_
+4	bringt	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	0	verb	_	_
+5	frühe	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	_	_	_	_
+6	Zucht	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	4	nsubj	_	_
+7	.	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	_	_	_	_
+
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+2	bringt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	0	verb	_	_
+3	frühe	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+4	Zucht	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	2	nsubj	_	_
+5	keine	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+6	gute	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+7	Frucht	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	2	obj	_	_
+8	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+
+1	Bringt	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	0	verb	_	_
+2	frühe	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+3	Zucht	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	1	nsubj	_	_
+4	keine	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+5	gute	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+6	Frucht	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	1	obj	_	_
+7	?	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+
+1	Weil	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+2	frühe	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+3	Zucht	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	7	nsubj	_	_
+4	keine	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+5	gute	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+6	Frucht	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	7	obj	_	_
+7	bringt	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	0	verb	_	_
+8	.	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+
+1	Geld	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	2	nsubj	_	_
+2	regiert	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	0	verb	_	_
+3	keine	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	_	_	_	_
+4	Welt	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	2	obj	_	_
+5	.	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	_	_	_	_
+
+1	Keine	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	_	_	_	_
+2	Welt	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	3	obj	_	_
+3	regiert	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	0	verb	_	_
+4	Geld	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	3	nsubj	_	_
+5	.	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	_	_	_	_
+
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+2	regiert	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	0	verb	_	_
+3	Geld	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	2	nsubj	_	_
+4	keine	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+5	Welt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	2	obj	_	_
+6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+
+1	Regiert	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	0	verb	_	_
+2	Geld	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	1	nsubj	_	_
+3	keine	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+4	Welt	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	1	obj	_	_
+5	?	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+
+1	Weil	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+2	Geld	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	5	nsubj	_	_
+3	keine	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+4	Welt	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	5	obj	_	_
+5	regiert	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	0	verb	_	_
+6	.	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+
+1	Das	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	_	_	_	_
+2	Schicksal	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	3	nsubj	_	_
+3	bestimmt	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	0	verb	_	_
+4	kein	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	_	_	_	_
+5	Leben	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	3	obj	_	_
+6	.	_	_	_	order=VF[S]LK[V]MF[O]|props=oneg-prov	_	_	_	_
+
+1	Kein	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	_	_	_	_
+2	Leben	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	3	obj	_	_
+3	bestimmt	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	0	verb	_	_
+4	das	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	_	_	_	_
+5	Schicksal	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	3	nsubj	_	_
+6	.	_	_	_	order=VF[O]LK[V]MF[S]|props=oneg-prov	_	_	_	_
+
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+2	bestimmt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	0	verb	_	_
+3	das	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+4	Schicksal	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	2	nsubj	_	_
+5	kein	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+6	Leben	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	2	obj	_	_
+7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+
+1	Bestimmt	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	0	verb	_	_
+2	das	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+3	Schicksal	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	1	nsubj	_	_
+4	kein	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+5	Leben	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	1	obj	_	_
+6	?	_	_	_	order=LK[V]MF[SO]|props=oneg-prov	_	_	_	_
+
+1	Weil	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+2	das	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+3	Schicksal	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	6	nsubj	_	_
+4	kein	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+5	Leben	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	6	obj	_	_
+6	bestimmt	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	0	verb	_	_
+7	.	_	_	_	order=MF[SO]VC[V]|props=oneg-prov	_	_	_	_
+
+1	Jedes	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+2	Böhnchen	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	3	nsubj	_	_
+3	gibt	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	0	verb	_	_
+4	in	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+5	dem	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+6	Jahr	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+7	ein	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+8	Tönchen	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	3	obj	_	_
+9	.	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+
+1	Ein	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+2	Tönchen	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	3	obj	_	_
+3	gibt	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	0	verb	_	_
+4	in	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+5	dem	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+6	Jahr	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+7	jedes	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+8	Böhnchen	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	3	nsubj	_	_
+9	.	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+2	gibt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	0	verb	_	_
+3	in	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+4	dem	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+5	Jahr	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+6	jedes	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+7	Böhnchen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	2	nsubj	_	_
+8	ein	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+9	Tönchen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	2	obj	_	_
+10	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+
+1	Gibt	_	_	_	order=LK[V]MF[SO]|props=pp-prov	0	verb	_	_
+2	in	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+3	dem	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+4	Jahr	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+5	jedes	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+6	Böhnchen	_	_	_	order=LK[V]MF[SO]|props=pp-prov	1	nsubj	_	_
+7	ein	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+8	Tönchen	_	_	_	order=LK[V]MF[SO]|props=pp-prov	1	obj	_	_
+9	?	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+
+1	Weil	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+2	in	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+3	dem	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+4	Jahr	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+5	jedes	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+6	Böhnchen	_	_	_	order=MF[SO]VC[V]|props=pp-prov	9	nsubj	_	_
+7	ein	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+8	Tönchen	_	_	_	order=MF[SO]VC[V]|props=pp-prov	9	obj	_	_
+9	gibt	_	_	_	order=MF[SO]VC[V]|props=pp-prov	0	verb	_	_
+10	.	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+
+1	Alles	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	2	nsubj	_	_
+2	hat	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	0	verb	_	_
+3	in	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+4	dem	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+5	Jahr	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+6	seine	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+7	Zeit	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	2	obj	_	_
+8	.	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+
+1	Seine	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+2	Zeit	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	3	obj	_	_
+3	hat	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	0	verb	_	_
+4	in	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+5	dem	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+6	Jahr	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+7	alles	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	3	nsubj	_	_
+8	.	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+2	hat	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	0	verb	_	_
+3	in	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+4	dem	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+5	Jahr	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+6	alles	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	2	nsubj	_	_
+7	seine	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+8	Zeit	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	2	obj	_	_
+9	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+
+1	Hat	_	_	_	order=LK[V]MF[SO]|props=pp-prov	0	verb	_	_
+2	in	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+3	dem	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+4	Jahr	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+5	alles	_	_	_	order=LK[V]MF[SO]|props=pp-prov	1	nsubj	_	_
+6	seine	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+7	Zeit	_	_	_	order=LK[V]MF[SO]|props=pp-prov	1	obj	_	_
+8	?	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+
+1	Weil	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+2	in	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+3	dem	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+4	Jahr	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+5	alles	_	_	_	order=MF[SO]VC[V]|props=pp-prov	8	nsubj	_	_
+6	seine	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+7	Zeit	_	_	_	order=MF[SO]VC[V]|props=pp-prov	8	obj	_	_
+8	hat	_	_	_	order=MF[SO]VC[V]|props=pp-prov	0	verb	_	_
+9	.	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+
+1	Arbeit	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	2	nsubj	_	_
+2	bringt	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	0	verb	_	_
+3	in	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+4	dem	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+5	Jahr	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+6	Brot	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	2	obj	_	_
+7	.	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+
+1	Brot	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	2	obj	_	_
+2	bringt	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	0	verb	_	_
+3	in	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+4	dem	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+5	Jahr	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+6	Arbeit	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	2	nsubj	_	_
+7	.	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+2	bringt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	0	verb	_	_
+3	in	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+4	dem	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+5	Jahr	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+6	Arbeit	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	2	nsubj	_	_
+7	Brot	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	2	obj	_	_
+8	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+
+1	Bringt	_	_	_	order=LK[V]MF[SO]|props=pp-prov	0	verb	_	_
+2	in	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+3	dem	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+4	Jahr	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+5	Arbeit	_	_	_	order=LK[V]MF[SO]|props=pp-prov	1	nsubj	_	_
+6	Brot	_	_	_	order=LK[V]MF[SO]|props=pp-prov	1	obj	_	_
+7	?	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+
+1	Weil	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+2	in	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+3	dem	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+4	Jahr	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+5	Arbeit	_	_	_	order=MF[SO]VC[V]|props=pp-prov	7	nsubj	_	_
+6	Brot	_	_	_	order=MF[SO]VC[V]|props=pp-prov	7	obj	_	_
+7	bringt	_	_	_	order=MF[SO]VC[V]|props=pp-prov	0	verb	_	_
+8	.	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+
+1	Eine	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+2	Hand	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	3	nsubj	_	_
+3	wäscht	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	0	verb	_	_
+4	in	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+5	dem	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+6	Jahr	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+7	die	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+8	andere	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	3	obj	_	_
+9	.	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+
+1	Die	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+2	andere	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	3	obj	_	_
+3	wäscht	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	0	verb	_	_
+4	in	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+5	dem	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+6	Jahr	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+7	eine	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+8	Hand	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	3	nsubj	_	_
+9	.	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+2	wäscht	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	0	verb	_	_
+3	in	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+4	dem	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+5	Jahr	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+6	eine	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+7	Hand	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	2	nsubj	_	_
+8	die	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+9	andere	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	2	obj	_	_
+10	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+
+1	Wäscht	_	_	_	order=LK[V]MF[SO]|props=pp-prov	0	verb	_	_
+2	in	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+3	dem	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+4	Jahr	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+5	eine	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+6	Hand	_	_	_	order=LK[V]MF[SO]|props=pp-prov	1	nsubj	_	_
+7	die	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+8	andere	_	_	_	order=LK[V]MF[SO]|props=pp-prov	1	obj	_	_
+9	?	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+
+1	Weil	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+2	in	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+3	dem	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+4	Jahr	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+5	eine	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+6	Hand	_	_	_	order=MF[SO]VC[V]|props=pp-prov	9	nsubj	_	_
+7	die	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+8	andere	_	_	_	order=MF[SO]VC[V]|props=pp-prov	9	obj	_	_
+9	wäscht	_	_	_	order=MF[SO]VC[V]|props=pp-prov	0	verb	_	_
+10	.	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+
+1	Frühe	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+2	Zucht	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	3	nsubj	_	_
+3	bringt	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	0	verb	_	_
+4	in	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+5	dem	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+6	Jahr	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+7	gute	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+8	Frucht	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	3	obj	_	_
+9	.	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+
+1	Gute	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+2	Frucht	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	3	obj	_	_
+3	bringt	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	0	verb	_	_
+4	in	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+5	dem	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+6	Jahr	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+7	frühe	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+8	Zucht	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	3	nsubj	_	_
+9	.	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+2	bringt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	0	verb	_	_
+3	in	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+4	dem	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+5	Jahr	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+6	frühe	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+7	Zucht	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	2	nsubj	_	_
+8	gute	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+9	Frucht	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	2	obj	_	_
+10	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+
+1	Bringt	_	_	_	order=LK[V]MF[SO]|props=pp-prov	0	verb	_	_
+2	in	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+3	dem	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+4	Jahr	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+5	frühe	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+6	Zucht	_	_	_	order=LK[V]MF[SO]|props=pp-prov	1	nsubj	_	_
+7	gute	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+8	Frucht	_	_	_	order=LK[V]MF[SO]|props=pp-prov	1	obj	_	_
+9	?	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+
+1	Weil	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+2	in	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+3	dem	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+4	Jahr	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+5	frühe	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+6	Zucht	_	_	_	order=MF[SO]VC[V]|props=pp-prov	9	nsubj	_	_
+7	gute	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+8	Frucht	_	_	_	order=MF[SO]VC[V]|props=pp-prov	9	obj	_	_
+9	bringt	_	_	_	order=MF[SO]VC[V]|props=pp-prov	0	verb	_	_
+10	.	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+
+1	Geld	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	2	nsubj	_	_
+2	regiert	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	0	verb	_	_
+3	in	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+4	dem	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+5	Jahr	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+6	die	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+7	Welt	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	2	obj	_	_
+8	.	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+
+1	Die	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+2	Welt	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	3	obj	_	_
+3	regiert	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	0	verb	_	_
+4	in	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+5	dem	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+6	Jahr	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+7	Geld	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	3	nsubj	_	_
+8	.	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+2	regiert	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	0	verb	_	_
+3	in	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+4	dem	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+5	Jahr	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+6	Geld	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	2	nsubj	_	_
+7	die	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+8	Welt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	2	obj	_	_
+9	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+
+1	Regiert	_	_	_	order=LK[V]MF[SO]|props=pp-prov	0	verb	_	_
+2	in	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+3	dem	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+4	Jahr	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+5	Geld	_	_	_	order=LK[V]MF[SO]|props=pp-prov	1	nsubj	_	_
+6	die	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+7	Welt	_	_	_	order=LK[V]MF[SO]|props=pp-prov	1	obj	_	_
+8	?	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+
+1	Weil	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+2	in	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+3	dem	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+4	Jahr	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+5	Geld	_	_	_	order=MF[SO]VC[V]|props=pp-prov	8	nsubj	_	_
+6	die	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+7	Welt	_	_	_	order=MF[SO]VC[V]|props=pp-prov	8	obj	_	_
+8	regiert	_	_	_	order=MF[SO]VC[V]|props=pp-prov	0	verb	_	_
+9	.	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+
+1	Das	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+2	Schicksal	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	3	nsubj	_	_
+3	bestimmt	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	0	verb	_	_
+4	in	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+5	dem	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+6	Jahr	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+7	dein	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+8	Leben	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	3	obj	_	_
+9	.	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+
+1	Dein	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+2	Leben	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	3	obj	_	_
+3	bestimmt	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	0	verb	_	_
+4	in	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+5	dem	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+6	Jahr	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+7	das	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+8	Schicksal	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	3	nsubj	_	_
+9	.	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+2	bestimmt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	0	verb	_	_
+3	in	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+4	dem	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+5	Jahr	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+6	das	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+7	Schicksal	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	2	nsubj	_	_
+8	dein	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+9	Leben	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	2	obj	_	_
+10	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+
+1	Bestimmt	_	_	_	order=LK[V]MF[SO]|props=pp-prov	0	verb	_	_
+2	in	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+3	dem	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+4	Jahr	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+5	das	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+6	Schicksal	_	_	_	order=LK[V]MF[SO]|props=pp-prov	1	nsubj	_	_
+7	dein	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+8	Leben	_	_	_	order=LK[V]MF[SO]|props=pp-prov	1	obj	_	_
+9	?	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+
+1	Weil	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+2	in	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+3	dem	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+4	Jahr	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+5	das	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+6	Schicksal	_	_	_	order=MF[SO]VC[V]|props=pp-prov	9	nsubj	_	_
+7	dein	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+8	Leben	_	_	_	order=MF[SO]VC[V]|props=pp-prov	9	obj	_	_
+9	bestimmt	_	_	_	order=MF[SO]VC[V]|props=pp-prov	0	verb	_	_
+10	.	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+
+1	Jugend	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	2	nsubj	_	_
+2	kennt	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	0	verb	_	_
+3	in	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+4	dem	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+5	Jahr	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+6	keine	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+7	Tugend	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	2	obj	_	_
+8	.	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-prov	_	_	_	_
+
+1	Keine	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+2	Tugend	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	3	obj	_	_
+3	kennt	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	0	verb	_	_
+4	in	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+5	dem	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+6	Jahr	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+7	Jugend	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	3	nsubj	_	_
+8	.	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-prov	_	_	_	_
+
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+2	kennt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	0	verb	_	_
+3	in	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+4	dem	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+5	Jahr	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+6	Jugend	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	2	nsubj	_	_
+7	keine	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+8	Tugend	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	2	obj	_	_
+9	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-prov	_	_	_	_
+
+1	Kennt	_	_	_	order=LK[V]MF[SO]|props=pp-prov	0	verb	_	_
+2	in	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+3	dem	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+4	Jahr	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+5	Jugend	_	_	_	order=LK[V]MF[SO]|props=pp-prov	1	nsubj	_	_
+6	keine	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+7	Tugend	_	_	_	order=LK[V]MF[SO]|props=pp-prov	1	obj	_	_
+8	?	_	_	_	order=LK[V]MF[SO]|props=pp-prov	_	_	_	_
+
+1	Weil	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+2	in	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+3	dem	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+4	Jahr	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+5	Jugend	_	_	_	order=MF[SO]VC[V]|props=pp-prov	8	nsubj	_	_
+6	keine	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
+7	Tugend	_	_	_	order=MF[SO]VC[V]|props=pp-prov	8	obj	_	_
+8	kennt	_	_	_	order=MF[SO]VC[V]|props=pp-prov	0	verb	_	_
+9	.	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
 
