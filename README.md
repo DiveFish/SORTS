@@ -34,7 +34,7 @@ The SORTS test suite consists of monotransitive clauses (18,502 German; 14,670 D
 |Psych verb with experiencer object|`psy`|
 |Light verb construction|`vlight`|
 |Synonymous verb|`syn`|
-|Idiom|`idm`|
+|Proverb|`prov`|
 
 ## Sentence variations
 Sentences with particular properties can be extracted from the test suite using the full word order and property annotations as in this example:
