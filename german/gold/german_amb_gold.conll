@@ -1694,41 +1694,41 @@
 6	wird	_	_	_	order:MF[SO]VC[V]|props:aux-spron	_	_	_	_
 7	.	_	_	_	order:MF[SO]VC[V]|props:aux-spron	_	_	_	_
 
-1	Sie	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-spron	2	nsubj	_	_
-2	wird	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-spron	0	verb	_	_
+1	Sie	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-spron	5	nsubj	_	_
+2	wird	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-spron	_	_	_	_
 3	eine	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-spron	_	_	_	_
-4	Traumhochzeit	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-spron	_	_	_	_
-5	spielen	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-spron	2	obj	_	_
+4	Traumhochzeit	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-spron	5	obj	_	_
+5	spielen	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-spron	0	verb	_	_
 6	.	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-spron	_	_	_	_
 
 1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-spron	_	_	_	_
-2	Traumhochzeit	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-spron	_	_	_	_
-3	spielen	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-spron	4	obj	_	_
-4	wird	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-spron	0	verb	_	_
-5	sie	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-spron	4	nsubj	_	_
+2	Traumhochzeit	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-spron	5	obj	_	_
+3	wird	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-spron	_	_	_	_
+4	sie	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-spron	5	nsubj	_	_
+5	spielen	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-spron	0	verb	_	_
 6	.	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-spron	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-spron	_	_	_	_
-2	wird	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-spron	0	verb	_	_
-3	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-spron	2	nsubj	_	_
+2	wird	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-spron	_	_	_	_
+3	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-spron	6	nsubj	_	_
 4	eine	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-spron	_	_	_	_
-5	Traumhochzeit	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-spron	_	_	_	_
-6	spielen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-spron	2	obj	_	_
+5	Traumhochzeit	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-spron	6	obj	_	_
+6	spielen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-spron	0	verb	_	_
 7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-spron	_	_	_	_
 
-1	Wird	_	_	_	order:LK[V]MF[SO]|props:aux-spron	0	verb	_	_
-2	sie	_	_	_	order:LK[V]MF[SO]|props:aux-spron	1	nsubj	_	_
+1	Wird	_	_	_	order:LK[V]MF[SO]|props:aux-spron	_	_	_	_
+2	sie	_	_	_	order:LK[V]MF[SO]|props:aux-spron	5	nsubj	_	_
 3	eine	_	_	_	order:LK[V]MF[SO]|props:aux-spron	_	_	_	_
-4	Traumhochzeit	_	_	_	order:LK[V]MF[SO]|props:aux-spron	_	_	_	_
-5	spielen	_	_	_	order:LK[V]MF[SO]|props:aux-spron	1	obj	_	_
+4	Traumhochzeit	_	_	_	order:LK[V]MF[SO]|props:aux-spron	5	obj	_	_
+5	spielen	_	_	_	order:LK[V]MF[SO]|props:aux-spron	0	verb	_	_
 6	?	_	_	_	order:LK[V]MF[SO]|props:aux-spron	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:aux-spron	_	_	_	_
-2	sie	_	_	_	order:MF[SO]VC[V]|props:aux-spron	6	nsubj	_	_
+2	sie	_	_	_	order:MF[SO]VC[V]|props:aux-spron	5	nsubj	_	_
 3	eine	_	_	_	order:MF[SO]VC[V]|props:aux-spron	_	_	_	_
-4	Traumhochzeit	_	_	_	order:MF[SO]VC[V]|props:aux-spron	_	_	_	_
-5	spielen	_	_	_	order:MF[SO]VC[V]|props:aux-spron	6	obj	_	_
-6	wird	_	_	_	order:MF[SO]VC[V]|props:aux-spron	0	verb	_	_
+4	Traumhochzeit	_	_	_	order:MF[SO]VC[V]|props:aux-spron	5	obj	_	_
+5	spielen	_	_	_	order:MF[SO]VC[V]|props:aux-spron	0	verb	_	_
+6	wird	_	_	_	order:MF[SO]VC[V]|props:aux-spron	_	_	_	_
 7	.	_	_	_	order:MF[SO]VC[V]|props:aux-spron	_	_	_	_
 
 1	Sie	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-spron	5	nsubj	_	_
@@ -1906,36 +1906,36 @@
 5	werden	_	_	_	order:MF[SO]VC[V]|props:aux-spron	_	_	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:aux-spron	_	_	_	_
 
-1	Sie	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-spron	2	nsubj	_	_
-2	werden	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-spron	0	verb	_	_
-3	Romane	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-spron	_	_	_	_
-4	schreiben	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-spron	2	obj	_	_
+1	Sie	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-spron	4	nsubj	_	_
+2	werden	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-spron	_	_	_	_
+3	Romane	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-spron	4	obj	_	_
+4	schreiben	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-spron	0	verb	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-spron	_	_	_	_
 
-1	Romane	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-spron	_	_	_	_
-2	schreiben	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-spron	3	obj	_	_
-3	werden	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-spron	0	verb	_	_
-4	sie	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-spron	3	nsubj	_	_
+1	Romane	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-spron	4	obj	_	_
+2	werden	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-spron	_	_	_	_
+3	sie	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-spron	4	nsubj	_	_
+4	schreiben	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-spron	0	verb	_	_
 5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-spron	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-spron	_	_	_	_
-2	werden	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-spron	0	verb	_	_
-3	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-spron	2	nsubj	_	_
-4	Romane	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-spron	_	_	_	_
-5	schreiben	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-spron	2	obj	_	_
+2	werden	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-spron	_	_	_	_
+3	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-spron	5	nsubj	_	_
+4	Romane	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-spron	5	obj	_	_
+5	schreiben	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-spron	0	verb	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-spron	_	_	_	_
 
-1	Werden	_	_	_	order:LK[V]MF[SO]|props:aux-spron	0	verb	_	_
-2	sie	_	_	_	order:LK[V]MF[SO]|props:aux-spron	1	nsubj	_	_
-3	Romane	_	_	_	order:LK[V]MF[SO]|props:aux-spron	_	_	_	_
-4	schreiben	_	_	_	order:LK[V]MF[SO]|props:aux-spron	1	obj	_	_
+1	Werden	_	_	_	order:LK[V]MF[SO]|props:aux-spron	_	_	_	_
+2	sie	_	_	_	order:LK[V]MF[SO]|props:aux-spron	4	nsubj	_	_
+3	Romane	_	_	_	order:LK[V]MF[SO]|props:aux-spron	4	obj	_	_
+4	schreiben	_	_	_	order:LK[V]MF[SO]|props:aux-spron	0	verb	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:aux-spron	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:aux-spron	_	_	_	_
-2	sie	_	_	_	order:MF[SO]VC[V]|props:aux-spron	5	nsubj	_	_
-3	Romane	_	_	_	order:MF[SO]VC[V]|props:aux-spron	_	_	_	_
-4	schreiben	_	_	_	order:MF[SO]VC[V]|props:aux-spron	5	obj	_	_
-5	werden	_	_	_	order:MF[SO]VC[V]|props:aux-spron	0	verb	_	_
+2	sie	_	_	_	order:MF[SO]VC[V]|props:aux-spron	4	nsubj	_	_
+3	Romane	_	_	_	order:MF[SO]VC[V]|props:aux-spron	4	obj	_	_
+4	schreiben	_	_	_	order:MF[SO]VC[V]|props:aux-spron	0	verb	_	_
+5	werden	_	_	_	order:MF[SO]VC[V]|props:aux-spron	_	_	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:aux-spron	_	_	_	_
 
 1	Sie	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-spron	5	nsubj	_	_
@@ -2539,33 +2539,33 @@
 7	.	_	_	_	order:MF[SO]VC[V]|props:aux-opron	_	_	_	_
 
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	_	_	_	_
-2	Partnerin	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	3	nsubj	_	_
-3	wird	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	0	verb	_	_
+2	Partnerin	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	5	nsubj	_	_
+3	wird	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	_	_	_	_
 4	es	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	_	_	_	_
-5	leben	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	3	obj	_	_
+5	leben	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	0	verb	_	_
 6	.	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	_	_	_	_
-2	wird	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	0	verb	_	_
+2	wird	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	_	_	_	_
 3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	_	_	_	_
-4	Partnerin	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	2	nsubj	_	_
+4	Partnerin	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	6	nsubj	_	_
 5	es	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	_	_	_	_
-6	leben	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	2	obj	_	_
+6	leben	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	0	verb	_	_
 7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	_	_	_	_
 
-1	Wird	_	_	_	order:LK[V]MF[SO]|props:aux-opron	0	verb	_	_
+1	Wird	_	_	_	order:LK[V]MF[SO]|props:aux-opron	_	_	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:aux-opron	_	_	_	_
-3	Partnerin	_	_	_	order:LK[V]MF[SO]|props:aux-opron	1	nsubj	_	_
+3	Partnerin	_	_	_	order:LK[V]MF[SO]|props:aux-opron	5	nsubj	_	_
 4	es	_	_	_	order:LK[V]MF[SO]|props:aux-opron	_	_	_	_
-5	leben	_	_	_	order:LK[V]MF[SO]|props:aux-opron	1	obj	_	_
+5	leben	_	_	_	order:LK[V]MF[SO]|props:aux-opron	0	verb	_	_
 6	?	_	_	_	order:LK[V]MF[SO]|props:aux-opron	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:aux-opron	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:aux-opron	_	_	_	_
-3	Partnerin	_	_	_	order:MF[SO]VC[V]|props:aux-opron	6	nsubj	_	_
+3	Partnerin	_	_	_	order:MF[SO]VC[V]|props:aux-opron	5	nsubj	_	_
 4	es	_	_	_	order:MF[SO]VC[V]|props:aux-opron	_	_	_	_
-5	leben	_	_	_	order:MF[SO]VC[V]|props:aux-opron	6	obj	_	_
-6	wird	_	_	_	order:MF[SO]VC[V]|props:aux-opron	0	verb	_	_
+5	leben	_	_	_	order:MF[SO]VC[V]|props:aux-opron	0	verb	_	_
+6	wird	_	_	_	order:MF[SO]VC[V]|props:aux-opron	_	_	_	_
 7	.	_	_	_	order:MF[SO]VC[V]|props:aux-opron	_	_	_	_
 
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	_	_	_	_
@@ -2599,33 +2599,33 @@
 7	.	_	_	_	order:MF[SO]VC[V]|props:aux-opron	_	_	_	_
 
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	_	_	_	_
-2	Freundin	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	3	nsubj	_	_
-3	wird	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	0	verb	_	_
+2	Freundin	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	5	nsubj	_	_
+3	wird	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	_	_	_	_
 4	es	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	_	_	_	_
-5	spielen	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	3	obj	_	_
+5	spielen	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	0	verb	_	_
 6	.	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	_	_	_	_
-2	wird	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	0	verb	_	_
+2	wird	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	_	_	_	_
 3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	_	_	_	_
-4	Freundin	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	2	nsubj	_	_
+4	Freundin	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	6	nsubj	_	_
 5	es	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	_	_	_	_
-6	spielen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	2	obj	_	_
+6	spielen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	0	verb	_	_
 7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	_	_	_	_
 
-1	Wird	_	_	_	order:LK[V]MF[SO]|props:aux-opron	0	verb	_	_
+1	Wird	_	_	_	order:LK[V]MF[SO]|props:aux-opron	_	_	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:aux-opron	_	_	_	_
-3	Freundin	_	_	_	order:LK[V]MF[SO]|props:aux-opron	1	nsubj	_	_
+3	Freundin	_	_	_	order:LK[V]MF[SO]|props:aux-opron	5	nsubj	_	_
 4	es	_	_	_	order:LK[V]MF[SO]|props:aux-opron	_	_	_	_
-5	spielen	_	_	_	order:LK[V]MF[SO]|props:aux-opron	1	obj	_	_
+5	spielen	_	_	_	order:LK[V]MF[SO]|props:aux-opron	0	verb	_	_
 6	?	_	_	_	order:LK[V]MF[SO]|props:aux-opron	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:aux-opron	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:aux-opron	_	_	_	_
-3	Freundin	_	_	_	order:MF[SO]VC[V]|props:aux-opron	6	nsubj	_	_
+3	Freundin	_	_	_	order:MF[SO]VC[V]|props:aux-opron	5	nsubj	_	_
 4	es	_	_	_	order:MF[SO]VC[V]|props:aux-opron	_	_	_	_
-5	spielen	_	_	_	order:MF[SO]VC[V]|props:aux-opron	6	obj	_	_
-6	wird	_	_	_	order:MF[SO]VC[V]|props:aux-opron	0	verb	_	_
+5	spielen	_	_	_	order:MF[SO]VC[V]|props:aux-opron	0	verb	_	_
+6	wird	_	_	_	order:MF[SO]VC[V]|props:aux-opron	_	_	_	_
 7	.	_	_	_	order:MF[SO]VC[V]|props:aux-opron	_	_	_	_
 
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	_	_	_	_
@@ -2659,33 +2659,33 @@
 7	.	_	_	_	order:MF[SO]VC[V]|props:aux-opron	_	_	_	_
 
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	_	_	_	_
-2	Kinder	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	3	nsubj	_	_
-3	werden	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	0	verb	_	_
+2	Kinder	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	5	nsubj	_	_
+3	werden	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	_	_	_	_
 4	sie	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	_	_	_	_
-5	finden	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	3	obj	_	_
+5	finden	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	0	verb	_	_
 6	.	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	_	_	_	_
-2	werden	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	0	verb	_	_
+2	werden	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	_	_	_	_
 3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	_	_	_	_
-4	Kinder	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	2	nsubj	_	_
+4	Kinder	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	6	nsubj	_	_
 5	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	_	_	_	_
-6	finden	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	2	obj	_	_
+6	finden	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	0	verb	_	_
 7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	_	_	_	_
 
-1	Werden	_	_	_	order:LK[V]MF[SO]|props:aux-opron	0	verb	_	_
+1	Werden	_	_	_	order:LK[V]MF[SO]|props:aux-opron	_	_	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:aux-opron	_	_	_	_
-3	Kinder	_	_	_	order:LK[V]MF[SO]|props:aux-opron	1	nsubj	_	_
+3	Kinder	_	_	_	order:LK[V]MF[SO]|props:aux-opron	5	nsubj	_	_
 4	sie	_	_	_	order:LK[V]MF[SO]|props:aux-opron	_	_	_	_
-5	finden	_	_	_	order:LK[V]MF[SO]|props:aux-opron	1	obj	_	_
+5	finden	_	_	_	order:LK[V]MF[SO]|props:aux-opron	0	verb	_	_
 6	?	_	_	_	order:LK[V]MF[SO]|props:aux-opron	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:aux-opron	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:aux-opron	_	_	_	_
-3	Kinder	_	_	_	order:MF[SO]VC[V]|props:aux-opron	6	nsubj	_	_
+3	Kinder	_	_	_	order:MF[SO]VC[V]|props:aux-opron	5	nsubj	_	_
 4	sie	_	_	_	order:MF[SO]VC[V]|props:aux-opron	_	_	_	_
-5	finden	_	_	_	order:MF[SO]VC[V]|props:aux-opron	6	obj	_	_
-6	werden	_	_	_	order:MF[SO]VC[V]|props:aux-opron	0	verb	_	_
+5	finden	_	_	_	order:MF[SO]VC[V]|props:aux-opron	0	verb	_	_
+6	werden	_	_	_	order:MF[SO]VC[V]|props:aux-opron	_	_	_	_
 7	.	_	_	_	order:MF[SO]VC[V]|props:aux-opron	_	_	_	_
 
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	_	_	_	_
@@ -2779,33 +2779,33 @@
 7	.	_	_	_	order:MF[SO]VC[V]|props:aux-opron	_	_	_	_
 
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	_	_	_	_
-2	Schriftsteller	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	3	nsubj	_	_
-3	werden	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	0	verb	_	_
-4	sie	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	_	_	_	_
-5	schreiben	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	3	obj	_	_
+2	Schriftsteller	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	5	nsubj	_	_
+3	werden	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	_	_	_	_
+4	sie	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	5	obj	_	_
+5	schreiben	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	0	verb	_	_
 6	.	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	_	_	_	_
-2	werden	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	0	verb	_	_
+2	werden	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	_	_	_	_
 3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	_	_	_	_
-4	Schriftsteller	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	2	nsubj	_	_
-5	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	_	_	_	_
-6	schreiben	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	2	obj	_	_
+4	Schriftsteller	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	6	nsubj	_	_
+5	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	6	obj	_	_
+6	schreiben	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	0	verb	_	_
 7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	_	_	_	_
 
-1	Werden	_	_	_	order:LK[V]MF[SO]|props:aux-opron	0	verb	_	_
+1	Werden	_	_	_	order:LK[V]MF[SO]|props:aux-opron	_	_	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:aux-opron	_	_	_	_
-3	Schriftsteller	_	_	_	order:LK[V]MF[SO]|props:aux-opron	1	nsubj	_	_
-4	sie	_	_	_	order:LK[V]MF[SO]|props:aux-opron	_	_	_	_
-5	schreiben	_	_	_	order:LK[V]MF[SO]|props:aux-opron	1	obj	_	_
+3	Schriftsteller	_	_	_	order:LK[V]MF[SO]|props:aux-opron	5	nsubj	_	_
+4	sie	_	_	_	order:LK[V]MF[SO]|props:aux-opron	5	obj	_	_
+5	schreiben	_	_	_	order:LK[V]MF[SO]|props:aux-opron	0	verb	_	_
 6	?	_	_	_	order:LK[V]MF[SO]|props:aux-opron	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:aux-opron	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:aux-opron	_	_	_	_
-3	Schriftsteller	_	_	_	order:MF[SO]VC[V]|props:aux-opron	6	nsubj	_	_
-4	sie	_	_	_	order:MF[SO]VC[V]|props:aux-opron	_	_	_	_
-5	schreiben	_	_	_	order:MF[SO]VC[V]|props:aux-opron	6	obj	_	_
-6	werden	_	_	_	order:MF[SO]VC[V]|props:aux-opron	0	verb	_	_
+3	Schriftsteller	_	_	_	order:MF[SO]VC[V]|props:aux-opron	5	nsubj	_	_
+4	sie	_	_	_	order:MF[SO]VC[V]|props:aux-opron	5	obj	_	_
+5	schreiben	_	_	_	order:MF[SO]VC[V]|props:aux-opron	0	verb	_	_
+6	werden	_	_	_	order:MF[SO]VC[V]|props:aux-opron	_	_	_	_
 7	.	_	_	_	order:MF[SO]VC[V]|props:aux-opron	_	_	_	_
 
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	_	_	_	_
@@ -2869,33 +2869,33 @@
 7	.	_	_	_	order:MF[SO]VC[V]|props:aux-opron	_	_	_	_
 
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	_	_	_	_
-2	Kleinbauern	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	3	nsubj	_	_
-3	werden	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	0	verb	_	_
-4	sie	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	_	_	_	_
-5	ziehen	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	3	obj	_	_
+2	Kleinbauern	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	5	nsubj	_	_
+3	werden	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	_	_	_	_
+4	sie	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	5	obj	_	_
+5	ziehen	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	0	verb	_	_
 6	.	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	_	_	_	_
-2	werden	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	0	verb	_	_
+2	werden	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	_	_	_	_
 3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	_	_	_	_
-4	Kleinbauern	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	2	nsubj	_	_
-5	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	_	_	_	_
-6	ziehen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	2	obj	_	_
+4	Kleinbauern	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	6	nsubj	_	_
+5	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	6	obj	_	_
+6	ziehen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	0	verb	_	_
 7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	_	_	_	_
 
-1	Werden	_	_	_	order:LK[V]MF[SO]|props:aux-opron	0	verb	_	_
+1	Werden	_	_	_	order:LK[V]MF[SO]|props:aux-opron	_	_	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:aux-opron	_	_	_	_
-3	Kleinbauern	_	_	_	order:LK[V]MF[SO]|props:aux-opron	1	nsubj	_	_
-4	sie	_	_	_	order:LK[V]MF[SO]|props:aux-opron	_	_	_	_
-5	ziehen	_	_	_	order:LK[V]MF[SO]|props:aux-opron	1	obj	_	_
+3	Kleinbauern	_	_	_	order:LK[V]MF[SO]|props:aux-opron	5	nsubj	_	_
+4	sie	_	_	_	order:LK[V]MF[SO]|props:aux-opron	5	obj	_	_
+5	ziehen	_	_	_	order:LK[V]MF[SO]|props:aux-opron	0	verb	_	_
 6	?	_	_	_	order:LK[V]MF[SO]|props:aux-opron	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:aux-opron	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:aux-opron	_	_	_	_
-3	Kleinbauern	_	_	_	order:MF[SO]VC[V]|props:aux-opron	6	nsubj	_	_
-4	sie	_	_	_	order:MF[SO]VC[V]|props:aux-opron	_	_	_	_
-5	ziehen	_	_	_	order:MF[SO]VC[V]|props:aux-opron	6	obj	_	_
-6	werden	_	_	_	order:MF[SO]VC[V]|props:aux-opron	0	verb	_	_
+3	Kleinbauern	_	_	_	order:MF[SO]VC[V]|props:aux-opron	5	nsubj	_	_
+4	sie	_	_	_	order:MF[SO]VC[V]|props:aux-opron	5	obj	_	_
+5	ziehen	_	_	_	order:MF[SO]VC[V]|props:aux-opron	0	verb	_	_
+6	werden	_	_	_	order:MF[SO]VC[V]|props:aux-opron	_	_	_	_
 7	.	_	_	_	order:MF[SO]VC[V]|props:aux-opron	_	_	_	_
 
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	_	_	_	_
@@ -19275,7 +19275,7 @@
 7	.	_	_	_	order:MF[SO]VC[V]|props:base-regpol	_	_	_	_
 
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:base-regpol	_	_	_	_
-2	Werkstätte	_	_	_	order:VF[S]LK[V]MF[O]|props:base-regpol	3	nsubj	_	_
+2	Werkstätten	_	_	_	order:VF[S]LK[V]MF[O]|props:base-regpol	3	nsubj	_	_
 3	ziehen	_	_	_	order:VF[S]LK[V]MF[O]|props:base-regpol	0	verb	_	_
 4	Bauzäune	_	_	_	order:VF[S]LK[V]MF[O]|props:base-regpol	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:base-regpol	_	_	_	_
@@ -19283,25 +19283,25 @@
 1	Bauzäune	_	_	_	order:VF[O]LK[V]MF[S]|props:base-regpol	2	obj	_	_
 2	ziehen	_	_	_	order:VF[O]LK[V]MF[S]|props:base-regpol	0	verb	_	_
 3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:base-regpol	_	_	_	_
-4	Werkstätte	_	_	_	order:VF[O]LK[V]MF[S]|props:base-regpol	2	nsubj	_	_
+4	Werkstätten	_	_	_	order:VF[O]LK[V]MF[S]|props:base-regpol	2	nsubj	_	_
 5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:base-regpol	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-regpol	_	_	_	_
 2	ziehen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-regpol	0	verb	_	_
 3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-regpol	_	_	_	_
-4	Werkstätte	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-regpol	2	nsubj	_	_
+4	Werkstätten	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-regpol	2	nsubj	_	_
 5	Bauzäune	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-regpol	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-regpol	_	_	_	_
 
 1	Ziehen	_	_	_	order:LK[V]MF[SO]|props:base-regpol	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:base-regpol	_	_	_	_
-3	Werkstätte	_	_	_	order:LK[V]MF[SO]|props:base-regpol	1	nsubj	_	_
+3	Werkstätten	_	_	_	order:LK[V]MF[SO]|props:base-regpol	1	nsubj	_	_
 4	Bauzäune	_	_	_	order:LK[V]MF[SO]|props:base-regpol	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:base-regpol	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:base-regpol	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:base-regpol	_	_	_	_
-3	Werkstätte	_	_	_	order:MF[SO]VC[V]|props:base-regpol	5	nsubj	_	_
+3	Werkstätten	_	_	_	order:MF[SO]VC[V]|props:base-regpol	5	nsubj	_	_
 4	Bauzäune	_	_	_	order:MF[SO]VC[V]|props:base-regpol	5	obj	_	_
 5	ziehen	_	_	_	order:MF[SO]VC[V]|props:base-regpol	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:base-regpol	_	_	_	_
@@ -19855,7 +19855,7 @@
 8	.	_	_	_	order:MF[SO]VC[V]|props:aux-regpol	_	_	_	_
 
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-regpol	_	_	_	_
-2	Werkstätte	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-regpol	5	nsubj	_	_
+2	Werkstätten	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-regpol	5	nsubj	_	_
 3	werden	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-regpol	_	_	_	_
 4	Bauzäune	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-regpol	5	obj	_	_
 5	ziehen	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-regpol	0	verb	_	_
@@ -19864,28 +19864,28 @@
 1	Bauzäune	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-regpol	5	obj	_	_
 2	werden	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-regpol	_	_	_	_
 3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-regpol	_	_	_	_
-4	Werkstätte	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-regpol	5	nsubj	_	_
+4	Werkstätten	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-regpol	5	nsubj	_	_
 5	ziehen	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-regpol	0	verb	_	_
 6	.	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-regpol	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-regpol	_	_	_	_
 2	werden	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-regpol	_	_	_	_
 3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-regpol	_	_	_	_
-4	Werkstätte	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-regpol	6	nsubj	_	_
+4	Werkstätten	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-regpol	6	nsubj	_	_
 5	Bauzäune	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-regpol	6	obj	_	_
 6	ziehen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-regpol	0	verb	_	_
 7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-regpol	_	_	_	_
 
 1	Werden	_	_	_	order:LK[V]MF[SO]|props:aux-regpol	_	_	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:aux-regpol	_	_	_	_
-3	Werkstätte	_	_	_	order:LK[V]MF[SO]|props:aux-regpol	5	nsubj	_	_
+3	Werkstätten	_	_	_	order:LK[V]MF[SO]|props:aux-regpol	5	nsubj	_	_
 4	Bauzäune	_	_	_	order:LK[V]MF[SO]|props:aux-regpol	5	obj	_	_
 5	ziehen	_	_	_	order:LK[V]MF[SO]|props:aux-regpol	0	verb	_	_
 6	?	_	_	_	order:LK[V]MF[SO]|props:aux-regpol	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:aux-regpol	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:aux-regpol	_	_	_	_
-3	Werkstätte	_	_	_	order:MF[SO]VC[V]|props:aux-regpol	5	nsubj	_	_
+3	Werkstätten	_	_	_	order:MF[SO]VC[V]|props:aux-regpol	5	nsubj	_	_
 4	Bauzäune	_	_	_	order:MF[SO]VC[V]|props:aux-regpol	5	obj	_	_
 5	ziehen	_	_	_	order:MF[SO]VC[V]|props:aux-regpol	0	verb	_	_
 6	werden	_	_	_	order:MF[SO]VC[V]|props:aux-regpol	_	_	_	_
@@ -20805,7 +20805,7 @@
 7	.	_	_	_	order:MF[SO]VC[V]|props:oneg-regpol	_	_	_	_
 
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:oneg-regpol	_	_	_	_
-2	Werkstätte	_	_	_	order:VF[S]LK[V]MF[O]|props:oneg-regpol	3	nsubj	_	_
+2	Werkstätten	_	_	_	order:VF[S]LK[V]MF[O]|props:oneg-regpol	3	nsubj	_	_
 3	ziehen	_	_	_	order:VF[S]LK[V]MF[O]|props:oneg-regpol	0	verb	_	_
 4	keine	_	_	_	order:VF[S]LK[V]MF[O]|props:oneg-regpol	_	_	_	_
 5	Bauzäune	_	_	_	order:VF[S]LK[V]MF[O]|props:oneg-regpol	3	obj	_	_
@@ -20815,27 +20815,27 @@
 2	Bauzäune	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-regpol	3	obj	_	_
 3	ziehen	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-regpol	0	verb	_	_
 4	die	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-regpol	_	_	_	_
-5	Werkstätte	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-regpol	3	nsubj	_	_
+5	Werkstätten	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-regpol	3	nsubj	_	_
 6	.	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-regpol	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-regpol	_	_	_	_
 2	ziehen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-regpol	0	verb	_	_
 3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-regpol	_	_	_	_
-4	Werkstätte	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-regpol	2	nsubj	_	_
+4	Werkstätten	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-regpol	2	nsubj	_	_
 5	keine	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-regpol	_	_	_	_
 6	Bauzäune	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-regpol	2	obj	_	_
 7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-regpol	_	_	_	_
 
 1	Ziehen	_	_	_	order:LK[V]MF[SO]|props:oneg-regpol	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:oneg-regpol	_	_	_	_
-3	Werkstätte	_	_	_	order:LK[V]MF[SO]|props:oneg-regpol	1	nsubj	_	_
+3	Werkstätten	_	_	_	order:LK[V]MF[SO]|props:oneg-regpol	1	nsubj	_	_
 4	keine	_	_	_	order:LK[V]MF[SO]|props:oneg-regpol	_	_	_	_
 5	Bauzäune	_	_	_	order:LK[V]MF[SO]|props:oneg-regpol	1	obj	_	_
 6	?	_	_	_	order:LK[V]MF[SO]|props:oneg-regpol	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:oneg-regpol	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:oneg-regpol	_	_	_	_
-3	Werkstätte	_	_	_	order:MF[SO]VC[V]|props:oneg-regpol	6	nsubj	_	_
+3	Werkstätten	_	_	_	order:MF[SO]VC[V]|props:oneg-regpol	6	nsubj	_	_
 4	keine	_	_	_	order:MF[SO]VC[V]|props:oneg-regpol	_	_	_	_
 5	Bauzäune	_	_	_	order:MF[SO]VC[V]|props:oneg-regpol	6	obj	_	_
 6	ziehen	_	_	_	order:MF[SO]VC[V]|props:oneg-regpol	0	verb	_	_
@@ -21515,7 +21515,7 @@
 10	.	_	_	_	order:MF[SO]VC[V]|props:pp-regpol	_	_	_	_
 
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-regpol	_	_	_	_
-2	Werkstätte	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-regpol	3	nsubj	_	_
+2	Werkstätten	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-regpol	3	nsubj	_	_
 3	ziehen	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-regpol	0	verb	_	_
 4	in	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-regpol	_	_	_	_
 5	dem	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-regpol	_	_	_	_
@@ -21529,7 +21529,7 @@
 4	dem	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-regpol	_	_	_	_
 5	Jahr	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-regpol	_	_	_	_
 6	die	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-regpol	_	_	_	_
-7	Werkstätte	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-regpol	2	nsubj	_	_
+7	Werkstätten	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-regpol	2	nsubj	_	_
 8	.	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-regpol	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-regpol	_	_	_	_
@@ -21538,7 +21538,7 @@
 4	dem	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-regpol	_	_	_	_
 5	Jahr	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-regpol	_	_	_	_
 6	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-regpol	_	_	_	_
-7	Werkstätte	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-regpol	2	nsubj	_	_
+7	Werkstätten	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-regpol	2	nsubj	_	_
 8	Bauzäune	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-regpol	2	obj	_	_
 9	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-regpol	_	_	_	_
 
@@ -21547,7 +21547,7 @@
 3	dem	_	_	_	order:LK[V]MF[SO]|props:pp-regpol	_	_	_	_
 4	Jahr	_	_	_	order:LK[V]MF[SO]|props:pp-regpol	_	_	_	_
 5	die	_	_	_	order:LK[V]MF[SO]|props:pp-regpol	_	_	_	_
-6	Werkstätte	_	_	_	order:LK[V]MF[SO]|props:pp-regpol	1	nsubj	_	_
+6	Werkstätten	_	_	_	order:LK[V]MF[SO]|props:pp-regpol	1	nsubj	_	_
 7	Bauzäune	_	_	_	order:LK[V]MF[SO]|props:pp-regpol	1	obj	_	_
 8	?	_	_	_	order:LK[V]MF[SO]|props:pp-regpol	_	_	_	_
 
@@ -21556,7 +21556,7 @@
 3	dem	_	_	_	order:MF[SO]VC[V]|props:pp-regpol	_	_	_	_
 4	Jahr	_	_	_	order:MF[SO]VC[V]|props:pp-regpol	_	_	_	_
 5	die	_	_	_	order:MF[SO]VC[V]|props:pp-regpol	_	_	_	_
-6	Werkstätte	_	_	_	order:MF[SO]VC[V]|props:pp-regpol	8	nsubj	_	_
+6	Werkstätten	_	_	_	order:MF[SO]VC[V]|props:pp-regpol	8	nsubj	_	_
 7	Bauzäune	_	_	_	order:MF[SO]VC[V]|props:pp-regpol	8	obj	_	_
 8	ziehen	_	_	_	order:MF[SO]VC[V]|props:pp-regpol	0	verb	_	_
 9	.	_	_	_	order:MF[SO]VC[V]|props:pp-regpol	_	_	_	_
@@ -22249,8 +22249,8 @@
 5	bewirft	_	_	_	order:MF[SO]VC[V]|props:base-sname	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:base-sname	_	_	_	_
 
-1	Günter	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	_	_	_	_
-2	Jauch	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	3	nsubj	_	_
+1	Günter	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	3	nsubj	_	_
+2	Jauch	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	_	_	_	_
 3	findet	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	0	verb	_	_
 4	eine	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	_	_	_	_
 5	Lösung	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	3	obj	_	_
@@ -22259,28 +22259,28 @@
 1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	_	_	_	_
 2	Lösung	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	3	obj	_	_
 3	findet	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	0	verb	_	_
-4	Günter	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	_	_	_	_
-5	Jauch	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	3	nsubj	_	_
+4	Günter	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	3	nsubj	_	_
+5	Jauch	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	_	_	_	_
 6	.	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	_	_	_	_
 2	findet	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	0	verb	_	_
-3	Günter	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	_	_	_	_
-4	Jauch	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	2	nsubj	_	_
+3	Günter	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	2	nsubj	_	_
+4	Jauch	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	_	_	_	_
 5	eine	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	_	_	_	_
 6	Lösung	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	2	obj	_	_
 7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	_	_	_	_
 
 1	Findet	_	_	_	order:LK[V]MF[SO]|props:base-sname	0	verb	_	_
-2	Günter	_	_	_	order:LK[V]MF[SO]|props:base-sname	_	_	_	_
-3	Jauch	_	_	_	order:LK[V]MF[SO]|props:base-sname	1	nsubj	_	_
+2	Günter	_	_	_	order:LK[V]MF[SO]|props:base-sname	1	nsubj	_	_
+3	Jauch	_	_	_	order:LK[V]MF[SO]|props:base-sname	_	_	_	_
 4	eine	_	_	_	order:LK[V]MF[SO]|props:base-sname	_	_	_	_
 5	Lösung	_	_	_	order:LK[V]MF[SO]|props:base-sname	1	obj	_	_
 6	?	_	_	_	order:LK[V]MF[SO]|props:base-sname	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:base-sname	_	_	_	_
-2	Günter	_	_	_	order:MF[SO]VC[V]|props:base-sname	_	_	_	_
-3	Jauch	_	_	_	order:MF[SO]VC[V]|props:base-sname	6	nsubj	_	_
+2	Günter	_	_	_	order:MF[SO]VC[V]|props:base-sname	6	nsubj	_	_
+3	Jauch	_	_	_	order:MF[SO]VC[V]|props:base-sname	_	_	_	_
 4	eine	_	_	_	order:MF[SO]VC[V]|props:base-sname	_	_	_	_
 5	Lösung	_	_	_	order:MF[SO]VC[V]|props:base-sname	6	obj	_	_
 6	findet	_	_	_	order:MF[SO]VC[V]|props:base-sname	0	verb	_	_
@@ -22372,34 +22372,34 @@
 4	trinkt	_	_	_	order:MF[SO]VC[V]|props:base-sname	0	verb	_	_
 5	.	_	_	_	order:MF[SO]VC[V]|props:base-sname	_	_	_	_
 
-1	Bertolt	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	_	_	_	_
-2	Brecht	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	3	nsubj	_	_
+1	Bertolt	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	3	nsubj	_	_
+2	Brecht	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	_	_	_	_
 3	schreibt	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	0	verb	_	_
 4	Roman	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	_	_	_	_
 
 1	Roman	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	2	obj	_	_
 2	schreibt	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	0	verb	_	_
-3	Bertolt	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	_	_	_	_
-4	Brecht	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	2	nsubj	_	_
+3	Bertolt	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	2	nsubj	_	_
+4	Brecht	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	_	_	_	_
 5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	_	_	_	_
 2	schreibt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	0	verb	_	_
-3	Bertolt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	_	_	_	_
-4	Brecht	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	2	nsubj	_	_
+3	Bertolt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	2	nsubj	_	_
+4	Brecht	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	_	_	_	_
 5	Roman	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	_	_	_	_
 
 1	Schreibt	_	_	_	order:LK[V]MF[SO]|props:base-sname	0	verb	_	_
-2	Bertolt	_	_	_	order:LK[V]MF[SO]|props:base-sname	_	_	_	_
-3	Brecht	_	_	_	order:LK[V]MF[SO]|props:base-sname	1	nsubj	_	_
+2	Bertolt	_	_	_	order:LK[V]MF[SO]|props:base-sname	1	nsubj	_	_
+3	Brecht	_	_	_	order:LK[V]MF[SO]|props:base-sname	_	_	_	_
 4	Roman	_	_	_	order:LK[V]MF[SO]|props:base-sname	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:base-sname	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:base-sname	_	_	_	_
-2	Bertolt	_	_	_	order:MF[SO]VC[V]|props:base-sname	_	_	_	_
-3	Brecht	_	_	_	order:MF[SO]VC[V]|props:base-sname	5	nsubj	_	_
+2	Bertolt	_	_	_	order:MF[SO]VC[V]|props:base-sname	5	nsubj	_	_
+3	Brecht	_	_	_	order:MF[SO]VC[V]|props:base-sname	_	_	_	_
 4	Roman	_	_	_	order:MF[SO]VC[V]|props:base-sname	5	obj	_	_
 5	schreibt	_	_	_	order:MF[SO]VC[V]|props:base-sname	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:base-sname	_	_	_	_
@@ -22739,8 +22739,8 @@
 6	wird	_	_	_	order:MF[SO]VC[V]|props:aux-sname	_	_	_	_
 7	.	_	_	_	order:MF[SO]VC[V]|props:aux-sname	_	_	_	_
 
-1	Günter	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	_	_	_	_
-2	Jauch	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	6	nsubj	_	_
+1	Günter	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	6	nsubj	_	_
+2	Jauch	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	_	_	_	_
 3	wird	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	_	_	_	_
 4	eine	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	_	_	_	_
 5	Lösung	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	6	obj	_	_
@@ -22750,31 +22750,31 @@
 1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	_	_	_	_
 2	Lösung	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	6	obj	_	_
 3	wird	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	_	_	_	_
-4	Günter	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	_	_	_	_
-5	Jauch	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	6	nsubj	_	_
+4	Günter	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	6	nsubj	_	_
+5	Jauch	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	_	_	_	_
 6	finden	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	0	verb	_	_
 7	.	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	_	_	_	_
 2	wird	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	_	_	_	_
-3	Günter	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	_	_	_	_
-4	Jauch	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	7	nsubj	_	_
+3	Günter	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	7	nsubj	_	_
+4	Jauch	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	_	_	_	_
 5	eine	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	_	_	_	_
 6	Lösung	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	7	obj	_	_
 7	finden	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	0	verb	_	_
 8	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	_	_	_	_
 
 1	Wird	_	_	_	order:LK[V]MF[SO]|props:aux-sname	_	_	_	_
-2	Günter	_	_	_	order:LK[V]MF[SO]|props:aux-sname	_	_	_	_
-3	Jauch	_	_	_	order:LK[V]MF[SO]|props:aux-sname	6	nsubj	_	_
+2	Günter	_	_	_	order:LK[V]MF[SO]|props:aux-sname	6	nsubj	_	_
+3	Jauch	_	_	_	order:LK[V]MF[SO]|props:aux-sname	_	_	_	_
 4	eine	_	_	_	order:LK[V]MF[SO]|props:aux-sname	_	_	_	_
 5	Lösung	_	_	_	order:LK[V]MF[SO]|props:aux-sname	6	obj	_	_
 6	finden	_	_	_	order:LK[V]MF[SO]|props:aux-sname	0	verb	_	_
 7	?	_	_	_	order:LK[V]MF[SO]|props:aux-sname	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:aux-sname	_	_	_	_
-2	Günter	_	_	_	order:MF[SO]VC[V]|props:aux-sname	_	_	_	_
-3	Jauch	_	_	_	order:MF[SO]VC[V]|props:aux-sname	6	nsubj	_	_
+2	Günter	_	_	_	order:MF[SO]VC[V]|props:aux-sname	6	nsubj	_	_
+3	Jauch	_	_	_	order:MF[SO]VC[V]|props:aux-sname	_	_	_	_
 4	eine	_	_	_	order:MF[SO]VC[V]|props:aux-sname	_	_	_	_
 5	Lösung	_	_	_	order:MF[SO]VC[V]|props:aux-sname	6	obj	_	_
 6	finden	_	_	_	order:MF[SO]VC[V]|props:aux-sname	0	verb	_	_
@@ -22882,8 +22882,8 @@
 5	wird	_	_	_	order:MF[SO]VC[V]|props:aux-sname	_	_	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:aux-sname	_	_	_	_
 
-1	Bertolt	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	_	_	_	_
-2	Brecht	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	5	nsubj	_	_
+1	Bertolt	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	5	nsubj	_	_
+2	Brecht	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	_	_	_	_
 3	wird	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	_	_	_	_
 4	Roman	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	5	obj	_	_
 5	schreiben	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	0	verb	_	_
@@ -22891,29 +22891,29 @@
 
 1	Roman	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	5	obj	_	_
 2	wird	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	_	_	_	_
-3	Bertolt	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	_	_	_	_
-4	Brecht	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	5	nsubj	_	_
+3	Bertolt	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	5	nsubj	_	_
+4	Brecht	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	_	_	_	_
 5	schreiben	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	0	verb	_	_
 6	.	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	_	_	_	_
 2	wird	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	_	_	_	_
-3	Bertolt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	_	_	_	_
-4	Brecht	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	6	nsubj	_	_
+3	Bertolt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	6	nsubj	_	_
+4	Brecht	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	_	_	_	_
 5	Roman	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	6	obj	_	_
 6	schreiben	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	0	verb	_	_
 7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	_	_	_	_
 
 1	Wird	_	_	_	order:LK[V]MF[SO]|props:aux-sname	_	_	_	_
-2	Bertolt	_	_	_	order:LK[V]MF[SO]|props:aux-sname	_	_	_	_
-3	Brecht	_	_	_	order:LK[V]MF[SO]|props:aux-sname	5	nsubj	_	_
+2	Bertolt	_	_	_	order:LK[V]MF[SO]|props:aux-sname	5	nsubj	_	_
+3	Brecht	_	_	_	order:LK[V]MF[SO]|props:aux-sname	_	_	_	_
 4	Roman	_	_	_	order:LK[V]MF[SO]|props:aux-sname	5	obj	_	_
 5	schreiben	_	_	_	order:LK[V]MF[SO]|props:aux-sname	0	verb	_	_
 6	?	_	_	_	order:LK[V]MF[SO]|props:aux-sname	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:aux-sname	_	_	_	_
-2	Bertolt	_	_	_	order:MF[SO]VC[V]|props:aux-sname	_	_	_	_
-3	Brecht	_	_	_	order:MF[SO]VC[V]|props:aux-sname	5	nsubj	_	_
+2	Bertolt	_	_	_	order:MF[SO]VC[V]|props:aux-sname	5	nsubj	_	_
+3	Brecht	_	_	_	order:MF[SO]VC[V]|props:aux-sname	_	_	_	_
 4	Roman	_	_	_	order:MF[SO]VC[V]|props:aux-sname	5	obj	_	_
 5	schreiben	_	_	_	order:MF[SO]VC[V]|props:aux-sname	0	verb	_	_
 6	wird	_	_	_	order:MF[SO]VC[V]|props:aux-sname	_	_	_	_
@@ -23209,28 +23209,28 @@
 4	bewirft	_	_	_	order:MF[SO]VC[V]|props:opron-sname	0	verb	_	_
 5	.	_	_	_	order:MF[SO]VC[V]|props:opron-sname	_	_	_	_
 
-1	Günter	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-sname	_	_	_	_
-2	Jauch	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-sname	3	nsubj	_	_
+1	Günter	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-sname	3	nsubj	_	_
+2	Jauch	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-sname	_	_	_	_
 3	findet	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-sname	0	verb	_	_
 4	sie	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-sname	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-sname	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sname	_	_	_	_
 2	findet	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sname	0	verb	_	_
-3	Günter	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sname	_	_	_	_
-4	Jauch	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sname	2	nsubj	_	_
+3	Günter	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sname	2	nsubj	_	_
+4	Jauch	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sname	_	_	_	_
 5	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sname	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sname	_	_	_	_
 
 1	Findet	_	_	_	order:LK[V]MF[SO]|props:opron-sname	0	verb	_	_
-2	Günter	_	_	_	order:LK[V]MF[SO]|props:opron-sname	_	_	_	_
-3	Jauch	_	_	_	order:LK[V]MF[SO]|props:opron-sname	1	nsubj	_	_
+2	Günter	_	_	_	order:LK[V]MF[SO]|props:opron-sname	1	nsubj	_	_
+3	Jauch	_	_	_	order:LK[V]MF[SO]|props:opron-sname	_	_	_	_
 4	sie	_	_	_	order:LK[V]MF[SO]|props:opron-sname	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:opron-sname	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:opron-sname	_	_	_	_
-2	Günter	_	_	_	order:MF[SO]VC[V]|props:opron-sname	_	_	_	_
-3	Jauch	_	_	_	order:MF[SO]VC[V]|props:opron-sname	5	nsubj	_	_
+2	Günter	_	_	_	order:MF[SO]VC[V]|props:opron-sname	5	nsubj	_	_
+3	Jauch	_	_	_	order:MF[SO]VC[V]|props:opron-sname	_	_	_	_
 4	sie	_	_	_	order:MF[SO]VC[V]|props:opron-sname	5	obj	_	_
 5	findet	_	_	_	order:MF[SO]VC[V]|props:opron-sname	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:opron-sname	_	_	_	_
@@ -23301,28 +23301,28 @@
 4	trinkt	_	_	_	order:MF[SO]VC[V]|props:opron-sname	0	verb	_	_
 5	.	_	_	_	order:MF[SO]VC[V]|props:opron-sname	_	_	_	_
 
-1	Bertolt	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-sname	_	_	_	_
-2	Brecht	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-sname	3	nsubj	_	_
+1	Bertolt	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-sname	3	nsubj	_	_
+2	Brecht	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-sname	_	_	_	_
 3	schreibt	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-sname	0	verb	_	_
 4	sie	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-sname	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-sname	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sname	_	_	_	_
 2	schreibt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sname	0	verb	_	_
-3	Bertolt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sname	_	_	_	_
-4	Brecht	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sname	2	nsubj	_	_
+3	Bertolt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sname	2	nsubj	_	_
+4	Brecht	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sname	_	_	_	_
 5	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sname	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sname	_	_	_	_
 
 1	Schreibt	_	_	_	order:LK[V]MF[SO]|props:opron-sname	0	verb	_	_
-2	Bertolt	_	_	_	order:LK[V]MF[SO]|props:opron-sname	_	_	_	_
-3	Brecht	_	_	_	order:LK[V]MF[SO]|props:opron-sname	1	nsubj	_	_
+2	Bertolt	_	_	_	order:LK[V]MF[SO]|props:opron-sname	1	nsubj	_	_
+3	Brecht	_	_	_	order:LK[V]MF[SO]|props:opron-sname	_	_	_	_
 4	sie	_	_	_	order:LK[V]MF[SO]|props:opron-sname	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:opron-sname	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:opron-sname	_	_	_	_
-2	Bertolt	_	_	_	order:MF[SO]VC[V]|props:opron-sname	_	_	_	_
-3	Brecht	_	_	_	order:MF[SO]VC[V]|props:opron-sname	5	nsubj	_	_
+2	Bertolt	_	_	_	order:MF[SO]VC[V]|props:opron-sname	5	nsubj	_	_
+3	Brecht	_	_	_	order:MF[SO]VC[V]|props:opron-sname	_	_	_	_
 4	sie	_	_	_	order:MF[SO]VC[V]|props:opron-sname	5	obj	_	_
 5	schreibt	_	_	_	order:MF[SO]VC[V]|props:opron-sname	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:opron-sname	_	_	_	_
@@ -23565,8 +23565,8 @@
 5	bewirft	_	_	_	order:MF[SO]VC[V]|props:oneg-sname	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:oneg-sname	_	_	_	_
 
-1	Günter	_	_	_	order:VF[S]LK[V]MF[O]|props:oneg-sname	_	_	_	_
-2	Jauch	_	_	_	order:VF[S]LK[V]MF[O]|props:oneg-sname	3	nsubj	_	_
+1	Günter	_	_	_	order:VF[S]LK[V]MF[O]|props:oneg-sname	3	nsubj	_	_
+2	Jauch	_	_	_	order:VF[S]LK[V]MF[O]|props:oneg-sname	_	_	_	_
 3	findet	_	_	_	order:VF[S]LK[V]MF[O]|props:oneg-sname	0	verb	_	_
 4	keine	_	_	_	order:VF[S]LK[V]MF[O]|props:oneg-sname	_	_	_	_
 5	Lösung	_	_	_	order:VF[S]LK[V]MF[O]|props:oneg-sname	3	obj	_	_
@@ -23575,28 +23575,28 @@
 1	Keine	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-sname	_	_	_	_
 2	Lösung	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-sname	3	obj	_	_
 3	findet	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-sname	0	verb	_	_
-4	Günter	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-sname	_	_	_	_
-5	Jauch	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-sname	3	nsubj	_	_
+4	Günter	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-sname	3	nsubj	_	_
+5	Jauch	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-sname	_	_	_	_
 6	.	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-sname	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-sname	_	_	_	_
 2	findet	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-sname	0	verb	_	_
-3	Günter	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-sname	_	_	_	_
-4	Jauch	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-sname	2	nsubj	_	_
+3	Günter	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-sname	2	nsubj	_	_
+4	Jauch	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-sname	_	_	_	_
 5	keine	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-sname	_	_	_	_
 6	Lösung	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-sname	2	obj	_	_
 7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-sname	_	_	_	_
 
 1	Findet	_	_	_	order:LK[V]MF[SO]|props:oneg-sname	0	verb	_	_
-2	Günter	_	_	_	order:LK[V]MF[SO]|props:oneg-sname	_	_	_	_
-3	Jauch	_	_	_	order:LK[V]MF[SO]|props:oneg-sname	1	nsubj	_	_
+2	Günter	_	_	_	order:LK[V]MF[SO]|props:oneg-sname	1	nsubj	_	_
+3	Jauch	_	_	_	order:LK[V]MF[SO]|props:oneg-sname	_	_	_	_
 4	keine	_	_	_	order:LK[V]MF[SO]|props:oneg-sname	_	_	_	_
 5	Lösung	_	_	_	order:LK[V]MF[SO]|props:oneg-sname	1	obj	_	_
 6	?	_	_	_	order:LK[V]MF[SO]|props:oneg-sname	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:oneg-sname	_	_	_	_
-2	Günter	_	_	_	order:MF[SO]VC[V]|props:oneg-sname	_	_	_	_
-3	Jauch	_	_	_	order:MF[SO]VC[V]|props:oneg-sname	6	nsubj	_	_
+2	Günter	_	_	_	order:MF[SO]VC[V]|props:oneg-sname	6	nsubj	_	_
+3	Jauch	_	_	_	order:MF[SO]VC[V]|props:oneg-sname	_	_	_	_
 4	keine	_	_	_	order:MF[SO]VC[V]|props:oneg-sname	_	_	_	_
 5	Lösung	_	_	_	order:MF[SO]VC[V]|props:oneg-sname	6	obj	_	_
 6	findet	_	_	_	order:MF[SO]VC[V]|props:oneg-sname	0	verb	_	_
@@ -23992,8 +23992,8 @@
 8	bewirft	_	_	_	order:MF[SO]VC[V]|props:pp-sname	0	verb	_	_
 9	.	_	_	_	order:MF[SO]VC[V]|props:pp-sname	_	_	_	_
 
-1	Günter	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	_	_	_	_
-2	Jauch	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	3	nsubj	_	_
+1	Günter	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	3	nsubj	_	_
+2	Jauch	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	_	_	_	_
 3	findet	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	0	verb	_	_
 4	in	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	_	_	_	_
 5	dem	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	_	_	_	_
@@ -24008,8 +24008,8 @@
 4	in	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	_	_	_	_
 5	dem	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	_	_	_	_
 6	Jahr	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	_	_	_	_
-7	Günter	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	_	_	_	_
-8	Jauch	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	3	nsubj	_	_
+7	Günter	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	3	nsubj	_	_
+8	Jauch	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	_	_	_	_
 9	.	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	_	_	_	_
@@ -24017,8 +24017,8 @@
 3	in	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	_	_	_	_
 4	dem	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	_	_	_	_
 5	Jahr	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	_	_	_	_
-6	Günter	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	_	_	_	_
-7	Jauch	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	2	nsubj	_	_
+6	Günter	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	2	nsubj	_	_
+7	Jauch	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	_	_	_	_
 8	eine	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	_	_	_	_
 9	Lösung	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	2	obj	_	_
 10	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	_	_	_	_
@@ -24027,8 +24027,8 @@
 2	in	_	_	_	order:LK[V]MF[SO]|props:pp-sname	_	_	_	_
 3	dem	_	_	_	order:LK[V]MF[SO]|props:pp-sname	_	_	_	_
 4	Jahr	_	_	_	order:LK[V]MF[SO]|props:pp-sname	_	_	_	_
-5	Günter	_	_	_	order:LK[V]MF[SO]|props:pp-sname	_	_	_	_
-6	Jauch	_	_	_	order:LK[V]MF[SO]|props:pp-sname	1	nsubj	_	_
+5	Günter	_	_	_	order:LK[V]MF[SO]|props:pp-sname	1	nsubj	_	_
+6	Jauch	_	_	_	order:LK[V]MF[SO]|props:pp-sname	_	_	_	_
 7	eine	_	_	_	order:LK[V]MF[SO]|props:pp-sname	_	_	_	_
 8	Lösung	_	_	_	order:LK[V]MF[SO]|props:pp-sname	1	obj	_	_
 9	?	_	_	_	order:LK[V]MF[SO]|props:pp-sname	_	_	_	_
@@ -24037,8 +24037,8 @@
 2	in	_	_	_	order:MF[SO]VC[V]|props:pp-sname	_	_	_	_
 3	dem	_	_	_	order:MF[SO]VC[V]|props:pp-sname	_	_	_	_
 4	Jahr	_	_	_	order:MF[SO]VC[V]|props:pp-sname	_	_	_	_
-5	Günter	_	_	_	order:MF[SO]VC[V]|props:pp-sname	_	_	_	_
-6	Jauch	_	_	_	order:MF[SO]VC[V]|props:pp-sname	9	nsubj	_	_
+5	Günter	_	_	_	order:MF[SO]VC[V]|props:pp-sname	9	nsubj	_	_
+6	Jauch	_	_	_	order:MF[SO]VC[V]|props:pp-sname	_	_	_	_
 7	eine	_	_	_	order:MF[SO]VC[V]|props:pp-sname	_	_	_	_
 8	Lösung	_	_	_	order:MF[SO]VC[V]|props:pp-sname	9	obj	_	_
 9	findet	_	_	_	order:MF[SO]VC[V]|props:pp-sname	0	verb	_	_
@@ -24175,8 +24175,8 @@
 7	trinkt	_	_	_	order:MF[SO]VC[V]|props:pp-sname	0	verb	_	_
 8	.	_	_	_	order:MF[SO]VC[V]|props:pp-sname	_	_	_	_
 
-1	Bertolt	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	_	_	_	_
-2	Brecht	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	3	nsubj	_	_
+1	Bertolt	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	3	nsubj	_	_
+2	Brecht	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	_	_	_	_
 3	schreibt	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	0	verb	_	_
 4	in	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	_	_	_	_
 5	dem	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	_	_	_	_
@@ -24189,8 +24189,8 @@
 3	in	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	_	_	_	_
 4	dem	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	_	_	_	_
 5	Jahr	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	_	_	_	_
-6	Bertolt	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	_	_	_	_
-7	Brecht	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	2	nsubj	_	_
+6	Bertolt	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	2	nsubj	_	_
+7	Brecht	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	_	_	_	_
 8	.	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	_	_	_	_
@@ -24198,8 +24198,8 @@
 3	in	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	_	_	_	_
 4	dem	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	_	_	_	_
 5	Jahr	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	_	_	_	_
-6	Bertolt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	_	_	_	_
-7	Brecht	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	2	nsubj	_	_
+6	Bertolt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	2	nsubj	_	_
+7	Brecht	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	_	_	_	_
 8	Roman	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	2	obj	_	_
 9	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	_	_	_	_
 
@@ -24207,8 +24207,8 @@
 2	in	_	_	_	order:LK[V]MF[SO]|props:pp-sname	_	_	_	_
 3	dem	_	_	_	order:LK[V]MF[SO]|props:pp-sname	_	_	_	_
 4	Jahr	_	_	_	order:LK[V]MF[SO]|props:pp-sname	_	_	_	_
-5	Bertolt	_	_	_	order:LK[V]MF[SO]|props:pp-sname	_	_	_	_
-6	Brecht	_	_	_	order:LK[V]MF[SO]|props:pp-sname	1	nsubj	_	_
+5	Bertolt	_	_	_	order:LK[V]MF[SO]|props:pp-sname	1	nsubj	_	_
+6	Brecht	_	_	_	order:LK[V]MF[SO]|props:pp-sname	_	_	_	_
 7	Roman	_	_	_	order:LK[V]MF[SO]|props:pp-sname	1	obj	_	_
 8	?	_	_	_	order:LK[V]MF[SO]|props:pp-sname	_	_	_	_
 
@@ -24216,8 +24216,8 @@
 2	in	_	_	_	order:MF[SO]VC[V]|props:pp-sname	_	_	_	_
 3	dem	_	_	_	order:MF[SO]VC[V]|props:pp-sname	_	_	_	_
 4	Jahr	_	_	_	order:MF[SO]VC[V]|props:pp-sname	_	_	_	_
-5	Bertolt	_	_	_	order:MF[SO]VC[V]|props:pp-sname	_	_	_	_
-6	Brecht	_	_	_	order:MF[SO]VC[V]|props:pp-sname	8	nsubj	_	_
+5	Bertolt	_	_	_	order:MF[SO]VC[V]|props:pp-sname	8	nsubj	_	_
+6	Brecht	_	_	_	order:MF[SO]VC[V]|props:pp-sname	_	_	_	_
 7	Roman	_	_	_	order:MF[SO]VC[V]|props:pp-sname	8	obj	_	_
 8	schreibt	_	_	_	order:MF[SO]VC[V]|props:pp-sname	0	verb	_	_
 9	.	_	_	_	order:MF[SO]VC[V]|props:pp-sname	_	_	_	_
@@ -24556,8 +24556,8 @@
 5	kratzt	_	_	_	order:MF[SO]VC[V]|props:oan-sname	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:oan-sname	_	_	_	_
 
-1	Bertolt	_	_	_	order:VF[S]LK[V]MF[O]|props:oan-sname	_	_	_	_
-2	Brecht	_	_	_	order:VF[S]LK[V]MF[O]|props:oan-sname	3	nsubj	_	_
+1	Bertolt	_	_	_	order:VF[S]LK[V]MF[O]|props:oan-sname	3	nsubj	_	_
+2	Brecht	_	_	_	order:VF[S]LK[V]MF[O]|props:oan-sname	_	_	_	_
 3	streift	_	_	_	order:VF[S]LK[V]MF[O]|props:oan-sname	0	verb	_	_
 4	eine	_	_	_	order:VF[S]LK[V]MF[O]|props:oan-sname	_	_	_	_
 5	Köchin	_	_	_	order:VF[S]LK[V]MF[O]|props:oan-sname	3	obj	_	_
@@ -24565,22 +24565,22 @@
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oan-sname	_	_	_	_
 2	streift	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oan-sname	0	verb	_	_
-3	Bertolt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oan-sname	_	_	_	_
-4	Brecht	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oan-sname	2	nsubj	_	_
+3	Bertolt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oan-sname	2	nsubj	_	_
+4	Brecht	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oan-sname	_	_	_	_
 5	eine	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oan-sname	_	_	_	_
 6	Köchin	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oan-sname	2	obj	_	_
 7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oan-sname	_	_	_	_
 
 1	Streift	_	_	_	order:LK[V]MF[SO]|props:oan-sname	0	verb	_	_
-2	Bertolt	_	_	_	order:LK[V]MF[SO]|props:oan-sname	_	_	_	_
-3	Brecht	_	_	_	order:LK[V]MF[SO]|props:oan-sname	1	nsubj	_	_
+2	Bertolt	_	_	_	order:LK[V]MF[SO]|props:oan-sname	1	nsubj	_	_
+3	Brecht	_	_	_	order:LK[V]MF[SO]|props:oan-sname	_	_	_	_
 4	eine	_	_	_	order:LK[V]MF[SO]|props:oan-sname	_	_	_	_
 5	Köchin	_	_	_	order:LK[V]MF[SO]|props:oan-sname	1	obj	_	_
 6	?	_	_	_	order:LK[V]MF[SO]|props:oan-sname	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:oan-sname	_	_	_	_
-2	Bertolt	_	_	_	order:MF[SO]VC[V]|props:oan-sname	_	_	_	_
-3	Brecht	_	_	_	order:MF[SO]VC[V]|props:oan-sname	6	nsubj	_	_
+2	Bertolt	_	_	_	order:MF[SO]VC[V]|props:oan-sname	6	nsubj	_	_
+3	Brecht	_	_	_	order:MF[SO]VC[V]|props:oan-sname	_	_	_	_
 4	eine	_	_	_	order:MF[SO]VC[V]|props:oan-sname	_	_	_	_
 5	Köchin	_	_	_	order:MF[SO]VC[V]|props:oan-sname	6	obj	_	_
 6	streift	_	_	_	order:MF[SO]VC[V]|props:oan-sname	0	verb	_	_
@@ -24638,8 +24638,8 @@
 5	kopiert	_	_	_	order:MF[SO]VC[V]|props:oan-sname	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:oan-sname	_	_	_	_
 
-1	Günter	_	_	_	order:VF[S]LK[V]MF[O]|props:oan-sname	_	_	_	_
-2	Jauch	_	_	_	order:VF[S]LK[V]MF[O]|props:oan-sname	3	nsubj	_	_
+1	Günter	_	_	_	order:VF[S]LK[V]MF[O]|props:oan-sname	3	nsubj	_	_
+2	Jauch	_	_	_	order:VF[S]LK[V]MF[O]|props:oan-sname	_	_	_	_
 3	beauftragt	_	_	_	order:VF[S]LK[V]MF[O]|props:oan-sname	0	verb	_	_
 4	eine	_	_	_	order:VF[S]LK[V]MF[O]|props:oan-sname	_	_	_	_
 5	Kammerjägerin	_	_	_	order:VF[S]LK[V]MF[O]|props:oan-sname	3	obj	_	_
@@ -24647,22 +24647,22 @@
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oan-sname	_	_	_	_
 2	beauftragt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oan-sname	0	verb	_	_
-3	Günter	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oan-sname	_	_	_	_
-4	Jauch	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oan-sname	2	nsubj	_	_
+3	Günter	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oan-sname	2	nsubj	_	_
+4	Jauch	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oan-sname	_	_	_	_
 5	eine	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oan-sname	_	_	_	_
 6	Kammerjägerin	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oan-sname	2	obj	_	_
 7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oan-sname	_	_	_	_
 
 1	Beauftragt	_	_	_	order:LK[V]MF[SO]|props:oan-sname	0	verb	_	_
-2	Günter	_	_	_	order:LK[V]MF[SO]|props:oan-sname	_	_	_	_
-3	Jauch	_	_	_	order:LK[V]MF[SO]|props:oan-sname	1	nsubj	_	_
+2	Günter	_	_	_	order:LK[V]MF[SO]|props:oan-sname	1	nsubj	_	_
+3	Jauch	_	_	_	order:LK[V]MF[SO]|props:oan-sname	_	_	_	_
 4	eine	_	_	_	order:LK[V]MF[SO]|props:oan-sname	_	_	_	_
 5	Kammerjägerin	_	_	_	order:LK[V]MF[SO]|props:oan-sname	1	obj	_	_
 6	?	_	_	_	order:LK[V]MF[SO]|props:oan-sname	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:oan-sname	_	_	_	_
-2	Günter	_	_	_	order:MF[SO]VC[V]|props:oan-sname	_	_	_	_
-3	Jauch	_	_	_	order:MF[SO]VC[V]|props:oan-sname	6	nsubj	_	_
+2	Günter	_	_	_	order:MF[SO]VC[V]|props:oan-sname	6	nsubj	_	_
+3	Jauch	_	_	_	order:MF[SO]VC[V]|props:oan-sname	_	_	_	_
 4	eine	_	_	_	order:MF[SO]VC[V]|props:oan-sname	_	_	_	_
 5	Kammerjägerin	_	_	_	order:MF[SO]VC[V]|props:oan-sname	6	obj	_	_
 6	beauftragt	_	_	_	order:MF[SO]VC[V]|props:oan-sname	0	verb	_	_
@@ -30006,12 +30006,6 @@
 4	nichts	_	_	_	order:VF[S]LK[V]MF[O]|props:sinan-noref	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:sinan-noref	_	_	_	_
 
-1	Nichts	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-noref	2	obj	_	_
-2	umgeht	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-noref	0	verb	_	_
-3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-noref	_	_	_	_
-4	Quote	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-noref	2	nsubj	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-noref	_	_	_	_
-
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sinan-noref	_	_	_	_
 2	umgeht	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sinan-noref	0	verb	_	_
 3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sinan-noref	_	_	_	_
@@ -30102,12 +30096,6 @@
 4	nichts	_	_	_	order:VF[S]LK[V]MF[O]|props:sinan-noref	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:sinan-noref	_	_	_	_
 
-1	Nichts	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-noref	2	obj	_	_
-2	bringt	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-noref	0	verb	_	_
-3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-noref	_	_	_	_
-4	Arbeit	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-noref	2	nsubj	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-noref	_	_	_	_
-
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sinan-noref	_	_	_	_
 2	bringt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sinan-noref	0	verb	_	_
 3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sinan-noref	_	_	_	_
@@ -30134,12 +30122,6 @@
 4	nichts	_	_	_	order:VF[S]LK[V]MF[O]|props:sinan-noref	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:sinan-noref	_	_	_	_
 
-1	Nichts	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-noref	2	obj	_	_
-2	verändert	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-noref	0	verb	_	_
-3	das	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-noref	_	_	_	_
-4	Bekenntnis	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-noref	2	nsubj	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-noref	_	_	_	_
-
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sinan-noref	_	_	_	_
 2	verändert	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sinan-noref	0	verb	_	_
 3	das	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sinan-noref	_	_	_	_
@@ -30165,12 +30147,6 @@
 3	bildet	_	_	_	order:VF[S]LK[V]MF[O]|props:sinan-noref	0	verb	_	_
 4	nichts	_	_	_	order:VF[S]LK[V]MF[O]|props:sinan-noref	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:sinan-noref	_	_	_	_
-
-1	Nichts	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-noref	2	obj	_	_
-2	bildet	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-noref	0	verb	_	_
-3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-noref	_	_	_	_
-4	Video-Installation	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-noref	2	nsubj	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-noref	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sinan-noref	_	_	_	_
 2	bildet	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sinan-noref	0	verb	_	_
@@ -30775,34 +30751,34 @@
 4	bewirft	_	_	_	order:MF[SO]VC[V]|props:sname-noref	0	verb	_	_
 5	.	_	_	_	order:MF[SO]VC[V]|props:sname-noref	_	_	_	_
 
-1	Günter	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-noref	_	_	_	_
-2	Jauch	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-noref	3	nsubj	_	_
+1	Günter	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-noref	3	nsubj	_	_
+2	Jauch	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-noref	_	_	_	_
 3	findet	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-noref	0	verb	_	_
 4	nichts	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-noref	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-noref	_	_	_	_
 
 1	Nichts	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-noref	2	obj	_	_
 2	findet	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-noref	0	verb	_	_
-3	Günter	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-noref	_	_	_	_
-4	Jauch	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-noref	2	nsubj	_	_
+3	Günter	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-noref	2	nsubj	_	_
+4	Jauch	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-noref	_	_	_	_
 5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-noref	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-noref	_	_	_	_
 2	findet	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-noref	0	verb	_	_
-3	Günter	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-noref	_	_	_	_
-4	Jauch	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-noref	2	nsubj	_	_
+3	Günter	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-noref	2	nsubj	_	_
+4	Jauch	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-noref	_	_	_	_
 5	nichts	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-noref	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-noref	_	_	_	_
 
 1	Findet	_	_	_	order:LK[V]MF[SO]|props:sname-noref	0	verb	_	_
-2	Günter	_	_	_	order:LK[V]MF[SO]|props:sname-noref	_	_	_	_
-3	Jauch	_	_	_	order:LK[V]MF[SO]|props:sname-noref	1	nsubj	_	_
+2	Günter	_	_	_	order:LK[V]MF[SO]|props:sname-noref	1	nsubj	_	_
+3	Jauch	_	_	_	order:LK[V]MF[SO]|props:sname-noref	_	_	_	_
 4	nichts	_	_	_	order:LK[V]MF[SO]|props:sname-noref	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:sname-noref	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:sname-noref	_	_	_	_
-2	Günter	_	_	_	order:MF[SO]VC[V]|props:sname-noref	_	_	_	_
-3	Jauch	_	_	_	order:MF[SO]VC[V]|props:sname-noref	5	nsubj	_	_
+2	Günter	_	_	_	order:MF[SO]VC[V]|props:sname-noref	5	nsubj	_	_
+3	Jauch	_	_	_	order:MF[SO]VC[V]|props:sname-noref	_	_	_	_
 4	nichts	_	_	_	order:MF[SO]VC[V]|props:sname-noref	5	obj	_	_
 5	findet	_	_	_	order:MF[SO]VC[V]|props:sname-noref	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:sname-noref	_	_	_	_
@@ -30888,34 +30864,34 @@
 4	trinkt	_	_	_	order:MF[SO]VC[V]|props:sname-noref	0	verb	_	_
 5	.	_	_	_	order:MF[SO]VC[V]|props:sname-noref	_	_	_	_
 
-1	Bertolt	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-noref	_	_	_	_
-2	Brecht	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-noref	3	nsubj	_	_
+1	Bertolt	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-noref	3	nsubj	_	_
+2	Brecht	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-noref	_	_	_	_
 3	schreibt	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-noref	0	verb	_	_
 4	nichts	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-noref	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-noref	_	_	_	_
 
 1	Nichts	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-noref	2	obj	_	_
 2	schreibt	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-noref	0	verb	_	_
-3	Bertolt	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-noref	_	_	_	_
-4	Brecht	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-noref	2	nsubj	_	_
+3	Bertolt	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-noref	2	nsubj	_	_
+4	Brecht	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-noref	_	_	_	_
 5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-noref	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-noref	_	_	_	_
 2	schreibt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-noref	0	verb	_	_
-3	Bertolt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-noref	_	_	_	_
-4	Brecht	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-noref	2	nsubj	_	_
+3	Bertolt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-noref	2	nsubj	_	_
+4	Brecht	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-noref	_	_	_	_
 5	nichts	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-noref	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-noref	_	_	_	_
 
 1	Schreibt	_	_	_	order:LK[V]MF[SO]|props:sname-noref	0	verb	_	_
-2	Bertolt	_	_	_	order:LK[V]MF[SO]|props:sname-noref	_	_	_	_
-3	Brecht	_	_	_	order:LK[V]MF[SO]|props:sname-noref	1	nsubj	_	_
+2	Bertolt	_	_	_	order:LK[V]MF[SO]|props:sname-noref	1	nsubj	_	_
+3	Brecht	_	_	_	order:LK[V]MF[SO]|props:sname-noref	_	_	_	_
 4	nichts	_	_	_	order:LK[V]MF[SO]|props:sname-noref	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:sname-noref	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:sname-noref	_	_	_	_
-2	Bertolt	_	_	_	order:MF[SO]VC[V]|props:sname-noref	_	_	_	_
-3	Brecht	_	_	_	order:MF[SO]VC[V]|props:sname-noref	5	nsubj	_	_
+2	Bertolt	_	_	_	order:MF[SO]VC[V]|props:sname-noref	5	nsubj	_	_
+3	Brecht	_	_	_	order:MF[SO]VC[V]|props:sname-noref	_	_	_	_
 4	nichts	_	_	_	order:MF[SO]VC[V]|props:sname-noref	5	obj	_	_
 5	schreibt	_	_	_	order:MF[SO]VC[V]|props:sname-noref	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:sname-noref	_	_	_	_
@@ -32685,11 +32661,6 @@
 3	Generäle	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	2	obj	_	_
 4	.	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	_	_	_	_
 
-1	Generäle	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	2	obj	_	_
-2	fesseln	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	0	verb	_	_
-3	sie	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	2	nsubj	_	_
-4	.	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	_	_	_	_
-
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	_	_	_	_
 2	fesseln	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	0	verb	_	_
 3	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	2	nsubj	_	_
@@ -33024,11 +32995,6 @@
 3	Herren	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	2	obj	_	_
 4	.	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	_	_	_	_
 
-1	Herren	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	2	obj	_	_
-2	erstaunen	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	0	verb	_	_
-3	sie	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	2	nsubj	_	_
-4	.	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	_	_	_	_
-
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	_	_	_	_
 2	erstaunen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	0	verb	_	_
 3	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	2	nsubj	_	_
@@ -33102,11 +33068,6 @@
 2	frustrieren	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	0	verb	_	_
 3	Schriftsteller	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	2	obj	_	_
 4	.	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	_	_	_	_
-
-1	Schriftsteller	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	2	obj	_	_
-2	frustrieren	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	0	verb	_	_
-3	sie	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	2	nsubj	_	_
-4	.	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	_	_	_	_
 2	frustrieren	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	0	verb	_	_
@@ -33233,11 +33194,6 @@
 2	reuen	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	0	verb	_	_
 3	Kleinbauern	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	2	obj	_	_
 4	.	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	_	_	_	_
-
-1	Kleinbauern	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	2	obj	_	_
-2	reuen	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	0	verb	_	_
-3	sie	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	2	nsubj	_	_
-4	.	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	_	_	_	_
 2	reuen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	0	verb	_	_
@@ -33366,6 +33322,12 @@
 4	sie	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	_	_	_	_
 
+1	Sie	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	2	obj	_	_
+2	fesseln	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	0	verb	_	_
+3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	_	_	_	_
+4	Angriffe	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	2	nsubj	_	_
+5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	_	_	_	_
+
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	_	_	_	_
 2	fesseln	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	0	verb	_	_
 3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	_	_	_	_
@@ -33373,11 +33335,24 @@
 5	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+2	fesseln	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	0	verb	_	_
+3	sie	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	2	obj	_	_
+4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+5	Angriffe	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	2	nsubj	_	_
+6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+
 1	Fesseln	_	_	_	order:LK[V]MF[SO]|props:opron-psy	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:opron-psy	_	_	_	_
 3	Angriffe	_	_	_	order:LK[V]MF[SO]|props:opron-psy	1	nsubj	_	_
 4	sie	_	_	_	order:LK[V]MF[SO]|props:opron-psy	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:opron-psy	_	_	_	_
+
+1	Fesseln	_	_	_	order:LK[V]MF[OS]|props:opron-psy	0	verb	_	_
+2	sie	_	_	_	order:LK[V]MF[OS]|props:opron-psy	1	obj	_	_
+3	die	_	_	_	order:LK[V]MF[OS]|props:opron-psy	_	_	_	_
+4	Angriffe	_	_	_	order:LK[V]MF[OS]|props:opron-psy	1	nsubj	_	_
+5	?	_	_	_	order:LK[V]MF[OS]|props:opron-psy	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
@@ -33386,11 +33361,24 @@
 5	fesseln	_	_	_	order:MF[SO]VC[V]|props:opron-psy	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
 
+1	Weil	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+2	sie	_	_	_	order:MF[OS]VC[V]|props:opron-psy	5	obj	_	_
+3	die	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+4	Angriffe	_	_	_	order:MF[OS]VC[V]|props:opron-psy	5	nsubj	_	_
+5	fesseln	_	_	_	order:MF[OS]VC[V]|props:opron-psy	0	verb	_	_
+6	.	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+
 1	Das	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	_	_	_	_
 2	Doppelleben	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	3	nsubj	_	_
 3	langweilt	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	0	verb	_	_
 4	sie	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	_	_	_	_
+
+1	Sie	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	2	obj	_	_
+2	langweilt	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	0	verb	_	_
+3	das	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	_	_	_	_
+4	Doppelleben	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	2	nsubj	_	_
+5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	_	_	_	_
 2	langweilt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	0	verb	_	_
@@ -33399,11 +33387,24 @@
 5	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+2	langweilt	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	0	verb	_	_
+3	sie	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	2	obj	_	_
+4	das	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+5	Doppelleben	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	2	nsubj	_	_
+6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+
 1	Langweilt	_	_	_	order:LK[V]MF[SO]|props:opron-psy	0	verb	_	_
 2	das	_	_	_	order:LK[V]MF[SO]|props:opron-psy	_	_	_	_
 3	Doppelleben	_	_	_	order:LK[V]MF[SO]|props:opron-psy	1	nsubj	_	_
 4	sie	_	_	_	order:LK[V]MF[SO]|props:opron-psy	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:opron-psy	_	_	_	_
+
+1	Langweilt	_	_	_	order:LK[V]MF[OS]|props:opron-psy	0	verb	_	_
+2	sie	_	_	_	order:LK[V]MF[OS]|props:opron-psy	1	obj	_	_
+3	das	_	_	_	order:LK[V]MF[OS]|props:opron-psy	_	_	_	_
+4	Doppelleben	_	_	_	order:LK[V]MF[OS]|props:opron-psy	1	nsubj	_	_
+5	?	_	_	_	order:LK[V]MF[OS]|props:opron-psy	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
 2	das	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
@@ -33412,11 +33413,24 @@
 5	langweilt	_	_	_	order:MF[SO]VC[V]|props:opron-psy	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
 
+1	Weil	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+2	sie	_	_	_	order:MF[OS]VC[V]|props:opron-psy	5	obj	_	_
+3	das	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+4	Doppelleben	_	_	_	order:MF[OS]VC[V]|props:opron-psy	5	nsubj	_	_
+5	langweilt	_	_	_	order:MF[OS]VC[V]|props:opron-psy	0	verb	_	_
+6	.	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	_	_	_	_
 2	Aufnahmen	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	3	nsubj	_	_
 3	begeistern	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	0	verb	_	_
 4	sie	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	_	_	_	_
+
+1	Sie	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	2	obj	_	_
+2	begeistern	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	0	verb	_	_
+3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	_	_	_	_
+4	Aufnahmen	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	2	nsubj	_	_
+5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	_	_	_	_
 2	begeistern	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	0	verb	_	_
@@ -33425,11 +33439,24 @@
 5	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+2	begeistern	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	0	verb	_	_
+3	sie	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	2	obj	_	_
+4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+5	Aufnahmen	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	2	nsubj	_	_
+6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+
 1	Begeistern	_	_	_	order:LK[V]MF[SO]|props:opron-psy	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:opron-psy	_	_	_	_
 3	Aufnahmen	_	_	_	order:LK[V]MF[SO]|props:opron-psy	1	nsubj	_	_
 4	sie	_	_	_	order:LK[V]MF[SO]|props:opron-psy	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:opron-psy	_	_	_	_
+
+1	Begeistern	_	_	_	order:LK[V]MF[OS]|props:opron-psy	0	verb	_	_
+2	sie	_	_	_	order:LK[V]MF[OS]|props:opron-psy	1	obj	_	_
+3	die	_	_	_	order:LK[V]MF[OS]|props:opron-psy	_	_	_	_
+4	Aufnahmen	_	_	_	order:LK[V]MF[OS]|props:opron-psy	1	nsubj	_	_
+5	?	_	_	_	order:LK[V]MF[OS]|props:opron-psy	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
@@ -33438,11 +33465,24 @@
 5	begeistern	_	_	_	order:MF[SO]VC[V]|props:opron-psy	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
 
+1	Weil	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+2	sie	_	_	_	order:MF[OS]VC[V]|props:opron-psy	5	obj	_	_
+3	die	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+4	Aufnahmen	_	_	_	order:MF[OS]VC[V]|props:opron-psy	5	nsubj	_	_
+5	begeistern	_	_	_	order:MF[OS]VC[V]|props:opron-psy	0	verb	_	_
+6	.	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	_	_	_	_
 2	Traumhochzeit	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	3	nsubj	_	_
 3	erzürnt	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	0	verb	_	_
 4	sie	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	_	_	_	_
+
+1	Sie	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	2	obj	_	_
+2	erzürnt	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	0	verb	_	_
+3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	_	_	_	_
+4	Traumhochzeit	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	2	nsubj	_	_
+5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	_	_	_	_
 2	erzürnt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	0	verb	_	_
@@ -33451,11 +33491,24 @@
 5	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+2	erzürnt	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	0	verb	_	_
+3	sie	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	2	obj	_	_
+4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+5	Traumhochzeit	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	2	nsubj	_	_
+6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+
 1	Erzürnt	_	_	_	order:LK[V]MF[SO]|props:opron-psy	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:opron-psy	_	_	_	_
 3	Traumhochzeit	_	_	_	order:LK[V]MF[SO]|props:opron-psy	1	nsubj	_	_
 4	sie	_	_	_	order:LK[V]MF[SO]|props:opron-psy	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:opron-psy	_	_	_	_
+
+1	Erzürnt	_	_	_	order:LK[V]MF[OS]|props:opron-psy	0	verb	_	_
+2	sie	_	_	_	order:LK[V]MF[OS]|props:opron-psy	1	obj	_	_
+3	die	_	_	_	order:LK[V]MF[OS]|props:opron-psy	_	_	_	_
+4	Traumhochzeit	_	_	_	order:LK[V]MF[OS]|props:opron-psy	1	nsubj	_	_
+5	?	_	_	_	order:LK[V]MF[OS]|props:opron-psy	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
@@ -33464,11 +33517,24 @@
 5	erzürnt	_	_	_	order:MF[SO]VC[V]|props:opron-psy	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
 
+1	Weil	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+2	sie	_	_	_	order:MF[OS]VC[V]|props:opron-psy	5	obj	_	_
+3	die	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+4	Traumhochzeit	_	_	_	order:MF[OS]VC[V]|props:opron-psy	5	nsubj	_	_
+5	erzürnt	_	_	_	order:MF[OS]VC[V]|props:opron-psy	0	verb	_	_
+6	.	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	_	_	_	_
 2	Kunstwerke	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	3	nsubj	_	_
 3	faszinieren	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	0	verb	_	_
 4	sie	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	_	_	_	_
+
+1	Sie	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	2	obj	_	_
+2	faszinieren	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	0	verb	_	_
+3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	_	_	_	_
+4	Kunstwerke	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	2	nsubj	_	_
+5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	_	_	_	_
 2	faszinieren	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	0	verb	_	_
@@ -33477,11 +33543,24 @@
 5	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+2	faszinieren	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	0	verb	_	_
+3	sie	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	2	obj	_	_
+4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+5	Kunstwerke	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	2	nsubj	_	_
+6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+
 1	Faszinieren	_	_	_	order:LK[V]MF[SO]|props:opron-psy	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:opron-psy	_	_	_	_
 3	Kunstwerke	_	_	_	order:LK[V]MF[SO]|props:opron-psy	1	nsubj	_	_
 4	sie	_	_	_	order:LK[V]MF[SO]|props:opron-psy	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:opron-psy	_	_	_	_
+
+1	Faszinieren	_	_	_	order:LK[V]MF[OS]|props:opron-psy	0	verb	_	_
+2	sie	_	_	_	order:LK[V]MF[OS]|props:opron-psy	1	obj	_	_
+3	die	_	_	_	order:LK[V]MF[OS]|props:opron-psy	_	_	_	_
+4	Kunstwerke	_	_	_	order:LK[V]MF[OS]|props:opron-psy	1	nsubj	_	_
+5	?	_	_	_	order:LK[V]MF[OS]|props:opron-psy	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
@@ -33490,11 +33569,24 @@
 5	faszinieren	_	_	_	order:MF[SO]VC[V]|props:opron-psy	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
 
+1	Weil	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+2	sie	_	_	_	order:MF[OS]VC[V]|props:opron-psy	5	obj	_	_
+3	die	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+4	Kunstwerke	_	_	_	order:MF[OS]VC[V]|props:opron-psy	5	nsubj	_	_
+5	faszinieren	_	_	_	order:MF[OS]VC[V]|props:opron-psy	0	verb	_	_
+6	.	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	_	_	_	_
 2	Lösung	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	3	nsubj	_	_
 3	berührt	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	0	verb	_	_
 4	sie	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	_	_	_	_
+
+1	Sie	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	2	obj	_	_
+2	berührt	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	0	verb	_	_
+3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	_	_	_	_
+4	Lösung	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	2	nsubj	_	_
+5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	_	_	_	_
 2	berührt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	0	verb	_	_
@@ -33503,11 +33595,24 @@
 5	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+2	berührt	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	0	verb	_	_
+3	sie	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	2	obj	_	_
+4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+5	Lösung	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	2	nsubj	_	_
+6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+
 1	Berührt	_	_	_	order:LK[V]MF[SO]|props:opron-psy	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:opron-psy	_	_	_	_
 3	Lösung	_	_	_	order:LK[V]MF[SO]|props:opron-psy	1	nsubj	_	_
 4	sie	_	_	_	order:LK[V]MF[SO]|props:opron-psy	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:opron-psy	_	_	_	_
+
+1	Berührt	_	_	_	order:LK[V]MF[OS]|props:opron-psy	0	verb	_	_
+2	sie	_	_	_	order:LK[V]MF[OS]|props:opron-psy	1	obj	_	_
+3	die	_	_	_	order:LK[V]MF[OS]|props:opron-psy	_	_	_	_
+4	Lösung	_	_	_	order:LK[V]MF[OS]|props:opron-psy	1	nsubj	_	_
+5	?	_	_	_	order:LK[V]MF[OS]|props:opron-psy	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
@@ -33516,11 +33621,24 @@
 5	berührt	_	_	_	order:MF[SO]VC[V]|props:opron-psy	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
 
+1	Weil	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+2	sie	_	_	_	order:MF[OS]VC[V]|props:opron-psy	5	obj	_	_
+3	die	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+4	Lösung	_	_	_	order:MF[OS]VC[V]|props:opron-psy	5	nsubj	_	_
+5	berührt	_	_	_	order:MF[OS]VC[V]|props:opron-psy	0	verb	_	_
+6	.	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	_	_	_	_
 2	Zeitschrift	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	3	nsubj	_	_
 3	ängstigt	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	0	verb	_	_
 4	sie	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	_	_	_	_
+
+1	Sie	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	2	obj	_	_
+2	ängstigt	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	0	verb	_	_
+3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	_	_	_	_
+4	Zeitschrift	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	2	nsubj	_	_
+5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	_	_	_	_
 2	ängstigt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	0	verb	_	_
@@ -33529,11 +33647,24 @@
 5	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+2	ängstigt	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	0	verb	_	_
+3	sie	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	2	obj	_	_
+4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+5	Zeitschrift	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	2	nsubj	_	_
+6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+
 1	Ängstigt	_	_	_	order:LK[V]MF[SO]|props:opron-psy	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:opron-psy	_	_	_	_
 3	Zeitschrift	_	_	_	order:LK[V]MF[SO]|props:opron-psy	1	nsubj	_	_
 4	sie	_	_	_	order:LK[V]MF[SO]|props:opron-psy	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:opron-psy	_	_	_	_
+
+1	Ängstigt	_	_	_	order:LK[V]MF[OS]|props:opron-psy	0	verb	_	_
+2	sie	_	_	_	order:LK[V]MF[OS]|props:opron-psy	1	obj	_	_
+3	die	_	_	_	order:LK[V]MF[OS]|props:opron-psy	_	_	_	_
+4	Zeitschrift	_	_	_	order:LK[V]MF[OS]|props:opron-psy	1	nsubj	_	_
+5	?	_	_	_	order:LK[V]MF[OS]|props:opron-psy	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
@@ -33542,11 +33673,24 @@
 5	ängstigt	_	_	_	order:MF[SO]VC[V]|props:opron-psy	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
 
+1	Weil	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+2	sie	_	_	_	order:MF[OS]VC[V]|props:opron-psy	5	obj	_	_
+3	die	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+4	Zeitschrift	_	_	_	order:MF[OS]VC[V]|props:opron-psy	5	nsubj	_	_
+5	ängstigt	_	_	_	order:MF[OS]VC[V]|props:opron-psy	0	verb	_	_
+6	.	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	_	_	_	_
 2	Bärte	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	3	nsubj	_	_
 3	erstaunen	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	0	verb	_	_
 4	sie	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	_	_	_	_
+
+1	Sie	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	2	obj	_	_
+2	erstaunen	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	0	verb	_	_
+3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	_	_	_	_
+4	Bärte	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	2	nsubj	_	_
+5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	_	_	_	_
 2	erstaunen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	0	verb	_	_
@@ -33555,11 +33699,24 @@
 5	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+2	erstaunen	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	0	verb	_	_
+3	sie	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	2	obj	_	_
+4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+5	Bärte	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	2	nsubj	_	_
+6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+
 1	Erstaunen	_	_	_	order:LK[V]MF[SO]|props:opron-psy	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:opron-psy	_	_	_	_
 3	Bärte	_	_	_	order:LK[V]MF[SO]|props:opron-psy	1	nsubj	_	_
 4	sie	_	_	_	order:LK[V]MF[SO]|props:opron-psy	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:opron-psy	_	_	_	_
+
+1	Erstaunen	_	_	_	order:LK[V]MF[OS]|props:opron-psy	0	verb	_	_
+2	sie	_	_	_	order:LK[V]MF[OS]|props:opron-psy	1	obj	_	_
+3	die	_	_	_	order:LK[V]MF[OS]|props:opron-psy	_	_	_	_
+4	Bärte	_	_	_	order:LK[V]MF[OS]|props:opron-psy	1	nsubj	_	_
+5	?	_	_	_	order:LK[V]MF[OS]|props:opron-psy	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
@@ -33568,11 +33725,24 @@
 5	erstaunen	_	_	_	order:MF[SO]VC[V]|props:opron-psy	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
 
+1	Weil	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+2	sie	_	_	_	order:MF[OS]VC[V]|props:opron-psy	5	obj	_	_
+3	die	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+4	Bärte	_	_	_	order:MF[OS]VC[V]|props:opron-psy	5	nsubj	_	_
+5	erstaunen	_	_	_	order:MF[OS]VC[V]|props:opron-psy	0	verb	_	_
+6	.	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	_	_	_	_
 2	Kaffees	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	3	nsubj	_	_
 3	erfreuen	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	0	verb	_	_
 4	sie	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	_	_	_	_
+
+1	Sie	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	2	obj	_	_
+2	erfreuen	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	0	verb	_	_
+3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	_	_	_	_
+4	Kaffees	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	2	nsubj	_	_
+5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	_	_	_	_
 2	erfreuen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	0	verb	_	_
@@ -33581,11 +33751,24 @@
 5	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+2	erfreuen	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	0	verb	_	_
+3	sie	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	2	obj	_	_
+4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+5	Kaffees	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	2	nsubj	_	_
+6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+
 1	Erfreuen	_	_	_	order:LK[V]MF[SO]|props:opron-psy	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:opron-psy	_	_	_	_
 3	Kaffees	_	_	_	order:LK[V]MF[SO]|props:opron-psy	1	nsubj	_	_
 4	sie	_	_	_	order:LK[V]MF[SO]|props:opron-psy	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:opron-psy	_	_	_	_
+
+1	Erfreuen	_	_	_	order:LK[V]MF[OS]|props:opron-psy	0	verb	_	_
+2	sie	_	_	_	order:LK[V]MF[OS]|props:opron-psy	1	obj	_	_
+3	die	_	_	_	order:LK[V]MF[OS]|props:opron-psy	_	_	_	_
+4	Kaffees	_	_	_	order:LK[V]MF[OS]|props:opron-psy	1	nsubj	_	_
+5	?	_	_	_	order:LK[V]MF[OS]|props:opron-psy	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
@@ -33594,11 +33777,24 @@
 5	erfreuen	_	_	_	order:MF[SO]VC[V]|props:opron-psy	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
 
+1	Weil	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+2	sie	_	_	_	order:MF[OS]VC[V]|props:opron-psy	5	obj	_	_
+3	die	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+4	Kaffees	_	_	_	order:MF[OS]VC[V]|props:opron-psy	5	nsubj	_	_
+5	erfreuen	_	_	_	order:MF[OS]VC[V]|props:opron-psy	0	verb	_	_
+6	.	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	_	_	_	_
 2	Romane	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	3	nsubj	_	_
 3	frustrieren	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	0	verb	_	_
 4	sie	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	_	_	_	_
+
+1	Sie	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	2	obj	_	_
+2	frustrieren	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	0	verb	_	_
+3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	_	_	_	_
+4	Romane	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	2	nsubj	_	_
+5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	_	_	_	_
 2	frustrieren	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	0	verb	_	_
@@ -33607,11 +33803,24 @@
 5	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+2	frustrieren	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	0	verb	_	_
+3	sie	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	2	obj	_	_
+4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+5	Romane	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	2	nsubj	_	_
+6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+
 1	Frustrieren	_	_	_	order:LK[V]MF[SO]|props:opron-psy	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:opron-psy	_	_	_	_
 3	Romane	_	_	_	order:LK[V]MF[SO]|props:opron-psy	1	nsubj	_	_
 4	sie	_	_	_	order:LK[V]MF[SO]|props:opron-psy	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:opron-psy	_	_	_	_
+
+1	Frustrieren	_	_	_	order:LK[V]MF[OS]|props:opron-psy	0	verb	_	_
+2	sie	_	_	_	order:LK[V]MF[OS]|props:opron-psy	1	obj	_	_
+3	die	_	_	_	order:LK[V]MF[OS]|props:opron-psy	_	_	_	_
+4	Romane	_	_	_	order:LK[V]MF[OS]|props:opron-psy	1	nsubj	_	_
+5	?	_	_	_	order:LK[V]MF[OS]|props:opron-psy	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
@@ -33620,11 +33829,24 @@
 5	frustrieren	_	_	_	order:MF[SO]VC[V]|props:opron-psy	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
 
+1	Weil	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+2	sie	_	_	_	order:MF[OS]VC[V]|props:opron-psy	5	obj	_	_
+3	die	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+4	Romane	_	_	_	order:MF[OS]VC[V]|props:opron-psy	5	nsubj	_	_
+5	frustrieren	_	_	_	order:MF[OS]VC[V]|props:opron-psy	0	verb	_	_
+6	.	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	_	_	_	_
 2	Rede	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	3	nsubj	_	_
 3	erbost	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	0	verb	_	_
 4	sie	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	_	_	_	_
+
+1	Sie	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	2	obj	_	_
+2	erbost	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	0	verb	_	_
+3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	_	_	_	_
+4	Rede	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	2	nsubj	_	_
+5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	_	_	_	_
 2	erbost	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	0	verb	_	_
@@ -33633,11 +33855,24 @@
 5	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+2	erbost	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	0	verb	_	_
+3	sie	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	2	obj	_	_
+4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+5	Rede	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	2	nsubj	_	_
+6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+
 1	Erbost	_	_	_	order:LK[V]MF[SO]|props:opron-psy	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:opron-psy	_	_	_	_
 3	Rede	_	_	_	order:LK[V]MF[SO]|props:opron-psy	1	nsubj	_	_
 4	sie	_	_	_	order:LK[V]MF[SO]|props:opron-psy	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:opron-psy	_	_	_	_
+
+1	Erbost	_	_	_	order:LK[V]MF[OS]|props:opron-psy	0	verb	_	_
+2	sie	_	_	_	order:LK[V]MF[OS]|props:opron-psy	1	obj	_	_
+3	die	_	_	_	order:LK[V]MF[OS]|props:opron-psy	_	_	_	_
+4	Rede	_	_	_	order:LK[V]MF[OS]|props:opron-psy	1	nsubj	_	_
+5	?	_	_	_	order:LK[V]MF[OS]|props:opron-psy	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
@@ -33646,11 +33881,24 @@
 5	erbost	_	_	_	order:MF[SO]VC[V]|props:opron-psy	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
 
+1	Weil	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+2	sie	_	_	_	order:MF[OS]VC[V]|props:opron-psy	5	obj	_	_
+3	die	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+4	Rede	_	_	_	order:MF[OS]VC[V]|props:opron-psy	5	nsubj	_	_
+5	erbost	_	_	_	order:MF[OS]VC[V]|props:opron-psy	0	verb	_	_
+6	.	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+
 1	Das	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	_	_	_	_
 2	Grundgehalt	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	3	nsubj	_	_
 3	beschämt	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	0	verb	_	_
 4	sie	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	_	_	_	_
+
+1	Sie	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	2	obj	_	_
+2	beschämt	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	0	verb	_	_
+3	das	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	_	_	_	_
+4	Grundgehalt	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	2	nsubj	_	_
+5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	_	_	_	_
 2	beschämt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	0	verb	_	_
@@ -33659,11 +33907,24 @@
 5	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+2	beschämt	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	0	verb	_	_
+3	sie	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	2	obj	_	_
+4	das	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+5	Grundgehalt	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	2	nsubj	_	_
+6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+
 1	Beschämt	_	_	_	order:LK[V]MF[SO]|props:opron-psy	0	verb	_	_
 2	das	_	_	_	order:LK[V]MF[SO]|props:opron-psy	_	_	_	_
 3	Grundgehalt	_	_	_	order:LK[V]MF[SO]|props:opron-psy	1	nsubj	_	_
 4	sie	_	_	_	order:LK[V]MF[SO]|props:opron-psy	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:opron-psy	_	_	_	_
+
+1	Beschämt	_	_	_	order:LK[V]MF[OS]|props:opron-psy	0	verb	_	_
+2	sie	_	_	_	order:LK[V]MF[OS]|props:opron-psy	1	obj	_	_
+3	das	_	_	_	order:LK[V]MF[OS]|props:opron-psy	_	_	_	_
+4	Grundgehalt	_	_	_	order:LK[V]MF[OS]|props:opron-psy	1	nsubj	_	_
+5	?	_	_	_	order:LK[V]MF[OS]|props:opron-psy	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
 2	das	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
@@ -33672,11 +33933,24 @@
 5	beschämt	_	_	_	order:MF[SO]VC[V]|props:opron-psy	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
 
+1	Weil	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+2	sie	_	_	_	order:MF[OS]VC[V]|props:opron-psy	5	obj	_	_
+3	das	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+4	Grundgehalt	_	_	_	order:MF[OS]VC[V]|props:opron-psy	5	nsubj	_	_
+5	beschämt	_	_	_	order:MF[OS]VC[V]|props:opron-psy	0	verb	_	_
+6	.	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	_	_	_	_
 2	Bauzäune	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	3	nsubj	_	_
 3	reuen	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	0	verb	_	_
 4	sie	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	_	_	_	_
+
+1	Sie	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	2	obj	_	_
+2	reuen	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	0	verb	_	_
+3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	_	_	_	_
+4	Bauzäune	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	2	nsubj	_	_
+5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	_	_	_	_
 2	reuen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	0	verb	_	_
@@ -33685,11 +33959,24 @@
 5	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+2	reuen	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	0	verb	_	_
+3	sie	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	2	obj	_	_
+4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+5	Bauzäune	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	2	nsubj	_	_
+6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+
 1	Reuen	_	_	_	order:LK[V]MF[SO]|props:opron-psy	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:opron-psy	_	_	_	_
 3	Bauzäune	_	_	_	order:LK[V]MF[SO]|props:opron-psy	1	nsubj	_	_
 4	sie	_	_	_	order:LK[V]MF[SO]|props:opron-psy	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:opron-psy	_	_	_	_
+
+1	Reuen	_	_	_	order:LK[V]MF[OS]|props:opron-psy	0	verb	_	_
+2	sie	_	_	_	order:LK[V]MF[OS]|props:opron-psy	1	obj	_	_
+3	die	_	_	_	order:LK[V]MF[OS]|props:opron-psy	_	_	_	_
+4	Bauzäune	_	_	_	order:LK[V]MF[OS]|props:opron-psy	1	nsubj	_	_
+5	?	_	_	_	order:LK[V]MF[OS]|props:opron-psy	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
@@ -33698,11 +33985,24 @@
 5	reuen	_	_	_	order:MF[SO]VC[V]|props:opron-psy	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
 
+1	Weil	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+2	sie	_	_	_	order:MF[OS]VC[V]|props:opron-psy	5	obj	_	_
+3	die	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+4	Bauzäune	_	_	_	order:MF[OS]VC[V]|props:opron-psy	5	nsubj	_	_
+5	reuen	_	_	_	order:MF[OS]VC[V]|props:opron-psy	0	verb	_	_
+6	.	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	_	_	_	_
 2	Tour	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	3	nsubj	_	_
 3	amüsiert	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	0	verb	_	_
 4	sie	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	_	_	_	_
+
+1	Sie	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	2	obj	_	_
+2	amüsiert	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	0	verb	_	_
+3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	_	_	_	_
+4	Tour	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	2	nsubj	_	_
+5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	_	_	_	_
 2	amüsiert	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	0	verb	_	_
@@ -33711,11 +34011,24 @@
 5	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+2	amüsiert	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	0	verb	_	_
+3	sie	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	2	obj	_	_
+4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+5	Tour	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	2	nsubj	_	_
+6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+
 1	Amüsiert	_	_	_	order:LK[V]MF[SO]|props:opron-psy	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:opron-psy	_	_	_	_
 3	Tour	_	_	_	order:LK[V]MF[SO]|props:opron-psy	1	nsubj	_	_
 4	sie	_	_	_	order:LK[V]MF[SO]|props:opron-psy	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:opron-psy	_	_	_	_
+
+1	Amüsiert	_	_	_	order:LK[V]MF[OS]|props:opron-psy	0	verb	_	_
+2	sie	_	_	_	order:LK[V]MF[OS]|props:opron-psy	1	obj	_	_
+3	die	_	_	_	order:LK[V]MF[OS]|props:opron-psy	_	_	_	_
+4	Tour	_	_	_	order:LK[V]MF[OS]|props:opron-psy	1	nsubj	_	_
+5	?	_	_	_	order:LK[V]MF[OS]|props:opron-psy	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
@@ -33724,11 +34037,24 @@
 5	amüsiert	_	_	_	order:MF[SO]VC[V]|props:opron-psy	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
 
+1	Weil	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+2	sie	_	_	_	order:MF[OS]VC[V]|props:opron-psy	5	obj	_	_
+3	die	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+4	Tour	_	_	_	order:MF[OS]VC[V]|props:opron-psy	5	nsubj	_	_
+5	amüsiert	_	_	_	order:MF[OS]VC[V]|props:opron-psy	0	verb	_	_
+6	.	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	_	_	_	_
 2	Bauausführung	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	3	nsubj	_	_
 3	belustigt	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	0	verb	_	_
 4	sie	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	_	_	_	_
+
+1	Sie	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	2	obj	_	_
+2	belustigt	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	0	verb	_	_
+3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	_	_	_	_
+4	Bauausführung	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	2	nsubj	_	_
+5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-psy	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	_	_	_	_
 2	belustigt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	0	verb	_	_
@@ -33737,11 +34063,24 @@
 5	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+2	belustigt	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	0	verb	_	_
+3	sie	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	2	obj	_	_
+4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+5	Bauausführung	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	2	nsubj	_	_
+6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-psy	_	_	_	_
+
 1	Belustigt	_	_	_	order:LK[V]MF[SO]|props:opron-psy	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:opron-psy	_	_	_	_
 3	Bauausführung	_	_	_	order:LK[V]MF[SO]|props:opron-psy	1	nsubj	_	_
 4	sie	_	_	_	order:LK[V]MF[SO]|props:opron-psy	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:opron-psy	_	_	_	_
+
+1	Belustigt	_	_	_	order:LK[V]MF[OS]|props:opron-psy	0	verb	_	_
+2	sie	_	_	_	order:LK[V]MF[OS]|props:opron-psy	1	obj	_	_
+3	die	_	_	_	order:LK[V]MF[OS]|props:opron-psy	_	_	_	_
+4	Bauausführung	_	_	_	order:LK[V]MF[OS]|props:opron-psy	1	nsubj	_	_
+5	?	_	_	_	order:LK[V]MF[OS]|props:opron-psy	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
@@ -33749,6 +34088,13 @@
 4	sie	_	_	_	order:MF[SO]VC[V]|props:opron-psy	5	obj	_	_
 5	belustigt	_	_	_	order:MF[SO]VC[V]|props:opron-psy	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:opron-psy	_	_	_	_
+
+1	Weil	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+2	sie	_	_	_	order:MF[OS]VC[V]|props:opron-psy	5	obj	_	_
+3	die	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
+4	Bauausführung	_	_	_	order:MF[OS]VC[V]|props:opron-psy	5	nsubj	_	_
+5	belustigt	_	_	_	order:MF[OS]VC[V]|props:opron-psy	0	verb	_	_
+6	.	_	_	_	order:MF[OS]VC[V]|props:opron-psy	_	_	_	_
 
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:oneg-psy	_	_	_	_
 2	Angriffe	_	_	_	order:VF[S]LK[V]MF[O]|props:oneg-psy	3	nsubj	_	_
@@ -36308,10 +36654,10 @@
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:regpol-psy	_	_	_	_
 2	Bauzäune	_	_	_	order:VF[S]LK[V]MF[O]|props:regpol-psy	3	nsubj	_	_
 3	reuen	_	_	_	order:VF[S]LK[V]MF[O]|props:regpol-psy	0	verb	_	_
-4	Werkstätte	_	_	_	order:VF[S]LK[V]MF[O]|props:regpol-psy	3	obj	_	_
+4	Werkstätten	_	_	_	order:VF[S]LK[V]MF[O]|props:regpol-psy	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:regpol-psy	_	_	_	_
 
-1	Werkstätte	_	_	_	order:VF[O]LK[V]MF[S]|props:regpol-psy	2	obj	_	_
+1	Werkstätten	_	_	_	order:VF[O]LK[V]MF[S]|props:regpol-psy	2	obj	_	_
 2	reuen	_	_	_	order:VF[O]LK[V]MF[S]|props:regpol-psy	0	verb	_	_
 3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:regpol-psy	_	_	_	_
 4	Bauzäune	_	_	_	order:VF[O]LK[V]MF[S]|props:regpol-psy	2	nsubj	_	_
@@ -36321,19 +36667,19 @@
 2	reuen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-psy	0	verb	_	_
 3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-psy	_	_	_	_
 4	Bauzäune	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-psy	2	nsubj	_	_
-5	Werkstätte	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-psy	2	obj	_	_
+5	Werkstätten	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-psy	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-psy	_	_	_	_
 
 1	Reuen	_	_	_	order:LK[V]MF[SO]|props:regpol-psy	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:regpol-psy	_	_	_	_
 3	Bauzäune	_	_	_	order:LK[V]MF[SO]|props:regpol-psy	1	nsubj	_	_
-4	Werkstätte	_	_	_	order:LK[V]MF[SO]|props:regpol-psy	1	obj	_	_
+4	Werkstätten	_	_	_	order:LK[V]MF[SO]|props:regpol-psy	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:regpol-psy	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:regpol-psy	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:regpol-psy	_	_	_	_
 3	Bauzäune	_	_	_	order:MF[SO]VC[V]|props:regpol-psy	5	nsubj	_	_
-4	Werkstätte	_	_	_	order:MF[SO]VC[V]|props:regpol-psy	5	obj	_	_
+4	Werkstätten	_	_	_	order:MF[SO]VC[V]|props:regpol-psy	5	obj	_	_
 5	reuen	_	_	_	order:MF[SO]VC[V]|props:regpol-psy	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:regpol-psy	_	_	_	_
 
@@ -36667,12 +37013,12 @@
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	_	_	_	_
 2	Zeitschrift	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	3	nsubj	_	_
 3	ängstigt	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	0	verb	_	_
-4	Bertolt	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	_	_	_	_
-5	Brecht	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	3	obj	_	_
+4	Bertolt	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	3	obj	_	_
+5	Brecht	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	_	_	_	_
 6	.	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	_	_	_	_
 
-1	Bertolt	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	_	_	_	_
-2	Brecht	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	3	obj	_	_
+1	Bertolt	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	3	obj	_	_
+2	Brecht	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	_	_	_	_
 3	ängstigt	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	0	verb	_	_
 4	die	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	_	_	_	_
 5	Zeitschrift	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	3	nsubj	_	_
@@ -36682,14 +37028,14 @@
 2	ängstigt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	0	verb	_	_
 3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	_	_	_	_
 4	Zeitschrift	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	2	nsubj	_	_
-5	Bertolt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	_	_	_	_
-6	Brecht	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	2	obj	_	_
+5	Bertolt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	2	obj	_	_
+6	Brecht	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	_	_	_	_
 7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:sname-psy	_	_	_	_
 2	ängstigt	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:sname-psy	0	verb	_	_
-3	Bertolt	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:sname-psy	_	_	_	_
-4	Brecht	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:sname-psy	2	obj	_	_
+3	Bertolt	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:sname-psy	2	obj	_	_
+4	Brecht	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:sname-psy	_	_	_	_
 5	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:sname-psy	_	_	_	_
 6	Zeitschrift	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:sname-psy	2	nsubj	_	_
 7	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:sname-psy	_	_	_	_
@@ -36697,13 +37043,13 @@
 1	Ängstigt	_	_	_	order:LK[V]MF[SO]|props:sname-psy	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:sname-psy	_	_	_	_
 3	Zeitschrift	_	_	_	order:LK[V]MF[SO]|props:sname-psy	1	nsubj	_	_
-4	Bertolt	_	_	_	order:LK[V]MF[SO]|props:sname-psy	_	_	_	_
-5	Brecht	_	_	_	order:LK[V]MF[SO]|props:sname-psy	1	obj	_	_
+4	Bertolt	_	_	_	order:LK[V]MF[SO]|props:sname-psy	1	obj	_	_
+5	Brecht	_	_	_	order:LK[V]MF[SO]|props:sname-psy	_	_	_	_
 6	?	_	_	_	order:LK[V]MF[SO]|props:sname-psy	_	_	_	_
 
 1	Ängstigt	_	_	_	order:LK[V]MF[OS]|props:sname-psy	0	verb	_	_
-2	Bertolt	_	_	_	order:LK[V]MF[OS]|props:sname-psy	_	_	_	_
-3	Brecht	_	_	_	order:LK[V]MF[OS]|props:sname-psy	1	obj	_	_
+2	Bertolt	_	_	_	order:LK[V]MF[OS]|props:sname-psy	1	obj	_	_
+3	Brecht	_	_	_	order:LK[V]MF[OS]|props:sname-psy	_	_	_	_
 4	die	_	_	_	order:LK[V]MF[OS]|props:sname-psy	_	_	_	_
 5	Zeitschrift	_	_	_	order:LK[V]MF[OS]|props:sname-psy	1	nsubj	_	_
 6	?	_	_	_	order:LK[V]MF[OS]|props:sname-psy	_	_	_	_
@@ -36711,14 +37057,14 @@
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:sname-psy	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:sname-psy	_	_	_	_
 3	Zeitschrift	_	_	_	order:MF[SO]VC[V]|props:sname-psy	6	nsubj	_	_
-4	Bertolt	_	_	_	order:MF[SO]VC[V]|props:sname-psy	_	_	_	_
-5	Brecht	_	_	_	order:MF[SO]VC[V]|props:sname-psy	6	obj	_	_
+4	Bertolt	_	_	_	order:MF[SO]VC[V]|props:sname-psy	6	obj	_	_
+5	Brecht	_	_	_	order:MF[SO]VC[V]|props:sname-psy	_	_	_	_
 6	ängstigt	_	_	_	order:MF[SO]VC[V]|props:sname-psy	0	verb	_	_
 7	.	_	_	_	order:MF[SO]VC[V]|props:sname-psy	_	_	_	_
 
 1	Weil	_	_	_	order:MF[OS]VC[V]|props:sname-psy	_	_	_	_
-2	Bertolt	_	_	_	order:MF[OS]VC[V]|props:sname-psy	_	_	_	_
-3	Brecht	_	_	_	order:MF[OS]VC[V]|props:sname-psy	6	obj	_	_
+2	Bertolt	_	_	_	order:MF[OS]VC[V]|props:sname-psy	6	obj	_	_
+3	Brecht	_	_	_	order:MF[OS]VC[V]|props:sname-psy	_	_	_	_
 4	die	_	_	_	order:MF[OS]VC[V]|props:sname-psy	_	_	_	_
 5	Zeitschrift	_	_	_	order:MF[OS]VC[V]|props:sname-psy	6	nsubj	_	_
 6	ängstigt	_	_	_	order:MF[OS]VC[V]|props:sname-psy	0	verb	_	_
@@ -36797,12 +37143,12 @@
 
 1	Roman	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	2	nsubj	_	_
 2	frustriert	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	0	verb	_	_
-3	Günter	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	_	_	_	_
-4	Jauch	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	2	obj	_	_
+3	Günter	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	2	obj	_	_
+4	Jauch	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	_	_	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	_	_	_	_
 
-1	Günter	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	_	_	_	_
-2	Jauch	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	3	obj	_	_
+1	Günter	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	3	obj	_	_
+2	Jauch	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	_	_	_	_
 3	frustriert	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	0	verb	_	_
 4	Roman	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	3	nsubj	_	_
 5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	_	_	_	_
@@ -36810,20 +37156,20 @@
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	_	_	_	_
 2	frustriert	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	0	verb	_	_
 3	Roman	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	2	nsubj	_	_
-4	Günter	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	_	_	_	_
-5	Jauch	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	2	obj	_	_
+4	Günter	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	2	obj	_	_
+5	Jauch	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	_	_	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	_	_	_	_
 
 1	Frustriert	_	_	_	order:LK[V]MF[SO]|props:sname-psy	0	verb	_	_
 2	Roman	_	_	_	order:LK[V]MF[SO]|props:sname-psy	1	nsubj	_	_
-3	Günter	_	_	_	order:LK[V]MF[SO]|props:sname-psy	_	_	_	_
-4	Jauch	_	_	_	order:LK[V]MF[SO]|props:sname-psy	1	obj	_	_
+3	Günter	_	_	_	order:LK[V]MF[SO]|props:sname-psy	1	obj	_	_
+4	Jauch	_	_	_	order:LK[V]MF[SO]|props:sname-psy	_	_	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:sname-psy	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:sname-psy	_	_	_	_
 2	Roman	_	_	_	order:MF[SO]VC[V]|props:sname-psy	5	nsubj	_	_
-3	Günter	_	_	_	order:MF[SO]VC[V]|props:sname-psy	_	_	_	_
-4	Jauch	_	_	_	order:MF[SO]VC[V]|props:sname-psy	5	obj	_	_
+3	Günter	_	_	_	order:MF[SO]VC[V]|props:sname-psy	5	obj	_	_
+4	Jauch	_	_	_	order:MF[SO]VC[V]|props:sname-psy	_	_	_	_
 5	frustriert	_	_	_	order:MF[SO]VC[V]|props:sname-psy	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:sname-psy	_	_	_	_
 
@@ -37121,13 +37467,6 @@
 5	Starke	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	3	obj	_	_
 6	.	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	_	_	_	_
 
-1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	_	_	_	_
-2	Starke	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	3	obj	_	_
-3	langweilt	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	0	verb	_	_
-4	die	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	_	_	_	_
-5	Schwache	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	3	nsubj	_	_
-6	.	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	_	_	_	_
-
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	_	_	_	_
 2	langweilt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	0	verb	_	_
 3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	_	_	_	_
@@ -37136,27 +37475,12 @@
 6	Starke	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	2	obj	_	_
 7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	_	_	_	_
-2	langweilt	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	0	verb	_	_
-3	eine	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	_	_	_	_
-4	Starke	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	2	obj	_	_
-5	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	_	_	_	_
-6	Schwache	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	2	nsubj	_	_
-7	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	_	_	_	_
-
 1	Langweilt	_	_	_	order:LK[V]MF[SO]|props:semas-psy	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:semas-psy	_	_	_	_
 3	Schwache	_	_	_	order:LK[V]MF[SO]|props:semas-psy	1	nsubj	_	_
 4	eine	_	_	_	order:LK[V]MF[SO]|props:semas-psy	_	_	_	_
 5	Starke	_	_	_	order:LK[V]MF[SO]|props:semas-psy	1	obj	_	_
 6	?	_	_	_	order:LK[V]MF[SO]|props:semas-psy	_	_	_	_
-
-1	Langweilt	_	_	_	order:LK[V]MF[OS]|props:semas-psy	0	verb	_	_
-2	eine	_	_	_	order:LK[V]MF[OS]|props:semas-psy	_	_	_	_
-3	Starke	_	_	_	order:LK[V]MF[OS]|props:semas-psy	1	obj	_	_
-4	die	_	_	_	order:LK[V]MF[OS]|props:semas-psy	_	_	_	_
-5	Schwache	_	_	_	order:LK[V]MF[OS]|props:semas-psy	1	nsubj	_	_
-6	?	_	_	_	order:LK[V]MF[OS]|props:semas-psy	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:semas-psy	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:semas-psy	_	_	_	_
@@ -37165,14 +37489,6 @@
 5	Starke	_	_	_	order:MF[SO]VC[V]|props:semas-psy	6	obj	_	_
 6	langweilt	_	_	_	order:MF[SO]VC[V]|props:semas-psy	0	verb	_	_
 7	.	_	_	_	order:MF[SO]VC[V]|props:semas-psy	_	_	_	_
-
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:semas-psy	_	_	_	_
-2	eine	_	_	_	order:MF[OS]VC[V]|props:semas-psy	_	_	_	_
-3	Starke	_	_	_	order:MF[OS]VC[V]|props:semas-psy	6	obj	_	_
-4	die	_	_	_	order:MF[OS]VC[V]|props:semas-psy	_	_	_	_
-5	Schwache	_	_	_	order:MF[OS]VC[V]|props:semas-psy	6	nsubj	_	_
-6	langweilt	_	_	_	order:MF[OS]VC[V]|props:semas-psy	0	verb	_	_
-7	.	_	_	_	order:MF[OS]VC[V]|props:semas-psy	_	_	_	_
 
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	_	_	_	_
 2	Beute	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	3	nsubj	_	_
@@ -37241,13 +37557,6 @@
 5	Produzentin	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	3	obj	_	_
 6	.	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	_	_	_	_
 
-1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	_	_	_	_
-2	Produzentin	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	3	obj	_	_
-3	erzürnt	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	0	verb	_	_
-4	die	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	_	_	_	_
-5	Abnehmerin	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	3	nsubj	_	_
-6	.	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	_	_	_	_
-
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	_	_	_	_
 2	erzürnt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	0	verb	_	_
 3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	_	_	_	_
@@ -37256,27 +37565,12 @@
 6	Produzentin	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	2	obj	_	_
 7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	_	_	_	_
-2	erzürnt	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	0	verb	_	_
-3	eine	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	_	_	_	_
-4	Produzentin	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	2	obj	_	_
-5	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	_	_	_	_
-6	Abnehmerin	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	2	nsubj	_	_
-7	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	_	_	_	_
-
 1	Erzürnt	_	_	_	order:LK[V]MF[SO]|props:semas-psy	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:semas-psy	_	_	_	_
 3	Abnehmerin	_	_	_	order:LK[V]MF[SO]|props:semas-psy	1	nsubj	_	_
 4	eine	_	_	_	order:LK[V]MF[SO]|props:semas-psy	_	_	_	_
 5	Produzentin	_	_	_	order:LK[V]MF[SO]|props:semas-psy	1	obj	_	_
 6	?	_	_	_	order:LK[V]MF[SO]|props:semas-psy	_	_	_	_
-
-1	Erzürnt	_	_	_	order:LK[V]MF[OS]|props:semas-psy	0	verb	_	_
-2	eine	_	_	_	order:LK[V]MF[OS]|props:semas-psy	_	_	_	_
-3	Produzentin	_	_	_	order:LK[V]MF[OS]|props:semas-psy	1	obj	_	_
-4	die	_	_	_	order:LK[V]MF[OS]|props:semas-psy	_	_	_	_
-5	Abnehmerin	_	_	_	order:LK[V]MF[OS]|props:semas-psy	1	nsubj	_	_
-6	?	_	_	_	order:LK[V]MF[OS]|props:semas-psy	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:semas-psy	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:semas-psy	_	_	_	_
@@ -37286,25 +37580,11 @@
 6	erzürnt	_	_	_	order:MF[SO]VC[V]|props:semas-psy	0	verb	_	_
 7	.	_	_	_	order:MF[SO]VC[V]|props:semas-psy	_	_	_	_
 
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:semas-psy	_	_	_	_
-2	eine	_	_	_	order:MF[OS]VC[V]|props:semas-psy	_	_	_	_
-3	Produzentin	_	_	_	order:MF[OS]VC[V]|props:semas-psy	6	obj	_	_
-4	die	_	_	_	order:MF[OS]VC[V]|props:semas-psy	_	_	_	_
-5	Abnehmerin	_	_	_	order:MF[OS]VC[V]|props:semas-psy	6	nsubj	_	_
-6	erzürnt	_	_	_	order:MF[OS]VC[V]|props:semas-psy	0	verb	_	_
-7	.	_	_	_	order:MF[OS]VC[V]|props:semas-psy	_	_	_	_
-
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	_	_	_	_
 2	Stars	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	3	nsubj	_	_
 3	faszinieren	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	0	verb	_	_
 4	Teenager	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	_	_	_	_
-
-1	Teenager	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	2	obj	_	_
-2	faszinieren	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	0	verb	_	_
-3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	_	_	_	_
-4	Stars	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	2	nsubj	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	_	_	_	_
 2	faszinieren	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	0	verb	_	_
@@ -37339,24 +37619,11 @@
 5	faszinieren	_	_	_	order:MF[SO]VC[V]|props:semas-psy	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:semas-psy	_	_	_	_
 
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:semas-psy	_	_	_	_
-2	Teenager	_	_	_	order:MF[OS]VC[V]|props:semas-psy	5	obj	_	_
-3	die	_	_	_	order:MF[OS]VC[V]|props:semas-psy	_	_	_	_
-4	Stars	_	_	_	order:MF[OS]VC[V]|props:semas-psy	5	nsubj	_	_
-5	faszinieren	_	_	_	order:MF[OS]VC[V]|props:semas-psy	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:semas-psy	_	_	_	_
-
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	_	_	_	_
 2	Söhne	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	3	nsubj	_	_
 3	berühren	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	0	verb	_	_
 4	Mütter	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	_	_	_	_
-
-1	Mütter	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	2	obj	_	_
-2	berühren	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	0	verb	_	_
-3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	_	_	_	_
-4	Söhne	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	2	nsubj	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	_	_	_	_
 2	berühren	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	0	verb	_	_
@@ -37365,24 +37632,11 @@
 5	Mütter	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	_	_	_	_
-2	berühren	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	0	verb	_	_
-3	Mütter	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	2	obj	_	_
-4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	_	_	_	_
-5	Söhne	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	_	_	_	_
-
 1	Berühren	_	_	_	order:LK[V]MF[SO]|props:semas-psy	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:semas-psy	_	_	_	_
 3	Söhne	_	_	_	order:LK[V]MF[SO]|props:semas-psy	1	nsubj	_	_
 4	Mütter	_	_	_	order:LK[V]MF[SO]|props:semas-psy	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:semas-psy	_	_	_	_
-
-1	Berühren	_	_	_	order:LK[V]MF[OS]|props:semas-psy	0	verb	_	_
-2	Mütter	_	_	_	order:LK[V]MF[OS]|props:semas-psy	1	obj	_	_
-3	die	_	_	_	order:LK[V]MF[OS]|props:semas-psy	_	_	_	_
-4	Söhne	_	_	_	order:LK[V]MF[OS]|props:semas-psy	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:semas-psy	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:semas-psy	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:semas-psy	_	_	_	_
@@ -37391,26 +37645,12 @@
 5	berühren	_	_	_	order:MF[SO]VC[V]|props:semas-psy	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:semas-psy	_	_	_	_
 
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:semas-psy	_	_	_	_
-2	Mütter	_	_	_	order:MF[OS]VC[V]|props:semas-psy	5	obj	_	_
-3	die	_	_	_	order:MF[OS]VC[V]|props:semas-psy	_	_	_	_
-4	Söhne	_	_	_	order:MF[OS]VC[V]|props:semas-psy	5	nsubj	_	_
-5	berühren	_	_	_	order:MF[OS]VC[V]|props:semas-psy	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:semas-psy	_	_	_	_
-
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	_	_	_	_
 2	Kundin	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	3	nsubj	_	_
 3	ängstigt	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	0	verb	_	_
 4	eine	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	_	_	_	_
 5	Barbierin	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	3	obj	_	_
 6	.	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	_	_	_	_
-
-1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	_	_	_	_
-2	Barbierin	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	3	obj	_	_
-3	ängstigt	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	0	verb	_	_
-4	die	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	_	_	_	_
-5	Kundin	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	3	nsubj	_	_
-6	.	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	_	_	_	_
 2	ängstigt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	0	verb	_	_
@@ -37420,27 +37660,12 @@
 6	Barbierin	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	2	obj	_	_
 7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	_	_	_	_
-2	ängstigt	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	0	verb	_	_
-3	eine	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	_	_	_	_
-4	Barbierin	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	2	obj	_	_
-5	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	_	_	_	_
-6	Kundin	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	2	nsubj	_	_
-7	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	_	_	_	_
-
 1	Ängstigt	_	_	_	order:LK[V]MF[SO]|props:semas-psy	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:semas-psy	_	_	_	_
 3	Kundin	_	_	_	order:LK[V]MF[SO]|props:semas-psy	1	nsubj	_	_
 4	eine	_	_	_	order:LK[V]MF[SO]|props:semas-psy	_	_	_	_
 5	Barbierin	_	_	_	order:LK[V]MF[SO]|props:semas-psy	1	obj	_	_
 6	?	_	_	_	order:LK[V]MF[SO]|props:semas-psy	_	_	_	_
-
-1	Ängstigt	_	_	_	order:LK[V]MF[OS]|props:semas-psy	0	verb	_	_
-2	eine	_	_	_	order:LK[V]MF[OS]|props:semas-psy	_	_	_	_
-3	Barbierin	_	_	_	order:LK[V]MF[OS]|props:semas-psy	1	obj	_	_
-4	die	_	_	_	order:LK[V]MF[OS]|props:semas-psy	_	_	_	_
-5	Kundin	_	_	_	order:LK[V]MF[OS]|props:semas-psy	1	nsubj	_	_
-6	?	_	_	_	order:LK[V]MF[OS]|props:semas-psy	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:semas-psy	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:semas-psy	_	_	_	_
@@ -37450,27 +37675,12 @@
 6	ängstigt	_	_	_	order:MF[SO]VC[V]|props:semas-psy	0	verb	_	_
 7	.	_	_	_	order:MF[SO]VC[V]|props:semas-psy	_	_	_	_
 
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:semas-psy	_	_	_	_
-2	eine	_	_	_	order:MF[OS]VC[V]|props:semas-psy	_	_	_	_
-3	Barbierin	_	_	_	order:MF[OS]VC[V]|props:semas-psy	6	obj	_	_
-4	die	_	_	_	order:MF[OS]VC[V]|props:semas-psy	_	_	_	_
-5	Kundin	_	_	_	order:MF[OS]VC[V]|props:semas-psy	6	nsubj	_	_
-6	ängstigt	_	_	_	order:MF[OS]VC[V]|props:semas-psy	0	verb	_	_
-7	.	_	_	_	order:MF[OS]VC[V]|props:semas-psy	_	_	_	_
-
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	_	_	_	_
 2	Schülerin	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	3	nsubj	_	_
 3	erstaunt	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	0	verb	_	_
 4	eine	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	_	_	_	_
 5	Lehrerin	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	3	obj	_	_
 6	.	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	_	_	_	_
-
-1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	_	_	_	_
-2	Lehrerin	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	3	obj	_	_
-3	erstaunt	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	0	verb	_	_
-4	die	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	_	_	_	_
-5	Schülerin	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	3	nsubj	_	_
-6	.	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	_	_	_	_
 2	erstaunt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	0	verb	_	_
@@ -37480,27 +37690,12 @@
 6	Lehrerin	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	2	obj	_	_
 7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	_	_	_	_
-2	erstaunt	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	0	verb	_	_
-3	eine	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	_	_	_	_
-4	Lehrerin	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	2	obj	_	_
-5	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	_	_	_	_
-6	Schülerin	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	2	nsubj	_	_
-7	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	_	_	_	_
-
 1	Erstaunt	_	_	_	order:LK[V]MF[SO]|props:semas-psy	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:semas-psy	_	_	_	_
 3	Schülerin	_	_	_	order:LK[V]MF[SO]|props:semas-psy	1	nsubj	_	_
 4	eine	_	_	_	order:LK[V]MF[SO]|props:semas-psy	_	_	_	_
 5	Lehrerin	_	_	_	order:LK[V]MF[SO]|props:semas-psy	1	obj	_	_
 6	?	_	_	_	order:LK[V]MF[SO]|props:semas-psy	_	_	_	_
-
-1	Erstaunt	_	_	_	order:LK[V]MF[OS]|props:semas-psy	0	verb	_	_
-2	eine	_	_	_	order:LK[V]MF[OS]|props:semas-psy	_	_	_	_
-3	Lehrerin	_	_	_	order:LK[V]MF[OS]|props:semas-psy	1	obj	_	_
-4	die	_	_	_	order:LK[V]MF[OS]|props:semas-psy	_	_	_	_
-5	Schülerin	_	_	_	order:LK[V]MF[OS]|props:semas-psy	1	nsubj	_	_
-6	?	_	_	_	order:LK[V]MF[OS]|props:semas-psy	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:semas-psy	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:semas-psy	_	_	_	_
@@ -37510,27 +37705,12 @@
 6	erstaunt	_	_	_	order:MF[SO]VC[V]|props:semas-psy	0	verb	_	_
 7	.	_	_	_	order:MF[SO]VC[V]|props:semas-psy	_	_	_	_
 
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:semas-psy	_	_	_	_
-2	eine	_	_	_	order:MF[OS]VC[V]|props:semas-psy	_	_	_	_
-3	Lehrerin	_	_	_	order:MF[OS]VC[V]|props:semas-psy	6	obj	_	_
-4	die	_	_	_	order:MF[OS]VC[V]|props:semas-psy	_	_	_	_
-5	Schülerin	_	_	_	order:MF[OS]VC[V]|props:semas-psy	6	nsubj	_	_
-6	erstaunt	_	_	_	order:MF[OS]VC[V]|props:semas-psy	0	verb	_	_
-7	.	_	_	_	order:MF[OS]VC[V]|props:semas-psy	_	_	_	_
-
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	_	_	_	_
 2	Angestellte	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	3	nsubj	_	_
 3	erfreut	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	0	verb	_	_
 4	eine	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	_	_	_	_
 5	Vorgesetzte	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	3	obj	_	_
 6	.	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	_	_	_	_
-
-1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	_	_	_	_
-2	Vorgesetzte	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	3	obj	_	_
-3	erfreut	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	0	verb	_	_
-4	die	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	_	_	_	_
-5	Angestellte	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	3	nsubj	_	_
-6	.	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	_	_	_	_
 2	erfreut	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	0	verb	_	_
@@ -37540,27 +37720,12 @@
 6	Vorgesetzte	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	2	obj	_	_
 7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	_	_	_	_
-2	erfreut	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	0	verb	_	_
-3	eine	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	_	_	_	_
-4	Vorgesetzte	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	2	obj	_	_
-5	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	_	_	_	_
-6	Angestellte	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	2	nsubj	_	_
-7	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	_	_	_	_
-
 1	Erfreut	_	_	_	order:LK[V]MF[SO]|props:semas-psy	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:semas-psy	_	_	_	_
 3	Angestellte	_	_	_	order:LK[V]MF[SO]|props:semas-psy	1	nsubj	_	_
 4	eine	_	_	_	order:LK[V]MF[SO]|props:semas-psy	_	_	_	_
 5	Vorgesetzte	_	_	_	order:LK[V]MF[SO]|props:semas-psy	1	obj	_	_
 6	?	_	_	_	order:LK[V]MF[SO]|props:semas-psy	_	_	_	_
-
-1	Erfreut	_	_	_	order:LK[V]MF[OS]|props:semas-psy	0	verb	_	_
-2	eine	_	_	_	order:LK[V]MF[OS]|props:semas-psy	_	_	_	_
-3	Vorgesetzte	_	_	_	order:LK[V]MF[OS]|props:semas-psy	1	obj	_	_
-4	die	_	_	_	order:LK[V]MF[OS]|props:semas-psy	_	_	_	_
-5	Angestellte	_	_	_	order:LK[V]MF[OS]|props:semas-psy	1	nsubj	_	_
-6	?	_	_	_	order:LK[V]MF[OS]|props:semas-psy	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:semas-psy	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:semas-psy	_	_	_	_
@@ -37569,14 +37734,6 @@
 5	Vorgesetzte	_	_	_	order:MF[SO]VC[V]|props:semas-psy	6	obj	_	_
 6	erfreut	_	_	_	order:MF[SO]VC[V]|props:semas-psy	0	verb	_	_
 7	.	_	_	_	order:MF[SO]VC[V]|props:semas-psy	_	_	_	_
-
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:semas-psy	_	_	_	_
-2	eine	_	_	_	order:MF[OS]VC[V]|props:semas-psy	_	_	_	_
-3	Vorgesetzte	_	_	_	order:MF[OS]VC[V]|props:semas-psy	6	obj	_	_
-4	die	_	_	_	order:MF[OS]VC[V]|props:semas-psy	_	_	_	_
-5	Angestellte	_	_	_	order:MF[OS]VC[V]|props:semas-psy	6	nsubj	_	_
-6	erfreut	_	_	_	order:MF[OS]VC[V]|props:semas-psy	0	verb	_	_
-7	.	_	_	_	order:MF[OS]VC[V]|props:semas-psy	_	_	_	_
 
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	_	_	_	_
 2	Verdächtige	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	3	nsubj	_	_
@@ -37705,13 +37862,6 @@
 5	Ärztin	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	3	obj	_	_
 6	.	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	_	_	_	_
 
-1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	_	_	_	_
-2	Ärztin	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	3	obj	_	_
-3	amüsiert	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	0	verb	_	_
-4	die	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	_	_	_	_
-5	Patientin	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	3	nsubj	_	_
-6	.	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	_	_	_	_
-
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	_	_	_	_
 2	amüsiert	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	0	verb	_	_
 3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	_	_	_	_
@@ -37720,27 +37870,12 @@
 6	Ärztin	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	2	obj	_	_
 7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	_	_	_	_
-2	amüsiert	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	0	verb	_	_
-3	eine	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	_	_	_	_
-4	Ärztin	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	2	obj	_	_
-5	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	_	_	_	_
-6	Patientin	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	2	nsubj	_	_
-7	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	_	_	_	_
-
 1	Amüsiert	_	_	_	order:LK[V]MF[SO]|props:semas-psy	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:semas-psy	_	_	_	_
 3	Patientin	_	_	_	order:LK[V]MF[SO]|props:semas-psy	1	nsubj	_	_
 4	eine	_	_	_	order:LK[V]MF[SO]|props:semas-psy	_	_	_	_
 5	Ärztin	_	_	_	order:LK[V]MF[SO]|props:semas-psy	1	obj	_	_
 6	?	_	_	_	order:LK[V]MF[SO]|props:semas-psy	_	_	_	_
-
-1	Amüsiert	_	_	_	order:LK[V]MF[OS]|props:semas-psy	0	verb	_	_
-2	eine	_	_	_	order:LK[V]MF[OS]|props:semas-psy	_	_	_	_
-3	Ärztin	_	_	_	order:LK[V]MF[OS]|props:semas-psy	1	obj	_	_
-4	die	_	_	_	order:LK[V]MF[OS]|props:semas-psy	_	_	_	_
-5	Patientin	_	_	_	order:LK[V]MF[OS]|props:semas-psy	1	nsubj	_	_
-6	?	_	_	_	order:LK[V]MF[OS]|props:semas-psy	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:semas-psy	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:semas-psy	_	_	_	_
@@ -37749,14 +37884,6 @@
 5	Ärztin	_	_	_	order:MF[SO]VC[V]|props:semas-psy	6	obj	_	_
 6	amüsiert	_	_	_	order:MF[SO]VC[V]|props:semas-psy	0	verb	_	_
 7	.	_	_	_	order:MF[SO]VC[V]|props:semas-psy	_	_	_	_
-
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:semas-psy	_	_	_	_
-2	eine	_	_	_	order:MF[OS]VC[V]|props:semas-psy	_	_	_	_
-3	Ärztin	_	_	_	order:MF[OS]VC[V]|props:semas-psy	6	obj	_	_
-4	die	_	_	_	order:MF[OS]VC[V]|props:semas-psy	_	_	_	_
-5	Patientin	_	_	_	order:MF[OS]VC[V]|props:semas-psy	6	nsubj	_	_
-6	amüsiert	_	_	_	order:MF[OS]VC[V]|props:semas-psy	0	verb	_	_
-7	.	_	_	_	order:MF[OS]VC[V]|props:semas-psy	_	_	_	_
 
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	_	_	_	_
 2	Pächterin	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	3	nsubj	_	_
@@ -37825,13 +37952,6 @@
 5	Pfarrerin	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	3	obj	_	_
 6	.	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	_	_	_	_
 
-1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	_	_	_	_
-2	Pfarrerin	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	3	obj	_	_
-3	beschämt	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	0	verb	_	_
-4	das	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	_	_	_	_
-5	Beichtkind	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	3	nsubj	_	_
-6	.	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	_	_	_	_
-
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	_	_	_	_
 2	beschämt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	0	verb	_	_
 3	das	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	_	_	_	_
@@ -37840,27 +37960,12 @@
 6	Pfarrerin	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	2	obj	_	_
 7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	_	_	_	_
-2	beschämt	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	0	verb	_	_
-3	eine	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	_	_	_	_
-4	Pfarrerin	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	2	obj	_	_
-5	das	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	_	_	_	_
-6	Beichtkind	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	2	nsubj	_	_
-7	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:semas-psy	_	_	_	_
-
 1	Beschämt	_	_	_	order:LK[V]MF[SO]|props:semas-psy	0	verb	_	_
 2	das	_	_	_	order:LK[V]MF[SO]|props:semas-psy	_	_	_	_
 3	Beichtkind	_	_	_	order:LK[V]MF[SO]|props:semas-psy	1	nsubj	_	_
 4	eine	_	_	_	order:LK[V]MF[SO]|props:semas-psy	_	_	_	_
 5	Pfarrerin	_	_	_	order:LK[V]MF[SO]|props:semas-psy	1	obj	_	_
 6	?	_	_	_	order:LK[V]MF[SO]|props:semas-psy	_	_	_	_
-
-1	Beschämt	_	_	_	order:LK[V]MF[OS]|props:semas-psy	0	verb	_	_
-2	eine	_	_	_	order:LK[V]MF[OS]|props:semas-psy	_	_	_	_
-3	Pfarrerin	_	_	_	order:LK[V]MF[OS]|props:semas-psy	1	obj	_	_
-4	das	_	_	_	order:LK[V]MF[OS]|props:semas-psy	_	_	_	_
-5	Beichtkind	_	_	_	order:LK[V]MF[OS]|props:semas-psy	1	nsubj	_	_
-6	?	_	_	_	order:LK[V]MF[OS]|props:semas-psy	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:semas-psy	_	_	_	_
 2	das	_	_	_	order:MF[SO]VC[V]|props:semas-psy	_	_	_	_
@@ -37869,14 +37974,6 @@
 5	Pfarrerin	_	_	_	order:MF[SO]VC[V]|props:semas-psy	6	obj	_	_
 6	beschämt	_	_	_	order:MF[SO]VC[V]|props:semas-psy	0	verb	_	_
 7	.	_	_	_	order:MF[SO]VC[V]|props:semas-psy	_	_	_	_
-
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:semas-psy	_	_	_	_
-2	eine	_	_	_	order:MF[OS]VC[V]|props:semas-psy	_	_	_	_
-3	Pfarrerin	_	_	_	order:MF[OS]VC[V]|props:semas-psy	6	obj	_	_
-4	das	_	_	_	order:MF[OS]VC[V]|props:semas-psy	_	_	_	_
-5	Beichtkind	_	_	_	order:MF[OS]VC[V]|props:semas-psy	6	nsubj	_	_
-6	beschämt	_	_	_	order:MF[OS]VC[V]|props:semas-psy	0	verb	_	_
-7	.	_	_	_	order:MF[OS]VC[V]|props:semas-psy	_	_	_	_
 
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	_	_	_	_
 2	Examenskandidatin	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	3	nsubj	_	_
@@ -37943,12 +38040,6 @@
 3	begeistern	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	0	verb	_	_
 4	Meister	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	_	_	_	_
-
-1	Meister	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	2	obj	_	_
-2	begeistern	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	0	verb	_	_
-3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	_	_	_	_
-4	Azubis	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	2	nsubj	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	_	_	_	_
 2	begeistern	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	0	verb	_	_
@@ -41508,34 +41599,34 @@
 4	nimmt	_	_	_	order:MF[SO]VC[V]|props:sname-vlight	0	verb	_	_
 5	.	_	_	_	order:MF[SO]VC[V]|props:sname-vlight	_	_	_	_
 
-1	Günter	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-vlight	_	_	_	_
-2	Jauch	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-vlight	3	nsubj	_	_
+1	Günter	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-vlight	3	nsubj	_	_
+2	Jauch	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-vlight	_	_	_	_
 3	nimmt	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-vlight	0	verb	_	_
 4	Abschied	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-vlight	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-vlight	_	_	_	_
 
 1	Abschied	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-vlight	2	obj	_	_
 2	nimmt	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-vlight	0	verb	_	_
-3	Günter	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-vlight	_	_	_	_
-4	Jauch	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-vlight	2	nsubj	_	_
+3	Günter	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-vlight	2	nsubj	_	_
+4	Jauch	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-vlight	_	_	_	_
 5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-vlight	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-vlight	_	_	_	_
 2	nimmt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-vlight	0	verb	_	_
-3	Günter	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-vlight	_	_	_	_
-4	Jauch	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-vlight	2	nsubj	_	_
+3	Günter	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-vlight	2	nsubj	_	_
+4	Jauch	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-vlight	_	_	_	_
 5	Abschied	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-vlight	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-vlight	_	_	_	_
 
 1	Nimmt	_	_	_	order:LK[V]MF[SO]|props:sname-vlight	0	verb	_	_
-2	Günter	_	_	_	order:LK[V]MF[SO]|props:sname-vlight	_	_	_	_
-3	Jauch	_	_	_	order:LK[V]MF[SO]|props:sname-vlight	1	nsubj	_	_
+2	Günter	_	_	_	order:LK[V]MF[SO]|props:sname-vlight	1	nsubj	_	_
+3	Jauch	_	_	_	order:LK[V]MF[SO]|props:sname-vlight	_	_	_	_
 4	Abschied	_	_	_	order:LK[V]MF[SO]|props:sname-vlight	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:sname-vlight	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:sname-vlight	_	_	_	_
-2	Günter	_	_	_	order:MF[SO]VC[V]|props:sname-vlight	_	_	_	_
-3	Jauch	_	_	_	order:MF[SO]VC[V]|props:sname-vlight	5	nsubj	_	_
+2	Günter	_	_	_	order:MF[SO]VC[V]|props:sname-vlight	5	nsubj	_	_
+3	Jauch	_	_	_	order:MF[SO]VC[V]|props:sname-vlight	_	_	_	_
 4	Abschied	_	_	_	order:MF[SO]VC[V]|props:sname-vlight	5	obj	_	_
 5	nimmt	_	_	_	order:MF[SO]VC[V]|props:sname-vlight	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:sname-vlight	_	_	_	_
@@ -45483,6 +45574,13 @@
 5	EZB-Chefin	_	_	_	order:VF[S]LK[V]MF[O]|props:oan-syn	3	obj	_	_
 6	.	_	_	_	order:VF[S]LK[V]MF[O]|props:oan-syn	_	_	_	_
 
+1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:oan-syn	_	_	_	_
+2	EZB-Chefin	_	_	_	order:VF[O]LK[V]MF[S]|props:oan-syn	3	obj	_	_
+3	interviewt	_	_	_	order:VF[O]LK[V]MF[S]|props:oan-syn	0	verb	_	_
+4	die	_	_	_	order:VF[O]LK[V]MF[S]|props:oan-syn	_	_	_	_
+5	Fernsehreporterin	_	_	_	order:VF[O]LK[V]MF[S]|props:oan-syn	3	nsubj	_	_
+6	.	_	_	_	order:VF[O]LK[V]MF[S]|props:oan-syn	_	_	_	_
+
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oan-syn	_	_	_	_
 2	interviewt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oan-syn	0	verb	_	_
 3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oan-syn	_	_	_	_
@@ -45658,6 +45756,13 @@
 4	eine	_	_	_	order:VF[S]LK[V]MF[O]|props:oan-syn	_	_	_	_
 5	Kammerjägerin	_	_	_	order:VF[S]LK[V]MF[O]|props:oan-syn	3	obj	_	_
 6	.	_	_	_	order:VF[S]LK[V]MF[O]|props:oan-syn	_	_	_	_
+
+1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:oan-syn	_	_	_	_
+2	Kammerjägerin	_	_	_	order:VF[O]LK[V]MF[S]|props:oan-syn	3	obj	_	_
+3	betraut	_	_	_	order:VF[O]LK[V]MF[S]|props:oan-syn	0	verb	_	_
+4	die	_	_	_	order:VF[O]LK[V]MF[S]|props:oan-syn	_	_	_	_
+5	Mieterin	_	_	_	order:VF[O]LK[V]MF[S]|props:oan-syn	3	nsubj	_	_
+6	.	_	_	_	order:VF[O]LK[V]MF[S]|props:oan-syn	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oan-syn	_	_	_	_
 2	betraut	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oan-syn	0	verb	_	_
@@ -46027,11 +46132,24 @@
 5	Jogger	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:invan-syn	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:invan-syn	_	_	_	_
 
+1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:invan-syn	_	_	_	_
+2	schmerzen	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:invan-syn	0	verb	_	_
+3	Jogger	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:invan-syn	2	obj	_	_
+4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:invan-syn	_	_	_	_
+5	Schuhe	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:invan-syn	2	nsubj	_	_
+6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:invan-syn	_	_	_	_
+
 1	Schmerzen	_	_	_	order:LK[V]MF[SO]|props:invan-syn	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:invan-syn	_	_	_	_
 3	Schuhe	_	_	_	order:LK[V]MF[SO]|props:invan-syn	1	nsubj	_	_
 4	Jogger	_	_	_	order:LK[V]MF[SO]|props:invan-syn	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:invan-syn	_	_	_	_
+
+1	Schmerzen	_	_	_	order:LK[V]MF[OS]|props:invan-syn	0	verb	_	_
+2	Jogger	_	_	_	order:LK[V]MF[OS]|props:invan-syn	1	obj	_	_
+3	die	_	_	_	order:LK[V]MF[OS]|props:invan-syn	_	_	_	_
+4	Schuhe	_	_	_	order:LK[V]MF[OS]|props:invan-syn	1	nsubj	_	_
+5	?	_	_	_	order:LK[V]MF[OS]|props:invan-syn	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:invan-syn	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:invan-syn	_	_	_	_
@@ -46039,6 +46157,13 @@
 4	Jogger	_	_	_	order:MF[SO]VC[V]|props:invan-syn	5	obj	_	_
 5	schmerzen	_	_	_	order:MF[SO]VC[V]|props:invan-syn	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:invan-syn	_	_	_	_
+
+1	Weil	_	_	_	order:MF[OS]VC[V]|props:invan-syn	_	_	_	_
+2	Jogger	_	_	_	order:MF[OS]VC[V]|props:invan-syn	5	obj	_	_
+3	die	_	_	_	order:MF[OS]VC[V]|props:invan-syn	_	_	_	_
+4	Schuhe	_	_	_	order:MF[OS]VC[V]|props:invan-syn	5	nsubj	_	_
+5	schmerzen	_	_	_	order:MF[OS]VC[V]|props:invan-syn	0	verb	_	_
+6	.	_	_	_	order:MF[OS]VC[V]|props:invan-syn	_	_	_	_
 
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:invan-syn	_	_	_	_
 2	Deadline	_	_	_	order:VF[S]LK[V]MF[O]|props:invan-syn	3	nsubj	_	_
@@ -47068,7 +47193,7 @@
 7	.	_	_	_	order:MF[SO]VC[V]|props:regpol-syn	_	_	_	_
 
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:regpol-syn	_	_	_	_
-2	Werkstätte	_	_	_	order:VF[S]LK[V]MF[O]|props:regpol-syn	3	nsubj	_	_
+2	Werkstätten	_	_	_	order:VF[S]LK[V]MF[O]|props:regpol-syn	3	nsubj	_	_
 3	errichten	_	_	_	order:VF[S]LK[V]MF[O]|props:regpol-syn	0	verb	_	_
 4	Bauzäune	_	_	_	order:VF[S]LK[V]MF[O]|props:regpol-syn	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:regpol-syn	_	_	_	_
@@ -47076,25 +47201,25 @@
 1	Bauzäune	_	_	_	order:VF[O]LK[V]MF[S]|props:regpol-syn	2	obj	_	_
 2	errichten	_	_	_	order:VF[O]LK[V]MF[S]|props:regpol-syn	0	verb	_	_
 3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:regpol-syn	_	_	_	_
-4	Werkstätte	_	_	_	order:VF[O]LK[V]MF[S]|props:regpol-syn	2	nsubj	_	_
+4	Werkstätten	_	_	_	order:VF[O]LK[V]MF[S]|props:regpol-syn	2	nsubj	_	_
 5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:regpol-syn	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-syn	_	_	_	_
 2	errichten	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-syn	0	verb	_	_
 3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-syn	_	_	_	_
-4	Werkstätte	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-syn	2	nsubj	_	_
+4	Werkstätten	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-syn	2	nsubj	_	_
 5	Bauzäune	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-syn	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-syn	_	_	_	_
 
 1	Errichten	_	_	_	order:LK[V]MF[SO]|props:regpol-syn	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:regpol-syn	_	_	_	_
-3	Werkstätte	_	_	_	order:LK[V]MF[SO]|props:regpol-syn	1	nsubj	_	_
+3	Werkstätten	_	_	_	order:LK[V]MF[SO]|props:regpol-syn	1	nsubj	_	_
 4	Bauzäune	_	_	_	order:LK[V]MF[SO]|props:regpol-syn	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:regpol-syn	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:regpol-syn	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:regpol-syn	_	_	_	_
-3	Werkstätte	_	_	_	order:MF[SO]VC[V]|props:regpol-syn	5	nsubj	_	_
+3	Werkstätten	_	_	_	order:MF[SO]VC[V]|props:regpol-syn	5	nsubj	_	_
 4	Bauzäune	_	_	_	order:MF[SO]VC[V]|props:regpol-syn	5	obj	_	_
 5	errichten	_	_	_	order:MF[SO]VC[V]|props:regpol-syn	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:regpol-syn	_	_	_	_
@@ -47323,8 +47448,8 @@
 5	beschmeißt	_	_	_	order:MF[SO]VC[V]|props:sname-syn	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:sname-syn	_	_	_	_
 
-1	Günter	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	_	_	_	_
-2	Jauch	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	3	nsubj	_	_
+1	Günter	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	3	nsubj	_	_
+2	Jauch	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	_	_	_	_
 3	errät	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	0	verb	_	_
 4	eine	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	_	_	_	_
 5	Lösung	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	3	obj	_	_
@@ -47333,28 +47458,28 @@
 1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	_	_	_	_
 2	Lösung	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	3	obj	_	_
 3	errät	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	0	verb	_	_
-4	Günter	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	_	_	_	_
-5	Jauch	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	3	nsubj	_	_
+4	Günter	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	3	nsubj	_	_
+5	Jauch	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	_	_	_	_
 6	.	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	_	_	_	_
 2	errät	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	0	verb	_	_
-3	Günter	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	_	_	_	_
-4	Jauch	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	2	nsubj	_	_
+3	Günter	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	2	nsubj	_	_
+4	Jauch	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	_	_	_	_
 5	eine	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	_	_	_	_
 6	Lösung	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	2	obj	_	_
 7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	_	_	_	_
 
 1	Errät	_	_	_	order:LK[V]MF[SO]|props:sname-syn	0	verb	_	_
-2	Günter	_	_	_	order:LK[V]MF[SO]|props:sname-syn	_	_	_	_
-3	Jauch	_	_	_	order:LK[V]MF[SO]|props:sname-syn	1	nsubj	_	_
+2	Günter	_	_	_	order:LK[V]MF[SO]|props:sname-syn	1	nsubj	_	_
+3	Jauch	_	_	_	order:LK[V]MF[SO]|props:sname-syn	_	_	_	_
 4	eine	_	_	_	order:LK[V]MF[SO]|props:sname-syn	_	_	_	_
 5	Lösung	_	_	_	order:LK[V]MF[SO]|props:sname-syn	1	obj	_	_
 6	?	_	_	_	order:LK[V]MF[SO]|props:sname-syn	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:sname-syn	_	_	_	_
-2	Günter	_	_	_	order:MF[SO]VC[V]|props:sname-syn	_	_	_	_
-3	Jauch	_	_	_	order:MF[SO]VC[V]|props:sname-syn	6	nsubj	_	_
+2	Günter	_	_	_	order:MF[SO]VC[V]|props:sname-syn	6	nsubj	_	_
+3	Jauch	_	_	_	order:MF[SO]VC[V]|props:sname-syn	_	_	_	_
 4	eine	_	_	_	order:MF[SO]VC[V]|props:sname-syn	_	_	_	_
 5	Lösung	_	_	_	order:MF[SO]VC[V]|props:sname-syn	6	obj	_	_
 6	errät	_	_	_	order:MF[SO]VC[V]|props:sname-syn	0	verb	_	_
@@ -47446,34 +47571,34 @@
 4	schlürft	_	_	_	order:MF[SO]VC[V]|props:sname-syn	0	verb	_	_
 5	.	_	_	_	order:MF[SO]VC[V]|props:sname-syn	_	_	_	_
 
-1	Bertolt	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	_	_	_	_
-2	Brecht	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	3	nsubj	_	_
+1	Bertolt	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	3	nsubj	_	_
+2	Brecht	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	_	_	_	_
 3	verfasst	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	0	verb	_	_
 4	Roman	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	_	_	_	_
 
 1	Roman	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	2	obj	_	_
 2	verfasst	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	0	verb	_	_
-3	Bertolt	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	_	_	_	_
-4	Brecht	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	2	nsubj	_	_
+3	Bertolt	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	2	nsubj	_	_
+4	Brecht	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	_	_	_	_
 5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	_	_	_	_
 2	verfasst	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	0	verb	_	_
-3	Bertolt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	_	_	_	_
-4	Brecht	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	2	nsubj	_	_
+3	Bertolt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	2	nsubj	_	_
+4	Brecht	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	_	_	_	_
 5	Roman	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	_	_	_	_
 
 1	Verfasst	_	_	_	order:LK[V]MF[SO]|props:sname-syn	0	verb	_	_
-2	Bertolt	_	_	_	order:LK[V]MF[SO]|props:sname-syn	_	_	_	_
-3	Brecht	_	_	_	order:LK[V]MF[SO]|props:sname-syn	1	nsubj	_	_
+2	Bertolt	_	_	_	order:LK[V]MF[SO]|props:sname-syn	1	nsubj	_	_
+3	Brecht	_	_	_	order:LK[V]MF[SO]|props:sname-syn	_	_	_	_
 4	Roman	_	_	_	order:LK[V]MF[SO]|props:sname-syn	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:sname-syn	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:sname-syn	_	_	_	_
-2	Bertolt	_	_	_	order:MF[SO]VC[V]|props:sname-syn	_	_	_	_
-3	Brecht	_	_	_	order:MF[SO]VC[V]|props:sname-syn	5	nsubj	_	_
+2	Bertolt	_	_	_	order:MF[SO]VC[V]|props:sname-syn	5	nsubj	_	_
+3	Brecht	_	_	_	order:MF[SO]VC[V]|props:sname-syn	_	_	_	_
 4	Roman	_	_	_	order:MF[SO]VC[V]|props:sname-syn	5	obj	_	_
 5	verfasst	_	_	_	order:MF[SO]VC[V]|props:sname-syn	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:sname-syn	_	_	_	_
@@ -48659,19 +48784,6 @@
 4	Generäle	_	_	_	order:VF[S]LK[V]MF[O]|props:psy-syn	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:psy-syn	_	_	_	_
 
-1	Generäle	_	_	_	order:VF[O]LK[V]MF[S]|props:psy-syn	2	obj	_	_
-2	bannen	_	_	_	order:VF[O]LK[V]MF[S]|props:psy-syn	0	verb	_	_
-3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:psy-syn	_	_	_	_
-4	Angriffe	_	_	_	order:VF[O]LK[V]MF[S]|props:psy-syn	2	nsubj	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:psy-syn	_	_	_	_
-
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:psy-syn	_	_	_	_
-2	bannen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:psy-syn	0	verb	_	_
-3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:psy-syn	_	_	_	_
-4	Angriffe	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:psy-syn	2	nsubj	_	_
-5	Generäle	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:psy-syn	2	obj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:psy-syn	_	_	_	_
-
 1	Bannen	_	_	_	order:LK[V]MF[SO]|props:psy-syn	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:psy-syn	_	_	_	_
 3	Angriffe	_	_	_	order:LK[V]MF[SO]|props:psy-syn	1	nsubj	_	_
@@ -49515,13 +49627,6 @@
 4	die	_	_	_	order:VF[S]LK[V]MF[O]|props:base-prov	_	_	_	_
 5	andere	_	_	_	order:VF[S]LK[V]MF[O]|props:base-prov	3	obj	_	_
 6	.	_	_	_	order:VF[S]LK[V]MF[O]|props:base-prov	_	_	_	_
-
-1	Die	_	_	_	order:VF[O]LK[V]MF[S]|props:base-prov	_	_	_	_
-2	andere	_	_	_	order:VF[O]LK[V]MF[S]|props:base-prov	3	obj	_	_
-3	wäscht	_	_	_	order:VF[O]LK[V]MF[S]|props:base-prov	0	verb	_	_
-4	eine	_	_	_	order:VF[O]LK[V]MF[S]|props:base-prov	_	_	_	_
-5	Hand	_	_	_	order:VF[O]LK[V]MF[S]|props:base-prov	3	nsubj	_	_
-6	.	_	_	_	order:VF[O]LK[V]MF[S]|props:base-prov	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-prov	_	_	_	_
 2	wäscht	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-prov	0	verb	_	_
