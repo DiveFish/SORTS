@@ -674,21 +674,21 @@ VF[O]LK[V]MF[S]	amb-spron	4	2	Eine Bauausführung übernimmt sie .
 VF[ADV]LK[V]MF[SO]	amb-spron	3	5	Deshalb übernimmt sie eine Bauausführung .
 LK[V]MF[SO]	amb-spron	2	4	Übernimmt sie eine Bauausführung ?
 MF[SO]VC[V]	amb-spron	2	4	Weil sie eine Bauausführung übernimmt .
-VF[S]LK[V]MF[O]	amb-spron	1	4	Er wird einen Angriff starten .
-VF[O]LK[V]MF[S]	amb-spron	4	2	Einen Angriff wird er starten .
-VF[ADV]LK[V]MF[SO]	amb-spron	3	5	Deshalb wird er einen Angriff starten .
-LK[V]MF[SO]	amb-spron	2	4	Wird er einen Angriff starten ?
-MF[SO]VC[V]	amb-spron	2	4	Weil er einen Angriff starten wird .
-VF[S]LK[V]MF[O]	amb-spron	1	4	Sie werden ein Doppelleben leben .
-VF[O]LK[V]MF[S]	amb-spron	4	2	Ein Doppelleben werden sie leben .
-VF[ADV]LK[V]MF[SO]	amb-spron	3	5	Deshalb werden sie ein Doppelleben leben .
-LK[V]MF[SO]	amb-spron	2	4	Werden sie ein Doppelleben leben ?
-MF[SO]VC[V]	amb-spron	2	4	Weil sie ein Doppelleben leben werden .
-VF[S]LK[V]MF[O]	amb-spron	1	4	Er wird eine Aufnahme übertexten .
-VF[O]LK[V]MF[S]	amb-spron	4	2	Eine Aufnahme wird er übertexten .
-VF[ADV]LK[V]MF[SO]	amb-spron	3	5	Deshalb wird er eine Aufnahme übertexten .
-LK[V]MF[SO]	amb-spron	2	4	Wird er eine Aufnahme übertexten ?
-MF[SO]VC[V]	amb-spron	2	4	Weil er eine Aufnahme übertexten wird .
+VF[S]LK[V]MF[O]	aux-spron	1	4	Er wird einen Angriff starten .
+VF[O]LK[V]MF[S]	aux-spron	4	2	Einen Angriff wird er starten .
+VF[ADV]LK[V]MF[SO]	aux-spron	3	5	Deshalb wird er einen Angriff starten .
+LK[V]MF[SO]	aux-spron	2	4	Wird er einen Angriff starten ?
+MF[SO]VC[V]	aux-spron	2	4	Weil er einen Angriff starten wird .
+VF[S]LK[V]MF[O]	aux-spron	1	4	Sie werden ein Doppelleben leben .
+VF[O]LK[V]MF[S]	aux-spron	4	2	Ein Doppelleben werden sie leben .
+VF[ADV]LK[V]MF[SO]	aux-spron	3	5	Deshalb werden sie ein Doppelleben leben .
+LK[V]MF[SO]	aux-spron	2	4	Werden sie ein Doppelleben leben ?
+MF[SO]VC[V]	aux-spron	2	4	Weil sie ein Doppelleben leben werden .
+VF[S]LK[V]MF[O]	aux-spron	1	4	Er wird eine Aufnahme übertexten .
+VF[O]LK[V]MF[S]	aux-spron	4	2	Eine Aufnahme wird er übertexten .
+VF[ADV]LK[V]MF[SO]	aux-spron	3	5	Deshalb wird er eine Aufnahme übertexten .
+LK[V]MF[SO]	aux-spron	2	4	Wird er eine Aufnahme übertexten ?
+MF[SO]VC[V]	aux-spron	2	4	Weil er eine Aufnahme übertexten wird .
 VF[S]LK[V]MF[O]	aux-spron	1	4	Wir werden eine Traumhochzeit spielen .
 VF[O]LK[V]MF[S]	aux-spron	4	2	Eine Traumhochzeit werden wir spielen .
 VF[ADV]LK[V]MF[SO]	aux-spron	3	5	Deshalb werden wir eine Traumhochzeit spielen .
@@ -3451,11 +3451,11 @@ VF[O]LK[V]MF[S]	pp-oan	8	2	Einen Notleidenden befreit in dem Jahr der Feuerwehrm
 VF[ADV]LK[V]MF[SO]	pp-oan	7	9	Deshalb befreit in dem Jahr der Feuerwehrmann einen Notleidenden .
 LK[V]MF[SO]	pp-oan	6	8	Befreit in dem Jahr der Feuerwehrmann einen Notleidenden ?
 MF[SO]VC[V]	pp-oan	6	8	Weil in dem Jahr der Feuerwehrmann einen Notleidenden befreit .
-VF[S]LK[V]MF[O]	pp-oan	2	5	Die Quote umgeht eine Frau .
-VF[O]LK[V]MF[S]	pp-oan	5	2	Eine Frau umgeht die Quote .
-VF[ADV]LK[V]MF[SO]	pp-oan	4	6	Deshalb umgeht die Quote eine Frau .
-LK[V]MF[SO]	pp-oan	3	5	Umgeht die Quote eine Frau ?
-MF[SO]VC[V]	pp-oan	3	5	Weil die Quote eine Frau umgeht .
+VF[S]LK[V]MF[O]	sinan-oan	2	5	Die Quoten umgehen eine Frau .
+VF[O]LK[V]MF[S]	sinan-oan	5	2	Eine Frau umgehen die Quoten .
+VF[ADV]LK[V]MF[SO]	sinan-oan	4	6	Deshalb umgehen die Quoten eine Frau .
+LK[V]MF[SO]	sinan-oan	3	5	Umgehen die Quoten eine Frau ?
+MF[SO]VC[V]	sinan-oan	3	5	Weil die Quoten eine Frau umgehen .
 VF[S]LK[V]MF[O]	sinan-oan	2	5	Der Zyklon trifft einen Küstenbewohner .
 VF[O]LK[V]MF[S]	sinan-oan	5	2	Einen Küstenbewohner trifft der Zyklon .
 VF[ADV]LK[V]MF[SO]	sinan-oan	4	6	Deshalb trifft der Zyklon einen Küstenbewohner .
@@ -4653,11 +4653,11 @@ VF[O]LK[V]MF[S]	amb-regpol	5	2	Ein Grundgehalt bekommt die Schule .
 VF[ADV]LK[V]MF[SO]	amb-regpol	4	6	Deshalb bekommt die Schule ein Grundgehalt .
 LK[V]MF[SO]	amb-regpol	3	5	Bekommt die Schule ein Grundgehalt ?
 MF[SO]VC[V]	amb-regpol	3	5	Weil die Schule ein Grundgehalt bekommt .
-VF[S]LK[V]MF[O]	amb-regpol	2	4	Die Werkstätte ziehen Bauzäune .
-VF[O]LK[V]MF[S]	amb-regpol	4	1	Bauzäune ziehen die Werkstätte .
-VF[ADV]LK[V]MF[SO]	amb-regpol	4	5	Deshalb ziehen die Werkstätte Bauzäune .
-LK[V]MF[SO]	amb-regpol	3	4	Ziehen die Werkstätte Bauzäune ?
-MF[SO]VC[V]	amb-regpol	3	4	Weil die Werkstätte Bauzäune ziehen .
+VF[S]LK[V]MF[O]	amb-regpol	2	4	Die Werkstätten ziehen Bauzäune .
+VF[O]LK[V]MF[S]	amb-regpol	4	1	Bauzäune ziehen die Werkstätten .
+VF[ADV]LK[V]MF[SO]	amb-regpol	4	5	Deshalb ziehen die Werkstätten Bauzäune .
+LK[V]MF[SO]	amb-regpol	3	4	Ziehen die Werkstätten Bauzäune ?
+MF[SO]VC[V]	amb-regpol	3	4	Weil die Werkstätten Bauzäune ziehen .
 VF[S]LK[V]MF[O]	amb-regpol	2	5	Die Universität gewinnt eine Tour .
 VF[O]LK[V]MF[S]	amb-regpol	5	2	Eine Tour gewinnt die Universität .
 VF[ADV]LK[V]MF[SO]	amb-regpol	4	6	Deshalb gewinnt die Universität eine Tour .
@@ -5063,11 +5063,11 @@ VF[O]LK[V]MF[S]	oan-regpol	5	2	Einen Philharmoniker dirigiert das Seminar .
 VF[ADV]LK[V]MF[SO]	oan-regpol	4	6	Deshalb dirigiert das Seminar einen Philharmoniker .
 LK[V]MF[SO]	oan-regpol	3	5	Dirigiert das Seminar einen Philharmoniker ?
 MF[SO]VC[V]	oan-regpol	3	5	Weil das Seminar einen Philharmoniker dirigiert .
-VF[S]LK[V]MF[O]	oan-regpol	2	5	Die Werkstätte beschreiben ein Model .
-VF[O]LK[V]MF[S]	oan-regpol	5	2	Ein Model beschreiben die Werkstätte .
-VF[ADV]LK[V]MF[SO]	oan-regpol	4	6	Deshalb beschreiben die Werkstätte ein Model .
-LK[V]MF[SO]	oan-regpol	3	5	Beschreiben die Werkstätte ein Model ?
-MF[SO]VC[V]	oan-regpol	3	5	Weil die Werkstätte ein Model beschreiben .
+VF[S]LK[V]MF[O]	oan-regpol	2	5	Die Werkstätten beschreiben ein Model .
+VF[O]LK[V]MF[S]	oan-regpol	5	2	Ein Model beschreiben die Werkstätten .
+VF[ADV]LK[V]MF[SO]	oan-regpol	4	6	Deshalb beschreiben die Werkstätten ein Model .
+LK[V]MF[SO]	oan-regpol	3	5	Beschreiben die Werkstätten ein Model ?
+MF[SO]VC[V]	oan-regpol	3	5	Weil die Werkstätten ein Model beschreiben .
 VF[S]LK[V]MF[O]	oan-regpol	2	5	Das Landratsamt leitet einen Kursteilnehmer .
 VF[O]LK[V]MF[S]	oan-regpol	5	2	Einen Kursteilnehmer leitet das Landratsamt .
 VF[ADV]LK[V]MF[SO]	oan-regpol	4	6	Deshalb leitet das Landratsamt einen Kursteilnehmer .
@@ -5113,11 +5113,11 @@ VF[O]LK[V]MF[S]	base-sname	3	1	Kunstwerke bewirft Degas .
 VF[ADV]LK[V]MF[SO]	base-sname	3	4	Deshalb bewirft Degas Kunstwerke .
 LK[V]MF[SO]	base-sname	2	3	Bewirft Degas Kunstwerke ?
 MF[SO]VC[V]	base-sname	2	3	Weil Degas Kunstwerke bewirft .
-VF[S]LK[V]MF[O]	base-sname	2	4	Günter Jauch findet Lösungen .
-VF[O]LK[V]MF[S]	base-sname	4	1	Lösungen findet Günter Jauch .
-VF[ADV]LK[V]MF[SO]	base-sname	4	5	Deshalb findet Günter Jauch Lösungen .
-LK[V]MF[SO]	base-sname	3	4	Findet Günter Jauch Lösungen ?
-MF[SO]VC[V]	base-sname	3	4	Weil Günter Jauch Lösungen findet .
+VF[S]LK[V]MF[O]	base-sname	1	4	Günter Jauch findet Lösungen .
+VF[O]LK[V]MF[S]	base-sname	3	1	Lösungen findet Günter Jauch .
+VF[ADV]LK[V]MF[SO]	base-sname	3	5	Deshalb findet Günter Jauch Lösungen .
+LK[V]MF[SO]	base-sname	2	4	Findet Günter Jauch Lösungen ?
+MF[SO]VC[V]	base-sname	2	4	Weil Günter Jauch Lösungen findet .
 VF[S]LK[V]MF[O]	base-sname	1	3	Harry abonniert Zeitschriften .
 VF[O]LK[V]MF[S]	base-sname	3	1	Zeitschriften abonniert Harry .
 VF[ADV]LK[V]MF[SO]	base-sname	3	4	Deshalb abonniert Harry Zeitschriften .
@@ -5133,11 +5133,11 @@ VF[O]LK[V]MF[S]	base-sname	4	2	Einen Kaffee trinkt Clooney .
 VF[ADV]LK[V]MF[SO]	base-sname	3	5	Deshalb trinkt Clooney einen Kaffee .
 LK[V]MF[SO]	base-sname	2	4	Trinkt Clooney einen Kaffee ?
 MF[SO]VC[V]	base-sname	2	4	Weil Clooney einen Kaffee trinkt .
-VF[S]LK[V]MF[O]	base-sname	2	5	Bertolt Brecht schreibt einen Roman .
-VF[O]LK[V]MF[S]	base-sname	5	2	Einen Roman schreibt Bertolt Brecht .
-VF[ADV]LK[V]MF[SO]	base-sname	4	6	Deshalb schreibt Bertolt Brecht einen Roman .
-LK[V]MF[SO]	base-sname	3	5	Schreibt Bertolt Brecht einen Roman ?
-MF[SO]VC[V]	base-sname	3	5	Weil Bertolt Brecht einen Roman schreibt .
+VF[S]LK[V]MF[O]	base-sname	1	5	Bertolt Brecht schreibt einen Roman .
+VF[O]LK[V]MF[S]	base-sname	4	2	Einen Roman schreibt Bertolt Brecht .
+VF[ADV]LK[V]MF[SO]	base-sname	3	6	Deshalb schreibt Bertolt Brecht einen Roman .
+LK[V]MF[SO]	base-sname	2	5	Schreibt Bertolt Brecht einen Roman ?
+MF[SO]VC[V]	base-sname	2	5	Weil Bertolt Brecht einen Roman schreibt .
 VF[S]LK[V]MF[O]	base-sname	1	3	Merkel beendet Reden .
 VF[O]LK[V]MF[S]	base-sname	3	1	Reden beendet Merkel .
 VF[ADV]LK[V]MF[SO]	base-sname	3	4	Deshalb beendet Merkel Reden .
@@ -5173,21 +5173,21 @@ VF[O]LK[V]MF[S]	dat-sname	4	2	Einer Kanalisation entstammt Balazs .
 VF[ADV]LK[V]MF[SO]	dat-sname	3	5	Deshalb entstammt Balazs einer Kanalisation .
 LK[V]MF[SO]	dat-sname	2	4	Entstammt Balazs einer Kanalisation ?
 MF[SO]VC[V]	dat-sname	2	4	Weil Balazs einer Kanalisation entstammt .
-VF[S]LK[V]MF[O]	dat-sname	2	5	Günter Jauch folgt einem Vortrag .
-VF[O]LK[V]MF[S]	dat-sname	5	2	Einem Vortrag folgt Günter Jauch .
-VF[ADV]LK[V]MF[SO]	dat-sname	4	6	Deshalb folgt Günter Jauch einem Vortrag .
-LK[V]MF[SO]	dat-sname	3	5	Folgt Günter Jauch einem Vortrag ?
-MF[SO]VC[V]	dat-sname	3	5	Weil Günter Jauch einem Vortrag folgt .
+VF[S]LK[V]MF[O]	dat-sname	1	5	Günter Jauch folgt einem Vortrag .
+VF[O]LK[V]MF[S]	dat-sname	4	2	Einem Vortrag folgt Günter Jauch .
+VF[ADV]LK[V]MF[SO]	dat-sname	3	6	Deshalb folgt Günter Jauch einem Vortrag .
+LK[V]MF[SO]	dat-sname	2	5	Folgt Günter Jauch einem Vortrag ?
+MF[SO]VC[V]	dat-sname	2	5	Weil Günter Jauch einem Vortrag folgt .
 VF[S]LK[V]MF[O]	dat-sname	1	4	Merkel entschwindet einer Sitzung .
 VF[O]LK[V]MF[S]	dat-sname	4	2	Einer Sitzung entschwindet Merkel .
 VF[ADV]LK[V]MF[SO]	dat-sname	3	5	Deshalb entschwindet Merkel einer Sitzung .
 LK[V]MF[SO]	dat-sname	2	4	Entschwindet Merkel einer Sitzung ?
 MF[SO]VC[V]	dat-sname	2	4	Weil Merkel einer Sitzung entschwindet .
-VF[S]LK[V]MF[O]	dat-sname	2	5	Bertolt Brecht begegnet einem Hindernis .
-VF[O]LK[V]MF[S]	dat-sname	5	2	Einem Hindernis begegnet Bertolt Brecht .
-VF[ADV]LK[V]MF[SO]	dat-sname	4	6	Deshalb begegnet Bertolt Brecht einem Hindernis .
-LK[V]MF[SO]	dat-sname	3	5	Begegnet Bertolt Brecht einem Hindernis ?
-MF[SO]VC[V]	dat-sname	3	5	Weil Bertolt Brecht einem Hindernis begegnet .
+VF[S]LK[V]MF[O]	dat-sname	1	5	Bertolt Brecht begegnet einem Hindernis .
+VF[O]LK[V]MF[S]	dat-sname	4	2	Einem Hindernis begegnet Bertolt Brecht .
+VF[ADV]LK[V]MF[SO]	dat-sname	3	6	Deshalb begegnet Bertolt Brecht einem Hindernis .
+LK[V]MF[SO]	dat-sname	2	5	Begegnet Bertolt Brecht einem Hindernis ?
+MF[SO]VC[V]	dat-sname	2	5	Weil Bertolt Brecht einem Hindernis begegnet .
 VF[S]LK[V]MF[O]	dat-sname	1	4	RTL schadet einem Ansehen .
 VF[O]LK[V]MF[S]	dat-sname	4	2	Einem Ansehen schadet RTL .
 VF[ADV]LK[V]MF[SO]	dat-sname	3	5	Deshalb schadet RTL einem Ansehen .
@@ -5263,11 +5263,11 @@ VF[O]LK[V]MF[S]	amb-sname	4	2	Ein Kunstwerk bewirft Degas .
 VF[ADV]LK[V]MF[SO]	amb-sname	3	5	Deshalb bewirft Degas ein Kunstwerk .
 LK[V]MF[SO]	amb-sname	2	4	Bewirft Degas ein Kunstwerk ?
 MF[SO]VC[V]	amb-sname	2	4	Weil Degas ein Kunstwerk bewirft .
-VF[S]LK[V]MF[O]	amb-sname	2	5	Günter Jauch findet eine Lösung .
-VF[O]LK[V]MF[S]	amb-sname	5	2	Eine Lösung findet Günter Jauch .
-VF[ADV]LK[V]MF[SO]	amb-sname	4	6	Deshalb findet Günter Jauch eine Lösung .
-LK[V]MF[SO]	amb-sname	3	5	Findet Günter Jauch eine Lösung ?
-MF[SO]VC[V]	amb-sname	3	5	Weil Günter Jauch eine Lösung findet .
+VF[S]LK[V]MF[O]	amb-sname	1	5	Günter Jauch findet eine Lösung .
+VF[O]LK[V]MF[S]	amb-sname	4	2	Eine Lösung findet Günter Jauch .
+VF[ADV]LK[V]MF[SO]	amb-sname	3	6	Deshalb findet Günter Jauch eine Lösung .
+LK[V]MF[SO]	amb-sname	2	5	Findet Günter Jauch eine Lösung ?
+MF[SO]VC[V]	amb-sname	2	5	Weil Günter Jauch eine Lösung findet .
 VF[S]LK[V]MF[O]	amb-sname	1	4	Harry abonniert eine Zeitschrift .
 VF[O]LK[V]MF[S]	amb-sname	4	2	Eine Zeitschrift abonniert Harry .
 VF[ADV]LK[V]MF[SO]	amb-sname	3	5	Deshalb abonniert Harry eine Zeitschrift .
@@ -5283,11 +5283,11 @@ VF[O]LK[V]MF[S]	amb-sname	3	1	Kaffee trinkt Clooney .
 VF[ADV]LK[V]MF[SO]	amb-sname	3	4	Deshalb trinkt Clooney Kaffee .
 LK[V]MF[SO]	amb-sname	2	3	Trinkt Clooney Kaffee ?
 MF[SO]VC[V]	amb-sname	2	3	Weil Clooney Kaffee trinkt .
-VF[S]LK[V]MF[O]	amb-sname	2	4	Bertolt Brecht schreibt Roman .
-VF[O]LK[V]MF[S]	amb-sname	4	1	Roman schreibt Bertolt Brecht .
-VF[ADV]LK[V]MF[SO]	amb-sname	4	5	Deshalb schreibt Bertolt Brecht Roman .
-LK[V]MF[SO]	amb-sname	3	4	Schreibt Bertolt Brecht Roman ?
-MF[SO]VC[V]	amb-sname	3	4	Weil Bertolt Brecht Roman schreibt .
+VF[S]LK[V]MF[O]	amb-sname	1	4	Bertolt Brecht schreibt Roman .
+VF[O]LK[V]MF[S]	amb-sname	3	1	Roman schreibt Bertolt Brecht .
+VF[ADV]LK[V]MF[SO]	amb-sname	3	5	Deshalb schreibt Bertolt Brecht Roman .
+LK[V]MF[SO]	amb-sname	2	4	Schreibt Bertolt Brecht Roman ?
+MF[SO]VC[V]	amb-sname	2	4	Weil Bertolt Brecht Roman schreibt .
 VF[S]LK[V]MF[O]	amb-sname	1	4	Merkel beendet eine Rede .
 VF[O]LK[V]MF[S]	amb-sname	4	2	Eine Rede beendet Merkel .
 VF[ADV]LK[V]MF[SO]	amb-sname	3	5	Deshalb beendet Merkel eine Rede .
@@ -5338,11 +5338,11 @@ VF[O]LK[V]MF[S]	aux-sname	3	1	Kunstwerke wird Degas bewerfen .
 VF[ADV]LK[V]MF[SO]	aux-sname	3	4	Deshalb wird Degas Kunstwerke bewerfen .
 LK[V]MF[SO]	aux-sname	2	3	Wird Degas Kunstwerke bewerfen ?
 MF[SO]VC[V]	aux-sname	2	3	Weil Degas Kunstwerke bewerfen wird .
-VF[S]LK[V]MF[O]	aux-sname	2	4	Günter Jauch wird Lösungen finden .
-VF[O]LK[V]MF[S]	aux-sname	4	1	Lösungen wird Günter Jauch finden .
-VF[ADV]LK[V]MF[SO]	aux-sname	4	5	Deshalb wird Günter Jauch Lösungen finden .
-LK[V]MF[SO]	aux-sname	3	4	Wird Günter Jauch Lösungen finden ?
-MF[SO]VC[V]	aux-sname	3	4	Weil Günter Jauch Lösungen finden wird .
+VF[S]LK[V]MF[O]	aux-sname	1	4	Günter Jauch wird Lösungen finden .
+VF[O]LK[V]MF[S]	aux-sname	3	1	Lösungen wird Günter Jauch finden .
+VF[ADV]LK[V]MF[SO]	aux-sname	3	5	Deshalb wird Günter Jauch Lösungen finden .
+LK[V]MF[SO]	aux-sname	2	4	Wird Günter Jauch Lösungen finden ?
+MF[SO]VC[V]	aux-sname	2	4	Weil Günter Jauch Lösungen finden wird .
 VF[S]LK[V]MF[O]	aux-sname	1	3	Harry wird Zeitschriften abonnieren .
 VF[O]LK[V]MF[S]	aux-sname	3	1	Zeitschriften wird Harry abonnieren .
 VF[ADV]LK[V]MF[SO]	aux-sname	3	4	Deshalb wird Harry Zeitschriften abonnieren .
@@ -5358,11 +5358,11 @@ VF[O]LK[V]MF[S]	aux-sname	4	2	Einen Kaffee wird Clooney trinken .
 VF[ADV]LK[V]MF[SO]	aux-sname	3	5	Deshalb wird Clooney einen Kaffee trinken .
 LK[V]MF[SO]	aux-sname	2	4	Wird Clooney einen Kaffee trinken ?
 MF[SO]VC[V]	aux-sname	2	4	Weil Clooney einen Kaffee trinken wird .
-VF[S]LK[V]MF[O]	aux-sname	2	5	Bertolt Brecht wird einen Roman schreiben .
-VF[O]LK[V]MF[S]	aux-sname	5	2	Einen Roman wird Bertolt Brecht schreiben .
-VF[ADV]LK[V]MF[SO]	aux-sname	4	6	Deshalb wird Bertolt Brecht einen Roman schreiben .
-LK[V]MF[SO]	aux-sname	3	5	Wird Bertolt Brecht einen Roman schreiben ?
-MF[SO]VC[V]	aux-sname	3	5	Weil Bertolt Brecht einen Roman schreiben wird .
+VF[S]LK[V]MF[O]	aux-sname	1	5	Bertolt Brecht wird einen Roman schreiben .
+VF[O]LK[V]MF[S]	aux-sname	4	2	Einen Roman wird Bertolt Brecht schreiben .
+VF[ADV]LK[V]MF[SO]	aux-sname	3	6	Deshalb wird Bertolt Brecht einen Roman schreiben .
+LK[V]MF[SO]	aux-sname	2	5	Wird Bertolt Brecht einen Roman schreiben ?
+MF[SO]VC[V]	aux-sname	2	5	Weil Bertolt Brecht einen Roman schreiben wird .
 VF[S]LK[V]MF[O]	aux-sname	1	3	Merkel wird Reden beenden .
 VF[O]LK[V]MF[S]	aux-sname	3	1	Reden wird Merkel beenden .
 VF[ADV]LK[V]MF[SO]	aux-sname	3	4	Deshalb wird Merkel Reden beenden .
@@ -5413,11 +5413,11 @@ VF[O]LK[V]MF[S]	spron-sname	3	1	Ihn bewirft Degas .
 VF[ADV]LK[V]MF[SO]	spron-sname	3	4	Deshalb bewirft Degas ihn .
 LK[V]MF[SO]	spron-sname	2	3	Bewirft Degas ihn ?
 MF[SO]VC[V]	spron-sname	2	3	Weil Degas ihn bewirft .
-VF[S]LK[V]MF[O]	spron-sname	2	4	Günter Jauch findet ihn .
-VF[O]LK[V]MF[S]	spron-sname	4	1	Ihn findet Günter Jauch .
-VF[ADV]LK[V]MF[SO]	spron-sname	4	5	Deshalb findet Günter Jauch ihn .
-LK[V]MF[SO]	spron-sname	3	4	Findet Günter Jauch ihn ?
-MF[SO]VC[V]	spron-sname	3	4	Weil Günter Jauch ihn findet .
+VF[S]LK[V]MF[O]	spron-sname	1	4	Günter Jauch findet ihn .
+VF[O]LK[V]MF[S]	spron-sname	3	1	Ihn findet Günter Jauch .
+VF[ADV]LK[V]MF[SO]	spron-sname	3	5	Deshalb findet Günter Jauch ihn .
+LK[V]MF[SO]	spron-sname	2	4	Findet Günter Jauch ihn ?
+MF[SO]VC[V]	spron-sname	2	4	Weil Günter Jauch ihn findet .
 VF[S]LK[V]MF[O]	spron-sname	1	3	Harry abonniert ihn .
 VF[O]LK[V]MF[S]	spron-sname	3	1	Ihn abonniert Harry .
 VF[ADV]LK[V]MF[SO]	spron-sname	3	4	Deshalb abonniert Harry ihn .
@@ -5433,11 +5433,11 @@ VF[O]LK[V]MF[S]	spron-sname	3	1	Ihn trinkt Clooney .
 VF[ADV]LK[V]MF[SO]	spron-sname	3	4	Deshalb trinkt Clooney ihn .
 LK[V]MF[SO]	spron-sname	2	3	Trinkt Clooney ihn ?
 MF[SO]VC[V]	spron-sname	2	3	Weil Clooney ihn trinkt .
-VF[S]LK[V]MF[O]	spron-sname	2	4	Bertolt Brecht schreibt ihn .
-VF[O]LK[V]MF[S]	spron-sname	4	1	Ihn schreibt Bertolt Brecht .
-VF[ADV]LK[V]MF[SO]	spron-sname	4	5	Deshalb schreibt Bertolt Brecht ihn .
-LK[V]MF[SO]	spron-sname	3	4	Schreibt Bertolt Brecht ihn ?
-MF[SO]VC[V]	spron-sname	3	4	Weil Bertolt Brecht ihn schreibt .
+VF[S]LK[V]MF[O]	spron-sname	1	4	Bertolt Brecht schreibt ihn .
+VF[O]LK[V]MF[S]	spron-sname	3	1	Ihn schreibt Bertolt Brecht .
+VF[ADV]LK[V]MF[SO]	spron-sname	3	5	Deshalb schreibt Bertolt Brecht ihn .
+LK[V]MF[SO]	spron-sname	2	4	Schreibt Bertolt Brecht ihn ?
+MF[SO]VC[V]	spron-sname	2	4	Weil Bertolt Brecht ihn schreibt .
 VF[S]LK[V]MF[O]	spron-sname	1	3	Merkel beendet ihn .
 VF[O]LK[V]MF[S]	spron-sname	3	1	Ihn beendet Merkel .
 VF[ADV]LK[V]MF[SO]	spron-sname	3	4	Deshalb beendet Merkel ihn .
@@ -5488,11 +5488,11 @@ VF[O]LK[V]MF[S]	oneg-sname	4	2	Keine Kunstwerke bewirft Degas .
 VF[ADV]LK[V]MF[SO]	oneg-sname	3	5	Deshalb bewirft Degas keine Kunstwerke .
 LK[V]MF[SO]	oneg-sname	2	4	Bewirft Degas keine Kunstwerke ?
 MF[SO]VC[V]	oneg-sname	2	4	Weil Degas keine Kunstwerke bewirft .
-VF[S]LK[V]MF[O]	oneg-sname	2	5	Günter Jauch findet keine Lösungen .
-VF[O]LK[V]MF[S]	oneg-sname	5	2	Keine Lösungen findet Günter Jauch .
-VF[ADV]LK[V]MF[SO]	oneg-sname	4	6	Deshalb findet Günter Jauch keine Lösungen .
-LK[V]MF[SO]	oneg-sname	3	5	Findet Günter Jauch keine Lösungen ?
-MF[SO]VC[V]	oneg-sname	3	5	Weil Günter Jauch keine Lösungen findet .
+VF[S]LK[V]MF[O]	oneg-sname	1	5	Günter Jauch findet keine Lösungen .
+VF[O]LK[V]MF[S]	oneg-sname	4	2	Keine Lösungen findet Günter Jauch .
+VF[ADV]LK[V]MF[SO]	oneg-sname	3	6	Deshalb findet Günter Jauch keine Lösungen .
+LK[V]MF[SO]	oneg-sname	2	5	Findet Günter Jauch keine Lösungen ?
+MF[SO]VC[V]	oneg-sname	2	5	Weil Günter Jauch keine Lösungen findet .
 VF[S]LK[V]MF[O]	oneg-sname	1	4	Harry abonniert keine Zeitschriften .
 VF[O]LK[V]MF[S]	oneg-sname	4	2	Keine Zeitschriften abonniert Harry .
 VF[ADV]LK[V]MF[SO]	oneg-sname	3	5	Deshalb abonniert Harry keine Zeitschriften .
@@ -5508,11 +5508,11 @@ VF[O]LK[V]MF[S]	oneg-sname	4	2	Keinen Kaffee trinkt Clooney .
 VF[ADV]LK[V]MF[SO]	oneg-sname	3	5	Deshalb trinkt Clooney keinen Kaffee .
 LK[V]MF[SO]	oneg-sname	2	4	Trinkt Clooney keinen Kaffee ?
 MF[SO]VC[V]	oneg-sname	2	4	Weil Clooney keinen Kaffee trinkt .
-VF[S]LK[V]MF[O]	oneg-sname	2	5	Bertolt Brecht schreibt keinen Roman .
-VF[O]LK[V]MF[S]	oneg-sname	5	2	Keinen Roman schreibt Bertolt Brecht .
-VF[ADV]LK[V]MF[SO]	oneg-sname	4	6	Deshalb schreibt Bertolt Brecht keinen Roman .
-LK[V]MF[SO]	oneg-sname	3	5	Schreibt Bertolt Brecht keinen Roman ?
-MF[SO]VC[V]	oneg-sname	3	5	Weil Bertolt Brecht keinen Roman schreibt .
+VF[S]LK[V]MF[O]	oneg-sname	1	5	Bertolt Brecht schreibt keinen Roman .
+VF[O]LK[V]MF[S]	oneg-sname	4	2	Keinen Roman schreibt Bertolt Brecht .
+VF[ADV]LK[V]MF[SO]	oneg-sname	3	6	Deshalb schreibt Bertolt Brecht keinen Roman .
+LK[V]MF[SO]	oneg-sname	2	5	Schreibt Bertolt Brecht keinen Roman ?
+MF[SO]VC[V]	oneg-sname	2	5	Weil Bertolt Brecht keinen Roman schreibt .
 VF[S]LK[V]MF[O]	oneg-sname	1	4	Merkel beendet keine Reden .
 VF[O]LK[V]MF[S]	oneg-sname	4	2	Keine Reden beendet Merkel .
 VF[ADV]LK[V]MF[SO]	oneg-sname	3	5	Deshalb beendet Merkel keine Reden .
@@ -5563,11 +5563,11 @@ VF[O]LK[V]MF[S]	pp-sname	6	1	Kunstwerke bewirft in dem Jahr Degas .
 VF[ADV]LK[V]MF[SO]	pp-sname	6	7	Deshalb bewirft in dem Jahr Degas Kunstwerke .
 LK[V]MF[SO]	pp-sname	5	6	Bewirft in dem Jahr Degas Kunstwerke ?
 MF[SO]VC[V]	pp-sname	5	6	Weil in dem Jahr Degas Kunstwerke bewirft .
-VF[S]LK[V]MF[O]	pp-sname	2	7	Günter Jauch findet in dem Jahr Lösungen .
-VF[O]LK[V]MF[S]	pp-sname	7	1	Lösungen findet in dem Jahr Günter Jauch .
-VF[ADV]LK[V]MF[SO]	pp-sname	7	8	Deshalb findet in dem Jahr Günter Jauch Lösungen .
-LK[V]MF[SO]	pp-sname	6	7	Findet in dem Jahr Günter Jauch Lösungen ?
-MF[SO]VC[V]	pp-sname	6	7	Weil in dem Jahr Günter Jauch Lösungen findet .
+VF[S]LK[V]MF[O]	pp-sname	1	7	Günter Jauch findet in dem Jahr Lösungen .
+VF[O]LK[V]MF[S]	pp-sname	6	1	Lösungen findet in dem Jahr Günter Jauch .
+VF[ADV]LK[V]MF[SO]	pp-sname	6	8	Deshalb findet in dem Jahr Günter Jauch Lösungen .
+LK[V]MF[SO]	pp-sname	5	7	Findet in dem Jahr Günter Jauch Lösungen ?
+MF[SO]VC[V]	pp-sname	5	7	Weil in dem Jahr Günter Jauch Lösungen findet .
 VF[S]LK[V]MF[O]	pp-sname	1	6	Harry abonniert in dem Jahr Zeitschriften .
 VF[O]LK[V]MF[S]	pp-sname	6	1	Zeitschriften abonniert in dem Jahr Harry .
 VF[ADV]LK[V]MF[SO]	pp-sname	6	7	Deshalb abonniert in dem Jahr Harry Zeitschriften .
@@ -5583,11 +5583,11 @@ VF[O]LK[V]MF[S]	pp-sname	7	2	Einen Kaffee trinkt in dem Jahr Clooney .
 VF[ADV]LK[V]MF[SO]	pp-sname	6	8	Deshalb trinkt in dem Jahr Clooney einen Kaffee .
 LK[V]MF[SO]	pp-sname	5	7	Trinkt in dem Jahr Clooney einen Kaffee ?
 MF[SO]VC[V]	pp-sname	5	7	Weil in dem Jahr Clooney einen Kaffee trinkt .
-VF[S]LK[V]MF[O]	pp-sname	2	8	Bertolt Brecht schreibt in dem Jahr einen Roman .
-VF[O]LK[V]MF[S]	pp-sname	8	2	Einen Roman schreibt in dem Jahr Bertolt Brecht .
-VF[ADV]LK[V]MF[SO]	pp-sname	7	9	Deshalb schreibt in dem Jahr Bertolt Brecht einen Roman .
-LK[V]MF[SO]	pp-sname	6	8	Schreibt in dem Jahr Bertolt Brecht einen Roman ?
-MF[SO]VC[V]	pp-sname	6	8	Weil in dem Jahr Bertolt Brecht einen Roman schreibt .
+VF[S]LK[V]MF[O]	pp-sname	1	8	Bertolt Brecht schreibt in dem Jahr einen Roman .
+VF[O]LK[V]MF[S]	pp-sname	7	2	Einen Roman schreibt in dem Jahr Bertolt Brecht .
+VF[ADV]LK[V]MF[SO]	pp-sname	6	9	Deshalb schreibt in dem Jahr Bertolt Brecht einen Roman .
+LK[V]MF[SO]	pp-sname	5	8	Schreibt in dem Jahr Bertolt Brecht einen Roman ?
+MF[SO]VC[V]	pp-sname	5	8	Weil in dem Jahr Bertolt Brecht einen Roman schreibt .
 VF[S]LK[V]MF[O]	pp-sname	1	6	Merkel beendet in dem Jahr Reden .
 VF[O]LK[V]MF[S]	pp-sname	6	1	Reden beendet in dem Jahr Merkel .
 VF[ADV]LK[V]MF[SO]	pp-sname	6	7	Deshalb beendet in dem Jahr Merkel Reden .
@@ -5633,11 +5633,11 @@ VF[O]LK[V]MF[S]	oan-sname	4	2	Einen Hundehalter kratzt Clooney .
 VF[ADV]LK[V]MF[SO]	oan-sname	3	5	Deshalb kratzt Clooney einen Hundehalter .
 LK[V]MF[SO]	oan-sname	2	4	Kratzt Clooney einen Hundehalter ?
 MF[SO]VC[V]	oan-sname	2	4	Weil Clooney einen Hundehalter kratzt .
-VF[S]LK[V]MF[O]	oan-sname	2	5	Bertolt Brecht streift einen Koch .
-VF[O]LK[V]MF[S]	oan-sname	5	2	Einen Koch streift Bertolt Brecht .
-VF[ADV]LK[V]MF[SO]	oan-sname	4	6	Deshalb streift Bertolt Brecht einen Koch .
-LK[V]MF[SO]	oan-sname	3	5	Streift Bertolt Brecht einen Koch ?
-MF[SO]VC[V]	oan-sname	3	5	Weil Bertolt Brecht einen Koch streift .
+VF[S]LK[V]MF[O]	oan-sname	1	5	Bertolt Brecht streift einen Koch .
+VF[O]LK[V]MF[S]	oan-sname	4	2	Einen Koch streift Bertolt Brecht .
+VF[ADV]LK[V]MF[SO]	oan-sname	3	6	Deshalb streift Bertolt Brecht einen Koch .
+LK[V]MF[SO]	oan-sname	2	5	Streift Bertolt Brecht einen Koch ?
+MF[SO]VC[V]	oan-sname	2	5	Weil Bertolt Brecht einen Koch streift .
 VF[S]LK[V]MF[O]	oan-sname	1	4	RTL nimmt einen Bewerber .
 VF[O]LK[V]MF[S]	oan-sname	4	2	Einen Bewerber nimmt RTL .
 VF[ADV]LK[V]MF[SO]	oan-sname	3	5	Deshalb nimmt RTL einen Bewerber .
@@ -5648,11 +5648,11 @@ VF[O]LK[V]MF[S]	oan-sname	4	2	Einen Jazz-Pianisten kopiert Daimler .
 VF[ADV]LK[V]MF[SO]	oan-sname	3	5	Deshalb kopiert Daimler einen Jazz-Pianisten .
 LK[V]MF[SO]	oan-sname	2	4	Kopiert Daimler einen Jazz-Pianisten ?
 MF[SO]VC[V]	oan-sname	2	4	Weil Daimler einen Jazz-Pianisten kopiert .
-VF[S]LK[V]MF[O]	oan-sname	2	5	Günter Jauch beauftragt einen Kammerjäger .
-VF[O]LK[V]MF[S]	oan-sname	5	2	Einen Kammerjäger beauftragt Günter Jauch .
-VF[ADV]LK[V]MF[SO]	oan-sname	4	6	Deshalb beauftragt Günter Jauch einen Kammerjäger .
-LK[V]MF[SO]	oan-sname	3	5	Beauftragt Günter Jauch einen Kammerjäger ?
-MF[SO]VC[V]	oan-sname	3	5	Weil Günter Jauch einen Kammerjäger beauftragt .
+VF[S]LK[V]MF[O]	oan-sname	1	5	Günter Jauch beauftragt einen Kammerjäger .
+VF[O]LK[V]MF[S]	oan-sname	4	2	Einen Kammerjäger beauftragt Günter Jauch .
+VF[ADV]LK[V]MF[SO]	oan-sname	3	6	Deshalb beauftragt Günter Jauch einen Kammerjäger .
+LK[V]MF[SO]	oan-sname	2	5	Beauftragt Günter Jauch einen Kammerjäger ?
+MF[SO]VC[V]	oan-sname	2	5	Weil Günter Jauch einen Kammerjäger beauftragt .
 VF[S]LK[V]MF[O]	oan-sname	1	4	Gillette verletzt einen Jugendlichen .
 VF[O]LK[V]MF[S]	oan-sname	4	2	Einen Jugendlichen verletzt Gillette .
 VF[ADV]LK[V]MF[SO]	oan-sname	3	5	Deshalb verletzt Gillette einen Jugendlichen .
@@ -6993,11 +6993,11 @@ VF[O]LK[V]MF[S]	regpol-noref	4	1	Nichts bekommen die Schulen .
 VF[ADV]LK[V]MF[SO]	regpol-noref	4	5	Deshalb bekommen die Schulen nichts .
 LK[V]MF[SO]	regpol-noref	3	4	Bekommen die Schulen nichts ?
 MF[SO]VC[V]	regpol-noref	3	4	Weil die Schulen nichts bekommen .
-VF[S]LK[V]MF[O]	regpol-noref	2	4	Die Werkstätte ziehen nichts .
-VF[O]LK[V]MF[S]	regpol-noref	4	1	Nichts ziehen die Werkstätte .
-VF[ADV]LK[V]MF[SO]	regpol-noref	4	5	Deshalb ziehen die Werkstätte nichts .
-LK[V]MF[SO]	regpol-noref	3	4	Ziehen die Werkstätte nichts ?
-MF[SO]VC[V]	regpol-noref	3	4	Weil die Werkstätte nichts ziehen .
+VF[S]LK[V]MF[O]	regpol-noref	2	4	Die Werkstätten ziehen nichts .
+VF[O]LK[V]MF[S]	regpol-noref	4	1	Nichts ziehen die Werkstätten .
+VF[ADV]LK[V]MF[SO]	regpol-noref	4	5	Deshalb ziehen die Werkstätten nichts .
+LK[V]MF[SO]	regpol-noref	3	4	Ziehen die Werkstätten nichts ?
+MF[SO]VC[V]	regpol-noref	3	4	Weil die Werkstätten nichts ziehen .
 VF[S]LK[V]MF[O]	regpol-noref	2	4	Die Universitäten gewinnen nichts .
 VF[O]LK[V]MF[S]	regpol-noref	4	1	Nichts gewinnen die Universitäten .
 VF[ADV]LK[V]MF[SO]	regpol-noref	4	5	Deshalb gewinnen die Universitäten nichts .
@@ -7008,81 +7008,6 @@ VF[O]LK[V]MF[S]	regpol-noref	4	1	Nichts übernimmt der Konzern .
 VF[ADV]LK[V]MF[SO]	regpol-noref	4	5	Deshalb übernimmt der Konzern nichts .
 LK[V]MF[SO]	regpol-noref	3	4	Übernimmt der Konzern nichts ?
 MF[SO]VC[V]	regpol-noref	3	4	Weil der Konzern nichts übernimmt .
-VF[S]LK[V]MF[O]	sname-noref	1	3	Siemens startet nichts .
-VF[O]LK[V]MF[S]	sname-noref	3	1	Nichts startet Siemens .
-VF[ADV]LK[V]MF[SO]	sname-noref	3	4	Deshalb startet Siemens nichts .
-LK[V]MF[SO]	sname-noref	2	3	Startet Siemens nichts ?
-MF[SO]VC[V]	sname-noref	2	3	Weil Siemens nichts startet .
-VF[S]LK[V]MF[O]	sname-noref	1	3	Balazs lebt nichts .
-VF[O]LK[V]MF[S]	sname-noref	3	1	Nichts lebt Balazs .
-VF[ADV]LK[V]MF[SO]	sname-noref	3	4	Deshalb lebt Balazs nichts .
-LK[V]MF[SO]	sname-noref	2	3	Lebt Balazs nichts ?
-MF[SO]VC[V]	sname-noref	2	3	Weil Balazs nichts lebt .
-VF[S]LK[V]MF[O]	sname-noref	1	3	Daimler übertextet nichts .
-VF[O]LK[V]MF[S]	sname-noref	3	1	Nichts übertextet Daimler .
-VF[ADV]LK[V]MF[SO]	sname-noref	3	4	Deshalb übertextet Daimler nichts .
-LK[V]MF[SO]	sname-noref	2	3	Übertextet Daimler nichts ?
-MF[SO]VC[V]	sname-noref	2	3	Weil Daimler nichts übertextet .
-VF[S]LK[V]MF[O]	sname-noref	1	3	RTL spielt nichts .
-VF[O]LK[V]MF[S]	sname-noref	3	1	Nichts spielt RTL .
-VF[ADV]LK[V]MF[SO]	sname-noref	3	4	Deshalb spielt RTL nichts .
-LK[V]MF[SO]	sname-noref	2	3	Spielt RTL nichts ?
-MF[SO]VC[V]	sname-noref	2	3	Weil RTL nichts spielt .
-VF[S]LK[V]MF[O]	sname-noref	1	3	Degas bewirft nichts .
-VF[O]LK[V]MF[S]	sname-noref	3	1	Nichts bewirft Degas .
-VF[ADV]LK[V]MF[SO]	sname-noref	3	4	Deshalb bewirft Degas nichts .
-LK[V]MF[SO]	sname-noref	2	3	Bewirft Degas nichts ?
-MF[SO]VC[V]	sname-noref	2	3	Weil Degas nichts bewirft .
-VF[S]LK[V]MF[O]	sname-noref	2	4	Günter Jauch findet nichts .
-VF[O]LK[V]MF[S]	sname-noref	4	1	Nichts findet Günter Jauch .
-VF[ADV]LK[V]MF[SO]	sname-noref	4	5	Deshalb findet Günter Jauch nichts .
-LK[V]MF[SO]	sname-noref	3	4	Findet Günter Jauch nichts ?
-MF[SO]VC[V]	sname-noref	3	4	Weil Günter Jauch nichts findet .
-VF[S]LK[V]MF[O]	sname-noref	1	3	Harry abonniert nichts .
-VF[O]LK[V]MF[S]	sname-noref	3	1	Nichts abonniert Harry .
-VF[ADV]LK[V]MF[SO]	sname-noref	3	4	Deshalb abonniert Harry nichts .
-LK[V]MF[SO]	sname-noref	2	3	Abonniert Harry nichts ?
-MF[SO]VC[V]	sname-noref	2	3	Weil Harry nichts abonniert .
-VF[S]LK[V]MF[O]	sname-noref	1	3	Gillette rasiert nichts .
-VF[O]LK[V]MF[S]	sname-noref	3	1	Nichts rasiert Gillette .
-VF[ADV]LK[V]MF[SO]	sname-noref	3	4	Deshalb rasiert Gillette nichts .
-LK[V]MF[SO]	sname-noref	2	3	Rasiert Gillette nichts ?
-MF[SO]VC[V]	sname-noref	2	3	Weil Gillette nichts rasiert .
-VF[S]LK[V]MF[O]	sname-noref	1	3	Clooney trinkt nichts .
-VF[O]LK[V]MF[S]	sname-noref	3	1	Nichts trinkt Clooney .
-VF[ADV]LK[V]MF[SO]	sname-noref	3	4	Deshalb trinkt Clooney nichts .
-LK[V]MF[SO]	sname-noref	2	3	Trinkt Clooney nichts ?
-MF[SO]VC[V]	sname-noref	2	3	Weil Clooney nichts trinkt .
-VF[S]LK[V]MF[O]	sname-noref	2	4	Bertolt Brecht schreibt nichts .
-VF[O]LK[V]MF[S]	sname-noref	4	1	Nichts schreibt Bertolt Brecht .
-VF[ADV]LK[V]MF[SO]	sname-noref	4	5	Deshalb schreibt Bertolt Brecht nichts .
-LK[V]MF[SO]	sname-noref	3	4	Schreibt Bertolt Brecht nichts ?
-MF[SO]VC[V]	sname-noref	3	4	Weil Bertolt Brecht nichts schreibt .
-VF[S]LK[V]MF[O]	sname-noref	1	3	Merkel beendet nichts .
-VF[O]LK[V]MF[S]	sname-noref	3	1	Nichts beendet Merkel .
-VF[ADV]LK[V]MF[SO]	sname-noref	3	4	Deshalb beendet Merkel nichts .
-LK[V]MF[SO]	sname-noref	2	3	Beendet Merkel nichts ?
-MF[SO]VC[V]	sname-noref	2	3	Weil Merkel nichts beendet .
-VF[S]LK[V]MF[O]	sname-noref	1	3	Vietnam bekommt nichts .
-VF[O]LK[V]MF[S]	sname-noref	3	1	Nichts bekommt Vietnam .
-VF[ADV]LK[V]MF[SO]	sname-noref	3	4	Deshalb bekommt Vietnam nichts .
-LK[V]MF[SO]	sname-noref	2	3	Bekommt Vietnam nichts ?
-MF[SO]VC[V]	sname-noref	2	3	Weil Vietnam nichts bekommt .
-VF[S]LK[V]MF[O]	sname-noref	1	3	Anke zieht nichts .
-VF[O]LK[V]MF[S]	sname-noref	3	1	Nichts zieht Anke .
-VF[ADV]LK[V]MF[SO]	sname-noref	3	4	Deshalb zieht Anke nichts .
-LK[V]MF[SO]	sname-noref	2	3	Zieht Anke nichts ?
-MF[SO]VC[V]	sname-noref	2	3	Weil Anke nichts zieht .
-VF[S]LK[V]MF[O]	sname-noref	1	3	Bonn gewinnt nichts .
-VF[O]LK[V]MF[S]	sname-noref	3	1	Nichts gewinnt Bonn .
-VF[ADV]LK[V]MF[SO]	sname-noref	3	4	Deshalb gewinnt Bonn nichts .
-LK[V]MF[SO]	sname-noref	2	3	Gewinnt Bonn nichts ?
-MF[SO]VC[V]	sname-noref	2	3	Weil Bonn nichts gewinnt .
-VF[S]LK[V]MF[O]	sname-noref	1	3	EnBW übernimmt nichts .
-VF[O]LK[V]MF[S]	sname-noref	3	1	Nichts übernimmt EnBW .
-VF[ADV]LK[V]MF[SO]	sname-noref	3	4	Deshalb übernimmt EnBW nichts .
-LK[V]MF[SO]	sname-noref	2	3	Übernimmt EnBW nichts ?
-MF[SO]VC[V]	sname-noref	2	3	Weil EnBW nichts übernimmt .
 VF[S]LK[V]MF[O]	base-psy	2	5	Der Angriff fesselt einen General .
 VF[O]LK[V]MF[S]	base-psy	5	2	Einen General fesselt der Angriff .
 VF[ADV]LK[V]MF[SO]	base-psy	4	6	Deshalb fesselt der Angriff einen General .
@@ -7566,123 +7491,78 @@ MF[OS]VC[V]	aux-psy	5	3	Weil einen Handwerker die Bauausführung belustigen wird
 VF[S]LK[V]MF[O]	spron-psy	1	4	Er fesselt einen General .
 VF[O]LK[V]MF[S]	spron-psy	4	2	Einen General fesselt er .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Deshalb fesselt er einen General .
-VF[ADV]LK[V]MF[OS]	spron-psy	5	4	Deshalb fesselt einen General er .
 LK[V]MF[SO]	spron-psy	2	4	Fesselt er einen General ?
-LK[V]MF[OS]	spron-psy	4	3	Fesselt einen General er ?
 MF[SO]VC[V]	spron-psy	2	4	Weil er einen General fesselt .
-MF[OS]VC[V]	spron-psy	4	3	Weil einen General er fesselt .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Sie langweilt einen Partner .
 VF[O]LK[V]MF[S]	spron-psy	4	2	Einen Partner langweilt sie .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Deshalb langweilt sie einen Partner .
-VF[ADV]LK[V]MF[OS]	spron-psy	5	4	Deshalb langweilt einen Partner sie .
 LK[V]MF[SO]	spron-psy	2	4	Langweilt sie einen Partner ?
-LK[V]MF[OS]	spron-psy	4	3	Langweilt einen Partner sie ?
 MF[SO]VC[V]	spron-psy	2	4	Weil sie einen Partner langweilt .
-MF[OS]VC[V]	spron-psy	4	3	Weil einen Partner sie langweilt .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Sie begeistern einen Journalisten .
 VF[O]LK[V]MF[S]	spron-psy	4	2	Einen Journalisten begeistern sie .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Deshalb begeistern sie einen Journalisten .
-VF[ADV]LK[V]MF[OS]	spron-psy	5	4	Deshalb begeistern einen Journalisten sie .
 LK[V]MF[SO]	spron-psy	2	4	Begeistern sie einen Journalisten ?
-LK[V]MF[OS]	spron-psy	4	3	Begeistern einen Journalisten sie ?
 MF[SO]VC[V]	spron-psy	2	4	Weil sie einen Journalisten begeistern .
-MF[OS]VC[V]	spron-psy	4	3	Weil einen Journalisten sie begeistern .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Er erzürnt eine Freundin .
 VF[O]LK[V]MF[S]	spron-psy	4	2	Eine Freundin erzürnt er .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Deshalb erzürnt er eine Freundin .
-VF[ADV]LK[V]MF[OS]	spron-psy	5	4	Deshalb erzürnt eine Freundin er .
 LK[V]MF[SO]	spron-psy	2	4	Erzürnt er eine Freundin ?
-LK[V]MF[OS]	spron-psy	4	3	Erzürnt eine Freundin er ?
 MF[SO]VC[V]	spron-psy	2	4	Weil er eine Freundin erzürnt .
-MF[OS]VC[V]	spron-psy	4	3	Weil eine Freundin er erzürnt .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Sie faszinieren einen Passanten .
 VF[O]LK[V]MF[S]	spron-psy	4	2	Einen Passanten faszinieren sie .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Deshalb faszinieren sie einen Passanten .
-VF[ADV]LK[V]MF[OS]	spron-psy	5	4	Deshalb faszinieren einen Passanten sie .
 LK[V]MF[SO]	spron-psy	2	4	Faszinieren sie einen Passanten ?
-LK[V]MF[OS]	spron-psy	4	3	Faszinieren einen Passanten sie ?
 MF[SO]VC[V]	spron-psy	2	4	Weil sie einen Passanten faszinieren .
-MF[OS]VC[V]	spron-psy	4	3	Weil einen Passanten sie faszinieren .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Er berührt ein Kind .
 VF[O]LK[V]MF[S]	spron-psy	4	2	Ein Kind berührt er .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Deshalb berührt er ein Kind .
-VF[ADV]LK[V]MF[OS]	spron-psy	5	4	Deshalb berührt ein Kind er .
 LK[V]MF[SO]	spron-psy	2	4	Berührt er ein Kind ?
-LK[V]MF[OS]	spron-psy	4	3	Berührt ein Kind er ?
 MF[SO]VC[V]	spron-psy	2	4	Weil er ein Kind berührt .
-MF[OS]VC[V]	spron-psy	4	3	Weil ein Kind er berührt .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Sie ängstigt einen Leser .
 VF[O]LK[V]MF[S]	spron-psy	4	2	Einen Leser ängstigt sie .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Deshalb ängstigt sie einen Leser .
-VF[ADV]LK[V]MF[OS]	spron-psy	5	4	Deshalb ängstigt einen Leser sie .
 LK[V]MF[SO]	spron-psy	2	4	Ängstigt sie einen Leser ?
-LK[V]MF[OS]	spron-psy	4	3	Ängstigt einen Leser sie ?
 MF[SO]VC[V]	spron-psy	2	4	Weil sie einen Leser ängstigt .
-MF[OS]VC[V]	spron-psy	4	3	Weil einen Leser sie ängstigt .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Er erstaunt einen Herrn .
 VF[O]LK[V]MF[S]	spron-psy	4	2	Einen Herrn erstaunt er .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Deshalb erstaunt er einen Herrn .
-VF[ADV]LK[V]MF[OS]	spron-psy	5	4	Deshalb erstaunt einen Herrn er .
 LK[V]MF[SO]	spron-psy	2	4	Erstaunt er einen Herrn ?
-LK[V]MF[OS]	spron-psy	4	3	Erstaunt einen Herrn er ?
 MF[SO]VC[V]	spron-psy	2	4	Weil er einen Herrn erstaunt .
-MF[OS]VC[V]	spron-psy	4	3	Weil einen Herrn er erstaunt .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Er erfreut eine Mama .
 VF[O]LK[V]MF[S]	spron-psy	4	2	Eine Mama erfreut er .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Deshalb erfreut er eine Mama .
-VF[ADV]LK[V]MF[OS]	spron-psy	5	4	Deshalb erfreut eine Mama er .
 LK[V]MF[SO]	spron-psy	2	4	Erfreut er eine Mama ?
-LK[V]MF[OS]	spron-psy	4	3	Erfreut eine Mama er ?
 MF[SO]VC[V]	spron-psy	2	4	Weil er eine Mama erfreut .
-MF[OS]VC[V]	spron-psy	4	3	Weil eine Mama er erfreut .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Er frustriert einen Schriftsteller .
 VF[O]LK[V]MF[S]	spron-psy	4	2	Einen Schriftsteller frustriert er .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Deshalb frustriert er einen Schriftsteller .
-VF[ADV]LK[V]MF[OS]	spron-psy	5	4	Deshalb frustriert einen Schriftsteller er .
 LK[V]MF[SO]	spron-psy	2	4	Frustriert er einen Schriftsteller ?
-LK[V]MF[OS]	spron-psy	4	3	Frustriert einen Schriftsteller er ?
 MF[SO]VC[V]	spron-psy	2	4	Weil er einen Schriftsteller frustriert .
-MF[OS]VC[V]	spron-psy	4	3	Weil einen Schriftsteller er frustriert .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Sie erbost einen Politiker .
 VF[O]LK[V]MF[S]	spron-psy	4	2	Einen Politiker erbost sie .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Deshalb erbost sie einen Politiker .
-VF[ADV]LK[V]MF[OS]	spron-psy	5	4	Deshalb erbost einen Politiker sie .
 LK[V]MF[SO]	spron-psy	2	4	Erbost sie einen Politiker ?
-LK[V]MF[OS]	spron-psy	4	3	Erbost einen Politiker sie ?
 MF[SO]VC[V]	spron-psy	2	4	Weil sie einen Politiker erbost .
-MF[OS]VC[V]	spron-psy	4	3	Weil einen Politiker sie erbost .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Sie beschämt einen Abgeordneten .
 VF[O]LK[V]MF[S]	spron-psy	4	2	Einen Abgeordneten beschämt sie .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Deshalb beschämt sie einen Abgeordneten .
-VF[ADV]LK[V]MF[OS]	spron-psy	5	4	Deshalb beschämt einen Abgeordneten sie .
 LK[V]MF[SO]	spron-psy	2	4	Beschämt sie einen Abgeordneten ?
-LK[V]MF[OS]	spron-psy	4	3	Beschämt einen Abgeordneten sie ?
 MF[SO]VC[V]	spron-psy	2	4	Weil sie einen Abgeordneten beschämt .
-MF[OS]VC[V]	spron-psy	4	3	Weil einen Abgeordneten sie beschämt .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Er reut einen Kleinbauern .
 VF[O]LK[V]MF[S]	spron-psy	4	2	Einen Kleinbauern reut er .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Deshalb reut er einen Kleinbauern .
-VF[ADV]LK[V]MF[OS]	spron-psy	5	4	Deshalb reut einen Kleinbauern er .
 LK[V]MF[SO]	spron-psy	2	4	Reut er einen Kleinbauern ?
-LK[V]MF[OS]	spron-psy	4	3	Reut einen Kleinbauern er ?
 MF[SO]VC[V]	spron-psy	2	4	Weil er einen Kleinbauern reut .
-MF[OS]VC[V]	spron-psy	4	3	Weil einen Kleinbauern er reut .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Sie amüsiert einen Sportler .
 VF[O]LK[V]MF[S]	spron-psy	4	2	Einen Sportler amüsiert sie .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Deshalb amüsiert sie einen Sportler .
-VF[ADV]LK[V]MF[OS]	spron-psy	5	4	Deshalb amüsiert einen Sportler sie .
 LK[V]MF[SO]	spron-psy	2	4	Amüsiert sie einen Sportler ?
-LK[V]MF[OS]	spron-psy	4	3	Amüsiert einen Sportler sie ?
 MF[SO]VC[V]	spron-psy	2	4	Weil sie einen Sportler amüsiert .
-MF[OS]VC[V]	spron-psy	4	3	Weil einen Sportler sie amüsiert .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Sie belustigt einen Handwerker .
 VF[O]LK[V]MF[S]	spron-psy	4	2	Einen Handwerker belustigt sie .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Deshalb belustigt sie einen Handwerker .
-VF[ADV]LK[V]MF[OS]	spron-psy	5	4	Deshalb belustigt einen Handwerker sie .
 LK[V]MF[SO]	spron-psy	2	4	Belustigt sie einen Handwerker ?
-LK[V]MF[OS]	spron-psy	4	3	Belustigt einen Handwerker sie ?
 MF[SO]VC[V]	spron-psy	2	4	Weil sie einen Handwerker belustigt .
-MF[OS]VC[V]	spron-psy	4	3	Weil einen Handwerker sie belustigt .
 VF[S]LK[V]MF[O]	opron-psy	2	4	Der Angriff fesselt ihn .
 VF[O]LK[V]MF[S]	opron-psy	4	1	Ihn fesselt der Angriff .
 VF[ADV]LK[V]MF[SO]	opron-psy	4	5	Deshalb fesselt der Angriff ihn .
@@ -8203,14 +8083,14 @@ LK[V]MF[SO]	sname-psy	3	4	Berühren die Lösungen Clooney ?
 LK[V]MF[OS]	sname-psy	4	2	Berühren Clooney die Lösungen ?
 MF[SO]VC[V]	sname-psy	3	4	Weil die Lösungen Clooney berühren .
 MF[OS]VC[V]	sname-psy	4	2	Weil Clooney die Lösungen berühren .
-VF[S]LK[V]MF[O]	sname-psy	2	5	Die Zeitschriften ängstigen Bertolt Brecht .
-VF[O]LK[V]MF[S]	sname-psy	5	2	Bertolt Brecht ängstigen die Zeitschriften .
-VF[ADV]LK[V]MF[SO]	sname-psy	4	6	Deshalb ängstigen die Zeitschriften Bertolt Brecht .
-VF[ADV]LK[V]MF[OS]	sname-psy	6	4	Deshalb ängstigen Bertolt Brecht die Zeitschriften .
-LK[V]MF[SO]	sname-psy	3	5	Ängstigen die Zeitschriften Bertolt Brecht ?
-LK[V]MF[OS]	sname-psy	5	3	Ängstigen Bertolt Brecht die Zeitschriften ?
-MF[SO]VC[V]	sname-psy	3	5	Weil die Zeitschriften Bertolt Brecht ängstigen .
-MF[OS]VC[V]	sname-psy	5	3	Weil Bertolt Brecht die Zeitschriften ängstigen .
+VF[S]LK[V]MF[O]	sname-psy	2	4	Die Zeitschriften ängstigen Bertolt Brecht .
+VF[O]LK[V]MF[S]	sname-psy	5	1	Bertolt Brecht ängstigen die Zeitschriften .
+VF[ADV]LK[V]MF[SO]	sname-psy	4	5	Deshalb ängstigen die Zeitschriften Bertolt Brecht .
+VF[ADV]LK[V]MF[OS]	sname-psy	6	3	Deshalb ängstigen Bertolt Brecht die Zeitschriften .
+LK[V]MF[SO]	sname-psy	3	4	Ängstigen die Zeitschriften Bertolt Brecht ?
+LK[V]MF[OS]	sname-psy	5	2	Ängstigen Bertolt Brecht die Zeitschriften ?
+MF[SO]VC[V]	sname-psy	3	4	Weil die Zeitschriften Bertolt Brecht ängstigen .
+MF[OS]VC[V]	sname-psy	5	2	Weil Bertolt Brecht die Zeitschriften ängstigen .
 VF[S]LK[V]MF[O]	sname-psy	2	4	Der Bart erstaunt Gillette .
 VF[O]LK[V]MF[S]	sname-psy	4	1	Gillette erstaunt der Bart .
 VF[ADV]LK[V]MF[SO]	sname-psy	4	5	Deshalb erstaunt der Bart Gillette .
@@ -8227,14 +8107,14 @@ LK[V]MF[SO]	sname-psy	3	4	Erfreut der Kaffee RTL ?
 LK[V]MF[OS]	sname-psy	4	2	Erfreut RTL der Kaffee ?
 MF[SO]VC[V]	sname-psy	3	4	Weil der Kaffee RTL erfreut .
 MF[OS]VC[V]	sname-psy	4	2	Weil RTL der Kaffee erfreut .
-VF[S]LK[V]MF[O]	sname-psy	2	5	Der Roman frustriert Günter Jauch .
-VF[O]LK[V]MF[S]	sname-psy	5	2	Günter Jauch frustriert der Roman .
-VF[ADV]LK[V]MF[SO]	sname-psy	4	6	Deshalb frustriert der Roman Günter Jauch .
-VF[ADV]LK[V]MF[OS]	sname-psy	6	4	Deshalb frustriert Günter Jauch der Roman .
-LK[V]MF[SO]	sname-psy	3	5	Frustriert der Roman Günter Jauch ?
-LK[V]MF[OS]	sname-psy	5	3	Frustriert Günter Jauch der Roman ?
-MF[SO]VC[V]	sname-psy	3	5	Weil der Roman Günter Jauch frustriert .
-MF[OS]VC[V]	sname-psy	5	3	Weil Günter Jauch der Roman frustriert .
+VF[S]LK[V]MF[O]	sname-psy	2	4	Der Roman frustriert Günter Jauch .
+VF[O]LK[V]MF[S]	sname-psy	5	1	Günter Jauch frustriert der Roman .
+VF[ADV]LK[V]MF[SO]	sname-psy	4	5	Deshalb frustriert der Roman Günter Jauch .
+VF[ADV]LK[V]MF[OS]	sname-psy	6	3	Deshalb frustriert Günter Jauch der Roman .
+LK[V]MF[SO]	sname-psy	3	4	Frustriert der Roman Günter Jauch ?
+LK[V]MF[OS]	sname-psy	5	2	Frustriert Günter Jauch der Roman ?
+MF[SO]VC[V]	sname-psy	3	4	Weil der Roman Günter Jauch frustriert .
+MF[OS]VC[V]	sname-psy	5	2	Weil Günter Jauch der Roman frustriert .
 VF[S]LK[V]MF[O]	sname-psy	2	4	Die Reden erbosen Merkel .
 VF[O]LK[V]MF[S]	sname-psy	4	1	Merkel erbosen die Reden .
 VF[ADV]LK[V]MF[SO]	sname-psy	4	5	Deshalb erbosen die Reden Merkel .
@@ -9113,11 +8993,11 @@ VF[O]LK[V]MF[S]	regpol-vlight	4	1	Kritik üben die Universitäten .
 VF[ADV]LK[V]MF[SO]	regpol-vlight	4	5	Deshalb üben die Universitäten Kritik .
 LK[V]MF[SO]	regpol-vlight	3	4	Üben die Universitäten Kritik ?
 MF[SO]VC[V]	regpol-vlight	3	4	Weil die Universitäten Kritik üben .
-VF[S]LK[V]MF[O]	regpol-vlight	2	4	Die Werkstätte treiben Sport .
-VF[O]LK[V]MF[S]	regpol-vlight	4	1	Sport treiben die Werkstätte .
-VF[ADV]LK[V]MF[SO]	regpol-vlight	4	5	Deshalb treiben die Werkstätte Sport .
-LK[V]MF[SO]	regpol-vlight	3	4	Treiben die Werkstätte Sport ?
-MF[SO]VC[V]	regpol-vlight	3	4	Weil die Werkstätte Sport treiben .
+VF[S]LK[V]MF[O]	regpol-vlight	2	4	Die Werkstätten treiben Sport .
+VF[O]LK[V]MF[S]	regpol-vlight	4	1	Sport treiben die Werkstätten .
+VF[ADV]LK[V]MF[SO]	regpol-vlight	4	5	Deshalb treiben die Werkstätten Sport .
+LK[V]MF[SO]	regpol-vlight	3	4	Treiben die Werkstätten Sport ?
+MF[SO]VC[V]	regpol-vlight	3	4	Weil die Werkstätten Sport treiben .
 VF[S]LK[V]MF[O]	regpol-vlight	2	4	Der Konzern bezieht Stellung .
 VF[O]LK[V]MF[S]	regpol-vlight	4	1	Stellung bezieht der Konzern .
 VF[ADV]LK[V]MF[SO]	regpol-vlight	4	5	Deshalb bezieht der Konzern Stellung .
@@ -9148,11 +9028,11 @@ VF[O]LK[V]MF[S]	sname-vlight	3	1	Fragen stellt Clooney .
 VF[ADV]LK[V]MF[SO]	sname-vlight	3	4	Deshalb stellt Clooney Fragen .
 LK[V]MF[SO]	sname-vlight	2	3	Stellt Clooney Fragen ?
 MF[SO]VC[V]	sname-vlight	2	3	Weil Clooney Fragen stellt .
-VF[S]LK[V]MF[O]	sname-vlight	2	5	Bertolt Brecht stellt einen Antrag .
-VF[O]LK[V]MF[S]	sname-vlight	5	2	Einen Antrag stellt Bertolt Brecht .
-VF[ADV]LK[V]MF[SO]	sname-vlight	4	6	Deshalb stellt Bertolt Brecht einen Antrag .
-LK[V]MF[SO]	sname-vlight	3	5	Stellt Bertolt Brecht einen Antrag ?
-MF[SO]VC[V]	sname-vlight	3	5	Weil Bertolt Brecht einen Antrag stellt .
+VF[S]LK[V]MF[O]	sname-vlight	1	5	Bertolt Brecht stellt einen Antrag .
+VF[O]LK[V]MF[S]	sname-vlight	4	2	Einen Antrag stellt Bertolt Brecht .
+VF[ADV]LK[V]MF[SO]	sname-vlight	3	6	Deshalb stellt Bertolt Brecht einen Antrag .
+LK[V]MF[SO]	sname-vlight	2	5	Stellt Bertolt Brecht einen Antrag ?
+MF[SO]VC[V]	sname-vlight	2	5	Weil Bertolt Brecht einen Antrag stellt .
 VF[S]LK[V]MF[O]	sname-vlight	1	4	Gillette spielt eine Rolle .
 VF[O]LK[V]MF[S]	sname-vlight	4	2	Eine Rolle spielt Gillette .
 VF[ADV]LK[V]MF[SO]	sname-vlight	3	5	Deshalb spielt Gillette eine Rolle .
@@ -9163,11 +9043,11 @@ VF[O]LK[V]MF[S]	sname-vlight	3	1	Rücksicht nimmt RTL .
 VF[ADV]LK[V]MF[SO]	sname-vlight	3	4	Deshalb nimmt RTL Rücksicht .
 LK[V]MF[SO]	sname-vlight	2	3	Nimmt RTL Rücksicht ?
 MF[SO]VC[V]	sname-vlight	2	3	Weil RTL Rücksicht nimmt .
-VF[S]LK[V]MF[O]	sname-vlight	2	4	Günter Jauch nimmt Abschied .
-VF[O]LK[V]MF[S]	sname-vlight	4	1	Abschied nimmt Günter Jauch .
-VF[ADV]LK[V]MF[SO]	sname-vlight	4	5	Deshalb nimmt Günter Jauch Abschied .
-LK[V]MF[SO]	sname-vlight	3	4	Nimmt Günter Jauch Abschied ?
-MF[SO]VC[V]	sname-vlight	3	4	Weil Günter Jauch Abschied nimmt .
+VF[S]LK[V]MF[O]	sname-vlight	1	4	Günter Jauch nimmt Abschied .
+VF[O]LK[V]MF[S]	sname-vlight	3	1	Abschied nimmt Günter Jauch .
+VF[ADV]LK[V]MF[SO]	sname-vlight	3	5	Deshalb nimmt Günter Jauch Abschied .
+LK[V]MF[SO]	sname-vlight	2	4	Nimmt Günter Jauch Abschied ?
+MF[SO]VC[V]	sname-vlight	2	4	Weil Günter Jauch Abschied nimmt .
 VF[S]LK[V]MF[O]	sname-vlight	1	3	Merkel hegt Hoffnungen .
 VF[O]LK[V]MF[S]	sname-vlight	3	1	Hoffnungen hegt Merkel .
 VF[ADV]LK[V]MF[SO]	sname-vlight	3	4	Deshalb hegt Merkel Hoffnungen .
@@ -10198,11 +10078,11 @@ VF[O]LK[V]MF[S]	sname-syn	3	1	Kunstwerke beschmeißt Degas .
 VF[ADV]LK[V]MF[SO]	sname-syn	3	4	Deshalb beschmeißt Degas Kunstwerke .
 LK[V]MF[SO]	sname-syn	2	3	Beschmeißt Degas Kunstwerke ?
 MF[SO]VC[V]	sname-syn	2	3	Weil Degas Kunstwerke beschmeißt .
-VF[S]LK[V]MF[O]	sname-syn	2	4	Günter Jauch errät Lösungen .
-VF[O]LK[V]MF[S]	sname-syn	4	1	Lösungen errät Günter Jauch .
-VF[ADV]LK[V]MF[SO]	sname-syn	4	5	Deshalb errät Günter Jauch Lösungen .
-LK[V]MF[SO]	sname-syn	3	4	Errät Günter Jauch Lösungen ?
-MF[SO]VC[V]	sname-syn	3	4	Weil Günter Jauch Lösungen errät .
+VF[S]LK[V]MF[O]	sname-syn	1	4	Günter Jauch errät Lösungen .
+VF[O]LK[V]MF[S]	sname-syn	3	1	Lösungen errät Günter Jauch .
+VF[ADV]LK[V]MF[SO]	sname-syn	3	5	Deshalb errät Günter Jauch Lösungen .
+LK[V]MF[SO]	sname-syn	2	4	Errät Günter Jauch Lösungen ?
+MF[SO]VC[V]	sname-syn	2	4	Weil Günter Jauch Lösungen errät .
 VF[S]LK[V]MF[O]	sname-syn	1	3	Harry bestellt Zeitschriften .
 VF[O]LK[V]MF[S]	sname-syn	3	1	Zeitschriften bestellt Harry .
 VF[ADV]LK[V]MF[SO]	sname-syn	3	4	Deshalb bestellt Harry Zeitschriften .
@@ -10218,11 +10098,11 @@ VF[O]LK[V]MF[S]	sname-syn	4	2	Einen Kaffee schlürft Clooney .
 VF[ADV]LK[V]MF[SO]	sname-syn	3	5	Deshalb schlürft Clooney einen Kaffee .
 LK[V]MF[SO]	sname-syn	2	4	Schlürft Clooney einen Kaffee ?
 MF[SO]VC[V]	sname-syn	2	4	Weil Clooney einen Kaffee schlürft .
-VF[S]LK[V]MF[O]	sname-syn	2	5	Bertolt Brecht verfasst einen Roman .
-VF[O]LK[V]MF[S]	sname-syn	5	2	Einen Roman verfasst Bertolt Brecht .
-VF[ADV]LK[V]MF[SO]	sname-syn	4	6	Deshalb verfasst Bertolt Brecht einen Roman .
-LK[V]MF[SO]	sname-syn	3	5	Verfasst Bertolt Brecht einen Roman ?
-MF[SO]VC[V]	sname-syn	3	5	Weil Bertolt Brecht einen Roman verfasst .
+VF[S]LK[V]MF[O]	sname-syn	1	5	Bertolt Brecht verfasst einen Roman .
+VF[O]LK[V]MF[S]	sname-syn	4	2	Einen Roman verfasst Bertolt Brecht .
+VF[ADV]LK[V]MF[SO]	sname-syn	3	6	Deshalb verfasst Bertolt Brecht einen Roman .
+LK[V]MF[SO]	sname-syn	2	5	Verfasst Bertolt Brecht einen Roman ?
+MF[SO]VC[V]	sname-syn	2	5	Weil Bertolt Brecht einen Roman verfasst .
 VF[S]LK[V]MF[O]	sname-syn	1	3	Merkel beendigt Reden .
 VF[O]LK[V]MF[S]	sname-syn	3	1	Reden beendigt Merkel .
 VF[ADV]LK[V]MF[SO]	sname-syn	3	4	Deshalb beendigt Merkel Reden .
@@ -10541,8 +10421,11 @@ MF[SO]VC[V]	base-prov	3	5	Weil jede Münze zwei Seiten hat .
 VF[S]LK[V]MF[O]	base-prov	2	5	Die Hunde beißen den letzten .
 VF[O]LK[V]MF[S]	base-prov	5	2	Den letzten beißen die Hunde .
 VF[ADV]LK[V]MF[SO]	base-prov	4	6	Deshalb beißen die Hunde den letzten .
+VF[ADV]LK[V]MF[OS]	base-prov	6	4	Deshalb beißen den letzten die Hunde .
 LK[V]MF[SO]	base-prov	3	5	Beißen die Hunde den letzten ?
+LK[V]MF[OS]	base-prov	5	3	Beißen den letzten die Hunde ?
 MF[SO]VC[V]	base-prov	3	5	Weil die Hunde den letzten beißen .
+MF[OS]VC[V]	base-prov	5	3	Weil den letzten die Hunde beißen .
 VF[S]LK[V]MF[O]	base-prov	2	5	Der Ton macht die Musik .
 VF[O]LK[V]MF[S]	base-prov	5	2	Die Musik macht der Ton .
 VF[ADV]LK[V]MF[SO]	base-prov	4	6	Deshalb macht der Ton die Musik .
@@ -10553,46 +10436,6 @@ VF[O]LK[V]MF[S]	base-prov	5	2	Alle Wunden heilt die Zeit .
 VF[ADV]LK[V]MF[SO]	base-prov	4	6	Deshalb heilt die Zeit alle Wunden .
 LK[V]MF[SO]	base-prov	3	5	Heilt die Zeit alle Wunden ?
 MF[SO]VC[V]	base-prov	3	5	Weil die Zeit alle Wunden heilt .
-VF[S]LK[V]MF[O]	base-prov	1	4	Alles hat seine Zeit .
-VF[O]LK[V]MF[S]	base-prov	4	2	Seine Zeit hat alles .
-VF[ADV]LK[V]MF[SO]	base-prov	3	5	Deshalb hat alles seine Zeit .
-LK[V]MF[SO]	base-prov	2	4	Hat alles seine Zeit ?
-MF[SO]VC[V]	base-prov	2	4	Weil alles seine Zeit hat .
-VF[S]LK[V]MF[O]	base-prov	1	3	Arbeit bringt Brot .
-VF[O]LK[V]MF[S]	base-prov	3	1	Brot bringt Arbeit .
-VF[ADV]LK[V]MF[SO]	base-prov	3	4	Deshalb bringt Arbeit Brot .
-LK[V]MF[SO]	base-prov	2	3	Bringt Arbeit Brot ?
-MF[SO]VC[V]	base-prov	2	3	Weil Arbeit Brot bringt .
-VF[S]LK[V]MF[O]	base-prov	2	5	Eine Hand wäscht die andere .
-VF[O]LK[V]MF[S]	base-prov	5	2	Die andere wäscht eine Hand .
-VF[ADV]LK[V]MF[SO]	base-prov	4	6	Deshalb wäscht eine Hand die andere .
-LK[V]MF[SO]	base-prov	3	5	Wäscht eine Hand die andere ?
-MF[SO]VC[V]	base-prov	3	5	Weil eine Hand die andere wäscht .
-VF[S]LK[V]MF[O]	base-prov	2	5	Frühe Zucht bringt gute Frucht .
-VF[O]LK[V]MF[S]	base-prov	5	2	Gute Frucht bringt frühe Zucht .
-VF[ADV]LK[V]MF[SO]	base-prov	4	6	Deshalb bringt frühe Zucht gute Frucht .
-LK[V]MF[SO]	base-prov	3	5	Bringt frühe Zucht gute Frucht ?
-MF[SO]VC[V]	base-prov	3	5	Weil frühe Zucht gute Frucht bringt .
-VF[S]LK[V]MF[O]	base-prov	1	4	Geld regiert die Welt .
-VF[O]LK[V]MF[S]	base-prov	4	2	Die Welt regiert Geld .
-VF[ADV]LK[V]MF[SO]	base-prov	3	5	Deshalb regiert Geld die Welt .
-LK[V]MF[SO]	base-prov	2	4	Regiert Geld die Welt ?
-MF[SO]VC[V]	base-prov	2	4	Weil Geld die Welt regiert .
-VF[S]LK[V]MF[O]	base-prov	1	3	Borgen bringt Sorgen .
-VF[O]LK[V]MF[S]	base-prov	3	1	Sorgen bringt Borgen .
-VF[ADV]LK[V]MF[SO]	base-prov	3	4	Deshalb bringt Borgen Sorgen .
-LK[V]MF[SO]	base-prov	2	3	Bringt Borgen Sorgen ?
-MF[SO]VC[V]	base-prov	2	3	Weil Borgen Sorgen bringt .
-VF[S]LK[V]MF[O]	base-prov	2	5	Das Schicksal bestimmt dein Leben .
-VF[O]LK[V]MF[S]	base-prov	5	2	Dein Leben bestimmt das Schicksal .
-VF[ADV]LK[V]MF[SO]	base-prov	4	6	Deshalb bestimmt das Schicksal dein Leben .
-LK[V]MF[SO]	base-prov	3	5	Bestimmt das Schicksal dein Leben ?
-MF[SO]VC[V]	base-prov	3	5	Weil das Schicksal dein Leben bestimmt .
-VF[S]LK[V]MF[O]	base-prov	1	4	Jugend kennt keine Tugend .
-VF[O]LK[V]MF[S]	base-prov	4	2	Keine Tugend kennt Jugend .
-VF[ADV]LK[V]MF[SO]	base-prov	3	5	Deshalb kennt Jugend keine Tugend .
-LK[V]MF[SO]	base-prov	2	4	Kennt Jugend keine Tugend ?
-MF[SO]VC[V]	base-prov	2	4	Weil Jugend keine Tugend kennt .
 VF[S]LK[V]MF[O]	dat-prov	1	3	Dank sei Gott .
 VF[O]LK[V]MF[S]	dat-prov	3	1	Gott sei Dank .
 VF[ADV]LK[V]MF[SO]	dat-prov	3	4	Deshalb sei Dank Gott .
@@ -10616,13 +10459,19 @@ MF[SO]VC[V]	dat-prov	2	4	Weil mancher dem Falken entfleucht .
 VF[S]LK[V]MF[O]	dat-prov	2	4	Der Wallach fohlt dem .
 VF[O]LK[V]MF[S]	dat-prov	4	1	Dem fohlt der Wallach .
 VF[ADV]LK[V]MF[SO]	dat-prov	4	5	Deshalb fohlt der Wallach dem .
+VF[ADV]LK[V]MF[OS]	dat-prov	5	3	Deshalb fohlt dem der Wallach .
 LK[V]MF[SO]	dat-prov	3	4	Fohlt der Wallach dem ?
+LK[V]MF[OS]	dat-prov	4	2	Fohlt dem der Wallach ?
 MF[SO]VC[V]	dat-prov	3	4	Weil der Wallach dem fohlt .
+MF[OS]VC[V]	dat-prov	4	2	Weil dem der Wallach fohlt .
 VF[S]LK[V]MF[O]	dat-prov	1	4	Viel fehlt dem Gesunden .
 VF[O]LK[V]MF[S]	dat-prov	4	2	Dem Gesunden fehlt viel .
 VF[ADV]LK[V]MF[SO]	dat-prov	3	5	Deshalb fehlt viel dem Gesunden .
+VF[ADV]LK[V]MF[OS]	dat-prov	5	4	Deshalb fehlt dem Gesunden viel .
 LK[V]MF[SO]	dat-prov	2	4	Fehlt viel dem Gesunden ?
+LK[V]MF[OS]	dat-prov	4	3	Fehlt dem Gesunden viel ?
 MF[SO]VC[V]	dat-prov	2	4	Weil viel dem Gesunden fehlt .
+MF[OS]VC[V]	dat-prov	4	3	Weil dem Gesunden viel fehlt .
 VF[S]LK[V]MF[O]	aux-prov	2	5	Die Wissenschaft wird die Mittel heiligen .
 VF[O]LK[V]MF[S]	aux-prov	5	2	Die Mittel wird die Wissenschaft heiligen .
 VF[ADV]LK[V]MF[SO]	aux-prov	4	6	Deshalb wird die Wissenschaft die Mittel heiligen .
@@ -10646,8 +10495,11 @@ MF[SO]VC[V]	aux-prov	3	5	Weil jede Münze zwei Seiten haben wird .
 VF[S]LK[V]MF[O]	aux-prov	2	5	Die Hunde werden den letzten beißen .
 VF[O]LK[V]MF[S]	aux-prov	5	2	Den letzten werden die Hunde beißen .
 VF[ADV]LK[V]MF[SO]	aux-prov	4	6	Deshalb werden die Hunde den letzten beißen .
+VF[ADV]LK[V]MF[OS]	aux-prov	6	4	Deshalb werden den letzten die Hunde beißen .
 LK[V]MF[SO]	aux-prov	3	5	Werden die Hunde den letzten beißen ?
+LK[V]MF[OS]	aux-prov	5	3	Werden den letzten die Hunde beißen ?
 MF[SO]VC[V]	aux-prov	3	5	Weil die Hunde den letzten beißen werden .
+MF[OS]VC[V]	aux-prov	5	3	Weil den letzten die Hunde beißen werden .
 VF[S]LK[V]MF[O]	aux-prov	2	5	Der Ton wird die Musik machen .
 VF[O]LK[V]MF[S]	aux-prov	5	2	Die Musik wird der Ton machen .
 VF[ADV]LK[V]MF[SO]	aux-prov	4	6	Deshalb wird der Ton die Musik machen .
@@ -10658,46 +10510,6 @@ VF[O]LK[V]MF[S]	aux-prov	5	2	Alle Wunden wird die Zeit heilen .
 VF[ADV]LK[V]MF[SO]	aux-prov	4	6	Deshalb wird die Zeit alle Wunden heilen .
 LK[V]MF[SO]	aux-prov	3	5	Wird die Zeit alle Wunden heilen ?
 MF[SO]VC[V]	aux-prov	3	5	Weil die Zeit alle Wunden heilen wird .
-VF[S]LK[V]MF[O]	aux-prov	1	4	Alles wird seine Zeit haben .
-VF[O]LK[V]MF[S]	aux-prov	4	2	Seine Zeit wird alles haben .
-VF[ADV]LK[V]MF[SO]	aux-prov	3	5	Deshalb wird alles seine Zeit haben .
-LK[V]MF[SO]	aux-prov	2	4	Wird alles seine Zeit haben ?
-MF[SO]VC[V]	aux-prov	2	4	Weil alles seine Zeit haben wird .
-VF[S]LK[V]MF[O]	aux-prov	1	3	Arbeit wird Brot bringen .
-VF[O]LK[V]MF[S]	aux-prov	3	1	Brot wird Arbeit bringen .
-VF[ADV]LK[V]MF[SO]	aux-prov	3	4	Deshalb wird Arbeit Brot bringen .
-LK[V]MF[SO]	aux-prov	2	3	Wird Arbeit Brot bringen ?
-MF[SO]VC[V]	aux-prov	2	3	Weil Arbeit Brot bringen wird .
-VF[S]LK[V]MF[O]	aux-prov	2	5	Eine Hand wird die andere waschen .
-VF[O]LK[V]MF[S]	aux-prov	5	2	Die andere wird eine Hand waschen .
-VF[ADV]LK[V]MF[SO]	aux-prov	4	6	Deshalb wird eine Hand die andere waschen .
-LK[V]MF[SO]	aux-prov	3	5	Wird eine Hand die andere waschen ?
-MF[SO]VC[V]	aux-prov	3	5	Weil eine Hand die andere waschen wird .
-VF[S]LK[V]MF[O]	aux-prov	2	5	Frühe Zucht wird gute Frucht bringen .
-VF[O]LK[V]MF[S]	aux-prov	5	2	Gute Frucht wird frühe Zucht bringen .
-VF[ADV]LK[V]MF[SO]	aux-prov	4	6	Deshalb wird frühe Zucht gute Frucht bringen .
-LK[V]MF[SO]	aux-prov	3	5	Wird frühe Zucht gute Frucht bringen ?
-MF[SO]VC[V]	aux-prov	3	5	Weil frühe Zucht gute Frucht bringen wird .
-VF[S]LK[V]MF[O]	aux-prov	1	4	Geld wird die Welt regieren .
-VF[O]LK[V]MF[S]	aux-prov	4	2	Die Welt wird Geld regieren .
-VF[ADV]LK[V]MF[SO]	aux-prov	3	5	Deshalb wird Geld die Welt regieren .
-LK[V]MF[SO]	aux-prov	2	4	Wird Geld die Welt regieren ?
-MF[SO]VC[V]	aux-prov	2	4	Weil Geld die Welt regieren wird .
-VF[S]LK[V]MF[O]	aux-prov	1	3	Borgen wird Sorgen bringen .
-VF[O]LK[V]MF[S]	aux-prov	3	1	Sorgen wird Borgen bringen .
-VF[ADV]LK[V]MF[SO]	aux-prov	3	4	Deshalb wird Borgen Sorgen bringen .
-LK[V]MF[SO]	aux-prov	2	3	Wird Borgen Sorgen bringen ?
-MF[SO]VC[V]	aux-prov	2	3	Weil Borgen Sorgen bringen wird .
-VF[S]LK[V]MF[O]	aux-prov	2	5	Das Schicksal wird dein Leben bestimmen .
-VF[O]LK[V]MF[S]	aux-prov	5	2	Dein Leben wird das Schicksal bestimmen .
-VF[ADV]LK[V]MF[SO]	aux-prov	4	6	Deshalb wird das Schicksal dein Leben bestimmen .
-LK[V]MF[SO]	aux-prov	3	5	Wird das Schicksal dein Leben bestimmen ?
-MF[SO]VC[V]	aux-prov	3	5	Weil das Schicksal dein Leben bestimmen wird .
-VF[S]LK[V]MF[O]	aux-prov	1	4	Jugend wird keine Tugend kennen .
-VF[O]LK[V]MF[S]	aux-prov	4	2	Keine Tugend wird Jugend kennen .
-VF[ADV]LK[V]MF[SO]	aux-prov	3	5	Deshalb wird Jugend keine Tugend kennen .
-LK[V]MF[SO]	aux-prov	2	4	Wird Jugend keine Tugend kennen ?
-MF[SO]VC[V]	aux-prov	2	4	Weil Jugend keine Tugend kennen wird .
 VF[S]LK[V]MF[O]	oneg-prov	2	5	Die Wissenschaft heiligt keine Mittel .
 VF[O]LK[V]MF[S]	oneg-prov	5	2	Keine Mittel heiligt die Wissenschaft .
 VF[ADV]LK[V]MF[SO]	oneg-prov	4	6	Deshalb heiligt die Wissenschaft keine Mittel .
@@ -10721,8 +10533,11 @@ MF[SO]VC[V]	oneg-prov	3	6	Weil jede Münze keine zwei Seiten hat .
 VF[S]LK[V]MF[O]	oneg-prov	2	4	Die Hunde beißen keinen .
 VF[O]LK[V]MF[S]	oneg-prov	4	1	Keinen beißen die Hunde .
 VF[ADV]LK[V]MF[SO]	oneg-prov	4	5	Deshalb beißen die Hunde keinen .
+VF[ADV]LK[V]MF[OS]	oneg-prov	5	3	Deshalb beißen keinen die Hunde .
 LK[V]MF[SO]	oneg-prov	3	4	Beißen die Hunde keinen ?
+LK[V]MF[OS]	oneg-prov	4	2	Beißen keinen die Hunde ?
 MF[SO]VC[V]	oneg-prov	3	4	Weil die Hunde keinen beißen .
+MF[OS]VC[V]	oneg-prov	4	2	Weil keinen die Hunde beißen .
 VF[S]LK[V]MF[O]	oneg-prov	2	5	Der Ton macht keine Musik .
 VF[O]LK[V]MF[S]	oneg-prov	5	2	Keine Musik macht der Ton .
 VF[ADV]LK[V]MF[SO]	oneg-prov	4	6	Deshalb macht der Ton keine Musik .
@@ -10733,41 +10548,6 @@ VF[O]LK[V]MF[S]	oneg-prov	5	2	Keine Wunden heilt die Zeit .
 VF[ADV]LK[V]MF[SO]	oneg-prov	4	6	Deshalb heilt die Zeit keine Wunden .
 LK[V]MF[SO]	oneg-prov	3	5	Heilt die Zeit keine Wunden ?
 MF[SO]VC[V]	oneg-prov	3	5	Weil die Zeit keine Wunden heilt .
-VF[S]LK[V]MF[O]	oneg-prov	1	4	Alles hat keine Zeit .
-VF[O]LK[V]MF[S]	oneg-prov	4	2	Keine Zeit hat alles .
-VF[ADV]LK[V]MF[SO]	oneg-prov	3	5	Deshalb hat alles keine Zeit .
-LK[V]MF[SO]	oneg-prov	2	4	Hat alles keine Zeit ?
-MF[SO]VC[V]	oneg-prov	2	4	Weil alles keine Zeit hat .
-VF[S]LK[V]MF[O]	oneg-prov	1	4	Arbeit bringt kein Brot .
-VF[O]LK[V]MF[S]	oneg-prov	4	2	Kein Brot bringt Arbeit .
-VF[ADV]LK[V]MF[SO]	oneg-prov	3	5	Deshalb bringt Arbeit kein Brot .
-LK[V]MF[SO]	oneg-prov	2	4	Bringt Arbeit kein Brot ?
-MF[SO]VC[V]	oneg-prov	2	4	Weil Arbeit kein Brot bringt .
-VF[S]LK[V]MF[O]	oneg-prov	2	5	Eine Hand wäscht keine andere .
-VF[O]LK[V]MF[S]	oneg-prov	5	2	Keine andere wäscht eine Hand .
-VF[ADV]LK[V]MF[SO]	oneg-prov	4	6	Deshalb wäscht eine Hand keine andere .
-LK[V]MF[SO]	oneg-prov	3	5	Wäscht eine Hand keine andere ?
-MF[SO]VC[V]	oneg-prov	3	5	Weil eine Hand keine andere wäscht .
-VF[S]LK[V]MF[O]	oneg-prov	2	6	Frühe Zucht bringt keine gute Frucht .
-VF[O]LK[V]MF[S]	oneg-prov	6	3	Keine gute Frucht bringt frühe Zucht .
-VF[ADV]LK[V]MF[SO]	oneg-prov	4	7	Deshalb bringt frühe Zucht keine gute Frucht .
-LK[V]MF[SO]	oneg-prov	3	6	Bringt frühe Zucht keine gute Frucht ?
-MF[SO]VC[V]	oneg-prov	3	6	Weil frühe Zucht keine gute Frucht bringt .
-VF[S]LK[V]MF[O]	oneg-prov	1	4	Geld regiert keine Welt .
-VF[O]LK[V]MF[S]	oneg-prov	4	2	Keine Welt regiert Geld .
-VF[ADV]LK[V]MF[SO]	oneg-prov	3	5	Deshalb regiert Geld keine Welt .
-LK[V]MF[SO]	oneg-prov	2	4	Regiert Geld keine Welt ?
-MF[SO]VC[V]	oneg-prov	2	4	Weil Geld keine Welt regiert .
-VF[S]LK[V]MF[O]	oneg-prov	1	4	Borgen bringt keine Sorgen .
-VF[O]LK[V]MF[S]	oneg-prov	4	2	Keine Sorgen bringt Borgen .
-VF[ADV]LK[V]MF[SO]	oneg-prov	3	5	Deshalb bringt Borgen keine Sorgen .
-LK[V]MF[SO]	oneg-prov	2	4	Bringt Borgen keine Sorgen ?
-MF[SO]VC[V]	oneg-prov	2	4	Weil Borgen keine Sorgen bringt .
-VF[S]LK[V]MF[O]	oneg-prov	2	5	Das Schicksal bestimmt kein Leben .
-VF[O]LK[V]MF[S]	oneg-prov	5	2	Kein Leben bestimmt das Schicksal .
-VF[ADV]LK[V]MF[SO]	oneg-prov	4	6	Deshalb bestimmt das Schicksal kein Leben .
-LK[V]MF[SO]	oneg-prov	3	5	Bestimmt das Schicksal kein Leben ?
-MF[SO]VC[V]	oneg-prov	3	5	Weil das Schicksal kein Leben bestimmt .
 VF[S]LK[V]MF[O]	pp-prov	2	8	Die Wissenschaft heiligt in dem Jahr die Mittel .
 VF[O]LK[V]MF[S]	pp-prov	8	2	Die Mittel heiligt in dem Jahr die Wissenschaft .
 VF[ADV]LK[V]MF[SO]	pp-prov	7	9	Deshalb heiligt in dem Jahr die Wissenschaft die Mittel .
@@ -10791,8 +10571,11 @@ MF[SO]VC[V]	pp-prov	6	8	Weil in dem Jahr jede Münze zwei Seiten hat .
 VF[S]LK[V]MF[O]	pp-prov	2	8	Die Hunde beißen in dem Jahr den letzten .
 VF[O]LK[V]MF[S]	pp-prov	8	2	Den letzten beißen in dem Jahr die Hunde .
 VF[ADV]LK[V]MF[SO]	pp-prov	7	9	Deshalb beißen in dem Jahr die Hunde den letzten .
+VF[ADV]LK[V]MF[OS]	pp-prov	9	7	Deshalb beißen in dem Jahr den letzten die Hunde .
 LK[V]MF[SO]	pp-prov	6	8	Beißen in dem Jahr die Hunde den letzten ?
+LK[V]MF[OS]	pp-prov	8	6	Beißen in dem Jahr den letzten die Hunde ?
 MF[SO]VC[V]	pp-prov	6	8	Weil in dem Jahr die Hunde den letzten beißen .
+MF[OS]VC[V]	pp-prov	8	6	Weil in dem Jahr den letzten die Hunde beißen .
 VF[S]LK[V]MF[O]	pp-prov	2	8	Der Ton macht in dem Jahr die Musik .
 VF[O]LK[V]MF[S]	pp-prov	8	2	Die Musik macht in dem Jahr der Ton .
 VF[ADV]LK[V]MF[SO]	pp-prov	7	9	Deshalb macht in dem Jahr der Ton die Musik .
@@ -10803,38 +10586,3 @@ VF[O]LK[V]MF[S]	pp-prov	8	2	Alle Wunden heilt in dem Jahr die Zeit .
 VF[ADV]LK[V]MF[SO]	pp-prov	7	9	Deshalb heilt in dem Jahr die Zeit alle Wunden .
 LK[V]MF[SO]	pp-prov	6	8	Heilt in dem Jahr die Zeit alle Wunden ?
 MF[SO]VC[V]	pp-prov	6	8	Weil in dem Jahr die Zeit alle Wunden heilt .
-VF[S]LK[V]MF[O]	pp-prov	1	7	Alles hat in dem Jahr seine Zeit .
-VF[O]LK[V]MF[S]	pp-prov	7	2	Seine Zeit hat in dem Jahr alles .
-VF[ADV]LK[V]MF[SO]	pp-prov	6	8	Deshalb hat in dem Jahr alles seine Zeit .
-LK[V]MF[SO]	pp-prov	5	7	Hat in dem Jahr alles seine Zeit ?
-MF[SO]VC[V]	pp-prov	5	7	Weil in dem Jahr alles seine Zeit hat .
-VF[S]LK[V]MF[O]	pp-prov	1	6	Arbeit bringt in dem Jahr Brot .
-VF[O]LK[V]MF[S]	pp-prov	6	1	Brot bringt in dem Jahr Arbeit .
-VF[ADV]LK[V]MF[SO]	pp-prov	6	7	Deshalb bringt in dem Jahr Arbeit Brot .
-LK[V]MF[SO]	pp-prov	5	6	Bringt in dem Jahr Arbeit Brot ?
-MF[SO]VC[V]	pp-prov	5	6	Weil in dem Jahr Arbeit Brot bringt .
-VF[S]LK[V]MF[O]	pp-prov	2	8	Eine Hand wäscht in dem Jahr die andere .
-VF[O]LK[V]MF[S]	pp-prov	8	2	Die andere wäscht in dem Jahr eine Hand .
-VF[ADV]LK[V]MF[SO]	pp-prov	7	9	Deshalb wäscht in dem Jahr eine Hand die andere .
-LK[V]MF[SO]	pp-prov	6	8	Wäscht in dem Jahr eine Hand die andere ?
-MF[SO]VC[V]	pp-prov	6	8	Weil in dem Jahr eine Hand die andere wäscht .
-VF[S]LK[V]MF[O]	pp-prov	2	8	Frühe Zucht bringt in dem Jahr gute Frucht .
-VF[O]LK[V]MF[S]	pp-prov	8	2	Gute Frucht bringt in dem Jahr frühe Zucht .
-VF[ADV]LK[V]MF[SO]	pp-prov	7	9	Deshalb bringt in dem Jahr frühe Zucht gute Frucht .
-LK[V]MF[SO]	pp-prov	6	8	Bringt in dem Jahr frühe Zucht gute Frucht ?
-MF[SO]VC[V]	pp-prov	6	8	Weil in dem Jahr frühe Zucht gute Frucht bringt .
-VF[S]LK[V]MF[O]	pp-prov	1	7	Geld regiert in dem Jahr die Welt .
-VF[O]LK[V]MF[S]	pp-prov	7	2	Die Welt regiert in dem Jahr Geld .
-VF[ADV]LK[V]MF[SO]	pp-prov	6	8	Deshalb regiert in dem Jahr Geld die Welt .
-LK[V]MF[SO]	pp-prov	5	7	Regiert in dem Jahr Geld die Welt ?
-MF[SO]VC[V]	pp-prov	5	7	Weil in dem Jahr Geld die Welt regiert .
-VF[S]LK[V]MF[O]	pp-prov	1	6	Borgen bringt in dem Jahr Sorgen .
-VF[O]LK[V]MF[S]	pp-prov	6	1	Sorgen bringt in dem Jahr Borgen .
-VF[ADV]LK[V]MF[SO]	pp-prov	6	7	Deshalb bringt in dem Jahr Borgen Sorgen .
-LK[V]MF[SO]	pp-prov	5	6	Bringt in dem Jahr Borgen Sorgen ?
-MF[SO]VC[V]	pp-prov	5	6	Weil in dem Jahr Borgen Sorgen bringt .
-VF[S]LK[V]MF[O]	pp-prov	2	8	Das Schicksal bestimmt in dem Jahr dein Leben .
-VF[O]LK[V]MF[S]	pp-prov	8	2	Dein Leben bestimmt in dem Jahr das Schicksal .
-VF[ADV]LK[V]MF[SO]	pp-prov	7	9	Deshalb bestimmt in dem Jahr das Schicksal dein Leben .
-LK[V]MF[SO]	pp-prov	6	8	Bestimmt in dem Jahr das Schicksal dein Leben ?
-MF[SO]VC[V]	pp-prov	6	8	Weil in dem Jahr das Schicksal dein Leben bestimmt .
