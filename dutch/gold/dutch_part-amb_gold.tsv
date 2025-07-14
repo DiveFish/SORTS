@@ -39,11 +39,11 @@ VF[O]LK[V]MF[S]	base-acc	4	1	Baarden scheert de man .
 VF[ADV]LK[V]MF[SO]	base-acc	4	5	Daarom scheert de man baarden .
 LK[V]MF[SO]	base-acc	3	4	Scheert de man baarden ?
 MF[SO]VC[V]	base-acc	3	4	Omdat de man baarden scheert .
-VF[S]LK[V]MF[O]	base-acc	2	6	De moeders drinken een kopje koffie .
-VF[O]LK[V]MF[S]	base-acc	6	3	Een kopje koffie drinken de moeders .
-VF[ADV]LK[V]MF[SO]	base-acc	4	7	Daarom drinken de moeders een kopje koffie .
-LK[V]MF[SO]	base-acc	3	6	Drinken de moeders een kopje koffie ?
-MF[SO]VC[V]	base-acc	3	6	Omdat de moeders een kopje koffie drinken .
+VF[S]LK[V]MF[O]	base-acc	2	5	De moeders drinken een kopje koffie .
+VF[O]LK[V]MF[S]	base-acc	6	2	Een kopje koffie drinken de moeders .
+VF[ADV]LK[V]MF[SO]	base-acc	4	6	Daarom drinken de moeders een kopje koffie .
+LK[V]MF[SO]	base-acc	3	5	Drinken de moeders een kopje koffie ?
+MF[SO]VC[V]	base-acc	3	5	Omdat de moeders een kopje koffie drinken .
 VF[S]LK[V]MF[O]	base-acc	2	4	De schrijver schrijft romans .
 VF[O]LK[V]MF[S]	base-acc	4	1	Romans schrijft de schrijver .
 VF[ADV]LK[V]MF[SO]	base-acc	4	5	Daarom schrijft de schrijver romans .
@@ -114,11 +114,11 @@ VF[O]LK[V]MF[S]	base-amb	4	1	Baarden scheren de mannen .
 VF[ADV]LK[V]MF[SO]	base-amb	4	5	Daarom scheren de mannen baarden .
 LK[V]MF[SO]	base-amb	3	4	Scheren de mannen baarden ?
 MF[SO]VC[V]	base-amb	3	4	Omdat de mannen baarden scheren .
-VF[S]LK[V]MF[O]	base-amb	2	5	De moeders drinken kopjes koffie .
-VF[O]LK[V]MF[S]	base-amb	5	2	Kopjes koffie drinken de moeders .
-VF[ADV]LK[V]MF[SO]	base-amb	4	6	Daarom drinken de moeders kopjes koffie .
-LK[V]MF[SO]	base-amb	3	5	Drinken de moeders kopjes koffie ?
-MF[SO]VC[V]	base-amb	3	5	Omdat de moeders kopjes koffie drinken .
+VF[S]LK[V]MF[O]	base-amb	2	4	De moeders drinken kopjes koffie .
+VF[O]LK[V]MF[S]	base-amb	5	1	Kopjes koffie drinken de moeders .
+VF[ADV]LK[V]MF[SO]	base-amb	4	5	Daarom drinken de moeders kopjes koffie .
+LK[V]MF[SO]	base-amb	3	4	Drinken de moeders kopjes koffie ?
+MF[SO]VC[V]	base-amb	3	4	Omdat de moeders kopjes koffie drinken .
 VF[S]LK[V]MF[O]	base-amb	2	4	De schrijvers schrijven romans .
 VF[O]LK[V]MF[S]	base-amb	4	1	Romans schrijven de schrijvers .
 VF[ADV]LK[V]MF[SO]	base-amb	4	5	Daarom schrijven de schrijvers romans .
@@ -189,11 +189,11 @@ VF[O]LK[V]MF[S]	base-aux	4	1	Baarden zal de man scheren .
 VF[ADV]LK[V]MF[SO]	base-aux	4	5	Daarom zal de man baarden scheren .
 LK[V]MF[SO]	base-aux	3	4	Zal de man baarden scheren ?
 MF[SO]VC[V]	base-aux	3	4	Omdat de man baarden zal scheren .
-VF[S]LK[V]MF[O]	base-aux	2	6	De moeders zullen een kopje koffie drinken .
-VF[O]LK[V]MF[S]	base-aux	6	3	Een kopje koffie zullen de moeders drinken .
-VF[ADV]LK[V]MF[SO]	base-aux	4	7	Daarom zullen de moeders een kopje koffie drinken .
-LK[V]MF[SO]	base-aux	3	6	Zullen de moeders een kopje koffie drinken ?
-MF[SO]VC[V]	base-aux	3	6	Omdat de moeders een kopje koffie zullen drinken .
+VF[S]LK[V]MF[O]	base-aux	2	5	De moeders zullen een kopje koffie drinken .
+VF[O]LK[V]MF[S]	base-aux	6	2	Een kopje koffie zullen de moeders drinken .
+VF[ADV]LK[V]MF[SO]	base-aux	4	6	Daarom zullen de moeders een kopje koffie drinken .
+LK[V]MF[SO]	base-aux	3	5	Zullen de moeders een kopje koffie drinken ?
+MF[SO]VC[V]	base-aux	3	5	Omdat de moeders een kopje koffie zullen drinken .
 VF[S]LK[V]MF[O]	base-aux	2	4	De schrijver zal romans schrijven .
 VF[O]LK[V]MF[S]	base-aux	4	1	Romans zal de schrijver schrijven .
 VF[ADV]LK[V]MF[SO]	base-aux	4	5	Daarom zal de schrijver romans schrijven .
@@ -264,11 +264,11 @@ VF[O]LK[V]MF[S]	amb-aux	4	1	Baarden zullen de mannen scheren .
 VF[ADV]LK[V]MF[SO]	amb-aux	4	5	Daarom zullen de mannen baarden scheren .
 LK[V]MF[SO]	amb-aux	3	4	Zullen de mannen baarden scheren ?
 MF[SO]VC[V]	amb-aux	3	4	Omdat de mannen baarden zullen scheren .
-VF[S]LK[V]MF[O]	amb-aux	2	5	De moeders zullen kopjes koffie drinken .
-VF[O]LK[V]MF[S]	amb-aux	5	2	Kopjes koffie zullen de moeders drinken .
-VF[ADV]LK[V]MF[SO]	amb-aux	4	6	Daarom zullen de moeders kopjes koffie drinken .
-LK[V]MF[SO]	amb-aux	3	5	Zullen de moeders kopjes koffie drinken ?
-MF[SO]VC[V]	amb-aux	3	5	Omdat de moeders kopjes koffie zullen drinken .
+VF[S]LK[V]MF[O]	amb-aux	2	4	De moeders zullen kopjes koffie drinken .
+VF[O]LK[V]MF[S]	amb-aux	5	1	Kopjes koffie zullen de moeders drinken .
+VF[ADV]LK[V]MF[SO]	amb-aux	4	5	Daarom zullen de moeders kopjes koffie drinken .
+LK[V]MF[SO]	amb-aux	3	4	Zullen de moeders kopjes koffie drinken ?
+MF[SO]VC[V]	amb-aux	3	4	Omdat de moeders kopjes koffie zullen drinken .
 VF[S]LK[V]MF[O]	amb-aux	2	4	De schrijvers zullen romans schrijven .
 VF[O]LK[V]MF[S]	amb-aux	4	1	Romans zullen de schrijvers schrijven .
 VF[ADV]LK[V]MF[SO]	amb-aux	4	5	Daarom zullen de schrijvers romans schrijven .
@@ -339,11 +339,11 @@ VF[O]LK[V]MF[S]	base-spron	3	1	Baarden scheert hij .
 VF[ADV]LK[V]MF[SO]	base-spron	3	4	Daarom scheert hij baarden .
 LK[V]MF[SO]	base-spron	2	3	Scheert hij baarden ?
 MF[SO]VC[V]	base-spron	2	3	Omdat hij baarden scheert .
-VF[S]LK[V]MF[O]	base-spron	1	5	Jullie drinken een kopje koffie .
-VF[O]LK[V]MF[S]	base-spron	5	3	Een kopje koffie drinken jullie .
-VF[ADV]LK[V]MF[SO]	base-spron	3	6	Daarom drinken jullie een kopje koffie .
-LK[V]MF[SO]	base-spron	2	5	Drinken jullie een kopje koffie ?
-MF[SO]VC[V]	base-spron	2	5	Omdat jullie een kopje koffie drinken .
+VF[S]LK[V]MF[O]	base-spron	1	4	Jullie drinken een kopje koffie .
+VF[O]LK[V]MF[S]	base-spron	5	2	Een kopje koffie drinken jullie .
+VF[ADV]LK[V]MF[SO]	base-spron	3	5	Daarom drinken jullie een kopje koffie .
+LK[V]MF[SO]	base-spron	2	4	Drinken jullie een kopje koffie ?
+MF[SO]VC[V]	base-spron	2	4	Omdat jullie een kopje koffie drinken .
 VF[S]LK[V]MF[O]	base-spron	1	3	Hij schrijft romans .
 VF[O]LK[V]MF[S]	base-spron	3	1	Romans schrijft hij .
 VF[ADV]LK[V]MF[SO]	base-spron	3	4	Daarom schrijft hij romans .
@@ -414,11 +414,11 @@ VF[O]LK[V]MF[S]	amb-spron	3	1	Baarden scheren ze .
 VF[ADV]LK[V]MF[SO]	amb-spron	3	4	Daarom scheren ze baarden .
 LK[V]MF[SO]	amb-spron	2	3	Scheren ze baarden ?
 MF[SO]VC[V]	amb-spron	2	3	Omdat ze baarden scheren .
-VF[S]LK[V]MF[O]	amb-spron	1	4	Ze drinken kopjes koffie .
-VF[O]LK[V]MF[S]	amb-spron	4	2	Kopjes koffie drinken ze .
-VF[ADV]LK[V]MF[SO]	amb-spron	3	5	Daarom drinken ze kopjes koffie .
-LK[V]MF[SO]	amb-spron	2	4	Drinken ze kopjes koffie ?
-MF[SO]VC[V]	amb-spron	2	4	Omdat ze kopjes koffie drinken .
+VF[S]LK[V]MF[O]	amb-spron	1	3	Ze drinken kopjes koffie .
+VF[O]LK[V]MF[S]	amb-spron	4	1	Kopjes koffie drinken ze .
+VF[ADV]LK[V]MF[SO]	amb-spron	3	4	Daarom drinken ze kopjes koffie .
+LK[V]MF[SO]	amb-spron	2	3	Drinken ze kopjes koffie ?
+MF[SO]VC[V]	amb-spron	2	3	Omdat ze kopjes koffie drinken .
 VF[S]LK[V]MF[O]	amb-spron	1	3	Ze schrijven romans .
 VF[O]LK[V]MF[S]	amb-spron	3	1	Romans schrijven ze .
 VF[ADV]LK[V]MF[SO]	amb-spron	3	4	Daarom schrijven ze romans .
@@ -489,11 +489,11 @@ VF[O]LK[V]MF[S]	aux-spron	3	1	Baarden zal hij scheren .
 VF[ADV]LK[V]MF[SO]	aux-spron	3	4	Daarom zal hij baarden scheren .
 LK[V]MF[SO]	aux-spron	2	3	Zal hij baarden scheren ?
 MF[SO]VC[V]	aux-spron	2	3	Omdat hij baarden zal scheren .
-VF[S]LK[V]MF[O]	aux-spron	1	5	Jullie zullen een kopje koffie drinken .
-VF[O]LK[V]MF[S]	aux-spron	5	3	Een kopje koffie zullen jullie drinken .
-VF[ADV]LK[V]MF[SO]	aux-spron	3	6	Daarom zullen jullie een kopje koffie drinken .
-LK[V]MF[SO]	aux-spron	2	5	Zullen jullie een kopje koffie drinken ?
-MF[SO]VC[V]	aux-spron	2	5	Omdat jullie een kopje koffie zullen drinken .
+VF[S]LK[V]MF[O]	aux-spron	1	4	Jullie zullen een kopje koffie drinken .
+VF[O]LK[V]MF[S]	aux-spron	5	2	Een kopje koffie zullen jullie drinken .
+VF[ADV]LK[V]MF[SO]	aux-spron	3	5	Daarom zullen jullie een kopje koffie drinken .
+LK[V]MF[SO]	aux-spron	2	4	Zullen jullie een kopje koffie drinken ?
+MF[SO]VC[V]	aux-spron	2	4	Omdat jullie een kopje koffie zullen drinken .
 VF[S]LK[V]MF[O]	aux-spron	1	3	Hij zal romans schrijven .
 VF[O]LK[V]MF[S]	aux-spron	3	1	Romans zal hij schrijven .
 VF[ADV]LK[V]MF[SO]	aux-spron	3	4	Daarom zal hij romans schrijven .
@@ -864,11 +864,11 @@ VF[O]LK[V]MF[S]	base-oneg	5	2	Geen baarden scheert de man .
 VF[ADV]LK[V]MF[SO]	base-oneg	4	6	Daarom scheert de man geen baarden .
 LK[V]MF[SO]	base-oneg	3	5	Scheert de man geen baarden ?
 MF[SO]VC[V]	base-oneg	3	5	Omdat de man geen baarden scheert .
-VF[S]LK[V]MF[O]	base-oneg	2	6	De moeders drinken geen kopje koffie .
-VF[O]LK[V]MF[S]	base-oneg	6	3	Geen kopje koffie drinken de moeders .
-VF[ADV]LK[V]MF[SO]	base-oneg	4	7	Daarom drinken de moeders geen kopje koffie .
-LK[V]MF[SO]	base-oneg	3	6	Drinken de moeders geen kopje koffie ?
-MF[SO]VC[V]	base-oneg	3	6	Omdat de moeders geen kopje koffie drinken .
+VF[S]LK[V]MF[O]	base-oneg	2	5	De moeders drinken geen kopje koffie .
+VF[O]LK[V]MF[S]	base-oneg	6	2	Geen kopje koffie drinken de moeders .
+VF[ADV]LK[V]MF[SO]	base-oneg	4	6	Daarom drinken de moeders geen kopje koffie .
+LK[V]MF[SO]	base-oneg	3	5	Drinken de moeders geen kopje koffie ?
+MF[SO]VC[V]	base-oneg	3	5	Omdat de moeders geen kopje koffie drinken .
 VF[S]LK[V]MF[O]	base-oneg	2	5	De schrijver schrijft geen romans .
 VF[O]LK[V]MF[S]	base-oneg	5	2	Geen romans schrijft de schrijver .
 VF[ADV]LK[V]MF[SO]	base-oneg	4	6	Daarom schrijft de schrijver geen romans .
@@ -939,11 +939,11 @@ VF[O]LK[V]MF[S]	amb-oneg	5	2	Geen baarden scheren de mannen .
 VF[ADV]LK[V]MF[SO]	amb-oneg	4	6	Daarom scheren de mannen geen baarden .
 LK[V]MF[SO]	amb-oneg	3	5	Scheren de mannen geen baarden ?
 MF[SO]VC[V]	amb-oneg	3	5	Omdat de mannen geen baarden scheren .
-VF[S]LK[V]MF[O]	amb-oneg	2	6	De moeders drinken geen kopjes koffie .
-VF[O]LK[V]MF[S]	amb-oneg	6	3	Geen kopjes koffie drinken de moeders .
-VF[ADV]LK[V]MF[SO]	amb-oneg	4	7	Daarom drinken de moeders geen kopjes koffie .
-LK[V]MF[SO]	amb-oneg	3	6	Drinken de moeders geen kopjes koffie ?
-MF[SO]VC[V]	amb-oneg	3	6	Omdat de moeders geen kopjes koffie drinken .
+VF[S]LK[V]MF[O]	amb-oneg	2	5	De moeders drinken geen kopjes koffie .
+VF[O]LK[V]MF[S]	amb-oneg	6	2	Geen kopjes koffie drinken de moeders .
+VF[ADV]LK[V]MF[SO]	amb-oneg	4	6	Daarom drinken de moeders geen kopjes koffie .
+LK[V]MF[SO]	amb-oneg	3	5	Drinken de moeders geen kopjes koffie ?
+MF[SO]VC[V]	amb-oneg	3	5	Omdat de moeders geen kopjes koffie drinken .
 VF[S]LK[V]MF[O]	amb-oneg	2	5	De schrijvers schrijven geen romans .
 VF[O]LK[V]MF[S]	amb-oneg	5	2	Geen romans schrijven de schrijvers .
 VF[ADV]LK[V]MF[SO]	amb-oneg	4	6	Daarom schrijven de schrijvers geen romans .
@@ -1014,11 +1014,11 @@ VF[O]LK[V]MF[S]	aux-oneg	5	2	Geen baarden zal de man scheren .
 VF[ADV]LK[V]MF[SO]	aux-oneg	4	6	Daarom zal de man geen baarden scheren .
 LK[V]MF[SO]	aux-oneg	3	5	Zal de man geen baarden scheren ?
 MF[SO]VC[V]	aux-oneg	3	5	Omdat de man geen baarden zal scheren .
-VF[S]LK[V]MF[O]	aux-oneg	2	6	De moeders zullen geen kopje koffie drinken .
-VF[O]LK[V]MF[S]	aux-oneg	6	3	Geen kopje koffie zullen de moeders drinken .
-VF[ADV]LK[V]MF[SO]	aux-oneg	4	7	Daarom zullen de moeders geen kopje koffie drinken .
-LK[V]MF[SO]	aux-oneg	3	6	Zullen de moeders geen kopje koffie drinken ?
-MF[SO]VC[V]	aux-oneg	3	6	Omdat de moeders geen kopje koffie zullen drinken .
+VF[S]LK[V]MF[O]	aux-oneg	2	5	De moeders zullen geen kopje koffie drinken .
+VF[O]LK[V]MF[S]	aux-oneg	6	2	Geen kopje koffie zullen de moeders drinken .
+VF[ADV]LK[V]MF[SO]	aux-oneg	4	6	Daarom zullen de moeders geen kopje koffie drinken .
+LK[V]MF[SO]	aux-oneg	3	5	Zullen de moeders geen kopje koffie drinken ?
+MF[SO]VC[V]	aux-oneg	3	5	Omdat de moeders geen kopje koffie zullen drinken .
 VF[S]LK[V]MF[O]	aux-oneg	2	5	De schrijver zal geen romans schrijven .
 VF[O]LK[V]MF[S]	aux-oneg	5	2	Geen romans zal de schrijver schrijven .
 VF[ADV]LK[V]MF[SO]	aux-oneg	4	6	Daarom zal de schrijver geen romans schrijven .
@@ -1089,11 +1089,11 @@ VF[O]LK[V]MF[S]	spron-oneg	4	2	Geen baarden scheert hij .
 VF[ADV]LK[V]MF[SO]	spron-oneg	3	5	Daarom scheert hij geen baarden .
 LK[V]MF[SO]	spron-oneg	2	4	Scheert hij geen baarden ?
 MF[SO]VC[V]	spron-oneg	2	4	Omdat hij geen baarden scheert .
-VF[S]LK[V]MF[O]	spron-oneg	1	5	Jullie drinken geen kopje koffie .
-VF[O]LK[V]MF[S]	spron-oneg	5	3	Geen kopje koffie drinken jullie .
-VF[ADV]LK[V]MF[SO]	spron-oneg	3	6	Daarom drinken jullie geen kopje koffie .
-LK[V]MF[SO]	spron-oneg	2	5	Drinken jullie geen kopje koffie ?
-MF[SO]VC[V]	spron-oneg	2	5	Omdat jullie geen kopje koffie drinken .
+VF[S]LK[V]MF[O]	spron-oneg	1	4	Jullie drinken geen kopje koffie .
+VF[O]LK[V]MF[S]	spron-oneg	5	2	Geen kopje koffie drinken jullie .
+VF[ADV]LK[V]MF[SO]	spron-oneg	3	5	Daarom drinken jullie geen kopje koffie .
+LK[V]MF[SO]	spron-oneg	2	4	Drinken jullie geen kopje koffie ?
+MF[SO]VC[V]	spron-oneg	2	4	Omdat jullie geen kopje koffie drinken .
 VF[S]LK[V]MF[O]	spron-oneg	1	4	Hij schrijft geen romans .
 VF[O]LK[V]MF[S]	spron-oneg	4	2	Geen romans schrijft hij .
 VF[ADV]LK[V]MF[SO]	spron-oneg	3	5	Daarom schrijft hij geen romans .
@@ -1164,11 +1164,11 @@ VF[O]LK[V]MF[S]	base-pp	4	1	Baarden scheert de man gedurende een week .
 VF[ADV]LK[V]MF[SO]	base-pp	4	8	Daarom scheert de man gedurende een week baarden .
 LK[V]MF[SO]	base-pp	3	7	Scheert de man gedurende een week baarden ?
 MF[SO]VC[V]	base-pp	3	7	Omdat de man gedurende een week baarden scheert .
-VF[S]LK[V]MF[O]	base-pp	2	9	De moeders drinken over een week een kopje koffie .
-VF[O]LK[V]MF[S]	base-pp	6	3	Een kopje koffie drinken de moeders over een week .
-VF[ADV]LK[V]MF[SO]	base-pp	4	10	Daarom drinken de moeders over een week een kopje koffie .
-LK[V]MF[SO]	base-pp	3	9	Drinken de moeders over een week een kopje koffie ?
-MF[SO]VC[V]	base-pp	3	9	Omdat de moeders over een week een kopje koffie drinken .
+VF[S]LK[V]MF[O]	base-pp	2	8	De moeders drinken over een week een kopje koffie .
+VF[O]LK[V]MF[S]	base-pp	6	2	Een kopje koffie drinken de moeders over een week .
+VF[ADV]LK[V]MF[SO]	base-pp	4	9	Daarom drinken de moeders over een week een kopje koffie .
+LK[V]MF[SO]	base-pp	3	8	Drinken de moeders over een week een kopje koffie ?
+MF[SO]VC[V]	base-pp	3	8	Omdat de moeders over een week een kopje koffie drinken .
 VF[S]LK[V]MF[O]	base-pp	2	7	De schrijver schrijft in een week romans .
 VF[O]LK[V]MF[S]	base-pp	4	1	Romans schrijft de schrijver in een week .
 VF[ADV]LK[V]MF[SO]	base-pp	4	8	Daarom schrijft de schrijver in een week romans .
@@ -1239,11 +1239,11 @@ VF[O]LK[V]MF[S]	amb-pp	4	1	Baarden scheren de mannen gedurende een week .
 VF[ADV]LK[V]MF[SO]	amb-pp	4	8	Daarom scheren de mannen gedurende een week baarden .
 LK[V]MF[SO]	amb-pp	3	7	Scheren de mannen gedurende een week baarden ?
 MF[SO]VC[V]	amb-pp	3	7	Omdat de mannen gedurende een week baarden scheren .
-VF[S]LK[V]MF[O]	amb-pp	2	8	De moeders drinken over een week kopjes koffie .
-VF[O]LK[V]MF[S]	amb-pp	5	2	Kopjes koffie drinken de moeders over een week .
-VF[ADV]LK[V]MF[SO]	amb-pp	4	9	Daarom drinken de moeders over een week kopjes koffie .
-LK[V]MF[SO]	amb-pp	3	8	Drinken de moeders over een week kopjes koffie ?
-MF[SO]VC[V]	amb-pp	3	8	Omdat de moeders over een week kopjes koffie drinken .
+VF[S]LK[V]MF[O]	amb-pp	2	7	De moeders drinken over een week kopjes koffie .
+VF[O]LK[V]MF[S]	amb-pp	5	1	Kopjes koffie drinken de moeders over een week .
+VF[ADV]LK[V]MF[SO]	amb-pp	4	8	Daarom drinken de moeders over een week kopjes koffie .
+LK[V]MF[SO]	amb-pp	3	7	Drinken de moeders over een week kopjes koffie ?
+MF[SO]VC[V]	amb-pp	3	7	Omdat de moeders over een week kopjes koffie drinken .
 VF[S]LK[V]MF[O]	amb-pp	2	7	De schrijvers schrijven in een week romans .
 VF[O]LK[V]MF[S]	amb-pp	4	1	Romans schrijven de schrijvers in een week .
 VF[ADV]LK[V]MF[SO]	amb-pp	4	8	Daarom schrijven de schrijvers in een week romans .
@@ -1314,11 +1314,11 @@ VF[O]LK[V]MF[S]	aux-pp	4	1	Baarden zal de man gedurende een week scheren .
 VF[ADV]LK[V]MF[SO]	aux-pp	4	5	Daarom zal de man baarden gedurende een week scheren .
 LK[V]MF[SO]	aux-pp	3	4	Zal de man baarden gedurende een week scheren ?
 MF[SO]VC[V]	aux-pp	3	4	Omdat de man baarden gedurende een week zal scheren .
-VF[S]LK[V]MF[O]	aux-pp	2	6	De moeders zullen een kopje koffie over een week drinken .
-VF[O]LK[V]MF[S]	aux-pp	6	3	Een kopje koffie zullen de moeders over een week drinken .
-VF[ADV]LK[V]MF[SO]	aux-pp	4	7	Daarom zullen de moeders een kopje koffie over een week drinken .
-LK[V]MF[SO]	aux-pp	3	6	Zullen de moeders een kopje koffie over een week drinken ?
-MF[SO]VC[V]	aux-pp	3	6	Omdat de moeders een kopje koffie over een week zullen drinken .
+VF[S]LK[V]MF[O]	aux-pp	2	5	De moeders zullen een kopje koffie over een week drinken .
+VF[O]LK[V]MF[S]	aux-pp	6	2	Een kopje koffie zullen de moeders over een week drinken .
+VF[ADV]LK[V]MF[SO]	aux-pp	4	6	Daarom zullen de moeders een kopje koffie over een week drinken .
+LK[V]MF[SO]	aux-pp	3	5	Zullen de moeders een kopje koffie over een week drinken ?
+MF[SO]VC[V]	aux-pp	3	5	Omdat de moeders een kopje koffie over een week zullen drinken .
 VF[S]LK[V]MF[O]	aux-pp	2	4	De schrijver zal romans in een week schrijven .
 VF[O]LK[V]MF[S]	aux-pp	4	1	Romans zal de schrijver in een week schrijven .
 VF[ADV]LK[V]MF[SO]	aux-pp	4	5	Daarom zal de schrijver romans in een week schrijven .
@@ -1389,11 +1389,11 @@ VF[O]LK[V]MF[S]	spron-pp	3	1	Baarden scheert hij gedurende een week .
 VF[ADV]LK[V]MF[SO]	spron-pp	3	7	Daarom scheert hij gedurende een week baarden .
 LK[V]MF[SO]	spron-pp	2	6	Scheert hij gedurende een week baarden ?
 MF[SO]VC[V]	spron-pp	2	6	Omdat hij gedurende een week baarden scheert .
-VF[S]LK[V]MF[O]	spron-pp	1	8	Jullie drinken over een week een kopje koffie .
-VF[O]LK[V]MF[S]	spron-pp	5	3	Een kopje koffie drinken jullie over een week .
-VF[ADV]LK[V]MF[SO]	spron-pp	3	9	Daarom drinken jullie over een week een kopje koffie .
-LK[V]MF[SO]	spron-pp	2	8	Drinken jullie over een week een kopje koffie ?
-MF[SO]VC[V]	spron-pp	2	8	Omdat jullie over een week een kopje koffie drinken .
+VF[S]LK[V]MF[O]	spron-pp	1	7	Jullie drinken over een week een kopje koffie .
+VF[O]LK[V]MF[S]	spron-pp	5	2	Een kopje koffie drinken jullie over een week .
+VF[ADV]LK[V]MF[SO]	spron-pp	3	8	Daarom drinken jullie over een week een kopje koffie .
+LK[V]MF[SO]	spron-pp	2	7	Drinken jullie over een week een kopje koffie ?
+MF[SO]VC[V]	spron-pp	2	7	Omdat jullie over een week een kopje koffie drinken .
 VF[S]LK[V]MF[O]	spron-pp	1	6	Hij schrijft in een week romans .
 VF[O]LK[V]MF[S]	spron-pp	3	1	Romans schrijft hij in een week .
 VF[ADV]LK[V]MF[SO]	spron-pp	3	7	Daarom schrijft hij in een week romans .
@@ -1539,11 +1539,11 @@ VF[O]LK[V]MF[S]	oneg-pp	5	2	Geen baarden scheert de man gedurende een week .
 VF[ADV]LK[V]MF[SO]	oneg-pp	4	9	Daarom scheert de man gedurende een week geen baarden .
 LK[V]MF[SO]	oneg-pp	3	8	Scheert de man gedurende een week geen baarden ?
 MF[SO]VC[V]	oneg-pp	3	8	Omdat de man gedurende een week geen baarden scheert .
-VF[S]LK[V]MF[O]	oneg-pp	2	9	De moeders drinken over een week geen kopje koffie .
-VF[O]LK[V]MF[S]	oneg-pp	6	3	Geen kopje koffie drinken de moeders over een week .
-VF[ADV]LK[V]MF[SO]	oneg-pp	4	10	Daarom drinken de moeders over een week geen kopje koffie .
-LK[V]MF[SO]	oneg-pp	3	9	Drinken de moeders over een week geen kopje koffie ?
-MF[SO]VC[V]	oneg-pp	3	9	Omdat de moeders over een week geen kopje koffie drinken .
+VF[S]LK[V]MF[O]	oneg-pp	2	8	De moeders drinken over een week geen kopje koffie .
+VF[O]LK[V]MF[S]	oneg-pp	6	2	Geen kopje koffie drinken de moeders over een week .
+VF[ADV]LK[V]MF[SO]	oneg-pp	4	9	Daarom drinken de moeders over een week geen kopje koffie .
+LK[V]MF[SO]	oneg-pp	3	8	Drinken de moeders over een week geen kopje koffie ?
+MF[SO]VC[V]	oneg-pp	3	8	Omdat de moeders over een week geen kopje koffie drinken .
 VF[S]LK[V]MF[O]	oneg-pp	2	8	De schrijver schrijft in een week geen romans .
 VF[O]LK[V]MF[S]	oneg-pp	5	2	Geen romans schrijft de schrijver in een week .
 VF[ADV]LK[V]MF[SO]	oneg-pp	4	9	Daarom schrijft de schrijver in een week geen romans .
@@ -2999,11 +2999,11 @@ VF[O]LK[V]MF[S]	base-regpol	4	1	Baarden scheert het kapsalon .
 VF[ADV]LK[V]MF[SO]	base-regpol	4	5	Daarom scheert het kapsalon baarden .
 LK[V]MF[SO]	base-regpol	3	4	Scheert het kapsalon baarden ?
 MF[SO]VC[V]	base-regpol	3	4	Omdat het kapsalon baarden scheert .
-VF[S]LK[V]MF[O]	base-regpol	2	5	De redactie drinkt kopjes koffie .
-VF[O]LK[V]MF[S]	base-regpol	5	2	Kopjes koffie drinkt de redactie .
-VF[ADV]LK[V]MF[SO]	base-regpol	4	6	Daarom drinkt de redactie kopjes koffie .
-LK[V]MF[SO]	base-regpol	3	5	Drinkt de redactie kopjes koffie ?
-MF[SO]VC[V]	base-regpol	3	5	Omdat de redactie kopjes koffie drinkt .
+VF[S]LK[V]MF[O]	base-regpol	2	4	De redactie drinkt kopjes koffie .
+VF[O]LK[V]MF[S]	base-regpol	5	1	Kopjes koffie drinkt de redactie .
+VF[ADV]LK[V]MF[SO]	base-regpol	4	5	Daarom drinkt de redactie kopjes koffie .
+LK[V]MF[SO]	base-regpol	3	4	Drinkt de redactie kopjes koffie ?
+MF[SO]VC[V]	base-regpol	3	4	Omdat de redactie kopjes koffie drinkt .
 VF[S]LK[V]MF[O]	base-regpol	2	4	Het instituut schrijft romans .
 VF[O]LK[V]MF[S]	base-regpol	4	1	Romans schrijft het instituut .
 VF[ADV]LK[V]MF[SO]	base-regpol	4	5	Daarom schrijft het instituut romans .
@@ -3074,11 +3074,11 @@ VF[O]LK[V]MF[S]	amb-regpol	4	1	Baarden scheren de kapsalons .
 VF[ADV]LK[V]MF[SO]	amb-regpol	4	5	Daarom scheren de kapsalons baarden .
 LK[V]MF[SO]	amb-regpol	3	4	Scheren de kapsalons baarden ?
 MF[SO]VC[V]	amb-regpol	3	4	Omdat de kapsalons baarden scheren .
-VF[S]LK[V]MF[O]	amb-regpol	2	6	De redactie drinkt een kopje koffie .
-VF[O]LK[V]MF[S]	amb-regpol	6	3	Een kopje koffie drinkt de redactie .
-VF[ADV]LK[V]MF[SO]	amb-regpol	4	7	Daarom drinkt de redactie een kopje koffie .
-LK[V]MF[SO]	amb-regpol	3	6	Drinkt de redactie een kopje koffie ?
-MF[SO]VC[V]	amb-regpol	3	6	Omdat de redactie een kopje koffie drinkt .
+VF[S]LK[V]MF[O]	amb-regpol	2	5	De redactie drinkt een kopje koffie .
+VF[O]LK[V]MF[S]	amb-regpol	6	2	Een kopje koffie drinkt de redactie .
+VF[ADV]LK[V]MF[SO]	amb-regpol	4	6	Daarom drinkt de redactie een kopje koffie .
+LK[V]MF[SO]	amb-regpol	3	5	Drinkt de redactie een kopje koffie ?
+MF[SO]VC[V]	amb-regpol	3	5	Omdat de redactie een kopje koffie drinkt .
 VF[S]LK[V]MF[O]	amb-regpol	2	4	De instituten schrijven romans .
 VF[O]LK[V]MF[S]	amb-regpol	4	1	Romans schrijven de instituten .
 VF[ADV]LK[V]MF[SO]	amb-regpol	4	5	Daarom schrijven de instituten romans .
@@ -3149,11 +3149,11 @@ VF[O]LK[V]MF[S]	aux-regpol	4	1	Baarden zal het kapsalon scheren .
 VF[ADV]LK[V]MF[SO]	aux-regpol	4	5	Daarom zal het kapsalon baarden scheren .
 LK[V]MF[SO]	aux-regpol	3	4	Zal het kapsalon baarden scheren ?
 MF[SO]VC[V]	aux-regpol	3	4	Omdat het kapsalon baarden zal scheren .
-VF[S]LK[V]MF[O]	aux-regpol	2	5	De redactie zal kopjes koffie drinken .
-VF[O]LK[V]MF[S]	aux-regpol	5	2	Kopjes koffie zal de redactie drinken .
-VF[ADV]LK[V]MF[SO]	aux-regpol	4	6	Daarom zal de redactie kopjes koffie drinken .
-LK[V]MF[SO]	aux-regpol	3	5	Zal de redactie kopjes koffie drinken ?
-MF[SO]VC[V]	aux-regpol	3	5	Omdat de redactie kopjes koffie zal drinken .
+VF[S]LK[V]MF[O]	aux-regpol	2	4	De redactie zal kopjes koffie drinken .
+VF[O]LK[V]MF[S]	aux-regpol	5	1	Kopjes koffie zal de redactie drinken .
+VF[ADV]LK[V]MF[SO]	aux-regpol	4	5	Daarom zal de redactie kopjes koffie drinken .
+LK[V]MF[SO]	aux-regpol	3	4	Zal de redactie kopjes koffie drinken ?
+MF[SO]VC[V]	aux-regpol	3	4	Omdat de redactie kopjes koffie zal drinken .
 VF[S]LK[V]MF[O]	aux-regpol	2	4	Het instituut zal romans schrijven .
 VF[O]LK[V]MF[S]	aux-regpol	4	1	Romans zal het instituut schrijven .
 VF[ADV]LK[V]MF[SO]	aux-regpol	4	5	Daarom zal het instituut romans schrijven .
@@ -3299,11 +3299,11 @@ VF[O]LK[V]MF[S]	oneg-regpol	5	2	Geen baarden scheert het kapsalon .
 VF[ADV]LK[V]MF[SO]	oneg-regpol	4	6	Daarom scheert het kapsalon geen baarden .
 LK[V]MF[SO]	oneg-regpol	3	5	Scheert het kapsalon geen baarden ?
 MF[SO]VC[V]	oneg-regpol	3	5	Omdat het kapsalon geen baarden scheert .
-VF[S]LK[V]MF[O]	oneg-regpol	2	6	De redactie drinkt geen kopjes koffie .
-VF[O]LK[V]MF[S]	oneg-regpol	6	3	Geen kopjes koffie drinkt de redactie .
-VF[ADV]LK[V]MF[SO]	oneg-regpol	4	7	Daarom drinkt de redactie geen kopjes koffie .
-LK[V]MF[SO]	oneg-regpol	3	6	Drinkt de redactie geen kopjes koffie ?
-MF[SO]VC[V]	oneg-regpol	3	6	Omdat de redactie geen kopjes koffie drinkt .
+VF[S]LK[V]MF[O]	oneg-regpol	2	5	De redactie drinkt geen kopjes koffie .
+VF[O]LK[V]MF[S]	oneg-regpol	6	2	Geen kopjes koffie drinkt de redactie .
+VF[ADV]LK[V]MF[SO]	oneg-regpol	4	6	Daarom drinkt de redactie geen kopjes koffie .
+LK[V]MF[SO]	oneg-regpol	3	5	Drinkt de redactie geen kopjes koffie ?
+MF[SO]VC[V]	oneg-regpol	3	5	Omdat de redactie geen kopjes koffie drinkt .
 VF[S]LK[V]MF[O]	oneg-regpol	2	5	Het instituut schrijft geen romans .
 VF[O]LK[V]MF[S]	oneg-regpol	5	2	Geen romans schrijft het instituut .
 VF[ADV]LK[V]MF[SO]	oneg-regpol	4	6	Daarom schrijft het instituut geen romans .
@@ -3374,11 +3374,11 @@ VF[O]LK[V]MF[S]	pp-regpol	4	1	Baarden scheert het kapsalon gedurende een week .
 VF[ADV]LK[V]MF[SO]	pp-regpol	4	8	Daarom scheert het kapsalon gedurende een week baarden .
 LK[V]MF[SO]	pp-regpol	3	7	Scheert het kapsalon gedurende een week baarden ?
 MF[SO]VC[V]	pp-regpol	3	7	Omdat het kapsalon gedurende een week baarden scheert .
-VF[S]LK[V]MF[O]	pp-regpol	2	8	De redactie drinkt over een week kopjes koffie .
-VF[O]LK[V]MF[S]	pp-regpol	5	2	Kopjes koffie drinkt de redactie over een week .
-VF[ADV]LK[V]MF[SO]	pp-regpol	4	9	Daarom drinkt de redactie over een week kopjes koffie .
-LK[V]MF[SO]	pp-regpol	3	8	Drinkt de redactie over een week kopjes koffie ?
-MF[SO]VC[V]	pp-regpol	3	8	Omdat de redactie over een week kopjes koffie drinkt .
+VF[S]LK[V]MF[O]	pp-regpol	2	7	De redactie drinkt over een week kopjes koffie .
+VF[O]LK[V]MF[S]	pp-regpol	5	1	Kopjes koffie drinkt de redactie over een week .
+VF[ADV]LK[V]MF[SO]	pp-regpol	4	8	Daarom drinkt de redactie over een week kopjes koffie .
+LK[V]MF[SO]	pp-regpol	3	7	Drinkt de redactie over een week kopjes koffie ?
+MF[SO]VC[V]	pp-regpol	3	7	Omdat de redactie over een week kopjes koffie drinkt .
 VF[S]LK[V]MF[O]	pp-regpol	2	7	Het instituut schrijft in een week romans .
 VF[O]LK[V]MF[S]	pp-regpol	4	1	Romans schrijft het instituut in een week .
 VF[ADV]LK[V]MF[SO]	pp-regpol	4	8	Daarom schrijft het instituut in een week romans .
@@ -3494,21 +3494,21 @@ VF[O]LK[V]MF[S]	base-snp	3	1	Opnames synchroniseert Mercedes .
 VF[ADV]LK[V]MF[SO]	base-snp	3	4	Daarom synchroniseert Mercedes opnames .
 LK[V]MF[SO]	base-snp	2	3	Synchroniseert Mercedes opnames ?
 MF[SO]VC[V]	base-snp	2	3	Omdat Mercedes opnames synchroniseert .
-VF[S]LK[V]MF[O]	base-snp	2	4	NPO 1 repeteert droombruiloften .
-VF[O]LK[V]MF[S]	base-snp	4	1	Droombruiloften repeteert NPO 1 .
-VF[ADV]LK[V]MF[SO]	base-snp	4	5	Daarom repeteert NPO 1 droombruiloften .
-LK[V]MF[SO]	base-snp	3	4	Repeteert NPO 1 droombruiloften ?
-MF[SO]VC[V]	base-snp	3	4	Omdat NPO 1 droombruiloften repeteert .
+VF[S]LK[V]MF[O]	base-snp	1	4	NPO 1 repeteert droombruiloften .
+VF[O]LK[V]MF[S]	base-snp	3	1	Droombruiloften repeteert NPO 1 .
+VF[ADV]LK[V]MF[SO]	base-snp	3	5	Daarom repeteert NPO 1 droombruiloften .
+LK[V]MF[SO]	base-snp	2	4	Repeteert NPO 1 droombruiloften ?
+MF[SO]VC[V]	base-snp	2	4	Omdat NPO 1 droombruiloften repeteert .
 VF[S]LK[V]MF[O]	base-snp	1	3	Degas vernielt kunstwerken .
 VF[O]LK[V]MF[S]	base-snp	3	1	Kunstwerken vernielt Degas .
 VF[ADV]LK[V]MF[SO]	base-snp	3	4	Daarom vernielt Degas kunstwerken .
 LK[V]MF[SO]	base-snp	2	3	Vernielt Degas kunstwerken ?
 MF[SO]VC[V]	base-snp	2	3	Omdat Degas kunstwerken vernielt .
-VF[S]LK[V]MF[O]	base-snp	2	4	Staf Coppens verzint oplossingen .
-VF[O]LK[V]MF[S]	base-snp	4	1	Oplossingen verzint Staf Coppens .
-VF[ADV]LK[V]MF[SO]	base-snp	4	5	Daarom verzint Staf Coppens oplossingen .
-LK[V]MF[SO]	base-snp	3	4	Verzint Staf Coppens oplossingen ?
-MF[SO]VC[V]	base-snp	3	4	Omdat Staf Coppens oplossingen verzint .
+VF[S]LK[V]MF[O]	base-snp	1	4	Staf Coppens verzint oplossingen .
+VF[O]LK[V]MF[S]	base-snp	3	1	Oplossingen verzint Staf Coppens .
+VF[ADV]LK[V]MF[SO]	base-snp	3	5	Daarom verzint Staf Coppens oplossingen .
+LK[V]MF[SO]	base-snp	2	4	Verzint Staf Coppens oplossingen ?
+MF[SO]VC[V]	base-snp	2	4	Omdat Staf Coppens oplossingen verzint .
 VF[S]LK[V]MF[O]	base-snp	1	3	Harry bestelt tijdschriften .
 VF[O]LK[V]MF[S]	base-snp	3	1	Tijdschriften bestelt Harry .
 VF[ADV]LK[V]MF[SO]	base-snp	3	4	Daarom bestelt Harry tijdschriften .
@@ -3519,16 +3519,16 @@ VF[O]LK[V]MF[S]	base-snp	3	1	Baarden scheert Gillette .
 VF[ADV]LK[V]MF[SO]	base-snp	3	4	Daarom scheert Gillette baarden .
 LK[V]MF[SO]	base-snp	2	3	Scheert Gillette baarden ?
 MF[SO]VC[V]	base-snp	2	3	Omdat Gillette baarden scheert .
-VF[S]LK[V]MF[O]	base-snp	1	4	Clooney drinkt kopjes koffie .
-VF[O]LK[V]MF[S]	base-snp	4	2	Kopjes koffie drinkt Clooney .
-VF[ADV]LK[V]MF[SO]	base-snp	3	5	Daarom drinkt Clooney kopjes koffie .
-LK[V]MF[SO]	base-snp	2	4	Drinkt Clooney kopjes koffie ?
-MF[SO]VC[V]	base-snp	2	4	Omdat Clooney kopjes koffie drinkt .
-VF[S]LK[V]MF[O]	base-snp	2	4	Han Voskuil schrijft romans .
-VF[O]LK[V]MF[S]	base-snp	4	1	Romans schrijft Han Voskuil .
-VF[ADV]LK[V]MF[SO]	base-snp	4	5	Daarom schrijft Han Voskuil romans .
-LK[V]MF[SO]	base-snp	3	4	Schrijft Han Voskuil romans ?
-MF[SO]VC[V]	base-snp	3	4	Omdat Han Voskuil romans schrijft .
+VF[S]LK[V]MF[O]	base-snp	1	3	Clooney drinkt kopjes koffie .
+VF[O]LK[V]MF[S]	base-snp	4	1	Kopjes koffie drinkt Clooney .
+VF[ADV]LK[V]MF[SO]	base-snp	3	4	Daarom drinkt Clooney kopjes koffie .
+LK[V]MF[SO]	base-snp	2	3	Drinkt Clooney kopjes koffie ?
+MF[SO]VC[V]	base-snp	2	3	Omdat Clooney kopjes koffie drinkt .
+VF[S]LK[V]MF[O]	base-snp	1	4	Han Voskuil schrijft romans .
+VF[O]LK[V]MF[S]	base-snp	3	1	Romans schrijft Han Voskuil .
+VF[ADV]LK[V]MF[SO]	base-snp	3	5	Daarom schrijft Han Voskuil romans .
+LK[V]MF[SO]	base-snp	2	4	Schrijft Han Voskuil romans ?
+MF[SO]VC[V]	base-snp	2	4	Omdat Han Voskuil romans schrijft .
 VF[S]LK[V]MF[O]	base-snp	1	3	Rutte begint onderhandelingen .
 VF[O]LK[V]MF[S]	base-snp	3	1	Onderhandelingen begint Rutte .
 VF[ADV]LK[V]MF[SO]	base-snp	3	4	Daarom begint Rutte onderhandelingen .
@@ -3549,11 +3549,11 @@ VF[O]LK[V]MF[S]	base-snp	3	1	Toeren wint Nijmegen .
 VF[ADV]LK[V]MF[SO]	base-snp	3	4	Daarom wint Nijmegen toeren .
 LK[V]MF[SO]	base-snp	2	3	Wint Nijmegen toeren ?
 MF[SO]VC[V]	base-snp	2	3	Omdat Nijmegen toeren wint .
-VF[S]LK[V]MF[O]	base-snp	2	4	Essent NV regelt constructies .
-VF[O]LK[V]MF[S]	base-snp	4	1	Constructies regelt Essent NV .
-VF[ADV]LK[V]MF[SO]	base-snp	4	5	Daarom regelt Essent NV constructies .
-LK[V]MF[SO]	base-snp	3	4	Regelt Essent NV constructies ?
-MF[SO]VC[V]	base-snp	3	4	Omdat Essent NV constructies regelt .
+VF[S]LK[V]MF[O]	base-snp	1	4	Essent NV regelt constructies .
+VF[O]LK[V]MF[S]	base-snp	3	1	Constructies regelt Essent NV .
+VF[ADV]LK[V]MF[SO]	base-snp	3	5	Daarom regelt Essent NV constructies .
+LK[V]MF[SO]	base-snp	2	4	Regelt Essent NV constructies ?
+MF[SO]VC[V]	base-snp	2	4	Omdat Essent NV constructies regelt .
 VF[S]LK[V]MF[O]	amb-snp	1	4	AkzoNobel plant een aanval .
 VF[O]LK[V]MF[S]	amb-snp	4	2	Een aanval plant AkzoNobel .
 VF[ADV]LK[V]MF[SO]	amb-snp	3	5	Daarom plant AkzoNobel een aanval .
@@ -3569,21 +3569,21 @@ VF[O]LK[V]MF[S]	amb-snp	4	2	Een opname synchroniseert Mercedes .
 VF[ADV]LK[V]MF[SO]	amb-snp	3	5	Daarom synchroniseert Mercedes een opname .
 LK[V]MF[SO]	amb-snp	2	4	Synchroniseert Mercedes een opname ?
 MF[SO]VC[V]	amb-snp	2	4	Omdat Mercedes een opname synchroniseert .
-VF[S]LK[V]MF[O]	amb-snp	2	5	NPO 1 repeteert een droombruiloft .
-VF[O]LK[V]MF[S]	amb-snp	5	2	Een droombruiloft repeteert NPO 1 .
-VF[ADV]LK[V]MF[SO]	amb-snp	4	6	Daarom repeteert NPO 1 een droombruiloft .
-LK[V]MF[SO]	amb-snp	3	5	Repeteert NPO 1 een droombruiloft ?
-MF[SO]VC[V]	amb-snp	3	5	Omdat NPO 1 een droombruiloft repeteert .
+VF[S]LK[V]MF[O]	amb-snp	1	5	NPO 1 repeteert een droombruiloft .
+VF[O]LK[V]MF[S]	amb-snp	4	2	Een droombruiloft repeteert NPO 1 .
+VF[ADV]LK[V]MF[SO]	amb-snp	3	6	Daarom repeteert NPO 1 een droombruiloft .
+LK[V]MF[SO]	amb-snp	2	5	Repeteert NPO 1 een droombruiloft ?
+MF[SO]VC[V]	amb-snp	2	5	Omdat NPO 1 een droombruiloft repeteert .
 VF[S]LK[V]MF[O]	amb-snp	1	4	Degas vernielt een kunstwerk .
 VF[O]LK[V]MF[S]	amb-snp	4	2	Een kunstwerk vernielt Degas .
 VF[ADV]LK[V]MF[SO]	amb-snp	3	5	Daarom vernielt Degas een kunstwerk .
 LK[V]MF[SO]	amb-snp	2	4	Vernielt Degas een kunstwerk ?
 MF[SO]VC[V]	amb-snp	2	4	Omdat Degas een kunstwerk vernielt .
-VF[S]LK[V]MF[O]	amb-snp	2	5	Staf Coppens verzint een oplossing .
-VF[O]LK[V]MF[S]	amb-snp	5	2	Een oplossing verzint Staf Coppens .
-VF[ADV]LK[V]MF[SO]	amb-snp	4	6	Daarom verzint Staf Coppens een oplossing .
-LK[V]MF[SO]	amb-snp	3	5	Verzint Staf Coppens een oplossing ?
-MF[SO]VC[V]	amb-snp	3	5	Omdat Staf Coppens een oplossing verzint .
+VF[S]LK[V]MF[O]	amb-snp	1	5	Staf Coppens verzint een oplossing .
+VF[O]LK[V]MF[S]	amb-snp	4	2	Een oplossing verzint Staf Coppens .
+VF[ADV]LK[V]MF[SO]	amb-snp	3	6	Daarom verzint Staf Coppens een oplossing .
+LK[V]MF[SO]	amb-snp	2	5	Verzint Staf Coppens een oplossing ?
+MF[SO]VC[V]	amb-snp	2	5	Omdat Staf Coppens een oplossing verzint .
 VF[S]LK[V]MF[O]	amb-snp	1	4	Harry bestelt een tijdschrift .
 VF[O]LK[V]MF[S]	amb-snp	4	2	Een tijdschrift bestelt Harry .
 VF[ADV]LK[V]MF[SO]	amb-snp	3	5	Daarom bestelt Harry een tijdschrift .
@@ -3594,16 +3594,16 @@ VF[O]LK[V]MF[S]	amb-snp	4	2	Een baard scheert Gillette .
 VF[ADV]LK[V]MF[SO]	amb-snp	3	5	Daarom scheert Gillette een baard .
 LK[V]MF[SO]	amb-snp	2	4	Scheert Gillette een baard ?
 MF[SO]VC[V]	amb-snp	2	4	Omdat Gillette een baard scheert .
-VF[S]LK[V]MF[O]	amb-snp	1	5	Clooney drinkt een kopje koffie .
-VF[O]LK[V]MF[S]	amb-snp	5	3	Een kopje koffie drinkt Clooney .
-VF[ADV]LK[V]MF[SO]	amb-snp	3	6	Daarom drinkt Clooney een kopje koffie .
-LK[V]MF[SO]	amb-snp	2	5	Drinkt Clooney een kopje koffie ?
-MF[SO]VC[V]	amb-snp	2	5	Omdat Clooney een kopje koffie drinkt .
-VF[S]LK[V]MF[O]	amb-snp	2	5	Han Voskuil schrijft een roman .
-VF[O]LK[V]MF[S]	amb-snp	5	2	Een roman schrijft Han Voskuil .
-VF[ADV]LK[V]MF[SO]	amb-snp	4	6	Daarom schrijft Han Voskuil een roman .
-LK[V]MF[SO]	amb-snp	3	5	Schrijft Han Voskuil een roman ?
-MF[SO]VC[V]	amb-snp	3	5	Omdat Han Voskuil een roman schrijft .
+VF[S]LK[V]MF[O]	amb-snp	1	4	Clooney drinkt een kopje koffie .
+VF[O]LK[V]MF[S]	amb-snp	5	2	Een kopje koffie drinkt Clooney .
+VF[ADV]LK[V]MF[SO]	amb-snp	3	5	Daarom drinkt Clooney een kopje koffie .
+LK[V]MF[SO]	amb-snp	2	4	Drinkt Clooney een kopje koffie ?
+MF[SO]VC[V]	amb-snp	2	4	Omdat Clooney een kopje koffie drinkt .
+VF[S]LK[V]MF[O]	amb-snp	1	5	Han Voskuil schrijft een roman .
+VF[O]LK[V]MF[S]	amb-snp	4	2	Een roman schrijft Han Voskuil .
+VF[ADV]LK[V]MF[SO]	amb-snp	3	6	Daarom schrijft Han Voskuil een roman .
+LK[V]MF[SO]	amb-snp	2	5	Schrijft Han Voskuil een roman ?
+MF[SO]VC[V]	amb-snp	2	5	Omdat Han Voskuil een roman schrijft .
 VF[S]LK[V]MF[O]	amb-snp	1	4	Rutte begint een onderhandeling .
 VF[O]LK[V]MF[S]	amb-snp	4	2	Een onderhandeling begint Rutte .
 VF[ADV]LK[V]MF[SO]	amb-snp	3	5	Daarom begint Rutte een onderhandeling .
@@ -3624,11 +3624,11 @@ VF[O]LK[V]MF[S]	amb-snp	4	2	Een toer wint Nijmegen .
 VF[ADV]LK[V]MF[SO]	amb-snp	3	5	Daarom wint Nijmegen een toer .
 LK[V]MF[SO]	amb-snp	2	4	Wint Nijmegen een toer ?
 MF[SO]VC[V]	amb-snp	2	4	Omdat Nijmegen een toer wint .
-VF[S]LK[V]MF[O]	amb-snp	2	5	Essent NV regelt een constructie .
-VF[O]LK[V]MF[S]	amb-snp	5	2	Een constructie regelt Essent NV .
-VF[ADV]LK[V]MF[SO]	amb-snp	4	6	Daarom regelt Essent NV een constructie .
-LK[V]MF[SO]	amb-snp	3	5	Regelt Essent NV een constructie ?
-MF[SO]VC[V]	amb-snp	3	5	Omdat Essent NV een constructie regelt .
+VF[S]LK[V]MF[O]	amb-snp	1	5	Essent NV regelt een constructie .
+VF[O]LK[V]MF[S]	amb-snp	4	2	Een constructie regelt Essent NV .
+VF[ADV]LK[V]MF[SO]	amb-snp	3	6	Daarom regelt Essent NV een constructie .
+LK[V]MF[SO]	amb-snp	2	5	Regelt Essent NV een constructie ?
+MF[SO]VC[V]	amb-snp	2	5	Omdat Essent NV een constructie regelt .
 VF[S]LK[V]MF[O]	aux-snp	1	3	AkzoNobel zal aanvallen plannen .
 VF[O]LK[V]MF[S]	aux-snp	3	1	Aanvallen zal AkzoNobel plannen .
 VF[ADV]LK[V]MF[SO]	aux-snp	3	4	Daarom zal AkzoNobel aanvallen plannen .
@@ -3644,21 +3644,21 @@ VF[O]LK[V]MF[S]	aux-snp	3	1	Opnames zal Mercedes synchroniseren .
 VF[ADV]LK[V]MF[SO]	aux-snp	3	4	Daarom zal Mercedes opnames synchroniseren .
 LK[V]MF[SO]	aux-snp	2	3	Zal Mercedes opnames synchroniseren ?
 MF[SO]VC[V]	aux-snp	2	3	Omdat Mercedes opnames zal synchroniseren .
-VF[S]LK[V]MF[O]	aux-snp	2	4	NPO 1 zal droombruiloften repeteren .
-VF[O]LK[V]MF[S]	aux-snp	4	1	Droombruiloften zal NPO 1 repeteren .
-VF[ADV]LK[V]MF[SO]	aux-snp	4	5	Daarom zal NPO 1 droombruiloften repeteren .
-LK[V]MF[SO]	aux-snp	3	4	Zal NPO 1 droombruiloften repeteren ?
-MF[SO]VC[V]	aux-snp	3	4	Omdat NPO 1 droombruiloften zal repeteren .
+VF[S]LK[V]MF[O]	aux-snp	1	4	NPO 1 zal droombruiloften repeteren .
+VF[O]LK[V]MF[S]	aux-snp	3	1	Droombruiloften zal NPO 1 repeteren .
+VF[ADV]LK[V]MF[SO]	aux-snp	3	5	Daarom zal NPO 1 droombruiloften repeteren .
+LK[V]MF[SO]	aux-snp	2	4	Zal NPO 1 droombruiloften repeteren ?
+MF[SO]VC[V]	aux-snp	2	4	Omdat NPO 1 droombruiloften zal repeteren .
 VF[S]LK[V]MF[O]	aux-snp	1	3	Degas zal kunstwerken vernielen .
 VF[O]LK[V]MF[S]	aux-snp	3	1	Kunstwerken zal Degas vernielen .
 VF[ADV]LK[V]MF[SO]	aux-snp	3	4	Daarom zal Degas kunstwerken vernielen .
 LK[V]MF[SO]	aux-snp	2	3	Zal Degas kunstwerken vernielen ?
 MF[SO]VC[V]	aux-snp	2	3	Omdat Degas kunstwerken zal vernielen .
-VF[S]LK[V]MF[O]	aux-snp	2	4	Staf Coppens zal oplossingen verzinnen .
-VF[O]LK[V]MF[S]	aux-snp	4	1	Oplossingen zal Staf Coppens verzinnen .
-VF[ADV]LK[V]MF[SO]	aux-snp	4	5	Daarom zal Staf Coppens oplossingen verzinnen .
-LK[V]MF[SO]	aux-snp	3	4	Zal Staf Coppens oplossingen verzinnen ?
-MF[SO]VC[V]	aux-snp	3	4	Omdat Staf Coppens oplossingen zal verzinnen .
+VF[S]LK[V]MF[O]	aux-snp	1	4	Staf Coppens zal oplossingen verzinnen .
+VF[O]LK[V]MF[S]	aux-snp	3	1	Oplossingen zal Staf Coppens verzinnen .
+VF[ADV]LK[V]MF[SO]	aux-snp	3	5	Daarom zal Staf Coppens oplossingen verzinnen .
+LK[V]MF[SO]	aux-snp	2	4	Zal Staf Coppens oplossingen verzinnen ?
+MF[SO]VC[V]	aux-snp	2	4	Omdat Staf Coppens oplossingen zal verzinnen .
 VF[S]LK[V]MF[O]	aux-snp	1	3	Harry zal tijdschriften bestellen .
 VF[O]LK[V]MF[S]	aux-snp	3	1	Tijdschriften zal Harry bestellen .
 VF[ADV]LK[V]MF[SO]	aux-snp	3	4	Daarom zal Harry tijdschriften bestellen .
@@ -3669,16 +3669,16 @@ VF[O]LK[V]MF[S]	aux-snp	3	1	Baarden zal Gillette scheren .
 VF[ADV]LK[V]MF[SO]	aux-snp	3	4	Daarom zal Gillette baarden scheren .
 LK[V]MF[SO]	aux-snp	2	3	Zal Gillette baarden scheren ?
 MF[SO]VC[V]	aux-snp	2	3	Omdat Gillette baarden zal scheren .
-VF[S]LK[V]MF[O]	aux-snp	1	4	Clooney zal kopjes koffie drinken .
-VF[O]LK[V]MF[S]	aux-snp	4	2	Kopjes koffie zal Clooney drinken .
-VF[ADV]LK[V]MF[SO]	aux-snp	3	5	Daarom zal Clooney kopjes koffie drinken .
-LK[V]MF[SO]	aux-snp	2	4	Zal Clooney kopjes koffie drinken ?
-MF[SO]VC[V]	aux-snp	2	4	Omdat Clooney kopjes koffie zal drinken .
-VF[S]LK[V]MF[O]	aux-snp	2	4	Han Voskuil zal romans schrijven .
-VF[O]LK[V]MF[S]	aux-snp	4	1	Romans zal Han Voskuil schrijven .
-VF[ADV]LK[V]MF[SO]	aux-snp	4	5	Daarom zal Han Voskuil romans schrijven .
-LK[V]MF[SO]	aux-snp	3	4	Zal Han Voskuil romans schrijven ?
-MF[SO]VC[V]	aux-snp	3	4	Omdat Han Voskuil romans zal schrijven .
+VF[S]LK[V]MF[O]	aux-snp	1	3	Clooney zal kopjes koffie drinken .
+VF[O]LK[V]MF[S]	aux-snp	4	1	Kopjes koffie zal Clooney drinken .
+VF[ADV]LK[V]MF[SO]	aux-snp	3	4	Daarom zal Clooney kopjes koffie drinken .
+LK[V]MF[SO]	aux-snp	2	3	Zal Clooney kopjes koffie drinken ?
+MF[SO]VC[V]	aux-snp	2	3	Omdat Clooney kopjes koffie zal drinken .
+VF[S]LK[V]MF[O]	aux-snp	1	4	Han Voskuil zal romans schrijven .
+VF[O]LK[V]MF[S]	aux-snp	3	1	Romans zal Han Voskuil schrijven .
+VF[ADV]LK[V]MF[SO]	aux-snp	3	5	Daarom zal Han Voskuil romans schrijven .
+LK[V]MF[SO]	aux-snp	2	4	Zal Han Voskuil romans schrijven ?
+MF[SO]VC[V]	aux-snp	2	4	Omdat Han Voskuil romans zal schrijven .
 VF[S]LK[V]MF[O]	aux-snp	1	3	Rutte zal onderhandelingen beginnen .
 VF[O]LK[V]MF[S]	aux-snp	3	1	Onderhandelingen zal Rutte beginnen .
 VF[ADV]LK[V]MF[SO]	aux-snp	3	4	Daarom zal Rutte onderhandelingen beginnen .
@@ -3699,11 +3699,11 @@ VF[O]LK[V]MF[S]	aux-snp	3	1	Toeren zal Nijmegen winnen .
 VF[ADV]LK[V]MF[SO]	aux-snp	3	4	Daarom zal Nijmegen toeren winnen .
 LK[V]MF[SO]	aux-snp	2	3	Zal Nijmegen toeren winnen ?
 MF[SO]VC[V]	aux-snp	2	3	Omdat Nijmegen toeren zal winnen .
-VF[S]LK[V]MF[O]	aux-snp	2	4	Essent NV zal constructies regelen .
-VF[O]LK[V]MF[S]	aux-snp	4	1	Constructies zal Essent NV regelen .
-VF[ADV]LK[V]MF[SO]	aux-snp	4	5	Daarom zal Essent NV constructies regelen .
-LK[V]MF[SO]	aux-snp	3	4	Zal Essent NV constructies regelen ?
-MF[SO]VC[V]	aux-snp	3	4	Omdat Essent NV constructies zal regelen .
+VF[S]LK[V]MF[O]	aux-snp	1	4	Essent NV zal constructies regelen .
+VF[O]LK[V]MF[S]	aux-snp	3	1	Constructies zal Essent NV regelen .
+VF[ADV]LK[V]MF[SO]	aux-snp	3	5	Daarom zal Essent NV constructies regelen .
+LK[V]MF[SO]	aux-snp	2	4	Zal Essent NV constructies regelen ?
+MF[SO]VC[V]	aux-snp	2	4	Omdat Essent NV constructies zal regelen .
 VF[S]LK[V]MF[O]	opron-snp	1	3	Balazs beleeft hen .
 VF[O]LK[V]MF[S]	opron-snp	3	1	Hen beleeft Balazs .
 VF[ADV]LK[V]MF[SO]	opron-snp	3	4	Daarom beleeft Balazs hen .
@@ -3719,11 +3719,11 @@ VF[O]LK[V]MF[S]	opron-snp	3	1	Hen vernielt Degas .
 VF[ADV]LK[V]MF[SO]	opron-snp	3	4	Daarom vernielt Degas hen .
 LK[V]MF[SO]	opron-snp	2	3	Vernielt Degas hen ?
 MF[SO]VC[V]	opron-snp	2	3	Omdat Degas hen vernielt .
-VF[S]LK[V]MF[O]	opron-snp	2	4	Staf Coppens verzint hen .
-VF[O]LK[V]MF[S]	opron-snp	4	1	Hen verzint Staf Coppens .
-VF[ADV]LK[V]MF[SO]	opron-snp	4	5	Daarom verzint Staf Coppens hen .
-LK[V]MF[SO]	opron-snp	3	4	Verzint Staf Coppens hen ?
-MF[SO]VC[V]	opron-snp	3	4	Omdat Staf Coppens hen verzint .
+VF[S]LK[V]MF[O]	opron-snp	1	4	Staf Coppens verzint hen .
+VF[O]LK[V]MF[S]	opron-snp	3	1	Hen verzint Staf Coppens .
+VF[ADV]LK[V]MF[SO]	opron-snp	3	5	Daarom verzint Staf Coppens hen .
+LK[V]MF[SO]	opron-snp	2	4	Verzint Staf Coppens hen ?
+MF[SO]VC[V]	opron-snp	2	4	Omdat Staf Coppens hen verzint .
 VF[S]LK[V]MF[O]	opron-snp	1	3	Harry bestelt hen .
 VF[O]LK[V]MF[S]	opron-snp	3	1	Hen bestelt Harry .
 VF[ADV]LK[V]MF[SO]	opron-snp	3	4	Daarom bestelt Harry hen .
@@ -3734,11 +3734,11 @@ VF[O]LK[V]MF[S]	opron-snp	3	1	Hen scheert Gillette .
 VF[ADV]LK[V]MF[SO]	opron-snp	3	4	Daarom scheert Gillette hen .
 LK[V]MF[SO]	opron-snp	2	3	Scheert Gillette hen ?
 MF[SO]VC[V]	opron-snp	2	3	Omdat Gillette hen scheert .
-VF[S]LK[V]MF[O]	opron-snp	2	4	Han Voskuil schrijft hen .
-VF[O]LK[V]MF[S]	opron-snp	4	1	Hen schrijft Han Voskuil .
-VF[ADV]LK[V]MF[SO]	opron-snp	4	5	Daarom schrijft Han Voskuil hen .
-LK[V]MF[SO]	opron-snp	3	4	Schrijft Han Voskuil hen ?
-MF[SO]VC[V]	opron-snp	3	4	Omdat Han Voskuil hen schrijft .
+VF[S]LK[V]MF[O]	opron-snp	1	4	Han Voskuil schrijft hen .
+VF[O]LK[V]MF[S]	opron-snp	3	1	Hen schrijft Han Voskuil .
+VF[ADV]LK[V]MF[SO]	opron-snp	3	5	Daarom schrijft Han Voskuil hen .
+LK[V]MF[SO]	opron-snp	2	4	Schrijft Han Voskuil hen ?
+MF[SO]VC[V]	opron-snp	2	4	Omdat Han Voskuil hen schrijft .
 VF[S]LK[V]MF[O]	opron-snp	1	3	Vietnam krijgt hen .
 VF[O]LK[V]MF[S]	opron-snp	3	1	Hen krijgt Vietnam .
 VF[ADV]LK[V]MF[SO]	opron-snp	3	4	Daarom krijgt Vietnam hen .
@@ -3764,21 +3764,21 @@ VF[O]LK[V]MF[S]	oneg-snp	4	2	Geen opnames synchroniseert Mercedes .
 VF[ADV]LK[V]MF[SO]	oneg-snp	3	5	Daarom synchroniseert Mercedes geen opnames .
 LK[V]MF[SO]	oneg-snp	2	4	Synchroniseert Mercedes geen opnames ?
 MF[SO]VC[V]	oneg-snp	2	4	Omdat Mercedes geen opnames synchroniseert .
-VF[S]LK[V]MF[O]	oneg-snp	2	5	NPO 1 repeteert geen droombruiloften .
-VF[O]LK[V]MF[S]	oneg-snp	5	2	Geen droombruiloften repeteert NPO 1 .
-VF[ADV]LK[V]MF[SO]	oneg-snp	4	6	Daarom repeteert NPO 1 geen droombruiloften .
-LK[V]MF[SO]	oneg-snp	3	5	Repeteert NPO 1 geen droombruiloften ?
-MF[SO]VC[V]	oneg-snp	3	5	Omdat NPO 1 geen droombruiloften repeteert .
+VF[S]LK[V]MF[O]	oneg-snp	1	5	NPO 1 repeteert geen droombruiloften .
+VF[O]LK[V]MF[S]	oneg-snp	4	2	Geen droombruiloften repeteert NPO 1 .
+VF[ADV]LK[V]MF[SO]	oneg-snp	3	6	Daarom repeteert NPO 1 geen droombruiloften .
+LK[V]MF[SO]	oneg-snp	2	5	Repeteert NPO 1 geen droombruiloften ?
+MF[SO]VC[V]	oneg-snp	2	5	Omdat NPO 1 geen droombruiloften repeteert .
 VF[S]LK[V]MF[O]	oneg-snp	1	4	Degas vernielt geen kunstwerken .
 VF[O]LK[V]MF[S]	oneg-snp	4	2	Geen kunstwerken vernielt Degas .
 VF[ADV]LK[V]MF[SO]	oneg-snp	3	5	Daarom vernielt Degas geen kunstwerken .
 LK[V]MF[SO]	oneg-snp	2	4	Vernielt Degas geen kunstwerken ?
 MF[SO]VC[V]	oneg-snp	2	4	Omdat Degas geen kunstwerken vernielt .
-VF[S]LK[V]MF[O]	oneg-snp	2	5	Staf Coppens verzint geen oplossingen .
-VF[O]LK[V]MF[S]	oneg-snp	5	2	Geen oplossingen verzint Staf Coppens .
-VF[ADV]LK[V]MF[SO]	oneg-snp	4	6	Daarom verzint Staf Coppens geen oplossingen .
-LK[V]MF[SO]	oneg-snp	3	5	Verzint Staf Coppens geen oplossingen ?
-MF[SO]VC[V]	oneg-snp	3	5	Omdat Staf Coppens geen oplossingen verzint .
+VF[S]LK[V]MF[O]	oneg-snp	1	5	Staf Coppens verzint geen oplossingen .
+VF[O]LK[V]MF[S]	oneg-snp	4	2	Geen oplossingen verzint Staf Coppens .
+VF[ADV]LK[V]MF[SO]	oneg-snp	3	6	Daarom verzint Staf Coppens geen oplossingen .
+LK[V]MF[SO]	oneg-snp	2	5	Verzint Staf Coppens geen oplossingen ?
+MF[SO]VC[V]	oneg-snp	2	5	Omdat Staf Coppens geen oplossingen verzint .
 VF[S]LK[V]MF[O]	oneg-snp	1	4	Harry bestelt geen tijdschriften .
 VF[O]LK[V]MF[S]	oneg-snp	4	2	Geen tijdschriften bestelt Harry .
 VF[ADV]LK[V]MF[SO]	oneg-snp	3	5	Daarom bestelt Harry geen tijdschriften .
@@ -3789,16 +3789,16 @@ VF[O]LK[V]MF[S]	oneg-snp	4	2	Geen baarden scheert Gillette .
 VF[ADV]LK[V]MF[SO]	oneg-snp	3	5	Daarom scheert Gillette geen baarden .
 LK[V]MF[SO]	oneg-snp	2	4	Scheert Gillette geen baarden ?
 MF[SO]VC[V]	oneg-snp	2	4	Omdat Gillette geen baarden scheert .
-VF[S]LK[V]MF[O]	oneg-snp	1	5	Clooney drinkt geen kopjes koffie .
-VF[O]LK[V]MF[S]	oneg-snp	5	3	Geen kopjes koffie drinkt Clooney .
-VF[ADV]LK[V]MF[SO]	oneg-snp	3	6	Daarom drinkt Clooney geen kopjes koffie .
-LK[V]MF[SO]	oneg-snp	2	5	Drinkt Clooney geen kopjes koffie ?
-MF[SO]VC[V]	oneg-snp	2	5	Omdat Clooney geen kopjes koffie drinkt .
-VF[S]LK[V]MF[O]	oneg-snp	2	5	Han Voskuil schrijft geen romans .
-VF[O]LK[V]MF[S]	oneg-snp	5	2	Geen romans schrijft Han Voskuil .
-VF[ADV]LK[V]MF[SO]	oneg-snp	4	6	Daarom schrijft Han Voskuil geen romans .
-LK[V]MF[SO]	oneg-snp	3	5	Schrijft Han Voskuil geen romans ?
-MF[SO]VC[V]	oneg-snp	3	5	Omdat Han Voskuil geen romans schrijft .
+VF[S]LK[V]MF[O]	oneg-snp	1	4	Clooney drinkt geen kopjes koffie .
+VF[O]LK[V]MF[S]	oneg-snp	5	2	Geen kopjes koffie drinkt Clooney .
+VF[ADV]LK[V]MF[SO]	oneg-snp	3	5	Daarom drinkt Clooney geen kopjes koffie .
+LK[V]MF[SO]	oneg-snp	2	4	Drinkt Clooney geen kopjes koffie ?
+MF[SO]VC[V]	oneg-snp	2	4	Omdat Clooney geen kopjes koffie drinkt .
+VF[S]LK[V]MF[O]	oneg-snp	1	5	Han Voskuil schrijft geen romans .
+VF[O]LK[V]MF[S]	oneg-snp	4	2	Geen romans schrijft Han Voskuil .
+VF[ADV]LK[V]MF[SO]	oneg-snp	3	6	Daarom schrijft Han Voskuil geen romans .
+LK[V]MF[SO]	oneg-snp	2	5	Schrijft Han Voskuil geen romans ?
+MF[SO]VC[V]	oneg-snp	2	5	Omdat Han Voskuil geen romans schrijft .
 VF[S]LK[V]MF[O]	oneg-snp	1	4	Rutte begint geen onderhandelingen .
 VF[O]LK[V]MF[S]	oneg-snp	4	2	Geen onderhandelingen begint Rutte .
 VF[ADV]LK[V]MF[SO]	oneg-snp	3	5	Daarom begint Rutte geen onderhandelingen .
@@ -3819,11 +3819,11 @@ VF[O]LK[V]MF[S]	oneg-snp	4	2	Geen toeren wint Nijmegen .
 VF[ADV]LK[V]MF[SO]	oneg-snp	3	5	Daarom wint Nijmegen geen toeren .
 LK[V]MF[SO]	oneg-snp	2	4	Wint Nijmegen geen toeren ?
 MF[SO]VC[V]	oneg-snp	2	4	Omdat Nijmegen geen toeren wint .
-VF[S]LK[V]MF[O]	oneg-snp	2	5	Essent NV regelt geen constructies .
-VF[O]LK[V]MF[S]	oneg-snp	5	2	Geen constructies regelt Essent NV .
-VF[ADV]LK[V]MF[SO]	oneg-snp	4	6	Daarom regelt Essent NV geen constructies .
-LK[V]MF[SO]	oneg-snp	3	5	Regelt Essent NV geen constructies ?
-MF[SO]VC[V]	oneg-snp	3	5	Omdat Essent NV geen constructies regelt .
+VF[S]LK[V]MF[O]	oneg-snp	1	5	Essent NV regelt geen constructies .
+VF[O]LK[V]MF[S]	oneg-snp	4	2	Geen constructies regelt Essent NV .
+VF[ADV]LK[V]MF[SO]	oneg-snp	3	6	Daarom regelt Essent NV geen constructies .
+LK[V]MF[SO]	oneg-snp	2	5	Regelt Essent NV geen constructies ?
+MF[SO]VC[V]	oneg-snp	2	5	Omdat Essent NV geen constructies regelt .
 VF[S]LK[V]MF[O]	oan-snp	1	3	AkzoNobel benoemt opvolgers .
 VF[O]LK[V]MF[S]	oan-snp	3	1	Opvolgers benoemt AkzoNobel .
 VF[ADV]LK[V]MF[SO]	oan-snp	3	4	Daarom benoemt AkzoNobel opvolgers .
@@ -3839,21 +3839,21 @@ VF[O]LK[V]MF[S]	oan-snp	3	1	Spinnen voedt Harry .
 VF[ADV]LK[V]MF[SO]	oan-snp	3	4	Daarom voedt Harry spinnen .
 LK[V]MF[SO]	oan-snp	2	3	Voedt Harry spinnen ?
 MF[SO]VC[V]	oan-snp	2	3	Omdat Harry spinnen voedt .
-VF[S]LK[V]MF[O]	oan-snp	2	4	Han Voskuil bedient gasten .
-VF[O]LK[V]MF[S]	oan-snp	4	1	Gasten bedient Han Voskuil .
-VF[ADV]LK[V]MF[SO]	oan-snp	4	5	Daarom bedient Han Voskuil gasten .
-LK[V]MF[SO]	oan-snp	3	4	Bedient Han Voskuil gasten ?
-MF[SO]VC[V]	oan-snp	3	4	Omdat Han Voskuil gasten bedient .
-VF[S]LK[V]MF[O]	oan-snp	2	4	NPO 1 accepteert sollicitanten .
-VF[O]LK[V]MF[S]	oan-snp	4	1	Sollicitanten accepteert NPO 1 .
-VF[ADV]LK[V]MF[SO]	oan-snp	4	5	Daarom accepteert NPO 1 sollicitanten .
-LK[V]MF[SO]	oan-snp	3	4	Accepteert NPO 1 sollicitanten ?
-MF[SO]VC[V]	oan-snp	3	4	Omdat NPO 1 sollicitanten accepteert .
-VF[S]LK[V]MF[O]	oan-snp	2	4	Staf Coppens imiteert jazzpianisten .
-VF[O]LK[V]MF[S]	oan-snp	4	1	Jazzpianisten imiteert Staf Coppens .
-VF[ADV]LK[V]MF[SO]	oan-snp	4	5	Daarom imiteert Staf Coppens jazzpianisten .
-LK[V]MF[SO]	oan-snp	3	4	Imiteert Staf Coppens jazzpianisten ?
-MF[SO]VC[V]	oan-snp	3	4	Omdat Staf Coppens jazzpianisten imiteert .
+VF[S]LK[V]MF[O]	oan-snp	1	4	Han Voskuil bedient gasten .
+VF[O]LK[V]MF[S]	oan-snp	3	1	Gasten bedient Han Voskuil .
+VF[ADV]LK[V]MF[SO]	oan-snp	3	5	Daarom bedient Han Voskuil gasten .
+LK[V]MF[SO]	oan-snp	2	4	Bedient Han Voskuil gasten ?
+MF[SO]VC[V]	oan-snp	2	4	Omdat Han Voskuil gasten bedient .
+VF[S]LK[V]MF[O]	oan-snp	1	4	NPO 1 accepteert sollicitanten .
+VF[O]LK[V]MF[S]	oan-snp	3	1	Sollicitanten accepteert NPO 1 .
+VF[ADV]LK[V]MF[SO]	oan-snp	3	5	Daarom accepteert NPO 1 sollicitanten .
+LK[V]MF[SO]	oan-snp	2	4	Accepteert NPO 1 sollicitanten ?
+MF[SO]VC[V]	oan-snp	2	4	Omdat NPO 1 sollicitanten accepteert .
+VF[S]LK[V]MF[O]	oan-snp	1	4	Staf Coppens imiteert jazzpianisten .
+VF[O]LK[V]MF[S]	oan-snp	3	1	Jazzpianisten imiteert Staf Coppens .
+VF[ADV]LK[V]MF[SO]	oan-snp	3	5	Daarom imiteert Staf Coppens jazzpianisten .
+LK[V]MF[SO]	oan-snp	2	4	Imiteert Staf Coppens jazzpianisten ?
+MF[SO]VC[V]	oan-snp	2	4	Omdat Staf Coppens jazzpianisten imiteert .
 VF[S]LK[V]MF[O]	oan-snp	1	3	Mercedes huurt verdelgers .
 VF[O]LK[V]MF[S]	oan-snp	3	1	Verdelgers huurt Mercedes .
 VF[ADV]LK[V]MF[SO]	oan-snp	3	4	Daarom huurt Mercedes verdelgers .
@@ -3874,11 +3874,11 @@ VF[O]LK[V]MF[S]	oan-snp	3	1	Modellen fotografeert Anouk .
 VF[ADV]LK[V]MF[SO]	oan-snp	3	4	Daarom fotografeert Anouk modellen .
 LK[V]MF[SO]	oan-snp	2	3	Fotografeert Anouk modellen ?
 MF[SO]VC[V]	oan-snp	2	3	Omdat Anouk modellen fotografeert .
-VF[S]LK[V]MF[O]	oan-snp	2	4	Essent NV begeleidt cursisten .
-VF[O]LK[V]MF[S]	oan-snp	4	1	Cursisten begeleidt Essent NV .
-VF[ADV]LK[V]MF[SO]	oan-snp	4	5	Daarom begeleidt Essent NV cursisten .
-LK[V]MF[SO]	oan-snp	3	4	Begeleidt Essent NV cursisten ?
-MF[SO]VC[V]	oan-snp	3	4	Omdat Essent NV cursisten begeleidt .
+VF[S]LK[V]MF[O]	oan-snp	1	4	Essent NV begeleidt cursisten .
+VF[O]LK[V]MF[S]	oan-snp	3	1	Cursisten begeleidt Essent NV .
+VF[ADV]LK[V]MF[SO]	oan-snp	3	5	Daarom begeleidt Essent NV cursisten .
+LK[V]MF[SO]	oan-snp	2	4	Begeleidt Essent NV cursisten ?
+MF[SO]VC[V]	oan-snp	2	4	Omdat Essent NV cursisten begeleidt .
 VF[S]LK[V]MF[O]	oan-snp	1	3	Degas adviseert leerlingen .
 VF[O]LK[V]MF[S]	oan-snp	3	1	Leerlingen adviseert Degas .
 VF[ADV]LK[V]MF[SO]	oan-snp	3	4	Daarom adviseert Degas leerlingen .
@@ -4964,11 +4964,11 @@ VF[O]LK[V]MF[S]	base-psy	4	1	Mannen verbaast de baard .
 VF[ADV]LK[V]MF[SO]	base-psy	4	5	Daarom verbaast de baard mannen .
 LK[V]MF[SO]	base-psy	3	4	Verbaast de baard mannen ?
 MF[SO]VC[V]	base-psy	3	4	Omdat de baard mannen verbaast .
-VF[S]LK[V]MF[O]	base-psy	3	5	Het kopje koffie bevalt moeders .
-VF[O]LK[V]MF[S]	base-psy	5	1	Moeders bevalt het kopje koffie .
-VF[ADV]LK[V]MF[SO]	base-psy	5	6	Daarom bevalt het kopje koffie moeders .
-LK[V]MF[SO]	base-psy	4	5	Bevalt het kopje koffie moeders ?
-MF[SO]VC[V]	base-psy	4	5	Omdat het kopje koffie moeders bevalt .
+VF[S]LK[V]MF[O]	base-psy	2	5	Het kopje koffie bevalt moeders .
+VF[O]LK[V]MF[S]	base-psy	4	1	Moeders bevalt het kopje koffie .
+VF[ADV]LK[V]MF[SO]	base-psy	4	6	Daarom bevalt het kopje koffie moeders .
+LK[V]MF[SO]	base-psy	3	5	Bevalt het kopje koffie moeders ?
+MF[SO]VC[V]	base-psy	3	5	Omdat het kopje koffie moeders bevalt .
 VF[S]LK[V]MF[O]	base-psy	2	4	De roman frustreert schrijvers .
 VF[O]LK[V]MF[S]	base-psy	4	1	Schrijvers frustreert de roman .
 VF[ADV]LK[V]MF[SO]	base-psy	4	5	Daarom frustreert de roman schrijvers .
@@ -5039,11 +5039,11 @@ VF[O]LK[V]MF[S]	amb-psy	4	1	Mannen verbazen de baarden .
 VF[ADV]LK[V]MF[SO]	amb-psy	4	5	Daarom verbazen de baarden mannen .
 LK[V]MF[SO]	amb-psy	3	4	Verbazen de baarden mannen ?
 MF[SO]VC[V]	amb-psy	3	4	Omdat de baarden mannen verbazen .
-VF[S]LK[V]MF[O]	amb-psy	3	5	De kopjes koffie bevallen moeders .
-VF[O]LK[V]MF[S]	amb-psy	5	1	Moeders bevallen de kopjes koffie .
-VF[ADV]LK[V]MF[SO]	amb-psy	5	6	Daarom bevallen de kopjes koffie moeders .
-LK[V]MF[SO]	amb-psy	4	5	Bevallen de kopjes koffie moeders ?
-MF[SO]VC[V]	amb-psy	4	5	Omdat de kopjes koffie moeders bevallen .
+VF[S]LK[V]MF[O]	amb-psy	2	5	De kopjes koffie bevallen moeders .
+VF[O]LK[V]MF[S]	amb-psy	4	1	Moeders bevallen de kopjes koffie .
+VF[ADV]LK[V]MF[SO]	amb-psy	4	6	Daarom bevallen de kopjes koffie moeders .
+LK[V]MF[SO]	amb-psy	3	5	Bevallen de kopjes koffie moeders ?
+MF[SO]VC[V]	amb-psy	3	5	Omdat de kopjes koffie moeders bevallen .
 VF[S]LK[V]MF[O]	amb-psy	2	4	De romans frustreren schrijvers .
 VF[O]LK[V]MF[S]	amb-psy	4	1	Schrijvers frustreren de romans .
 VF[ADV]LK[V]MF[SO]	amb-psy	4	5	Daarom frustreren de romans schrijvers .
@@ -5114,11 +5114,11 @@ VF[O]LK[V]MF[S]	aux-psy	4	1	Mannen zal de baard verbazen .
 VF[ADV]LK[V]MF[SO]	aux-psy	4	5	Daarom zal de baard mannen verbazen .
 LK[V]MF[SO]	aux-psy	3	4	Zal de baard mannen verbazen ?
 MF[SO]VC[V]	aux-psy	3	4	Omdat de baard mannen zal verbazen .
-VF[S]LK[V]MF[O]	aux-psy	3	5	Het kopje koffie zal moeders bevallen .
-VF[O]LK[V]MF[S]	aux-psy	5	1	Moeders zal het kopje koffie bevallen .
-VF[ADV]LK[V]MF[SO]	aux-psy	5	6	Daarom zal het kopje koffie moeders bevallen .
-LK[V]MF[SO]	aux-psy	4	5	Zal het kopje koffie moeders bevallen ?
-MF[SO]VC[V]	aux-psy	4	5	Omdat het kopje koffie moeders zal bevallen .
+VF[S]LK[V]MF[O]	aux-psy	2	5	Het kopje koffie zal moeders bevallen .
+VF[O]LK[V]MF[S]	aux-psy	4	1	Moeders zal het kopje koffie bevallen .
+VF[ADV]LK[V]MF[SO]	aux-psy	4	6	Daarom zal het kopje koffie moeders bevallen .
+LK[V]MF[SO]	aux-psy	3	5	Zal het kopje koffie moeders bevallen ?
+MF[SO]VC[V]	aux-psy	3	5	Omdat het kopje koffie moeders zal bevallen .
 VF[S]LK[V]MF[O]	aux-psy	2	4	De roman zal schrijvers frustreren .
 VF[O]LK[V]MF[S]	aux-psy	4	1	Schrijvers zal de roman frustreren .
 VF[ADV]LK[V]MF[SO]	aux-psy	4	5	Daarom zal de roman schrijvers frustreren .
@@ -5264,11 +5264,11 @@ VF[O]LK[V]MF[S]	opron-psy	4	1	Haar verbaast de baard .
 VF[ADV]LK[V]MF[SO]	opron-psy	4	5	Daarom verbaast de baard haar .
 LK[V]MF[SO]	opron-psy	3	4	Verbaast de baard haar ?
 MF[SO]VC[V]	opron-psy	3	4	Omdat de baard haar verbaast .
-VF[S]LK[V]MF[O]	opron-psy	3	5	Het kopje koffie bevalt haar .
-VF[O]LK[V]MF[S]	opron-psy	5	1	Haar bevalt het kopje koffie .
-VF[ADV]LK[V]MF[SO]	opron-psy	5	6	Daarom bevalt het kopje koffie haar .
-LK[V]MF[SO]	opron-psy	4	5	Bevalt het kopje koffie haar ?
-MF[SO]VC[V]	opron-psy	4	5	Omdat het kopje koffie haar bevalt .
+VF[S]LK[V]MF[O]	opron-psy	2	5	Het kopje koffie bevalt haar .
+VF[O]LK[V]MF[S]	opron-psy	4	1	Haar bevalt het kopje koffie .
+VF[ADV]LK[V]MF[SO]	opron-psy	4	6	Daarom bevalt het kopje koffie haar .
+LK[V]MF[SO]	opron-psy	3	5	Bevalt het kopje koffie haar ?
+MF[SO]VC[V]	opron-psy	3	5	Omdat het kopje koffie haar bevalt .
 VF[S]LK[V]MF[O]	opron-psy	2	4	De roman frustreert hem .
 VF[O]LK[V]MF[S]	opron-psy	4	1	Hem frustreert de roman .
 VF[ADV]LK[V]MF[SO]	opron-psy	4	5	Daarom frustreert de roman hem .
@@ -5339,11 +5339,11 @@ VF[O]LK[V]MF[S]	oneg-psy	5	2	Geen mannen verbaast de baard .
 VF[ADV]LK[V]MF[SO]	oneg-psy	4	6	Daarom verbaast de baard geen mannen .
 LK[V]MF[SO]	oneg-psy	3	5	Verbaast de baard geen mannen ?
 MF[SO]VC[V]	oneg-psy	3	5	Omdat de baard geen mannen verbaast .
-VF[S]LK[V]MF[O]	oneg-psy	3	6	Het kopje koffie bevalt geen moeders .
-VF[O]LK[V]MF[S]	oneg-psy	6	2	Geen moeders bevalt het kopje koffie .
-VF[ADV]LK[V]MF[SO]	oneg-psy	5	7	Daarom bevalt het kopje koffie geen moeders .
-LK[V]MF[SO]	oneg-psy	4	6	Bevalt het kopje koffie geen moeders ?
-MF[SO]VC[V]	oneg-psy	4	6	Omdat het kopje koffie geen moeders bevalt .
+VF[S]LK[V]MF[O]	oneg-psy	2	6	Het kopje koffie bevalt geen moeders .
+VF[O]LK[V]MF[S]	oneg-psy	5	2	Geen moeders bevalt het kopje koffie .
+VF[ADV]LK[V]MF[SO]	oneg-psy	4	7	Daarom bevalt het kopje koffie geen moeders .
+LK[V]MF[SO]	oneg-psy	3	6	Bevalt het kopje koffie geen moeders ?
+MF[SO]VC[V]	oneg-psy	3	6	Omdat het kopje koffie geen moeders bevalt .
 VF[S]LK[V]MF[O]	oneg-psy	2	5	De roman frustreert geen schrijvers .
 VF[O]LK[V]MF[S]	oneg-psy	5	2	Geen schrijvers frustreert de roman .
 VF[ADV]LK[V]MF[SO]	oneg-psy	4	6	Daarom frustreert de roman geen schrijvers .
@@ -5414,11 +5414,11 @@ VF[O]LK[V]MF[S]	pp-psy	4	1	Mannen verbaast de baard gedurende een week .
 VF[ADV]LK[V]MF[SO]	pp-psy	4	8	Daarom verbaast de baard gedurende een week mannen .
 LK[V]MF[SO]	pp-psy	3	7	Verbaast de baard gedurende een week mannen ?
 MF[SO]VC[V]	pp-psy	3	7	Omdat de baard gedurende een week mannen verbaast .
-VF[S]LK[V]MF[O]	pp-psy	3	8	Het kopje koffie bevalt gedurende een week moeders .
-VF[O]LK[V]MF[S]	pp-psy	5	1	Moeders bevalt het kopje koffie gedurende een week .
-VF[ADV]LK[V]MF[SO]	pp-psy	5	9	Daarom bevalt het kopje koffie gedurende een week moeders .
-LK[V]MF[SO]	pp-psy	4	8	Bevalt het kopje koffie gedurende een week moeders ?
-MF[SO]VC[V]	pp-psy	4	8	Omdat het kopje koffie gedurende een week moeders bevalt .
+VF[S]LK[V]MF[O]	pp-psy	2	8	Het kopje koffie bevalt gedurende een week moeders .
+VF[O]LK[V]MF[S]	pp-psy	4	1	Moeders bevalt het kopje koffie gedurende een week .
+VF[ADV]LK[V]MF[SO]	pp-psy	4	9	Daarom bevalt het kopje koffie gedurende een week moeders .
+LK[V]MF[SO]	pp-psy	3	8	Bevalt het kopje koffie gedurende een week moeders ?
+MF[SO]VC[V]	pp-psy	3	8	Omdat het kopje koffie gedurende een week moeders bevalt .
 VF[S]LK[V]MF[O]	pp-psy	2	7	De roman frustreert gedurende een week schrijvers .
 VF[O]LK[V]MF[S]	pp-psy	4	1	Schrijvers frustreert de roman gedurende een week .
 VF[ADV]LK[V]MF[SO]	pp-psy	4	8	Daarom frustreert de roman gedurende een week schrijvers .
@@ -5489,11 +5489,11 @@ VF[O]LK[V]MF[S]	regpol-psy	5	2	Een kapsalon verbazen de baarden .
 VF[ADV]LK[V]MF[SO]	regpol-psy	4	6	Daarom verbazen de baarden een kapsalon .
 LK[V]MF[SO]	regpol-psy	3	5	Verbazen de baarden een kapsalon ?
 MF[SO]VC[V]	regpol-psy	3	5	Omdat de baarden een kapsalon verbazen .
-VF[S]LK[V]MF[O]	regpol-psy	3	6	De kopjes koffie bevallen een personeelsafdeling .
-VF[O]LK[V]MF[S]	regpol-psy	6	2	Een personeelsafdeling bevallen de kopjes koffie .
-VF[ADV]LK[V]MF[SO]	regpol-psy	5	7	Daarom bevallen de kopjes koffie een personeelsafdeling .
-LK[V]MF[SO]	regpol-psy	4	6	Bevallen de kopjes koffie een personeelsafdeling ?
-MF[SO]VC[V]	regpol-psy	4	6	Omdat de kopjes koffie een personeelsafdeling bevallen .
+VF[S]LK[V]MF[O]	regpol-psy	2	6	De kopjes koffie bevallen een personeelsafdeling .
+VF[O]LK[V]MF[S]	regpol-psy	5	2	Een personeelsafdeling bevallen de kopjes koffie .
+VF[ADV]LK[V]MF[SO]	regpol-psy	4	7	Daarom bevallen de kopjes koffie een personeelsafdeling .
+LK[V]MF[SO]	regpol-psy	3	6	Bevallen de kopjes koffie een personeelsafdeling ?
+MF[SO]VC[V]	regpol-psy	3	6	Omdat de kopjes koffie een personeelsafdeling bevallen .
 VF[S]LK[V]MF[O]	regpol-psy	2	5	De romans frustreren een instituut .
 VF[O]LK[V]MF[S]	regpol-psy	5	2	Een instituut frustreren de romans .
 VF[ADV]LK[V]MF[SO]	regpol-psy	4	6	Daarom frustreren de romans een instituut .
@@ -5549,26 +5549,26 @@ VF[O]LK[V]MF[S]	snp-psy	4	1	Clooney motiveren de oplossingen .
 VF[ADV]LK[V]MF[SO]	snp-psy	4	5	Daarom motiveren de oplossingen Clooney .
 LK[V]MF[SO]	snp-psy	3	4	Motiveren de oplossingen Clooney ?
 MF[SO]VC[V]	snp-psy	3	4	Omdat de oplossingen Clooney motiveren .
-VF[S]LK[V]MF[O]	snp-psy	2	5	De tijdschriften beangstigen Han Voskuil .
-VF[O]LK[V]MF[S]	snp-psy	5	2	Han Voskuil beangstigen de tijdschriften .
-VF[ADV]LK[V]MF[SO]	snp-psy	4	6	Daarom beangstigen de tijdschriften Han Voskuil .
-LK[V]MF[SO]	snp-psy	3	5	Beangstigen de tijdschriften Han Voskuil ?
-MF[SO]VC[V]	snp-psy	3	5	Omdat de tijdschriften Han Voskuil beangstigen .
+VF[S]LK[V]MF[O]	snp-psy	2	4	De tijdschriften beangstigen Han Voskuil .
+VF[O]LK[V]MF[S]	snp-psy	5	1	Han Voskuil beangstigen de tijdschriften .
+VF[ADV]LK[V]MF[SO]	snp-psy	4	5	Daarom beangstigen de tijdschriften Han Voskuil .
+LK[V]MF[SO]	snp-psy	3	4	Beangstigen de tijdschriften Han Voskuil ?
+MF[SO]VC[V]	snp-psy	3	4	Omdat de tijdschriften Han Voskuil beangstigen .
 VF[S]LK[V]MF[O]	snp-psy	2	4	De baarden verbazen Gillette .
 VF[O]LK[V]MF[S]	snp-psy	4	1	Gillette verbazen de baarden .
 VF[ADV]LK[V]MF[SO]	snp-psy	4	5	Daarom verbazen de baarden Gillette .
 LK[V]MF[SO]	snp-psy	3	4	Verbazen de baarden Gillette ?
 MF[SO]VC[V]	snp-psy	3	4	Omdat de baarden Gillette verbazen .
-VF[S]LK[V]MF[O]	snp-psy	3	6	De kopjes koffie bevallen NPO 1 .
-VF[O]LK[V]MF[S]	snp-psy	6	2	NPO 1 bevallen de kopjes koffie .
-VF[ADV]LK[V]MF[SO]	snp-psy	5	7	Daarom bevallen de kopjes koffie NPO 1 .
-LK[V]MF[SO]	snp-psy	4	6	Bevallen de kopjes koffie NPO 1 ?
-MF[SO]VC[V]	snp-psy	4	6	Omdat de kopjes koffie NPO 1 bevallen .
-VF[S]LK[V]MF[O]	snp-psy	2	5	De romans frustreren Staf Coppens .
-VF[O]LK[V]MF[S]	snp-psy	5	2	Staf Coppens frustreren de romans .
-VF[ADV]LK[V]MF[SO]	snp-psy	4	6	Daarom frustreren de romans Staf Coppens .
-LK[V]MF[SO]	snp-psy	3	5	Frustreren de romans Staf Coppens ?
-MF[SO]VC[V]	snp-psy	3	5	Omdat de romans Staf Coppens frustreren .
+VF[S]LK[V]MF[O]	snp-psy	2	5	De kopjes koffie bevallen NPO 1 .
+VF[O]LK[V]MF[S]	snp-psy	5	1	NPO 1 bevallen de kopjes koffie .
+VF[ADV]LK[V]MF[SO]	snp-psy	4	6	Daarom bevallen de kopjes koffie NPO 1 .
+LK[V]MF[SO]	snp-psy	3	5	Bevallen de kopjes koffie NPO 1 ?
+MF[SO]VC[V]	snp-psy	3	5	Omdat de kopjes koffie NPO 1 bevallen .
+VF[S]LK[V]MF[O]	snp-psy	2	4	De romans frustreren Staf Coppens .
+VF[O]LK[V]MF[S]	snp-psy	5	1	Staf Coppens frustreren de romans .
+VF[ADV]LK[V]MF[SO]	snp-psy	4	5	Daarom frustreren de romans Staf Coppens .
+LK[V]MF[SO]	snp-psy	3	4	Frustreren de romans Staf Coppens ?
+MF[SO]VC[V]	snp-psy	3	4	Omdat de romans Staf Coppens frustreren .
 VF[S]LK[V]MF[O]	snp-psy	2	4	De onderhandelingen agiteren Rutte .
 VF[O]LK[V]MF[S]	snp-psy	4	1	Rutte agiteren de onderhandelingen .
 VF[ADV]LK[V]MF[SO]	snp-psy	4	5	Daarom agiteren de onderhandelingen Rutte .
@@ -5594,11 +5594,11 @@ VF[O]LK[V]MF[S]	snp-psy	4	1	Nijmegen amuseren de toeren .
 VF[ADV]LK[V]MF[SO]	snp-psy	4	5	Daarom amuseren de toeren Nijmegen .
 LK[V]MF[SO]	snp-psy	3	4	Amuseren de toeren Nijmegen ?
 MF[SO]VC[V]	snp-psy	3	4	Omdat de toeren Nijmegen amuseren .
-VF[S]LK[V]MF[O]	snp-psy	2	5	De constructies vermaken Essent NV .
-VF[O]LK[V]MF[S]	snp-psy	5	2	Essent NV vermaken de constructies .
-VF[ADV]LK[V]MF[SO]	snp-psy	4	6	Daarom vermaken de constructies Essent NV .
-LK[V]MF[SO]	snp-psy	3	5	Vermaken de constructies Essent NV ?
-MF[SO]VC[V]	snp-psy	3	5	Omdat de constructies Essent NV vermaken .
+VF[S]LK[V]MF[O]	snp-psy	2	4	De constructies vermaken Essent NV .
+VF[O]LK[V]MF[S]	snp-psy	5	1	Essent NV vermaken de constructies .
+VF[ADV]LK[V]MF[SO]	snp-psy	4	5	Daarom vermaken de constructies Essent NV .
+LK[V]MF[SO]	snp-psy	3	4	Vermaken de constructies Essent NV ?
+MF[SO]VC[V]	snp-psy	3	4	Omdat de constructies Essent NV vermaken .
 VF[S]LK[V]MF[O]	semas-psy	2	4	De zwakke verveelt sterken .
 VF[O]LK[V]MF[S]	semas-psy	4	1	Sterken verveelt de zwakke .
 VF[ADV]LK[V]MF[SO]	semas-psy	4	5	Daarom verveelt de zwakke sterken .
@@ -5714,11 +5714,11 @@ VF[O]LK[V]MF[S]	noref-psy	4	1	Niemand verbazen de baarden .
 VF[ADV]LK[V]MF[SO]	noref-psy	4	5	Daarom verbazen de baarden niemand .
 LK[V]MF[SO]	noref-psy	3	4	Verbazen de baarden niemand ?
 MF[SO]VC[V]	noref-psy	3	4	Omdat de baarden niemand verbazen .
-VF[S]LK[V]MF[O]	noref-psy	3	5	De kopjes koffie bevallen niemand .
-VF[O]LK[V]MF[S]	noref-psy	5	1	Niemand bevallen de kopjes koffie .
-VF[ADV]LK[V]MF[SO]	noref-psy	5	6	Daarom bevallen de kopjes koffie niemand .
-LK[V]MF[SO]	noref-psy	4	5	Bevallen de kopjes koffie niemand ?
-MF[SO]VC[V]	noref-psy	4	5	Omdat de kopjes koffie niemand bevallen .
+VF[S]LK[V]MF[O]	noref-psy	2	5	De kopjes koffie bevallen niemand .
+VF[O]LK[V]MF[S]	noref-psy	4	1	Niemand bevallen de kopjes koffie .
+VF[ADV]LK[V]MF[SO]	noref-psy	4	6	Daarom bevallen de kopjes koffie niemand .
+LK[V]MF[SO]	noref-psy	3	5	Bevallen de kopjes koffie niemand ?
+MF[SO]VC[V]	noref-psy	3	5	Omdat de kopjes koffie niemand bevallen .
 VF[S]LK[V]MF[O]	noref-psy	2	4	De romans frustreren niemand .
 VF[O]LK[V]MF[S]	noref-psy	4	1	Niemand frustreren de romans .
 VF[ADV]LK[V]MF[SO]	noref-psy	4	5	Daarom frustreren de romans niemand .
@@ -6364,11 +6364,11 @@ VF[O]LK[V]MF[S]	snp-vlight	3	1	Vragen stelt Clooney .
 VF[ADV]LK[V]MF[SO]	snp-vlight	3	4	Daarom stelt Clooney vragen .
 LK[V]MF[SO]	snp-vlight	2	3	Stelt Clooney vragen ?
 MF[SO]VC[V]	snp-vlight	2	3	Omdat Clooney vragen stelt .
-VF[S]LK[V]MF[O]	snp-vlight	2	4	Han Voskuil doet verzoeken .
-VF[O]LK[V]MF[S]	snp-vlight	4	1	Verzoeken doet Han Voskuil .
-VF[ADV]LK[V]MF[SO]	snp-vlight	4	5	Daarom doet Han Voskuil verzoeken .
-LK[V]MF[SO]	snp-vlight	3	4	Doet Han Voskuil verzoeken ?
-MF[SO]VC[V]	snp-vlight	3	4	Omdat Han Voskuil verzoeken doet .
+VF[S]LK[V]MF[O]	snp-vlight	1	4	Han Voskuil doet verzoeken .
+VF[O]LK[V]MF[S]	snp-vlight	3	1	Verzoeken doet Han Voskuil .
+VF[ADV]LK[V]MF[SO]	snp-vlight	3	5	Daarom doet Han Voskuil verzoeken .
+LK[V]MF[SO]	snp-vlight	2	4	Doet Han Voskuil verzoeken ?
+MF[SO]VC[V]	snp-vlight	2	4	Omdat Han Voskuil verzoeken doet .
 VF[S]LK[V]MF[O]	snp-vlight	1	3	Rutte maakt opmerkingen .
 VF[O]LK[V]MF[S]	snp-vlight	3	1	Opmerkingen maakt Rutte .
 VF[ADV]LK[V]MF[SO]	snp-vlight	3	4	Daarom maakt Rutte opmerkingen .
@@ -6384,11 +6384,11 @@ VF[O]LK[V]MF[S]	snp-vlight	3	1	Wensen vervult Nijmegen .
 VF[ADV]LK[V]MF[SO]	snp-vlight	3	4	Daarom vervult Nijmegen wensen .
 LK[V]MF[SO]	snp-vlight	2	3	Vervult Nijmegen wensen ?
 MF[SO]VC[V]	snp-vlight	2	3	Omdat Nijmegen wensen vervult .
-VF[S]LK[V]MF[O]	snp-vlight	2	5	Essent NV bepaalt zijn houdingen .
-VF[O]LK[V]MF[S]	snp-vlight	5	2	Zijn houdingen bepaalt Essent NV .
-VF[ADV]LK[V]MF[SO]	snp-vlight	4	6	Daarom bepaalt Essent NV zijn houdingen .
-LK[V]MF[SO]	snp-vlight	3	5	Bepaalt Essent NV zijn houdingen ?
-MF[SO]VC[V]	snp-vlight	3	5	Omdat Essent NV zijn houdingen bepaalt .
+VF[S]LK[V]MF[O]	snp-vlight	1	5	Essent NV bepaalt zijn houdingen .
+VF[O]LK[V]MF[S]	snp-vlight	4	2	Zijn houdingen bepaalt Essent NV .
+VF[ADV]LK[V]MF[SO]	snp-vlight	3	6	Daarom bepaalt Essent NV zijn houdingen .
+LK[V]MF[SO]	snp-vlight	2	5	Bepaalt Essent NV zijn houdingen ?
+MF[SO]VC[V]	snp-vlight	2	5	Omdat Essent NV zijn houdingen bepaalt .
 VF[S]LK[V]MF[O]	base-syn	2	4	De generaal beraamt aanvallen .
 VF[O]LK[V]MF[S]	base-syn	4	1	Aanvallen beraamt de generaal .
 VF[ADV]LK[V]MF[SO]	base-syn	4	5	Daarom beraamt de generaal aanvallen .
@@ -6429,11 +6429,11 @@ VF[O]LK[V]MF[S]	base-syn	4	1	Baarden knipt de man .
 VF[ADV]LK[V]MF[SO]	base-syn	4	5	Daarom knipt de man baarden .
 LK[V]MF[SO]	base-syn	3	4	Knipt de man baarden ?
 MF[SO]VC[V]	base-syn	3	4	Omdat de man baarden knipt .
-VF[S]LK[V]MF[O]	base-syn	2	6	De moeders slurpen een kopje koffie .
-VF[O]LK[V]MF[S]	base-syn	6	3	Een kopje koffie slurpen de moeders .
-VF[ADV]LK[V]MF[SO]	base-syn	4	7	Daarom slurpen de moeders een kopje koffie .
-LK[V]MF[SO]	base-syn	3	6	Slurpen de moeders een kopje koffie ?
-MF[SO]VC[V]	base-syn	3	6	Omdat de moeders een kopje koffie slurpen .
+VF[S]LK[V]MF[O]	base-syn	2	5	De moeders slurpen een kopje koffie .
+VF[O]LK[V]MF[S]	base-syn	6	2	Een kopje koffie slurpen de moeders .
+VF[ADV]LK[V]MF[SO]	base-syn	4	6	Daarom slurpen de moeders een kopje koffie .
+LK[V]MF[SO]	base-syn	3	5	Slurpen de moeders een kopje koffie ?
+MF[SO]VC[V]	base-syn	3	5	Omdat de moeders een kopje koffie slurpen .
 VF[S]LK[V]MF[O]	base-syn	2	4	De schrijver pent romans .
 VF[O]LK[V]MF[S]	base-syn	4	1	Romans pent de schrijver .
 VF[ADV]LK[V]MF[SO]	base-syn	4	5	Daarom pent de schrijver romans .
@@ -6504,11 +6504,11 @@ VF[O]LK[V]MF[S]	amb-syn	4	1	Baarden knippen de mannen .
 VF[ADV]LK[V]MF[SO]	amb-syn	4	5	Daarom knippen de mannen baarden .
 LK[V]MF[SO]	amb-syn	3	4	Knippen de mannen baarden ?
 MF[SO]VC[V]	amb-syn	3	4	Omdat de mannen baarden knippen .
-VF[S]LK[V]MF[O]	amb-syn	2	5	De moeders slurpen kopjes koffie .
-VF[O]LK[V]MF[S]	amb-syn	5	2	Kopjes koffie slurpen de moeders .
-VF[ADV]LK[V]MF[SO]	amb-syn	4	6	Daarom slurpen de moeders kopjes koffie .
-LK[V]MF[SO]	amb-syn	3	5	Slurpen de moeders kopjes koffie ?
-MF[SO]VC[V]	amb-syn	3	5	Omdat de moeders kopjes koffie slurpen .
+VF[S]LK[V]MF[O]	amb-syn	2	4	De moeders slurpen kopjes koffie .
+VF[O]LK[V]MF[S]	amb-syn	5	1	Kopjes koffie slurpen de moeders .
+VF[ADV]LK[V]MF[SO]	amb-syn	4	5	Daarom slurpen de moeders kopjes koffie .
+LK[V]MF[SO]	amb-syn	3	4	Slurpen de moeders kopjes koffie ?
+MF[SO]VC[V]	amb-syn	3	4	Omdat de moeders kopjes koffie slurpen .
 VF[S]LK[V]MF[O]	amb-syn	2	4	De schrijvers pennen romans .
 VF[O]LK[V]MF[S]	amb-syn	4	1	Romans pennen de schrijvers .
 VF[ADV]LK[V]MF[SO]	amb-syn	4	5	Daarom pennen de schrijvers romans .
@@ -6579,11 +6579,11 @@ VF[O]LK[V]MF[S]	aux-syn	4	1	Baarden zal de man knippen .
 VF[ADV]LK[V]MF[SO]	aux-syn	4	5	Daarom zal de man baarden knippen .
 LK[V]MF[SO]	aux-syn	3	4	Zal de man baarden knippen ?
 MF[SO]VC[V]	aux-syn	3	4	Omdat de man baarden zal knippen .
-VF[S]LK[V]MF[O]	aux-syn	2	6	De moeders zullen een kopje koffie slurpen .
-VF[O]LK[V]MF[S]	aux-syn	6	3	Een kopje koffie zullen de moeders slurpen .
-VF[ADV]LK[V]MF[SO]	aux-syn	4	7	Daarom zullen de moeders een kopje koffie slurpen .
-LK[V]MF[SO]	aux-syn	3	6	Zullen de moeders een kopje koffie slurpen ?
-MF[SO]VC[V]	aux-syn	3	6	Omdat de moeders een kopje koffie zullen slurpen .
+VF[S]LK[V]MF[O]	aux-syn	2	5	De moeders zullen een kopje koffie slurpen .
+VF[O]LK[V]MF[S]	aux-syn	6	2	Een kopje koffie zullen de moeders slurpen .
+VF[ADV]LK[V]MF[SO]	aux-syn	4	6	Daarom zullen de moeders een kopje koffie slurpen .
+LK[V]MF[SO]	aux-syn	3	5	Zullen de moeders een kopje koffie slurpen ?
+MF[SO]VC[V]	aux-syn	3	5	Omdat de moeders een kopje koffie zullen slurpen .
 VF[S]LK[V]MF[O]	aux-syn	2	4	De schrijver zal romans pennen .
 VF[O]LK[V]MF[S]	aux-syn	4	1	Romans zal de schrijver pennen .
 VF[ADV]LK[V]MF[SO]	aux-syn	4	5	Daarom zal de schrijver romans pennen .
@@ -6654,11 +6654,11 @@ VF[O]LK[V]MF[S]	spron-syn	3	1	Baarden knipt hij .
 VF[ADV]LK[V]MF[SO]	spron-syn	3	4	Daarom knipt hij baarden .
 LK[V]MF[SO]	spron-syn	2	3	Knipt hij baarden ?
 MF[SO]VC[V]	spron-syn	2	3	Omdat hij baarden knipt .
-VF[S]LK[V]MF[O]	spron-syn	1	5	Jullie slurpen een kopje koffie .
-VF[O]LK[V]MF[S]	spron-syn	5	3	Een kopje koffie slurpen jullie .
-VF[ADV]LK[V]MF[SO]	spron-syn	3	6	Daarom slurpen jullie een kopje koffie .
-LK[V]MF[SO]	spron-syn	2	5	Slurpen jullie een kopje koffie ?
-MF[SO]VC[V]	spron-syn	2	5	Omdat jullie een kopje koffie slurpen .
+VF[S]LK[V]MF[O]	spron-syn	1	4	Jullie slurpen een kopje koffie .
+VF[O]LK[V]MF[S]	spron-syn	5	2	Een kopje koffie slurpen jullie .
+VF[ADV]LK[V]MF[SO]	spron-syn	3	5	Daarom slurpen jullie een kopje koffie .
+LK[V]MF[SO]	spron-syn	2	4	Slurpen jullie een kopje koffie ?
+MF[SO]VC[V]	spron-syn	2	4	Omdat jullie een kopje koffie slurpen .
 VF[S]LK[V]MF[O]	spron-syn	1	3	Hij pent romans .
 VF[O]LK[V]MF[S]	spron-syn	3	1	Romans pent hij .
 VF[ADV]LK[V]MF[SO]	spron-syn	3	4	Daarom pent hij romans .
@@ -6804,11 +6804,11 @@ VF[O]LK[V]MF[S]	oneg-syn	5	2	Geen baarden knipt de man .
 VF[ADV]LK[V]MF[SO]	oneg-syn	4	6	Daarom knipt de man geen baarden .
 LK[V]MF[SO]	oneg-syn	3	5	Knipt de man geen baarden ?
 MF[SO]VC[V]	oneg-syn	3	5	Omdat de man geen baarden knipt .
-VF[S]LK[V]MF[O]	oneg-syn	2	6	De moeders slurpen geen kopje koffie .
-VF[O]LK[V]MF[S]	oneg-syn	6	3	Geen kopje koffie slurpen de moeders .
-VF[ADV]LK[V]MF[SO]	oneg-syn	4	7	Daarom slurpen de moeders geen kopje koffie .
-LK[V]MF[SO]	oneg-syn	3	6	Slurpen de moeders geen kopje koffie ?
-MF[SO]VC[V]	oneg-syn	3	6	Omdat de moeders geen kopje koffie slurpen .
+VF[S]LK[V]MF[O]	oneg-syn	2	5	De moeders slurpen geen kopje koffie .
+VF[O]LK[V]MF[S]	oneg-syn	6	2	Geen kopje koffie slurpen de moeders .
+VF[ADV]LK[V]MF[SO]	oneg-syn	4	6	Daarom slurpen de moeders geen kopje koffie .
+LK[V]MF[SO]	oneg-syn	3	5	Slurpen de moeders geen kopje koffie ?
+MF[SO]VC[V]	oneg-syn	3	5	Omdat de moeders geen kopje koffie slurpen .
 VF[S]LK[V]MF[O]	oneg-syn	2	5	De schrijver pent geen romans .
 VF[O]LK[V]MF[S]	oneg-syn	5	2	Geen romans pent de schrijver .
 VF[ADV]LK[V]MF[SO]	oneg-syn	4	6	Daarom pent de schrijver geen romans .
@@ -6879,11 +6879,11 @@ VF[O]LK[V]MF[S]	pp-syn	4	1	Baarden knipt de man gedurende een week .
 VF[ADV]LK[V]MF[SO]	pp-syn	4	8	Daarom knipt de man gedurende een week baarden .
 LK[V]MF[SO]	pp-syn	3	7	Knipt de man gedurende een week baarden ?
 MF[SO]VC[V]	pp-syn	3	7	Omdat de man gedurende een week baarden knipt .
-VF[S]LK[V]MF[O]	pp-syn	2	9	De moeders slurpen over een week een kopje koffie .
-VF[O]LK[V]MF[S]	pp-syn	6	3	Een kopje koffie slurpen de moeders over een week .
-VF[ADV]LK[V]MF[SO]	pp-syn	4	10	Daarom slurpen de moeders over een week een kopje koffie .
-LK[V]MF[SO]	pp-syn	3	9	Slurpen de moeders over een week een kopje koffie ?
-MF[SO]VC[V]	pp-syn	3	9	Omdat de moeders over een week een kopje koffie slurpen .
+VF[S]LK[V]MF[O]	pp-syn	2	8	De moeders slurpen over een week een kopje koffie .
+VF[O]LK[V]MF[S]	pp-syn	6	2	Een kopje koffie slurpen de moeders over een week .
+VF[ADV]LK[V]MF[SO]	pp-syn	4	9	Daarom slurpen de moeders over een week een kopje koffie .
+LK[V]MF[SO]	pp-syn	3	8	Slurpen de moeders over een week een kopje koffie ?
+MF[SO]VC[V]	pp-syn	3	8	Omdat de moeders over een week een kopje koffie slurpen .
 VF[S]LK[V]MF[O]	pp-syn	2	7	De schrijver pent in een week romans .
 VF[O]LK[V]MF[S]	pp-syn	4	1	Romans pent de schrijver in een week .
 VF[ADV]LK[V]MF[SO]	pp-syn	4	8	Daarom pent de schrijver in een week romans .
@@ -7179,11 +7179,11 @@ VF[O]LK[V]MF[S]	regpol-syn	4	1	Baarden knipt het kapsalon .
 VF[ADV]LK[V]MF[SO]	regpol-syn	4	5	Daarom knipt het kapsalon baarden .
 LK[V]MF[SO]	regpol-syn	3	4	Knipt het kapsalon baarden ?
 MF[SO]VC[V]	regpol-syn	3	4	Omdat het kapsalon baarden knipt .
-VF[S]LK[V]MF[O]	regpol-syn	2	5	De redactie slurpt kopjes koffie .
-VF[O]LK[V]MF[S]	regpol-syn	5	2	Kopjes koffie slurpt de redactie .
-VF[ADV]LK[V]MF[SO]	regpol-syn	4	6	Daarom slurpt de redactie kopjes koffie .
-LK[V]MF[SO]	regpol-syn	3	5	Slurpt de redactie kopjes koffie ?
-MF[SO]VC[V]	regpol-syn	3	5	Omdat de redactie kopjes koffie slurpt .
+VF[S]LK[V]MF[O]	regpol-syn	2	4	De redactie slurpt kopjes koffie .
+VF[O]LK[V]MF[S]	regpol-syn	5	1	Kopjes koffie slurpt de redactie .
+VF[ADV]LK[V]MF[SO]	regpol-syn	4	5	Daarom slurpt de redactie kopjes koffie .
+LK[V]MF[SO]	regpol-syn	3	4	Slurpt de redactie kopjes koffie ?
+MF[SO]VC[V]	regpol-syn	3	4	Omdat de redactie kopjes koffie slurpt .
 VF[S]LK[V]MF[O]	regpol-syn	2	4	Het instituut pent romans .
 VF[O]LK[V]MF[S]	regpol-syn	4	1	Romans pent het instituut .
 VF[ADV]LK[V]MF[SO]	regpol-syn	4	5	Daarom pent het instituut romans .
@@ -7229,21 +7229,21 @@ VF[O]LK[V]MF[S]	snp-syn	3	1	Opnames dubt Mercedes .
 VF[ADV]LK[V]MF[SO]	snp-syn	3	4	Daarom dubt Mercedes opnames .
 LK[V]MF[SO]	snp-syn	2	3	Dubt Mercedes opnames ?
 MF[SO]VC[V]	snp-syn	2	3	Omdat Mercedes opnames dubt .
-VF[S]LK[V]MF[O]	snp-syn	2	4	NPO 1 ensceneert droombruiloften .
-VF[O]LK[V]MF[S]	snp-syn	4	1	Droombruiloften ensceneert NPO 1 .
-VF[ADV]LK[V]MF[SO]	snp-syn	4	5	Daarom ensceneert NPO 1 droombruiloften .
-LK[V]MF[SO]	snp-syn	3	4	Ensceneert NPO 1 droombruiloften ?
-MF[SO]VC[V]	snp-syn	3	4	Omdat NPO 1 droombruiloften ensceneert .
+VF[S]LK[V]MF[O]	snp-syn	1	4	NPO 1 ensceneert droombruiloften .
+VF[O]LK[V]MF[S]	snp-syn	3	1	Droombruiloften ensceneert NPO 1 .
+VF[ADV]LK[V]MF[SO]	snp-syn	3	5	Daarom ensceneert NPO 1 droombruiloften .
+LK[V]MF[SO]	snp-syn	2	4	Ensceneert NPO 1 droombruiloften ?
+MF[SO]VC[V]	snp-syn	2	4	Omdat NPO 1 droombruiloften ensceneert .
 VF[S]LK[V]MF[O]	snp-syn	1	3	Degas sloopt kunstwerken .
 VF[O]LK[V]MF[S]	snp-syn	3	1	Kunstwerken sloopt Degas .
 VF[ADV]LK[V]MF[SO]	snp-syn	3	4	Daarom sloopt Degas kunstwerken .
 LK[V]MF[SO]	snp-syn	2	3	Sloopt Degas kunstwerken ?
 MF[SO]VC[V]	snp-syn	2	3	Omdat Degas kunstwerken sloopt .
-VF[S]LK[V]MF[O]	snp-syn	2	4	Staf Coppens raadt oplossingen .
-VF[O]LK[V]MF[S]	snp-syn	4	1	Oplossingen raadt Staf Coppens .
-VF[ADV]LK[V]MF[SO]	snp-syn	4	5	Daarom raadt Staf Coppens oplossingen .
-LK[V]MF[SO]	snp-syn	3	4	Raadt Staf Coppens oplossingen ?
-MF[SO]VC[V]	snp-syn	3	4	Omdat Staf Coppens oplossingen raadt .
+VF[S]LK[V]MF[O]	snp-syn	1	4	Staf Coppens raadt oplossingen .
+VF[O]LK[V]MF[S]	snp-syn	3	1	Oplossingen raadt Staf Coppens .
+VF[ADV]LK[V]MF[SO]	snp-syn	3	5	Daarom raadt Staf Coppens oplossingen .
+LK[V]MF[SO]	snp-syn	2	4	Raadt Staf Coppens oplossingen ?
+MF[SO]VC[V]	snp-syn	2	4	Omdat Staf Coppens oplossingen raadt .
 VF[S]LK[V]MF[O]	snp-syn	1	3	Harry koopt tijdschriften .
 VF[O]LK[V]MF[S]	snp-syn	3	1	Tijdschriften koopt Harry .
 VF[ADV]LK[V]MF[SO]	snp-syn	3	4	Daarom koopt Harry tijdschriften .
@@ -7254,16 +7254,16 @@ VF[O]LK[V]MF[S]	snp-syn	3	1	Baarden knipt Gillette .
 VF[ADV]LK[V]MF[SO]	snp-syn	3	4	Daarom knipt Gillette baarden .
 LK[V]MF[SO]	snp-syn	2	3	Knipt Gillette baarden ?
 MF[SO]VC[V]	snp-syn	2	3	Omdat Gillette baarden knipt .
-VF[S]LK[V]MF[O]	snp-syn	1	4	Clooney slurpt kopjes koffie .
-VF[O]LK[V]MF[S]	snp-syn	4	2	Kopjes koffie slurpt Clooney .
-VF[ADV]LK[V]MF[SO]	snp-syn	3	5	Daarom slurpt Clooney kopjes koffie .
-LK[V]MF[SO]	snp-syn	2	4	Slurpt Clooney kopjes koffie ?
-MF[SO]VC[V]	snp-syn	2	4	Omdat Clooney kopjes koffie slurpt .
-VF[S]LK[V]MF[O]	snp-syn	2	4	Han Voskuil pent romans .
-VF[O]LK[V]MF[S]	snp-syn	4	1	Romans pent Han Voskuil .
-VF[ADV]LK[V]MF[SO]	snp-syn	4	5	Daarom pent Han Voskuil romans .
-LK[V]MF[SO]	snp-syn	3	4	Pent Han Voskuil romans ?
-MF[SO]VC[V]	snp-syn	3	4	Omdat Han Voskuil romans pent .
+VF[S]LK[V]MF[O]	snp-syn	1	3	Clooney slurpt kopjes koffie .
+VF[O]LK[V]MF[S]	snp-syn	4	1	Kopjes koffie slurpt Clooney .
+VF[ADV]LK[V]MF[SO]	snp-syn	3	4	Daarom slurpt Clooney kopjes koffie .
+LK[V]MF[SO]	snp-syn	2	3	Slurpt Clooney kopjes koffie ?
+MF[SO]VC[V]	snp-syn	2	3	Omdat Clooney kopjes koffie slurpt .
+VF[S]LK[V]MF[O]	snp-syn	1	4	Han Voskuil pent romans .
+VF[O]LK[V]MF[S]	snp-syn	3	1	Romans pent Han Voskuil .
+VF[ADV]LK[V]MF[SO]	snp-syn	3	5	Daarom pent Han Voskuil romans .
+LK[V]MF[SO]	snp-syn	2	4	Pent Han Voskuil romans ?
+MF[SO]VC[V]	snp-syn	2	4	Omdat Han Voskuil romans pent .
 VF[S]LK[V]MF[O]	snp-syn	1	3	Rutte start onderhandelingen .
 VF[O]LK[V]MF[S]	snp-syn	3	1	Onderhandelingen start Rutte .
 VF[ADV]LK[V]MF[SO]	snp-syn	3	4	Daarom start Rutte onderhandelingen .
@@ -7284,11 +7284,11 @@ VF[O]LK[V]MF[S]	snp-syn	3	1	Toeren behaalt Nijmegen .
 VF[ADV]LK[V]MF[SO]	snp-syn	3	4	Daarom behaalt Nijmegen toeren .
 LK[V]MF[SO]	snp-syn	2	3	Behaalt Nijmegen toeren ?
 MF[SO]VC[V]	snp-syn	2	3	Omdat Nijmegen toeren behaalt .
-VF[S]LK[V]MF[O]	snp-syn	2	4	Essent NV overziet constructies .
-VF[O]LK[V]MF[S]	snp-syn	4	1	Constructies overziet Essent NV .
-VF[ADV]LK[V]MF[SO]	snp-syn	4	5	Daarom overziet Essent NV constructies .
-LK[V]MF[SO]	snp-syn	3	4	Overziet Essent NV constructies ?
-MF[SO]VC[V]	snp-syn	3	4	Omdat Essent NV constructies overziet .
+VF[S]LK[V]MF[O]	snp-syn	1	4	Essent NV overziet constructies .
+VF[O]LK[V]MF[S]	snp-syn	3	1	Constructies overziet Essent NV .
+VF[ADV]LK[V]MF[SO]	snp-syn	3	5	Daarom overziet Essent NV constructies .
+LK[V]MF[SO]	snp-syn	2	4	Overziet Essent NV constructies ?
+MF[SO]VC[V]	snp-syn	2	4	Omdat Essent NV constructies overziet .
 VF[S]LK[V]MF[O]	semas-syn	2	5	De sterken behoeden een zwakke .
 VF[O]LK[V]MF[S]	semas-syn	5	2	Een zwakke behoeden de sterken .
 VF[ADV]LK[V]MF[SO]	semas-syn	4	6	Daarom behoeden de sterken een zwakke .
@@ -7479,11 +7479,11 @@ VF[O]LK[V]MF[S]	psy-syn	4	1	Mannen verbluft de baard .
 VF[ADV]LK[V]MF[SO]	psy-syn	4	5	Daarom verbluft de baard mannen .
 LK[V]MF[SO]	psy-syn	3	4	Verbluft de baard mannen ?
 MF[SO]VC[V]	psy-syn	3	4	Omdat de baard mannen verbluft .
-VF[S]LK[V]MF[O]	psy-syn	3	5	Het kopje koffie behaagt moeders .
-VF[O]LK[V]MF[S]	psy-syn	5	1	Moeders behaagt het kopje koffie .
-VF[ADV]LK[V]MF[SO]	psy-syn	5	6	Daarom behaagt het kopje koffie moeders .
-LK[V]MF[SO]	psy-syn	4	5	Behaagt het kopje koffie moeders ?
-MF[SO]VC[V]	psy-syn	4	5	Omdat het kopje koffie moeders behaagt .
+VF[S]LK[V]MF[O]	psy-syn	2	5	Het kopje koffie behaagt moeders .
+VF[O]LK[V]MF[S]	psy-syn	4	1	Moeders behaagt het kopje koffie .
+VF[ADV]LK[V]MF[SO]	psy-syn	4	6	Daarom behaagt het kopje koffie moeders .
+LK[V]MF[SO]	psy-syn	3	5	Behaagt het kopje koffie moeders ?
+MF[SO]VC[V]	psy-syn	3	5	Omdat het kopje koffie moeders behaagt .
 VF[S]LK[V]MF[O]	psy-syn	2	4	De roman demotiveert schrijvers .
 VF[O]LK[V]MF[S]	psy-syn	4	1	Schrijvers demotiveert de roman .
 VF[ADV]LK[V]MF[SO]	psy-syn	4	5	Daarom demotiveert de roman schrijvers .
@@ -7676,21 +7676,21 @@ VF[O]LK[V]MF[S]	pp-snp	3	1	Opnames synchroniseert Mercedes in een week .
 VF[ADV]LK[V]MF[SO]	pp-snp	3	7	Daarom synchroniseert Mercedes in een week opnames .
 LK[V]MF[SO]	pp-snp	2	6	Synchroniseert Mercedes in een week opnames ?
 MF[SO]VC[V]	pp-snp	2	6	Omdat Mercedes in een week opnames synchroniseert .
-VF[S]LK[V]MF[O]	pp-snp	2	7	NPO 1 repeteert in een week droombruiloften .
-VF[O]LK[V]MF[S]	pp-snp	4	1	Droombruiloften repeteert NPO 1 in een week .
-VF[ADV]LK[V]MF[SO]	pp-snp	4	8	Daarom repeteert NPO 1 in een week droombruiloften .
-LK[V]MF[SO]	pp-snp	3	7	Repeteert NPO 1 in een week droombruiloften ?
-MF[SO]VC[V]	pp-snp	3	7	Omdat NPO 1 in een week droombruiloften repeteert .
+VF[S]LK[V]MF[O]	pp-snp	1	7	NPO 1 repeteert in een week droombruiloften .
+VF[O]LK[V]MF[S]	pp-snp	3	1	Droombruiloften repeteert NPO 1 in een week .
+VF[ADV]LK[V]MF[SO]	pp-snp	3	8	Daarom repeteert NPO 1 in een week droombruiloften .
+LK[V]MF[SO]	pp-snp	2	7	Repeteert NPO 1 in een week droombruiloften ?
+MF[SO]VC[V]	pp-snp	2	7	Omdat NPO 1 in een week droombruiloften repeteert .
 VF[S]LK[V]MF[O]	pp-snp	1	6	Degas vernielt gedurende een week kunstwerken .
 VF[O]LK[V]MF[S]	pp-snp	3	1	Kunstwerken vernielt Degas gedurende een week .
 VF[ADV]LK[V]MF[SO]	pp-snp	3	7	Daarom vernielt Degas gedurende een week kunstwerken .
 LK[V]MF[SO]	pp-snp	2	6	Vernielt Degas gedurende een week kunstwerken ?
 MF[SO]VC[V]	pp-snp	2	6	Omdat Degas gedurende een week kunstwerken vernielt .
-VF[S]LK[V]MF[O]	pp-snp	2	7	Staf Coppens verzint in een week oplossingen .
-VF[O]LK[V]MF[S]	pp-snp	4	1	Oplossingen verzint Staf Coppens in een week .
-VF[ADV]LK[V]MF[SO]	pp-snp	4	8	Daarom verzint Staf Coppens in een week oplossingen .
-LK[V]MF[SO]	pp-snp	3	7	Verzint Staf Coppens in een week oplossingen ?
-MF[SO]VC[V]	pp-snp	3	7	Omdat Staf Coppens in een week oplossingen verzint .
+VF[S]LK[V]MF[O]	pp-snp	1	7	Staf Coppens verzint in een week oplossingen .
+VF[O]LK[V]MF[S]	pp-snp	3	1	Oplossingen verzint Staf Coppens in een week .
+VF[ADV]LK[V]MF[SO]	pp-snp	3	8	Daarom verzint Staf Coppens in een week oplossingen .
+LK[V]MF[SO]	pp-snp	2	7	Verzint Staf Coppens in een week oplossingen ?
+MF[SO]VC[V]	pp-snp	2	7	Omdat Staf Coppens in een week oplossingen verzint .
 VF[S]LK[V]MF[O]	pp-snp	1	6	Harry bestelt in een week tijdschriften .
 VF[O]LK[V]MF[S]	pp-snp	3	1	Tijdschriften bestelt Harry in een week .
 VF[ADV]LK[V]MF[SO]	pp-snp	3	7	Daarom bestelt Harry in een week tijdschriften .
@@ -7701,16 +7701,16 @@ VF[O]LK[V]MF[S]	pp-snp	3	1	Baarden scheert Gillette gedurende een week .
 VF[ADV]LK[V]MF[SO]	pp-snp	3	7	Daarom scheert Gillette gedurende een week baarden .
 LK[V]MF[SO]	pp-snp	2	6	Scheert Gillette gedurende een week baarden ?
 MF[SO]VC[V]	pp-snp	2	6	Omdat Gillette gedurende een week baarden scheert .
-VF[S]LK[V]MF[O]	pp-snp	1	7	Clooney drinkt over een week kopjes koffie .
-VF[O]LK[V]MF[S]	pp-snp	4	2	Kopjes koffie drinkt Clooney over een week .
-VF[ADV]LK[V]MF[SO]	pp-snp	3	8	Daarom drinkt Clooney over een week kopjes koffie .
-LK[V]MF[SO]	pp-snp	2	7	Drinkt Clooney over een week kopjes koffie ?
-MF[SO]VC[V]	pp-snp	2	7	Omdat Clooney over een week kopjes koffie drinkt .
-VF[S]LK[V]MF[O]	pp-snp	2	7	Han Voskuil schrijft in een week romans .
-VF[O]LK[V]MF[S]	pp-snp	4	1	Romans schrijft Han Voskuil in een week .
-VF[ADV]LK[V]MF[SO]	pp-snp	4	8	Daarom schrijft Han Voskuil in een week romans .
-LK[V]MF[SO]	pp-snp	3	7	Schrijft Han Voskuil in een week romans ?
-MF[SO]VC[V]	pp-snp	3	7	Omdat Han Voskuil in een week romans schrijft .
+VF[S]LK[V]MF[O]	pp-snp	1	6	Clooney drinkt over een week kopjes koffie .
+VF[O]LK[V]MF[S]	pp-snp	4	1	Kopjes koffie drinkt Clooney over een week .
+VF[ADV]LK[V]MF[SO]	pp-snp	3	7	Daarom drinkt Clooney over een week kopjes koffie .
+LK[V]MF[SO]	pp-snp	2	6	Drinkt Clooney over een week kopjes koffie ?
+MF[SO]VC[V]	pp-snp	2	6	Omdat Clooney over een week kopjes koffie drinkt .
+VF[S]LK[V]MF[O]	pp-snp	1	7	Han Voskuil schrijft in een week romans .
+VF[O]LK[V]MF[S]	pp-snp	3	1	Romans schrijft Han Voskuil in een week .
+VF[ADV]LK[V]MF[SO]	pp-snp	3	8	Daarom schrijft Han Voskuil in een week romans .
+LK[V]MF[SO]	pp-snp	2	7	Schrijft Han Voskuil in een week romans ?
+MF[SO]VC[V]	pp-snp	2	7	Omdat Han Voskuil in een week romans schrijft .
 VF[S]LK[V]MF[O]	pp-snp	1	6	Rutte begint over een week onderhandelingen .
 VF[O]LK[V]MF[S]	pp-snp	3	1	Onderhandelingen begint Rutte over een week .
 VF[ADV]LK[V]MF[SO]	pp-snp	3	7	Daarom begint Rutte over een week onderhandelingen .
@@ -7731,11 +7731,11 @@ VF[O]LK[V]MF[S]	pp-snp	3	1	Toeren wint Nijmegen in een week .
 VF[ADV]LK[V]MF[SO]	pp-snp	3	7	Daarom wint Nijmegen in een week toeren .
 LK[V]MF[SO]	pp-snp	2	6	Wint Nijmegen in een week toeren ?
 MF[SO]VC[V]	pp-snp	2	6	Omdat Nijmegen in een week toeren wint .
-VF[S]LK[V]MF[O]	pp-snp	2	7	Essent NV regelt in een week constructies .
-VF[O]LK[V]MF[S]	pp-snp	4	1	Constructies regelt Essent NV in een week .
-VF[ADV]LK[V]MF[SO]	pp-snp	4	8	Daarom regelt Essent NV in een week constructies .
-LK[V]MF[SO]	pp-snp	3	7	Regelt Essent NV in een week constructies ?
-MF[SO]VC[V]	pp-snp	3	7	Omdat Essent NV in een week constructies regelt .
+VF[S]LK[V]MF[O]	pp-snp	1	7	Essent NV regelt in een week constructies .
+VF[O]LK[V]MF[S]	pp-snp	3	1	Constructies regelt Essent NV in een week .
+VF[ADV]LK[V]MF[SO]	pp-snp	3	8	Daarom regelt Essent NV in een week constructies .
+LK[V]MF[SO]	pp-snp	2	7	Regelt Essent NV in een week constructies ?
+MF[SO]VC[V]	pp-snp	2	7	Omdat Essent NV in een week constructies regelt .
 VF[S]LK[V]MF[O]	pp-noref	2	7	De generaals plannen in een week niets .
 VF[O]LK[V]MF[S]	pp-noref	4	1	Niets plannen de generaals in een week .
 VF[ADV]LK[V]MF[SO]	pp-noref	4	8	Daarom plannen de generaals in een week niets .
