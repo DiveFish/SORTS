@@ -30772,24 +30772,11 @@
 5	taz-Reporter	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-invan	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-invan	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-2	überfällt	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	0	verb	_	_
-3	einen	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-4	taz-Reporter	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	2	obj	_	_
-5	sie	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-
 1	Überfällt	_	_	_	order:LK[V]MF[SO]|props:spron-invan	0	verb	_	_
 2	sie	_	_	_	order:LK[V]MF[SO]|props:spron-invan	1	nsubj	_	_
 3	einen	_	_	_	order:LK[V]MF[SO]|props:spron-invan	_	_	_	_
 4	taz-Reporter	_	_	_	order:LK[V]MF[SO]|props:spron-invan	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:spron-invan	_	_	_	_
-
-1	Überfällt	_	_	_	order:LK[V]MF[OS]|props:spron-invan	0	verb	_	_
-2	einen	_	_	_	order:LK[V]MF[OS]|props:spron-invan	_	_	_	_
-3	taz-Reporter	_	_	_	order:LK[V]MF[OS]|props:spron-invan	1	obj	_	_
-4	sie	_	_	_	order:LK[V]MF[OS]|props:spron-invan	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:spron-invan	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:spron-invan	_	_	_	_
 2	sie	_	_	_	order:MF[SO]VC[V]|props:spron-invan	5	nsubj	_	_
@@ -30797,13 +30784,6 @@
 4	taz-Reporter	_	_	_	order:MF[SO]VC[V]|props:spron-invan	5	obj	_	_
 5	überfällt	_	_	_	order:MF[SO]VC[V]|props:spron-invan	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:spron-invan	_	_	_	_
-
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
-2	einen	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
-3	taz-Reporter	_	_	_	order:MF[OS]VC[V]|props:spron-invan	5	obj	_	_
-4	sie	_	_	_	order:MF[OS]VC[V]|props:spron-invan	5	nsubj	_	_
-5	überfällt	_	_	_	order:MF[OS]VC[V]|props:spron-invan	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
 
 1	Sie	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-invan	2	nsubj	_	_
 2	trifft	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-invan	0	verb	_	_
@@ -30824,24 +30804,11 @@
 5	Berufstätigen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-invan	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-invan	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-2	trifft	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	0	verb	_	_
-3	einen	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-4	Berufstätigen	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	2	obj	_	_
-5	sie	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-
 1	Trifft	_	_	_	order:LK[V]MF[SO]|props:spron-invan	0	verb	_	_
 2	sie	_	_	_	order:LK[V]MF[SO]|props:spron-invan	1	nsubj	_	_
 3	einen	_	_	_	order:LK[V]MF[SO]|props:spron-invan	_	_	_	_
 4	Berufstätigen	_	_	_	order:LK[V]MF[SO]|props:spron-invan	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:spron-invan	_	_	_	_
-
-1	Trifft	_	_	_	order:LK[V]MF[OS]|props:spron-invan	0	verb	_	_
-2	einen	_	_	_	order:LK[V]MF[OS]|props:spron-invan	_	_	_	_
-3	Berufstätigen	_	_	_	order:LK[V]MF[OS]|props:spron-invan	1	obj	_	_
-4	sie	_	_	_	order:LK[V]MF[OS]|props:spron-invan	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:spron-invan	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:spron-invan	_	_	_	_
 2	sie	_	_	_	order:MF[SO]VC[V]|props:spron-invan	5	nsubj	_	_
@@ -30849,13 +30816,6 @@
 4	Berufstätigen	_	_	_	order:MF[SO]VC[V]|props:spron-invan	5	obj	_	_
 5	trifft	_	_	_	order:MF[SO]VC[V]|props:spron-invan	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:spron-invan	_	_	_	_
-
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
-2	einen	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
-3	Berufstätigen	_	_	_	order:MF[OS]VC[V]|props:spron-invan	5	obj	_	_
-4	sie	_	_	_	order:MF[OS]VC[V]|props:spron-invan	5	nsubj	_	_
-5	trifft	_	_	_	order:MF[OS]VC[V]|props:spron-invan	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
 
 1	Er	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-invan	2	nsubj	_	_
 2	drückt	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-invan	0	verb	_	_
@@ -30876,24 +30836,11 @@
 5	Jogger	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-invan	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-invan	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-2	drückt	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	0	verb	_	_
-3	einen	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-4	Jogger	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	2	obj	_	_
-5	er	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-
 1	Drückt	_	_	_	order:LK[V]MF[SO]|props:spron-invan	0	verb	_	_
 2	er	_	_	_	order:LK[V]MF[SO]|props:spron-invan	1	nsubj	_	_
 3	einen	_	_	_	order:LK[V]MF[SO]|props:spron-invan	_	_	_	_
 4	Jogger	_	_	_	order:LK[V]MF[SO]|props:spron-invan	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:spron-invan	_	_	_	_
-
-1	Drückt	_	_	_	order:LK[V]MF[OS]|props:spron-invan	0	verb	_	_
-2	einen	_	_	_	order:LK[V]MF[OS]|props:spron-invan	_	_	_	_
-3	Jogger	_	_	_	order:LK[V]MF[OS]|props:spron-invan	1	obj	_	_
-4	er	_	_	_	order:LK[V]MF[OS]|props:spron-invan	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:spron-invan	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:spron-invan	_	_	_	_
 2	er	_	_	_	order:MF[SO]VC[V]|props:spron-invan	5	nsubj	_	_
@@ -30901,13 +30848,6 @@
 4	Jogger	_	_	_	order:MF[SO]VC[V]|props:spron-invan	5	obj	_	_
 5	drückt	_	_	_	order:MF[SO]VC[V]|props:spron-invan	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:spron-invan	_	_	_	_
-
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
-2	einen	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
-3	Jogger	_	_	_	order:MF[OS]VC[V]|props:spron-invan	5	obj	_	_
-4	er	_	_	_	order:MF[OS]VC[V]|props:spron-invan	5	nsubj	_	_
-5	drückt	_	_	_	order:MF[OS]VC[V]|props:spron-invan	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
 
 1	Sie	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-invan	2	nsubj	_	_
 2	drängt	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-invan	0	verb	_	_
@@ -30928,24 +30868,11 @@
 5	Informatiker	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-invan	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-invan	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-2	drängt	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	0	verb	_	_
-3	einen	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-4	Informatiker	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	2	obj	_	_
-5	sie	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-
 1	Drängt	_	_	_	order:LK[V]MF[SO]|props:spron-invan	0	verb	_	_
 2	sie	_	_	_	order:LK[V]MF[SO]|props:spron-invan	1	nsubj	_	_
 3	einen	_	_	_	order:LK[V]MF[SO]|props:spron-invan	_	_	_	_
 4	Informatiker	_	_	_	order:LK[V]MF[SO]|props:spron-invan	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:spron-invan	_	_	_	_
-
-1	Drängt	_	_	_	order:LK[V]MF[OS]|props:spron-invan	0	verb	_	_
-2	einen	_	_	_	order:LK[V]MF[OS]|props:spron-invan	_	_	_	_
-3	Informatiker	_	_	_	order:LK[V]MF[OS]|props:spron-invan	1	obj	_	_
-4	sie	_	_	_	order:LK[V]MF[OS]|props:spron-invan	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:spron-invan	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:spron-invan	_	_	_	_
 2	sie	_	_	_	order:MF[SO]VC[V]|props:spron-invan	5	nsubj	_	_
@@ -30953,13 +30880,6 @@
 4	Informatiker	_	_	_	order:MF[SO]VC[V]|props:spron-invan	5	obj	_	_
 5	drängt	_	_	_	order:MF[SO]VC[V]|props:spron-invan	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:spron-invan	_	_	_	_
-
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
-2	einen	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
-3	Informatiker	_	_	_	order:MF[OS]VC[V]|props:spron-invan	5	obj	_	_
-4	sie	_	_	_	order:MF[OS]VC[V]|props:spron-invan	5	nsubj	_	_
-5	drängt	_	_	_	order:MF[OS]VC[V]|props:spron-invan	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
 
 1	Er	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-invan	2	nsubj	_	_
 2	wärmt	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-invan	0	verb	_	_
@@ -30980,24 +30900,11 @@
 5	Wanderin	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-invan	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-invan	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-2	wärmt	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	0	verb	_	_
-3	eine	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-4	Wanderin	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	2	obj	_	_
-5	er	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-
 1	Wärmt	_	_	_	order:LK[V]MF[SO]|props:spron-invan	0	verb	_	_
 2	er	_	_	_	order:LK[V]MF[SO]|props:spron-invan	1	nsubj	_	_
 3	eine	_	_	_	order:LK[V]MF[SO]|props:spron-invan	_	_	_	_
 4	Wanderin	_	_	_	order:LK[V]MF[SO]|props:spron-invan	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:spron-invan	_	_	_	_
-
-1	Wärmt	_	_	_	order:LK[V]MF[OS]|props:spron-invan	0	verb	_	_
-2	eine	_	_	_	order:LK[V]MF[OS]|props:spron-invan	_	_	_	_
-3	Wanderin	_	_	_	order:LK[V]MF[OS]|props:spron-invan	1	obj	_	_
-4	er	_	_	_	order:LK[V]MF[OS]|props:spron-invan	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:spron-invan	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:spron-invan	_	_	_	_
 2	er	_	_	_	order:MF[SO]VC[V]|props:spron-invan	5	nsubj	_	_
@@ -31005,13 +30912,6 @@
 4	Wanderin	_	_	_	order:MF[SO]VC[V]|props:spron-invan	5	obj	_	_
 5	wärmt	_	_	_	order:MF[SO]VC[V]|props:spron-invan	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:spron-invan	_	_	_	_
-
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
-2	eine	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
-3	Wanderin	_	_	_	order:MF[OS]VC[V]|props:spron-invan	5	obj	_	_
-4	er	_	_	_	order:MF[OS]VC[V]|props:spron-invan	5	nsubj	_	_
-5	wärmt	_	_	_	order:MF[OS]VC[V]|props:spron-invan	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
 
 1	Er	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-invan	2	nsubj	_	_
 2	durchnässt	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-invan	0	verb	_	_
@@ -31032,24 +30932,11 @@
 5	Spaziergänger	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-invan	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-invan	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-2	durchnässt	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	0	verb	_	_
-3	einen	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-4	Spaziergänger	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	2	obj	_	_
-5	er	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-
 1	Durchnässt	_	_	_	order:LK[V]MF[SO]|props:spron-invan	0	verb	_	_
 2	er	_	_	_	order:LK[V]MF[SO]|props:spron-invan	1	nsubj	_	_
 3	einen	_	_	_	order:LK[V]MF[SO]|props:spron-invan	_	_	_	_
 4	Spaziergänger	_	_	_	order:LK[V]MF[SO]|props:spron-invan	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:spron-invan	_	_	_	_
-
-1	Durchnässt	_	_	_	order:LK[V]MF[OS]|props:spron-invan	0	verb	_	_
-2	einen	_	_	_	order:LK[V]MF[OS]|props:spron-invan	_	_	_	_
-3	Spaziergänger	_	_	_	order:LK[V]MF[OS]|props:spron-invan	1	obj	_	_
-4	er	_	_	_	order:LK[V]MF[OS]|props:spron-invan	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:spron-invan	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:spron-invan	_	_	_	_
 2	er	_	_	_	order:MF[SO]VC[V]|props:spron-invan	5	nsubj	_	_
@@ -31057,13 +30944,6 @@
 4	Spaziergänger	_	_	_	order:MF[SO]VC[V]|props:spron-invan	5	obj	_	_
 5	durchnässt	_	_	_	order:MF[SO]VC[V]|props:spron-invan	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:spron-invan	_	_	_	_
-
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
-2	einen	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
-3	Spaziergänger	_	_	_	order:MF[OS]VC[V]|props:spron-invan	5	obj	_	_
-4	er	_	_	_	order:MF[OS]VC[V]|props:spron-invan	5	nsubj	_	_
-5	durchnässt	_	_	_	order:MF[OS]VC[V]|props:spron-invan	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
 
 1	Sie	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-invan	2	nsubj	_	_
 2	begleitet	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-invan	0	verb	_	_
@@ -31084,24 +30964,11 @@
 5	Trucker	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-invan	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-invan	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-2	begleitet	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	0	verb	_	_
-3	einen	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-4	Trucker	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	2	obj	_	_
-5	sie	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-
 1	Begleitet	_	_	_	order:LK[V]MF[SO]|props:spron-invan	0	verb	_	_
 2	sie	_	_	_	order:LK[V]MF[SO]|props:spron-invan	1	nsubj	_	_
 3	einen	_	_	_	order:LK[V]MF[SO]|props:spron-invan	_	_	_	_
 4	Trucker	_	_	_	order:LK[V]MF[SO]|props:spron-invan	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:spron-invan	_	_	_	_
-
-1	Begleitet	_	_	_	order:LK[V]MF[OS]|props:spron-invan	0	verb	_	_
-2	einen	_	_	_	order:LK[V]MF[OS]|props:spron-invan	_	_	_	_
-3	Trucker	_	_	_	order:LK[V]MF[OS]|props:spron-invan	1	obj	_	_
-4	sie	_	_	_	order:LK[V]MF[OS]|props:spron-invan	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:spron-invan	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:spron-invan	_	_	_	_
 2	sie	_	_	_	order:MF[SO]VC[V]|props:spron-invan	5	nsubj	_	_
@@ -31109,13 +30976,6 @@
 4	Trucker	_	_	_	order:MF[SO]VC[V]|props:spron-invan	5	obj	_	_
 5	begleitet	_	_	_	order:MF[SO]VC[V]|props:spron-invan	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:spron-invan	_	_	_	_
-
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
-2	einen	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
-3	Trucker	_	_	_	order:MF[OS]VC[V]|props:spron-invan	5	obj	_	_
-4	sie	_	_	_	order:MF[OS]VC[V]|props:spron-invan	5	nsubj	_	_
-5	begleitet	_	_	_	order:MF[OS]VC[V]|props:spron-invan	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
 
 1	Sie	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-invan	2	nsubj	_	_
 2	schützen	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-invan	0	verb	_	_
@@ -31136,24 +30996,11 @@
 5	Bereisten	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-invan	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-invan	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-2	schützen	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	0	verb	_	_
-3	einen	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-4	Bereisten	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	2	obj	_	_
-5	sie	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-
 1	Schützen	_	_	_	order:LK[V]MF[SO]|props:spron-invan	0	verb	_	_
 2	sie	_	_	_	order:LK[V]MF[SO]|props:spron-invan	1	nsubj	_	_
 3	einen	_	_	_	order:LK[V]MF[SO]|props:spron-invan	_	_	_	_
 4	Bereisten	_	_	_	order:LK[V]MF[SO]|props:spron-invan	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:spron-invan	_	_	_	_
-
-1	Schützen	_	_	_	order:LK[V]MF[OS]|props:spron-invan	0	verb	_	_
-2	einen	_	_	_	order:LK[V]MF[OS]|props:spron-invan	_	_	_	_
-3	Bereisten	_	_	_	order:LK[V]MF[OS]|props:spron-invan	1	obj	_	_
-4	sie	_	_	_	order:LK[V]MF[OS]|props:spron-invan	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:spron-invan	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:spron-invan	_	_	_	_
 2	sie	_	_	_	order:MF[SO]VC[V]|props:spron-invan	5	nsubj	_	_
@@ -31161,13 +31008,6 @@
 4	Bereisten	_	_	_	order:MF[SO]VC[V]|props:spron-invan	5	obj	_	_
 5	schützen	_	_	_	order:MF[SO]VC[V]|props:spron-invan	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:spron-invan	_	_	_	_
-
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
-2	einen	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
-3	Bereisten	_	_	_	order:MF[OS]VC[V]|props:spron-invan	5	obj	_	_
-4	sie	_	_	_	order:MF[OS]VC[V]|props:spron-invan	5	nsubj	_	_
-5	schützen	_	_	_	order:MF[OS]VC[V]|props:spron-invan	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
 
 1	Sie	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-invan	2	nsubj	_	_
 2	betreffen	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-invan	0	verb	_	_
@@ -31188,24 +31028,11 @@
 5	Hausbesitzer	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-invan	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-invan	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-2	betreffen	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	0	verb	_	_
-3	einen	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-4	Hausbesitzer	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	2	obj	_	_
-5	sie	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-
 1	Betreffen	_	_	_	order:LK[V]MF[SO]|props:spron-invan	0	verb	_	_
 2	sie	_	_	_	order:LK[V]MF[SO]|props:spron-invan	1	nsubj	_	_
 3	einen	_	_	_	order:LK[V]MF[SO]|props:spron-invan	_	_	_	_
 4	Hausbesitzer	_	_	_	order:LK[V]MF[SO]|props:spron-invan	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:spron-invan	_	_	_	_
-
-1	Betreffen	_	_	_	order:LK[V]MF[OS]|props:spron-invan	0	verb	_	_
-2	einen	_	_	_	order:LK[V]MF[OS]|props:spron-invan	_	_	_	_
-3	Hausbesitzer	_	_	_	order:LK[V]MF[OS]|props:spron-invan	1	obj	_	_
-4	sie	_	_	_	order:LK[V]MF[OS]|props:spron-invan	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:spron-invan	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:spron-invan	_	_	_	_
 2	sie	_	_	_	order:MF[SO]VC[V]|props:spron-invan	5	nsubj	_	_
@@ -31213,13 +31040,6 @@
 4	Hausbesitzer	_	_	_	order:MF[SO]VC[V]|props:spron-invan	5	obj	_	_
 5	betreffen	_	_	_	order:MF[SO]VC[V]|props:spron-invan	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:spron-invan	_	_	_	_
-
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
-2	einen	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
-3	Hausbesitzer	_	_	_	order:MF[OS]VC[V]|props:spron-invan	5	obj	_	_
-4	sie	_	_	_	order:MF[OS]VC[V]|props:spron-invan	5	nsubj	_	_
-5	betreffen	_	_	_	order:MF[OS]VC[V]|props:spron-invan	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
 
 1	Sie	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-invan	2	nsubj	_	_
 2	prägt	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-invan	0	verb	_	_
@@ -31240,24 +31060,11 @@
 5	Grünenpolitiker	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-invan	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-invan	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-2	prägt	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	0	verb	_	_
-3	einen	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-4	Grünenpolitiker	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	2	obj	_	_
-5	sie	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-
 1	Prägt	_	_	_	order:LK[V]MF[SO]|props:spron-invan	0	verb	_	_
 2	sie	_	_	_	order:LK[V]MF[SO]|props:spron-invan	1	nsubj	_	_
 3	einen	_	_	_	order:LK[V]MF[SO]|props:spron-invan	_	_	_	_
 4	Grünenpolitiker	_	_	_	order:LK[V]MF[SO]|props:spron-invan	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:spron-invan	_	_	_	_
-
-1	Prägt	_	_	_	order:LK[V]MF[OS]|props:spron-invan	0	verb	_	_
-2	einen	_	_	_	order:LK[V]MF[OS]|props:spron-invan	_	_	_	_
-3	Grünenpolitiker	_	_	_	order:LK[V]MF[OS]|props:spron-invan	1	obj	_	_
-4	sie	_	_	_	order:LK[V]MF[OS]|props:spron-invan	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:spron-invan	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:spron-invan	_	_	_	_
 2	sie	_	_	_	order:MF[SO]VC[V]|props:spron-invan	5	nsubj	_	_
@@ -31265,13 +31072,6 @@
 4	Grünenpolitiker	_	_	_	order:MF[SO]VC[V]|props:spron-invan	5	obj	_	_
 5	prägt	_	_	_	order:MF[SO]VC[V]|props:spron-invan	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:spron-invan	_	_	_	_
-
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
-2	einen	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
-3	Grünenpolitiker	_	_	_	order:MF[OS]VC[V]|props:spron-invan	5	obj	_	_
-4	sie	_	_	_	order:MF[OS]VC[V]|props:spron-invan	5	nsubj	_	_
-5	prägt	_	_	_	order:MF[OS]VC[V]|props:spron-invan	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
 
 1	Sie	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-invan	2	nsubj	_	_
 2	blendet	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-invan	0	verb	_	_
@@ -31292,24 +31092,11 @@
 5	Schwimmer	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-invan	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-invan	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-2	blendet	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	0	verb	_	_
-3	einen	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-4	Schwimmer	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	2	obj	_	_
-5	sie	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-
 1	Blendet	_	_	_	order:LK[V]MF[SO]|props:spron-invan	0	verb	_	_
 2	sie	_	_	_	order:LK[V]MF[SO]|props:spron-invan	1	nsubj	_	_
 3	einen	_	_	_	order:LK[V]MF[SO]|props:spron-invan	_	_	_	_
 4	Schwimmer	_	_	_	order:LK[V]MF[SO]|props:spron-invan	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:spron-invan	_	_	_	_
-
-1	Blendet	_	_	_	order:LK[V]MF[OS]|props:spron-invan	0	verb	_	_
-2	einen	_	_	_	order:LK[V]MF[OS]|props:spron-invan	_	_	_	_
-3	Schwimmer	_	_	_	order:LK[V]MF[OS]|props:spron-invan	1	obj	_	_
-4	sie	_	_	_	order:LK[V]MF[OS]|props:spron-invan	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:spron-invan	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:spron-invan	_	_	_	_
 2	sie	_	_	_	order:MF[SO]VC[V]|props:spron-invan	5	nsubj	_	_
@@ -31317,13 +31104,6 @@
 4	Schwimmer	_	_	_	order:MF[SO]VC[V]|props:spron-invan	5	obj	_	_
 5	blendet	_	_	_	order:MF[SO]VC[V]|props:spron-invan	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:spron-invan	_	_	_	_
-
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
-2	einen	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
-3	Schwimmer	_	_	_	order:MF[OS]VC[V]|props:spron-invan	5	obj	_	_
-4	sie	_	_	_	order:MF[OS]VC[V]|props:spron-invan	5	nsubj	_	_
-5	blendet	_	_	_	order:MF[OS]VC[V]|props:spron-invan	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
 
 1	Er	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-invan	2	nsubj	_	_
 2	befördert	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-invan	0	verb	_	_
@@ -31341,33 +31121,16 @@
 4	Fahrgäste	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-invan	2	obj	_	_
 5	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-invan	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-2	befördert	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	0	verb	_	_
-3	Fahrgäste	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	2	obj	_	_
-4	er	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	2	nsubj	_	_
-5	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-
 1	Befördert	_	_	_	order:LK[V]MF[SO]|props:spron-invan	0	verb	_	_
 2	er	_	_	_	order:LK[V]MF[SO]|props:spron-invan	1	nsubj	_	_
 3	Fahrgäste	_	_	_	order:LK[V]MF[SO]|props:spron-invan	1	obj	_	_
 4	?	_	_	_	order:LK[V]MF[SO]|props:spron-invan	_	_	_	_
-
-1	Befördert	_	_	_	order:LK[V]MF[OS]|props:spron-invan	0	verb	_	_
-2	Fahrgäste	_	_	_	order:LK[V]MF[OS]|props:spron-invan	1	obj	_	_
-3	er	_	_	_	order:LK[V]MF[OS]|props:spron-invan	1	nsubj	_	_
-4	?	_	_	_	order:LK[V]MF[OS]|props:spron-invan	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:spron-invan	_	_	_	_
 2	er	_	_	_	order:MF[SO]VC[V]|props:spron-invan	4	nsubj	_	_
 3	Fahrgäste	_	_	_	order:MF[SO]VC[V]|props:spron-invan	4	obj	_	_
 4	befördert	_	_	_	order:MF[SO]VC[V]|props:spron-invan	0	verb	_	_
 5	.	_	_	_	order:MF[SO]VC[V]|props:spron-invan	_	_	_	_
-
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
-2	Fahrgäste	_	_	_	order:MF[OS]VC[V]|props:spron-invan	4	obj	_	_
-3	er	_	_	_	order:MF[OS]VC[V]|props:spron-invan	4	nsubj	_	_
-4	befördert	_	_	_	order:MF[OS]VC[V]|props:spron-invan	0	verb	_	_
-5	.	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
 
 1	Sie	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-invan	2	nsubj	_	_
 2	unterstützt	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-invan	0	verb	_	_
@@ -31388,24 +31151,11 @@
 5	Bürotäter	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-invan	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-invan	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-2	unterstützt	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	0	verb	_	_
-3	einen	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-4	Bürotäter	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	2	obj	_	_
-5	sie	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-
 1	Unterstützt	_	_	_	order:LK[V]MF[SO]|props:spron-invan	0	verb	_	_
 2	sie	_	_	_	order:LK[V]MF[SO]|props:spron-invan	1	nsubj	_	_
 3	einen	_	_	_	order:LK[V]MF[SO]|props:spron-invan	_	_	_	_
 4	Bürotäter	_	_	_	order:LK[V]MF[SO]|props:spron-invan	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:spron-invan	_	_	_	_
-
-1	Unterstützt	_	_	_	order:LK[V]MF[OS]|props:spron-invan	0	verb	_	_
-2	einen	_	_	_	order:LK[V]MF[OS]|props:spron-invan	_	_	_	_
-3	Bürotäter	_	_	_	order:LK[V]MF[OS]|props:spron-invan	1	obj	_	_
-4	sie	_	_	_	order:LK[V]MF[OS]|props:spron-invan	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:spron-invan	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:spron-invan	_	_	_	_
 2	sie	_	_	_	order:MF[SO]VC[V]|props:spron-invan	5	nsubj	_	_
@@ -31413,13 +31163,6 @@
 4	Bürotäter	_	_	_	order:MF[SO]VC[V]|props:spron-invan	5	obj	_	_
 5	unterstützt	_	_	_	order:MF[SO]VC[V]|props:spron-invan	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:spron-invan	_	_	_	_
-
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
-2	einen	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
-3	Bürotäter	_	_	_	order:MF[OS]VC[V]|props:spron-invan	5	obj	_	_
-4	sie	_	_	_	order:MF[OS]VC[V]|props:spron-invan	5	nsubj	_	_
-5	unterstützt	_	_	_	order:MF[OS]VC[V]|props:spron-invan	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
 
 1	Er	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-invan	2	nsubj	_	_
 2	zwickt	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-invan	0	verb	_	_
@@ -31440,24 +31183,11 @@
 5	Entertainer	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-invan	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-invan	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-2	zwickt	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	0	verb	_	_
-3	einen	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-4	Entertainer	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	2	obj	_	_
-5	er	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-
 1	Zwickt	_	_	_	order:LK[V]MF[SO]|props:spron-invan	0	verb	_	_
 2	er	_	_	_	order:LK[V]MF[SO]|props:spron-invan	1	nsubj	_	_
 3	einen	_	_	_	order:LK[V]MF[SO]|props:spron-invan	_	_	_	_
 4	Entertainer	_	_	_	order:LK[V]MF[SO]|props:spron-invan	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:spron-invan	_	_	_	_
-
-1	Zwickt	_	_	_	order:LK[V]MF[OS]|props:spron-invan	0	verb	_	_
-2	einen	_	_	_	order:LK[V]MF[OS]|props:spron-invan	_	_	_	_
-3	Entertainer	_	_	_	order:LK[V]MF[OS]|props:spron-invan	1	obj	_	_
-4	er	_	_	_	order:LK[V]MF[OS]|props:spron-invan	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:spron-invan	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:spron-invan	_	_	_	_
 2	er	_	_	_	order:MF[SO]VC[V]|props:spron-invan	5	nsubj	_	_
@@ -31465,13 +31195,6 @@
 4	Entertainer	_	_	_	order:MF[SO]VC[V]|props:spron-invan	5	obj	_	_
 5	zwickt	_	_	_	order:MF[SO]VC[V]|props:spron-invan	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:spron-invan	_	_	_	_
-
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
-2	einen	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
-3	Entertainer	_	_	_	order:MF[OS]VC[V]|props:spron-invan	5	obj	_	_
-4	er	_	_	_	order:MF[OS]VC[V]|props:spron-invan	5	nsubj	_	_
-5	zwickt	_	_	_	order:MF[OS]VC[V]|props:spron-invan	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
 
 1	Er	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-invan	2	nsubj	_	_
 2	bedroht	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-invan	0	verb	_	_
@@ -31492,24 +31215,11 @@
 5	Biene	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-invan	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-invan	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-2	bedroht	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	0	verb	_	_
-3	eine	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-4	Biene	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	2	obj	_	_
-5	er	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-invan	_	_	_	_
-
 1	Bedroht	_	_	_	order:LK[V]MF[SO]|props:spron-invan	0	verb	_	_
 2	er	_	_	_	order:LK[V]MF[SO]|props:spron-invan	1	nsubj	_	_
 3	eine	_	_	_	order:LK[V]MF[SO]|props:spron-invan	_	_	_	_
 4	Biene	_	_	_	order:LK[V]MF[SO]|props:spron-invan	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:spron-invan	_	_	_	_
-
-1	Bedroht	_	_	_	order:LK[V]MF[OS]|props:spron-invan	0	verb	_	_
-2	eine	_	_	_	order:LK[V]MF[OS]|props:spron-invan	_	_	_	_
-3	Biene	_	_	_	order:LK[V]MF[OS]|props:spron-invan	1	obj	_	_
-4	er	_	_	_	order:LK[V]MF[OS]|props:spron-invan	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:spron-invan	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:spron-invan	_	_	_	_
 2	er	_	_	_	order:MF[SO]VC[V]|props:spron-invan	5	nsubj	_	_
@@ -31517,13 +31227,6 @@
 4	Biene	_	_	_	order:MF[SO]VC[V]|props:spron-invan	5	obj	_	_
 5	bedroht	_	_	_	order:MF[SO]VC[V]|props:spron-invan	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:spron-invan	_	_	_	_
-
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
-2	eine	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
-3	Biene	_	_	_	order:MF[OS]VC[V]|props:spron-invan	5	obj	_	_
-4	er	_	_	_	order:MF[OS]VC[V]|props:spron-invan	5	nsubj	_	_
-5	bedroht	_	_	_	order:MF[OS]VC[V]|props:spron-invan	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:spron-invan	_	_	_	_
 
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-invan	_	_	_	_
 2	Borniertheit	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-invan	3	nsubj	_	_

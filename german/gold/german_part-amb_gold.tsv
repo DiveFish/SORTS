@@ -3966,123 +3966,78 @@ MF[SO]VC[V]	aux-invan	3	4	Weil die Landwirtschaft Bienen bedrohen wird .
 VF[S]LK[V]MF[O]	spron-invan	1	4	Sie überfällt einen taz-Reporter .
 VF[O]LK[V]MF[S]	spron-invan	4	2	Einen taz-Reporter überfällt sie .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	5	Deshalb überfällt sie einen taz-Reporter .
-VF[ADV]LK[V]MF[OS]	spron-invan	5	4	Deshalb überfällt einen taz-Reporter sie .
 LK[V]MF[SO]	spron-invan	2	4	Überfällt sie einen taz-Reporter ?
-LK[V]MF[OS]	spron-invan	4	3	Überfällt einen taz-Reporter sie ?
 MF[SO]VC[V]	spron-invan	2	4	Weil sie einen taz-Reporter überfällt .
-MF[OS]VC[V]	spron-invan	4	3	Weil einen taz-Reporter sie überfällt .
 VF[S]LK[V]MF[O]	spron-invan	1	4	Sie trifft einen Berufstätigen .
 VF[O]LK[V]MF[S]	spron-invan	4	2	Einen Berufstätigen trifft sie .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	5	Deshalb trifft sie einen Berufstätigen .
-VF[ADV]LK[V]MF[OS]	spron-invan	5	4	Deshalb trifft einen Berufstätigen sie .
-LK[V]MF[SO]	spron-invan	2	4	Trifft sie einen Berufstätigen ?
-LK[V]MF[OS]	spron-invan	4	3	Trifft einen Berufstätigen sie ?
+LK[V]MF[SO]	spron-invan	2	4	Trifft sie einen Berufstätigen
 MF[SO]VC[V]	spron-invan	2	4	Weil sie einen Berufstätigen trifft .
-MF[OS]VC[V]	spron-invan	4	3	Weil einen Berufstätigen sie trifft .
 VF[S]LK[V]MF[O]	spron-invan	1	4	Er drückt einen Jogger .
 VF[O]LK[V]MF[S]	spron-invan	4	2	Einen Jogger drückt er .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	5	Deshalb drückt er einen Jogger .
-VF[ADV]LK[V]MF[OS]	spron-invan	5	4	Deshalb drückt einen Jogger er .
 LK[V]MF[SO]	spron-invan	2	4	Drückt er einen Jogger ?
-LK[V]MF[OS]	spron-invan	4	3	Drückt einen Jogger er ?
 MF[SO]VC[V]	spron-invan	2	4	Weil er einen Jogger drückt .
-MF[OS]VC[V]	spron-invan	4	3	Weil einen Jogger er drückt .
 VF[S]LK[V]MF[O]	spron-invan	1	4	Sie drängt einen Informatiker .
 VF[O]LK[V]MF[S]	spron-invan	4	2	Einen Informatiker drängt sie .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	5	Deshalb drängt sie einen Informatiker .
-VF[ADV]LK[V]MF[OS]	spron-invan	5	4	Deshalb drängt einen Informatiker sie .
 LK[V]MF[SO]	spron-invan	2	4	Drängt sie einen Informatiker ?
-LK[V]MF[OS]	spron-invan	4	3	Drängt einen Informatiker sie ?
 MF[SO]VC[V]	spron-invan	2	4	Weil sie einen Informatiker drängt .
-MF[OS]VC[V]	spron-invan	4	3	Weil einen Informatiker sie drängt .
 VF[S]LK[V]MF[O]	spron-invan	1	4	Er wärmt eine Wanderin .
 VF[O]LK[V]MF[S]	spron-invan	4	2	Eine Wanderin wärmt er .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	5	Deshalb wärmt er eine Wanderin .
-VF[ADV]LK[V]MF[OS]	spron-invan	5	4	Deshalb wärmt eine Wanderin er .
 LK[V]MF[SO]	spron-invan	2	4	Wärmt er eine Wanderin ?
-LK[V]MF[OS]	spron-invan	4	3	Wärmt eine Wanderin er ?
 MF[SO]VC[V]	spron-invan	2	4	Weil er eine Wanderin wärmt .
-MF[OS]VC[V]	spron-invan	4	3	Weil eine Wanderin er wärmt .
 VF[S]LK[V]MF[O]	spron-invan	1	4	Er durchnässt einen Spaziergänger .
 VF[O]LK[V]MF[S]	spron-invan	4	2	Einen Spaziergänger durchnässt er .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	5	Deshalb durchnässt er einen Spaziergänger .
-VF[ADV]LK[V]MF[OS]	spron-invan	5	4	Deshalb durchnässt einen Spaziergänger er .
 LK[V]MF[SO]	spron-invan	2	4	Durchnässt er einen Spaziergänger ?
-LK[V]MF[OS]	spron-invan	4	3	Durchnässt einen Spaziergänger er ?
 MF[SO]VC[V]	spron-invan	2	4	Weil er einen Spaziergänger durchnässt .
-MF[OS]VC[V]	spron-invan	4	3	Weil einen Spaziergänger er durchnässt .
 VF[S]LK[V]MF[O]	spron-invan	1	4	Sie begleitet einen Trucker .
 VF[O]LK[V]MF[S]	spron-invan	4	2	Einen Trucker begleitet sie .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	5	Deshalb begleitet sie einen Trucker .
-VF[ADV]LK[V]MF[OS]	spron-invan	5	4	Deshalb begleitet einen Trucker sie .
 LK[V]MF[SO]	spron-invan	2	4	Begleitet sie einen Trucker ?
-LK[V]MF[OS]	spron-invan	4	3	Begleitet einen Trucker sie ?
 MF[SO]VC[V]	spron-invan	2	4	Weil sie einen Trucker begleitet .
-MF[OS]VC[V]	spron-invan	4	3	Weil einen Trucker sie begleitet .
 VF[S]LK[V]MF[O]	spron-invan	1	4	Sie schützen einen Bereisten .
 VF[O]LK[V]MF[S]	spron-invan	4	2	Einen Bereisten schützen sie .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	5	Deshalb schützen sie einen Bereisten .
-VF[ADV]LK[V]MF[OS]	spron-invan	5	4	Deshalb schützen einen Bereisten sie .
 LK[V]MF[SO]	spron-invan	2	4	Schützen sie einen Bereisten ?
-LK[V]MF[OS]	spron-invan	4	3	Schützen einen Bereisten sie ?
 MF[SO]VC[V]	spron-invan	2	4	Weil sie einen Bereisten schützen .
-MF[OS]VC[V]	spron-invan	4	3	Weil einen Bereisten sie schützen .
 VF[S]LK[V]MF[O]	spron-invan	1	4	Sie betreffen einen Hausbesitzer .
 VF[O]LK[V]MF[S]	spron-invan	4	2	Einen Hausbesitzer betreffen sie .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	5	Deshalb betreffen sie einen Hausbesitzer .
-VF[ADV]LK[V]MF[OS]	spron-invan	5	4	Deshalb betreffen einen Hausbesitzer sie .
 LK[V]MF[SO]	spron-invan	2	4	Betreffen sie einen Hausbesitzer ?
-LK[V]MF[OS]	spron-invan	4	3	Betreffen einen Hausbesitzer sie ?
 MF[SO]VC[V]	spron-invan	2	4	Weil sie einen Hausbesitzer betreffen .
-MF[OS]VC[V]	spron-invan	4	3	Weil einen Hausbesitzer sie betreffen .
 VF[S]LK[V]MF[O]	spron-invan	1	4	Sie prägt einen Grünenpolitiker .
 VF[O]LK[V]MF[S]	spron-invan	4	2	Einen Grünenpolitiker prägt sie .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	5	Deshalb prägt sie einen Grünenpolitiker .
-VF[ADV]LK[V]MF[OS]	spron-invan	5	4	Deshalb prägt einen Grünenpolitiker sie .
 LK[V]MF[SO]	spron-invan	2	4	Prägt sie einen Grünenpolitiker ?
-LK[V]MF[OS]	spron-invan	4	3	Prägt einen Grünenpolitiker sie ?
 MF[SO]VC[V]	spron-invan	2	4	Weil sie einen Grünenpolitiker prägt .
-MF[OS]VC[V]	spron-invan	4	3	Weil einen Grünenpolitiker sie prägt .
 VF[S]LK[V]MF[O]	spron-invan	1	4	Sie blendet einen Schwimmer .
 VF[O]LK[V]MF[S]	spron-invan	4	2	Einen Schwimmer blendet sie .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	5	Deshalb blendet sie einen Schwimmer .
-VF[ADV]LK[V]MF[OS]	spron-invan	5	4	Deshalb blendet einen Schwimmer sie .
 LK[V]MF[SO]	spron-invan	2	4	Blendet sie einen Schwimmer ?
-LK[V]MF[OS]	spron-invan	4	3	Blendet einen Schwimmer sie ?
 MF[SO]VC[V]	spron-invan	2	4	Weil sie einen Schwimmer blendet .
-MF[OS]VC[V]	spron-invan	4	3	Weil einen Schwimmer sie blendet .
 VF[S]LK[V]MF[O]	spron-invan	1	3	Er befördert Fahrgäste .
 VF[O]LK[V]MF[S]	spron-invan	3	1	Fahrgäste befördert er .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	4	Deshalb befördert er Fahrgäste .
-VF[ADV]LK[V]MF[OS]	spron-invan	4	3	Deshalb befördert Fahrgäste er .
 LK[V]MF[SO]	spron-invan	2	3	Befördert er Fahrgäste ?
-LK[V]MF[OS]	spron-invan	3	2	Befördert Fahrgäste er ?
 MF[SO]VC[V]	spron-invan	2	3	Weil er Fahrgäste befördert .
-MF[OS]VC[V]	spron-invan	3	2	Weil Fahrgäste er befördert .
 VF[S]LK[V]MF[O]	spron-invan	1	4	Sie unterstützt einen Bürotäter .
 VF[O]LK[V]MF[S]	spron-invan	4	2	Einen Bürotäter unterstützt sie .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	5	Deshalb unterstützt sie einen Bürotäter .
-VF[ADV]LK[V]MF[OS]	spron-invan	5	4	Deshalb unterstützt einen Bürotäter sie .
 LK[V]MF[SO]	spron-invan	2	4	Unterstützt sie einen Bürotäter ?
-LK[V]MF[OS]	spron-invan	4	3	Unterstützt einen Bürotäter sie ?
 MF[SO]VC[V]	spron-invan	2	4	Weil sie einen Bürotäter unterstützt .
-MF[OS]VC[V]	spron-invan	4	3	Weil einen Bürotäter sie unterstützt .
 VF[S]LK[V]MF[O]	spron-invan	1	4	Er zwickt einen Entertainer .
 VF[O]LK[V]MF[S]	spron-invan	4	2	Einen Entertainer zwickt er .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	5	Deshalb zwickt er einen Entertainer .
-VF[ADV]LK[V]MF[OS]	spron-invan	5	4	Deshalb zwickt einen Entertainer er .
 LK[V]MF[SO]	spron-invan	2	4	Zwickt er einen Entertainer ?
-LK[V]MF[OS]	spron-invan	4	3	Zwickt einen Entertainer er ?
 MF[SO]VC[V]	spron-invan	2	4	Weil er einen Entertainer zwickt .
-MF[OS]VC[V]	spron-invan	4	3	Weil einen Entertainer er zwickt .
 VF[S]LK[V]MF[O]	spron-invan	1	4	Er bedroht eine Biene .
 VF[O]LK[V]MF[S]	spron-invan	4	2	Eine Biene bedroht er .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	5	Deshalb bedroht er eine Biene .
-VF[ADV]LK[V]MF[OS]	spron-invan	5	4	Deshalb bedroht eine Biene er .
 LK[V]MF[SO]	spron-invan	2	4	Bedroht er eine Biene ?
-LK[V]MF[OS]	spron-invan	4	3	Bedroht eine Biene er ?
 MF[SO]VC[V]	spron-invan	2	4	Weil er eine Biene bedroht .
-MF[OS]VC[V]	spron-invan	4	3	Weil eine Biene er bedroht .
 VF[S]LK[V]MF[O]	opron-invan	2	4	Die Borniertheit überfällt ihn .
 VF[O]LK[V]MF[S]	opron-invan	4	1	Ihn überfällt die Borniertheit .
 VF[ADV]LK[V]MF[SO]	opron-invan	4	5	Deshalb überfällt die Borniertheit ihn .

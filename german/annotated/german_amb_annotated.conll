@@ -1701,11 +1701,11 @@
 5	spielen	spielen	_	VERB-VVINF	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-spron|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-spron|tf:UNK
 					
-1	Eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-spron|tf:MF
-2	Traumhochzeit	Traumhochzeit	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-spron|tf:MF
-3	spielen	spielen	_	VERB-VVINF	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-spron|tf:VC
-4	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:aux-spron|tf:LK
-5	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:VF[O]LK[V]MF[S]|props:aux-spron|tf:MF
+1	Eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-spron|tf:VF
+2	Traumhochzeit	Traumhochzeit	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-spron|tf:VF
+3	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:aux-spron|tf:LK
+4	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:VF[O]LK[V]MF[S]|props:aux-spron|tf:MF
+5	spielen	spielen	_	VERB-VVINF	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-spron|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-spron|tf:UNK
 					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-spron|tf:VF
@@ -1912,10 +1912,10 @@
 4	schreiben	schreiben	_	VERB-VVINF	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-spron|tf:VC
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-spron|tf:UNK
 					
-1	Romane	Roman	_	NOUN-NN	Morph:apm|NE:O|order:VF[O]LK[V]MF[S]|props:aux-spron|tf:MF
-2	schreiben	schreiben	_	VERB-VVINF	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-spron|tf:VC
-3	werden	werden	_	AUX-VAFIN	Morph:3pis|NE:O|order:VF[O]LK[V]MF[S]|props:aux-spron|tf:LK
-4	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:VF[O]LK[V]MF[S]|props:aux-spron|tf:MF
+1	Romane	Roman	_	NOUN-NN	Morph:apm|NE:O|order:VF[O]LK[V]MF[S]|props:aux-spron|tf:VF
+2	werden	werden	_	AUX-VAFIN	Morph:3pis|NE:O|order:VF[O]LK[V]MF[S]|props:aux-spron|tf:LK
+3	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:VF[O]LK[V]MF[S]|props:aux-spron|tf:MF
+4	schreiben	schreiben	_	VERB-VVINF	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-spron|tf:VC
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-spron|tf:UNK
 					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-spron|tf:VF
@@ -19274,36 +19274,36 @@
 6	bekommt	bekommen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:base-regpol|tf:VC
 7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-regpol|tf:UNK
 					
-1	Die	die	_	DET-ART	Morph:apf|NE:O|order:VF[S]LK[V]MF[O]|props:base-regpol|tf:VF
-2	Werkstätte	Werkstatt	_	NOUN-NN	Morph:apf|NE:O|order:VF[S]LK[V]MF[O]|props:base-regpol|tf:VF
+1	Die	die	_	DET-ART	Morph:npf|NE:O|order:VF[S]LK[V]MF[O]|props:base-regpol|tf:VF
+2	Werkstätten	Werkstatt	_	NOUN-NN	Morph:npf|NE:O|order:VF[S]LK[V]MF[O]|props:base-regpol|tf:VF
 3	ziehen	ziehen	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[S]LK[V]MF[O]|props:base-regpol|tf:LK
-4	Bauzäune	Bauzaun	_	NOUN-NN	Morph:npm|NE:O|order:VF[S]LK[V]MF[O]|props:base-regpol|tf:MF
+4	Bauzäune	Bauzaun	_	NOUN-NN	Morph:apm|NE:O|order:VF[S]LK[V]MF[O]|props:base-regpol|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:base-regpol|tf:UNK
 					
 1	Bauzäune	Bauzaun	_	NOUN-NN	Morph:npm|NE:O|order:VF[O]LK[V]MF[S]|props:base-regpol|tf:VF
 2	ziehen	ziehen	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[O]LK[V]MF[S]|props:base-regpol|tf:LK
-3	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:base-regpol|tf:MF
-4	Werkstätte	Werkstatt	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:base-regpol|tf:MF
+3	die	die	_	DET-ART	Morph:npf|NE:O|order:VF[O]LK[V]MF[S]|props:base-regpol|tf:MF
+4	Werkstätten	Werkstatt	_	NOUN-NN	Morph:npf|NE:O|order:VF[O]LK[V]MF[S]|props:base-regpol|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:base-regpol|tf:UNK
 					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-regpol|tf:VF
-2	ziehen	ziehen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-regpol|tf:LK
-3	die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-regpol|tf:MF
-4	Werkstätte	Werkstatt	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-regpol|tf:MF
+2	ziehen	ziehen	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-regpol|tf:LK
+3	die	die	_	DET-ART	Morph:npf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-regpol|tf:MF
+4	Werkstätten	Werkstatt	_	NOUN-NN	Morph:npf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-regpol|tf:MF
 5	Bauzäune	Bauzaun	_	NOUN-NN	Morph:apm|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-regpol|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-regpol|tf:UNK
 					
 1	Ziehen	ziehen	_	VERB-VVFIN	Morph:3pis|NE:O|order:LK[V]MF[SO]|props:base-regpol|tf:LK
-2	die	die	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:base-regpol|tf:MF
-3	Werkstätte	Werkstatt	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:base-regpol|tf:MF
+2	die	die	_	DET-ART	Morph:npf|NE:O|order:LK[V]MF[SO]|props:base-regpol|tf:MF
+3	Werkstätten	Werkstatt	_	NOUN-NN	Morph:npf|NE:O|order:LK[V]MF[SO]|props:base-regpol|tf:MF
 4	Bauzäune	Bauzaun	_	NOUN-NN	Morph:apm|NE:O|order:LK[V]MF[SO]|props:base-regpol|tf:MF
 5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:base-regpol|tf:UNK
 					
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-regpol|tf:C
-2	die	die	_	DET-ART	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:base-regpol|tf:MF
-3	Werkstätte	Werkstatt	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:base-regpol|tf:MF
+2	die	die	_	DET-ART	Morph:npf|NE:O|order:MF[SO]VC[V]|props:base-regpol|tf:MF
+3	Werkstätten	Werkstatt	_	NOUN-NN	Morph:npf|NE:O|order:MF[SO]VC[V]|props:base-regpol|tf:MF
 4	Bauzäune	Bauzaun	_	NOUN-NN	Morph:apm|NE:O|order:MF[SO]VC[V]|props:base-regpol|tf:MF
-5	ziehen	ziehen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:base-regpol|tf:VC
+5	ziehen	ziehen	_	VERB-VVFIN	Morph:3pis|NE:O|order:MF[SO]VC[V]|props:base-regpol|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-regpol|tf:UNK
 					
 1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:base-regpol|tf:VF
@@ -19855,7 +19855,7 @@
 8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-regpol|tf:UNK
 					
 1	Die	die	_	DET-ART	Morph:npf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-regpol|tf:VF
-2	Werkstätte	Werkstatt	_	NOUN-NN	Morph:npf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-regpol|tf:VF
+2	Werkstätten	Werkstatt	_	NOUN-NN	Morph:npf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-regpol|tf:VF
 3	werden	werden	_	AUX-VAFIN	Morph:3pis|NE:O|order:VF[S]LK[V]MF[O]|props:aux-regpol|tf:LK
 4	Bauzäune	Bauzaun	_	NOUN-NN	Morph:apm|NE:O|order:VF[S]LK[V]MF[O]|props:aux-regpol|tf:MF
 5	ziehen	ziehen	_	VERB-VVINF	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-regpol|tf:VC
@@ -19863,32 +19863,32 @@
 					
 1	Bauzäune	Bauzaun	_	NOUN-NN	Morph:npm|NE:O|order:VF[O]LK[V]MF[S]|props:aux-regpol|tf:VF
 2	werden	werden	_	AUX-VAFIN	Morph:3pis|NE:O|order:VF[O]LK[V]MF[S]|props:aux-regpol|tf:LK
-3	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-regpol|tf:MF
-4	Werkstätte	Werkstatt	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-regpol|tf:MF
+3	die	die	_	DET-ART	Morph:apf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-regpol|tf:MF
+4	Werkstätten	Werkstatt	_	NOUN-NN	Morph:apf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-regpol|tf:MF
 5	ziehen	ziehen	_	VERB-VVINF	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-regpol|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-regpol|tf:UNK
 					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-regpol|tf:VF
-2	werden	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-regpol|tf:LK
-3	die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-regpol|tf:MF
-4	Werkstätte	Werkstatt	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-regpol|tf:MF
+2	werden	werden	_	AUX-VAFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-regpol|tf:LK
+3	die	die	_	DET-ART	Morph:npf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-regpol|tf:MF
+4	Werkstätten	Werkstatt	_	NOUN-NN	Morph:npf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-regpol|tf:MF
 5	Bauzäune	Bauzaun	_	NOUN-NN	Morph:apm|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-regpol|tf:MF
 6	ziehen	ziehen	_	VERB-VVINF	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-regpol|tf:VC
 7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-regpol|tf:UNK
 					
-1	Werden	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:aux-regpol|tf:LK
-2	die	die	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:aux-regpol|tf:MF
-3	Werkstätte	Werkstatt	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:aux-regpol|tf:MF
+1	Werden	werden	_	AUX-VAFIN	Morph:3pis|NE:O|order:LK[V]MF[SO]|props:aux-regpol|tf:LK
+2	die	die	_	DET-ART	Morph:npf|NE:O|order:LK[V]MF[SO]|props:aux-regpol|tf:MF
+3	Werkstätten	Werkstatt	_	NOUN-NN	Morph:npf|NE:O|order:LK[V]MF[SO]|props:aux-regpol|tf:MF
 4	Bauzäune	Bauzaun	_	NOUN-NN	Morph:apm|NE:O|order:LK[V]MF[SO]|props:aux-regpol|tf:MF
 5	ziehen	ziehen	_	VERB-VVINF	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-regpol|tf:VC
 6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-regpol|tf:UNK
 					
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-regpol|tf:C
-2	die	die	_	DET-ART	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:aux-regpol|tf:MF
-3	Werkstätte	Werkstatt	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:aux-regpol|tf:MF
+2	die	die	_	DET-ART	Morph:npf|NE:O|order:MF[SO]VC[V]|props:aux-regpol|tf:MF
+3	Werkstätten	Werkstatt	_	NOUN-NN	Morph:npf|NE:O|order:MF[SO]VC[V]|props:aux-regpol|tf:MF
 4	Bauzäune	Bauzaun	_	NOUN-NN	Morph:apm|NE:O|order:MF[SO]VC[V]|props:aux-regpol|tf:MF
 5	ziehen	ziehen	_	VERB-VVINF	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-regpol|tf:VC
-6	werden	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:aux-regpol|tf:VC
+6	werden	werden	_	AUX-VAFIN	Morph:3pis|NE:O|order:MF[SO]VC[V]|props:aux-regpol|tf:VC
 7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-regpol|tf:UNK
 					
 1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-regpol|tf:VF
@@ -20805,40 +20805,40 @@
 7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:oneg-regpol|tf:UNK
 					
 1	Die	die	_	DET-ART	Morph:npf|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-regpol|tf:VF
-2	Werkstätte	Werkstatt	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-regpol|tf:VF
+2	Werkstätten	Werkstatt	_	NOUN-NN	Morph:npf|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-regpol|tf:VF
 3	ziehen	ziehen	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-regpol|tf:LK
-4	keine	kein	_	DET-PIAT	Morph:npm|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-regpol|tf:MF
-5	Bauzäune	Bauzaun	_	NOUN-NN	Morph:npm|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-regpol|tf:MF
+4	keine	kein	_	DET-PIAT	Morph:apm|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-regpol|tf:MF
+5	Bauzäune	Bauzaun	_	NOUN-NN	Morph:apm|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-regpol|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-regpol|tf:UNK
 					
-1	Keine	kein	_	DET-PIAT	Morph:npm|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-regpol|tf:VF
-2	Bauzäune	Bauzaun	_	NOUN-NN	Morph:npm|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-regpol|tf:VF
+1	Keine	kein	_	DET-PIAT	Morph:apm|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-regpol|tf:VF
+2	Bauzäune	Bauzaun	_	NOUN-NN	Morph:apm|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-regpol|tf:VF
 3	ziehen	ziehen	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-regpol|tf:LK
-4	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-regpol|tf:MF
-5	Werkstätte	Werkstatt	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-regpol|tf:MF
+4	die	die	_	DET-ART	Morph:npf|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-regpol|tf:MF
+5	Werkstätten	Werkstatt	_	NOUN-NN	Morph:npf|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-regpol|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-regpol|tf:UNK
 					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-regpol|tf:VF
-2	ziehen	ziehen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-regpol|tf:LK
-3	die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-regpol|tf:MF
-4	Werkstätte	Werkstatt	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-regpol|tf:MF
+2	ziehen	ziehen	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-regpol|tf:LK
+3	die	die	_	DET-ART	Morph:npf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-regpol|tf:MF
+4	Werkstätten	Werkstatt	_	NOUN-NN	Morph:npf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-regpol|tf:MF
 5	keine	kein	_	DET-PIAT	Morph:apm|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-regpol|tf:MF
 6	Bauzäune	Bauzaun	_	NOUN-NN	Morph:apm|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-regpol|tf:MF
 7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-regpol|tf:UNK
 					
 1	Ziehen	ziehen	_	VERB-VVFIN	Morph:3pis|NE:O|order:LK[V]MF[SO]|props:oneg-regpol|tf:LK
-2	die	die	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:oneg-regpol|tf:MF
-3	Werkstätte	Werkstatt	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:oneg-regpol|tf:MF
+2	die	die	_	DET-ART	Morph:npf|NE:O|order:LK[V]MF[SO]|props:oneg-regpol|tf:MF
+3	Werkstätten	Werkstatt	_	NOUN-NN	Morph:npf|NE:O|order:LK[V]MF[SO]|props:oneg-regpol|tf:MF
 4	keine	kein	_	DET-PIAT	Morph:apm|NE:O|order:LK[V]MF[SO]|props:oneg-regpol|tf:MF
 5	Bauzäune	Bauzaun	_	NOUN-NN	Morph:apm|NE:O|order:LK[V]MF[SO]|props:oneg-regpol|tf:MF
 6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:oneg-regpol|tf:UNK
 					
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:oneg-regpol|tf:C
-2	die	die	_	DET-ART	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:oneg-regpol|tf:MF
-3	Werkstätte	Werkstatt	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:oneg-regpol|tf:MF
+2	die	die	_	DET-ART	Morph:npf|NE:O|order:MF[SO]VC[V]|props:oneg-regpol|tf:MF
+3	Werkstätten	Werkstatt	_	NOUN-NN	Morph:npf|NE:O|order:MF[SO]VC[V]|props:oneg-regpol|tf:MF
 4	keine	kein	_	DET-PIAT	Morph:apm|NE:O|order:MF[SO]VC[V]|props:oneg-regpol|tf:MF
 5	Bauzäune	Bauzaun	_	NOUN-NN	Morph:apm|NE:O|order:MF[SO]VC[V]|props:oneg-regpol|tf:MF
-6	ziehen	ziehen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:oneg-regpol|tf:VC
+6	ziehen	ziehen	_	VERB-VVFIN	Morph:3pis|NE:O|order:MF[SO]VC[V]|props:oneg-regpol|tf:VC
 7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:oneg-regpol|tf:UNK
 					
 1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-regpol|tf:VF
@@ -21515,12 +21515,12 @@
 10	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-regpol|tf:UNK
 					
 1	Die	die	_	DET-ART	Morph:npf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-regpol|tf:VF
-2	Werkstätte	Werkstatt	_	NOUN-NN	Morph:npf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-regpol|tf:VF
+2	Werkstätten	Werkstatt	_	NOUN-NN	Morph:npf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-regpol|tf:VF
 3	ziehen	ziehen	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[S]LK[V]MF[O]|props:pp-regpol|tf:LK
 4	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[S]LK[V]MF[O]|props:pp-regpol|tf:MF
 5	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-regpol|tf:MF
 6	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-regpol|tf:MF
-7	Bauzäune	Bauzaun	_	NOUN-NN	Morph:npm|NE:O|order:VF[S]LK[V]MF[O]|props:pp-regpol|tf:MF
+7	Bauzäune	Bauzaun	_	NOUN-NN	Morph:apm|NE:O|order:VF[S]LK[V]MF[O]|props:pp-regpol|tf:MF
 8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:pp-regpol|tf:UNK
 					
 1	Bauzäune	Bauzaun	_	NOUN-NN	Morph:npm|NE:O|order:VF[O]LK[V]MF[S]|props:pp-regpol|tf:VF
@@ -21528,37 +21528,37 @@
 3	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[O]LK[V]MF[S]|props:pp-regpol|tf:MF
 4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-regpol|tf:MF
 5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-regpol|tf:MF
-6	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-regpol|tf:MF
-7	Werkstätte	Werkstatt	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-regpol|tf:MF
+6	die	die	_	DET-ART	Morph:apf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-regpol|tf:MF
+7	Werkstätten	Werkstatt	_	NOUN-NN	Morph:apf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-regpol|tf:MF
 8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:pp-regpol|tf:UNK
 					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-regpol|tf:VF
-2	ziehen	ziehen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-regpol|tf:LK
+2	ziehen	ziehen	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-regpol|tf:LK
 3	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-regpol|tf:MF
 4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-regpol|tf:MF
 5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-regpol|tf:MF
-6	die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-regpol|tf:MF
-7	Werkstätte	Werkstatt	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-regpol|tf:MF
-8	Bauzäune	Bauzaun	_	NOUN-NN	Morph:npm|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-regpol|tf:MF
+6	die	die	_	DET-ART	Morph:npf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-regpol|tf:MF
+7	Werkstätten	Werkstatt	_	NOUN-NN	Morph:npf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-regpol|tf:MF
+8	Bauzäune	Bauzaun	_	NOUN-NN	Morph:apm|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-regpol|tf:MF
 9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-regpol|tf:UNK
 					
-1	Ziehen	ziehen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:pp-regpol|tf:LK
+1	Ziehen	ziehen	_	VERB-VVFIN	Morph:3pis|NE:O|order:LK[V]MF[SO]|props:pp-regpol|tf:LK
 2	in	in	_	ADP-APPR	Morph:d|NE:O|order:LK[V]MF[SO]|props:pp-regpol|tf:MF
 3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-regpol|tf:MF
 4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-regpol|tf:MF
-5	die	die	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:pp-regpol|tf:MF
-6	Werkstätte	Werkstatt	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:pp-regpol|tf:MF
-7	Bauzäune	Bauzaun	_	NOUN-NN	Morph:npm|NE:O|order:LK[V]MF[SO]|props:pp-regpol|tf:MF
+5	die	die	_	DET-ART	Morph:npf|NE:O|order:LK[V]MF[SO]|props:pp-regpol|tf:MF
+6	Werkstätten	Werkstatt	_	NOUN-NN	Morph:npf|NE:O|order:LK[V]MF[SO]|props:pp-regpol|tf:MF
+7	Bauzäune	Bauzaun	_	NOUN-NN	Morph:apm|NE:O|order:LK[V]MF[SO]|props:pp-regpol|tf:MF
 8	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:pp-regpol|tf:UNK
 					
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-regpol|tf:C
 2	in	in	_	ADP-APPR	Morph:d|NE:O|order:MF[SO]VC[V]|props:pp-regpol|tf:MF
 3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-regpol|tf:MF
 4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-regpol|tf:MF
-5	die	die	_	DET-ART	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:pp-regpol|tf:MF
-6	Werkstätte	Werkstatt	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:pp-regpol|tf:MF
+5	die	die	_	DET-ART	Morph:npf|NE:O|order:MF[SO]VC[V]|props:pp-regpol|tf:MF
+6	Werkstätten	Werkstatt	_	NOUN-NN	Morph:npf|NE:O|order:MF[SO]VC[V]|props:pp-regpol|tf:MF
 7	Bauzäune	Bauzaun	_	NOUN-NN	Morph:apm|NE:O|order:MF[SO]VC[V]|props:pp-regpol|tf:MF
-8	ziehen	ziehen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:pp-regpol|tf:VC
+8	ziehen	ziehen	_	VERB-VVFIN	Morph:3pis|NE:O|order:MF[SO]VC[V]|props:pp-regpol|tf:VC
 9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-regpol|tf:UNK
 					
 1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-regpol|tf:VF
@@ -30006,12 +30006,6 @@
 4	nichts	nichts	_	PRON-PIS	Morph:***|NE:O|order:VF[S]LK[V]MF[O]|props:sinan-noref|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:sinan-noref|tf:UNK
 					
-1	Nichts	nichts	_	PRON-PIS	Morph:***|NE:O|order:VF[O]LK[V]MF[S]|props:sinan-noref|tf:VF
-2	umgeht	umgehen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:sinan-noref|tf:LK
-3	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:sinan-noref|tf:MF
-4	Quote	Quote	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:sinan-noref|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:sinan-noref|tf:UNK
-					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sinan-noref|tf:VF
 2	umgeht	umgehen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sinan-noref|tf:LK
 3	die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sinan-noref|tf:MF
@@ -30102,12 +30096,6 @@
 4	nichts	nichts	_	PRON-PIS	Morph:***|NE:O|order:VF[S]LK[V]MF[O]|props:sinan-noref|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:sinan-noref|tf:UNK
 					
-1	Nichts	nichts	_	PRON-PIS	Morph:***|NE:O|order:VF[O]LK[V]MF[S]|props:sinan-noref|tf:VF
-2	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:sinan-noref|tf:LK
-3	die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:sinan-noref|tf:MF
-4	Arbeit	Arbeit	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:sinan-noref|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:sinan-noref|tf:UNK
-					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sinan-noref|tf:VF
 2	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sinan-noref|tf:LK
 3	die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sinan-noref|tf:MF
@@ -30134,12 +30122,6 @@
 4	nichts	nichts	_	PRON-PIS	Morph:***|NE:O|order:VF[S]LK[V]MF[O]|props:sinan-noref|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:sinan-noref|tf:UNK
 					
-1	Nichts	nichts	_	PRON-PIS	Morph:***|NE:O|order:VF[O]LK[V]MF[S]|props:sinan-noref|tf:VF
-2	verändert	verändern	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:sinan-noref|tf:LK
-3	das	das	_	DET-ART	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:sinan-noref|tf:MF
-4	Bekenntnis	Bekenntnis	_	NOUN-NN	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:sinan-noref|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:sinan-noref|tf:UNK
-					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sinan-noref|tf:VF
 2	verändert	verändern	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sinan-noref|tf:LK
 3	das	das	_	DET-ART	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sinan-noref|tf:MF
@@ -30165,12 +30147,6 @@
 3	bildet	bilden	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:sinan-noref|tf:LK
 4	nichts	nichts	_	PRON-PIS	Morph:***|NE:O|order:VF[S]LK[V]MF[O]|props:sinan-noref|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:sinan-noref|tf:UNK
-					
-1	Nichts	nichts	_	PRON-PIS	Morph:***|NE:O|order:VF[O]LK[V]MF[S]|props:sinan-noref|tf:VF
-2	bildet	bilden	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:sinan-noref|tf:LK
-3	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:sinan-noref|tf:MF
-4	Video-Installation	Video-Installation	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:sinan-noref|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:sinan-noref|tf:UNK
 					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sinan-noref|tf:VF
 2	bildet	bilden	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sinan-noref|tf:LK
@@ -32685,11 +32661,6 @@
 3	Generäle	General	_	NOUN-NN	Morph:apm|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:MF
 4	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:UNK
 					
-1	Generäle	General	_	NOUN-NN	Morph:npm|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:VF
-2	fesseln	fesseln	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:LK
-3	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:MF
-4	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:UNK
-					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:VF
 2	fesseln	fesseln	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:LK
 3	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:MF
@@ -33024,11 +32995,6 @@
 3	Herren	Herr	_	NOUN-NN	Morph:apm|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:MF
 4	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:UNK
 					
-1	Herren	Herr	_	NOUN-NN	Morph:npm|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:VF
-2	erstaunen	erstaunen	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:LK
-3	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:MF
-4	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:UNK
-					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:VF
 2	erstaunen	erstaunen	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:LK
 3	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:MF
@@ -33102,11 +33068,6 @@
 2	frustrieren	frustrieren	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:LK
 3	Schriftsteller	Schriftsteller	_	NOUN-NN	Morph:apm|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:MF
 4	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:UNK
-					
-1	Schriftsteller	Schriftsteller	_	NOUN-NN	Morph:npm|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:VF
-2	frustrieren	frustrieren	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:LK
-3	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:MF
-4	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:UNK
 					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:VF
 2	frustrieren	frustrieren	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:LK
@@ -33233,11 +33194,6 @@
 2	reuen	reuen	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:LK
 3	Kleinbauern	Kleinbauer	_	NOUN-NN	Morph:dpm|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:MF
 4	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:UNK
-					
-1	Kleinbauern	Kleinbauer	_	NOUN-NN	Morph:apm|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:VF
-2	reuen	reuen	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:LK
-3	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:MF
-4	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:UNK
 					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:VF
 2	reuen	reuen	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:LK
@@ -33366,6 +33322,12 @@
 4	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:UNK
 					
+1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:VF
+2	fesseln	fesseln	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:LK
+3	die	der	_	DET-ART	Morph:apm|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:MF
+4	Angriffe	Angriff	_	NOUN-NN	Morph:apm|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:UNK
+					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:VF
 2	fesseln	fesseln	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:LK
 3	die	der	_	DET-ART	Morph:npm|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:MF
@@ -33373,11 +33335,24 @@
 5	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:UNK
 					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:VF
+2	fesseln	fesseln	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:LK
+3	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+4	die	der	_	DET-ART	Morph:apm|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+5	Angriffe	Angriff	_	NOUN-NN	Morph:apm|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:UNK
+					
 1	Fesseln	fesseln	_	VERB-VVFIN	Morph:3pis|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:LK
 2	die	der	_	DET-ART	Morph:npm|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 3	Angriffe	Angriff	_	NOUN-NN	Morph:npm|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 4	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:UNK
+					
+1	Fesseln	fesseln	_	VERB-VVFIN	Morph:3pis|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:LK
+2	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+3	die	der	_	DET-ART	Morph:apm|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+4	Angriffe	Angriff	_	NOUN-NN	Morph:apm|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:UNK
 					
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:C
 2	die	der	_	DET-ART	Morph:npm|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:MF
@@ -33386,11 +33361,24 @@
 5	fesseln	fesseln	_	VERB-VVFIN	Morph:3pis|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:UNK
 					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:C
+2	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+3	die	der	_	DET-ART	Morph:apm|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+4	Angriffe	Angriff	_	NOUN-NN	Morph:apm|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+5	fesseln	fesseln	_	VERB-VVFIN	Morph:3pis|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:UNK
+					
 1	Das	das	_	DET-ART	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:VF
 2	Doppelleben	Doppelleben	_	NOUN-NN	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:VF
 3	langweilt	langweilen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:LK
 4	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:UNK
+					
+1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:VF
+2	langweilt	langweilen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:LK
+3	das	das	_	DET-ART	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:MF
+4	Doppelleben	Doppelleben	_	NOUN-NN	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:UNK
 					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:VF
 2	langweilt	langweilen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:LK
@@ -33399,11 +33387,24 @@
 5	sie	sie	_	PRON-PPER	Morph:asf3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:UNK
 					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:VF
+2	langweilt	langweilen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:LK
+3	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+4	das	das	_	DET-ART	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+5	Doppelleben	Doppelleben	_	NOUN-NN	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:UNK
+					
 1	Langweilt	langweilen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:LK
 2	das	das	_	DET-ART	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 3	Doppelleben	Doppelleben	_	NOUN-NN	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 4	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:UNK
+					
+1	Langweilt	langweilen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:LK
+2	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+3	das	das	_	DET-ART	Morph:nsn|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+4	Doppelleben	Doppelleben	_	NOUN-NN	Morph:nsn|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:UNK
 					
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:C
 2	das	das	_	DET-ART	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:MF
@@ -33412,11 +33413,24 @@
 5	langweilt	langweilen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:UNK
 					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:C
+2	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+3	das	das	_	DET-ART	Morph:asn|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+4	Doppelleben	Doppelleben	_	NOUN-NN	Morph:asn|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+5	langweilt	langweilen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:UNK
+					
 1	Die	die	_	DET-ART	Morph:npf|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:VF
 2	Aufnahmen	Aufnahme	_	NOUN-NN	Morph:npf|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:VF
 3	begeistern	begeistern	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:LK
 4	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:UNK
+					
+1	Sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:VF
+2	begeistern	begeistern	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:LK
+3	die	die	_	DET-ART	Morph:npf|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:MF
+4	Aufnahmen	Aufnahme	_	NOUN-NN	Morph:npf|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:UNK
 					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:VF
 2	begeistern	begeistern	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:LK
@@ -33425,11 +33439,24 @@
 5	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:UNK
 					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:VF
+2	begeistern	begeistern	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:LK
+3	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+4	die	die	_	DET-ART	Morph:npf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+5	Aufnahmen	Aufnahme	_	NOUN-NN	Morph:npf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:UNK
+					
 1	Begeistern	begeistern	_	VERB-VVFIN	Morph:3pis|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:LK
 2	die	die	_	DET-ART	Morph:npf|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 3	Aufnahmen	Aufnahme	_	NOUN-NN	Morph:npf|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 4	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:UNK
+					
+1	Begeistern	begeistern	_	VERB-VVFIN	Morph:3pis|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:LK
+2	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+3	die	die	_	DET-ART	Morph:apf|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+4	Aufnahmen	Aufnahme	_	NOUN-NN	Morph:apf|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:UNK
 					
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:C
 2	die	die	_	DET-ART	Morph:npf|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:MF
@@ -33438,11 +33465,24 @@
 5	begeistern	begeistern	_	VERB-VVFIN	Morph:3pis|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:UNK
 					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:C
+2	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+3	die	die	_	DET-ART	Morph:apf|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+4	Aufnahmen	Aufnahme	_	NOUN-NN	Morph:apf|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+5	begeistern	begeistern	_	VERB-VVFIN	Morph:3pis|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:UNK
+					
 1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:VF
 2	Traumhochzeit	Traumhochzeit	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:VF
 3	erzürnt	erzürnen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:LK
 4	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:UNK
+					
+1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:VF
+2	erzürnt	erzürnen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:LK
+3	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:MF
+4	Traumhochzeit	Traumhochzeit	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:UNK
 					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:VF
 2	erzürnt	erzürnen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:LK
@@ -33451,11 +33491,24 @@
 5	sie	sie	_	PRON-PPER	Morph:asf3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:UNK
 					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:VF
+2	erzürnt	erzürnen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:LK
+3	sie	sie	_	PRON-PPER	Morph:asf3|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+4	die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+5	Traumhochzeit	Traumhochzeit	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:UNK
+					
 1	Erzürnt	erzürnen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:LK
 2	die	die	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 3	Traumhochzeit	Traumhochzeit	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 4	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:UNK
+					
+1	Erzürnt	erzürnen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:LK
+2	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+3	die	die	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+4	Traumhochzeit	Traumhochzeit	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:UNK
 					
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:C
 2	die	die	_	DET-ART	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:MF
@@ -33464,11 +33517,24 @@
 5	erzürnt	erzürnen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:UNK
 					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:C
+2	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+3	die	die	_	DET-ART	Morph:asf|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+4	Traumhochzeit	Traumhochzeit	_	NOUN-NN	Morph:asf|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+5	erzürnt	erzürnen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:UNK
+					
 1	Die	das	_	DET-ART	Morph:npn|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:VF
 2	Kunstwerke	Kunstwerk	_	NOUN-NN	Morph:npn|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:VF
 3	faszinieren	faszinieren	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:LK
 4	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:UNK
+					
+1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:VF
+2	faszinieren	faszinieren	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:LK
+3	die	das	_	DET-ART	Morph:apn|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:MF
+4	Kunstwerke	Kunstwerk	_	NOUN-NN	Morph:apn|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:UNK
 					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:VF
 2	faszinieren	faszinieren	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:LK
@@ -33477,11 +33543,24 @@
 5	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:UNK
 					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:VF
+2	faszinieren	faszinieren	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:LK
+3	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+4	die	das	_	DET-ART	Morph:apn|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+5	Kunstwerke	Kunstwerk	_	NOUN-NN	Morph:apn|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:UNK
+					
 1	Faszinieren	faszinieren	_	VERB-VVFIN	Morph:3pis|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:LK
 2	die	das	_	DET-ART	Morph:npn|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 3	Kunstwerke	Kunstwerk	_	NOUN-NN	Morph:npn|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 4	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:UNK
+					
+1	Faszinieren	faszinieren	_	VERB-VVFIN	Morph:3pis|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:LK
+2	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+3	die	das	_	DET-ART	Morph:apn|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+4	Kunstwerke	Kunstwerk	_	NOUN-NN	Morph:apn|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:UNK
 					
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:C
 2	die	das	_	DET-ART	Morph:npn|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:MF
@@ -33490,11 +33569,24 @@
 5	faszinieren	faszinieren	_	VERB-VVFIN	Morph:3pis|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:UNK
 					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:C
+2	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+3	die	das	_	DET-ART	Morph:apn|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+4	Kunstwerke	Kunstwerk	_	NOUN-NN	Morph:apn|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+5	faszinieren	faszinieren	_	VERB-VVFIN	Morph:3pis|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:UNK
+					
 1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:VF
 2	Lösung	Lösung	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:VF
 3	berührt	berühren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:LK
 4	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:UNK
+					
+1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:VF
+2	berührt	berühren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:LK
+3	die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:MF
+4	Lösung	Lösung	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:UNK
 					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:VF
 2	berührt	berühren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:LK
@@ -33503,11 +33595,24 @@
 5	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:UNK
 					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:VF
+2	berührt	berühren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:LK
+3	sie	sie	_	PRON-PPER	Morph:asf3|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+4	die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+5	Lösung	Lösung	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:UNK
+					
 1	Berührt	berühren	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:LK
 2	die	die	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 3	Lösung	Lösung	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 4	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:UNK
+					
+1	Berührt	berühren	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:LK
+2	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+3	die	die	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+4	Lösung	Lösung	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:UNK
 					
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:C
 2	die	die	_	DET-ART	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:MF
@@ -33516,11 +33621,24 @@
 5	berührt	berühren	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:UNK
 					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:C
+2	sie	sie	_	PRON-PPER	Morph:asf3|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+3	die	die	_	DET-ART	Morph:nsf|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+4	Lösung	Lösung	_	NOUN-NN	Morph:nsf|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+5	berührt	berühren	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:UNK
+					
 1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:VF
 2	Zeitschrift	Zeitschrift	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:VF
 3	ängstigt	ängstigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:LK
 4	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:UNK
+					
+1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:VF
+2	ängstigt	ängstigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:LK
+3	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:MF
+4	Zeitschrift	Zeitschrift	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:UNK
 					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:VF
 2	ängstigt	ängstigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:LK
@@ -33529,11 +33647,24 @@
 5	sie	sie	_	PRON-PPER	Morph:asf3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:UNK
 					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:VF
+2	ängstigt	ängstigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:LK
+3	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+4	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+5	Zeitschrift	Zeitschrift	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:UNK
+					
 1	Ängstigt	ängstigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:LK
 2	die	die	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 3	Zeitschrift	Zeitschrift	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 4	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:UNK
+					
+1	Ängstigt	ängstigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:LK
+2	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+3	die	die	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+4	Zeitschrift	Zeitschrift	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:UNK
 					
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:C
 2	die	die	_	DET-ART	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:MF
@@ -33542,11 +33673,24 @@
 5	ängstigt	ängstigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:UNK
 					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:C
+2	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+3	die	die	_	DET-ART	Morph:asf|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+4	Zeitschrift	Zeitschrift	_	NOUN-NN	Morph:asf|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+5	ängstigt	ängstigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:UNK
+					
 1	Die	der	_	DET-ART	Morph:npm|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:VF
 2	Bärte	Bart	_	NOUN-NN	Morph:npm|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:VF
 3	erstaunen	erstaunen	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:LK
 4	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:UNK
+					
+1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:VF
+2	erstaunen	erstaunen	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:LK
+3	die	der	_	DET-ART	Morph:apm|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:MF
+4	Bärte	Bart	_	NOUN-NN	Morph:apm|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:UNK
 					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:VF
 2	erstaunen	erstaunen	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:LK
@@ -33555,11 +33699,24 @@
 5	sie	sie	_	PRON-PPER	Morph:asf3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:UNK
 					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:VF
+2	erstaunen	erstaunen	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:LK
+3	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+4	die	der	_	DET-ART	Morph:apm|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+5	Bärte	Bart	_	NOUN-NN	Morph:apm|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:UNK
+					
 1	Erstaunen	erstaunen	_	VERB-VVFIN	Morph:3pis|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:LK
 2	die	der	_	DET-ART	Morph:npm|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 3	Bärte	Bart	_	NOUN-NN	Morph:npm|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 4	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:UNK
+					
+1	Erstaunen	erstaunen	_	VERB-VVFIN	Morph:3pis|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:LK
+2	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+3	die	der	_	DET-ART	Morph:apm|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+4	Bärte	Bart	_	NOUN-NN	Morph:apm|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:UNK
 					
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:C
 2	die	der	_	DET-ART	Morph:npm|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:MF
@@ -33568,11 +33725,24 @@
 5	erstaunen	erstaunen	_	VERB-VVFIN	Morph:3pis|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:UNK
 					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:C
+2	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+3	die	der	_	DET-ART	Morph:apm|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+4	Bärte	Bart	_	NOUN-NN	Morph:apm|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+5	erstaunen	erstaunen	_	VERB-VVFIN	Morph:3pis|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:UNK
+					
 1	Die	der	_	DET-ART	Morph:npm|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:VF
 2	Kaffees	Kaffee	_	NOUN-NN	Morph:npm|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:VF
 3	erfreuen	erfreuen	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:LK
 4	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:UNK
+					
+1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:VF
+2	erfreuen	erfreuen	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:LK
+3	die	der	_	DET-ART	Morph:apm|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:MF
+4	Kaffees	Kaffee	_	NOUN-NN	Morph:apm|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:UNK
 					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:VF
 2	erfreuen	erfreuen	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:LK
@@ -33581,11 +33751,24 @@
 5	sie	sie	_	PRON-PPER	Morph:asf3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:UNK
 					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:VF
+2	erfreuen	erfreuen	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:LK
+3	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+4	die	der	_	DET-ART	Morph:apm|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+5	Kaffees	Kaffee	_	NOUN-NN	Morph:apm|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:UNK
+					
 1	Erfreuen	erfreuen	_	VERB-VVFIN	Morph:3pis|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:LK
 2	die	der	_	DET-ART	Morph:npm|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 3	Kaffees	Kaffee	_	NOUN-NN	Morph:npm|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 4	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:UNK
+					
+1	Erfreuen	erfreuen	_	VERB-VVFIN	Morph:3pis|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:LK
+2	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+3	die	der	_	DET-ART	Morph:apm|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+4	Kaffees	Kaffee	_	NOUN-NN	Morph:apm|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:UNK
 					
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:C
 2	die	der	_	DET-ART	Morph:npm|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:MF
@@ -33594,11 +33777,24 @@
 5	erfreuen	erfreuen	_	VERB-VVFIN	Morph:3pis|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:UNK
 					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:C
+2	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+3	die	der	_	DET-ART	Morph:apm|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+4	Kaffees	Kaffee	_	NOUN-NN	Morph:apm|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+5	erfreuen	erfreuen	_	VERB-VVFIN	Morph:3pis|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:UNK
+					
 1	Die	der	_	DET-ART	Morph:npm|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:VF
 2	Romane	Roman	_	NOUN-NN	Morph:npm|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:VF
 3	frustrieren	frustrieren	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:LK
 4	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:UNK
+					
+1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:VF
+2	frustrieren	frustrieren	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:LK
+3	die	der	_	DET-ART	Morph:apm|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:MF
+4	Romane	Roman	_	NOUN-NN	Morph:apm|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:UNK
 					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:VF
 2	frustrieren	frustrieren	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:LK
@@ -33607,11 +33803,24 @@
 5	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:UNK
 					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:VF
+2	frustrieren	frustrieren	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:LK
+3	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+4	die	der	_	DET-ART	Morph:apm|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+5	Romane	Roman	_	NOUN-NN	Morph:apm|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:UNK
+					
 1	Frustrieren	frustrieren	_	VERB-VVFIN	Morph:3pis|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:LK
 2	die	der	_	DET-ART	Morph:npm|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 3	Romane	Roman	_	NOUN-NN	Morph:npm|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 4	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:UNK
+					
+1	Frustrieren	frustrieren	_	VERB-VVFIN	Morph:3pis|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:LK
+2	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+3	die	der	_	DET-ART	Morph:apm|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+4	Romane	Roman	_	NOUN-NN	Morph:apm|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:UNK
 					
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:C
 2	die	der	_	DET-ART	Morph:npm|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:MF
@@ -33620,11 +33829,24 @@
 5	frustrieren	frustrieren	_	VERB-VVFIN	Morph:3pis|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:UNK
 					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:C
+2	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+3	die	der	_	DET-ART	Morph:apm|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+4	Romane	Roman	_	NOUN-NN	Morph:apm|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+5	frustrieren	frustrieren	_	VERB-VVFIN	Morph:3pis|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:UNK
+					
 1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:VF
 2	Rede	Rede	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:VF
 3	erbost	erbosen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:LK
 4	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:UNK
+					
+1	Sie	sie	_	PRON-PPER	Morph:asf3|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:VF
+2	erbost	erbosen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:LK
+3	die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:MF
+4	Rede	Rede	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:UNK
 					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:VF
 2	erbost	erbosen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:LK
@@ -33633,11 +33855,24 @@
 5	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:UNK
 					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:VF
+2	erbost	erbosen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:LK
+3	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+4	die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+5	Rede	Rede	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:UNK
+					
 1	Erbost	erbosen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:LK
 2	die	die	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 3	Rede	Rede	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 4	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:UNK
+					
+1	Erbost	erbosen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:LK
+2	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+3	die	die	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+4	Rede	Rede	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:UNK
 					
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:C
 2	die	die	_	DET-ART	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:MF
@@ -33646,11 +33881,24 @@
 5	erbost	erbosen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:UNK
 					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:C
+2	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+3	die	die	_	DET-ART	Morph:nsf|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+4	Rede	Rede	_	NOUN-NN	Morph:nsf|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+5	erbost	erbosen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:UNK
+					
 1	Das	das	_	DET-ART	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:VF
 2	Grundgehalt	Grundgehalt	_	NOUN-NN	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:VF
 3	beschämt	beschämen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:LK
 4	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:UNK
+					
+1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:VF
+2	beschämt	beschämen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:LK
+3	das	das	_	DET-ART	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:MF
+4	Grundgehalt	Grundgehalt	_	NOUN-NN	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:UNK
 					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:VF
 2	beschämt	beschämen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:LK
@@ -33659,11 +33907,24 @@
 5	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:UNK
 					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:VF
+2	beschämt	beschämen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:LK
+3	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+4	das	das	_	DET-ART	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+5	Grundgehalt	Grundgehalt	_	NOUN-NN	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:UNK
+					
 1	Beschämt	beschämen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:LK
 2	das	das	_	DET-ART	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 3	Grundgehalt	Grundgehalt	_	NOUN-NN	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 4	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:UNK
+					
+1	Beschämt	beschämen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:LK
+2	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+3	das	das	_	DET-ART	Morph:nsn|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+4	Grundgehalt	Grundgehalt	_	NOUN-NN	Morph:nsn|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:UNK
 					
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:C
 2	das	das	_	DET-ART	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:MF
@@ -33672,11 +33933,24 @@
 5	beschämt	beschämen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:UNK
 					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:C
+2	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+3	das	das	_	DET-ART	Morph:asn|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+4	Grundgehalt	Grundgehalt	_	NOUN-NN	Morph:asn|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+5	beschämt	beschämen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:UNK
+					
 1	Die	der	_	DET-ART	Morph:npm|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:VF
 2	Bauzäune	Bauzaun	_	NOUN-NN	Morph:npm|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:VF
 3	reuen	reuen	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:LK
 4	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:UNK
+					
+1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:VF
+2	reuen	reuen	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:LK
+3	die	der	_	DET-ART	Morph:apm|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:MF
+4	Bauzäune	Bauzaun	_	NOUN-NN	Morph:apm|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:UNK
 					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:VF
 2	reuen	reuen	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:LK
@@ -33685,11 +33959,24 @@
 5	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:UNK
 					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:VF
+2	reuen	reuen	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:LK
+3	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+4	die	der	_	DET-ART	Morph:apm|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+5	Bauzäune	Bauzaun	_	NOUN-NN	Morph:apm|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:UNK
+					
 1	Reuen	reuen	_	VERB-VVFIN	Morph:3pis|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:LK
 2	die	der	_	DET-ART	Morph:npm|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 3	Bauzäune	Bauzaun	_	NOUN-NN	Morph:npm|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 4	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:UNK
+					
+1	Reuen	reuen	_	VERB-VVFIN	Morph:3pis|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:LK
+2	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+3	die	der	_	DET-ART	Morph:apm|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+4	Bauzäune	Bauzaun	_	NOUN-NN	Morph:apm|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:UNK
 					
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:C
 2	die	der	_	DET-ART	Morph:npm|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:MF
@@ -33698,11 +33985,24 @@
 5	reuen	reuen	_	VERB-VVFIN	Morph:3pis|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:UNK
 					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:C
+2	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+3	die	der	_	DET-ART	Morph:apm|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+4	Bauzäune	Bauzaun	_	NOUN-NN	Morph:apm|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+5	reuen	reuen	_	VERB-VVFIN	Morph:3pis|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:UNK
+					
 1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:VF
 2	Tour	Tour	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:VF
 3	amüsiert	amüsieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:LK
 4	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:UNK
+					
+1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:VF
+2	amüsiert	amüsieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:LK
+3	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:MF
+4	Tour	Tour	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:UNK
 					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:VF
 2	amüsiert	amüsieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:LK
@@ -33711,11 +34011,24 @@
 5	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:UNK
 					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:VF
+2	amüsiert	amüsieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:LK
+3	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+4	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+5	Tour	Tour	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:UNK
+					
 1	Amüsiert	amüsieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:LK
 2	die	die	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 3	Tour	Tour	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 4	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:UNK
+					
+1	Amüsiert	amüsieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:LK
+2	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+3	die	die	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+4	Tour	Tour	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:UNK
 					
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:C
 2	die	die	_	DET-ART	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:MF
@@ -33724,11 +34037,24 @@
 5	amüsiert	amüsieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:UNK
 					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:C
+2	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+3	die	die	_	DET-ART	Morph:asf|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+4	Tour	Tour	_	NOUN-NN	Morph:asf|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+5	amüsiert	amüsieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:UNK
+					
 1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:VF
 2	Bauausführung	Bauausführung	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:VF
 3	belustigt	belustigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:LK
 4	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:UNK
+					
+1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:VF
+2	belustigt	belustigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:LK
+3	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:MF
+4	Bauausführung	Bauausführung	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:opron-psy|tf:UNK
 					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:VF
 2	belustigt	belustigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:LK
@@ -33737,11 +34063,24 @@
 5	sie	sie	_	PRON-PPER	Morph:asf3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:opron-psy|tf:UNK
 					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:VF
+2	belustigt	belustigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:LK
+3	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+4	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+5	Bauausführung	Bauausführung	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:opron-psy|tf:UNK
+					
 1	Belustigt	belustigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:LK
 2	die	die	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 3	Bauausführung	Bauausführung	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 4	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:MF
 5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:opron-psy|tf:UNK
+					
+1	Belustigt	belustigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:LK
+2	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+3	die	die	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+4	Bauausführung	Bauausführung	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:MF
+5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[OS]|props:opron-psy|tf:UNK
 					
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:C
 2	die	die	_	DET-ART	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:MF
@@ -33749,6 +34088,13 @@
 4	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:MF
 5	belustigt	belustigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:opron-psy|tf:UNK
+					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:C
+2	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+3	die	die	_	DET-ART	Morph:asf|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+4	Bauausführung	Bauausführung	_	NOUN-NN	Morph:asf|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:MF
+5	belustigt	belustigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:opron-psy|tf:UNK
 					
 1	Die	der	_	DET-ART	Morph:npm|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-psy|tf:VF
 2	Angriffe	Angriff	_	NOUN-NN	Morph:npm|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-psy|tf:VF
@@ -36308,32 +36654,32 @@
 1	Die	der	_	DET-ART	Morph:npm|NE:O|order:VF[S]LK[V]MF[O]|props:regpol-psy|tf:VF
 2	Bauzäune	Bauzaun	_	NOUN-NN	Morph:npm|NE:O|order:VF[S]LK[V]MF[O]|props:regpol-psy|tf:VF
 3	reuen	reuen	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[S]LK[V]MF[O]|props:regpol-psy|tf:LK
-4	Werkstätte	Werkstatt	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:regpol-psy|tf:MF
+4	Werkstätten	Werkstatt	_	NOUN-NN	Morph:apf|NE:O|order:VF[S]LK[V]MF[O]|props:regpol-psy|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:regpol-psy|tf:UNK
 					
-1	Werkstätte	Werkstatt	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:regpol-psy|tf:VF
+1	Werkstätten	Werkstatt	_	NOUN-NN	Morph:npf|NE:O|order:VF[O]LK[V]MF[S]|props:regpol-psy|tf:VF
 2	reuen	reuen	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[O]LK[V]MF[S]|props:regpol-psy|tf:LK
-3	die	der	_	DET-ART	Morph:npm|NE:O|order:VF[O]LK[V]MF[S]|props:regpol-psy|tf:MF
-4	Bauzäune	Bauzaun	_	NOUN-NN	Morph:npm|NE:O|order:VF[O]LK[V]MF[S]|props:regpol-psy|tf:MF
+3	die	der	_	DET-ART	Morph:apm|NE:O|order:VF[O]LK[V]MF[S]|props:regpol-psy|tf:MF
+4	Bauzäune	Bauzaun	_	NOUN-NN	Morph:apm|NE:O|order:VF[O]LK[V]MF[S]|props:regpol-psy|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:regpol-psy|tf:UNK
 					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:regpol-psy|tf:VF
 2	reuen	reuen	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:regpol-psy|tf:LK
 3	die	der	_	DET-ART	Morph:npm|NE:O|order:VF[ADV]LK[V]MF[SO]|props:regpol-psy|tf:MF
 4	Bauzäune	Bauzaun	_	NOUN-NN	Morph:npm|NE:O|order:VF[ADV]LK[V]MF[SO]|props:regpol-psy|tf:MF
-5	Werkstätte	Werkstatt	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:regpol-psy|tf:MF
+5	Werkstätten	Werkstatt	_	NOUN-NN	Morph:apf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:regpol-psy|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:regpol-psy|tf:UNK
 					
 1	Reuen	reuen	_	VERB-VVFIN	Morph:3pis|NE:O|order:LK[V]MF[SO]|props:regpol-psy|tf:LK
 2	die	der	_	DET-ART	Morph:npm|NE:O|order:LK[V]MF[SO]|props:regpol-psy|tf:MF
 3	Bauzäune	Bauzaun	_	NOUN-NN	Morph:npm|NE:O|order:LK[V]MF[SO]|props:regpol-psy|tf:MF
-4	Werkstätte	Werkstatt	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:regpol-psy|tf:MF
+4	Werkstätten	Werkstatt	_	NOUN-NN	Morph:apf|NE:O|order:LK[V]MF[SO]|props:regpol-psy|tf:MF
 5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:regpol-psy|tf:UNK
 					
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:regpol-psy|tf:C
 2	die	der	_	DET-ART	Morph:npm|NE:O|order:MF[SO]VC[V]|props:regpol-psy|tf:MF
 3	Bauzäune	Bauzaun	_	NOUN-NN	Morph:npm|NE:O|order:MF[SO]VC[V]|props:regpol-psy|tf:MF
-4	Werkstätte	Werkstatt	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:regpol-psy|tf:MF
+4	Werkstätten	Werkstatt	_	NOUN-NN	Morph:apf|NE:O|order:MF[SO]VC[V]|props:regpol-psy|tf:MF
 5	reuen	reuen	_	VERB-VVFIN	Morph:3pis|NE:O|order:MF[SO]VC[V]|props:regpol-psy|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:regpol-psy|tf:UNK
 					
@@ -37121,13 +37467,6 @@
 5	Starke	Starke	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:UNK
 					
-1	Eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:VF
-2	Starke	Starke	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:VF
-3	langweilt	langweilen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:LK
-4	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:MF
-5	Schwache	Schwache	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:UNK
-					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:VF
 2	langweilt	langweilen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:LK
 3	die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:MF
@@ -37136,27 +37475,12 @@
 6	Starke	Starke	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:MF
 7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:UNK
 					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:VF
-2	langweilt	langweilen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:LK
-3	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:MF
-4	Starke	Starke	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:MF
-5	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:MF
-6	Schwache	Schwache	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:MF
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:UNK
-					
 1	Langweilt	langweilen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:LK
 2	die	die	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:MF
 3	Schwache	Schwache	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:MF
 4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:MF
 5	Starke	Starke	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:MF
 6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:UNK
-					
-1	Langweilt	langweilen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:LK
-2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:MF
-3	Starke	Starke	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:MF
-4	die	die	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:MF
-5	Schwache	Schwache	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:MF
-6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:UNK
 					
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:C
 2	die	die	_	DET-ART	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:MF
@@ -37165,14 +37489,6 @@
 5	Starke	Starke	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:MF
 6	langweilt	langweilen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:VC
 7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:C
-2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:MF
-3	Starke	Starke	_	NOUN-NN	Morph:nsf|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:MF
-4	die	die	_	DET-ART	Morph:asf|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:MF
-5	Schwache	Schwache	_	NOUN-NN	Morph:asf|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:MF
-6	langweilt	langweilen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:VC
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:UNK
 					
 1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:VF
 2	Beute	Beute	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:VF
@@ -37241,13 +37557,6 @@
 5	Produzentin	Produzentin	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:UNK
 					
-1	Eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:VF
-2	Produzentin	Produzentin	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:VF
-3	erzürnt	erzürnen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:LK
-4	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:MF
-5	Abnehmerin	Abnehmerin	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:UNK
-					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:VF
 2	erzürnt	erzürnen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:LK
 3	die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:MF
@@ -37256,27 +37565,12 @@
 6	Produzentin	Produzentin	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:MF
 7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:UNK
 					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:VF
-2	erzürnt	erzürnen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:LK
-3	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:MF
-4	Produzentin	Produzentin	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:MF
-5	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:MF
-6	Abnehmerin	Abnehmerin	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:MF
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:UNK
-					
 1	Erzürnt	erzürnen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:LK
 2	die	die	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:MF
 3	Abnehmerin	Abnehmerin	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:MF
 4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:MF
 5	Produzentin	Produzentin	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:MF
 6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:UNK
-					
-1	Erzürnt	erzürnen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:LK
-2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:MF
-3	Produzentin	Produzentin	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:MF
-4	die	die	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:MF
-5	Abnehmerin	Abnehmerin	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:MF
-6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:UNK
 					
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:C
 2	die	die	_	DET-ART	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:MF
@@ -37286,25 +37580,11 @@
 6	erzürnt	erzürnen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:VC
 7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:UNK
 					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:C
-2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:MF
-3	Produzentin	Produzentin	_	NOUN-NN	Morph:nsf|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:MF
-4	die	die	_	DET-ART	Morph:asf|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:MF
-5	Abnehmerin	Abnehmerin	_	NOUN-NN	Morph:asf|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:MF
-6	erzürnt	erzürnen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:VC
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:UNK
-					
 1	Die	der	_	DET-ART	Morph:npm|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:VF
 2	Stars	Star	_	NOUN-NN	Morph:npm|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:VF
 3	faszinieren	faszinieren	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:LK
 4	Teenager	Teenager	_	NOUN-NN	Morph:apm|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:UNK
-					
-1	Teenager	Teenager	_	NOUN-NN	Morph:npm|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:VF
-2	faszinieren	faszinieren	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:LK
-3	die	der	_	DET-ART	Morph:apm|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:MF
-4	Stars	Star	_	NOUN-NN	Morph:apm|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:UNK
 					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:VF
 2	faszinieren	faszinieren	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:LK
@@ -37339,24 +37619,11 @@
 5	faszinieren	faszinieren	_	VERB-VVFIN	Morph:3pis|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:UNK
 					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:C
-2	Teenager	Teenager	_	NOUN-NN	Morph:npm|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:MF
-3	die	der	_	DET-ART	Morph:apm|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:MF
-4	Stars	Star	_	NOUN-NN	Morph:apm|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:MF
-5	faszinieren	faszinieren	_	VERB-VVFIN	Morph:3pis|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:VC
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:UNK
-					
 1	Die	der	_	DET-ART	Morph:npm|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:VF
 2	Söhne	Sohn	_	NOUN-NN	Morph:npm|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:VF
 3	berühren	berühren	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:LK
 4	Mütter	Mutter	_	NOUN-NN	Morph:apf|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:UNK
-					
-1	Mütter	Mutter	_	NOUN-NN	Morph:npf|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:VF
-2	berühren	berühren	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:LK
-3	die	der	_	DET-ART	Morph:apm|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:MF
-4	Söhne	Sohn	_	NOUN-NN	Morph:apm|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:UNK
 					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:VF
 2	berühren	berühren	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:LK
@@ -37365,24 +37632,11 @@
 5	Mütter	Mutter	_	NOUN-NN	Morph:apf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:UNK
 					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:VF
-2	berühren	berühren	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:LK
-3	Mütter	Mutter	_	NOUN-NN	Morph:npf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:MF
-4	die	der	_	DET-ART	Morph:apm|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:MF
-5	Söhne	Sohn	_	NOUN-NN	Morph:apm|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:UNK
-					
 1	Berühren	berühren	_	VERB-VVFIN	Morph:3pis|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:LK
 2	die	der	_	DET-ART	Morph:npm|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:MF
 3	Söhne	Sohn	_	NOUN-NN	Morph:npm|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:MF
 4	Mütter	Mutter	_	NOUN-NN	Morph:apf|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:MF
 5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:UNK
-					
-1	Berühren	berühren	_	VERB-VVFIN	Morph:3pis|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:LK
-2	Mütter	Mutter	_	NOUN-NN	Morph:npf|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:MF
-3	die	der	_	DET-ART	Morph:apm|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:MF
-4	Söhne	Sohn	_	NOUN-NN	Morph:apm|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:MF
-5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:UNK
 					
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:C
 2	die	der	_	DET-ART	Morph:npm|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:MF
@@ -37391,26 +37645,12 @@
 5	berühren	berühren	_	VERB-VVFIN	Morph:3pis|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:UNK
 					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:C
-2	Mütter	Mutter	_	NOUN-NN	Morph:npf|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:MF
-3	die	der	_	DET-ART	Morph:apm|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:MF
-4	Söhne	Sohn	_	NOUN-NN	Morph:apm|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:MF
-5	berühren	berühren	_	VERB-VVFIN	Morph:3pis|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:VC
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:UNK
-					
 1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:VF
 2	Kundin	Kundin	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:VF
 3	ängstigt	ängstigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:LK
 4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:MF
 5	Barbierin	Barbierin	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:UNK
-					
-1	Eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:VF
-2	Barbierin	Barbierin	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:VF
-3	ängstigt	ängstigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:LK
-4	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:MF
-5	Kundin	Kundin	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:UNK
 					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:VF
 2	ängstigt	ängstigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:LK
@@ -37420,27 +37660,12 @@
 6	Barbierin	Barbierin	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:MF
 7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:UNK
 					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:VF
-2	ängstigt	ängstigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:LK
-3	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:MF
-4	Barbierin	Barbierin	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:MF
-5	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:MF
-6	Kundin	Kundin	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:MF
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:UNK
-					
 1	Ängstigt	ängstigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:LK
 2	die	die	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:MF
 3	Kundin	Kundin	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:MF
 4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:MF
 5	Barbierin	Barbierin	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:MF
 6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:UNK
-					
-1	Ängstigt	ängstigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:LK
-2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:MF
-3	Barbierin	Barbierin	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:MF
-4	die	die	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:MF
-5	Kundin	Kundin	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:MF
-6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:UNK
 					
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:C
 2	die	die	_	DET-ART	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:MF
@@ -37450,27 +37675,12 @@
 6	ängstigt	ängstigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:VC
 7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:UNK
 					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:C
-2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:MF
-3	Barbierin	Barbierin	_	NOUN-NN	Morph:nsf|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:MF
-4	die	die	_	DET-ART	Morph:asf|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:MF
-5	Kundin	Kundin	_	NOUN-NN	Morph:asf|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:MF
-6	ängstigt	ängstigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:VC
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:UNK
-					
 1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:VF
 2	Schülerin	Schülerin	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:VF
 3	erstaunt	erstaunen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:LK
 4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:MF
 5	Lehrerin	Lehrerin	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:UNK
-					
-1	Eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:VF
-2	Lehrerin	Lehrerin	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:VF
-3	erstaunt	erstaunen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:LK
-4	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:MF
-5	Schülerin	Schülerin	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:UNK
 					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:VF
 2	erstaunt	erstaunen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:LK
@@ -37480,27 +37690,12 @@
 6	Lehrerin	Lehrerin	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:MF
 7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:UNK
 					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:VF
-2	erstaunt	erstaunen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:LK
-3	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:MF
-4	Lehrerin	Lehrerin	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:MF
-5	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:MF
-6	Schülerin	Schülerin	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:MF
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:UNK
-					
 1	Erstaunt	erstaunen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:LK
 2	die	die	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:MF
 3	Schülerin	Schülerin	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:MF
 4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:MF
 5	Lehrerin	Lehrerin	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:MF
 6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:UNK
-					
-1	Erstaunt	erstaunen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:LK
-2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:MF
-3	Lehrerin	Lehrerin	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:MF
-4	die	die	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:MF
-5	Schülerin	Schülerin	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:MF
-6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:UNK
 					
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:C
 2	die	die	_	DET-ART	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:MF
@@ -37510,27 +37705,12 @@
 6	erstaunt	erstaunen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:VC
 7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:UNK
 					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:C
-2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:MF
-3	Lehrerin	Lehrerin	_	NOUN-NN	Morph:nsf|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:MF
-4	die	die	_	DET-ART	Morph:asf|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:MF
-5	Schülerin	Schülerin	_	NOUN-NN	Morph:asf|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:MF
-6	erstaunt	erstaunen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:VC
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:UNK
-					
 1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:VF
 2	Angestellte	Angestellte	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:VF
 3	erfreut	erfreuen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:LK
 4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:MF
 5	Vorgesetzte	Vorgesetzte	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:UNK
-					
-1	Eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:VF
-2	Vorgesetzte	Vorgesetzte	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:VF
-3	erfreut	erfreuen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:LK
-4	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:MF
-5	Angestellte	Angestellte	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:UNK
 					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:VF
 2	erfreut	erfreuen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:LK
@@ -37540,27 +37720,12 @@
 6	Vorgesetzte	Vorgesetzte	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:MF
 7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:UNK
 					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:VF
-2	erfreut	erfreuen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:LK
-3	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:MF
-4	Vorgesetzte	Vorgesetzte	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:MF
-5	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:MF
-6	Angestellte	Angestellte	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:MF
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:UNK
-					
 1	Erfreut	erfreuen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:LK
 2	die	die	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:MF
 3	Angestellte	Angestellte	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:MF
 4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:MF
 5	Vorgesetzte	Vorgesetzte	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:MF
 6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:UNK
-					
-1	Erfreut	erfreuen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:LK
-2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:MF
-3	Vorgesetzte	Vorgesetzte	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:MF
-4	die	die	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:MF
-5	Angestellte	Angestellte	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:MF
-6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:UNK
 					
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:C
 2	die	die	_	DET-ART	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:MF
@@ -37569,14 +37734,6 @@
 5	Vorgesetzte	Vorgesetzte	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:MF
 6	erfreut	erfreuen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:VC
 7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:C
-2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:MF
-3	Vorgesetzte	Vorgesetzte	_	NOUN-NN	Morph:nsf|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:MF
-4	die	die	_	DET-ART	Morph:asf|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:MF
-5	Angestellte	Angestellte	_	NOUN-NN	Morph:asf|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:MF
-6	erfreut	erfreuen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:VC
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:UNK
 					
 1	Die	die	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:VF
 2	Verdächtige	Verdächtige	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:VF
@@ -37705,13 +37862,6 @@
 5	Ärztin	Ärztin	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:UNK
 					
-1	Eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:VF
-2	Ärztin	Ärztin	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:VF
-3	amüsiert	amüsieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:LK
-4	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:MF
-5	Patientin	Patientin	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:UNK
-					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:VF
 2	amüsiert	amüsieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:LK
 3	die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:MF
@@ -37720,27 +37870,12 @@
 6	Ärztin	Ärztin	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:MF
 7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:UNK
 					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:VF
-2	amüsiert	amüsieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:LK
-3	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:MF
-4	Ärztin	Ärztin	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:MF
-5	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:MF
-6	Patientin	Patientin	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:MF
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:UNK
-					
 1	Amüsiert	amüsieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:LK
 2	die	die	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:MF
 3	Patientin	Patientin	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:MF
 4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:MF
 5	Ärztin	Ärztin	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:MF
 6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:UNK
-					
-1	Amüsiert	amüsieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:LK
-2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:MF
-3	Ärztin	Ärztin	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:MF
-4	die	die	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:MF
-5	Patientin	Patientin	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:MF
-6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:UNK
 					
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:C
 2	die	die	_	DET-ART	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:MF
@@ -37749,14 +37884,6 @@
 5	Ärztin	Ärztin	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:MF
 6	amüsiert	amüsieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:VC
 7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:C
-2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:MF
-3	Ärztin	Ärztin	_	NOUN-NN	Morph:nsf|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:MF
-4	die	die	_	DET-ART	Morph:asf|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:MF
-5	Patientin	Patientin	_	NOUN-NN	Morph:asf|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:MF
-6	amüsiert	amüsieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:VC
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:UNK
 					
 1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:VF
 2	Pächterin	Pächterin	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:VF
@@ -37825,13 +37952,6 @@
 5	Pfarrerin	Pfarrerin	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:UNK
 					
-1	Eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:VF
-2	Pfarrerin	Pfarrerin	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:VF
-3	beschämt	beschämen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:LK
-4	das	das	_	DET-ART	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:MF
-5	Beichtkind	Beichtkind	_	NOUN-NN	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:UNK
-					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:VF
 2	beschämt	beschämen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:LK
 3	das	das	_	DET-ART	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:MF
@@ -37840,27 +37960,12 @@
 6	Pfarrerin	Pfarrerin	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:MF
 7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:UNK
 					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:VF
-2	beschämt	beschämen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:LK
-3	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:MF
-4	Pfarrerin	Pfarrerin	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:MF
-5	das	das	_	DET-ART	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:MF
-6	Beichtkind	Beichtkind	_	NOUN-NN	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:MF
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:semas-psy|tf:UNK
-					
 1	Beschämt	beschämen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:LK
 2	das	das	_	DET-ART	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:MF
 3	Beichtkind	Beichtkind	_	NOUN-NN	Morph:nsn|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:MF
 4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:MF
 5	Pfarrerin	Pfarrerin	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:MF
 6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:semas-psy|tf:UNK
-					
-1	Beschämt	beschämen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:LK
-2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:MF
-3	Pfarrerin	Pfarrerin	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:MF
-4	das	das	_	DET-ART	Morph:asn|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:MF
-5	Beichtkind	Beichtkind	_	NOUN-NN	Morph:asn|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:MF
-6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[OS]|props:semas-psy|tf:UNK
 					
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:C
 2	das	das	_	DET-ART	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:MF
@@ -37869,14 +37974,6 @@
 5	Pfarrerin	Pfarrerin	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:MF
 6	beschämt	beschämen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:VC
 7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:C
-2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:MF
-3	Pfarrerin	Pfarrerin	_	NOUN-NN	Morph:nsf|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:MF
-4	das	das	_	DET-ART	Morph:asn|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:MF
-5	Beichtkind	Beichtkind	_	NOUN-NN	Morph:asn|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:MF
-6	beschämt	beschämen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:VC
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:UNK
 					
 1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:VF
 2	Examenskandidatin	Examenskandidatin	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:VF
@@ -37943,12 +38040,6 @@
 3	begeistern	begeistern	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:LK
 4	Meister	Meister	_	NOUN-NN	Morph:apm|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:UNK
-					
-1	Meister	Meister	_	NOUN-NN	Morph:npm|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:VF
-2	begeistern	begeistern	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:LK
-3	die	der	_	DET-ART	Morph:ap*|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:MF
-4	Azubis	Azubi	_	NOUN-NN	Morph:ap*|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:UNK
 					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:VF
 2	begeistern	begeistern	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:LK
@@ -45483,6 +45574,13 @@
 5	EZB-Chefin	EZB-Chefin	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:oan-syn|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:oan-syn|tf:UNK
 					
+1	Eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:oan-syn|tf:VF
+2	EZB-Chefin	EZB-Chefin	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:oan-syn|tf:VF
+3	interviewt	interviewen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:oan-syn|tf:LK
+4	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:oan-syn|tf:MF
+5	Fernsehreporterin	Fernsehreporterin	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:oan-syn|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:oan-syn|tf:UNK
+					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oan-syn|tf:VF
 2	interviewt	interviewen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oan-syn|tf:LK
 3	die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oan-syn|tf:MF
@@ -45658,6 +45756,13 @@
 4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:oan-syn|tf:MF
 5	Kammerjägerin	Kammerjägerin	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:oan-syn|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:oan-syn|tf:UNK
+					
+1	Eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:oan-syn|tf:VF
+2	Kammerjägerin	Kammerjägerin	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:oan-syn|tf:VF
+3	betraut	betrauen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:oan-syn|tf:LK
+4	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:oan-syn|tf:MF
+5	Mieterin	Mieterin	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:oan-syn|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:oan-syn|tf:UNK
 					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oan-syn|tf:VF
 2	betraut	betrauen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oan-syn|tf:LK
@@ -46027,11 +46132,24 @@
 5	Jogger	Jogger	_	PROPN-NE	Morph:gsm|NE:B-PER|order:VF[ADV]LK[V]MF[SO]|props:invan-syn|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:invan-syn|tf:UNK
 					
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:invan-syn|tf:VF
+2	schmerzen	schmerzen	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[OS]|props:invan-syn|tf:LK
+3	Jogger	Jogger	_	PROPN-NE	Morph:dsm|NE:B-PER|order:VF[ADV]LK[V]MF[OS]|props:invan-syn|tf:MF
+4	die	der	_	DET-ART	Morph:npm|NE:O|order:VF[ADV]LK[V]MF[OS]|props:invan-syn|tf:MF
+5	Schuhe	Schuh	_	NOUN-NN	Morph:npm|NE:O|order:VF[ADV]LK[V]MF[OS]|props:invan-syn|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:invan-syn|tf:UNK
+					
 1	Schmerzen	schmerzen	_	VERB-VVFIN	Morph:3pis|NE:O|order:LK[V]MF[SO]|props:invan-syn|tf:LK
 2	die	der	_	DET-ART	Morph:npm|NE:O|order:LK[V]MF[SO]|props:invan-syn|tf:MF
 3	Schuhe	Schuh	_	NOUN-NN	Morph:npm|NE:O|order:LK[V]MF[SO]|props:invan-syn|tf:MF
 4	Jogger	Jogger	_	PROPN-NE	Morph:asm|NE:B-PER|order:LK[V]MF[SO]|props:invan-syn|tf:MF
 5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:invan-syn|tf:UNK
+					
+1	Schmerzen	schmerzen	_	VERB-VVFIN	Morph:3pis|NE:O|order:LK[V]MF[OS]|props:invan-syn|tf:LK
+2	Jogger	Jogger	_	PROPN-NE	Morph:dsm|NE:B-PER|order:LK[V]MF[OS]|props:invan-syn|tf:MF
+3	die	der	_	DET-ART	Morph:apm|NE:O|order:LK[V]MF[OS]|props:invan-syn|tf:MF
+4	Schuhe	Schuh	_	NOUN-NN	Morph:apm|NE:O|order:LK[V]MF[OS]|props:invan-syn|tf:MF
+5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[OS]|props:invan-syn|tf:UNK
 					
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:invan-syn|tf:C
 2	die	der	_	DET-ART	Morph:npm|NE:O|order:MF[SO]VC[V]|props:invan-syn|tf:MF
@@ -46039,6 +46157,13 @@
 4	Jogger	Jogger	_	PROPN-NE	Morph:gsm|NE:B-PER|order:MF[SO]VC[V]|props:invan-syn|tf:MF
 5	schmerzen	schmerzen	_	VERB-VVFIN	Morph:3pis|NE:O|order:MF[SO]VC[V]|props:invan-syn|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:invan-syn|tf:UNK
+					
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[OS]VC[V]|props:invan-syn|tf:C
+2	Jogger	Jogger	_	PROPN-NE	Morph:dsm|NE:B-PER|order:MF[OS]VC[V]|props:invan-syn|tf:MF
+3	die	der	_	DET-ART	Morph:npm|NE:O|order:MF[OS]VC[V]|props:invan-syn|tf:MF
+4	Schuhe	Schuh	_	NOUN-NN	Morph:npm|NE:O|order:MF[OS]VC[V]|props:invan-syn|tf:MF
+5	schmerzen	schmerzen	_	VERB-VVFIN	Morph:3pis|NE:O|order:MF[OS]VC[V]|props:invan-syn|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:invan-syn|tf:UNK
 					
 1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:invan-syn|tf:VF
 2	Deadline	Deadline	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:invan-syn|tf:VF
@@ -47068,35 +47193,35 @@
 7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:regpol-syn|tf:UNK
 					
 1	Die	die	_	DET-ART	Morph:npf|NE:O|order:VF[S]LK[V]MF[O]|props:regpol-syn|tf:VF
-2	Werkstätte	Werkstatt	_	NOUN-NN	Morph:npf|NE:O|order:VF[S]LK[V]MF[O]|props:regpol-syn|tf:VF
+2	Werkstätten	Werkstatt	_	NOUN-NN	Morph:npf|NE:O|order:VF[S]LK[V]MF[O]|props:regpol-syn|tf:VF
 3	errichten	errichten	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[S]LK[V]MF[O]|props:regpol-syn|tf:LK
 4	Bauzäune	Bauzaun	_	NOUN-NN	Morph:apm|NE:O|order:VF[S]LK[V]MF[O]|props:regpol-syn|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:regpol-syn|tf:UNK
 					
 1	Bauzäune	Bauzaun	_	NOUN-NN	Morph:npm|NE:O|order:VF[O]LK[V]MF[S]|props:regpol-syn|tf:VF
 2	errichten	errichten	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[O]LK[V]MF[S]|props:regpol-syn|tf:LK
-3	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:regpol-syn|tf:MF
-4	Werkstätte	Werkstatt	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:regpol-syn|tf:MF
+3	die	die	_	DET-ART	Morph:apf|NE:O|order:VF[O]LK[V]MF[S]|props:regpol-syn|tf:MF
+4	Werkstätten	Werkstatt	_	NOUN-NN	Morph:apf|NE:O|order:VF[O]LK[V]MF[S]|props:regpol-syn|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:regpol-syn|tf:UNK
 					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:regpol-syn|tf:VF
-2	errichten	errichten	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:regpol-syn|tf:LK
-3	die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:regpol-syn|tf:MF
-4	Werkstätte	Werkstatt	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:regpol-syn|tf:MF
+2	errichten	errichten	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:regpol-syn|tf:LK
+3	die	die	_	DET-ART	Morph:npf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:regpol-syn|tf:MF
+4	Werkstätten	Werkstatt	_	NOUN-NN	Morph:npf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:regpol-syn|tf:MF
 5	Bauzäune	Bauzaun	_	NOUN-NN	Morph:apm|NE:O|order:VF[ADV]LK[V]MF[SO]|props:regpol-syn|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:regpol-syn|tf:UNK
 					
 1	Errichten	errichten	_	VERB-VVFIN	Morph:3pis|NE:O|order:LK[V]MF[SO]|props:regpol-syn|tf:LK
-2	die	die	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:regpol-syn|tf:MF
-3	Werkstätte	Werkstatt	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:regpol-syn|tf:MF
+2	die	die	_	DET-ART	Morph:npf|NE:O|order:LK[V]MF[SO]|props:regpol-syn|tf:MF
+3	Werkstätten	Werkstatt	_	NOUN-NN	Morph:npf|NE:O|order:LK[V]MF[SO]|props:regpol-syn|tf:MF
 4	Bauzäune	Bauzaun	_	NOUN-NN	Morph:apm|NE:O|order:LK[V]MF[SO]|props:regpol-syn|tf:MF
 5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:regpol-syn|tf:UNK
 					
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:regpol-syn|tf:C
-2	die	die	_	DET-ART	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:regpol-syn|tf:MF
-3	Werkstätte	Werkstatt	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:regpol-syn|tf:MF
+2	die	die	_	DET-ART	Morph:npf|NE:O|order:MF[SO]VC[V]|props:regpol-syn|tf:MF
+3	Werkstätten	Werkstatt	_	NOUN-NN	Morph:npf|NE:O|order:MF[SO]VC[V]|props:regpol-syn|tf:MF
 4	Bauzäune	Bauzaun	_	NOUN-NN	Morph:apm|NE:O|order:MF[SO]VC[V]|props:regpol-syn|tf:MF
-5	errichten	errichten	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:regpol-syn|tf:VC
+5	errichten	errichten	_	VERB-VVFIN	Morph:3pis|NE:O|order:MF[SO]VC[V]|props:regpol-syn|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:regpol-syn|tf:UNK
 					
 1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:regpol-syn|tf:VF
@@ -48659,19 +48784,6 @@
 4	Generäle	General	_	NOUN-NN	Morph:apm|NE:O|order:VF[S]LK[V]MF[O]|props:psy-syn|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:psy-syn|tf:UNK
 					
-1	Generäle	General	_	NOUN-NN	Morph:npm|NE:O|order:VF[O]LK[V]MF[S]|props:psy-syn|tf:VF
-2	bannen	bannen	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[O]LK[V]MF[S]|props:psy-syn|tf:LK
-3	die	der	_	DET-ART	Morph:apm|NE:O|order:VF[O]LK[V]MF[S]|props:psy-syn|tf:MF
-4	Angriffe	Angriff	_	NOUN-NN	Morph:apm|NE:O|order:VF[O]LK[V]MF[S]|props:psy-syn|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:psy-syn|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:psy-syn|tf:VF
-2	bannen	bannen	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:psy-syn|tf:LK
-3	die	der	_	DET-ART	Morph:npm|NE:O|order:VF[ADV]LK[V]MF[SO]|props:psy-syn|tf:MF
-4	Angriffe	Angriff	_	NOUN-NN	Morph:npm|NE:O|order:VF[ADV]LK[V]MF[SO]|props:psy-syn|tf:MF
-5	Generäle	General	_	NOUN-NN	Morph:apm|NE:O|order:VF[ADV]LK[V]MF[SO]|props:psy-syn|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:psy-syn|tf:UNK
-					
 1	Bannen	bannen	_	VERB-VVFIN	Morph:3pis|NE:O|order:LK[V]MF[SO]|props:psy-syn|tf:LK
 2	die	der	_	DET-ART	Morph:npm|NE:O|order:LK[V]MF[SO]|props:psy-syn|tf:MF
 3	Angriffe	Angriff	_	NOUN-NN	Morph:npm|NE:O|order:LK[V]MF[SO]|props:psy-syn|tf:MF
@@ -49515,13 +49627,6 @@
 4	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:MF
 5	andere	ander	_	ADJ-ADJA	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:base-prov|tf:UNK
-					
-1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:VF
-2	andere	ander	_	PRON-PIS	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:VF
-3	wäscht	waschen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:LK
-4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:MF
-5	Hand	Hand	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:base-prov|tf:UNK
 					
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:VF
 2	wäscht	waschen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-prov|tf:LK
