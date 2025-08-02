@@ -14638,7 +14638,7 @@
 5	?	_	_	_	order:LK[V]MF[SO]|props:base-invan	1	punct	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:base-invan	5	mark	_	_
-2	die	_	_	_	order:MF[SO]VC[V]|props:base-invan	4	det	_	_
+2	die	_	_	_	order:MF[SO]VC[V]|props:base-invan	3	det	_	_
 3	Öfen	_	_	_	order:MF[SO]VC[V]|props:base-invan	5	nsubj	_	_
 4	Wanderinnen	_	_	_	order:MF[SO]VC[V]|props:base-invan	5	obj	_	_
 5	wärmen	_	_	_	order:MF[SO]VC[V]|props:base-invan	0	root	_	_
@@ -15162,7 +15162,7 @@
 
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-invan	2	det	_	_
 2	Borniertheit	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-invan	6	nsubj	_	_
-3	wird	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-invan	6	aux:pass	_	_
+3	wird	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-invan	6	aux	_	_
 4	eine	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-invan	5	det	_	_
 5	taz-Reporterin	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-invan	6	obj	_	_
 6	überfallen	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-invan	0	root	_	_
@@ -15216,7 +15216,7 @@
 4	eine	_	_	_	order:MF[SO]VC[V]|props:aux-invan	5	det	_	_
 5	taz-Reporterin	_	_	_	order:MF[SO]VC[V]|props:aux-invan	6	obj	_	_
 6	überfallen	_	_	_	order:MF[SO]VC[V]|props:aux-invan	0	root	_	_
-7	wird	_	_	_	order:MF[SO]VC[V]|props:aux-invan	6	aux:pass	_	_
+7	wird	_	_	_	order:MF[SO]VC[V]|props:aux-invan	6	aux	_	_
 8	.	_	_	_	order:MF[SO]VC[V]|props:aux-invan	6	punct	_	_
 
 1	Weil	_	_	_	order:MF[OS]VC[V]|props:aux-invan	6	mark	_	_
@@ -15417,7 +15417,7 @@
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-invan	6	advmod	_	_
 2	werden	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-invan	6	aux	_	_
-3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-invan	5	det	_	_
+3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-invan	4	det	_	_
 4	Öfen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-invan	6	nsubj	_	_
 5	Wanderinnen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-invan	6	obj	_	_
 6	wärmen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-invan	0	root	_	_
@@ -15454,14 +15454,14 @@
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-invan	6	advmod	_	_
 2	werden	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-invan	6	aux	_	_
-3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-invan	5	det	_	_
+3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-invan	4	det	_	_
 4	Regenschauer	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-invan	6	nsubj	_	_
 5	Spaziergänger	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-invan	6	obj	_	_
 6	durchnässen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-invan	0	root	_	_
 7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-invan	6	punct	_	_
 
 1	Werden	_	_	_	order:LK[V]MF[SO]|props:aux-invan	5	aux	_	_
-2	die	_	_	_	order:LK[V]MF[SO]|props:aux-invan	4	det	_	_
+2	die	_	_	_	order:LK[V]MF[SO]|props:aux-invan	3	det	_	_
 3	Regenschauer	_	_	_	order:LK[V]MF[SO]|props:aux-invan	5	nsubj	_	_
 4	Spaziergänger	_	_	_	order:LK[V]MF[SO]|props:aux-invan	5	obj	_	_
 5	durchnässen	_	_	_	order:LK[V]MF[SO]|props:aux-invan	0	root	_	_
@@ -15472,7 +15472,7 @@
 3	Regenschauer	_	_	_	order:MF[SO]VC[V]|props:aux-invan	5	nsubj	_	_
 4	Spaziergänger	_	_	_	order:MF[SO]VC[V]|props:aux-invan	5	obj	_	_
 5	durchnässen	_	_	_	order:MF[SO]VC[V]|props:aux-invan	0	root	_	_
-6	werden	_	_	_	order:MF[SO]VC[V]|props:aux-invan	5	aux:pass	_	_
+6	werden	_	_	_	order:MF[SO]VC[V]|props:aux-invan	5	aux	_	_
 7	.	_	_	_	order:MF[SO]VC[V]|props:aux-invan	5	punct	_	_
 
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-invan	2	det	_	_
@@ -18102,7 +18102,7 @@
 3	in	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	5	case	_	_
 4	dem	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	5	det	_	_
 5	Jahr	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	2	obl	_	_
-6	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	8	det	_	_
+6	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	7	det	_	_
 7	Öfen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	2	nsubj	_	_
 8	Wanderinnen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	2	obj	_	_
 9	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	2	punct	_	_
@@ -18111,7 +18111,7 @@
 2	in	_	_	_	order:LK[V]MF[SO]|props:pp-invan	4	case	_	_
 3	dem	_	_	_	order:LK[V]MF[SO]|props:pp-invan	4	det	_	_
 4	Jahr	_	_	_	order:LK[V]MF[SO]|props:pp-invan	1	obl	_	_
-5	die	_	_	_	order:LK[V]MF[SO]|props:pp-invan	7	det	_	_
+5	die	_	_	_	order:LK[V]MF[SO]|props:pp-invan	6	det	_	_
 6	Öfen	_	_	_	order:LK[V]MF[SO]|props:pp-invan	1	nsubj	_	_
 7	Wanderinnen	_	_	_	order:LK[V]MF[SO]|props:pp-invan	1	obj	_	_
 8	?	_	_	_	order:LK[V]MF[SO]|props:pp-invan	1	punct	_	_
@@ -18149,7 +18149,7 @@
 3	in	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	5	case	_	_
 4	dem	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	5	det	_	_
 5	Jahr	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	2	obl	_	_
-6	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	8	det	_	_
+6	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	7	det	_	_
 7	Regenschauer	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	2	nsubj	_	_
 8	Spaziergänger	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	2	obj	_	_
 9	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	2	punct	_	_
@@ -18158,7 +18158,7 @@
 2	in	_	_	_	order:LK[V]MF[SO]|props:pp-invan	4	case	_	_
 3	dem	_	_	_	order:LK[V]MF[SO]|props:pp-invan	4	det	_	_
 4	Jahr	_	_	_	order:LK[V]MF[SO]|props:pp-invan	1	obl	_	_
-5	die	_	_	_	order:LK[V]MF[SO]|props:pp-invan	7	det	_	_
+5	die	_	_	_	order:LK[V]MF[SO]|props:pp-invan	6	det	_	_
 6	Regenschauer	_	_	_	order:LK[V]MF[SO]|props:pp-invan	1	nsubj	_	_
 7	Spaziergänger	_	_	_	order:LK[V]MF[SO]|props:pp-invan	1	obj	_	_
 8	?	_	_	_	order:LK[V]MF[SO]|props:pp-invan	1	punct	_	_
@@ -25681,7 +25681,7 @@
 
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-semas	2	det	_	_
 2	Vorgesetzte	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-semas	6	nsubj	_	_
-3	wird	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-semas	6	aux:pass	_	_
+3	wird	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-semas	6	aux	_	_
 4	eine	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-semas	5	det	_	_
 5	Angestellte	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-semas	6	obj	_	_
 6	entlassen	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-semas	0	root	_	_
@@ -25689,14 +25689,14 @@
 
 1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-semas	2	det	_	_
 2	Angestellte	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-semas	6	obj	_	_
-3	wird	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-semas	6	aux:pass	_	_
+3	wird	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-semas	6	aux	_	_
 4	die	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-semas	5	det	_	_
 5	Vorgesetzte	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-semas	6	nsubj	_	_
 6	entlassen	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-semas	0	root	_	_
 7	.	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-semas	6	punct	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-semas	7	advmod	_	_
-2	wird	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-semas	7	aux:pass	_	_
+2	wird	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-semas	7	aux	_	_
 3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-semas	4	det	_	_
 4	Vorgesetzte	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-semas	7	nsubj	_	_
 5	eine	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-semas	6	det	_	_
@@ -25718,7 +25718,7 @@
 4	eine	_	_	_	order:MF[SO]VC[V]|props:aux-semas	5	det	_	_
 5	Angestellte	_	_	_	order:MF[SO]VC[V]|props:aux-semas	6	obj	_	_
 6	entlassen	_	_	_	order:MF[SO]VC[V]|props:aux-semas	0	root	_	_
-7	wird	_	_	_	order:MF[SO]VC[V]|props:aux-semas	6	aux:pass	_	_
+7	wird	_	_	_	order:MF[SO]VC[V]|props:aux-semas	6	aux	_	_
 8	.	_	_	_	order:MF[SO]VC[V]|props:aux-semas	6	punct	_	_
 
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-semas	2	det	_	_
@@ -27046,7 +27046,7 @@
 3	in	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-semas	5	case	_	_
 4	dem	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-semas	5	det	_	_
 5	Jahr	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-semas	2	obl	_	_
-6	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-semas	8	det	_	_
+6	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-semas	7	det	_	_
 7	Teenager	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-semas	2	nsubj	_	_
 8	Stars	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-semas	2	obj	_	_
 9	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-semas	2	punct	_	_
@@ -27055,7 +27055,7 @@
 2	in	_	_	_	order:LK[V]MF[SO]|props:pp-semas	4	case	_	_
 3	dem	_	_	_	order:LK[V]MF[SO]|props:pp-semas	4	det	_	_
 4	Jahr	_	_	_	order:LK[V]MF[SO]|props:pp-semas	1	obl	_	_
-5	die	_	_	_	order:LK[V]MF[SO]|props:pp-semas	7	det	_	_
+5	die	_	_	_	order:LK[V]MF[SO]|props:pp-semas	6	det	_	_
 6	Teenager	_	_	_	order:LK[V]MF[SO]|props:pp-semas	1	nsubj	_	_
 7	Stars	_	_	_	order:LK[V]MF[SO]|props:pp-semas	1	obj	_	_
 8	?	_	_	_	order:LK[V]MF[SO]|props:pp-semas	1	punct	_	_
@@ -31437,13 +31437,13 @@
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-psy	2	advmod	_	_
 2	erstaunen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-psy	0	root	_	_
-3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-psy	5	det	_	_
+3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-psy	4	det	_	_
 4	Bärte	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-psy	2	nsubj	_	_
 5	Herren	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-psy	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-psy	2	punct	_	_
 
 1	Erstaunen	_	_	_	order:LK[V]MF[SO]|props:base-psy	0	root	_	_
-2	die	_	_	_	order:LK[V]MF[SO]|props:base-psy	4	det	_	_
+2	die	_	_	_	order:LK[V]MF[SO]|props:base-psy	3	det	_	_
 3	Bärte	_	_	_	order:LK[V]MF[SO]|props:base-psy	1	nsubj	_	_
 4	Herren	_	_	_	order:LK[V]MF[SO]|props:base-psy	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:base-psy	1	punct	_	_
@@ -32289,21 +32289,21 @@
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-psy	6	advmod	_	_
 2	werden	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-psy	6	aux	_	_
-3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-psy	5	det	_	_
+3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-psy	4	det	_	_
 4	Kaffees	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-psy	6	nsubj	_	_
 5	Mamas	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-psy	6	obj	_	_
 6	erfreuen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-psy	0	root	_	_
 7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-psy	6	punct	_	_
 
 1	Werden	_	_	_	order:LK[V]MF[SO]|props:aux-psy	5	aux	_	_
-2	die	_	_	_	order:LK[V]MF[SO]|props:aux-psy	4	det	_	_
+2	die	_	_	_	order:LK[V]MF[SO]|props:aux-psy	3	det	_	_
 3	Kaffees	_	_	_	order:LK[V]MF[SO]|props:aux-psy	5	nsubj	_	_
 4	Mamas	_	_	_	order:LK[V]MF[SO]|props:aux-psy	5	obj	_	_
 5	erfreuen	_	_	_	order:LK[V]MF[SO]|props:aux-psy	0	root	_	_
 6	?	_	_	_	order:LK[V]MF[SO]|props:aux-psy	5	punct	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:aux-psy	5	mark	_	_
-2	die	_	_	_	order:MF[SO]VC[V]|props:aux-psy	4	det	_	_
+2	die	_	_	_	order:MF[SO]VC[V]|props:aux-psy	3	det	_	_
 3	Kaffees	_	_	_	order:MF[SO]VC[V]|props:aux-psy	5	nsubj	_	_
 4	Mamas	_	_	_	order:MF[SO]VC[V]|props:aux-psy	5	obj	_	_
 5	erfreuen	_	_	_	order:MF[SO]VC[V]|props:aux-psy	0	root	_	_
@@ -32403,7 +32403,7 @@
 4	eine	_	_	_	order:MF[SO]VC[V]|props:aux-psy	5	det	_	_
 5	Politikerin	_	_	_	order:MF[SO]VC[V]|props:aux-psy	6	obj	_	_
 6	erbosen	_	_	_	order:MF[SO]VC[V]|props:aux-psy	0	root	_	_
-7	wird	_	_	_	order:MF[SO]VC[V]|props:aux-psy	6	aux:pass	_	_
+7	wird	_	_	_	order:MF[SO]VC[V]|props:aux-psy	6	aux	_	_
 8	.	_	_	_	order:MF[SO]VC[V]|props:aux-psy	6	punct	_	_
 
 1	Weil	_	_	_	order:MF[OS]VC[V]|props:aux-psy	6	mark	_	_
@@ -35579,7 +35579,7 @@
 2	in	_	_	_	order:LK[V]MF[SO]|props:pp-psy	4	case	_	_
 3	dem	_	_	_	order:LK[V]MF[SO]|props:pp-psy	4	det	_	_
 4	Jahr	_	_	_	order:LK[V]MF[SO]|props:pp-psy	1	obl	_	_
-5	die	_	_	_	order:LK[V]MF[SO]|props:pp-psy	7	det	_	_
+5	die	_	_	_	order:LK[V]MF[SO]|props:pp-psy	6	det	_	_
 6	Bärte	_	_	_	order:LK[V]MF[SO]|props:pp-psy	1	nsubj	_	_
 7	Herren	_	_	_	order:LK[V]MF[SO]|props:pp-psy	1	obj	_	_
 8	?	_	_	_	order:LK[V]MF[SO]|props:pp-psy	1	punct	_	_
@@ -35617,7 +35617,7 @@
 3	in	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-psy	5	case	_	_
 4	dem	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-psy	5	det	_	_
 5	Jahr	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-psy	2	obl	_	_
-6	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-psy	8	det	_	_
+6	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-psy	7	det	_	_
 7	Kaffees	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-psy	2	nsubj	_	_
 8	Mamas	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-psy	2	obj	_	_
 9	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-psy	2	punct	_	_
@@ -35626,7 +35626,7 @@
 2	in	_	_	_	order:LK[V]MF[SO]|props:pp-psy	4	case	_	_
 3	dem	_	_	_	order:LK[V]MF[SO]|props:pp-psy	4	det	_	_
 4	Jahr	_	_	_	order:LK[V]MF[SO]|props:pp-psy	1	obl	_	_
-5	die	_	_	_	order:LK[V]MF[SO]|props:pp-psy	7	det	_	_
+5	die	_	_	_	order:LK[V]MF[SO]|props:pp-psy	6	det	_	_
 6	Kaffees	_	_	_	order:LK[V]MF[SO]|props:pp-psy	1	nsubj	_	_
 7	Mamas	_	_	_	order:LK[V]MF[SO]|props:pp-psy	1	obj	_	_
 8	?	_	_	_	order:LK[V]MF[SO]|props:pp-psy	1	punct	_	_
@@ -36117,7 +36117,7 @@
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-psy	2	advmod	_	_
 2	langweilen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-psy	0	root	_	_
-3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-psy	5	det	_	_
+3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-psy	4	det	_	_
 4	Doppelleben	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-psy	2	nsubj	_	_
 5	Läden	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-psy	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-psy	2	punct	_	_
@@ -36455,7 +36455,7 @@
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-psy	2	punct	_	_
 
 1	Erstaunen	_	_	_	order:LK[V]MF[SO]|props:regpol-psy	0	root	_	_
-2	die	_	_	_	order:LK[V]MF[SO]|props:regpol-psy	4	det	_	_
+2	die	_	_	_	order:LK[V]MF[SO]|props:regpol-psy	2	det	_	_
 3	Bärte	_	_	_	order:LK[V]MF[SO]|props:regpol-psy	1	nsubj	_	_
 4	Salons	_	_	_	order:LK[V]MF[SO]|props:regpol-psy	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:regpol-psy	1	punct	_	_
@@ -36481,19 +36481,19 @@
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-psy	2	advmod	_	_
 2	erfreuen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-psy	0	root	_	_
-3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-psy	5	det	_	_
+3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-psy	4	det	_	_
 4	Kaffees	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-psy	2	nsubj	_	_
 5	Redaktionen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-psy	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-psy	2	punct	_	_
 
 1	Erfreuen	_	_	_	order:LK[V]MF[SO]|props:regpol-psy	0	root	_	_
-2	die	_	_	_	order:LK[V]MF[SO]|props:regpol-psy	4	det	_	_
+2	die	_	_	_	order:LK[V]MF[SO]|props:regpol-psy	3	det	_	_
 3	Kaffees	_	_	_	order:LK[V]MF[SO]|props:regpol-psy	1	nsubj	_	_
 4	Redaktionen	_	_	_	order:LK[V]MF[SO]|props:regpol-psy	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:regpol-psy	1	punct	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:regpol-psy	5	mark	_	_
-2	die	_	_	_	order:MF[SO]VC[V]|props:regpol-psy	4	det	_	_
+2	die	_	_	_	order:MF[SO]VC[V]|props:regpol-psy	3	det	_	_
 3	Kaffees	_	_	_	order:MF[SO]VC[V]|props:regpol-psy	5	nsubj	_	_
 4	Redaktionen	_	_	_	order:MF[SO]VC[V]|props:regpol-psy	5	obj	_	_
 5	erfreuen	_	_	_	order:MF[SO]VC[V]|props:regpol-psy	0	root	_	_
@@ -38043,13 +38043,13 @@
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	2	advmod	_	_
 2	begeistern	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	0	root	_	_
-3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	5	det	_	_
+3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	4	det	_	_
 4	Azubis	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	2	nsubj	_	_
 5	Meister	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	2	punct	_	_
 
 1	Begeistern	_	_	_	order:LK[V]MF[SO]|props:semas-psy	0	root	_	_
-2	die	_	_	_	order:LK[V]MF[SO]|props:semas-psy	4	det	_	_
+2	die	_	_	_	order:LK[V]MF[SO]|props:semas-psy	3	det	_	_
 3	Azubis	_	_	_	order:LK[V]MF[SO]|props:semas-psy	1	nsubj	_	_
 4	Meister	_	_	_	order:LK[V]MF[SO]|props:semas-psy	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:semas-psy	1	punct	_	_
@@ -46271,19 +46271,19 @@
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:invan-syn	2	advmod	_	_
 2	durchweichen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:invan-syn	0	root	_	_
-3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:invan-syn	5	det	_	_
+3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:invan-syn	4	det	_	_
 4	Regenschauer	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:invan-syn	2	nsubj	_	_
 5	Spaziergänger	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:invan-syn	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:invan-syn	2	punct	_	_
 
 1	Durchweichen	_	_	_	order:LK[V]MF[SO]|props:invan-syn	0	root	_	_
-2	die	_	_	_	order:LK[V]MF[SO]|props:invan-syn	4	det	_	_
+2	die	_	_	_	order:LK[V]MF[SO]|props:invan-syn	3	det	_	_
 3	Regenschauer	_	_	_	order:LK[V]MF[SO]|props:invan-syn	1	nsubj	_	_
 4	Spaziergänger	_	_	_	order:LK[V]MF[SO]|props:invan-syn	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:invan-syn	1	punct	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:invan-syn	5	mark	_	_
-2	die	_	_	_	order:MF[SO]VC[V]|props:invan-syn	4	det	_	_
+2	die	_	_	_	order:MF[SO]VC[V]|props:invan-syn	3	det	_	_
 3	Regenschauer	_	_	_	order:MF[SO]VC[V]|props:invan-syn	5	nsubj	_	_
 4	Spaziergänger	_	_	_	order:MF[SO]VC[V]|props:invan-syn	5	obj	_	_
 5	durchweichen	_	_	_	order:MF[SO]VC[V]|props:invan-syn	0	root	_	_
@@ -48100,13 +48100,13 @@
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-syn	2	advmod	_	_
 2	feiern	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-syn	0	root	_	_
-3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-syn	5	det	_	_
+3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-syn	4	det	_	_
 4	Teenager	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-syn	2	nsubj	_	_
 5	Stars	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-syn	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-syn	2	punct	_	_
 
 1	Feiern	_	_	_	order:LK[V]MF[SO]|props:semas-syn	0	root	_	_
-2	die	_	_	_	order:LK[V]MF[SO]|props:semas-syn	4	det	_	_
+2	die	_	_	_	order:LK[V]MF[SO]|props:semas-syn	3	det	_	_
 3	Teenager	_	_	_	order:LK[V]MF[SO]|props:semas-syn	1	nsubj	_	_
 4	Stars	_	_	_	order:LK[V]MF[SO]|props:semas-syn	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:semas-syn	1	punct	_	_
@@ -49203,19 +49203,19 @@
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:psy-syn	2	advmod	_	_
 2	freuen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:psy-syn	0	root	_	_
-3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:psy-syn	5	det	_	_
+3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:psy-syn	4	det	_	_
 4	Kaffees	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:psy-syn	2	nsubj	_	_
 5	Mamas	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:psy-syn	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:psy-syn	2	punct	_	_
 
 1	Freuen	_	_	_	order:LK[V]MF[SO]|props:psy-syn	0	root	_	_
-2	die	_	_	_	order:LK[V]MF[SO]|props:psy-syn	4	det	_	_
+2	die	_	_	_	order:LK[V]MF[SO]|props:psy-syn	3	det	_	_
 3	Kaffees	_	_	_	order:LK[V]MF[SO]|props:psy-syn	1	nsubj	_	_
 4	Mamas	_	_	_	order:LK[V]MF[SO]|props:psy-syn	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:psy-syn	1	punct	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:psy-syn	5	mark	_	_
-2	die	_	_	_	order:MF[SO]VC[V]|props:psy-syn	4	det	_	_
+2	die	_	_	_	order:MF[SO]VC[V]|props:psy-syn	3	det	_	_
 3	Kaffees	_	_	_	order:MF[SO]VC[V]|props:psy-syn	5	nsubj	_	_
 4	Mamas	_	_	_	order:MF[SO]VC[V]|props:psy-syn	5	obj	_	_
 5	freuen	_	_	_	order:MF[SO]VC[V]|props:psy-syn	0	root	_	_
