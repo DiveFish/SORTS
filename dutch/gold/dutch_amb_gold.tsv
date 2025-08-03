@@ -3359,11 +3359,11 @@ VF[O]LK[V]MF[S]	regpol-semas	5	2	Een patiënt behandelt de praktijk .
 VF[ADV]LK[V]MF[SO]	regpol-semas	4	6	Daarom behandelt de praktijk een patiënt .
 LK[V]MF[SO]	regpol-semas	3	5	Behandelt de praktijk een patiënt ?
 MF[SO]VC[V]	regpol-semas	3	5	Omdat de praktijk een patiënt behandelt .
-VF[S]LK[V]MF[O]	regpol-semas	4	7	De vereniging van eigenaren berispt een huurder .
-VF[O]LK[V]MF[S]	regpol-semas	7	2	Een huurder berispt de vereniging van eigenaren .
-VF[ADV]LK[V]MF[SO]	regpol-semas	6	8	Daarom berispt de vereniging van eigenaren een huurder .
-LK[V]MF[SO]	regpol-semas	5	7	Berispt de vereniging van eigenaren een huurder ?
-MF[SO]VC[V]	regpol-semas	5	7	Omdat de vereniging van eigenaren een huurder berispt .
+VF[S]LK[V]MF[O]	regpol-semas	2	7	De vereniging van eigenaren berispt een huurder .
+VF[O]LK[V]MF[S]	regpol-semas	5	2	Een huurder berispt de vereniging van eigenaren .
+VF[ADV]LK[V]MF[SO]	regpol-semas	4	8	Daarom berispt de vereniging van eigenaren een huurder .
+LK[V]MF[SO]	regpol-semas	3	7	Berispt de vereniging van eigenaren een huurder ?
+MF[SO]VC[V]	regpol-semas	3	7	Omdat de vereniging van eigenaren een huurder berispt .
 VF[S]LK[V]MF[O]	regpol-semas	2	5	De kerk verzorgt een kerkganger .
 VF[O]LK[V]MF[S]	regpol-semas	5	2	Een kerkganger verzorgt de kerk .
 VF[ADV]LK[V]MF[SO]	regpol-semas	4	6	Daarom verzorgt de kerk een kerkganger .

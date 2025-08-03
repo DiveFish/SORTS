@@ -5151,7 +5151,7 @@
 3	generaals	_	_	_	order:LK[V]MF[SO]|props:base-pp	1	nsubj	_	_		
 4	in	_	_	_	order:LK[V]MF[SO]|props:base-pp	6	case	_	_		
 5	een	_	_	_	order:LK[V]MF[SO]|props:base-pp	6	det	_	_		
-6	week	_	_	_	order:LK[V]MF[SO]|props:base-pp	7	obl	_	_		
+6	week	_	_	_	order:LK[V]MF[SO]|props:base-pp	1	obl	_	_
 7	aanvallen	_	_	_	order:LK[V]MF[SO]|props:base-pp	1	obj	_	_		
 8	?	_	_	_	order:LK[V]MF[SO]|props:base-pp	1	punct	_	_		
 
@@ -5745,7 +5745,7 @@
 3	boeren	_	_	_	order:LK[V]MF[SO]|props:base-pp	1	nsubj	_	_		
 4	in	_	_	_	order:LK[V]MF[SO]|props:base-pp	6	case	_	_		
 5	een	_	_	_	order:LK[V]MF[SO]|props:base-pp	6	det	_	_		
-6	week	_	_	_	order:LK[V]MF[SO]|props:base-pp	7	obl	_	_		
+6	week	_	_	_	order:LK[V]MF[SO]|props:base-pp	1	obl	_	_
 7	hekken	_	_	_	order:LK[V]MF[SO]|props:base-pp	1	obj	_	_		
 8	?	_	_	_	order:LK[V]MF[SO]|props:base-pp	1	punct	_	_		
 
@@ -6026,7 +6026,7 @@
 5	droombruiloft	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-pp	9	obj	_	_		
 6	in	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-pp	8	case	_	_		
 7	een	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-pp	8	det	_	_		
-8	week	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-pp	5	nmod	_	_		
+8	week	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-pp	9	obl	_	_
 9	repeteren	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-pp	0	root	_	_		
 10	.	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-pp	9	punct	_	_		
 
@@ -6049,7 +6049,7 @@
 6	droombruiloft	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-pp	10	obj	_	_		
 7	in	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-pp	9	case	_	_		
 8	een	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-pp	9	det	_	_		
-9	week	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-pp	6	nmod	_	_		
+9	week	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-pp	10	obl	_	_
 10	repeteren	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-pp	0	root	_	_		
 11	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-pp	10	punct	_	_		
 
@@ -6060,7 +6060,7 @@
 5	droombruiloft	_	_	_	order:LK[V]MF[SO]|props:aux-pp	9	obj	_	_		
 6	in	_	_	_	order:LK[V]MF[SO]|props:aux-pp	8	case	_	_		
 7	een	_	_	_	order:LK[V]MF[SO]|props:aux-pp	8	det	_	_		
-8	week	_	_	_	order:LK[V]MF[SO]|props:aux-pp	5	nmod	_	_		
+8	week	_	_	_	order:LK[V]MF[SO]|props:aux-pp	9	obl	_	_
 9	repeteren	_	_	_	order:LK[V]MF[SO]|props:aux-pp	0	root	_	_		
 10	?	_	_	_	order:LK[V]MF[SO]|props:aux-pp	9	punct	_	_		
 
@@ -6071,7 +6071,7 @@
 5	droombruiloft	_	_	_	order:MF[SO]VC[V]|props:aux-pp	10	obj	_	_		
 6	in	_	_	_	order:MF[SO]VC[V]|props:aux-pp	8	case	_	_		
 7	een	_	_	_	order:MF[SO]VC[V]|props:aux-pp	8	det	_	_		
-8	week	_	_	_	order:MF[SO]VC[V]|props:aux-pp	5	nmod	_	_		
+8	week	_	_	_	order:MF[SO]VC[V]|props:aux-pp	10	obl	_	_
 9	zal	_	_	_	order:MF[SO]VC[V]|props:aux-pp	10	aux	_	_		
 10	repeteren	_	_	_	order:MF[SO]VC[V]|props:aux-pp	0	root	_	_		
 11	.	_	_	_	order:MF[SO]VC[V]|props:aux-pp	10	punct	_	_		
@@ -6319,7 +6319,7 @@
 6	koffie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-pp	5	nmod	_	_		
 7	over	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-pp	9	case	_	_		
 8	een	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-pp	9	det	_	_		
-9	week	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-pp	6	nmod	_	_		
+9	week	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-pp	10	obl	_	_
 10	drinken	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-pp	0	root	_	_		
 11	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-pp	10	punct	_	_		
 
@@ -6330,7 +6330,7 @@
 5	koffie	_	_	_	order:LK[V]MF[SO]|props:aux-pp	4	nmod	_	_		
 6	over	_	_	_	order:LK[V]MF[SO]|props:aux-pp	8	case	_	_		
 7	een	_	_	_	order:LK[V]MF[SO]|props:aux-pp	8	det	_	_		
-8	week	_	_	_	order:LK[V]MF[SO]|props:aux-pp	5	nmod	_	_		
+8	week	_	_	_	order:LK[V]MF[SO]|props:aux-pp	9	obl	_	_
 9	drinken	_	_	_	order:LK[V]MF[SO]|props:aux-pp	0	root	_	_		
 10	?	_	_	_	order:LK[V]MF[SO]|props:aux-pp	9	punct	_	_		
 
@@ -6341,7 +6341,7 @@
 5	koffie	_	_	_	order:MF[SO]VC[V]|props:aux-pp	4	nmod	_	_		
 6	over	_	_	_	order:MF[SO]VC[V]|props:aux-pp	8	case	_	_		
 7	een	_	_	_	order:MF[SO]VC[V]|props:aux-pp	8	det	_	_		
-8	week	_	_	_	order:MF[SO]VC[V]|props:aux-pp	5	nmod	_	_		
+8	week	_	_	_	order:MF[SO]VC[V]|props:aux-pp	10	obl	_	_
 9	zullen	_	_	_	order:MF[SO]VC[V]|props:aux-pp	10	aux	_	_		
 10	drinken	_	_	_	order:MF[SO]VC[V]|props:aux-pp	0	root	_	_		
 11	.	_	_	_	order:MF[SO]VC[V]|props:aux-pp	10	punct	_	_		
@@ -6405,7 +6405,7 @@
 5	onderhandeling	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-pp	9	obj	_	_		
 6	over	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-pp	8	case	_	_		
 7	een	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-pp	8	det	_	_		
-8	week	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-pp	5	nmod	_	_		
+8	week	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-pp	9	obl	_	_
 9	beginnen	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-pp	0	root	_	_		
 10	.	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-pp	9	punct	_	_		
 
@@ -6428,7 +6428,7 @@
 6	onderhandeling	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-pp	10	obj	_	_		
 7	over	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-pp	9	case	_	_		
 8	een	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-pp	9	det	_	_		
-9	week	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-pp	6	nmod	_	_		
+9	week	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-pp	10	obl	_	_
 10	beginnen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-pp	0	root	_	_		
 11	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-pp	10	punct	_	_		
 
@@ -6450,7 +6450,7 @@
 5	onderhandeling	_	_	_	order:MF[SO]VC[V]|props:aux-pp	10	obj	_	_		
 6	over	_	_	_	order:MF[SO]VC[V]|props:aux-pp	8	case	_	_		
 7	een	_	_	_	order:MF[SO]VC[V]|props:aux-pp	8	det	_	_		
-8	week	_	_	_	order:MF[SO]VC[V]|props:aux-pp	5	nmod	_	_		
+8	week	_	_	_	order:MF[SO]VC[V]|props:aux-pp	10	obl	_	_
 9	zal	_	_	_	order:MF[SO]VC[V]|props:aux-pp	10	aux	_	_		
 10	beginnen	_	_	_	order:MF[SO]VC[V]|props:aux-pp	0	root	_	_		
 11	.	_	_	_	order:MF[SO]VC[V]|props:aux-pp	10	punct	_	_		
@@ -6462,7 +6462,7 @@
 5	basissalaris	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-pp	9	obj	_	_		
 6	over	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-pp	8	case	_	_		
 7	een	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-pp	8	det	_	_		
-8	week	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-pp	5	nmod	_	_		
+8	week	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-pp	9	obl	_	_
 9	krijgen	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-pp	0	root	_	_		
 10	.	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-pp	9	punct	_	_		
 
@@ -6485,7 +6485,7 @@
 6	basissalaris	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-pp	10	obj	_	_		
 7	over	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-pp	9	case	_	_		
 8	een	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-pp	9	det	_	_		
-9	week	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-pp	6	nmod	_	_		
+9	week	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-pp	10	obl	_	_
 10	krijgen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-pp	0	root	_	_		
 11	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-pp	10	punct	_	_		
 
@@ -6496,7 +6496,7 @@
 5	basissalaris	_	_	_	order:LK[V]MF[SO]|props:aux-pp	9	obj	_	_		
 6	over	_	_	_	order:LK[V]MF[SO]|props:aux-pp	8	case	_	_		
 7	een	_	_	_	order:LK[V]MF[SO]|props:aux-pp	8	det	_	_		
-8	week	_	_	_	order:LK[V]MF[SO]|props:aux-pp	5	nmod	_	_		
+8	week	_	_	_	order:LK[V]MF[SO]|props:aux-pp	9	obl	_	_
 9	krijgen	_	_	_	order:LK[V]MF[SO]|props:aux-pp	0	root	_	_		
 10	?	_	_	_	order:LK[V]MF[SO]|props:aux-pp	9	punct	_	_		
 
@@ -6507,7 +6507,7 @@
 5	basissalaris	_	_	_	order:MF[SO]VC[V]|props:aux-pp	10	obj	_	_		
 6	over	_	_	_	order:MF[SO]VC[V]|props:aux-pp	8	case	_	_		
 7	een	_	_	_	order:MF[SO]VC[V]|props:aux-pp	8	det	_	_		
-8	week	_	_	_	order:MF[SO]VC[V]|props:aux-pp	5	nmod	_	_		
+8	week	_	_	_	order:MF[SO]VC[V]|props:aux-pp	10	obl	_	_
 9	zal	_	_	_	order:MF[SO]VC[V]|props:aux-pp	10	aux	_	_		
 10	krijgen	_	_	_	order:MF[SO]VC[V]|props:aux-pp	0	root	_	_		
 11	.	_	_	_	order:MF[SO]VC[V]|props:aux-pp	10	punct	_	_		
@@ -6571,7 +6571,7 @@
 5	toer	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-pp	9	obj	_	_		
 6	in	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-pp	8	case	_	_		
 7	een	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-pp	8	det	_	_		
-8	week	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-pp	5	nmod	_	_		
+8	week	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-pp	9	obl	_	_
 9	winnen	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-pp	0	root	_	_		
 10	.	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-pp	9	punct	_	_		
 
@@ -6594,7 +6594,7 @@
 6	toer	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-pp	10	obj	_	_		
 7	in	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-pp	9	case	_	_		
 8	een	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-pp	9	det	_	_		
-9	week	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-pp	6	nmod	_	_		
+9	week	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-pp	10	obl	_	_
 10	winnen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-pp	0	root	_	_		
 11	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-pp	10	punct	_	_		
 
@@ -6605,7 +6605,7 @@
 5	toer	_	_	_	order:LK[V]MF[SO]|props:aux-pp	9	obj	_	_		
 6	in	_	_	_	order:LK[V]MF[SO]|props:aux-pp	8	case	_	_		
 7	een	_	_	_	order:LK[V]MF[SO]|props:aux-pp	8	det	_	_		
-8	week	_	_	_	order:LK[V]MF[SO]|props:aux-pp	5	nmod	_	_		
+8	week	_	_	_	order:LK[V]MF[SO]|props:aux-pp	9	obl	_	_
 9	winnen	_	_	_	order:LK[V]MF[SO]|props:aux-pp	0	root	_	_		
 10	?	_	_	_	order:LK[V]MF[SO]|props:aux-pp	9	punct	_	_		
 
@@ -6616,7 +6616,7 @@
 5	toer	_	_	_	order:MF[SO]VC[V]|props:aux-pp	10	obj	_	_		
 6	in	_	_	_	order:MF[SO]VC[V]|props:aux-pp	8	case	_	_		
 7	een	_	_	_	order:MF[SO]VC[V]|props:aux-pp	8	det	_	_		
-8	week	_	_	_	order:MF[SO]VC[V]|props:aux-pp	5	nmod	_	_		
+8	week	_	_	_	order:MF[SO]VC[V]|props:aux-pp	10	obl	_	_
 9	zal	_	_	_	order:MF[SO]VC[V]|props:aux-pp	10	aux	_	_		
 10	winnen	_	_	_	order:MF[SO]VC[V]|props:aux-pp	0	root	_	_		
 11	.	_	_	_	order:MF[SO]VC[V]|props:aux-pp	10	punct	_	_		
@@ -6702,7 +6702,7 @@
 2	ze	_	_	_	order:LK[V]MF[SO]|props:spron-pp	1	nsubj	_	_		
 3	in	_	_	_	order:LK[V]MF[SO]|props:spron-pp	5	case	_	_		
 4	een	_	_	_	order:LK[V]MF[SO]|props:spron-pp	5	det	_	_		
-5	week	_	_	_	order:LK[V]MF[SO]|props:spron-pp	6	obl	_	_		
+5	week	_	_	_	order:LK[V]MF[SO]|props:spron-pp	1	obl	_	_
 6	aanvallen	_	_	_	order:LK[V]MF[SO]|props:spron-pp	1	obj	_	_		
 7	?	_	_	_	order:LK[V]MF[SO]|props:spron-pp	1	punct	_	_		
 
@@ -7211,7 +7211,7 @@
 2	ze	_	_	_	order:LK[V]MF[SO]|props:spron-pp	1	nsubj	_	_		
 3	in	_	_	_	order:LK[V]MF[SO]|props:spron-pp	5	case	_	_		
 4	een	_	_	_	order:LK[V]MF[SO]|props:spron-pp	5	det	_	_		
-5	week	_	_	_	order:LK[V]MF[SO]|props:spron-pp	6	obl	_	_		
+5	week	_	_	_	order:LK[V]MF[SO]|props:spron-pp	1	obl	_	_
 6	hekken	_	_	_	order:LK[V]MF[SO]|props:spron-pp	1	obj	_	_		
 7	?	_	_	_	order:LK[V]MF[SO]|props:spron-pp	1	punct	_	_		
 
@@ -7253,7 +7253,7 @@
 2	ze	_	_	_	order:LK[V]MF[SO]|props:spron-pp	1	nsubj	_	_		
 3	in	_	_	_	order:LK[V]MF[SO]|props:spron-pp	5	case	_	_		
 4	een	_	_	_	order:LK[V]MF[SO]|props:spron-pp	5	det	_	_		
-5	week	_	_	_	order:LK[V]MF[SO]|props:spron-pp	6	obl	_	_		
+5	week	_	_	_	order:LK[V]MF[SO]|props:spron-pp	1	obl	_	_
 6	touren	_	_	_	order:LK[V]MF[SO]|props:spron-pp	1	obj	_	_		
 7	?	_	_	_	order:LK[V]MF[SO]|props:spron-pp	1	punct	_	_		
 
@@ -8900,7 +8900,7 @@
 6	.	_	_	_	order:MF[SO]VC[V]|props:base-sinan	5	punct	_	_		
 
 1	Het	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sinan	2	det	_	_		
-2	muurreli������f	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sinan	3	nsubj	_	_		
+2	muurreliëf	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sinan	3	nsubj	_	_		
 3	roept	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sinan	0	root	_	_		
 4	een	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sinan	5	det	_	_		
 5	hallo	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sinan	3	obj	_	_		
@@ -8910,27 +8910,27 @@
 2	hallo	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sinan	3	obj	_	_		
 3	roept	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sinan	0	root	_	_		
 4	het	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sinan	5	det	_	_		
-5	muurreli������f	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sinan	3	nsubj	_	_		
+5	muurreliëf	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sinan	3	nsubj	_	_		
 6	.	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sinan	3	punct	_	_		
 
 1	Daarom	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sinan	2	advmod	_	_		
 2	roept	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sinan	0	root	_	_		
 3	het	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sinan	4	det	_	_		
-4	muurreli������f	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sinan	2	nsubj	_	_		
+4	muurreliëf	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sinan	2	nsubj	_	_		
 5	een	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sinan	6	det	_	_		
 6	hallo	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sinan	2	obj	_	_		
 7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sinan	2	punct	_	_		
 
 1	Roept	_	_	_	order:LK[V]MF[SO]|props:base-sinan	0	root	_	_		
 2	het	_	_	_	order:LK[V]MF[SO]|props:base-sinan	3	det	_	_		
-3	muurreli������f	_	_	_	order:LK[V]MF[SO]|props:base-sinan	1	nsubj	_	_		
+3	muurreliëf	_	_	_	order:LK[V]MF[SO]|props:base-sinan	1	nsubj	_	_		
 4	een	_	_	_	order:LK[V]MF[SO]|props:base-sinan	5	det	_	_		
 5	hallo	_	_	_	order:LK[V]MF[SO]|props:base-sinan	1	obj	_	_		
 6	?	_	_	_	order:LK[V]MF[SO]|props:base-sinan	1	punct	_	_		
 
 1	Omdat	_	_	_	order:MF[SO]VC[V]|props:base-sinan	6	mark	_	_		
 2	het	_	_	_	order:MF[SO]VC[V]|props:base-sinan	3	det	_	_		
-3	muurreli������f	_	_	_	order:MF[SO]VC[V]|props:base-sinan	6	nsubj	_	_		
+3	muurreliëf	_	_	_	order:MF[SO]VC[V]|props:base-sinan	6	nsubj	_	_		
 4	een	_	_	_	order:MF[SO]VC[V]|props:base-sinan	5	det	_	_		
 5	hallo	_	_	_	order:MF[SO]VC[V]|props:base-sinan	6	obj	_	_		
 6	roept	_	_	_	order:MF[SO]VC[V]|props:base-sinan	0	root	_	_		
@@ -9440,7 +9440,7 @@
 7	.	_	_	_	order:MF[SO]VC[V]|props:aux-sinan	6	punct	_	_		
 
 1	Het	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sinan	2	det	_	_		
-2	muurreli������f	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sinan	6	nsubj	_	_		
+2	muurreliëf	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sinan	6	nsubj	_	_		
 3	zal	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sinan	6	aux	_	_		
 4	een	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sinan	5	det	_	_		
 5	hallo	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sinan	6	obj	_	_		
@@ -9451,14 +9451,14 @@
 2	hallo	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sinan	6	obj	_	_		
 3	zal	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sinan	6	aux	_	_		
 4	het	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sinan	5	det	_	_		
-5	muurreli������f	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sinan	6	nsubj	_	_		
+5	muurreliëf	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sinan	6	nsubj	_	_		
 6	roepen	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sinan	0	root	_	_		
 7	.	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sinan	6	punct	_	_		
 
 1	Daarom	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sinan	7	advmod	_	_		
 2	zal	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sinan	7	aux	_	_		
 3	het	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sinan	4	det	_	_		
-4	muurreli������f	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sinan	7	nsubj	_	_		
+4	muurreliëf	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sinan	7	nsubj	_	_		
 5	een	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sinan	6	det	_	_		
 6	hallo	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sinan	7	obj	_	_		
 7	roepen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sinan	0	root	_	_		
@@ -9466,7 +9466,7 @@
 
 1	Zal	_	_	_	order:LK[V]MF[SO]|props:aux-sinan	6	aux	_	_		
 2	het	_	_	_	order:LK[V]MF[SO]|props:aux-sinan	3	det	_	_		
-3	muurreli������f	_	_	_	order:LK[V]MF[SO]|props:aux-sinan	6	nsubj	_	_		
+3	muurreliëf	_	_	_	order:LK[V]MF[SO]|props:aux-sinan	6	nsubj	_	_		
 4	een	_	_	_	order:LK[V]MF[SO]|props:aux-sinan	5	det	_	_		
 5	hallo	_	_	_	order:LK[V]MF[SO]|props:aux-sinan	6	obj	_	_		
 6	roepen	_	_	_	order:LK[V]MF[SO]|props:aux-sinan	0	root	_	_		
@@ -9474,7 +9474,7 @@
 
 1	Omdat	_	_	_	order:MF[SO]VC[V]|props:aux-sinan	7	mark	_	_		
 2	het	_	_	_	order:MF[SO]VC[V]|props:aux-sinan	3	det	_	_		
-3	muurreli������f	_	_	_	order:MF[SO]VC[V]|props:aux-sinan	7	nsubj	_	_		
+3	muurreliëf	_	_	_	order:MF[SO]VC[V]|props:aux-sinan	7	nsubj	_	_		
 4	een	_	_	_	order:MF[SO]VC[V]|props:aux-sinan	5	det	_	_		
 5	hallo	_	_	_	order:MF[SO]VC[V]|props:aux-sinan	7	obj	_	_		
 6	zal	_	_	_	order:MF[SO]VC[V]|props:aux-sinan	7	aux	_	_		
@@ -10020,7 +10020,7 @@
 6	.	_	_	_	order:MF[SO]VC[V]|props:opron-sinan	5	punct	_	_		
 
 1	Het	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-sinan	2	det	_	_		
-2	muurreli������f	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-sinan	3	nsubj	_	_		
+2	muurreliëf	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-sinan	3	nsubj	_	_		
 3	roept	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-sinan	0	root	_	_		
 4	het	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-sinan	3	obj	_	_		
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-sinan	3	punct	_	_		
@@ -10028,25 +10028,25 @@
 1	Het	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-sinan	2	obj	_	_		
 2	roept	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-sinan	0	root	_	_		
 3	het	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-sinan	4	det	_	_		
-4	muurreli������f	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-sinan	2	nsubj	_	_		
+4	muurreliëf	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-sinan	2	nsubj	_	_		
 5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-sinan	2	punct	_	_		
 
 1	Daarom	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sinan	2	advmod	_	_		
 2	roept	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sinan	0	root	_	_		
 3	het	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sinan	4	det	_	_		
-4	muurreli������f	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sinan	2	nsubj	_	_		
+4	muurreliëf	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sinan	2	nsubj	_	_		
 5	het	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sinan	2	obj	_	_		
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sinan	2	punct	_	_		
 
 1	Roept	_	_	_	order:LK[V]MF[SO]|props:opron-sinan	0	root	_	_		
 2	het	_	_	_	order:LK[V]MF[SO]|props:opron-sinan	3	det	_	_		
-3	muurreli������f	_	_	_	order:LK[V]MF[SO]|props:opron-sinan	1	nsubj	_	_		
+3	muurreliëf	_	_	_	order:LK[V]MF[SO]|props:opron-sinan	1	nsubj	_	_		
 4	het	_	_	_	order:LK[V]MF[SO]|props:opron-sinan	1	obj	_	_		
 5	?	_	_	_	order:LK[V]MF[SO]|props:opron-sinan	1	punct	_	_		
 
 1	Omdat	_	_	_	order:MF[SO]VC[V]|props:opron-sinan	5	mark	_	_		
 2	het	_	_	_	order:MF[SO]VC[V]|props:opron-sinan	3	det	_	_		
-3	muurreli������f	_	_	_	order:MF[SO]VC[V]|props:opron-sinan	5	nsubj	_	_		
+3	muurreliëf	_	_	_	order:MF[SO]VC[V]|props:opron-sinan	5	nsubj	_	_		
 4	het	_	_	_	order:MF[SO]VC[V]|props:opron-sinan	5	obj	_	_		
 5	roept	_	_	_	order:MF[SO]VC[V]|props:opron-sinan	0	root	_	_		
 6	.	_	_	_	order:MF[SO]VC[V]|props:opron-sinan	5	punct	_	_		
@@ -10291,7 +10291,7 @@
 7	.	_	_	_	order:MF[SO]VC[V]|props:oneg-sinan	6	punct	_	_		
 
 1	Het	_	_	_	order:VF[S]LK[V]MF[O]|props:oneg-sinan	2	det	_	_		
-2	muurreli������f	_	_	_	order:VF[S]LK[V]MF[O]|props:oneg-sinan	3	nsubj	_	_		
+2	muurreliëf	_	_	_	order:VF[S]LK[V]MF[O]|props:oneg-sinan	3	nsubj	_	_		
 3	roept	_	_	_	order:VF[S]LK[V]MF[O]|props:oneg-sinan	0	root	_	_		
 4	geen	_	_	_	order:VF[S]LK[V]MF[O]|props:oneg-sinan	5	det	_	_		
 5	hallo	_	_	_	order:VF[S]LK[V]MF[O]|props:oneg-sinan	3	obj	_	_		
@@ -10301,27 +10301,27 @@
 2	hallo	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-sinan	3	obj	_	_		
 3	roept	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-sinan	0	root	_	_		
 4	het	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-sinan	5	det	_	_		
-5	muurreli������f	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-sinan	3	nsubj	_	_		
+5	muurreliëf	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-sinan	3	nsubj	_	_		
 6	.	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-sinan	3	punct	_	_		
 
 1	Daarom	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-sinan	2	advmod	_	_		
 2	roept	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-sinan	0	root	_	_		
 3	het	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-sinan	4	det	_	_		
-4	muurreli������f	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-sinan	2	nsubj	_	_		
+4	muurreliëf	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-sinan	2	nsubj	_	_		
 5	geen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-sinan	6	det	_	_		
 6	hallo	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-sinan	2	obj	_	_		
 7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-sinan	2	punct	_	_		
 
 1	Roept	_	_	_	order:LK[V]MF[SO]|props:oneg-sinan	0	root	_	_		
 2	het	_	_	_	order:LK[V]MF[SO]|props:oneg-sinan	3	det	_	_		
-3	muurreli������f	_	_	_	order:LK[V]MF[SO]|props:oneg-sinan	1	nsubj	_	_		
+3	muurreliëf	_	_	_	order:LK[V]MF[SO]|props:oneg-sinan	1	nsubj	_	_		
 4	geen	_	_	_	order:LK[V]MF[SO]|props:oneg-sinan	5	det	_	_		
 5	hallo	_	_	_	order:LK[V]MF[SO]|props:oneg-sinan	1	obj	_	_		
 6	?	_	_	_	order:LK[V]MF[SO]|props:oneg-sinan	1	punct	_	_		
 
 1	Omdat	_	_	_	order:MF[SO]VC[V]|props:oneg-sinan	6	mark	_	_		
 2	het	_	_	_	order:MF[SO]VC[V]|props:oneg-sinan	3	det	_	_		
-3	muurreli������f	_	_	_	order:MF[SO]VC[V]|props:oneg-sinan	6	nsubj	_	_		
+3	muurreliëf	_	_	_	order:MF[SO]VC[V]|props:oneg-sinan	6	nsubj	_	_		
 4	geen	_	_	_	order:MF[SO]VC[V]|props:oneg-sinan	5	det	_	_		
 5	hallo	_	_	_	order:MF[SO]VC[V]|props:oneg-sinan	6	obj	_	_		
 6	roept	_	_	_	order:MF[SO]VC[V]|props:oneg-sinan	0	root	_	_		
@@ -10751,7 +10751,7 @@
 5	quotum	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sinan	3	nsubj	_	_		
 6	over	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sinan	8	case	_	_		
 7	een	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sinan	8	det	_	_		
-8	week	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sinan	5	nmod	_	_		
+8	week	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sinan	3	obl	_	_
 9	.	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sinan	3	punct	_	_		
 
 1	Daarom	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sinan	2	advmod	_	_		
@@ -10881,7 +10881,7 @@
 9	.	_	_	_	order:MF[SO]VC[V]|props:pp-sinan	8	punct	_	_		
 
 1	Het	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sinan	2	det	_	_		
-2	muurreli������f	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sinan	3	nsubj	_	_		
+2	muurreliëf	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sinan	3	nsubj	_	_		
 3	roept	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sinan	0	root	_	_		
 4	in	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sinan	6	case	_	_		
 5	een	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sinan	6	det	_	_		
@@ -10894,7 +10894,7 @@
 2	hallo	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sinan	3	obj	_	_		
 3	roept	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sinan	0	root	_	_		
 4	het	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sinan	5	det	_	_		
-5	muurreli������f	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sinan	3	nsubj	_	_		
+5	muurreliëf	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sinan	3	nsubj	_	_		
 6	in	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sinan	8	case	_	_		
 7	een	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sinan	8	det	_	_		
 8	week	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sinan	3	obl	_	_		
@@ -10903,7 +10903,7 @@
 1	Daarom	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sinan	2	advmod	_	_		
 2	roept	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sinan	0	root	_	_		
 3	het	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sinan	4	det	_	_		
-4	muurreli������f	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sinan	2	nsubj	_	_		
+4	muurreliëf	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sinan	2	nsubj	_	_		
 5	in	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sinan	7	case	_	_		
 6	een	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sinan	7	det	_	_		
 7	week	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sinan	2	obl	_	_		
@@ -10913,7 +10913,7 @@
 
 1	Roept	_	_	_	order:LK[V]MF[SO]|props:pp-sinan	0	root	_	_		
 2	het	_	_	_	order:LK[V]MF[SO]|props:pp-sinan	3	det	_	_		
-3	muurreli������f	_	_	_	order:LK[V]MF[SO]|props:pp-sinan	1	nsubj	_	_		
+3	muurreliëf	_	_	_	order:LK[V]MF[SO]|props:pp-sinan	1	nsubj	_	_		
 4	in	_	_	_	order:LK[V]MF[SO]|props:pp-sinan	6	case	_	_		
 5	een	_	_	_	order:LK[V]MF[SO]|props:pp-sinan	6	det	_	_		
 6	week	_	_	_	order:LK[V]MF[SO]|props:pp-sinan	1	obl	_	_		
@@ -10923,7 +10923,7 @@
 
 1	Omdat	_	_	_	order:MF[SO]VC[V]|props:pp-sinan	9	mark	_	_		
 2	het	_	_	_	order:MF[SO]VC[V]|props:pp-sinan	3	det	_	_		
-3	muurreli������f	_	_	_	order:MF[SO]VC[V]|props:pp-sinan	9	nsubj	_	_		
+3	muurreliëf	_	_	_	order:MF[SO]VC[V]|props:pp-sinan	9	nsubj	_	_		
 4	in	_	_	_	order:MF[SO]VC[V]|props:pp-sinan	6	case	_	_		
 5	een	_	_	_	order:MF[SO]VC[V]|props:pp-sinan	6	det	_	_		
 6	week	_	_	_	order:MF[SO]VC[V]|props:pp-sinan	9	obl	_	_		
@@ -10949,7 +10949,7 @@
 5	video-installatie	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sinan	3	nsubj	_	_		
 6	na	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sinan	8	case	_	_		
 7	een	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sinan	8	det	_	_		
-8	week	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sinan	5	nmod	_	_		
+8	week	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sinan	3	obl	_	_
 9	.	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sinan	3	punct	_	_		
 
 1	Daarom	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sinan	2	advmod	_	_		
@@ -11048,7 +11048,7 @@
 5	werk	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sinan	3	nsubj	_	_		
 6	over	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sinan	8	case	_	_		
 7	een	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sinan	8	det	_	_		
-8	week	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sinan	5	nmod	_	_		
+8	week	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sinan	3	obl	_	_
 9	.	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sinan	3	punct	_	_		
 
 1	Daarom	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sinan	2	advmod	_	_		
@@ -11187,7 +11187,7 @@
 3	vernietigen	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sinan	0	root	_	_		
 4	over	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sinan	6	case	_	_		
 5	een	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sinan	6	det	_	_		
-6	week	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sinan	7	nmod	_	_		
+6	week	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sinan	3	obl	_	_
 7	plaatsen	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sinan	3	obj	_	_		
 8	.	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sinan	3	punct	_	_		
 
@@ -11215,7 +11215,7 @@
 3	orkanen	_	_	_	order:LK[V]MF[SO]|props:pp-sinan	1	nsubj	_	_		
 4	over	_	_	_	order:LK[V]MF[SO]|props:pp-sinan	6	case	_	_		
 5	een	_	_	_	order:LK[V]MF[SO]|props:pp-sinan	6	det	_	_		
-6	week	_	_	_	order:LK[V]MF[SO]|props:pp-sinan	7	nmod	_	_		
+6	week	_	_	_	order:LK[V]MF[SO]|props:pp-sinan	1	obl	_	_
 7	plaatsen	_	_	_	order:LK[V]MF[SO]|props:pp-sinan	1	obj	_	_		
 8	?	_	_	_	order:LK[V]MF[SO]|props:pp-sinan	1	punct	_	_		
 
@@ -11246,7 +11246,7 @@
 5	lek	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sinan	3	nsubj	_	_		
 6	na	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sinan	8	case	_	_		
 7	een	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sinan	8	det	_	_		
-8	week	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sinan	5	nmod	_	_		
+8	week	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sinan	3	obl	_	_
 9	.	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sinan	3	punct	_	_		
 
 1	Daarom	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sinan	2	advmod	_	_		
@@ -11769,13 +11769,13 @@
 
 1	Daarom	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-oan	2	advmod	_	_		
 2	babysitten	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-oan	0	root	_	_		
-3	de	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-oan	5	det	_	_		
+3	de	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-oan	4	det	_	_
 4	18-jarigen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-oan	2	nsubj	_	_		
 5	kinderen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-oan	2	obj	_	_		
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-oan	2	punct	_	_		
 
 1	Babysitten	_	_	_	order:LK[V]MF[SO]|props:base-oan	0	root	_	_		
-2	de	_	_	_	order:LK[V]MF[SO]|props:base-oan	4	det	_	_		
+2	de	_	_	_	order:LK[V]MF[SO]|props:base-oan	3	det	_	_
 3	18-jarigen	_	_	_	order:LK[V]MF[SO]|props:base-oan	1	nsubj	_	_		
 4	kinderen	_	_	_	order:LK[V]MF[SO]|props:base-oan	1	obj	_	_		
 5	?	_	_	_	order:LK[V]MF[SO]|props:base-oan	1	punct	_	_		
@@ -12321,14 +12321,14 @@
 
 1	Daarom	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-oan	6	advmod	_	_		
 2	zullen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-oan	6	aux	_	_		
-3	de	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-oan	5	det	_	_		
+3	de	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-oan	4	det	_	_
 4	18-jarigen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-oan	6	nsubj	_	_		
 5	kinderen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-oan	6	obj	_	_		
 6	babysitten	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-oan	0	root	_	_		
 7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-oan	6	punct	_	_		
 
 1	Zullen	_	_	_	order:LK[V]MF[SO]|props:aux-oan	5	aux	_	_		
-2	de	_	_	_	order:LK[V]MF[SO]|props:aux-oan	4	det	_	_		
+2	de	_	_	_	order:LK[V]MF[SO]|props:aux-oan	3	det	_	_
 3	18-jarigen	_	_	_	order:LK[V]MF[SO]|props:aux-oan	5	nsubj	_	_		
 4	kinderen	_	_	_	order:LK[V]MF[SO]|props:aux-oan	5	obj	_	_		
 5	babysitten	_	_	_	order:LK[V]MF[SO]|props:aux-oan	0	root	_	_		
@@ -13560,7 +13560,7 @@
 6	.	_	_	_	order:MF[SO]VC[V]|props:sinan-oan	5	punct	_	_		
 
 1	De	_	_	_	order:VF[S]LK[V]MF[O]|props:sinan-oan	2	det	_	_		
-2	muurreli������fs	_	_	_	order:VF[S]LK[V]MF[O]|props:sinan-oan	3	nsubj	_	_		
+2	muurreliëfs	_	_	_	order:VF[S]LK[V]MF[O]|props:sinan-oan	3	nsubj	_	_		
 3	roepen	_	_	_	order:VF[S]LK[V]MF[O]|props:sinan-oan	0	root	_	_		
 4	schilders	_	_	_	order:VF[S]LK[V]MF[O]|props:sinan-oan	3	obj	_	_		
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:sinan-oan	3	punct	_	_		
@@ -13568,25 +13568,25 @@
 1	Schilders	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-oan	2	obj	_	_		
 2	roepen	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-oan	0	root	_	_		
 3	de	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-oan	4	det	_	_		
-4	muurreli������fs	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-oan	2	nsubj	_	_		
+4	muurreliëfs	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-oan	2	nsubj	_	_		
 5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-oan	2	punct	_	_		
 
 1	Daarom	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sinan-oan	2	advmod	_	_		
 2	roepen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sinan-oan	0	root	_	_		
 3	de	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sinan-oan	4	det	_	_		
-4	muurreli������fs	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sinan-oan	2	nsubj	_	_		
+4	muurreliëfs	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sinan-oan	2	nsubj	_	_		
 5	schilders	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sinan-oan	2	obj	_	_		
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sinan-oan	2	punct	_	_		
 
 1	Roepen	_	_	_	order:LK[V]MF[SO]|props:sinan-oan	0	root	_	_		
 2	de	_	_	_	order:LK[V]MF[SO]|props:sinan-oan	3	det	_	_		
-3	muurreli������fs	_	_	_	order:LK[V]MF[SO]|props:sinan-oan	1	nsubj	_	_		
+3	muurreliëfs	_	_	_	order:LK[V]MF[SO]|props:sinan-oan	1	nsubj	_	_		
 4	schilders	_	_	_	order:LK[V]MF[SO]|props:sinan-oan	1	obj	_	_		
 5	?	_	_	_	order:LK[V]MF[SO]|props:sinan-oan	1	punct	_	_		
 
 1	Omdat	_	_	_	order:MF[SO]VC[V]|props:sinan-oan	5	mark	_	_		
 2	de	_	_	_	order:MF[SO]VC[V]|props:sinan-oan	3	det	_	_		
-3	muurreli������fs	_	_	_	order:MF[SO]VC[V]|props:sinan-oan	5	nsubj	_	_		
+3	muurreliëfs	_	_	_	order:MF[SO]VC[V]|props:sinan-oan	5	nsubj	_	_		
 4	schilders	_	_	_	order:MF[SO]VC[V]|props:sinan-oan	5	obj	_	_		
 5	roepen	_	_	_	order:MF[SO]VC[V]|props:sinan-oan	0	root	_	_		
 6	.	_	_	_	order:MF[SO]VC[V]|props:sinan-oan	5	punct	_	_		
@@ -13841,7 +13841,7 @@
 4	wandelaars	_	_	_	order:VF[S]LK[V]MF[O]|props:base-invan	3	obj	_	_		
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:base-invan	3	punct	_	_		
 
-1	Wandelaars	_	_	_	order:VF[O]LK[V]MF[S]|props:base-invan	2	obj	_	_		
+1	Wandelaars	_	_	_	order:VF[O]LK[V]MF[S]|props:base-invan	2	obj	_	_
 2	verwarmen	_	_	_	order:VF[O]LK[V]MF[S]|props:base-invan	0	root	_	_		
 3	de	_	_	_	order:VF[O]LK[V]MF[S]|props:base-invan	4	det	_	_		
 4	kachels	_	_	_	order:VF[O]LK[V]MF[S]|props:base-invan	2	nsubj	_	_		
@@ -13945,13 +13945,13 @@
 
 1	Daarom	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-invan	2	advmod	_	_		
 2	beschermen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-invan	0	root	_	_		
-3	de	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-invan	5	det	_	_		
+3	de	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-invan	4	det	_	_
 4	complexen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-invan	2	nsubj	_	_		
 5	reizigers	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-invan	2	obj	_	_		
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-invan	2	punct	_	_		
 
 1	Beschermen	_	_	_	order:LK[V]MF[SO]|props:base-invan	0	root	_	_		
-2	de	_	_	_	order:LK[V]MF[SO]|props:base-invan	4	det	_	_		
+2	de	_	_	_	order:LK[V]MF[SO]|props:base-invan	3	det	_	_
 3	complexen	_	_	_	order:LK[V]MF[SO]|props:base-invan	1	nsubj	_	_		
 4	reizigers	_	_	_	order:LK[V]MF[SO]|props:base-invan	1	obj	_	_		
 5	?	_	_	_	order:LK[V]MF[SO]|props:base-invan	1	punct	_	_		
@@ -14143,7 +14143,7 @@
 1	Een	_	_	_	order:VF[O]LK[V]MF[S]|props:base-invan	2	det	_	_		
 2	entertainer	_	_	_	order:VF[O]LK[V]MF[S]|props:base-invan	3	obj	_	_		
 3	staat	_	_	_	order:VF[O]LK[V]MF[S]|props:base-invan	0	root	_	_		
-4	de	_	_	_	order:VF[O]LK[V]MF[S]|props:base-invan	3	compound:prt	_	_		
+4	de	_	_	_	order:VF[O]LK[V]MF[S]|props:base-invan	5	det	_	_
 5	broek	_	_	_	order:VF[O]LK[V]MF[S]|props:base-invan	3	nsubj	_	_		
 6	.	_	_	_	order:VF[O]LK[V]MF[S]|props:base-invan	3	punct	_	_		
 
@@ -14177,7 +14177,7 @@
 5	bij	_	_	_	order:VF[S]LK[V]MF[O]|props:base-invan	3	obj	_	_		
 6	.	_	_	_	order:VF[S]LK[V]MF[O]|props:base-invan	3	punct	_	_		
 
-1	Een	_	_	_	order:VF[O]LK[V]MF[S]|props:base-invan	3	nsubj	_	_		
+1	Een	_	_	_	order:VF[O]LK[V]MF[S]|props:base-invan	1	det	_	_
 2	bij	_	_	_	order:VF[O]LK[V]MF[S]|props:base-invan	3	obj	_	_		
 3	bedreigt	_	_	_	order:VF[O]LK[V]MF[S]|props:base-invan	0	root	_	_		
 4	de	_	_	_	order:VF[O]LK[V]MF[S]|props:base-invan	5	det	_	_		
@@ -14724,7 +14724,7 @@
 1	Een	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-invan	2	det	_	_		
 2	entertainer	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-invan	6	obj	_	_		
 3	zal	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-invan	6	aux	_	_		
-4	de	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-invan	6	compound:prt	_	_		
+4	de	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-invan	5	det	_	_
 5	broek	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-invan	6	nsubj	_	_		
 6	staan	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-invan	0	root	_	_		
 7	.	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-invan	6	punct	_	_		
@@ -14775,7 +14775,7 @@
 2	zal	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-invan	7	aux	_	_		
 3	de	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-invan	4	det	_	_		
 4	klimaatverandering	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-invan	7	nsubj	_	_		
-5	een	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-invan	7	det	_	_		
+5	een	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-invan	6	det	_	_
 6	bij	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-invan	7	obj	_	_		
 7	bedreigen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-invan	0	root	_	_		
 8	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-invan	7	punct	_	_		
@@ -15405,7 +15405,7 @@
 
 1	Ze	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-invan	2	obj	_	_		
 2	staan	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-invan	0	root	_	_		
-3	de	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-invan	2	compound:prt	_	_		
+3	de	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-invan	4	det	_	_
 4	broeken	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-invan	2	nsubj	_	_		
 5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-invan	2	punct	_	_		
 
@@ -15952,13 +15952,13 @@
 1	Geen	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-invan	2	det	_	_		
 2	entertainer	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-invan	3	obj	_	_		
 3	staat	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-invan	0	root	_	_		
-4	de	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-invan	3	compound:prt	_	_		
+4	de	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-invan	5	det	_	_
 5	broek	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-invan	3	nsubj	_	_		
 6	.	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-invan	3	punct	_	_		
 
 1	Daarom	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-invan	2	advmod	_	_		
 2	staat	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-invan	0	root	_	_		
-3	de	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-invan	2	compound:prt	_	_		
+3	de	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-invan	4	det	_	_
 4	broek	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-invan	2	nsubj	_	_		
 5	geen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-invan	6	det	_	_		
 6	entertainer	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-invan	2	obj	_	_		
@@ -15997,14 +15997,14 @@
 2	bedreigt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-invan	0	root	_	_		
 3	de	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-invan	4	det	_	_		
 4	klimaatverandering	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-invan	2	nsubj	_	_		
-5	geen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-invan	2	obl	_	_		
+5	geen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-invan	6	det	_	_
 6	bij	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-invan	2	obj	_	_		
 7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-invan	2	punct	_	_		
 
 1	Bedreigt	_	_	_	order:LK[V]MF[SO]|props:oneg-invan	0	root	_	_		
 2	de	_	_	_	order:LK[V]MF[SO]|props:oneg-invan	3	det	_	_		
 3	klimaatverandering	_	_	_	order:LK[V]MF[SO]|props:oneg-invan	1	nsubj	_	_		
-4	geen	_	_	_	order:LK[V]MF[SO]|props:oneg-invan	1	obl	_	_		
+4	geen	_	_	_	order:LK[V]MF[SO]|props:oneg-invan	5	det	_	_
 5	bij	_	_	_	order:LK[V]MF[SO]|props:oneg-invan	1	obj	_	_		
 6	?	_	_	_	order:LK[V]MF[SO]|props:oneg-invan	1	punct	_	_		
 
@@ -16422,7 +16422,7 @@
 4	aangiften	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-invan	2	nsubj	_	_		
 5	over	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-invan	7	case	_	_		
 6	een	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-invan	7	det	_	_		
-7	week	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-invan	4	nmod	_	_		
+7	week	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-invan	2	obl	_	_
 8	.	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-invan	2	punct	_	_		
 
 1	Daarom	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	2	advmod	_	_		
@@ -16431,7 +16431,7 @@
 4	aangiften	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	2	nsubj	_	_		
 5	over	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	7	case	_	_		
 6	een	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	7	det	_	_		
-7	week	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	4	nmod	_	_		
+7	week	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	2	obl	_	_
 8	huiseigenaars	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	2	obj	_	_		
 9	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	2	punct	_	_		
 
@@ -16440,7 +16440,7 @@
 3	aangiften	_	_	_	order:LK[V]MF[SO]|props:pp-invan	1	nsubj	_	_		
 4	over	_	_	_	order:LK[V]MF[SO]|props:pp-invan	6	case	_	_		
 5	een	_	_	_	order:LK[V]MF[SO]|props:pp-invan	6	det	_	_		
-6	week	_	_	_	order:LK[V]MF[SO]|props:pp-invan	3	nmod	_	_		
+6	week	_	_	_	order:LK[V]MF[SO]|props:pp-invan	1	obl	_	_
 7	huiseigenaars	_	_	_	order:LK[V]MF[SO]|props:pp-invan	1	obj	_	_		
 8	?	_	_	_	order:LK[V]MF[SO]|props:pp-invan	1	punct	_	_		
 
@@ -16449,7 +16449,7 @@
 3	aangiften	_	_	_	order:MF[SO]VC[V]|props:pp-invan	8	nsubj	_	_		
 4	over	_	_	_	order:MF[SO]VC[V]|props:pp-invan	6	case	_	_		
 5	een	_	_	_	order:MF[SO]VC[V]|props:pp-invan	6	det	_	_		
-6	week	_	_	_	order:MF[SO]VC[V]|props:pp-invan	3	nmod	_	_		
+6	week	_	_	_	order:MF[SO]VC[V]|props:pp-invan	8	obl	_	_
 7	huiseigenaars	_	_	_	order:MF[SO]VC[V]|props:pp-invan	8	obj	_	_		
 8	betreffen	_	_	_	order:MF[SO]VC[V]|props:pp-invan	0	root	_	_		
 9	.	_	_	_	order:MF[SO]VC[V]|props:pp-invan	8	punct	_	_		
@@ -16471,7 +16471,7 @@
 5	hulpeloosheid	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-invan	3	nsubj	_	_		
 6	gedurende	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-invan	8	case	_	_		
 7	een	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-invan	8	det	_	_		
-8	week	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-invan	5	nmod	_	_		
+8	week	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-invan	3	obl	_	_
 9	.	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-invan	3	punct	_	_		
 
 1	Daarom	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	2	advmod	_	_		
@@ -16480,7 +16480,7 @@
 4	hulpeloosheid	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	2	nsubj	_	_		
 5	gedurende	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	7	case	_	_		
 6	een	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	7	det	_	_		
-7	week	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	4	nmod	_	_		
+7	week	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	2	obl	_	_
 8	een	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	9	det	_	_		
 9	groentje	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	2	obj	_	_		
 10	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	2	punct	_	_		
@@ -16490,7 +16490,7 @@
 3	hulpeloosheid	_	_	_	order:LK[V]MF[SO]|props:pp-invan	1	nsubj	_	_		
 4	gedurende	_	_	_	order:LK[V]MF[SO]|props:pp-invan	6	case	_	_		
 5	een	_	_	_	order:LK[V]MF[SO]|props:pp-invan	6	det	_	_		
-6	week	_	_	_	order:LK[V]MF[SO]|props:pp-invan	3	nmod	_	_		
+6	week	_	_	_	order:LK[V]MF[SO]|props:pp-invan	1	obl	_	_
 7	een	_	_	_	order:LK[V]MF[SO]|props:pp-invan	8	det	_	_		
 8	groentje	_	_	_	order:LK[V]MF[SO]|props:pp-invan	1	obj	_	_		
 9	?	_	_	_	order:LK[V]MF[SO]|props:pp-invan	1	punct	_	_		
@@ -16665,7 +16665,7 @@
 1	Een	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-invan	2	det	_	_		
 2	entertainer	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-invan	3	obj	_	_		
 3	staat	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-invan	0	root	_	_		
-4	de	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-invan	3	compound:prt	_	_		
+4	de	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-invan	5	det	_	_
 5	broek	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-invan	3	nsubj	_	_		
 6	gedurende	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-invan	8	case	_	_		
 7	een	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-invan	8	det	_	_		
@@ -16714,14 +16714,14 @@
 8	bij	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-invan	3	obj	_	_		
 9	.	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-invan	3	punct	_	_		
 
-1	Een	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-invan	3	nsubj	_	_		
+1	Een	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-invan	2	det	_	_
 2	bij	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-invan	3	obj	_	_		
 3	bedreigt	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-invan	0	root	_	_		
 4	de	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-invan	5	det	_	_		
 5	klimaatverandering	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-invan	3	nsubj	_	_		
 6	over	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-invan	8	case	_	_		
 7	een	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-invan	8	det	_	_		
-8	week	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-invan	5	nmod	_	_		
+8	week	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-invan	3	obl	_	_
 9	.	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-invan	3	punct	_	_		
 
 1	Daarom	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	2	advmod	_	_		
@@ -16731,7 +16731,7 @@
 5	over	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	7	case	_	_		
 6	een	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	7	det	_	_		
 7	week	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	2	obl	_	_		
-8	een	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	2	compound:prt	_	_		
+8	een	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	9	det	_	_
 9	bij	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	2	obj	_	_		
 10	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-invan	2	punct	_	_		
 
@@ -18942,7 +18942,7 @@
 3	kantoren	_	_	_	order:LK[V]MF[SO]|props:pp-regpol	1	nsubj	_	_		
 4	in	_	_	_	order:LK[V]MF[SO]|props:pp-regpol	6	case	_	_		
 5	een	_	_	_	order:LK[V]MF[SO]|props:pp-regpol	6	det	_	_		
-6	week	_	_	_	order:LK[V]MF[SO]|props:pp-regpol	7	obl	_	_		
+6	week	_	_	_	order:LK[V]MF[SO]|props:pp-regpol	1	obl	_	_
 7	aanvallen	_	_	_	order:LK[V]MF[SO]|props:pp-regpol	1	obj	_	_		
 8	?	_	_	_	order:LK[V]MF[SO]|props:pp-regpol	1	punct	_	_		
 
@@ -19556,7 +19556,7 @@
 3	garages	_	_	_	order:LK[V]MF[SO]|props:pp-regpol	1	nsubj	_	_		
 4	in	_	_	_	order:LK[V]MF[SO]|props:pp-regpol	6	case	_	_		
 5	een	_	_	_	order:LK[V]MF[SO]|props:pp-regpol	6	det	_	_		
-6	week	_	_	_	order:LK[V]MF[SO]|props:pp-regpol	7	obl	_	_		
+6	week	_	_	_	order:LK[V]MF[SO]|props:pp-regpol	1	obl	_	_
 7	hekken	_	_	_	order:LK[V]MF[SO]|props:pp-regpol	1	obj	_	_		
 8	?	_	_	_	order:LK[V]MF[SO]|props:pp-regpol	1	punct	_	_		
 
@@ -20264,7 +20264,7 @@
 2	droombruiloft	_	_	_	order:VF[O]LK[V]MF[S]|props:base-snp	3	obj	_	_		
 3	repeteert	_	_	_	order:VF[O]LK[V]MF[S]|props:base-snp	0	root	_	_		
 4	NPO	_	_	_	order:VF[O]LK[V]MF[S]|props:base-snp	3	nsubj	_	_		
-5	1	_	_	_	order:VF[O]LK[V]MF[S]|props:base-snp	4	fixed	_	_		
+5	1	_	_	_	order:VF[O]LK[V]MF[S]|props:base-snp	4	flat	_	_
 6	.	_	_	_	order:VF[O]LK[V]MF[S]|props:base-snp	3	punct	_	_		
 
 1	Daarom	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-snp	2	advmod	_	_		
@@ -20785,7 +20785,7 @@
 2	droombruiloft	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-snp	6	obj	_	_		
 3	zal	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-snp	6	aux	_	_		
 4	NPO	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-snp	6	nsubj	_	_		
-5	1	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-snp	4	appos	_	_		
+5	1	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-snp	4	flat	_	_
 6	repeteren	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-snp	0	root	_	_		
 7	.	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-snp	6	punct	_	_		
 
@@ -21332,7 +21332,7 @@
 1	Het	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-snp	2	obj	_	_		
 2	repeteert	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-snp	0	root	_	_		
 3	NPO	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-snp	2	nsubj	_	_		
-4	1	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-snp	3	fixed	_	_		
+4	1	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-snp	3	flat	_	_
 5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-snp	2	punct	_	_		
 
 1	Daarom	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-snp	2	advmod	_	_		
@@ -21774,13 +21774,13 @@
 2	droombruiloft	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-snp	3	obj	_	_		
 3	repeteert	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-snp	0	root	_	_		
 4	NPO	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-snp	3	nsubj	_	_		
-5	1	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-snp	4	fixed	_	_		
+5	1	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-snp	4	flat	_	_
 6	.	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-snp	3	punct	_	_		
 
 1	Daarom	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-snp	2	advmod	_	_		
 2	repeteert	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-snp	0	root	_	_		
 3	NPO	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-snp	2	nsubj	_	_		
-4	1	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-snp	3	fixed	_	_		
+4	1	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-snp	3	flat	_	_
 5	geen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-snp	6	det	_	_		
 6	droombruiloft	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-snp	2	obj	_	_		
 7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-snp	2	punct	_	_		
@@ -22316,7 +22316,7 @@
 2	sollicitant	_	_	_	order:VF[O]LK[V]MF[S]|props:oan-snp	3	obj	_	_		
 3	accepteert	_	_	_	order:VF[O]LK[V]MF[S]|props:oan-snp	0	root	_	_		
 4	NPO	_	_	_	order:VF[O]LK[V]MF[S]|props:oan-snp	3	nsubj	_	_		
-5	1	_	_	_	order:VF[O]LK[V]MF[S]|props:oan-snp	4	fixed	_	_		
+5	1	_	_	_	order:VF[O]LK[V]MF[S]|props:oan-snp	4	flat	_	_
 6	.	_	_	_	order:VF[O]LK[V]MF[S]|props:oan-snp	3	punct	_	_		
 
 1	Daarom	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oan-snp	2	advmod	_	_		
@@ -22973,10 +22973,10 @@
 1	De	_	_	_	order:VF[S]LK[V]MF[O]|props:base-semas	2	det	_	_		
 2	artsen	_	_	_	order:VF[S]LK[V]MF[O]|props:base-semas	3	nsubj	_	_		
 3	behandelen	_	_	_	order:VF[S]LK[V]MF[O]|props:base-semas	0	root	_	_		
-4	pati������nten	_	_	_	order:VF[S]LK[V]MF[O]|props:base-semas	3	obj	_	_		
+4	patiënten	_	_	_	order:VF[S]LK[V]MF[O]|props:base-semas	3	obj	_	_		
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:base-semas	3	punct	_	_		
 
-1	Pati������nten	_	_	_	order:VF[O]LK[V]MF[S]|props:base-semas	2	obj	_	_		
+1	Patiënten	_	_	_	order:VF[O]LK[V]MF[S]|props:base-semas	2	obj	_	_		
 2	behandelen	_	_	_	order:VF[O]LK[V]MF[S]|props:base-semas	0	root	_	_		
 3	de	_	_	_	order:VF[O]LK[V]MF[S]|props:base-semas	4	det	_	_		
 4	artsen	_	_	_	order:VF[O]LK[V]MF[S]|props:base-semas	2	nsubj	_	_		
@@ -22986,19 +22986,19 @@
 2	behandelen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-semas	0	root	_	_		
 3	de	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-semas	4	det	_	_		
 4	artsen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-semas	2	nsubj	_	_		
-5	pati������nten	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-semas	2	obj	_	_		
+5	patiënten	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-semas	2	obj	_	_		
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-semas	2	punct	_	_		
 
 1	Behandelen	_	_	_	order:LK[V]MF[SO]|props:base-semas	0	root	_	_		
 2	de	_	_	_	order:LK[V]MF[SO]|props:base-semas	3	det	_	_		
 3	artsen	_	_	_	order:LK[V]MF[SO]|props:base-semas	1	nsubj	_	_		
-4	pati������nten	_	_	_	order:LK[V]MF[SO]|props:base-semas	1	obj	_	_		
+4	patiënten	_	_	_	order:LK[V]MF[SO]|props:base-semas	1	obj	_	_		
 5	?	_	_	_	order:LK[V]MF[SO]|props:base-semas	1	punct	_	_		
 
 1	Omdat	_	_	_	order:MF[SO]VC[V]|props:base-semas	5	mark	_	_		
 2	de	_	_	_	order:MF[SO]VC[V]|props:base-semas	3	det	_	_		
 3	artsen	_	_	_	order:MF[SO]VC[V]|props:base-semas	5	nsubj	_	_		
-4	pati������nten	_	_	_	order:MF[SO]VC[V]|props:base-semas	5	obj	_	_		
+4	patiënten	_	_	_	order:MF[SO]VC[V]|props:base-semas	5	obj	_	_		
 5	behandelen	_	_	_	order:MF[SO]VC[V]|props:base-semas	0	root	_	_		
 6	.	_	_	_	order:MF[SO]VC[V]|props:base-semas	5	punct	_	_		
 
@@ -23523,11 +23523,11 @@
 1	De	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-semas	2	det	_	_		
 2	artsen	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-semas	5	nsubj	_	_		
 3	zullen	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-semas	5	aux	_	_		
-4	pati������nten	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-semas	5	obj	_	_		
+4	patiënten	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-semas	5	obj	_	_		
 5	behandelen	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-semas	0	root	_	_		
 6	.	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-semas	5	punct	_	_		
 
-1	Pati������nten	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-semas	5	obj	_	_		
+1	Patiënten	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-semas	5	obj	_	_		
 2	zullen	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-semas	5	aux	_	_		
 3	de	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-semas	4	det	_	_		
 4	artsen	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-semas	5	nsubj	_	_		
@@ -23538,21 +23538,21 @@
 2	zullen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-semas	6	aux	_	_		
 3	de	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-semas	4	det	_	_		
 4	artsen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-semas	6	nsubj	_	_		
-5	pati������nten	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-semas	6	obj	_	_		
+5	patiënten	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-semas	6	obj	_	_		
 6	behandelen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-semas	0	root	_	_		
 7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-semas	6	punct	_	_		
 
 1	Zullen	_	_	_	order:LK[V]MF[SO]|props:aux-semas	5	aux	_	_		
 2	de	_	_	_	order:LK[V]MF[SO]|props:aux-semas	3	det	_	_		
 3	artsen	_	_	_	order:LK[V]MF[SO]|props:aux-semas	5	nsubj	_	_		
-4	pati������nten	_	_	_	order:LK[V]MF[SO]|props:aux-semas	5	obj	_	_		
+4	patiënten	_	_	_	order:LK[V]MF[SO]|props:aux-semas	5	obj	_	_		
 5	behandelen	_	_	_	order:LK[V]MF[SO]|props:aux-semas	0	root	_	_		
 6	?	_	_	_	order:LK[V]MF[SO]|props:aux-semas	5	punct	_	_		
 
 1	Omdat	_	_	_	order:MF[SO]VC[V]|props:aux-semas	6	mark	_	_		
 2	de	_	_	_	order:MF[SO]VC[V]|props:aux-semas	3	det	_	_		
 3	artsen	_	_	_	order:MF[SO]VC[V]|props:aux-semas	6	nsubj	_	_		
-4	pati������nten	_	_	_	order:MF[SO]VC[V]|props:aux-semas	6	obj	_	_		
+4	patiënten	_	_	_	order:MF[SO]VC[V]|props:aux-semas	6	obj	_	_		
 5	zullen	_	_	_	order:MF[SO]VC[V]|props:aux-semas	6	aux	_	_		
 6	behandelen	_	_	_	order:MF[SO]VC[V]|props:aux-semas	0	root	_	_		
 7	.	_	_	_	order:MF[SO]VC[V]|props:aux-semas	6	punct	_	_		
@@ -24089,11 +24089,11 @@
 2	artsen	_	_	_	order:VF[S]LK[V]MF[O]|props:oneg-semas	3	nsubj	_	_		
 3	behandelen	_	_	_	order:VF[S]LK[V]MF[O]|props:oneg-semas	0	root	_	_		
 4	geen	_	_	_	order:VF[S]LK[V]MF[O]|props:oneg-semas	5	det	_	_		
-5	pati������nten	_	_	_	order:VF[S]LK[V]MF[O]|props:oneg-semas	3	obj	_	_		
+5	patiënten	_	_	_	order:VF[S]LK[V]MF[O]|props:oneg-semas	3	obj	_	_		
 6	.	_	_	_	order:VF[S]LK[V]MF[O]|props:oneg-semas	3	punct	_	_		
 
 1	Geen	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-semas	2	det	_	_		
-2	pati������nten	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-semas	3	obj	_	_		
+2	patiënten	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-semas	3	obj	_	_		
 3	behandelen	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-semas	0	root	_	_		
 4	de	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-semas	5	det	_	_		
 5	artsen	_	_	_	order:VF[O]LK[V]MF[S]|props:oneg-semas	3	nsubj	_	_		
@@ -24104,21 +24104,21 @@
 3	de	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-semas	4	det	_	_		
 4	artsen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-semas	2	nsubj	_	_		
 5	geen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-semas	6	det	_	_		
-6	pati������nten	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-semas	2	obj	_	_		
+6	patiënten	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-semas	2	obj	_	_		
 7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-semas	2	punct	_	_		
 
 1	Behandelen	_	_	_	order:LK[V]MF[SO]|props:oneg-semas	0	root	_	_		
 2	de	_	_	_	order:LK[V]MF[SO]|props:oneg-semas	3	det	_	_		
 3	artsen	_	_	_	order:LK[V]MF[SO]|props:oneg-semas	1	nsubj	_	_		
 4	geen	_	_	_	order:LK[V]MF[SO]|props:oneg-semas	5	det	_	_		
-5	pati������nten	_	_	_	order:LK[V]MF[SO]|props:oneg-semas	1	obj	_	_		
+5	patiënten	_	_	_	order:LK[V]MF[SO]|props:oneg-semas	1	obj	_	_		
 6	?	_	_	_	order:LK[V]MF[SO]|props:oneg-semas	1	punct	_	_		
 
 1	Omdat	_	_	_	order:MF[SO]VC[V]|props:oneg-semas	6	mark	_	_		
 2	de	_	_	_	order:MF[SO]VC[V]|props:oneg-semas	3	det	_	_		
 3	artsen	_	_	_	order:MF[SO]VC[V]|props:oneg-semas	6	nsubj	_	_		
 4	geen	_	_	_	order:MF[SO]VC[V]|props:oneg-semas	5	det	_	_		
-5	pati������nten	_	_	_	order:MF[SO]VC[V]|props:oneg-semas	6	obj	_	_		
+5	patiënten	_	_	_	order:MF[SO]VC[V]|props:oneg-semas	6	obj	_	_		
 6	behandelen	_	_	_	order:MF[SO]VC[V]|props:oneg-semas	0	root	_	_		
 7	.	_	_	_	order:MF[SO]VC[V]|props:oneg-semas	6	punct	_	_		
 
@@ -24756,10 +24756,10 @@
 4	gedurende	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-semas	6	case	_	_		
 5	een	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-semas	6	det	_	_		
 6	week	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-semas	3	obl	_	_		
-7	pati������nten	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-semas	3	obj	_	_		
+7	patiënten	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-semas	3	obj	_	_		
 8	.	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-semas	3	punct	_	_		
 
-1	Pati������nten	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-semas	2	obj	_	_		
+1	Patiënten	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-semas	2	obj	_	_		
 2	behandelen	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-semas	0	root	_	_		
 3	de	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-semas	4	det	_	_		
 4	artsen	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-semas	2	nsubj	_	_		
@@ -24775,7 +24775,7 @@
 5	gedurende	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-semas	7	case	_	_		
 6	een	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-semas	7	det	_	_		
 7	week	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-semas	2	obl	_	_		
-8	pati������nten	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-semas	2	obj	_	_		
+8	patiënten	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-semas	2	obj	_	_		
 9	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-semas	2	punct	_	_		
 
 1	Behandelen	_	_	_	order:LK[V]MF[SO]|props:pp-semas	0	root	_	_		
@@ -24784,7 +24784,7 @@
 4	gedurende	_	_	_	order:LK[V]MF[SO]|props:pp-semas	6	case	_	_		
 5	een	_	_	_	order:LK[V]MF[SO]|props:pp-semas	6	det	_	_		
 6	week	_	_	_	order:LK[V]MF[SO]|props:pp-semas	1	obl	_	_		
-7	pati������nten	_	_	_	order:LK[V]MF[SO]|props:pp-semas	1	obj	_	_		
+7	patiënten	_	_	_	order:LK[V]MF[SO]|props:pp-semas	1	obj	_	_		
 8	?	_	_	_	order:LK[V]MF[SO]|props:pp-semas	1	punct	_	_		
 
 1	Omdat	_	_	_	order:MF[SO]VC[V]|props:pp-semas	8	mark	_	_		
@@ -24793,7 +24793,7 @@
 4	gedurende	_	_	_	order:MF[SO]VC[V]|props:pp-semas	6	case	_	_		
 5	een	_	_	_	order:MF[SO]VC[V]|props:pp-semas	6	det	_	_		
 6	week	_	_	_	order:MF[SO]VC[V]|props:pp-semas	8	obl	_	_		
-7	pati������nten	_	_	_	order:MF[SO]VC[V]|props:pp-semas	8	obj	_	_		
+7	patiënten	_	_	_	order:MF[SO]VC[V]|props:pp-semas	8	obj	_	_		
 8	behandelen	_	_	_	order:MF[SO]VC[V]|props:pp-semas	0	root	_	_		
 9	.	_	_	_	order:MF[SO]VC[V]|props:pp-semas	8	punct	_	_		
 
@@ -25369,11 +25369,11 @@
 2	praktijk	_	_	_	order:VF[S]LK[V]MF[O]|props:regpol-semas	3	nsubj	_	_		
 3	behandelt	_	_	_	order:VF[S]LK[V]MF[O]|props:regpol-semas	0	root	_	_		
 4	een	_	_	_	order:VF[S]LK[V]MF[O]|props:regpol-semas	5	det	_	_		
-5	pati������nt	_	_	_	order:VF[S]LK[V]MF[O]|props:regpol-semas	3	obj	_	_		
+5	patiënt	_	_	_	order:VF[S]LK[V]MF[O]|props:regpol-semas	3	obj	_	_		
 6	.	_	_	_	order:VF[S]LK[V]MF[O]|props:regpol-semas	3	punct	_	_		
 
 1	Een	_	_	_	order:VF[O]LK[V]MF[S]|props:regpol-semas	2	det	_	_		
-2	pati������nt	_	_	_	order:VF[O]LK[V]MF[S]|props:regpol-semas	3	obj	_	_		
+2	patiënt	_	_	_	order:VF[O]LK[V]MF[S]|props:regpol-semas	3	obj	_	_		
 3	behandelt	_	_	_	order:VF[O]LK[V]MF[S]|props:regpol-semas	0	root	_	_		
 4	de	_	_	_	order:VF[O]LK[V]MF[S]|props:regpol-semas	5	det	_	_		
 5	praktijk	_	_	_	order:VF[O]LK[V]MF[S]|props:regpol-semas	3	nsubj	_	_		
@@ -25384,28 +25384,28 @@
 3	de	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-semas	4	det	_	_		
 4	praktijk	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-semas	2	nsubj	_	_		
 5	een	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-semas	6	det	_	_		
-6	pati������nt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-semas	2	obj	_	_		
+6	patiënt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-semas	2	obj	_	_		
 7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-semas	2	punct	_	_		
 
 1	Behandelt	_	_	_	order:LK[V]MF[SO]|props:regpol-semas	0	root	_	_		
 2	de	_	_	_	order:LK[V]MF[SO]|props:regpol-semas	3	det	_	_		
 3	praktijk	_	_	_	order:LK[V]MF[SO]|props:regpol-semas	1	nsubj	_	_		
 4	een	_	_	_	order:LK[V]MF[SO]|props:regpol-semas	5	det	_	_		
-5	pati������nt	_	_	_	order:LK[V]MF[SO]|props:regpol-semas	1	obj	_	_		
+5	patiënt	_	_	_	order:LK[V]MF[SO]|props:regpol-semas	1	obj	_	_		
 6	?	_	_	_	order:LK[V]MF[SO]|props:regpol-semas	1	punct	_	_		
 
 1	Omdat	_	_	_	order:MF[SO]VC[V]|props:regpol-semas	6	mark	_	_		
 2	de	_	_	_	order:MF[SO]VC[V]|props:regpol-semas	3	det	_	_		
 3	praktijk	_	_	_	order:MF[SO]VC[V]|props:regpol-semas	6	nsubj	_	_		
 4	een	_	_	_	order:MF[SO]VC[V]|props:regpol-semas	5	det	_	_		
-5	pati������nt	_	_	_	order:MF[SO]VC[V]|props:regpol-semas	6	obj	_	_		
+5	patiënt	_	_	_	order:MF[SO]VC[V]|props:regpol-semas	6	obj	_	_		
 6	behandelt	_	_	_	order:MF[SO]VC[V]|props:regpol-semas	0	root	_	_		
 7	.	_	_	_	order:MF[SO]VC[V]|props:regpol-semas	6	punct	_	_		
 
 1	De	_	_	_	order:VF[S]LK[V]MF[O]|props:regpol-semas	2	det	_	_		
 2	vereniging	_	_	_	order:VF[S]LK[V]MF[O]|props:regpol-semas	5	nsubj	_	_		
 3	van	_	_	_	order:VF[S]LK[V]MF[O]|props:regpol-semas	4	case	_	_		
-4	eigenaren	_	_	_	order:VF[S]LK[V]MF[O]|props:regpol-semas	5	nsubj	_	_		
+4	eigenaren	_	_	_	order:VF[S]LK[V]MF[O]|props:regpol-semas	2	nmod	_	_
 5	berispt	_	_	_	order:VF[S]LK[V]MF[O]|props:regpol-semas	0	root	_	_		
 6	een	_	_	_	order:VF[S]LK[V]MF[O]|props:regpol-semas	7	det	_	_		
 7	huurder	_	_	_	order:VF[S]LK[V]MF[O]|props:regpol-semas	5	obj	_	_		
@@ -25417,7 +25417,7 @@
 4	de	_	_	_	order:VF[O]LK[V]MF[S]|props:regpol-semas	5	det	_	_		
 5	vereniging	_	_	_	order:VF[O]LK[V]MF[S]|props:regpol-semas	3	obj	_	_		
 6	van	_	_	_	order:VF[O]LK[V]MF[S]|props:regpol-semas	7	case	_	_		
-7	eigenaren	_	_	_	order:VF[O]LK[V]MF[S]|props:regpol-semas	3	nsubj	_	_		
+7	eigenaren	_	_	_	order:VF[O]LK[V]MF[S]|props:regpol-semas	5	nmod	_	_
 8	.	_	_	_	order:VF[O]LK[V]MF[S]|props:regpol-semas	3	punct	_	_		
 
 1	Daarom	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-semas	2	advmod	_	_		
@@ -25425,7 +25425,7 @@
 3	de	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-semas	4	det	_	_		
 4	vereniging	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-semas	2	nsubj	_	_		
 5	van	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-semas	6	case	_	_		
-6	eigenaren	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-semas	2	nsubj	_	_		
+6	eigenaren	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-semas	4	nmod	_	_
 7	een	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-semas	8	det	_	_		
 8	huurder	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-semas	2	obj	_	_		
 9	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-semas	2	punct	_	_		
@@ -25434,7 +25434,7 @@
 2	de	_	_	_	order:LK[V]MF[SO]|props:regpol-semas	3	det	_	_		
 3	vereniging	_	_	_	order:LK[V]MF[SO]|props:regpol-semas	1	nsubj	_	_		
 4	van	_	_	_	order:LK[V]MF[SO]|props:regpol-semas	5	case	_	_		
-5	eigenaren	_	_	_	order:LK[V]MF[SO]|props:regpol-semas	1	nsubj	_	_		
+5	eigenaren	_	_	_	order:LK[V]MF[SO]|props:regpol-semas	3	nmod	_	_
 6	een	_	_	_	order:LK[V]MF[SO]|props:regpol-semas	7	det	_	_		
 7	huurder	_	_	_	order:LK[V]MF[SO]|props:regpol-semas	1	obj	_	_		
 8	?	_	_	_	order:LK[V]MF[SO]|props:regpol-semas	1	punct	_	_		
@@ -25443,7 +25443,7 @@
 2	de	_	_	_	order:MF[SO]VC[V]|props:regpol-semas	3	det	_	_		
 3	vereniging	_	_	_	order:MF[SO]VC[V]|props:regpol-semas	8	nsubj	_	_		
 4	van	_	_	_	order:MF[SO]VC[V]|props:regpol-semas	5	case	_	_		
-5	eigenaren	_	_	_	order:MF[SO]VC[V]|props:regpol-semas	8	nsubj	_	_		
+5	eigenaren	_	_	_	order:MF[SO]VC[V]|props:regpol-semas	3	nmod	_	_
 6	een	_	_	_	order:MF[SO]VC[V]|props:regpol-semas	7	det	_	_		
 7	huurder	_	_	_	order:MF[SO]VC[V]|props:regpol-semas	8	obj	_	_		
 8	berispt	_	_	_	order:MF[SO]VC[V]|props:regpol-semas	0	root	_	_		
@@ -27033,7 +27033,7 @@
 6	.	_	_	_	order:MF[SO]VC[V]|props:sinan-noref	5	punct	_	_		
 
 1	Het	_	_	_	order:VF[S]LK[V]MF[O]|props:sinan-noref	2	det	_	_		
-2	muurreli������f	_	_	_	order:VF[S]LK[V]MF[O]|props:sinan-noref	3	nsubj	_	_		
+2	muurreliëf	_	_	_	order:VF[S]LK[V]MF[O]|props:sinan-noref	3	nsubj	_	_		
 3	roept	_	_	_	order:VF[S]LK[V]MF[O]|props:sinan-noref	0	root	_	_		
 4	niets	_	_	_	order:VF[S]LK[V]MF[O]|props:sinan-noref	3	obj	_	_		
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:sinan-noref	3	punct	_	_		
@@ -27041,25 +27041,25 @@
 1	Niets	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-noref	2	obj	_	_		
 2	roept	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-noref	0	root	_	_		
 3	het	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-noref	4	det	_	_		
-4	muurreli������f	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-noref	2	nsubj	_	_		
+4	muurreliëf	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-noref	2	nsubj	_	_		
 5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-noref	2	punct	_	_		
 
 1	Daarom	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sinan-noref	2	advmod	_	_		
 2	roept	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sinan-noref	0	root	_	_		
 3	het	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sinan-noref	4	det	_	_		
-4	muurreli������f	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sinan-noref	2	nsubj	_	_		
+4	muurreliëf	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sinan-noref	2	nsubj	_	_		
 5	niets	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sinan-noref	2	obj	_	_		
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sinan-noref	2	punct	_	_		
 
 1	Roept	_	_	_	order:LK[V]MF[SO]|props:sinan-noref	0	root	_	_		
 2	het	_	_	_	order:LK[V]MF[SO]|props:sinan-noref	3	det	_	_		
-3	muurreli������f	_	_	_	order:LK[V]MF[SO]|props:sinan-noref	1	nsubj	_	_		
+3	muurreliëf	_	_	_	order:LK[V]MF[SO]|props:sinan-noref	1	nsubj	_	_		
 4	niets	_	_	_	order:LK[V]MF[SO]|props:sinan-noref	1	obj	_	_		
 5	?	_	_	_	order:LK[V]MF[SO]|props:sinan-noref	1	punct	_	_		
 
 1	Omdat	_	_	_	order:MF[SO]VC[V]|props:sinan-noref	5	mark	_	_		
 2	het	_	_	_	order:MF[SO]VC[V]|props:sinan-noref	3	det	_	_		
-3	muurreli������f	_	_	_	order:MF[SO]VC[V]|props:sinan-noref	5	nsubj	_	_		
+3	muurreliëf	_	_	_	order:MF[SO]VC[V]|props:sinan-noref	5	nsubj	_	_		
 4	niets	_	_	_	order:MF[SO]VC[V]|props:sinan-noref	5	obj	_	_		
 5	roept	_	_	_	order:MF[SO]VC[V]|props:sinan-noref	0	root	_	_		
 6	.	_	_	_	order:MF[SO]VC[V]|props:sinan-noref	5	punct	_	_		
@@ -27584,7 +27584,7 @@
 
 1	Niemand	_	_	_	order:VF[O]LK[V]MF[S]|props:invan-noref	2	obj	_	_		
 2	staat	_	_	_	order:VF[O]LK[V]MF[S]|props:invan-noref	0	root	_	_		
-3	de	_	_	_	order:VF[O]LK[V]MF[S]|props:invan-noref	2	compound:prt	_	_		
+3	de	_	_	_	order:VF[O]LK[V]MF[S]|props:invan-noref	4	det	_	_
 4	broek	_	_	_	order:VF[O]LK[V]MF[S]|props:invan-noref	2	nsubj	_	_		
 5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:invan-noref	2	punct	_	_		
 
@@ -27602,7 +27602,7 @@
 5	?	_	_	_	order:LK[V]MF[SO]|props:invan-noref	1	punct	_	_		
 
 1	Omdat	_	_	_	order:MF[SO]VC[V]|props:invan-noref	5	mark	_	_		
-2	de	_	_	_	order:MF[SO]VC[V]|props:invan-noref	5	det	_	_		
+2	de	_	_	_	order:MF[SO]VC[V]|props:invan-noref	3	det	_	_
 3	broek	_	_	_	order:MF[SO]VC[V]|props:invan-noref	5	nsubj	_	_		
 4	niemand	_	_	_	order:MF[SO]VC[V]|props:invan-noref	5	obj	_	_		
 5	staat	_	_	_	order:MF[SO]VC[V]|props:invan-noref	0	root	_	_		
@@ -28146,13 +28146,13 @@
 1	Niets	_	_	_	order:VF[O]LK[V]MF[S]|props:snp-noref	2	obj	_	_		
 2	repeteert	_	_	_	order:VF[O]LK[V]MF[S]|props:snp-noref	0	root	_	_		
 3	NPO	_	_	_	order:VF[O]LK[V]MF[S]|props:snp-noref	2	nsubj	_	_		
-4	1	_	_	_	order:VF[O]LK[V]MF[S]|props:snp-noref	3	fixed	_	_		
+4	1	_	_	_	order:VF[O]LK[V]MF[S]|props:snp-noref	3	flat	_	_
 5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:snp-noref	2	punct	_	_		
 
 1	Daarom	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:snp-noref	2	advmod	_	_		
 2	repeteert	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:snp-noref	0	root	_	_		
 3	NPO	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:snp-noref	2	nsubj	_	_		
-4	1	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:snp-noref	3	fixed	_	_		
+4	1	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:snp-noref	3	flat	_	_
 5	niets	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:snp-noref	2	obj	_	_		
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:snp-noref	2	punct	_	_		
 
@@ -32610,11 +32610,11 @@
 3	koffie	_	_	_	order:VF[S]LK[V]MF[O]|props:snp-psy	2	nmod	_	_		
 4	bevalt	_	_	_	order:VF[S]LK[V]MF[O]|props:snp-psy	0	root	_	_		
 5	NPO	_	_	_	order:VF[S]LK[V]MF[O]|props:snp-psy	4	obj	_	_		
-6	1	_	_	_	order:VF[S]LK[V]MF[O]|props:snp-psy	5	appos	_	_		
+6	1	_	_	_	order:VF[S]LK[V]MF[O]|props:snp-psy	5	flat	_	_
 7	.	_	_	_	order:VF[S]LK[V]MF[O]|props:snp-psy	4	punct	_	_		
 
 1	NPO	_	_	_	order:VF[O]LK[V]MF[S]|props:snp-psy	3	obj	_	_		
-2	1	_	_	_	order:VF[O]LK[V]MF[S]|props:snp-psy	1	appos	_	_		
+2	1	_	_	_	order:VF[O]LK[V]MF[S]|props:snp-psy	1	flat	_	_
 3	bevalt	_	_	_	order:VF[O]LK[V]MF[S]|props:snp-psy	0	root	_	_		
 4	het	_	_	_	order:VF[O]LK[V]MF[S]|props:snp-psy	5	det	_	_		
 5	kopje	_	_	_	order:VF[O]LK[V]MF[S]|props:snp-psy	3	nsubj	_	_		
@@ -32627,7 +32627,7 @@
 4	kopje	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:snp-psy	2	nsubj	_	_		
 5	koffie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:snp-psy	4	nmod	_	_		
 6	NPO	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:snp-psy	2	obj	_	_		
-7	1	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:snp-psy	6	appos	_	_		
+7	1	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:snp-psy	6	flat	_	_
 8	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:snp-psy	2	punct	_	_		
 
 1	Bevalt	_	_	_	order:LK[V]MF[SO]|props:snp-psy	0	root	_	_		
@@ -32635,7 +32635,7 @@
 3	kopje	_	_	_	order:LK[V]MF[SO]|props:snp-psy	1	nsubj	_	_		
 4	koffie	_	_	_	order:LK[V]MF[SO]|props:snp-psy	3	nmod	_	_		
 5	NPO	_	_	_	order:LK[V]MF[SO]|props:snp-psy	1	obj	_	_		
-6	1	_	_	_	order:LK[V]MF[SO]|props:snp-psy	5	appos	_	_		
+6	1	_	_	_	order:LK[V]MF[SO]|props:snp-psy	5	flat	_	_
 7	?	_	_	_	order:LK[V]MF[SO]|props:snp-psy	1	punct	_	_		
 
 1	Omdat	_	_	_	order:MF[SO]VC[V]|props:snp-psy	7	mark	_	_		
@@ -32643,7 +32643,7 @@
 3	kopje	_	_	_	order:MF[SO]VC[V]|props:snp-psy	7	nsubj	_	_		
 4	koffie	_	_	_	order:MF[SO]VC[V]|props:snp-psy	3	nmod	_	_		
 5	NPO	_	_	_	order:MF[SO]VC[V]|props:snp-psy	7	obj	_	_		
-6	1	_	_	_	order:MF[SO]VC[V]|props:snp-psy	5	appos	_	_		
+6	1	_	_	_	order:MF[SO]VC[V]|props:snp-psy	5	flat	_	_
 7	bevalt	_	_	_	order:MF[SO]VC[V]|props:snp-psy	0	root	_	_		
 8	.	_	_	_	order:MF[SO]VC[V]|props:snp-psy	7	punct	_	_		
 
@@ -33748,7 +33748,7 @@
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-vlight	2	punct	_	_		
 
 1	Biedt	_	_	_	order:LK[V]MF[SO]|props:base-vlight	0	root	_	_		
-2	de	_	_	_	order:LK[V]MF[SO]|props:base-vlight	4	det	_	_		
+2	de	_	_	_	order:LK[V]MF[SO]|props:base-vlight	3	det	_	_
 3	gevangene	_	_	_	order:LK[V]MF[SO]|props:base-vlight	1	nsubj	_	_		
 4	weerstand	_	_	_	order:LK[V]MF[SO]|props:base-vlight	1	obj	_	_		
 5	?	_	_	_	order:LK[V]MF[SO]|props:base-vlight	1	punct	_	_		
@@ -37259,13 +37259,13 @@
 1	Overleg	_	_	_	order:VF[O]LK[V]MF[S]|props:snp-vlight	2	obj	_	_		
 2	houdt	_	_	_	order:VF[O]LK[V]MF[S]|props:snp-vlight	0	root	_	_		
 3	NPO	_	_	_	order:VF[O]LK[V]MF[S]|props:snp-vlight	2	nsubj	_	_		
-4	1	_	_	_	order:VF[O]LK[V]MF[S]|props:snp-vlight	3	fixed	_	_		
+4	1	_	_	_	order:VF[O]LK[V]MF[S]|props:snp-vlight	3	flat	_	_
 5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:snp-vlight	2	punct	_	_		
 
 1	Daarom	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:snp-vlight	2	advmod	_	_		
 2	houdt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:snp-vlight	0	root	_	_		
 3	NPO	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:snp-vlight	2	nsubj	_	_		
-4	1	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:snp-vlight	3	fixed	_	_		
+4	1	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:snp-vlight	3	flat	_	_
 5	overleg	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:snp-vlight	2	obj	_	_		
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:snp-vlight	2	punct	_	_		
 
@@ -40841,7 +40841,7 @@
 
 1	Mensenrechten	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-syn	2	obj	_	_		
 2	schenden	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-syn	0	root	_	_		
-3	de	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-syn	2	compound:prt	_	_		
+3	de	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-syn	4	det	_	_
 4	gassen	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-syn	2	nsubj	_	_		
 5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-syn	2	punct	_	_		
 
@@ -40866,7 +40866,7 @@
 6	.	_	_	_	order:MF[SO]VC[V]|props:sinan-syn	5	punct	_	_		
 
 1	Het	_	_	_	order:VF[S]LK[V]MF[O]|props:sinan-syn	2	det	_	_		
-2	muurreli������f	_	_	_	order:VF[S]LK[V]MF[O]|props:sinan-syn	3	nsubj	_	_		
+2	muurreliëf	_	_	_	order:VF[S]LK[V]MF[O]|props:sinan-syn	3	nsubj	_	_		
 3	schreeuwt	_	_	_	order:VF[S]LK[V]MF[O]|props:sinan-syn	0	root	_	_		
 4	een	_	_	_	order:VF[S]LK[V]MF[O]|props:sinan-syn	5	det	_	_		
 5	hallo	_	_	_	order:VF[S]LK[V]MF[O]|props:sinan-syn	3	obj	_	_		
@@ -40876,27 +40876,27 @@
 2	hallo	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-syn	3	obj	_	_		
 3	schreeuwt	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-syn	0	root	_	_		
 4	het	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-syn	5	det	_	_		
-5	muurreli������f	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-syn	3	nsubj	_	_		
+5	muurreliëf	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-syn	3	nsubj	_	_		
 6	.	_	_	_	order:VF[O]LK[V]MF[S]|props:sinan-syn	3	punct	_	_		
 
 1	Daarom	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sinan-syn	2	advmod	_	_		
 2	schreeuwt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sinan-syn	0	root	_	_		
 3	het	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sinan-syn	4	det	_	_		
-4	muurreli������f	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sinan-syn	2	nsubj	_	_		
+4	muurreliëf	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sinan-syn	2	nsubj	_	_		
 5	een	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sinan-syn	6	det	_	_		
 6	hallo	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sinan-syn	2	obj	_	_		
 7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sinan-syn	2	punct	_	_		
 
 1	Schreeuwt	_	_	_	order:LK[V]MF[SO]|props:sinan-syn	0	root	_	_		
 2	het	_	_	_	order:LK[V]MF[SO]|props:sinan-syn	3	det	_	_		
-3	muurreli������f	_	_	_	order:LK[V]MF[SO]|props:sinan-syn	1	nsubj	_	_		
+3	muurreliëf	_	_	_	order:LK[V]MF[SO]|props:sinan-syn	1	nsubj	_	_		
 4	een	_	_	_	order:LK[V]MF[SO]|props:sinan-syn	5	det	_	_		
 5	hallo	_	_	_	order:LK[V]MF[SO]|props:sinan-syn	1	obj	_	_		
 6	?	_	_	_	order:LK[V]MF[SO]|props:sinan-syn	1	punct	_	_		
 
 1	Omdat	_	_	_	order:MF[SO]VC[V]|props:sinan-syn	6	mark	_	_		
 2	het	_	_	_	order:MF[SO]VC[V]|props:sinan-syn	3	det	_	_		
-3	muurreli������f	_	_	_	order:MF[SO]VC[V]|props:sinan-syn	6	nsubj	_	_		
+3	muurreliëf	_	_	_	order:MF[SO]VC[V]|props:sinan-syn	6	nsubj	_	_		
 4	een	_	_	_	order:MF[SO]VC[V]|props:sinan-syn	5	det	_	_		
 5	hallo	_	_	_	order:MF[SO]VC[V]|props:sinan-syn	6	obj	_	_		
 6	schreeuwt	_	_	_	order:MF[SO]VC[V]|props:sinan-syn	0	root	_	_		
@@ -42090,7 +42090,7 @@
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:invan-syn	2	punct	_	_		
 
 1	Behoeden	_	_	_	order:LK[V]MF[SO]|props:invan-syn	0	root	_	_		
-2	de	_	_	_	order:LK[V]MF[SO]|props:invan-syn	4	det	_	_		
+2	de	_	_	_	order:LK[V]MF[SO]|props:invan-syn	3	det	_	_
 3	complexen	_	_	_	order:LK[V]MF[SO]|props:invan-syn	1	nsubj	_	_		
 4	reizigers	_	_	_	order:LK[V]MF[SO]|props:invan-syn	1	obj	_	_		
 5	?	_	_	_	order:LK[V]MF[SO]|props:invan-syn	1	punct	_	_		
@@ -43719,10 +43719,10 @@
 1	De	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-syn	2	det	_	_		
 2	artsen	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-syn	3	nsubj	_	_		
 3	genezen	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-syn	0	root	_	_		
-4	pati������nten	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-syn	3	obj	_	_		
+4	patiënten	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-syn	3	obj	_	_		
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-syn	3	punct	_	_		
 
-1	Pati������nten	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-syn	2	obj	_	_		
+1	Patiënten	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-syn	2	obj	_	_		
 2	genezen	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-syn	0	root	_	_		
 3	de	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-syn	4	det	_	_		
 4	artsen	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-syn	2	nsubj	_	_		
@@ -43732,19 +43732,19 @@
 2	genezen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-syn	0	root	_	_		
 3	de	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-syn	4	det	_	_		
 4	artsen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-syn	2	nsubj	_	_		
-5	pati������nten	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-syn	2	obj	_	_		
+5	patiënten	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-syn	2	obj	_	_		
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-syn	2	punct	_	_		
 
 1	Genezen	_	_	_	order:LK[V]MF[SO]|props:semas-syn	0	root	_	_		
 2	de	_	_	_	order:LK[V]MF[SO]|props:semas-syn	3	det	_	_		
 3	artsen	_	_	_	order:LK[V]MF[SO]|props:semas-syn	1	nsubj	_	_		
-4	pati������nten	_	_	_	order:LK[V]MF[SO]|props:semas-syn	1	obj	_	_		
+4	patiënten	_	_	_	order:LK[V]MF[SO]|props:semas-syn	1	obj	_	_		
 5	?	_	_	_	order:LK[V]MF[SO]|props:semas-syn	1	punct	_	_		
 
 1	Omdat	_	_	_	order:MF[SO]VC[V]|props:semas-syn	5	mark	_	_		
 2	de	_	_	_	order:MF[SO]VC[V]|props:semas-syn	3	det	_	_		
 3	artsen	_	_	_	order:MF[SO]VC[V]|props:semas-syn	5	nsubj	_	_		
-4	pati������nten	_	_	_	order:MF[SO]VC[V]|props:semas-syn	5	obj	_	_		
+4	patiënten	_	_	_	order:MF[SO]VC[V]|props:semas-syn	5	obj	_	_		
 5	genezen	_	_	_	order:MF[SO]VC[V]|props:semas-syn	0	root	_	_		
 6	.	_	_	_	order:MF[SO]VC[V]|props:semas-syn	5	punct	_	_		
 
@@ -44667,7 +44667,7 @@
 1	Behagen	_	_	_	order:LK[V]MF[SO]|props:psy-syn	0	root	_	_		
 2	de	_	_	_	order:LK[V]MF[SO]|props:psy-syn	3	det	_	_		
 3	kopjes	_	_	_	order:LK[V]MF[SO]|props:psy-syn	1	nsubj	_	_		
-4	koffie	_	_	_	order:LK[V]MF[SO]|props:psy-syn	1	obj	_	_		
+4	koffie	_	_	_	order:LK[V]MF[SO]|props:psy-syn	3	nmod	_	_
 5	moeders	_	_	_	order:LK[V]MF[SO]|props:psy-syn	1	obj	_	_		
 6	?	_	_	_	order:LK[V]MF[SO]|props:psy-syn	1	punct	_	_		
 
@@ -45421,7 +45421,7 @@
 2	de	_	_	_	order:LK[V]MF[SO]|props:aux-prov	4	det	_	_		
 3	grote	_	_	_	order:LK[V]MF[SO]|props:aux-prov	4	amod	_	_		
 4	vis	_	_	_	order:LK[V]MF[SO]|props:aux-prov	7	nsubj	_	_		
-5	de	_	_	_	order:LK[V]MF[SO]|props:aux-prov	7	obj	_	_		
+5	de	_	_	_	order:LK[V]MF[SO]|props:aux-prov	6	det	_	_
 6	kleine	_	_	_	order:LK[V]MF[SO]|props:aux-prov	7	obj	_	_		
 7	eten	_	_	_	order:LK[V]MF[SO]|props:aux-prov	0	root	_	_		
 8	?	_	_	_	order:LK[V]MF[SO]|props:aux-prov	7	punct	_	_		
@@ -47170,7 +47170,7 @@
 8	babysitten	_	_	_	order:MF[SO]VC[V]|props:pp-oan	0	root	_	_		
 9	.	_	_	_	order:MF[SO]VC[V]|props:pp-oan	8	punct	_	_		
 
-1	De	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-oan	3	det	_	_		
+1	De	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-oan	2	det	_	_
 2	Zwitser	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-oan	3	nsubj	_	_		
 3	dirigeert	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-oan	0	root	_	_		
 4	gedurende	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-oan	6	case	_	_		
@@ -47406,7 +47406,7 @@
 3	reizigers	_	_	_	order:LK[V]MF[SO]|props:pp-oan	1	nsubj	_	_		
 4	gedurende	_	_	_	order:LK[V]MF[SO]|props:pp-oan	6	case	_	_		
 5	een	_	_	_	order:LK[V]MF[SO]|props:pp-oan	6	det	_	_		
-6	week	_	_	_	order:LK[V]MF[SO]|props:pp-oan	7	obl	_	_		
+6	week	_	_	_	order:LK[V]MF[SO]|props:pp-oan	1	obl	_	_
 7	tolken	_	_	_	order:LK[V]MF[SO]|props:pp-oan	1	obj	_	_		
 8	?	_	_	_	order:LK[V]MF[SO]|props:pp-oan	1	punct	_	_		
 
