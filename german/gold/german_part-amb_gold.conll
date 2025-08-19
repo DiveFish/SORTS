@@ -7039,12 +7039,6 @@
 4	sie	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	_	_	_	_
 
-1	Sie	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	2	obj	_	_
-2	starten	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	0	verb	_	_
-3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	_	_	_	_
-4	Generäle	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	2	nsubj	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	_	_	_	_
-
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	_	_	_	_
 2	starten	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	0	verb	_	_
 3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	_	_	_	_
@@ -7052,24 +7046,11 @@
 5	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-2	starten	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	0	verb	_	_
-3	sie	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	2	obj	_	_
-4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-5	Generäle	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-
 1	Starten	_	_	_	order:LK[V]MF[SO]|props:amb-opron	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:amb-opron	_	_	_	_
 3	Generäle	_	_	_	order:LK[V]MF[SO]|props:amb-opron	1	nsubj	_	_
 4	sie	_	_	_	order:LK[V]MF[SO]|props:amb-opron	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:amb-opron	_	_	_	_
-
-1	Starten	_	_	_	order:LK[V]MF[OS]|props:amb-opron	0	verb	_	_
-2	sie	_	_	_	order:LK[V]MF[OS]|props:amb-opron	1	obj	_	_
-3	die	_	_	_	order:LK[V]MF[OS]|props:amb-opron	_	_	_	_
-4	Generäle	_	_	_	order:LK[V]MF[OS]|props:amb-opron	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:amb-opron	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
@@ -7078,24 +7059,11 @@
 5	starten	_	_	_	order:MF[SO]VC[V]|props:amb-opron	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
 
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-2	sie	_	_	_	order:MF[OS]VC[V]|props:amb-opron	5	obj	_	_
-3	die	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-4	Generäle	_	_	_	order:MF[OS]VC[V]|props:amb-opron	5	nsubj	_	_
-5	starten	_	_	_	order:MF[OS]VC[V]|props:amb-opron	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	_	_	_	_
 2	Partnerin	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	3	nsubj	_	_
 3	lebt	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	0	verb	_	_
 4	es	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	_	_	_	_
-
-1	Es	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	2	obj	_	_
-2	lebt	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	0	verb	_	_
-3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	_	_	_	_
-4	Partnerin	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	2	nsubj	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	_	_	_	_
 2	lebt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	0	verb	_	_
@@ -7104,24 +7072,11 @@
 5	es	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-2	lebt	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	0	verb	_	_
-3	es	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	2	obj	_	_
-4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-5	Partnerin	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-
 1	Lebt	_	_	_	order:LK[V]MF[SO]|props:amb-opron	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:amb-opron	_	_	_	_
 3	Partnerin	_	_	_	order:LK[V]MF[SO]|props:amb-opron	1	nsubj	_	_
 4	es	_	_	_	order:LK[V]MF[SO]|props:amb-opron	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:amb-opron	_	_	_	_
-
-1	Lebt	_	_	_	order:LK[V]MF[OS]|props:amb-opron	0	verb	_	_
-2	es	_	_	_	order:LK[V]MF[OS]|props:amb-opron	1	obj	_	_
-3	die	_	_	_	order:LK[V]MF[OS]|props:amb-opron	_	_	_	_
-4	Partnerin	_	_	_	order:LK[V]MF[OS]|props:amb-opron	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:amb-opron	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
@@ -7130,24 +7085,11 @@
 5	lebt	_	_	_	order:MF[SO]VC[V]|props:amb-opron	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
 
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-2	es	_	_	_	order:MF[OS]VC[V]|props:amb-opron	5	obj	_	_
-3	die	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-4	Partnerin	_	_	_	order:MF[OS]VC[V]|props:amb-opron	5	nsubj	_	_
-5	lebt	_	_	_	order:MF[OS]VC[V]|props:amb-opron	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	_	_	_	_
 2	Journalisten	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	3	nsubj	_	_
 3	übertexten	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	0	verb	_	_
 4	sie	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	_	_	_	_
-
-1	Sie	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	2	obj	_	_
-2	übertexten	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	0	verb	_	_
-3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	_	_	_	_
-4	Journalisten	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	2	nsubj	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	_	_	_	_
 2	übertexten	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	0	verb	_	_
@@ -7156,24 +7098,11 @@
 5	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-2	übertexten	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	0	verb	_	_
-3	sie	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	2	obj	_	_
-4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-5	Journalisten	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-
 1	Übertexten	_	_	_	order:LK[V]MF[SO]|props:amb-opron	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:amb-opron	_	_	_	_
 3	Journalisten	_	_	_	order:LK[V]MF[SO]|props:amb-opron	1	nsubj	_	_
 4	sie	_	_	_	order:LK[V]MF[SO]|props:amb-opron	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:amb-opron	_	_	_	_
-
-1	Übertexten	_	_	_	order:LK[V]MF[OS]|props:amb-opron	0	verb	_	_
-2	sie	_	_	_	order:LK[V]MF[OS]|props:amb-opron	1	obj	_	_
-3	die	_	_	_	order:LK[V]MF[OS]|props:amb-opron	_	_	_	_
-4	Journalisten	_	_	_	order:LK[V]MF[OS]|props:amb-opron	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:amb-opron	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
@@ -7182,24 +7111,11 @@
 5	übertexten	_	_	_	order:MF[SO]VC[V]|props:amb-opron	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
 
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-2	sie	_	_	_	order:MF[OS]VC[V]|props:amb-opron	5	obj	_	_
-3	die	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-4	Journalisten	_	_	_	order:MF[OS]VC[V]|props:amb-opron	5	nsubj	_	_
-5	übertexten	_	_	_	order:MF[OS]VC[V]|props:amb-opron	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	_	_	_	_
 2	Freundin	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	3	nsubj	_	_
 3	spielt	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	0	verb	_	_
 4	sie	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	_	_	_	_
-
-1	Sie	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	2	obj	_	_
-2	spielt	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	0	verb	_	_
-3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	_	_	_	_
-4	Freundin	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	2	nsubj	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	_	_	_	_
 2	spielt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	0	verb	_	_
@@ -7208,24 +7124,11 @@
 5	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-2	spielt	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	0	verb	_	_
-3	sie	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	2	obj	_	_
-4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-5	Freundin	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-
 1	Spielt	_	_	_	order:LK[V]MF[SO]|props:amb-opron	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:amb-opron	_	_	_	_
 3	Freundin	_	_	_	order:LK[V]MF[SO]|props:amb-opron	1	nsubj	_	_
 4	sie	_	_	_	order:LK[V]MF[SO]|props:amb-opron	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:amb-opron	_	_	_	_
-
-1	Spielt	_	_	_	order:LK[V]MF[OS]|props:amb-opron	0	verb	_	_
-2	sie	_	_	_	order:LK[V]MF[OS]|props:amb-opron	1	obj	_	_
-3	die	_	_	_	order:LK[V]MF[OS]|props:amb-opron	_	_	_	_
-4	Freundin	_	_	_	order:LK[V]MF[OS]|props:amb-opron	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:amb-opron	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
@@ -7234,24 +7137,11 @@
 5	spielt	_	_	_	order:MF[SO]VC[V]|props:amb-opron	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
 
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-2	sie	_	_	_	order:MF[OS]VC[V]|props:amb-opron	5	obj	_	_
-3	die	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-4	Freundin	_	_	_	order:MF[OS]VC[V]|props:amb-opron	5	nsubj	_	_
-5	spielt	_	_	_	order:MF[OS]VC[V]|props:amb-opron	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	_	_	_	_
 2	Passanten	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	3	nsubj	_	_
 3	bewerfen	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	0	verb	_	_
 4	sie	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	_	_	_	_
-
-1	Sie	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	2	obj	_	_
-2	bewerfen	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	0	verb	_	_
-3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	_	_	_	_
-4	Passanten	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	2	nsubj	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	_	_	_	_
 2	bewerfen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	0	verb	_	_
@@ -7260,24 +7150,11 @@
 5	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-2	bewerfen	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	0	verb	_	_
-3	sie	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	2	obj	_	_
-4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-5	Passanten	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-
 1	Bewerfen	_	_	_	order:LK[V]MF[SO]|props:amb-opron	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:amb-opron	_	_	_	_
 3	Passanten	_	_	_	order:LK[V]MF[SO]|props:amb-opron	1	nsubj	_	_
 4	sie	_	_	_	order:LK[V]MF[SO]|props:amb-opron	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:amb-opron	_	_	_	_
-
-1	Bewerfen	_	_	_	order:LK[V]MF[OS]|props:amb-opron	0	verb	_	_
-2	sie	_	_	_	order:LK[V]MF[OS]|props:amb-opron	1	obj	_	_
-3	die	_	_	_	order:LK[V]MF[OS]|props:amb-opron	_	_	_	_
-4	Passanten	_	_	_	order:LK[V]MF[OS]|props:amb-opron	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:amb-opron	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
@@ -7286,24 +7163,11 @@
 5	bewerfen	_	_	_	order:MF[SO]VC[V]|props:amb-opron	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
 
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-2	sie	_	_	_	order:MF[OS]VC[V]|props:amb-opron	5	obj	_	_
-3	die	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-4	Passanten	_	_	_	order:MF[OS]VC[V]|props:amb-opron	5	nsubj	_	_
-5	bewerfen	_	_	_	order:MF[OS]VC[V]|props:amb-opron	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-
 1	Das	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	_	_	_	_
 2	Kind	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	3	nsubj	_	_
 3	findet	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	0	verb	_	_
 4	es	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	_	_	_	_
-
-1	Es	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	2	obj	_	_
-2	findet	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	0	verb	_	_
-3	das	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	_	_	_	_
-4	Kind	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	2	nsubj	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	_	_	_	_
 2	findet	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	0	verb	_	_
@@ -7312,24 +7176,11 @@
 5	es	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-2	findet	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	0	verb	_	_
-3	es	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	2	obj	_	_
-4	das	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-5	Kind	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-
 1	Findet	_	_	_	order:LK[V]MF[SO]|props:amb-opron	0	verb	_	_
 2	das	_	_	_	order:LK[V]MF[SO]|props:amb-opron	_	_	_	_
 3	Kind	_	_	_	order:LK[V]MF[SO]|props:amb-opron	1	nsubj	_	_
 4	es	_	_	_	order:LK[V]MF[SO]|props:amb-opron	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:amb-opron	_	_	_	_
-
-1	Findet	_	_	_	order:LK[V]MF[OS]|props:amb-opron	0	verb	_	_
-2	es	_	_	_	order:LK[V]MF[OS]|props:amb-opron	1	obj	_	_
-3	das	_	_	_	order:LK[V]MF[OS]|props:amb-opron	_	_	_	_
-4	Kind	_	_	_	order:LK[V]MF[OS]|props:amb-opron	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:amb-opron	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
 2	das	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
@@ -7338,24 +7189,11 @@
 5	findet	_	_	_	order:MF[SO]VC[V]|props:amb-opron	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
 
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-2	es	_	_	_	order:MF[OS]VC[V]|props:amb-opron	5	obj	_	_
-3	das	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-4	Kind	_	_	_	order:MF[OS]VC[V]|props:amb-opron	5	nsubj	_	_
-5	findet	_	_	_	order:MF[OS]VC[V]|props:amb-opron	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	_	_	_	_
 2	Leser	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	3	nsubj	_	_
 3	abonnieren	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	0	verb	_	_
 4	sie	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	_	_	_	_
-
-1	Sie	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	2	obj	_	_
-2	abonnieren	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	0	verb	_	_
-3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	_	_	_	_
-4	Leser	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	2	nsubj	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	_	_	_	_
 2	abonnieren	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	0	verb	_	_
@@ -7364,24 +7202,11 @@
 5	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-2	abonnieren	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	0	verb	_	_
-3	sie	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	2	obj	_	_
-4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-5	Leser	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-
 1	Abonnieren	_	_	_	order:LK[V]MF[SO]|props:amb-opron	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:amb-opron	_	_	_	_
 3	Leser	_	_	_	order:LK[V]MF[SO]|props:amb-opron	1	nsubj	_	_
 4	sie	_	_	_	order:LK[V]MF[SO]|props:amb-opron	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:amb-opron	_	_	_	_
-
-1	Abonnieren	_	_	_	order:LK[V]MF[OS]|props:amb-opron	0	verb	_	_
-2	sie	_	_	_	order:LK[V]MF[OS]|props:amb-opron	1	obj	_	_
-3	die	_	_	_	order:LK[V]MF[OS]|props:amb-opron	_	_	_	_
-4	Leser	_	_	_	order:LK[V]MF[OS]|props:amb-opron	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:amb-opron	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
@@ -7390,24 +7215,11 @@
 5	abonnieren	_	_	_	order:MF[SO]VC[V]|props:amb-opron	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
 
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-2	sie	_	_	_	order:MF[OS]VC[V]|props:amb-opron	5	obj	_	_
-3	die	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-4	Leser	_	_	_	order:MF[OS]VC[V]|props:amb-opron	5	nsubj	_	_
-5	abonnieren	_	_	_	order:MF[OS]VC[V]|props:amb-opron	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	_	_	_	_
 2	Herren	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	3	nsubj	_	_
 3	rasieren	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	0	verb	_	_
 4	sie	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	_	_	_	_
-
-1	Sie	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	2	obj	_	_
-2	rasieren	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	0	verb	_	_
-3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	_	_	_	_
-4	Herren	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	2	nsubj	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	_	_	_	_
 2	rasieren	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	0	verb	_	_
@@ -7416,24 +7228,11 @@
 5	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-2	rasieren	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	0	verb	_	_
-3	sie	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	2	obj	_	_
-4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-5	Herren	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-
 1	Rasieren	_	_	_	order:LK[V]MF[SO]|props:amb-opron	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:amb-opron	_	_	_	_
 3	Herren	_	_	_	order:LK[V]MF[SO]|props:amb-opron	1	nsubj	_	_
 4	sie	_	_	_	order:LK[V]MF[SO]|props:amb-opron	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:amb-opron	_	_	_	_
-
-1	Rasieren	_	_	_	order:LK[V]MF[OS]|props:amb-opron	0	verb	_	_
-2	sie	_	_	_	order:LK[V]MF[OS]|props:amb-opron	1	obj	_	_
-3	die	_	_	_	order:LK[V]MF[OS]|props:amb-opron	_	_	_	_
-4	Herren	_	_	_	order:LK[V]MF[OS]|props:amb-opron	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:amb-opron	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
@@ -7442,24 +7241,11 @@
 5	rasieren	_	_	_	order:MF[SO]VC[V]|props:amb-opron	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
 
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-2	sie	_	_	_	order:MF[OS]VC[V]|props:amb-opron	5	obj	_	_
-3	die	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-4	Herren	_	_	_	order:MF[OS]VC[V]|props:amb-opron	5	nsubj	_	_
-5	rasieren	_	_	_	order:MF[OS]VC[V]|props:amb-opron	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	_	_	_	_
 2	Mama	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	3	nsubj	_	_
 3	trinkt	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	0	verb	_	_
 4	es	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	_	_	_	_
-
-1	Es	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	2	obj	_	_
-2	trinkt	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	0	verb	_	_
-3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	_	_	_	_
-4	Mama	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	2	nsubj	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	_	_	_	_
 2	trinkt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	0	verb	_	_
@@ -7468,24 +7254,11 @@
 5	es	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-2	trinkt	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	0	verb	_	_
-3	es	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	2	obj	_	_
-4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-5	Mama	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-
 1	Trinkt	_	_	_	order:LK[V]MF[SO]|props:amb-opron	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:amb-opron	_	_	_	_
 3	Mama	_	_	_	order:LK[V]MF[SO]|props:amb-opron	1	nsubj	_	_
 4	es	_	_	_	order:LK[V]MF[SO]|props:amb-opron	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:amb-opron	_	_	_	_
-
-1	Trinkt	_	_	_	order:LK[V]MF[OS]|props:amb-opron	0	verb	_	_
-2	es	_	_	_	order:LK[V]MF[OS]|props:amb-opron	1	obj	_	_
-3	die	_	_	_	order:LK[V]MF[OS]|props:amb-opron	_	_	_	_
-4	Mama	_	_	_	order:LK[V]MF[OS]|props:amb-opron	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:amb-opron	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
@@ -7494,24 +7267,11 @@
 5	trinkt	_	_	_	order:MF[SO]VC[V]|props:amb-opron	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
 
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-2	es	_	_	_	order:MF[OS]VC[V]|props:amb-opron	5	obj	_	_
-3	die	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-4	Mama	_	_	_	order:MF[OS]VC[V]|props:amb-opron	5	nsubj	_	_
-5	trinkt	_	_	_	order:MF[OS]VC[V]|props:amb-opron	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	_	_	_	_
 2	Schriftsteller	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	3	nsubj	_	_
 3	schreiben	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	0	verb	_	_
 4	sie	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	_	_	_	_
-
-1	Sie	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	2	obj	_	_
-2	schreiben	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	0	verb	_	_
-3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	_	_	_	_
-4	Schriftsteller	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	2	nsubj	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	_	_	_	_
 2	schreiben	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	0	verb	_	_
@@ -7520,24 +7280,11 @@
 5	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-2	schreiben	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	0	verb	_	_
-3	sie	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	2	obj	_	_
-4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-5	Schriftsteller	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-
 1	Schreiben	_	_	_	order:LK[V]MF[SO]|props:amb-opron	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:amb-opron	_	_	_	_
 3	Schriftsteller	_	_	_	order:LK[V]MF[SO]|props:amb-opron	1	nsubj	_	_
 4	sie	_	_	_	order:LK[V]MF[SO]|props:amb-opron	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:amb-opron	_	_	_	_
-
-1	Schreiben	_	_	_	order:LK[V]MF[OS]|props:amb-opron	0	verb	_	_
-2	sie	_	_	_	order:LK[V]MF[OS]|props:amb-opron	1	obj	_	_
-3	die	_	_	_	order:LK[V]MF[OS]|props:amb-opron	_	_	_	_
-4	Schriftsteller	_	_	_	order:LK[V]MF[OS]|props:amb-opron	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:amb-opron	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
@@ -7546,24 +7293,11 @@
 5	schreiben	_	_	_	order:MF[SO]VC[V]|props:amb-opron	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
 
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-2	sie	_	_	_	order:MF[OS]VC[V]|props:amb-opron	5	obj	_	_
-3	die	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-4	Schriftsteller	_	_	_	order:MF[OS]VC[V]|props:amb-opron	5	nsubj	_	_
-5	schreiben	_	_	_	order:MF[OS]VC[V]|props:amb-opron	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	_	_	_	_
 2	Politikerin	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	3	nsubj	_	_
 3	beendet	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	0	verb	_	_
 4	sie	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	_	_	_	_
-
-1	Sie	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	2	obj	_	_
-2	beendet	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	0	verb	_	_
-3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	_	_	_	_
-4	Politikerin	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	2	nsubj	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	_	_	_	_
 2	beendet	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	0	verb	_	_
@@ -7572,24 +7306,11 @@
 5	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-2	beendet	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	0	verb	_	_
-3	sie	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	2	obj	_	_
-4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-5	Politikerin	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-
 1	Beendet	_	_	_	order:LK[V]MF[SO]|props:amb-opron	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:amb-opron	_	_	_	_
 3	Politikerin	_	_	_	order:LK[V]MF[SO]|props:amb-opron	1	nsubj	_	_
 4	sie	_	_	_	order:LK[V]MF[SO]|props:amb-opron	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:amb-opron	_	_	_	_
-
-1	Beendet	_	_	_	order:LK[V]MF[OS]|props:amb-opron	0	verb	_	_
-2	sie	_	_	_	order:LK[V]MF[OS]|props:amb-opron	1	obj	_	_
-3	die	_	_	_	order:LK[V]MF[OS]|props:amb-opron	_	_	_	_
-4	Politikerin	_	_	_	order:LK[V]MF[OS]|props:amb-opron	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:amb-opron	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
@@ -7598,24 +7319,11 @@
 5	beendet	_	_	_	order:MF[SO]VC[V]|props:amb-opron	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
 
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-2	sie	_	_	_	order:MF[OS]VC[V]|props:amb-opron	5	obj	_	_
-3	die	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-4	Politikerin	_	_	_	order:MF[OS]VC[V]|props:amb-opron	5	nsubj	_	_
-5	beendet	_	_	_	order:MF[OS]VC[V]|props:amb-opron	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	_	_	_	_
 2	Abgeordneten	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	3	nsubj	_	_
 3	bekommen	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	0	verb	_	_
 4	sie	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	_	_	_	_
-
-1	Sie	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	2	obj	_	_
-2	bekommen	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	0	verb	_	_
-3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	_	_	_	_
-4	Abgeordneten	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	2	nsubj	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	_	_	_	_
 2	bekommen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	0	verb	_	_
@@ -7624,24 +7332,11 @@
 5	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-2	bekommen	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	0	verb	_	_
-3	sie	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	2	obj	_	_
-4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-5	Abgeordneten	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-
 1	Bekommen	_	_	_	order:LK[V]MF[SO]|props:amb-opron	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:amb-opron	_	_	_	_
 3	Abgeordneten	_	_	_	order:LK[V]MF[SO]|props:amb-opron	1	nsubj	_	_
 4	sie	_	_	_	order:LK[V]MF[SO]|props:amb-opron	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:amb-opron	_	_	_	_
-
-1	Bekommen	_	_	_	order:LK[V]MF[OS]|props:amb-opron	0	verb	_	_
-2	sie	_	_	_	order:LK[V]MF[OS]|props:amb-opron	1	obj	_	_
-3	die	_	_	_	order:LK[V]MF[OS]|props:amb-opron	_	_	_	_
-4	Abgeordneten	_	_	_	order:LK[V]MF[OS]|props:amb-opron	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:amb-opron	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
@@ -7650,24 +7345,11 @@
 5	bekommen	_	_	_	order:MF[SO]VC[V]|props:amb-opron	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
 
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-2	sie	_	_	_	order:MF[OS]VC[V]|props:amb-opron	5	obj	_	_
-3	die	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-4	Abgeordneten	_	_	_	order:MF[OS]VC[V]|props:amb-opron	5	nsubj	_	_
-5	bekommen	_	_	_	order:MF[OS]VC[V]|props:amb-opron	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	_	_	_	_
 2	Kleinbauern	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	3	nsubj	_	_
 3	ziehen	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	0	verb	_	_
 4	sie	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	_	_	_	_
-
-1	Sie	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	2	obj	_	_
-2	ziehen	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	0	verb	_	_
-3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	_	_	_	_
-4	Kleinbauern	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	2	nsubj	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	_	_	_	_
 2	ziehen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	0	verb	_	_
@@ -7676,24 +7358,11 @@
 5	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-2	ziehen	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	0	verb	_	_
-3	sie	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	2	obj	_	_
-4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-5	Kleinbauern	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-
 1	Ziehen	_	_	_	order:LK[V]MF[SO]|props:amb-opron	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:amb-opron	_	_	_	_
 3	Kleinbauern	_	_	_	order:LK[V]MF[SO]|props:amb-opron	1	nsubj	_	_
 4	sie	_	_	_	order:LK[V]MF[SO]|props:amb-opron	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:amb-opron	_	_	_	_
-
-1	Ziehen	_	_	_	order:LK[V]MF[OS]|props:amb-opron	0	verb	_	_
-2	sie	_	_	_	order:LK[V]MF[OS]|props:amb-opron	1	obj	_	_
-3	die	_	_	_	order:LK[V]MF[OS]|props:amb-opron	_	_	_	_
-4	Kleinbauern	_	_	_	order:LK[V]MF[OS]|props:amb-opron	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:amb-opron	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
@@ -7702,24 +7371,11 @@
 5	ziehen	_	_	_	order:MF[SO]VC[V]|props:amb-opron	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
 
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-2	sie	_	_	_	order:MF[OS]VC[V]|props:amb-opron	5	obj	_	_
-3	die	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-4	Kleinbauern	_	_	_	order:MF[OS]VC[V]|props:amb-opron	5	nsubj	_	_
-5	ziehen	_	_	_	order:MF[OS]VC[V]|props:amb-opron	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	_	_	_	_
 2	Sportlerinnen	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	3	nsubj	_	_
 3	gewinnen	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	0	verb	_	_
 4	sie	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	_	_	_	_
-
-1	Sie	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	2	obj	_	_
-2	gewinnen	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	0	verb	_	_
-3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	_	_	_	_
-4	Sportlerinnen	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	2	nsubj	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	_	_	_	_
 2	gewinnen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	0	verb	_	_
@@ -7728,24 +7384,11 @@
 5	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-2	gewinnen	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	0	verb	_	_
-3	sie	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	2	obj	_	_
-4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-5	Sportlerinnen	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-
 1	Gewinnen	_	_	_	order:LK[V]MF[SO]|props:amb-opron	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:amb-opron	_	_	_	_
 3	Sportlerinnen	_	_	_	order:LK[V]MF[SO]|props:amb-opron	1	nsubj	_	_
 4	sie	_	_	_	order:LK[V]MF[SO]|props:amb-opron	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:amb-opron	_	_	_	_
-
-1	Gewinnen	_	_	_	order:LK[V]MF[OS]|props:amb-opron	0	verb	_	_
-2	sie	_	_	_	order:LK[V]MF[OS]|props:amb-opron	1	obj	_	_
-3	die	_	_	_	order:LK[V]MF[OS]|props:amb-opron	_	_	_	_
-4	Sportlerinnen	_	_	_	order:LK[V]MF[OS]|props:amb-opron	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:amb-opron	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
@@ -7754,24 +7397,11 @@
 5	gewinnen	_	_	_	order:MF[SO]VC[V]|props:amb-opron	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
 
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-2	sie	_	_	_	order:MF[OS]VC[V]|props:amb-opron	5	obj	_	_
-3	die	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-4	Sportlerinnen	_	_	_	order:MF[OS]VC[V]|props:amb-opron	5	nsubj	_	_
-5	gewinnen	_	_	_	order:MF[OS]VC[V]|props:amb-opron	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	_	_	_	_
 2	Handwerker	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	3	nsubj	_	_
 3	übernehmen	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	0	verb	_	_
 4	sie	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-opron	_	_	_	_
-
-1	Sie	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	2	obj	_	_
-2	übernehmen	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	0	verb	_	_
-3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	_	_	_	_
-4	Handwerker	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	2	nsubj	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-opron	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	_	_	_	_
 2	übernehmen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	0	verb	_	_
@@ -7780,24 +7410,11 @@
 5	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-opron	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-2	übernehmen	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	0	verb	_	_
-3	sie	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	2	obj	_	_
-4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-5	Handwerker	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:amb-opron	_	_	_	_
-
 1	Übernehmen	_	_	_	order:LK[V]MF[SO]|props:amb-opron	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:amb-opron	_	_	_	_
 3	Handwerker	_	_	_	order:LK[V]MF[SO]|props:amb-opron	1	nsubj	_	_
 4	sie	_	_	_	order:LK[V]MF[SO]|props:amb-opron	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:amb-opron	_	_	_	_
-
-1	Übernehmen	_	_	_	order:LK[V]MF[OS]|props:amb-opron	0	verb	_	_
-2	sie	_	_	_	order:LK[V]MF[OS]|props:amb-opron	1	obj	_	_
-3	die	_	_	_	order:LK[V]MF[OS]|props:amb-opron	_	_	_	_
-4	Handwerker	_	_	_	order:LK[V]MF[OS]|props:amb-opron	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:amb-opron	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
@@ -7805,13 +7422,6 @@
 4	sie	_	_	_	order:MF[SO]VC[V]|props:amb-opron	5	obj	_	_
 5	übernehmen	_	_	_	order:MF[SO]VC[V]|props:amb-opron	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:amb-opron	_	_	_	_
-
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-2	sie	_	_	_	order:MF[OS]VC[V]|props:amb-opron	5	obj	_	_
-3	die	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
-4	Handwerker	_	_	_	order:MF[OS]VC[V]|props:amb-opron	5	nsubj	_	_
-5	übernehmen	_	_	_	order:MF[OS]VC[V]|props:amb-opron	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:amb-opron	_	_	_	_
 
 1	Der	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	_	_	_	_
 2	General	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	5	nsubj	_	_

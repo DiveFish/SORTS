@@ -990,125 +990,65 @@ LK[V]MF[OS]	dat-opron	4	2	Antworten ihm die Gegner ?
 MF[SO]VC[V]	dat-opron	3	4	Weil die Gegner ihm antworten .
 MF[OS]VC[V]	dat-opron	4	2	Weil ihm die Gegner antworten .
 VF[S]LK[V]MF[O]	amb-opron	2	4	Die Generäle starten sie .
-VF[O]LK[V]MF[S]	amb-opron	4	1	Sie starten die Generäle .
 VF[ADV]LK[V]MF[SO]	amb-opron	4	5	Deshalb starten die Generäle sie .
-VF[ADV]LK[V]MF[OS]	amb-opron	5	3	Deshalb starten sie die Generäle .
 LK[V]MF[SO]	amb-opron	3	4	Starten die Generäle sie ?
-LK[V]MF[OS]	amb-opron	4	2	Starten sie die Generäle ?
 MF[SO]VC[V]	amb-opron	3	4	Weil die Generäle sie starten .
-MF[OS]VC[V]	amb-opron	4	2	Weil sie die Generäle starten .
 VF[S]LK[V]MF[O]	amb-opron	2	4	Die Partnerin lebt es .
-VF[O]LK[V]MF[S]	amb-opron	4	1	Es lebt die Partnerin .
 VF[ADV]LK[V]MF[SO]	amb-opron	4	5	Deshalb lebt die Partnerin es .
-VF[ADV]LK[V]MF[OS]	amb-opron	5	3	Deshalb lebt es die Partnerin .
 LK[V]MF[SO]	amb-opron	3	4	Lebt die Partnerin es ?
-LK[V]MF[OS]	amb-opron	4	2	Lebt es die Partnerin ?
 MF[SO]VC[V]	amb-opron	3	4	Weil die Partnerin es lebt .
-MF[OS]VC[V]	amb-opron	4	2	Weil es die Partnerin lebt .
 VF[S]LK[V]MF[O]	amb-opron	2	4	Die Journalisten übertexten sie .
-VF[O]LK[V]MF[S]	amb-opron	4	1	Sie übertexten die Journalisten .
 VF[ADV]LK[V]MF[SO]	amb-opron	4	5	Deshalb übertexten die Journalisten sie .
-VF[ADV]LK[V]MF[OS]	amb-opron	5	3	Deshalb übertexten sie die Journalisten .
 LK[V]MF[SO]	amb-opron	3	4	Übertexten die Journalisten sie ?
-LK[V]MF[OS]	amb-opron	4	2	Übertexten sie die Journalisten ?
 MF[SO]VC[V]	amb-opron	3	4	Weil die Journalisten sie übertexten .
-MF[OS]VC[V]	amb-opron	4	2	Weil sie die Journalisten übertexten .
 VF[S]LK[V]MF[O]	amb-opron	2	4	Die Freundin spielt sie .
-VF[O]LK[V]MF[S]	amb-opron	4	1	Sie spielt die Freundin .
 VF[ADV]LK[V]MF[SO]	amb-opron	4	5	Deshalb spielt die Freundin sie .
-VF[ADV]LK[V]MF[OS]	amb-opron	5	3	Deshalb spielt sie die Freundin .
 LK[V]MF[SO]	amb-opron	3	4	Spielt die Freundin sie ?
-LK[V]MF[OS]	amb-opron	4	2	Spielt sie die Freundin ?
 MF[SO]VC[V]	amb-opron	3	4	Weil die Freundin sie spielt .
-MF[OS]VC[V]	amb-opron	4	2	Weil sie die Freundin spielt .
 VF[S]LK[V]MF[O]	amb-opron	2	4	Die Passanten bewerfen sie .
-VF[O]LK[V]MF[S]	amb-opron	4	1	Sie bewerfen die Passanten .
 VF[ADV]LK[V]MF[SO]	amb-opron	4	5	Deshalb bewerfen die Passanten sie .
-VF[ADV]LK[V]MF[OS]	amb-opron	5	3	Deshalb bewerfen sie die Passanten .
 LK[V]MF[SO]	amb-opron	3	4	Bewerfen die Passanten sie ?
-LK[V]MF[OS]	amb-opron	4	2	Bewerfen sie die Passanten ?
 MF[SO]VC[V]	amb-opron	3	4	Weil die Passanten sie bewerfen .
-MF[OS]VC[V]	amb-opron	4	2	Weil sie die Passanten bewerfen .
 VF[S]LK[V]MF[O]	amb-opron	2	4	Das Kind findet es .
-VF[O]LK[V]MF[S]	amb-opron	4	1	Es findet das Kind .
 VF[ADV]LK[V]MF[SO]	amb-opron	4	5	Deshalb findet das Kind es .
-VF[ADV]LK[V]MF[OS]	amb-opron	5	3	Deshalb findet es das Kind .
 LK[V]MF[SO]	amb-opron	3	4	Findet das Kind es ?
-LK[V]MF[OS]	amb-opron	4	2	Findet es das Kind ?
 MF[SO]VC[V]	amb-opron	3	4	Weil das Kind es findet .
-MF[OS]VC[V]	amb-opron	4	2	Weil es das Kind findet .
 VF[S]LK[V]MF[O]	amb-opron	2	4	Die Leser abonnieren sie .
-VF[O]LK[V]MF[S]	amb-opron	4	1	Sie abonnieren die Leser .
 VF[ADV]LK[V]MF[SO]	amb-opron	4	5	Deshalb abonnieren die Leser sie .
-VF[ADV]LK[V]MF[OS]	amb-opron	5	3	Deshalb abonnieren sie die Leser .
 LK[V]MF[SO]	amb-opron	3	4	Abonnieren die Leser sie ?
-LK[V]MF[OS]	amb-opron	4	2	Abonnieren sie die Leser ?
 MF[SO]VC[V]	amb-opron	3	4	Weil die Leser sie abonnieren .
-MF[OS]VC[V]	amb-opron	4	2	Weil sie die Leser abonnieren .
 VF[S]LK[V]MF[O]	amb-opron	2	4	Die Herren rasieren sie .
-VF[O]LK[V]MF[S]	amb-opron	4	1	Sie rasieren die Herren .
 VF[ADV]LK[V]MF[SO]	amb-opron	4	5	Deshalb rasieren die Herren sie .
-VF[ADV]LK[V]MF[OS]	amb-opron	5	3	Deshalb rasieren sie die Herren .
 LK[V]MF[SO]	amb-opron	3	4	Rasieren die Herren sie ?
-LK[V]MF[OS]	amb-opron	4	2	Rasieren sie die Herren ?
 MF[SO]VC[V]	amb-opron	3	4	Weil die Herren sie rasieren .
-MF[OS]VC[V]	amb-opron	4	2	Weil sie die Herren rasieren .
 VF[S]LK[V]MF[O]	amb-opron	2	4	Die Mama trinkt es .
-VF[O]LK[V]MF[S]	amb-opron	4	1	Es trinkt die Mama .
 VF[ADV]LK[V]MF[SO]	amb-opron	4	5	Deshalb trinkt die Mama es .
-VF[ADV]LK[V]MF[OS]	amb-opron	5	3	Deshalb trinkt es die Mama .
 LK[V]MF[SO]	amb-opron	3	4	Trinkt die Mama es ?
-LK[V]MF[OS]	amb-opron	4	2	Trinkt es die Mama ?
 MF[SO]VC[V]	amb-opron	3	4	Weil die Mama es trinkt .
-MF[OS]VC[V]	amb-opron	4	2	Weil es die Mama trinkt .
 VF[S]LK[V]MF[O]	amb-opron	2	4	Die Schriftsteller schreiben sie .
-VF[O]LK[V]MF[S]	amb-opron	4	1	Sie schreiben die Schriftsteller .
 VF[ADV]LK[V]MF[SO]	amb-opron	4	5	Deshalb schreiben die Schriftsteller sie .
-VF[ADV]LK[V]MF[OS]	amb-opron	5	3	Deshalb schreiben sie die Schriftsteller .
 LK[V]MF[SO]	amb-opron	3	4	Schreiben die Schriftsteller sie ?
-LK[V]MF[OS]	amb-opron	4	2	Schreiben sie die Schriftsteller ?
 MF[SO]VC[V]	amb-opron	3	4	Weil die Schriftsteller sie schreiben .
-MF[OS]VC[V]	amb-opron	4	2	Weil sie die Schriftsteller schreiben .
 VF[S]LK[V]MF[O]	amb-opron	2	4	Die Politikerin beendet sie .
-VF[O]LK[V]MF[S]	amb-opron	4	1	Sie beendet die Politikerin .
 VF[ADV]LK[V]MF[SO]	amb-opron	4	5	Deshalb beendet die Politikerin sie .
-VF[ADV]LK[V]MF[OS]	amb-opron	5	3	Deshalb beendet sie die Politikerin .
 LK[V]MF[SO]	amb-opron	3	4	Beendet die Politikerin sie ?
-LK[V]MF[OS]	amb-opron	4	2	Beendet sie die Politikerin ?
 MF[SO]VC[V]	amb-opron	3	4	Weil die Politikerin sie beendet .
-MF[OS]VC[V]	amb-opron	4	2	Weil sie die Politikerin beendet .
 VF[S]LK[V]MF[O]	amb-opron	2	4	Die Abgeordneten bekommen sie .
-VF[O]LK[V]MF[S]	amb-opron	4	1	Sie bekommen die Abgeordneten .
 VF[ADV]LK[V]MF[SO]	amb-opron	4	5	Deshalb bekommen die Abgeordneten sie .
-VF[ADV]LK[V]MF[OS]	amb-opron	5	3	Deshalb bekommen sie die Abgeordneten .
 LK[V]MF[SO]	amb-opron	3	4	Bekommen die Abgeordneten sie ?
-LK[V]MF[OS]	amb-opron	4	2	Bekommen sie die Abgeordneten ?
 MF[SO]VC[V]	amb-opron	3	4	Weil die Abgeordneten sie bekommen .
-MF[OS]VC[V]	amb-opron	4	2	Weil sie die Abgeordneten bekommen .
 VF[S]LK[V]MF[O]	amb-opron	2	4	Die Kleinbauern ziehen sie .
-VF[O]LK[V]MF[S]	amb-opron	4	1	Sie ziehen die Kleinbauern .
 VF[ADV]LK[V]MF[SO]	amb-opron	4	5	Deshalb ziehen die Kleinbauern sie .
-VF[ADV]LK[V]MF[OS]	amb-opron	5	3	Deshalb ziehen sie die Kleinbauern .
 LK[V]MF[SO]	amb-opron	3	4	Ziehen die Kleinbauern sie ?
-LK[V]MF[OS]	amb-opron	4	2	Ziehen sie die Kleinbauern ?
 MF[SO]VC[V]	amb-opron	3	4	Weil die Kleinbauern sie ziehen .
-MF[OS]VC[V]	amb-opron	4	2	Weil sie die Kleinbauern ziehen .
 VF[S]LK[V]MF[O]	amb-opron	2	4	Die Sportlerinnen gewinnen sie .
-VF[O]LK[V]MF[S]	amb-opron	4	1	Sie gewinnen die Sportlerinnen .
 VF[ADV]LK[V]MF[SO]	amb-opron	4	5	Deshalb gewinnen die Sportlerinnen sie .
-VF[ADV]LK[V]MF[OS]	amb-opron	5	3	Deshalb gewinnen sie die Sportlerinnen .
 LK[V]MF[SO]	amb-opron	3	4	Gewinnen die Sportlerinnen sie ?
-LK[V]MF[OS]	amb-opron	4	2	Gewinnen sie die Sportlerinnen ?
 MF[SO]VC[V]	amb-opron	3	4	Weil die Sportlerinnen sie gewinnen .
-MF[OS]VC[V]	amb-opron	4	2	Weil sie die Sportlerinnen gewinnen .
 VF[S]LK[V]MF[O]	amb-opron	2	4	Die Handwerker übernehmen sie .
-VF[O]LK[V]MF[S]	amb-opron	4	1	Sie übernehmen die Handwerker .
 VF[ADV]LK[V]MF[SO]	amb-opron	4	5	Deshalb übernehmen die Handwerker sie .
-VF[ADV]LK[V]MF[OS]	amb-opron	5	3	Deshalb übernehmen sie die Handwerker .
 LK[V]MF[SO]	amb-opron	3	4	Übernehmen die Handwerker sie ?
-LK[V]MF[OS]	amb-opron	4	2	Übernehmen sie die Handwerker ?
 MF[SO]VC[V]	amb-opron	3	4	Weil die Handwerker sie übernehmen .
-MF[OS]VC[V]	amb-opron	4	2	Weil sie die Handwerker übernehmen .
 VF[S]LK[V]MF[O]	aux-opron	2	4	Der General wird ihn starten .
 VF[O]LK[V]MF[S]	aux-opron	4	1	Ihn wird der General starten .
 VF[ADV]LK[V]MF[SO]	aux-opron	4	5	Deshalb wird der General ihn starten .
