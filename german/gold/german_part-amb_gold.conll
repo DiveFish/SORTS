@@ -4618,7 +4618,7 @@
 5	bewirft	_	_	_	order:MF[SO]VC[V]|props:amb-spron	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:amb-spron	_	_	_	_
 
-1	Es	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-spron	2	nsubj	_	_
+1	Sie	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-spron	2	nsubj	_	_
 2	findet	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-spron	0	verb	_	_
 3	eine	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-spron	_	_	_	_
 4	Lösung	_	_	_	order:VF[S]LK[V]MF[O]|props:amb-spron	2	obj	_	_
@@ -4627,24 +4627,24 @@
 1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-spron	_	_	_	_
 2	Lösung	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-spron	3	obj	_	_
 3	findet	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-spron	0	verb	_	_
-4	es	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-spron	3	nsubj	_	_
+4	sie	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-spron	3	nsubj	_	_
 5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:amb-spron	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-spron	_	_	_	_
 2	findet	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-spron	0	verb	_	_
-3	es	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-spron	2	nsubj	_	_
+3	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-spron	2	nsubj	_	_
 4	eine	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-spron	_	_	_	_
 5	Lösung	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-spron	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:amb-spron	_	_	_	_
 
 1	Findet	_	_	_	order:LK[V]MF[SO]|props:amb-spron	0	verb	_	_
-2	es	_	_	_	order:LK[V]MF[SO]|props:amb-spron	1	nsubj	_	_
+2	sie	_	_	_	order:LK[V]MF[SO]|props:amb-spron	1	nsubj	_	_
 3	eine	_	_	_	order:LK[V]MF[SO]|props:amb-spron	_	_	_	_
 4	Lösung	_	_	_	order:LK[V]MF[SO]|props:amb-spron	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:amb-spron	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:amb-spron	_	_	_	_
-2	es	_	_	_	order:MF[SO]VC[V]|props:amb-spron	5	nsubj	_	_
+2	sie	_	_	_	order:MF[SO]VC[V]|props:amb-spron	5	nsubj	_	_
 3	eine	_	_	_	order:MF[SO]VC[V]|props:amb-spron	_	_	_	_
 4	Lösung	_	_	_	order:MF[SO]VC[V]|props:amb-spron	5	obj	_	_
 5	findet	_	_	_	order:MF[SO]VC[V]|props:amb-spron	0	verb	_	_
@@ -5528,10 +5528,10 @@
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:base-opron	_	_	_	_
 2	Partner	_	_	_	order:VF[S]LK[V]MF[O]|props:base-opron	3	nsubj	_	_
 3	leben	_	_	_	order:VF[S]LK[V]MF[O]|props:base-opron	0	verb	_	_
-4	es	_	_	_	order:VF[S]LK[V]MF[O]|props:base-opron	3	obj	_	_
+4	ihn	_	_	_	order:VF[S]LK[V]MF[O]|props:base-opron	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:base-opron	_	_	_	_
 
-1	Es	_	_	_	order:VF[O]LK[V]MF[S]|props:base-opron	2	obj	_	_
+1	Ihn	_	_	_	order:VF[O]LK[V]MF[S]|props:base-opron	2	obj	_	_
 2	leben	_	_	_	order:VF[O]LK[V]MF[S]|props:base-opron	0	verb	_	_
 3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:base-opron	_	_	_	_
 4	Partner	_	_	_	order:VF[O]LK[V]MF[S]|props:base-opron	2	nsubj	_	_
@@ -5541,12 +5541,12 @@
 2	leben	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-opron	0	verb	_	_
 3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-opron	_	_	_	_
 4	Partner	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-opron	2	nsubj	_	_
-5	es	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-opron	2	obj	_	_
+5	ihn	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-opron	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-opron	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:base-opron	_	_	_	_
 2	leben	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:base-opron	0	verb	_	_
-3	es	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:base-opron	2	obj	_	_
+3	ihn	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:base-opron	2	obj	_	_
 4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:base-opron	_	_	_	_
 5	Partner	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:base-opron	2	nsubj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:base-opron	_	_	_	_
@@ -5554,11 +5554,11 @@
 1	Leben	_	_	_	order:LK[V]MF[SO]|props:base-opron	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:base-opron	_	_	_	_
 3	Partner	_	_	_	order:LK[V]MF[SO]|props:base-opron	1	nsubj	_	_
-4	es	_	_	_	order:LK[V]MF[SO]|props:base-opron	1	obj	_	_
+4	ihn	_	_	_	order:LK[V]MF[SO]|props:base-opron	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:base-opron	_	_	_	_
 
 1	Leben	_	_	_	order:LK[V]MF[OS]|props:base-opron	0	verb	_	_
-2	es	_	_	_	order:LK[V]MF[OS]|props:base-opron	1	obj	_	_
+2	ihn	_	_	_	order:LK[V]MF[OS]|props:base-opron	1	obj	_	_
 3	die	_	_	_	order:LK[V]MF[OS]|props:base-opron	_	_	_	_
 4	Partner	_	_	_	order:LK[V]MF[OS]|props:base-opron	1	nsubj	_	_
 5	?	_	_	_	order:LK[V]MF[OS]|props:base-opron	_	_	_	_
@@ -5566,12 +5566,12 @@
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:base-opron	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:base-opron	_	_	_	_
 3	Partner	_	_	_	order:MF[SO]VC[V]|props:base-opron	5	nsubj	_	_
-4	es	_	_	_	order:MF[SO]VC[V]|props:base-opron	5	obj	_	_
+4	ihn	_	_	_	order:MF[SO]VC[V]|props:base-opron	5	obj	_	_
 5	leben	_	_	_	order:MF[SO]VC[V]|props:base-opron	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:base-opron	_	_	_	_
 
 1	Weil	_	_	_	order:MF[OS]VC[V]|props:base-opron	_	_	_	_
-2	es	_	_	_	order:MF[OS]VC[V]|props:base-opron	5	obj	_	_
+2	ihn	_	_	_	order:MF[OS]VC[V]|props:base-opron	5	obj	_	_
 3	die	_	_	_	order:MF[OS]VC[V]|props:base-opron	_	_	_	_
 4	Partner	_	_	_	order:MF[OS]VC[V]|props:base-opron	5	nsubj	_	_
 5	leben	_	_	_	order:MF[OS]VC[V]|props:base-opron	0	verb	_	_
@@ -5892,10 +5892,10 @@
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:base-opron	_	_	_	_
 2	Mamas	_	_	_	order:VF[S]LK[V]MF[O]|props:base-opron	3	nsubj	_	_
 3	trinken	_	_	_	order:VF[S]LK[V]MF[O]|props:base-opron	0	verb	_	_
-4	es	_	_	_	order:VF[S]LK[V]MF[O]|props:base-opron	3	obj	_	_
+4	ihn	_	_	_	order:VF[S]LK[V]MF[O]|props:base-opron	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:base-opron	_	_	_	_
 
-1	Es	_	_	_	order:VF[O]LK[V]MF[S]|props:base-opron	2	obj	_	_
+1	Ihn	_	_	_	order:VF[O]LK[V]MF[S]|props:base-opron	2	obj	_	_
 2	trinken	_	_	_	order:VF[O]LK[V]MF[S]|props:base-opron	0	verb	_	_
 3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:base-opron	_	_	_	_
 4	Mamas	_	_	_	order:VF[O]LK[V]MF[S]|props:base-opron	2	nsubj	_	_
@@ -5905,12 +5905,12 @@
 2	trinken	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-opron	0	verb	_	_
 3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-opron	_	_	_	_
 4	Mamas	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-opron	2	nsubj	_	_
-5	es	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-opron	2	obj	_	_
+5	ihn	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-opron	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-opron	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:base-opron	_	_	_	_
 2	trinken	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:base-opron	0	verb	_	_
-3	es	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:base-opron	2	obj	_	_
+3	ihn	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:base-opron	2	obj	_	_
 4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:base-opron	_	_	_	_
 5	Mamas	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:base-opron	2	nsubj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:base-opron	_	_	_	_
@@ -5918,11 +5918,11 @@
 1	Trinken	_	_	_	order:LK[V]MF[SO]|props:base-opron	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:base-opron	_	_	_	_
 3	Mamas	_	_	_	order:LK[V]MF[SO]|props:base-opron	1	nsubj	_	_
-4	es	_	_	_	order:LK[V]MF[SO]|props:base-opron	1	obj	_	_
+4	ihn	_	_	_	order:LK[V]MF[SO]|props:base-opron	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:base-opron	_	_	_	_
 
 1	Trinken	_	_	_	order:LK[V]MF[OS]|props:base-opron	0	verb	_	_
-2	es	_	_	_	order:LK[V]MF[OS]|props:base-opron	1	obj	_	_
+2	ihn	_	_	_	order:LK[V]MF[OS]|props:base-opron	1	obj	_	_
 3	die	_	_	_	order:LK[V]MF[OS]|props:base-opron	_	_	_	_
 4	Mamas	_	_	_	order:LK[V]MF[OS]|props:base-opron	1	nsubj	_	_
 5	?	_	_	_	order:LK[V]MF[OS]|props:base-opron	_	_	_	_
@@ -5930,12 +5930,12 @@
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:base-opron	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:base-opron	_	_	_	_
 3	Mamas	_	_	_	order:MF[SO]VC[V]|props:base-opron	5	nsubj	_	_
-4	es	_	_	_	order:MF[SO]VC[V]|props:base-opron	5	obj	_	_
+4	ihn	_	_	_	order:MF[SO]VC[V]|props:base-opron	5	obj	_	_
 5	trinken	_	_	_	order:MF[SO]VC[V]|props:base-opron	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:base-opron	_	_	_	_
 
 1	Weil	_	_	_	order:MF[OS]VC[V]|props:base-opron	_	_	_	_
-2	es	_	_	_	order:MF[OS]VC[V]|props:base-opron	5	obj	_	_
+2	ihn	_	_	_	order:MF[OS]VC[V]|props:base-opron	5	obj	_	_
 3	die	_	_	_	order:MF[OS]VC[V]|props:base-opron	_	_	_	_
 4	Mamas	_	_	_	order:MF[OS]VC[V]|props:base-opron	5	nsubj	_	_
 5	trinken	_	_	_	order:MF[OS]VC[V]|props:base-opron	0	verb	_	_
@@ -7486,11 +7486,11 @@
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	_	_	_	_
 2	Partner	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	5	nsubj	_	_
 3	werden	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	_	_	_	_
-4	es	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	5	obj	_	_
+4	ihn	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	5	obj	_	_
 5	leben	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	0	verb	_	_
 6	.	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	_	_	_	_
 
-1	Es	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-opron	5	obj	_	_
+1	Ihn	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-opron	5	obj	_	_
 2	werden	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-opron	_	_	_	_
 3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-opron	_	_	_	_
 4	Partner	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-opron	5	nsubj	_	_
@@ -7501,13 +7501,13 @@
 2	werden	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	_	_	_	_
 3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	_	_	_	_
 4	Partner	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	6	nsubj	_	_
-5	es	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	6	obj	_	_
+5	ihn	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	6	obj	_	_
 6	leben	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	0	verb	_	_
 7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:aux-opron	_	_	_	_
 2	werden	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:aux-opron	_	_	_	_
-3	es	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:aux-opron	6	obj	_	_
+3	ihn	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:aux-opron	6	obj	_	_
 4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:aux-opron	_	_	_	_
 5	Partner	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:aux-opron	6	nsubj	_	_
 6	leben	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:aux-opron	0	verb	_	_
@@ -7516,12 +7516,12 @@
 1	Werden	_	_	_	order:LK[V]MF[SO]|props:aux-opron	_	_	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:aux-opron	_	_	_	_
 3	Partner	_	_	_	order:LK[V]MF[SO]|props:aux-opron	5	nsubj	_	_
-4	es	_	_	_	order:LK[V]MF[SO]|props:aux-opron	5	obj	_	_
+4	ihn	_	_	_	order:LK[V]MF[SO]|props:aux-opron	5	obj	_	_
 5	leben	_	_	_	order:LK[V]MF[SO]|props:aux-opron	0	verb	_	_
 6	?	_	_	_	order:LK[V]MF[SO]|props:aux-opron	_	_	_	_
 
 1	Werden	_	_	_	order:LK[V]MF[OS]|props:aux-opron	_	_	_	_
-2	es	_	_	_	order:LK[V]MF[OS]|props:aux-opron	5	obj	_	_
+2	ihn	_	_	_	order:LK[V]MF[OS]|props:aux-opron	5	obj	_	_
 3	die	_	_	_	order:LK[V]MF[OS]|props:aux-opron	_	_	_	_
 4	Partner	_	_	_	order:LK[V]MF[OS]|props:aux-opron	5	nsubj	_	_
 5	leben	_	_	_	order:LK[V]MF[OS]|props:aux-opron	0	verb	_	_
@@ -7530,13 +7530,13 @@
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:aux-opron	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:aux-opron	_	_	_	_
 3	Partner	_	_	_	order:MF[SO]VC[V]|props:aux-opron	5	nsubj	_	_
-4	es	_	_	_	order:MF[SO]VC[V]|props:aux-opron	5	obj	_	_
+4	ihn	_	_	_	order:MF[SO]VC[V]|props:aux-opron	5	obj	_	_
 5	leben	_	_	_	order:MF[SO]VC[V]|props:aux-opron	0	verb	_	_
 6	werden	_	_	_	order:MF[SO]VC[V]|props:aux-opron	_	_	_	_
 7	.	_	_	_	order:MF[SO]VC[V]|props:aux-opron	_	_	_	_
 
 1	Weil	_	_	_	order:MF[OS]VC[V]|props:aux-opron	_	_	_	_
-2	es	_	_	_	order:MF[OS]VC[V]|props:aux-opron	5	obj	_	_
+2	ihn	_	_	_	order:MF[OS]VC[V]|props:aux-opron	5	obj	_	_
 3	die	_	_	_	order:MF[OS]VC[V]|props:aux-opron	_	_	_	_
 4	Partner	_	_	_	order:MF[OS]VC[V]|props:aux-opron	5	nsubj	_	_
 5	leben	_	_	_	order:MF[OS]VC[V]|props:aux-opron	0	verb	_	_
@@ -7906,11 +7906,11 @@
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	_	_	_	_
 2	Mamas	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	5	nsubj	_	_
 3	werden	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	_	_	_	_
-4	es	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	5	obj	_	_
+4	ihn	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	5	obj	_	_
 5	trinken	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	0	verb	_	_
 6	.	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-opron	_	_	_	_
 
-1	Es	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-opron	5	obj	_	_
+1	Ihn	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-opron	5	obj	_	_
 2	werden	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-opron	_	_	_	_
 3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-opron	_	_	_	_
 4	Mamas	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-opron	5	nsubj	_	_
@@ -7921,13 +7921,13 @@
 2	werden	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	_	_	_	_
 3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	_	_	_	_
 4	Mamas	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	6	nsubj	_	_
-5	es	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	6	obj	_	_
+5	ihn	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	6	obj	_	_
 6	trinken	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	0	verb	_	_
 7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-opron	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:aux-opron	_	_	_	_
 2	werden	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:aux-opron	_	_	_	_
-3	es	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:aux-opron	6	obj	_	_
+3	ihn	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:aux-opron	6	obj	_	_
 4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:aux-opron	_	_	_	_
 5	Mamas	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:aux-opron	6	nsubj	_	_
 6	trinken	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:aux-opron	0	verb	_	_
@@ -7936,12 +7936,12 @@
 1	Werden	_	_	_	order:LK[V]MF[SO]|props:aux-opron	_	_	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:aux-opron	_	_	_	_
 3	Mamas	_	_	_	order:LK[V]MF[SO]|props:aux-opron	5	nsubj	_	_
-4	es	_	_	_	order:LK[V]MF[SO]|props:aux-opron	5	obj	_	_
+4	ihn	_	_	_	order:LK[V]MF[SO]|props:aux-opron	5	obj	_	_
 5	trinken	_	_	_	order:LK[V]MF[SO]|props:aux-opron	0	verb	_	_
 6	?	_	_	_	order:LK[V]MF[SO]|props:aux-opron	_	_	_	_
 
 1	Werden	_	_	_	order:LK[V]MF[OS]|props:aux-opron	_	_	_	_
-2	es	_	_	_	order:LK[V]MF[OS]|props:aux-opron	5	obj	_	_
+2	ihn	_	_	_	order:LK[V]MF[OS]|props:aux-opron	5	obj	_	_
 3	die	_	_	_	order:LK[V]MF[OS]|props:aux-opron	_	_	_	_
 4	Mamas	_	_	_	order:LK[V]MF[OS]|props:aux-opron	5	nsubj	_	_
 5	trinken	_	_	_	order:LK[V]MF[OS]|props:aux-opron	0	verb	_	_
@@ -7950,13 +7950,13 @@
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:aux-opron	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:aux-opron	_	_	_	_
 3	Mamas	_	_	_	order:MF[SO]VC[V]|props:aux-opron	5	nsubj	_	_
-4	es	_	_	_	order:MF[SO]VC[V]|props:aux-opron	5	obj	_	_
+4	ihn	_	_	_	order:MF[SO]VC[V]|props:aux-opron	5	obj	_	_
 5	trinken	_	_	_	order:MF[SO]VC[V]|props:aux-opron	0	verb	_	_
 6	werden	_	_	_	order:MF[SO]VC[V]|props:aux-opron	_	_	_	_
 7	.	_	_	_	order:MF[SO]VC[V]|props:aux-opron	_	_	_	_
 
 1	Weil	_	_	_	order:MF[OS]VC[V]|props:aux-opron	_	_	_	_
-2	es	_	_	_	order:MF[OS]VC[V]|props:aux-opron	5	obj	_	_
+2	ihn	_	_	_	order:MF[OS]VC[V]|props:aux-opron	5	obj	_	_
 3	die	_	_	_	order:MF[OS]VC[V]|props:aux-opron	_	_	_	_
 4	Mamas	_	_	_	order:MF[OS]VC[V]|props:aux-opron	5	nsubj	_	_
 5	trinken	_	_	_	order:MF[OS]VC[V]|props:aux-opron	0	verb	_	_
@@ -8352,10 +8352,10 @@
 
 1	Sie	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-opron	2	nsubj	_	_
 2	leben	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-opron	0	verb	_	_
-3	es	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-opron	2	obj	_	_
+3	ihn	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-opron	2	obj	_	_
 4	.	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-opron	_	_	_	_
 
-1	Es	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-opron	2	obj	_	_
+1	Ihn	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-opron	2	obj	_	_
 2	leben	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-opron	0	verb	_	_
 3	sie	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-opron	2	nsubj	_	_
 4	.	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-opron	_	_	_	_
@@ -8363,17 +8363,17 @@
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-opron	_	_	_	_
 2	leben	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-opron	0	verb	_	_
 3	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-opron	2	nsubj	_	_
-4	es	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-opron	2	obj	_	_
+4	ihn	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-opron	2	obj	_	_
 5	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-opron	_	_	_	_
 
 1	Leben	_	_	_	order:LK[V]MF[SO]|props:spron-opron	0	verb	_	_
 2	sie	_	_	_	order:LK[V]MF[SO]|props:spron-opron	1	nsubj	_	_
-3	es	_	_	_	order:LK[V]MF[SO]|props:spron-opron	1	obj	_	_
+3	ihn	_	_	_	order:LK[V]MF[SO]|props:spron-opron	1	obj	_	_
 4	?	_	_	_	order:LK[V]MF[SO]|props:spron-opron	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:spron-opron	_	_	_	_
 2	sie	_	_	_	order:MF[SO]VC[V]|props:spron-opron	4	nsubj	_	_
-3	es	_	_	_	order:MF[SO]VC[V]|props:spron-opron	4	obj	_	_
+3	ihn	_	_	_	order:MF[SO]VC[V]|props:spron-opron	4	obj	_	_
 4	leben	_	_	_	order:MF[SO]VC[V]|props:spron-opron	0	verb	_	_
 5	.	_	_	_	order:MF[SO]VC[V]|props:spron-opron	_	_	_	_
 
@@ -8460,10 +8460,10 @@
 
 1	Sie	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-opron	2	nsubj	_	_
 2	finden	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-opron	0	verb	_	_
-3	es	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-opron	2	obj	_	_
+3	ihn	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-opron	2	obj	_	_
 4	.	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-opron	_	_	_	_
 
-1	Es	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-opron	2	obj	_	_
+1	Ihn	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-opron	2	obj	_	_
 2	finden	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-opron	0	verb	_	_
 3	sie	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-opron	2	nsubj	_	_
 4	.	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-opron	_	_	_	_
@@ -8471,17 +8471,17 @@
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-opron	_	_	_	_
 2	finden	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-opron	0	verb	_	_
 3	sie	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-opron	2	nsubj	_	_
-4	es	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-opron	2	obj	_	_
+4	ihn	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-opron	2	obj	_	_
 5	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-opron	_	_	_	_
 
 1	Finden	_	_	_	order:LK[V]MF[SO]|props:spron-opron	0	verb	_	_
 2	sie	_	_	_	order:LK[V]MF[SO]|props:spron-opron	1	nsubj	_	_
-3	es	_	_	_	order:LK[V]MF[SO]|props:spron-opron	1	obj	_	_
+3	ihn	_	_	_	order:LK[V]MF[SO]|props:spron-opron	1	obj	_	_
 4	?	_	_	_	order:LK[V]MF[SO]|props:spron-opron	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:spron-opron	_	_	_	_
 2	sie	_	_	_	order:MF[SO]VC[V]|props:spron-opron	4	nsubj	_	_
-3	es	_	_	_	order:MF[SO]VC[V]|props:spron-opron	4	obj	_	_
+3	ihn	_	_	_	order:MF[SO]VC[V]|props:spron-opron	4	obj	_	_
 4	finden	_	_	_	order:MF[SO]VC[V]|props:spron-opron	0	verb	_	_
 5	.	_	_	_	order:MF[SO]VC[V]|props:spron-opron	_	_	_	_
 
@@ -8541,10 +8541,10 @@
 
 1	Ihr	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-opron	2	nsubj	_	_
 2	trinkt	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-opron	0	verb	_	_
-3	es	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-opron	2	obj	_	_
+3	ihn	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-opron	2	obj	_	_
 4	.	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-opron	_	_	_	_
 
-1	Es	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-opron	2	obj	_	_
+1	Ihn	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-opron	2	obj	_	_
 2	trinkt	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-opron	0	verb	_	_
 3	ihr	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-opron	2	nsubj	_	_
 4	.	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-opron	_	_	_	_
@@ -8552,17 +8552,17 @@
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-opron	_	_	_	_
 2	trinkt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-opron	0	verb	_	_
 3	ihr	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-opron	2	nsubj	_	_
-4	es	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-opron	2	obj	_	_
+4	ihn	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-opron	2	obj	_	_
 5	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-opron	_	_	_	_
 
 1	Trinkt	_	_	_	order:LK[V]MF[SO]|props:spron-opron	0	verb	_	_
 2	ihr	_	_	_	order:LK[V]MF[SO]|props:spron-opron	1	nsubj	_	_
-3	es	_	_	_	order:LK[V]MF[SO]|props:spron-opron	1	obj	_	_
+3	ihn	_	_	_	order:LK[V]MF[SO]|props:spron-opron	1	obj	_	_
 4	?	_	_	_	order:LK[V]MF[SO]|props:spron-opron	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:spron-opron	_	_	_	_
 2	ihr	_	_	_	order:MF[SO]VC[V]|props:spron-opron	4	nsubj	_	_
-3	es	_	_	_	order:MF[SO]VC[V]|props:spron-opron	4	obj	_	_
+3	ihn	_	_	_	order:MF[SO]VC[V]|props:spron-opron	4	obj	_	_
 4	trinkt	_	_	_	order:MF[SO]VC[V]|props:spron-opron	0	verb	_	_
 5	.	_	_	_	order:MF[SO]VC[V]|props:spron-opron	_	_	_	_
 
@@ -16240,10 +16240,10 @@
 4	in	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-pp	_	_	_	_
 5	dem	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-pp	_	_	_	_
 6	Jahr	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-pp	_	_	_	_
-7	es	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-pp	3	obj	_	_
+7	ihn	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-pp	3	obj	_	_
 8	.	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-pp	_	_	_	_
 
-1	Es	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-pp	2	obj	_	_
+1	Ihn	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-pp	2	obj	_	_
 2	leben	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-pp	0	verb	_	_
 3	in	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-pp	_	_	_	_
 4	dem	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-pp	_	_	_	_
@@ -16259,7 +16259,7 @@
 5	Jahr	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-pp	_	_	_	_
 6	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-pp	_	_	_	_
 7	Partner	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-pp	2	nsubj	_	_
-8	es	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-pp	2	obj	_	_
+8	ihn	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-pp	2	obj	_	_
 9	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-pp	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-pp	_	_	_	_
@@ -16267,7 +16267,7 @@
 3	in	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-pp	_	_	_	_
 4	dem	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-pp	_	_	_	_
 5	Jahr	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-pp	_	_	_	_
-6	es	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-pp	2	obj	_	_
+6	ihn	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-pp	2	obj	_	_
 7	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-pp	_	_	_	_
 8	Partner	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-pp	2	nsubj	_	_
 9	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-pp	_	_	_	_
@@ -16278,14 +16278,14 @@
 4	Jahr	_	_	_	order:LK[V]MF[SO]|props:opron-pp	_	_	_	_
 5	die	_	_	_	order:LK[V]MF[SO]|props:opron-pp	_	_	_	_
 6	Partner	_	_	_	order:LK[V]MF[SO]|props:opron-pp	1	nsubj	_	_
-7	es	_	_	_	order:LK[V]MF[SO]|props:opron-pp	1	obj	_	_
+7	ihn	_	_	_	order:LK[V]MF[SO]|props:opron-pp	1	obj	_	_
 8	?	_	_	_	order:LK[V]MF[SO]|props:opron-pp	_	_	_	_
 
 1	Leben	_	_	_	order:LK[V]MF[OS]|props:opron-pp	0	verb	_	_
 2	in	_	_	_	order:LK[V]MF[OS]|props:opron-pp	_	_	_	_
 3	dem	_	_	_	order:LK[V]MF[OS]|props:opron-pp	_	_	_	_
 4	Jahr	_	_	_	order:LK[V]MF[OS]|props:opron-pp	_	_	_	_
-5	es	_	_	_	order:LK[V]MF[OS]|props:opron-pp	1	obj	_	_
+5	ihn	_	_	_	order:LK[V]MF[OS]|props:opron-pp	1	obj	_	_
 6	die	_	_	_	order:LK[V]MF[OS]|props:opron-pp	_	_	_	_
 7	Partner	_	_	_	order:LK[V]MF[OS]|props:opron-pp	1	nsubj	_	_
 8	?	_	_	_	order:LK[V]MF[OS]|props:opron-pp	_	_	_	_
@@ -16296,7 +16296,7 @@
 4	Jahr	_	_	_	order:MF[SO]VC[V]|props:opron-pp	_	_	_	_
 5	die	_	_	_	order:MF[SO]VC[V]|props:opron-pp	_	_	_	_
 6	Partner	_	_	_	order:MF[SO]VC[V]|props:opron-pp	8	nsubj	_	_
-7	es	_	_	_	order:MF[SO]VC[V]|props:opron-pp	8	obj	_	_
+7	ihn	_	_	_	order:MF[SO]VC[V]|props:opron-pp	8	obj	_	_
 8	leben	_	_	_	order:MF[SO]VC[V]|props:opron-pp	0	verb	_	_
 9	.	_	_	_	order:MF[SO]VC[V]|props:opron-pp	_	_	_	_
 
@@ -16304,7 +16304,7 @@
 2	in	_	_	_	order:MF[OS]VC[V]|props:opron-pp	_	_	_	_
 3	dem	_	_	_	order:MF[OS]VC[V]|props:opron-pp	_	_	_	_
 4	Jahr	_	_	_	order:MF[OS]VC[V]|props:opron-pp	_	_	_	_
-5	es	_	_	_	order:MF[OS]VC[V]|props:opron-pp	8	obj	_	_
+5	ihn	_	_	_	order:MF[OS]VC[V]|props:opron-pp	8	obj	_	_
 6	die	_	_	_	order:MF[OS]VC[V]|props:opron-pp	_	_	_	_
 7	Partner	_	_	_	order:MF[OS]VC[V]|props:opron-pp	8	nsubj	_	_
 8	leben	_	_	_	order:MF[OS]VC[V]|props:opron-pp	0	verb	_	_
@@ -16544,10 +16544,10 @@
 4	in	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-pp	_	_	_	_
 5	dem	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-pp	_	_	_	_
 6	Jahr	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-pp	_	_	_	_
-7	es	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-pp	3	obj	_	_
+7	ihn	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-pp	3	obj	_	_
 8	.	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-pp	_	_	_	_
 
-1	Es	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-pp	2	obj	_	_
+1	Ihn	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-pp	2	obj	_	_
 2	finden	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-pp	0	verb	_	_
 3	in	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-pp	_	_	_	_
 4	dem	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-pp	_	_	_	_
@@ -16563,7 +16563,7 @@
 5	Jahr	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-pp	_	_	_	_
 6	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-pp	_	_	_	_
 7	Kinder	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-pp	2	nsubj	_	_
-8	es	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-pp	2	obj	_	_
+8	ihn	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-pp	2	obj	_	_
 9	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-pp	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-pp	_	_	_	_
@@ -16571,7 +16571,7 @@
 3	in	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-pp	_	_	_	_
 4	dem	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-pp	_	_	_	_
 5	Jahr	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-pp	_	_	_	_
-6	es	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-pp	2	obj	_	_
+6	ihn	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-pp	2	obj	_	_
 7	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-pp	_	_	_	_
 8	Kinder	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-pp	2	nsubj	_	_
 9	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-pp	_	_	_	_
@@ -16582,14 +16582,14 @@
 4	Jahr	_	_	_	order:LK[V]MF[SO]|props:opron-pp	_	_	_	_
 5	die	_	_	_	order:LK[V]MF[SO]|props:opron-pp	_	_	_	_
 6	Kinder	_	_	_	order:LK[V]MF[SO]|props:opron-pp	1	nsubj	_	_
-7	es	_	_	_	order:LK[V]MF[SO]|props:opron-pp	1	obj	_	_
+7	ihn	_	_	_	order:LK[V]MF[SO]|props:opron-pp	1	obj	_	_
 8	?	_	_	_	order:LK[V]MF[SO]|props:opron-pp	_	_	_	_
 
 1	Finden	_	_	_	order:LK[V]MF[OS]|props:opron-pp	0	verb	_	_
 2	in	_	_	_	order:LK[V]MF[OS]|props:opron-pp	_	_	_	_
 3	dem	_	_	_	order:LK[V]MF[OS]|props:opron-pp	_	_	_	_
 4	Jahr	_	_	_	order:LK[V]MF[OS]|props:opron-pp	_	_	_	_
-5	es	_	_	_	order:LK[V]MF[OS]|props:opron-pp	1	obj	_	_
+5	ihn	_	_	_	order:LK[V]MF[OS]|props:opron-pp	1	obj	_	_
 6	die	_	_	_	order:LK[V]MF[OS]|props:opron-pp	_	_	_	_
 7	Kinder	_	_	_	order:LK[V]MF[OS]|props:opron-pp	1	nsubj	_	_
 8	?	_	_	_	order:LK[V]MF[OS]|props:opron-pp	_	_	_	_
@@ -16600,7 +16600,7 @@
 4	Jahr	_	_	_	order:MF[SO]VC[V]|props:opron-pp	_	_	_	_
 5	die	_	_	_	order:MF[SO]VC[V]|props:opron-pp	_	_	_	_
 6	Kinder	_	_	_	order:MF[SO]VC[V]|props:opron-pp	8	nsubj	_	_
-7	es	_	_	_	order:MF[SO]VC[V]|props:opron-pp	8	obj	_	_
+7	ihn	_	_	_	order:MF[SO]VC[V]|props:opron-pp	8	obj	_	_
 8	finden	_	_	_	order:MF[SO]VC[V]|props:opron-pp	0	verb	_	_
 9	.	_	_	_	order:MF[SO]VC[V]|props:opron-pp	_	_	_	_
 
@@ -16608,7 +16608,7 @@
 2	in	_	_	_	order:MF[OS]VC[V]|props:opron-pp	_	_	_	_
 3	dem	_	_	_	order:MF[OS]VC[V]|props:opron-pp	_	_	_	_
 4	Jahr	_	_	_	order:MF[OS]VC[V]|props:opron-pp	_	_	_	_
-5	es	_	_	_	order:MF[OS]VC[V]|props:opron-pp	8	obj	_	_
+5	ihn	_	_	_	order:MF[OS]VC[V]|props:opron-pp	8	obj	_	_
 6	die	_	_	_	order:MF[OS]VC[V]|props:opron-pp	_	_	_	_
 7	Kinder	_	_	_	order:MF[OS]VC[V]|props:opron-pp	8	nsubj	_	_
 8	finden	_	_	_	order:MF[OS]VC[V]|props:opron-pp	0	verb	_	_
@@ -16772,10 +16772,10 @@
 4	in	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-pp	_	_	_	_
 5	dem	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-pp	_	_	_	_
 6	Jahr	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-pp	_	_	_	_
-7	es	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-pp	3	obj	_	_
+7	ihn	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-pp	3	obj	_	_
 8	.	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-pp	_	_	_	_
 
-1	Es	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-pp	2	obj	_	_
+1	Ihn	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-pp	2	obj	_	_
 2	trinken	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-pp	0	verb	_	_
 3	in	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-pp	_	_	_	_
 4	dem	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-pp	_	_	_	_
@@ -16791,7 +16791,7 @@
 5	Jahr	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-pp	_	_	_	_
 6	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-pp	_	_	_	_
 7	Mamas	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-pp	2	nsubj	_	_
-8	es	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-pp	2	obj	_	_
+8	ihn	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-pp	2	obj	_	_
 9	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-pp	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-pp	_	_	_	_
@@ -16799,7 +16799,7 @@
 3	in	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-pp	_	_	_	_
 4	dem	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-pp	_	_	_	_
 5	Jahr	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-pp	_	_	_	_
-6	es	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-pp	2	obj	_	_
+6	ihn	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-pp	2	obj	_	_
 7	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-pp	_	_	_	_
 8	Mamas	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-pp	2	nsubj	_	_
 9	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-pp	_	_	_	_
@@ -16810,14 +16810,14 @@
 4	Jahr	_	_	_	order:LK[V]MF[SO]|props:opron-pp	_	_	_	_
 5	die	_	_	_	order:LK[V]MF[SO]|props:opron-pp	_	_	_	_
 6	Mamas	_	_	_	order:LK[V]MF[SO]|props:opron-pp	1	nsubj	_	_
-7	es	_	_	_	order:LK[V]MF[SO]|props:opron-pp	1	obj	_	_
+7	ihn	_	_	_	order:LK[V]MF[SO]|props:opron-pp	1	obj	_	_
 8	?	_	_	_	order:LK[V]MF[SO]|props:opron-pp	_	_	_	_
 
 1	Trinken	_	_	_	order:LK[V]MF[OS]|props:opron-pp	0	verb	_	_
 2	in	_	_	_	order:LK[V]MF[OS]|props:opron-pp	_	_	_	_
 3	dem	_	_	_	order:LK[V]MF[OS]|props:opron-pp	_	_	_	_
 4	Jahr	_	_	_	order:LK[V]MF[OS]|props:opron-pp	_	_	_	_
-5	es	_	_	_	order:LK[V]MF[OS]|props:opron-pp	1	obj	_	_
+5	ihn	_	_	_	order:LK[V]MF[OS]|props:opron-pp	1	obj	_	_
 6	die	_	_	_	order:LK[V]MF[OS]|props:opron-pp	_	_	_	_
 7	Mamas	_	_	_	order:LK[V]MF[OS]|props:opron-pp	1	nsubj	_	_
 8	?	_	_	_	order:LK[V]MF[OS]|props:opron-pp	_	_	_	_
@@ -16828,7 +16828,7 @@
 4	Jahr	_	_	_	order:MF[SO]VC[V]|props:opron-pp	_	_	_	_
 5	die	_	_	_	order:MF[SO]VC[V]|props:opron-pp	_	_	_	_
 6	Mamas	_	_	_	order:MF[SO]VC[V]|props:opron-pp	8	nsubj	_	_
-7	es	_	_	_	order:MF[SO]VC[V]|props:opron-pp	8	obj	_	_
+7	ihn	_	_	_	order:MF[SO]VC[V]|props:opron-pp	8	obj	_	_
 8	trinken	_	_	_	order:MF[SO]VC[V]|props:opron-pp	0	verb	_	_
 9	.	_	_	_	order:MF[SO]VC[V]|props:opron-pp	_	_	_	_
 
@@ -16836,7 +16836,7 @@
 2	in	_	_	_	order:MF[OS]VC[V]|props:opron-pp	_	_	_	_
 3	dem	_	_	_	order:MF[OS]VC[V]|props:opron-pp	_	_	_	_
 4	Jahr	_	_	_	order:MF[OS]VC[V]|props:opron-pp	_	_	_	_
-5	es	_	_	_	order:MF[OS]VC[V]|props:opron-pp	8	obj	_	_
+5	ihn	_	_	_	order:MF[OS]VC[V]|props:opron-pp	8	obj	_	_
 6	die	_	_	_	order:MF[OS]VC[V]|props:opron-pp	_	_	_	_
 7	Mamas	_	_	_	order:MF[OS]VC[V]|props:opron-pp	8	nsubj	_	_
 8	trinken	_	_	_	order:MF[OS]VC[V]|props:opron-pp	0	verb	_	_
@@ -20450,10 +20450,10 @@
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-sinan	_	_	_	_
 2	Wandreliefs	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-sinan	3	nsubj	_	_
 3	rufen	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-sinan	0	verb	_	_
-4	es	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-sinan	3	obj	_	_
+4	ihn	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-sinan	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-sinan	_	_	_	_
 
-1	Es	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-sinan	2	obj	_	_
+1	Ihn	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-sinan	2	obj	_	_
 2	rufen	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-sinan	0	verb	_	_
 3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-sinan	_	_	_	_
 4	Wandreliefs	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-sinan	2	nsubj	_	_
@@ -20463,12 +20463,12 @@
 2	rufen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sinan	0	verb	_	_
 3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sinan	_	_	_	_
 4	Wandreliefs	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sinan	2	nsubj	_	_
-5	es	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sinan	2	obj	_	_
+5	ihn	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sinan	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sinan	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-sinan	_	_	_	_
 2	rufen	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-sinan	0	verb	_	_
-3	es	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-sinan	2	obj	_	_
+3	ihn	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-sinan	2	obj	_	_
 4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-sinan	_	_	_	_
 5	Wandreliefs	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-sinan	2	nsubj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-sinan	_	_	_	_
@@ -20476,11 +20476,11 @@
 1	Rufen	_	_	_	order:LK[V]MF[SO]|props:opron-sinan	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:opron-sinan	_	_	_	_
 3	Wandreliefs	_	_	_	order:LK[V]MF[SO]|props:opron-sinan	1	nsubj	_	_
-4	es	_	_	_	order:LK[V]MF[SO]|props:opron-sinan	1	obj	_	_
+4	ihn	_	_	_	order:LK[V]MF[SO]|props:opron-sinan	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:opron-sinan	_	_	_	_
 
 1	Rufen	_	_	_	order:LK[V]MF[OS]|props:opron-sinan	0	verb	_	_
-2	es	_	_	_	order:LK[V]MF[OS]|props:opron-sinan	1	obj	_	_
+2	ihn	_	_	_	order:LK[V]MF[OS]|props:opron-sinan	1	obj	_	_
 3	die	_	_	_	order:LK[V]MF[OS]|props:opron-sinan	_	_	_	_
 4	Wandreliefs	_	_	_	order:LK[V]MF[OS]|props:opron-sinan	1	nsubj	_	_
 5	?	_	_	_	order:LK[V]MF[OS]|props:opron-sinan	_	_	_	_
@@ -20488,12 +20488,12 @@
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:opron-sinan	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:opron-sinan	_	_	_	_
 3	Wandreliefs	_	_	_	order:MF[SO]VC[V]|props:opron-sinan	5	nsubj	_	_
-4	es	_	_	_	order:MF[SO]VC[V]|props:opron-sinan	5	obj	_	_
+4	ihn	_	_	_	order:MF[SO]VC[V]|props:opron-sinan	5	obj	_	_
 5	rufen	_	_	_	order:MF[SO]VC[V]|props:opron-sinan	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:opron-sinan	_	_	_	_
 
 1	Weil	_	_	_	order:MF[OS]VC[V]|props:opron-sinan	_	_	_	_
-2	es	_	_	_	order:MF[OS]VC[V]|props:opron-sinan	5	obj	_	_
+2	ihn	_	_	_	order:MF[OS]VC[V]|props:opron-sinan	5	obj	_	_
 3	die	_	_	_	order:MF[OS]VC[V]|props:opron-sinan	_	_	_	_
 4	Wandreliefs	_	_	_	order:MF[OS]VC[V]|props:opron-sinan	5	nsubj	_	_
 5	rufen	_	_	_	order:MF[OS]VC[V]|props:opron-sinan	0	verb	_	_
@@ -20606,10 +20606,10 @@
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-sinan	_	_	_	_
 2	Arbeiten	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-sinan	3	nsubj	_	_
 3	bringen	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-sinan	0	verb	_	_
-4	es	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-sinan	3	obj	_	_
+4	ihn	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-sinan	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-sinan	_	_	_	_
 
-1	Es	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-sinan	2	obj	_	_
+1	Ihn	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-sinan	2	obj	_	_
 2	bringen	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-sinan	0	verb	_	_
 3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-sinan	_	_	_	_
 4	Arbeiten	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-sinan	2	nsubj	_	_
@@ -20619,12 +20619,12 @@
 2	bringen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sinan	0	verb	_	_
 3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sinan	_	_	_	_
 4	Arbeiten	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sinan	2	nsubj	_	_
-5	es	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sinan	2	obj	_	_
+5	ihn	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sinan	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sinan	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-sinan	_	_	_	_
 2	bringen	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-sinan	0	verb	_	_
-3	es	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-sinan	2	obj	_	_
+3	ihn	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-sinan	2	obj	_	_
 4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-sinan	_	_	_	_
 5	Arbeiten	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-sinan	2	nsubj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-sinan	_	_	_	_
@@ -20632,11 +20632,11 @@
 1	Bringen	_	_	_	order:LK[V]MF[SO]|props:opron-sinan	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:opron-sinan	_	_	_	_
 3	Arbeiten	_	_	_	order:LK[V]MF[SO]|props:opron-sinan	1	nsubj	_	_
-4	es	_	_	_	order:LK[V]MF[SO]|props:opron-sinan	1	obj	_	_
+4	ihn	_	_	_	order:LK[V]MF[SO]|props:opron-sinan	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:opron-sinan	_	_	_	_
 
 1	Bringen	_	_	_	order:LK[V]MF[OS]|props:opron-sinan	0	verb	_	_
-2	es	_	_	_	order:LK[V]MF[OS]|props:opron-sinan	1	obj	_	_
+2	ihn	_	_	_	order:LK[V]MF[OS]|props:opron-sinan	1	obj	_	_
 3	die	_	_	_	order:LK[V]MF[OS]|props:opron-sinan	_	_	_	_
 4	Arbeiten	_	_	_	order:LK[V]MF[OS]|props:opron-sinan	1	nsubj	_	_
 5	?	_	_	_	order:LK[V]MF[OS]|props:opron-sinan	_	_	_	_
@@ -20644,12 +20644,12 @@
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:opron-sinan	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:opron-sinan	_	_	_	_
 3	Arbeiten	_	_	_	order:MF[SO]VC[V]|props:opron-sinan	5	nsubj	_	_
-4	es	_	_	_	order:MF[SO]VC[V]|props:opron-sinan	5	obj	_	_
+4	ihn	_	_	_	order:MF[SO]VC[V]|props:opron-sinan	5	obj	_	_
 5	bringen	_	_	_	order:MF[SO]VC[V]|props:opron-sinan	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:opron-sinan	_	_	_	_
 
 1	Weil	_	_	_	order:MF[OS]VC[V]|props:opron-sinan	_	_	_	_
-2	es	_	_	_	order:MF[OS]VC[V]|props:opron-sinan	5	obj	_	_
+2	ihn	_	_	_	order:MF[OS]VC[V]|props:opron-sinan	5	obj	_	_
 3	die	_	_	_	order:MF[OS]VC[V]|props:opron-sinan	_	_	_	_
 4	Arbeiten	_	_	_	order:MF[OS]VC[V]|props:opron-sinan	5	nsubj	_	_
 5	bringen	_	_	_	order:MF[OS]VC[V]|props:opron-sinan	0	verb	_	_
@@ -20658,10 +20658,10 @@
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-sinan	_	_	_	_
 2	Bekenntnisse	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-sinan	3	nsubj	_	_
 3	verändern	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-sinan	0	verb	_	_
-4	es	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-sinan	3	obj	_	_
+4	ihn	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-sinan	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-sinan	_	_	_	_
 
-1	Es	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-sinan	2	obj	_	_
+1	Ihn	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-sinan	2	obj	_	_
 2	verändern	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-sinan	0	verb	_	_
 3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-sinan	_	_	_	_
 4	Bekenntnisse	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-sinan	2	nsubj	_	_
@@ -20671,12 +20671,12 @@
 2	verändern	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sinan	0	verb	_	_
 3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sinan	_	_	_	_
 4	Bekenntnisse	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sinan	2	nsubj	_	_
-5	es	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sinan	2	obj	_	_
+5	ihn	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sinan	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-sinan	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-sinan	_	_	_	_
 2	verändern	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-sinan	0	verb	_	_
-3	es	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-sinan	2	obj	_	_
+3	ihn	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-sinan	2	obj	_	_
 4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-sinan	_	_	_	_
 5	Bekenntnisse	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-sinan	2	nsubj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-sinan	_	_	_	_
@@ -20684,11 +20684,11 @@
 1	Verändern	_	_	_	order:LK[V]MF[SO]|props:opron-sinan	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:opron-sinan	_	_	_	_
 3	Bekenntnisse	_	_	_	order:LK[V]MF[SO]|props:opron-sinan	1	nsubj	_	_
-4	es	_	_	_	order:LK[V]MF[SO]|props:opron-sinan	1	obj	_	_
+4	ihn	_	_	_	order:LK[V]MF[SO]|props:opron-sinan	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:opron-sinan	_	_	_	_
 
 1	Verändern	_	_	_	order:LK[V]MF[OS]|props:opron-sinan	0	verb	_	_
-2	es	_	_	_	order:LK[V]MF[OS]|props:opron-sinan	1	obj	_	_
+2	ihn	_	_	_	order:LK[V]MF[OS]|props:opron-sinan	1	obj	_	_
 3	die	_	_	_	order:LK[V]MF[OS]|props:opron-sinan	_	_	_	_
 4	Bekenntnisse	_	_	_	order:LK[V]MF[OS]|props:opron-sinan	1	nsubj	_	_
 5	?	_	_	_	order:LK[V]MF[OS]|props:opron-sinan	_	_	_	_
@@ -20696,12 +20696,12 @@
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:opron-sinan	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:opron-sinan	_	_	_	_
 3	Bekenntnisse	_	_	_	order:MF[SO]VC[V]|props:opron-sinan	5	nsubj	_	_
-4	es	_	_	_	order:MF[SO]VC[V]|props:opron-sinan	5	obj	_	_
+4	ihn	_	_	_	order:MF[SO]VC[V]|props:opron-sinan	5	obj	_	_
 5	verändern	_	_	_	order:MF[SO]VC[V]|props:opron-sinan	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:opron-sinan	_	_	_	_
 
 1	Weil	_	_	_	order:MF[OS]VC[V]|props:opron-sinan	_	_	_	_
-2	es	_	_	_	order:MF[OS]VC[V]|props:opron-sinan	5	obj	_	_
+2	ihn	_	_	_	order:MF[OS]VC[V]|props:opron-sinan	5	obj	_	_
 3	die	_	_	_	order:MF[OS]VC[V]|props:opron-sinan	_	_	_	_
 4	Bekenntnisse	_	_	_	order:MF[OS]VC[V]|props:opron-sinan	5	nsubj	_	_
 5	verändern	_	_	_	order:MF[OS]VC[V]|props:opron-sinan	0	verb	_	_
@@ -36093,10 +36093,10 @@
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-regpol	_	_	_	_
 2	Läden	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-regpol	3	nsubj	_	_
 3	leben	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-regpol	0	verb	_	_
-4	es	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-regpol	3	obj	_	_
+4	ihn	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-regpol	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-regpol	_	_	_	_
 
-1	Es	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-regpol	2	obj	_	_
+1	Ihn	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-regpol	2	obj	_	_
 2	leben	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-regpol	0	verb	_	_
 3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-regpol	_	_	_	_
 4	Läden	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-regpol	2	nsubj	_	_
@@ -36106,12 +36106,12 @@
 2	leben	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-regpol	0	verb	_	_
 3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-regpol	_	_	_	_
 4	Läden	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-regpol	2	nsubj	_	_
-5	es	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-regpol	2	obj	_	_
+5	ihn	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-regpol	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-regpol	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-regpol	_	_	_	_
 2	leben	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-regpol	0	verb	_	_
-3	es	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-regpol	2	obj	_	_
+3	ihn	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-regpol	2	obj	_	_
 4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-regpol	_	_	_	_
 5	Läden	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-regpol	2	nsubj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-regpol	_	_	_	_
@@ -36119,11 +36119,11 @@
 1	Leben	_	_	_	order:LK[V]MF[SO]|props:opron-regpol	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:opron-regpol	_	_	_	_
 3	Läden	_	_	_	order:LK[V]MF[SO]|props:opron-regpol	1	nsubj	_	_
-4	es	_	_	_	order:LK[V]MF[SO]|props:opron-regpol	1	obj	_	_
+4	ihn	_	_	_	order:LK[V]MF[SO]|props:opron-regpol	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:opron-regpol	_	_	_	_
 
 1	Leben	_	_	_	order:LK[V]MF[OS]|props:opron-regpol	0	verb	_	_
-2	es	_	_	_	order:LK[V]MF[OS]|props:opron-regpol	1	obj	_	_
+2	ihn	_	_	_	order:LK[V]MF[OS]|props:opron-regpol	1	obj	_	_
 3	die	_	_	_	order:LK[V]MF[OS]|props:opron-regpol	_	_	_	_
 4	Läden	_	_	_	order:LK[V]MF[OS]|props:opron-regpol	1	nsubj	_	_
 5	?	_	_	_	order:LK[V]MF[OS]|props:opron-regpol	_	_	_	_
@@ -36131,12 +36131,12 @@
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:opron-regpol	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:opron-regpol	_	_	_	_
 3	Läden	_	_	_	order:MF[SO]VC[V]|props:opron-regpol	5	nsubj	_	_
-4	es	_	_	_	order:MF[SO]VC[V]|props:opron-regpol	5	obj	_	_
+4	ihn	_	_	_	order:MF[SO]VC[V]|props:opron-regpol	5	obj	_	_
 5	leben	_	_	_	order:MF[SO]VC[V]|props:opron-regpol	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:opron-regpol	_	_	_	_
 
 1	Weil	_	_	_	order:MF[OS]VC[V]|props:opron-regpol	_	_	_	_
-2	es	_	_	_	order:MF[OS]VC[V]|props:opron-regpol	5	obj	_	_
+2	ihn	_	_	_	order:MF[OS]VC[V]|props:opron-regpol	5	obj	_	_
 3	die	_	_	_	order:MF[OS]VC[V]|props:opron-regpol	_	_	_	_
 4	Läden	_	_	_	order:MF[OS]VC[V]|props:opron-regpol	5	nsubj	_	_
 5	leben	_	_	_	order:MF[OS]VC[V]|props:opron-regpol	0	verb	_	_
@@ -70085,10 +70085,10 @@
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-syn	_	_	_	_
 2	Partner	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-syn	3	nsubj	_	_
 3	führen	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-syn	0	verb	_	_
-4	es	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-syn	3	obj	_	_
+4	ihn	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-syn	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-syn	_	_	_	_
 
-1	Es	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-syn	2	obj	_	_
+1	Ihn	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-syn	2	obj	_	_
 2	führen	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-syn	0	verb	_	_
 3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-syn	_	_	_	_
 4	Partner	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-syn	2	nsubj	_	_
@@ -70098,12 +70098,12 @@
 2	führen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-syn	0	verb	_	_
 3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-syn	_	_	_	_
 4	Partner	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-syn	2	nsubj	_	_
-5	es	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-syn	2	obj	_	_
+5	ihn	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-syn	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-syn	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-syn	_	_	_	_
 2	führen	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-syn	0	verb	_	_
-3	es	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-syn	2	obj	_	_
+3	ihn	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-syn	2	obj	_	_
 4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-syn	_	_	_	_
 5	Partner	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-syn	2	nsubj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-syn	_	_	_	_
@@ -70111,11 +70111,11 @@
 1	Führen	_	_	_	order:LK[V]MF[SO]|props:opron-syn	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:opron-syn	_	_	_	_
 3	Partner	_	_	_	order:LK[V]MF[SO]|props:opron-syn	1	nsubj	_	_
-4	es	_	_	_	order:LK[V]MF[SO]|props:opron-syn	1	obj	_	_
+4	ihn	_	_	_	order:LK[V]MF[SO]|props:opron-syn	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:opron-syn	_	_	_	_
 
 1	Führen	_	_	_	order:LK[V]MF[OS]|props:opron-syn	0	verb	_	_
-2	es	_	_	_	order:LK[V]MF[OS]|props:opron-syn	1	obj	_	_
+2	ihn	_	_	_	order:LK[V]MF[OS]|props:opron-syn	1	obj	_	_
 3	die	_	_	_	order:LK[V]MF[OS]|props:opron-syn	_	_	_	_
 4	Partner	_	_	_	order:LK[V]MF[OS]|props:opron-syn	1	nsubj	_	_
 5	?	_	_	_	order:LK[V]MF[OS]|props:opron-syn	_	_	_	_
@@ -70123,12 +70123,12 @@
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:opron-syn	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:opron-syn	_	_	_	_
 3	Partner	_	_	_	order:MF[SO]VC[V]|props:opron-syn	5	nsubj	_	_
-4	es	_	_	_	order:MF[SO]VC[V]|props:opron-syn	5	obj	_	_
+4	ihn	_	_	_	order:MF[SO]VC[V]|props:opron-syn	5	obj	_	_
 5	führen	_	_	_	order:MF[SO]VC[V]|props:opron-syn	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:opron-syn	_	_	_	_
 
 1	Weil	_	_	_	order:MF[OS]VC[V]|props:opron-syn	_	_	_	_
-2	es	_	_	_	order:MF[OS]VC[V]|props:opron-syn	5	obj	_	_
+2	ihn	_	_	_	order:MF[OS]VC[V]|props:opron-syn	5	obj	_	_
 3	die	_	_	_	order:MF[OS]VC[V]|props:opron-syn	_	_	_	_
 4	Partner	_	_	_	order:MF[OS]VC[V]|props:opron-syn	5	nsubj	_	_
 5	führen	_	_	_	order:MF[OS]VC[V]|props:opron-syn	0	verb	_	_
@@ -70293,10 +70293,10 @@
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-syn	_	_	_	_
 2	Kinder	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-syn	3	nsubj	_	_
 3	erraten	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-syn	0	verb	_	_
-4	es	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-syn	3	obj	_	_
+4	ihn	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-syn	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-syn	_	_	_	_
 
-1	Es	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-syn	2	obj	_	_
+1	Ihn	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-syn	2	obj	_	_
 2	erraten	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-syn	0	verb	_	_
 3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-syn	_	_	_	_
 4	Kinder	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-syn	2	nsubj	_	_
@@ -70306,12 +70306,12 @@
 2	erraten	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-syn	0	verb	_	_
 3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-syn	_	_	_	_
 4	Kinder	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-syn	2	nsubj	_	_
-5	es	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-syn	2	obj	_	_
+5	ihn	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-syn	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-syn	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-syn	_	_	_	_
 2	erraten	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-syn	0	verb	_	_
-3	es	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-syn	2	obj	_	_
+3	ihn	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-syn	2	obj	_	_
 4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-syn	_	_	_	_
 5	Kinder	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-syn	2	nsubj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-syn	_	_	_	_
@@ -70319,11 +70319,11 @@
 1	Erraten	_	_	_	order:LK[V]MF[SO]|props:opron-syn	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:opron-syn	_	_	_	_
 3	Kinder	_	_	_	order:LK[V]MF[SO]|props:opron-syn	1	nsubj	_	_
-4	es	_	_	_	order:LK[V]MF[SO]|props:opron-syn	1	obj	_	_
+4	ihn	_	_	_	order:LK[V]MF[SO]|props:opron-syn	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:opron-syn	_	_	_	_
 
 1	Erraten	_	_	_	order:LK[V]MF[OS]|props:opron-syn	0	verb	_	_
-2	es	_	_	_	order:LK[V]MF[OS]|props:opron-syn	1	obj	_	_
+2	ihn	_	_	_	order:LK[V]MF[OS]|props:opron-syn	1	obj	_	_
 3	die	_	_	_	order:LK[V]MF[OS]|props:opron-syn	_	_	_	_
 4	Kinder	_	_	_	order:LK[V]MF[OS]|props:opron-syn	1	nsubj	_	_
 5	?	_	_	_	order:LK[V]MF[OS]|props:opron-syn	_	_	_	_
@@ -70331,12 +70331,12 @@
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:opron-syn	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:opron-syn	_	_	_	_
 3	Kinder	_	_	_	order:MF[SO]VC[V]|props:opron-syn	5	nsubj	_	_
-4	es	_	_	_	order:MF[SO]VC[V]|props:opron-syn	5	obj	_	_
+4	ihn	_	_	_	order:MF[SO]VC[V]|props:opron-syn	5	obj	_	_
 5	erraten	_	_	_	order:MF[SO]VC[V]|props:opron-syn	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:opron-syn	_	_	_	_
 
 1	Weil	_	_	_	order:MF[OS]VC[V]|props:opron-syn	_	_	_	_
-2	es	_	_	_	order:MF[OS]VC[V]|props:opron-syn	5	obj	_	_
+2	ihn	_	_	_	order:MF[OS]VC[V]|props:opron-syn	5	obj	_	_
 3	die	_	_	_	order:MF[OS]VC[V]|props:opron-syn	_	_	_	_
 4	Kinder	_	_	_	order:MF[OS]VC[V]|props:opron-syn	5	nsubj	_	_
 5	erraten	_	_	_	order:MF[OS]VC[V]|props:opron-syn	0	verb	_	_
@@ -70449,10 +70449,10 @@
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-syn	_	_	_	_
 2	Mamas	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-syn	3	nsubj	_	_
 3	schlürfen	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-syn	0	verb	_	_
-4	es	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-syn	3	obj	_	_
+4	ihn	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-syn	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-syn	_	_	_	_
 
-1	Es	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-syn	2	obj	_	_
+1	Ihn	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-syn	2	obj	_	_
 2	schlürfen	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-syn	0	verb	_	_
 3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-syn	_	_	_	_
 4	Mamas	_	_	_	order:VF[O]LK[V]MF[S]|props:opron-syn	2	nsubj	_	_
@@ -70462,12 +70462,12 @@
 2	schlürfen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-syn	0	verb	_	_
 3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-syn	_	_	_	_
 4	Mamas	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-syn	2	nsubj	_	_
-5	es	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-syn	2	obj	_	_
+5	ihn	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-syn	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:opron-syn	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-syn	_	_	_	_
 2	schlürfen	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-syn	0	verb	_	_
-3	es	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-syn	2	obj	_	_
+3	ihn	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-syn	2	obj	_	_
 4	die	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-syn	_	_	_	_
 5	Mamas	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-syn	2	nsubj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:opron-syn	_	_	_	_
@@ -70475,11 +70475,11 @@
 1	Schlürfen	_	_	_	order:LK[V]MF[SO]|props:opron-syn	0	verb	_	_
 2	die	_	_	_	order:LK[V]MF[SO]|props:opron-syn	_	_	_	_
 3	Mamas	_	_	_	order:LK[V]MF[SO]|props:opron-syn	1	nsubj	_	_
-4	es	_	_	_	order:LK[V]MF[SO]|props:opron-syn	1	obj	_	_
+4	ihn	_	_	_	order:LK[V]MF[SO]|props:opron-syn	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:opron-syn	_	_	_	_
 
 1	Schlürfen	_	_	_	order:LK[V]MF[OS]|props:opron-syn	0	verb	_	_
-2	es	_	_	_	order:LK[V]MF[OS]|props:opron-syn	1	obj	_	_
+2	ihn	_	_	_	order:LK[V]MF[OS]|props:opron-syn	1	obj	_	_
 3	die	_	_	_	order:LK[V]MF[OS]|props:opron-syn	_	_	_	_
 4	Mamas	_	_	_	order:LK[V]MF[OS]|props:opron-syn	1	nsubj	_	_
 5	?	_	_	_	order:LK[V]MF[OS]|props:opron-syn	_	_	_	_
@@ -70487,12 +70487,12 @@
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:opron-syn	_	_	_	_
 2	die	_	_	_	order:MF[SO]VC[V]|props:opron-syn	_	_	_	_
 3	Mamas	_	_	_	order:MF[SO]VC[V]|props:opron-syn	5	nsubj	_	_
-4	es	_	_	_	order:MF[SO]VC[V]|props:opron-syn	5	obj	_	_
+4	ihn	_	_	_	order:MF[SO]VC[V]|props:opron-syn	5	obj	_	_
 5	schlürfen	_	_	_	order:MF[SO]VC[V]|props:opron-syn	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:opron-syn	_	_	_	_
 
 1	Weil	_	_	_	order:MF[OS]VC[V]|props:opron-syn	_	_	_	_
-2	es	_	_	_	order:MF[OS]VC[V]|props:opron-syn	5	obj	_	_
+2	ihn	_	_	_	order:MF[OS]VC[V]|props:opron-syn	5	obj	_	_
 3	die	_	_	_	order:MF[OS]VC[V]|props:opron-syn	_	_	_	_
 4	Mamas	_	_	_	order:MF[OS]VC[V]|props:opron-syn	5	nsubj	_	_
 5	schlürfen	_	_	_	order:MF[OS]VC[V]|props:opron-syn	0	verb	_	_

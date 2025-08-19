@@ -624,11 +624,11 @@ VF[O]LK[V]MF[S]	amb-spron	4	2	Ein Kunstwerk bewirft sie .
 VF[ADV]LK[V]MF[SO]	amb-spron	3	5	Deshalb bewirft sie ein Kunstwerk .
 LK[V]MF[SO]	amb-spron	2	4	Bewirft sie ein Kunstwerk ?
 MF[SO]VC[V]	amb-spron	2	4	Weil sie ein Kunstwerk bewirft .
-VF[S]LK[V]MF[O]	amb-spron	1	4	Es findet eine Lösung .
-VF[O]LK[V]MF[S]	amb-spron	4	2	Eine Lösung findet es .
-VF[ADV]LK[V]MF[SO]	amb-spron	3	5	Deshalb findet es eine Lösung .
-LK[V]MF[SO]	amb-spron	2	4	Findet es eine Lösung ?
-MF[SO]VC[V]	amb-spron	2	4	Weil es eine Lösung findet .
+VF[S]LK[V]MF[O]	amb-spron	1	4	Sie findet eine Lösung .
+VF[O]LK[V]MF[S]	amb-spron	4	2	Eine Lösung findet sie .
+VF[ADV]LK[V]MF[SO]	amb-spron	3	5	Deshalb findet sie eine Lösung .
+LK[V]MF[SO]	amb-spron	2	4	Findet sie eine Lösung ?
+MF[SO]VC[V]	amb-spron	2	4	Weil sie eine Lösung findet .
 VF[S]LK[V]MF[O]	amb-spron	1	4	Sie abonniert eine Zeitschrift .
 VF[O]LK[V]MF[S]	amb-spron	4	2	Eine Zeitschrift abonniert sie .
 VF[ADV]LK[V]MF[SO]	amb-spron	3	5	Deshalb abonniert sie eine Zeitschrift .
@@ -757,14 +757,14 @@ LK[V]MF[SO]	base-opron	3	4	Startet der General ihn ?
 LK[V]MF[OS]	base-opron	4	2	Startet ihn der General ?
 MF[SO]VC[V]	base-opron	3	4	Weil der General ihn startet .
 MF[OS]VC[V]	base-opron	4	2	Weil ihn der General startet .
-VF[S]LK[V]MF[O]	base-opron	2	4	Die Partner leben es .
-VF[O]LK[V]MF[S]	base-opron	4	1	Es leben die Partner .
-VF[ADV]LK[V]MF[SO]	base-opron	4	5	Deshalb leben die Partner es .
-VF[ADV]LK[V]MF[OS]	base-opron	5	3	Deshalb leben es die Partner .
-LK[V]MF[SO]	base-opron	3	4	Leben die Partner es ?
-LK[V]MF[OS]	base-opron	4	2	Leben es die Partner ?
-MF[SO]VC[V]	base-opron	3	4	Weil die Partner es leben .
-MF[OS]VC[V]	base-opron	4	2	Weil es die Partner leben .
+VF[S]LK[V]MF[O]	base-opron	2	4	Die Partner leben ihn .
+VF[O]LK[V]MF[S]	base-opron	4	1	Ihn leben die Partner .
+VF[ADV]LK[V]MF[SO]	base-opron	4	5	Deshalb leben die Partner ihn .
+VF[ADV]LK[V]MF[OS]	base-opron	5	3	Deshalb leben ihn die Partner .
+LK[V]MF[SO]	base-opron	3	4	Leben die Partner ihn ?
+LK[V]MF[OS]	base-opron	4	2	Leben ihn die Partner ?
+MF[SO]VC[V]	base-opron	3	4	Weil die Partner ihn leben .
+MF[OS]VC[V]	base-opron	4	2	Weil ihn die Partner leben .
 VF[S]LK[V]MF[O]	base-opron	2	4	Der Journalist übertextet sie .
 VF[O]LK[V]MF[S]	base-opron	4	1	Sie übertextet der Journalist .
 VF[ADV]LK[V]MF[SO]	base-opron	4	5	Deshalb übertextet der Journalist sie .
@@ -813,14 +813,14 @@ LK[V]MF[SO]	base-opron	3	4	Rasiert der Herr ihn ?
 LK[V]MF[OS]	base-opron	4	2	Rasiert ihn der Herr ?
 MF[SO]VC[V]	base-opron	3	4	Weil der Herr ihn rasiert .
 MF[OS]VC[V]	base-opron	4	2	Weil ihn der Herr rasiert .
-VF[S]LK[V]MF[O]	base-opron	2	4	Die Mamas trinken es .
-VF[O]LK[V]MF[S]	base-opron	4	1	Es trinken die Mamas .
-VF[ADV]LK[V]MF[SO]	base-opron	4	5	Deshalb trinken die Mamas es .
-VF[ADV]LK[V]MF[OS]	base-opron	5	3	Deshalb trinken es die Mamas .
-LK[V]MF[SO]	base-opron	3	4	Trinken die Mamas es ?
-LK[V]MF[OS]	base-opron	4	2	Trinken es die Mamas ?
-MF[SO]VC[V]	base-opron	3	4	Weil die Mamas es trinken .
-MF[OS]VC[V]	base-opron	4	2	Weil es die Mamas trinken .
+VF[S]LK[V]MF[O]	base-opron	2	4	Die Mamas trinken ihn .
+VF[O]LK[V]MF[S]	base-opron	4	1	Ihn trinken die Mamas .
+VF[ADV]LK[V]MF[SO]	base-opron	4	5	Deshalb trinken die Mamas ihn .
+VF[ADV]LK[V]MF[OS]	base-opron	5	3	Deshalb trinken ihn die Mamas .
+LK[V]MF[SO]	base-opron	3	4	Trinken die Mamas ihn ?
+LK[V]MF[OS]	base-opron	4	2	Trinken ihn die Mamas ?
+MF[SO]VC[V]	base-opron	3	4	Weil die Mamas ihn trinken .
+MF[OS]VC[V]	base-opron	4	2	Weil ihn die Mamas trinken .
 VF[S]LK[V]MF[O]	base-opron	2	4	Der Schriftsteller schreibt sie .
 VF[O]LK[V]MF[S]	base-opron	4	1	Sie schreibt der Schriftsteller .
 VF[ADV]LK[V]MF[SO]	base-opron	4	5	Deshalb schreibt der Schriftsteller sie .
@@ -1057,14 +1057,14 @@ LK[V]MF[SO]	aux-opron	3	4	Wird der General ihn starten ?
 LK[V]MF[OS]	aux-opron	4	2	Wird ihn der General starten ?
 MF[SO]VC[V]	aux-opron	3	4	Weil der General ihn starten wird .
 MF[OS]VC[V]	aux-opron	4	2	Weil ihn der General starten wird .
-VF[S]LK[V]MF[O]	aux-opron	2	4	Die Partner werden es leben .
-VF[O]LK[V]MF[S]	aux-opron	4	1	Es werden die Partner leben .
-VF[ADV]LK[V]MF[SO]	aux-opron	4	5	Deshalb werden die Partner es leben .
-VF[ADV]LK[V]MF[OS]	aux-opron	5	3	Deshalb werden es die Partner leben .
-LK[V]MF[SO]	aux-opron	3	4	Werden die Partner es leben ?
-LK[V]MF[OS]	aux-opron	4	2	Werden es die Partner leben ?
-MF[SO]VC[V]	aux-opron	3	4	Weil die Partner es leben werden .
-MF[OS]VC[V]	aux-opron	4	2	Weil es die Partner leben werden .
+VF[S]LK[V]MF[O]	aux-opron	2	4	Die Partner werden ihn leben .
+VF[O]LK[V]MF[S]	aux-opron	4	1	Ihn werden die Partner leben .
+VF[ADV]LK[V]MF[SO]	aux-opron	4	5	Deshalb werden die Partner ihn leben .
+VF[ADV]LK[V]MF[OS]	aux-opron	5	3	Deshalb werden ihn die Partner leben .
+LK[V]MF[SO]	aux-opron	3	4	Werden die Partner ihn leben ?
+LK[V]MF[OS]	aux-opron	4	2	Werden ihn die Partner leben ?
+MF[SO]VC[V]	aux-opron	3	4	Weil die Partner ihn leben werden .
+MF[OS]VC[V]	aux-opron	4	2	Weil ihn die Partner leben werden .
 VF[S]LK[V]MF[O]	aux-opron	2	4	Der Journalist wird sie übertexten .
 VF[O]LK[V]MF[S]	aux-opron	4	1	Sie wird der Journalist übertexten .
 VF[ADV]LK[V]MF[SO]	aux-opron	4	5	Deshalb wird der Journalist sie übertexten .
@@ -1113,14 +1113,14 @@ LK[V]MF[SO]	aux-opron	3	4	Wird der Herr ihn rasieren ?
 LK[V]MF[OS]	aux-opron	4	2	Wird ihn der Herr rasieren ?
 MF[SO]VC[V]	aux-opron	3	4	Weil der Herr ihn rasieren wird .
 MF[OS]VC[V]	aux-opron	4	2	Weil ihn der Herr rasieren wird .
-VF[S]LK[V]MF[O]	aux-opron	2	4	Die Mamas werden es trinken .
-VF[O]LK[V]MF[S]	aux-opron	4	1	Es werden die Mamas trinken .
-VF[ADV]LK[V]MF[SO]	aux-opron	4	5	Deshalb werden die Mamas es trinken .
-VF[ADV]LK[V]MF[OS]	aux-opron	5	3	Deshalb werden es die Mamas trinken .
-LK[V]MF[SO]	aux-opron	3	4	Werden die Mamas es trinken ?
-LK[V]MF[OS]	aux-opron	4	2	Werden es die Mamas trinken ?
-MF[SO]VC[V]	aux-opron	3	4	Weil die Mamas es trinken werden .
-MF[OS]VC[V]	aux-opron	4	2	Weil es die Mamas trinken werden .
+VF[S]LK[V]MF[O]	aux-opron	2	4	Die Mamas werden ihn trinken .
+VF[O]LK[V]MF[S]	aux-opron	4	1	Ihn werden die Mamas trinken .
+VF[ADV]LK[V]MF[SO]	aux-opron	4	5	Deshalb werden die Mamas ihn trinken .
+VF[ADV]LK[V]MF[OS]	aux-opron	5	3	Deshalb werden ihn die Mamas trinken .
+LK[V]MF[SO]	aux-opron	3	4	Werden die Mamas ihn trinken ?
+LK[V]MF[OS]	aux-opron	4	2	Werden ihn die Mamas trinken ?
+MF[SO]VC[V]	aux-opron	3	4	Weil die Mamas ihn trinken werden .
+MF[OS]VC[V]	aux-opron	4	2	Weil ihn die Mamas trinken werden .
 VF[S]LK[V]MF[O]	aux-opron	2	4	Der Schriftsteller wird sie schreiben .
 VF[O]LK[V]MF[S]	aux-opron	4	1	Sie wird der Schriftsteller schreiben .
 VF[ADV]LK[V]MF[SO]	aux-opron	4	5	Deshalb wird der Schriftsteller sie schreiben .
@@ -1174,11 +1174,11 @@ VF[O]LK[V]MF[S]	spron-opron	3	1	Ihn startet er .
 VF[ADV]LK[V]MF[SO]	spron-opron	3	4	Deshalb startet er ihn .
 LK[V]MF[SO]	spron-opron	2	3	Startet er ihn ?
 MF[SO]VC[V]	spron-opron	2	3	Weil er ihn startet .
-VF[S]LK[V]MF[O]	spron-opron	1	3	Sie leben es .
-VF[O]LK[V]MF[S]	spron-opron	3	1	Es leben sie .
-VF[ADV]LK[V]MF[SO]	spron-opron	3	4	Deshalb leben sie es .
-LK[V]MF[SO]	spron-opron	2	3	Leben sie es ?
-MF[SO]VC[V]	spron-opron	2	3	Weil sie es leben .
+VF[S]LK[V]MF[O]	spron-opron	1	3	Sie leben ihn .
+VF[O]LK[V]MF[S]	spron-opron	3	1	Ihn leben sie .
+VF[ADV]LK[V]MF[SO]	spron-opron	3	4	Deshalb leben sie ihn .
+LK[V]MF[SO]	spron-opron	2	3	Leben sie ihn ?
+MF[SO]VC[V]	spron-opron	2	3	Weil sie ihn leben .
 VF[S]LK[V]MF[O]	spron-opron	1	3	Er übertextet sie .
 VF[O]LK[V]MF[S]	spron-opron	3	1	Sie übertextet er .
 VF[ADV]LK[V]MF[SO]	spron-opron	3	4	Deshalb übertextet er sie .
@@ -1194,11 +1194,11 @@ VF[O]LK[V]MF[S]	spron-opron	3	1	Sie bewirft er .
 VF[ADV]LK[V]MF[SO]	spron-opron	3	4	Deshalb bewirft er sie .
 LK[V]MF[SO]	spron-opron	2	3	Bewirft er sie ?
 MF[SO]VC[V]	spron-opron	2	3	Weil er sie bewirft .
-VF[S]LK[V]MF[O]	spron-opron	1	3	Sie finden es .
-VF[O]LK[V]MF[S]	spron-opron	3	1	Es finden sie .
-VF[ADV]LK[V]MF[SO]	spron-opron	3	4	Deshalb finden sie es .
-LK[V]MF[SO]	spron-opron	2	3	Finden sie es ?
-MF[SO]VC[V]	spron-opron	2	3	Weil sie es finden .
+VF[S]LK[V]MF[O]	spron-opron	1	3	Sie finden ihn .
+VF[O]LK[V]MF[S]	spron-opron	3	1	Ihn finden sie .
+VF[ADV]LK[V]MF[SO]	spron-opron	3	4	Deshalb finden sie ihn .
+LK[V]MF[SO]	spron-opron	2	3	Finden sie ihn ?
+MF[SO]VC[V]	spron-opron	2	3	Weil sie ihn finden .
 VF[S]LK[V]MF[O]	spron-opron	1	3	Ich abonniere sie .
 VF[O]LK[V]MF[S]	spron-opron	3	1	Sie abonniere ich .
 VF[ADV]LK[V]MF[SO]	spron-opron	3	4	Deshalb abonniere ich sie .
@@ -1209,11 +1209,11 @@ VF[O]LK[V]MF[S]	spron-opron	3	1	Ihn rasierst du .
 VF[ADV]LK[V]MF[SO]	spron-opron	3	4	Deshalb rasierst du ihn .
 LK[V]MF[SO]	spron-opron	2	3	Rasierst du ihn ?
 MF[SO]VC[V]	spron-opron	2	3	Weil du ihn rasierst .
-VF[S]LK[V]MF[O]	spron-opron	1	3	Ihr trinkt es .
-VF[O]LK[V]MF[S]	spron-opron	3	1	Es trinkt ihr .
-VF[ADV]LK[V]MF[SO]	spron-opron	3	4	Deshalb trinkt ihr es .
-LK[V]MF[SO]	spron-opron	2	3	Trinkt ihr es ?
-MF[SO]VC[V]	spron-opron	2	3	Weil ihr es trinkt .
+VF[S]LK[V]MF[O]	spron-opron	1	3	Ihr trinkt ihn .
+VF[O]LK[V]MF[S]	spron-opron	3	1	Ihn trinkt ihr .
+VF[ADV]LK[V]MF[SO]	spron-opron	3	4	Deshalb trinkt ihr ihn .
+LK[V]MF[SO]	spron-opron	2	3	Trinkt ihr ihn ?
+MF[SO]VC[V]	spron-opron	2	3	Weil ihr ihn trinkt .
 VF[S]LK[V]MF[O]	spron-opron	1	3	Er schreibt sie .
 VF[O]LK[V]MF[S]	spron-opron	3	1	Sie schreibt er .
 VF[ADV]LK[V]MF[SO]	spron-opron	3	4	Deshalb schreibt er sie .
@@ -2122,14 +2122,14 @@ LK[V]MF[SO]	opron-pp	6	7	Startet in dem Jahr der General ihn ?
 LK[V]MF[OS]	opron-pp	7	5	Startet in dem Jahr ihn der General ?
 MF[SO]VC[V]	opron-pp	6	7	Weil in dem Jahr der General ihn startet .
 MF[OS]VC[V]	opron-pp	7	5	Weil in dem Jahr ihn der General startet .
-VF[S]LK[V]MF[O]	opron-pp	2	7	Die Partner leben in dem Jahr es .
-VF[O]LK[V]MF[S]	opron-pp	7	1	Es leben in dem Jahr die Partner .
-VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb leben in dem Jahr die Partner es .
-VF[ADV]LK[V]MF[OS]	opron-pp	8	6	Deshalb leben in dem Jahr es die Partner .
-LK[V]MF[SO]	opron-pp	6	7	Leben in dem Jahr die Partner es ?
-LK[V]MF[OS]	opron-pp	7	5	Leben in dem Jahr es die Partner ?
-MF[SO]VC[V]	opron-pp	6	7	Weil in dem Jahr die Partner es leben .
-MF[OS]VC[V]	opron-pp	7	5	Weil in dem Jahr es die Partner leben .
+VF[S]LK[V]MF[O]	opron-pp	2	7	Die Partner leben in dem Jahr ihn .
+VF[O]LK[V]MF[S]	opron-pp	7	1	Ihn leben in dem Jahr die Partner .
+VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb leben in dem Jahr die Partner ihn .
+VF[ADV]LK[V]MF[OS]	opron-pp	8	6	Deshalb leben in dem Jahr ihn die Partner .
+LK[V]MF[SO]	opron-pp	6	7	Leben in dem Jahr die Partner ihn ?
+LK[V]MF[OS]	opron-pp	7	5	Leben in dem Jahr ihn die Partner ?
+MF[SO]VC[V]	opron-pp	6	7	Weil in dem Jahr die Partner ihn leben .
+MF[OS]VC[V]	opron-pp	7	5	Weil in dem Jahr ihn die Partner leben .
 VF[S]LK[V]MF[O]	opron-pp	2	7	Der Journalist übertextet in dem Jahr sie .
 VF[O]LK[V]MF[S]	opron-pp	7	1	Sie übertextet in dem Jahr der Journalist .
 VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb übertextet in dem Jahr der Journalist sie .
@@ -2154,14 +2154,14 @@ LK[V]MF[SO]	opron-pp	6	7	Bewirft in dem Jahr der Passant sie ?
 LK[V]MF[OS]	opron-pp	7	5	Bewirft in dem Jahr sie der Passant ?
 MF[SO]VC[V]	opron-pp	6	7	Weil in dem Jahr der Passant sie bewirft .
 MF[OS]VC[V]	opron-pp	7	5	Weil in dem Jahr sie der Passant bewirft .
-VF[S]LK[V]MF[O]	opron-pp	2	7	Die Kinder finden in dem Jahr es .
-VF[O]LK[V]MF[S]	opron-pp	7	1	Es finden in dem Jahr die Kinder .
-VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb finden in dem Jahr die Kinder es .
-VF[ADV]LK[V]MF[OS]	opron-pp	8	6	Deshalb finden in dem Jahr es die Kinder .
-LK[V]MF[SO]	opron-pp	6	7	Finden in dem Jahr die Kinder es ?
-LK[V]MF[OS]	opron-pp	7	5	Finden in dem Jahr es die Kinder ?
-MF[SO]VC[V]	opron-pp	6	7	Weil in dem Jahr die Kinder es finden .
-MF[OS]VC[V]	opron-pp	7	5	Weil in dem Jahr es die Kinder finden .
+VF[S]LK[V]MF[O]	opron-pp	2	7	Die Kinder finden in dem Jahr ihn .
+VF[O]LK[V]MF[S]	opron-pp	7	1	Ihn finden in dem Jahr die Kinder .
+VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb finden in dem Jahr die Kinder ihn .
+VF[ADV]LK[V]MF[OS]	opron-pp	8	6	Deshalb finden in dem Jahr ihn die Kinder .
+LK[V]MF[SO]	opron-pp	6	7	Finden in dem Jahr die Kinder ihn ?
+LK[V]MF[OS]	opron-pp	7	5	Finden in dem Jahr ihn die Kinder ?
+MF[SO]VC[V]	opron-pp	6	7	Weil in dem Jahr die Kinder ihn finden .
+MF[OS]VC[V]	opron-pp	7	5	Weil in dem Jahr ihn die Kinder finden .
 VF[S]LK[V]MF[O]	opron-pp	2	7	Der Leser abonniert in dem Jahr sie .
 VF[O]LK[V]MF[S]	opron-pp	7	1	Sie abonniert in dem Jahr der Leser .
 VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb abonniert in dem Jahr der Leser sie .
@@ -2178,14 +2178,14 @@ LK[V]MF[SO]	opron-pp	6	7	Rasiert in dem Jahr der Herr ihn ?
 LK[V]MF[OS]	opron-pp	7	5	Rasiert in dem Jahr ihn der Herr ?
 MF[SO]VC[V]	opron-pp	6	7	Weil in dem Jahr der Herr ihn rasiert .
 MF[OS]VC[V]	opron-pp	7	5	Weil in dem Jahr ihn der Herr rasiert .
-VF[S]LK[V]MF[O]	opron-pp	2	7	Die Mamas trinken in dem Jahr es .
-VF[O]LK[V]MF[S]	opron-pp	7	1	Es trinken in dem Jahr die Mamas .
-VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb trinken in dem Jahr die Mamas es .
-VF[ADV]LK[V]MF[OS]	opron-pp	8	6	Deshalb trinken in dem Jahr es die Mamas .
-LK[V]MF[SO]	opron-pp	6	7	Trinken in dem Jahr die Mamas es ?
-LK[V]MF[OS]	opron-pp	7	5	Trinken in dem Jahr es die Mamas ?
-MF[SO]VC[V]	opron-pp	6	7	Weil in dem Jahr die Mamas es trinken .
-MF[OS]VC[V]	opron-pp	7	5	Weil in dem Jahr es die Mamas trinken .
+VF[S]LK[V]MF[O]	opron-pp	2	7	Die Mamas trinken in dem Jahr ihn .
+VF[O]LK[V]MF[S]	opron-pp	7	1	Ihn trinken in dem Jahr die Mamas .
+VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb trinken in dem Jahr die Mamas ihn .
+VF[ADV]LK[V]MF[OS]	opron-pp	8	6	Deshalb trinken in dem Jahr ihn die Mamas .
+LK[V]MF[SO]	opron-pp	6	7	Trinken in dem Jahr die Mamas ihn ?
+LK[V]MF[OS]	opron-pp	7	5	Trinken in dem Jahr ihn die Mamas ?
+MF[SO]VC[V]	opron-pp	6	7	Weil in dem Jahr die Mamas ihn trinken .
+MF[OS]VC[V]	opron-pp	7	5	Weil in dem Jahr ihn die Mamas trinken .
 VF[S]LK[V]MF[O]	opron-pp	2	7	Der Schriftsteller schreibt in dem Jahr sie .
 VF[O]LK[V]MF[S]	opron-pp	7	1	Sie schreibt in dem Jahr der Schriftsteller .
 VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb schreibt in dem Jahr der Schriftsteller sie .
@@ -2628,14 +2628,14 @@ LK[V]MF[SO]	opron-sinan	3	4	Verletzen die Gase ihn ?
 LK[V]MF[OS]	opron-sinan	4	2	Verletzen ihn die Gase ?
 MF[SO]VC[V]	opron-sinan	3	4	Weil die Gase ihn verletzen .
 MF[OS]VC[V]	opron-sinan	4	2	Weil ihn die Gase verletzen .
-VF[S]LK[V]MF[O]	opron-sinan	2	4	Die Wandreliefs rufen es .
-VF[O]LK[V]MF[S]	opron-sinan	4	1	Es rufen die Wandreliefs .
-VF[ADV]LK[V]MF[SO]	opron-sinan	4	5	Deshalb rufen die Wandreliefs es .
-VF[ADV]LK[V]MF[OS]	opron-sinan	5	3	Deshalb rufen es die Wandreliefs .
-LK[V]MF[SO]	opron-sinan	3	4	Rufen die Wandreliefs es ?
-LK[V]MF[OS]	opron-sinan	4	2	Rufen es die Wandreliefs ?
-MF[SO]VC[V]	opron-sinan	3	4	Weil die Wandreliefs es rufen .
-MF[OS]VC[V]	opron-sinan	4	2	Weil es die Wandreliefs rufen .
+VF[S]LK[V]MF[O]	opron-sinan	2	4	Die Wandreliefs rufen ihn .
+VF[O]LK[V]MF[S]	opron-sinan	4	1	Ihn rufen die Wandreliefs .
+VF[ADV]LK[V]MF[SO]	opron-sinan	4	5	Deshalb rufen die Wandreliefs ihn .
+VF[ADV]LK[V]MF[OS]	opron-sinan	5	3	Deshalb rufen ihn die Wandreliefs .
+LK[V]MF[SO]	opron-sinan	3	4	Rufen die Wandreliefs ihn ?
+LK[V]MF[OS]	opron-sinan	4	2	Rufen ihn die Wandreliefs ?
+MF[SO]VC[V]	opron-sinan	3	4	Weil die Wandreliefs ihn rufen .
+MF[OS]VC[V]	opron-sinan	4	2	Weil ihn die Wandreliefs rufen .
 VF[S]LK[V]MF[O]	opron-sinan	2	4	Die Video-Installation bildet ihn .
 VF[O]LK[V]MF[S]	opron-sinan	4	1	Ihn bildet die Video-Installation .
 VF[ADV]LK[V]MF[SO]	opron-sinan	4	5	Deshalb bildet die Video-Installation ihn .
@@ -2652,22 +2652,22 @@ LK[V]MF[SO]	opron-sinan	3	4	Fordert der Antrag sie ?
 LK[V]MF[OS]	opron-sinan	4	2	Fordert sie der Antrag ?
 MF[SO]VC[V]	opron-sinan	3	4	Weil der Antrag sie fordert .
 MF[OS]VC[V]	opron-sinan	4	2	Weil sie der Antrag fordert .
-VF[S]LK[V]MF[O]	opron-sinan	2	4	Die Arbeiten bringen es .
-VF[O]LK[V]MF[S]	opron-sinan	4	1	Es bringen die Arbeiten .
-VF[ADV]LK[V]MF[SO]	opron-sinan	4	5	Deshalb bringen die Arbeiten es .
-VF[ADV]LK[V]MF[OS]	opron-sinan	5	3	Deshalb bringen es die Arbeiten .
-LK[V]MF[SO]	opron-sinan	3	4	Bringen die Arbeiten es ?
-LK[V]MF[OS]	opron-sinan	4	2	Bringen es die Arbeiten ?
-MF[SO]VC[V]	opron-sinan	3	4	Weil die Arbeiten es bringen .
-MF[OS]VC[V]	opron-sinan	4	2	Weil es die Arbeiten bringen .
-VF[S]LK[V]MF[O]	opron-sinan	2	4	Die Bekenntnisse verändern es .
-VF[O]LK[V]MF[S]	opron-sinan	4	1	Es verändern die Bekenntnisse .
-VF[ADV]LK[V]MF[SO]	opron-sinan	4	5	Deshalb verändern die Bekenntnisse es .
-VF[ADV]LK[V]MF[OS]	opron-sinan	5	3	Deshalb verändern es die Bekenntnisse .
-LK[V]MF[SO]	opron-sinan	3	4	Verändern die Bekenntnisse es ?
-LK[V]MF[OS]	opron-sinan	4	2	Verändern es die Bekenntnisse ?
-MF[SO]VC[V]	opron-sinan	3	4	Weil die Bekenntnisse es verändern .
-MF[OS]VC[V]	opron-sinan	4	2	Weil es die Bekenntnisse verändern .
+VF[S]LK[V]MF[O]	opron-sinan	2	4	Die Arbeiten bringen ihn .
+VF[O]LK[V]MF[S]	opron-sinan	4	1	Ihn bringen die Arbeiten .
+VF[ADV]LK[V]MF[SO]	opron-sinan	4	5	Deshalb bringen die Arbeiten ihn .
+VF[ADV]LK[V]MF[OS]	opron-sinan	5	3	Deshalb bringen ihn die Arbeiten .
+LK[V]MF[SO]	opron-sinan	3	4	Bringen die Arbeiten ihn ?
+LK[V]MF[OS]	opron-sinan	4	2	Bringen ihn die Arbeiten ?
+MF[SO]VC[V]	opron-sinan	3	4	Weil die Arbeiten ihn bringen .
+MF[OS]VC[V]	opron-sinan	4	2	Weil ihn die Arbeiten bringen .
+VF[S]LK[V]MF[O]	opron-sinan	2	4	Die Bekenntnisse verändern ihn .
+VF[O]LK[V]MF[S]	opron-sinan	4	1	Ihn verändern die Bekenntnisse .
+VF[ADV]LK[V]MF[SO]	opron-sinan	4	5	Deshalb verändern die Bekenntnisse ihn .
+VF[ADV]LK[V]MF[OS]	opron-sinan	5	3	Deshalb verändern ihn die Bekenntnisse .
+LK[V]MF[SO]	opron-sinan	3	4	Verändern die Bekenntnisse ihn ?
+LK[V]MF[OS]	opron-sinan	4	2	Verändern ihn die Bekenntnisse ?
+MF[SO]VC[V]	opron-sinan	3	4	Weil die Bekenntnisse ihn verändern .
+MF[OS]VC[V]	opron-sinan	4	2	Weil ihn die Bekenntnisse verändern .
 VF[S]LK[V]MF[O]	opron-sinan	2	4	Die Flugzeugträger verlassen ihn .
 VF[O]LK[V]MF[S]	opron-sinan	4	1	Ihn verlassen die Flugzeugträger .
 VF[ADV]LK[V]MF[SO]	opron-sinan	4	5	Deshalb verlassen die Flugzeugträger ihn .
@@ -4646,14 +4646,14 @@ LK[V]MF[SO]	opron-regpol	3	4	Startet die Kanzlei ihn ?
 LK[V]MF[OS]	opron-regpol	4	2	Startet ihn die Kanzlei ?
 MF[SO]VC[V]	opron-regpol	3	4	Weil die Kanzlei ihn startet .
 MF[OS]VC[V]	opron-regpol	4	2	Weil ihn die Kanzlei startet .
-VF[S]LK[V]MF[O]	opron-regpol	2	4	Die Läden leben es .
-VF[O]LK[V]MF[S]	opron-regpol	4	1	Es leben die Läden .
-VF[ADV]LK[V]MF[SO]	opron-regpol	4	5	Deshalb leben die Läden es .
-VF[ADV]LK[V]MF[OS]	opron-regpol	5	3	Deshalb leben es die Läden .
-LK[V]MF[SO]	opron-regpol	3	4	Leben die Läden es ?
-LK[V]MF[OS]	opron-regpol	4	2	Leben es die Läden ?
-MF[SO]VC[V]	opron-regpol	3	4	Weil die Läden es leben .
-MF[OS]VC[V]	opron-regpol	4	2	Weil es die Läden leben .
+VF[S]LK[V]MF[O]	opron-regpol	2	4	Die Läden leben ihn .
+VF[O]LK[V]MF[S]	opron-regpol	4	1	Ihn leben die Läden .
+VF[ADV]LK[V]MF[SO]	opron-regpol	4	5	Deshalb leben die Läden ihn .
+VF[ADV]LK[V]MF[OS]	opron-regpol	5	3	Deshalb leben ihn die Läden .
+LK[V]MF[SO]	opron-regpol	3	4	Leben die Läden ihn ?
+LK[V]MF[OS]	opron-regpol	4	2	Leben ihn die Läden ?
+MF[SO]VC[V]	opron-regpol	3	4	Weil die Läden ihn leben .
+MF[OS]VC[V]	opron-regpol	4	2	Weil ihn die Läden leben .
 VF[S]LK[V]MF[O]	opron-regpol	2	4	Die Werbeagentur übertextet ihn .
 VF[O]LK[V]MF[S]	opron-regpol	4	1	Ihn übertextet die Werbeagentur .
 VF[ADV]LK[V]MF[SO]	opron-regpol	4	5	Deshalb übertextet die Werbeagentur ihn .
@@ -9346,14 +9346,14 @@ LK[V]MF[SO]	opron-syn	3	4	Beginnt der General ihn ?
 LK[V]MF[OS]	opron-syn	4	2	Beginnt ihn der General ?
 MF[SO]VC[V]	opron-syn	3	4	Weil der General ihn beginnt .
 MF[OS]VC[V]	opron-syn	4	2	Weil ihn der General beginnt .
-VF[S]LK[V]MF[O]	opron-syn	2	4	Die Partner führen es .
-VF[O]LK[V]MF[S]	opron-syn	4	1	Es führen die Partner .
-VF[ADV]LK[V]MF[SO]	opron-syn	4	5	Deshalb führen die Partner es .
-VF[ADV]LK[V]MF[OS]	opron-syn	5	3	Deshalb führen es die Partner .
-LK[V]MF[SO]	opron-syn	3	4	Führen die Partner es ?
-LK[V]MF[OS]	opron-syn	4	2	Führen es die Partner ?
-MF[SO]VC[V]	opron-syn	3	4	Weil die Partner es führen .
-MF[OS]VC[V]	opron-syn	4	2	Weil es die Partner führen .
+VF[S]LK[V]MF[O]	opron-syn	2	4	Die Partner führen ihn .
+VF[O]LK[V]MF[S]	opron-syn	4	1	Ihn führen die Partner .
+VF[ADV]LK[V]MF[SO]	opron-syn	4	5	Deshalb führen die Partner ihn .
+VF[ADV]LK[V]MF[OS]	opron-syn	5	3	Deshalb führen ihn die Partner .
+LK[V]MF[SO]	opron-syn	3	4	Führen die Partner ihn ?
+LK[V]MF[OS]	opron-syn	4	2	Führen ihn die Partner ?
+MF[SO]VC[V]	opron-syn	3	4	Weil die Partner ihn führen .
+MF[OS]VC[V]	opron-syn	4	2	Weil ihn die Partner führen .
 VF[S]LK[V]MF[O]	opron-syn	2	4	Der Journalist überspielt sie .
 VF[O]LK[V]MF[S]	opron-syn	4	1	Sie überspielt der Journalist .
 VF[ADV]LK[V]MF[SO]	opron-syn	4	5	Deshalb überspielt der Journalist sie .
@@ -9378,14 +9378,14 @@ LK[V]MF[SO]	opron-syn	3	4	Beschmeißt der Passant sie ?
 LK[V]MF[OS]	opron-syn	4	2	Beschmeißt sie der Passant ?
 MF[SO]VC[V]	opron-syn	3	4	Weil der Passant sie beschmeißt .
 MF[OS]VC[V]	opron-syn	4	2	Weil sie der Passant beschmeißt .
-VF[S]LK[V]MF[O]	opron-syn	2	4	Die Kinder erraten es .
-VF[O]LK[V]MF[S]	opron-syn	4	1	Es erraten die Kinder .
-VF[ADV]LK[V]MF[SO]	opron-syn	4	5	Deshalb erraten die Kinder es .
-VF[ADV]LK[V]MF[OS]	opron-syn	5	3	Deshalb erraten es die Kinder .
-LK[V]MF[SO]	opron-syn	3	4	Erraten die Kinder es ?
-LK[V]MF[OS]	opron-syn	4	2	Erraten es die Kinder ?
-MF[SO]VC[V]	opron-syn	3	4	Weil die Kinder es erraten .
-MF[OS]VC[V]	opron-syn	4	2	Weil es die Kinder erraten .
+VF[S]LK[V]MF[O]	opron-syn	2	4	Die Kinder erraten ihn .
+VF[O]LK[V]MF[S]	opron-syn	4	1	Ihn erraten die Kinder .
+VF[ADV]LK[V]MF[SO]	opron-syn	4	5	Deshalb erraten die Kinder ihn .
+VF[ADV]LK[V]MF[OS]	opron-syn	5	3	Deshalb erraten ihn die Kinder .
+LK[V]MF[SO]	opron-syn	3	4	Erraten die Kinder ihn ?
+LK[V]MF[OS]	opron-syn	4	2	Erraten ihn die Kinder ?
+MF[SO]VC[V]	opron-syn	3	4	Weil die Kinder ihn erraten .
+MF[OS]VC[V]	opron-syn	4	2	Weil ihn die Kinder erraten .
 VF[S]LK[V]MF[O]	opron-syn	2	4	Der Leser bestellt sie .
 VF[O]LK[V]MF[S]	opron-syn	4	1	Sie bestellt der Leser .
 VF[ADV]LK[V]MF[SO]	opron-syn	4	5	Deshalb bestellt der Leser sie .
@@ -9402,14 +9402,14 @@ LK[V]MF[SO]	opron-syn	3	4	Stutzt der Herr ihn ?
 LK[V]MF[OS]	opron-syn	4	2	Stutzt ihn der Herr ?
 MF[SO]VC[V]	opron-syn	3	4	Weil der Herr ihn stutzt .
 MF[OS]VC[V]	opron-syn	4	2	Weil ihn der Herr stutzt .
-VF[S]LK[V]MF[O]	opron-syn	2	4	Die Mamas schlürfen es .
-VF[O]LK[V]MF[S]	opron-syn	4	1	Es schlürfen die Mamas .
-VF[ADV]LK[V]MF[SO]	opron-syn	4	5	Deshalb schlürfen die Mamas es .
-VF[ADV]LK[V]MF[OS]	opron-syn	5	3	Deshalb schlürfen es die Mamas .
-LK[V]MF[SO]	opron-syn	3	4	Schlürfen die Mamas es ?
-LK[V]MF[OS]	opron-syn	4	2	Schlürfen es die Mamas ?
-MF[SO]VC[V]	opron-syn	3	4	Weil die Mamas es schlürfen .
-MF[OS]VC[V]	opron-syn	4	2	Weil es die Mamas schlürfen .
+VF[S]LK[V]MF[O]	opron-syn	2	4	Die Mamas schlürfen ihn .
+VF[O]LK[V]MF[S]	opron-syn	4	1	Ihn schlürfen die Mamas .
+VF[ADV]LK[V]MF[SO]	opron-syn	4	5	Deshalb schlürfen die Mamas ihn .
+VF[ADV]LK[V]MF[OS]	opron-syn	5	3	Deshalb schlürfen ihn die Mamas .
+LK[V]MF[SO]	opron-syn	3	4	Schlürfen die Mamas ihn ?
+LK[V]MF[OS]	opron-syn	4	2	Schlürfen ihn die Mamas ?
+MF[SO]VC[V]	opron-syn	3	4	Weil die Mamas ihn schlürfen .
+MF[OS]VC[V]	opron-syn	4	2	Weil ihn die Mamas schlürfen .
 VF[S]LK[V]MF[O]	opron-syn	2	4	Der Schriftsteller verfasst sie .
 VF[O]LK[V]MF[S]	opron-syn	4	1	Sie verfasst der Schriftsteller .
 VF[ADV]LK[V]MF[SO]	opron-syn	4	5	Deshalb verfasst der Schriftsteller sie .

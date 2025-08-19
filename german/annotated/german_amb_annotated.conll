@@ -32678,7 +32678,7 @@
 4	fesseln	fesseln	_	VERB-VVFIN	Morph:3pis|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:VC
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:UNK
 					
-1	Es	es	_	PRON-PPER	Morph:****|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:VF
+1	Es	es	_	PRON-PPER	Morph:asn3|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:VF
 2	langweilt	langweilen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:LK
 3	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:MF
 4	Partnerin	Partnerin	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:MF
