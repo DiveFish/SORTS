@@ -44904,36 +44904,6 @@
 5	.	_	_	_	order:MF[SO]VC[V]|props:base-prov	_	_	_	_
 
 1	De	_	_	_	order:VF[S]LK[V]MF[O]|props:base-prov	_	_	_	_
-2	eerste	_	_	_	order:VF[S]LK[V]MF[O]|props:base-prov	3	nsubj	_	_
-3	is	_	_	_	order:VF[S]LK[V]MF[O]|props:base-prov	0	verb	_	_
-4	de	_	_	_	order:VF[S]LK[V]MF[O]|props:base-prov	_	_	_	_
-5	laatste	_	_	_	order:VF[S]LK[V]MF[O]|props:base-prov	3	obj	_	_
-6	.	_	_	_	order:VF[S]LK[V]MF[O]|props:base-prov	_	_	_	_
-
-1	Daarom	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-prov	_	_	_	_
-2	is	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-prov	0	verb	_	_
-3	de	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-prov	_	_	_	_
-4	eerste	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-prov	2	nsubj	_	_
-5	de	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-prov	_	_	_	_
-6	laatste	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-prov	2	obj	_	_
-7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-prov	_	_	_	_
-
-1	Is	_	_	_	order:LK[V]MF[SO]|props:base-prov	0	verb	_	_
-2	de	_	_	_	order:LK[V]MF[SO]|props:base-prov	_	_	_	_
-3	eerste	_	_	_	order:LK[V]MF[SO]|props:base-prov	1	nsubj	_	_
-4	de	_	_	_	order:LK[V]MF[SO]|props:base-prov	_	_	_	_
-5	laatste	_	_	_	order:LK[V]MF[SO]|props:base-prov	1	obj	_	_
-6	?	_	_	_	order:LK[V]MF[SO]|props:base-prov	_	_	_	_
-
-1	Omdat	_	_	_	order:MF[SO]VC[V]|props:base-prov	_	_	_	_
-2	de	_	_	_	order:MF[SO]VC[V]|props:base-prov	_	_	_	_
-3	eerste	_	_	_	order:MF[SO]VC[V]|props:base-prov	6	nsubj	_	_
-4	de	_	_	_	order:MF[SO]VC[V]|props:base-prov	_	_	_	_
-5	laatste	_	_	_	order:MF[SO]VC[V]|props:base-prov	6	obj	_	_
-6	is	_	_	_	order:MF[SO]VC[V]|props:base-prov	0	verb	_	_
-7	.	_	_	_	order:MF[SO]VC[V]|props:base-prov	_	_	_	_
-
-1	De	_	_	_	order:VF[S]LK[V]MF[O]|props:base-prov	_	_	_	_
 2	gestage	_	_	_	order:VF[S]LK[V]MF[O]|props:base-prov	_	_	_	_
 3	drup	_	_	_	order:VF[S]LK[V]MF[O]|props:base-prov	4	nsubj	_	_
 4	holt	_	_	_	order:VF[S]LK[V]MF[O]|props:base-prov	0	verb	_	_
@@ -45316,40 +45286,6 @@
 4	zal	_	_	_	order:MF[SO]VC[V]|props:aux-prov	_	_	_	_
 5	maken	_	_	_	order:MF[SO]VC[V]|props:aux-prov	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:aux-prov	_	_	_	_
-
-1	De	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-prov	_	_	_	_
-2	eerste	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-prov	6	nsubj	_	_
-3	zal	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-prov	_	_	_	_
-4	de	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-prov	_	_	_	_
-5	laatste	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-prov	6	obj	_	_
-6	zijn	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-prov	0	verb	_	_
-7	.	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-prov	_	_	_	_
-
-1	Daarom	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-prov	_	_	_	_
-2	zal	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-prov	_	_	_	_
-3	de	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-prov	_	_	_	_
-4	eerste	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-prov	7	nsubj	_	_
-5	de	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-prov	_	_	_	_
-6	laatste	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-prov	7	obj	_	_
-7	zijn	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-prov	0	verb	_	_
-8	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-prov	_	_	_	_
-
-1	Zal	_	_	_	order:LK[V]MF[SO]|props:aux-prov	_	_	_	_
-2	de	_	_	_	order:LK[V]MF[SO]|props:aux-prov	_	_	_	_
-3	eerste	_	_	_	order:LK[V]MF[SO]|props:aux-prov	6	nsubj	_	_
-4	de	_	_	_	order:LK[V]MF[SO]|props:aux-prov	_	_	_	_
-5	laatste	_	_	_	order:LK[V]MF[SO]|props:aux-prov	6	obj	_	_
-6	zijn	_	_	_	order:LK[V]MF[SO]|props:aux-prov	0	verb	_	_
-7	?	_	_	_	order:LK[V]MF[SO]|props:aux-prov	_	_	_	_
-
-1	Omdat	_	_	_	order:MF[SO]VC[V]|props:aux-prov	_	_	_	_
-2	de	_	_	_	order:MF[SO]VC[V]|props:aux-prov	_	_	_	_
-3	eerste	_	_	_	order:MF[SO]VC[V]|props:aux-prov	7	nsubj	_	_
-4	de	_	_	_	order:MF[SO]VC[V]|props:aux-prov	_	_	_	_
-5	laatste	_	_	_	order:MF[SO]VC[V]|props:aux-prov	7	obj	_	_
-6	zal	_	_	_	order:MF[SO]VC[V]|props:aux-prov	_	_	_	_
-7	zijn	_	_	_	order:MF[SO]VC[V]|props:aux-prov	0	verb	_	_
-8	.	_	_	_	order:MF[SO]VC[V]|props:aux-prov	_	_	_	_
 
 1	De	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-prov	_	_	_	_
 2	gestage	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-prov	_	_	_	_
@@ -45784,36 +45720,6 @@
 6	.	_	_	_	order:MF[SO]VC[V]|props:oneg-prov	_	_	_	_
 
 1	De	_	_	_	order:VF[S]LK[V]MF[O]|props:oneg-prov	_	_	_	_
-2	eerste	_	_	_	order:VF[S]LK[V]MF[O]|props:oneg-prov	3	nsubj	_	_
-3	is	_	_	_	order:VF[S]LK[V]MF[O]|props:oneg-prov	0	verb	_	_
-4	geen	_	_	_	order:VF[S]LK[V]MF[O]|props:oneg-prov	_	_	_	_
-5	laatste	_	_	_	order:VF[S]LK[V]MF[O]|props:oneg-prov	3	obj	_	_
-6	.	_	_	_	order:VF[S]LK[V]MF[O]|props:oneg-prov	_	_	_	_
-
-1	Daarom	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-prov	_	_	_	_
-2	is	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-prov	0	verb	_	_
-3	de	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-prov	_	_	_	_
-4	eerste	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-prov	2	nsubj	_	_
-5	geen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-prov	_	_	_	_
-6	laatste	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-prov	2	obj	_	_
-7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oneg-prov	_	_	_	_
-
-1	Is	_	_	_	order:LK[V]MF[SO]|props:oneg-prov	0	verb	_	_
-2	de	_	_	_	order:LK[V]MF[SO]|props:oneg-prov	_	_	_	_
-3	eerste	_	_	_	order:LK[V]MF[SO]|props:oneg-prov	1	nsubj	_	_
-4	geen	_	_	_	order:LK[V]MF[SO]|props:oneg-prov	_	_	_	_
-5	laatste	_	_	_	order:LK[V]MF[SO]|props:oneg-prov	1	obj	_	_
-6	?	_	_	_	order:LK[V]MF[SO]|props:oneg-prov	_	_	_	_
-
-1	Omdat	_	_	_	order:MF[SO]VC[V]|props:oneg-prov	_	_	_	_
-2	de	_	_	_	order:MF[SO]VC[V]|props:oneg-prov	_	_	_	_
-3	eerste	_	_	_	order:MF[SO]VC[V]|props:oneg-prov	6	nsubj	_	_
-4	geen	_	_	_	order:MF[SO]VC[V]|props:oneg-prov	_	_	_	_
-5	laatste	_	_	_	order:MF[SO]VC[V]|props:oneg-prov	6	obj	_	_
-6	is	_	_	_	order:MF[SO]VC[V]|props:oneg-prov	0	verb	_	_
-7	.	_	_	_	order:MF[SO]VC[V]|props:oneg-prov	_	_	_	_
-
-1	De	_	_	_	order:VF[S]LK[V]MF[O]|props:oneg-prov	_	_	_	_
 2	gestage	_	_	_	order:VF[S]LK[V]MF[O]|props:oneg-prov	_	_	_	_
 3	drup	_	_	_	order:VF[S]LK[V]MF[O]|props:oneg-prov	4	nsubj	_	_
 4	holt	_	_	_	order:VF[S]LK[V]MF[O]|props:oneg-prov	0	verb	_	_
@@ -46187,48 +46093,6 @@
 6	schuld	_	_	_	order:MF[SO]VC[V]|props:pp-prov	7	obj	_	_
 7	maakt	_	_	_	order:MF[SO]VC[V]|props:pp-prov	0	verb	_	_
 8	.	_	_	_	order:MF[SO]VC[V]|props:pp-prov	_	_	_	_
-
-1	De	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-prov	_	_	_	_
-2	eerste	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-prov	3	nsubj	_	_
-3	is	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-prov	0	verb	_	_
-4	gedurende	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-prov	_	_	_	_
-5	een	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-prov	_	_	_	_
-6	week	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-prov	_	_	_	_
-7	de	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-prov	_	_	_	_
-8	laatste	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-prov	3	obj	_	_
-9	.	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-prov	_	_	_	_
-
-1	Daarom	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-prov	_	_	_	_
-2	is	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-prov	0	verb	_	_
-3	de	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-prov	_	_	_	_
-4	eerste	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-prov	2	nsubj	_	_
-5	gedurende	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-prov	_	_	_	_
-6	een	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-prov	_	_	_	_
-7	week	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-prov	_	_	_	_
-8	de	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-prov	_	_	_	_
-9	laatste	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-prov	2	obj	_	_
-10	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-prov	_	_	_	_
-
-1	Is	_	_	_	order:LK[V]MF[SO]|props:pp-prov	0	verb	_	_
-2	de	_	_	_	order:LK[V]MF[SO]|props:pp-prov	_	_	_	_
-3	eerste	_	_	_	order:LK[V]MF[SO]|props:pp-prov	1	nsubj	_	_
-4	gedurende	_	_	_	order:LK[V]MF[SO]|props:pp-prov	_	_	_	_
-5	een	_	_	_	order:LK[V]MF[SO]|props:pp-prov	_	_	_	_
-6	week	_	_	_	order:LK[V]MF[SO]|props:pp-prov	_	_	_	_
-7	de	_	_	_	order:LK[V]MF[SO]|props:pp-prov	_	_	_	_
-8	laatste	_	_	_	order:LK[V]MF[SO]|props:pp-prov	1	obj	_	_
-9	?	_	_	_	order:LK[V]MF[SO]|props:pp-prov	_	_	_	_
-
-1	Omdat	_	_	_	order:MF[SO]VC[V]|props:pp-prov	_	_	_	_
-2	de	_	_	_	order:MF[SO]VC[V]|props:pp-prov	_	_	_	_
-3	eerste	_	_	_	order:MF[SO]VC[V]|props:pp-prov	9	nsubj	_	_
-4	gedurende	_	_	_	order:MF[SO]VC[V]|props:pp-prov	_	_	_	_
-5	een	_	_	_	order:MF[SO]VC[V]|props:pp-prov	_	_	_	_
-6	week	_	_	_	order:MF[SO]VC[V]|props:pp-prov	_	_	_	_
-7	de	_	_	_	order:MF[SO]VC[V]|props:pp-prov	_	_	_	_
-8	laatste	_	_	_	order:MF[SO]VC[V]|props:pp-prov	9	obj	_	_
-9	is	_	_	_	order:MF[SO]VC[V]|props:pp-prov	0	verb	_	_
-10	.	_	_	_	order:MF[SO]VC[V]|props:pp-prov	_	_	_	_
 
 1	De	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-prov	_	_	_	_
 2	gestage	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-prov	_	_	_	_
