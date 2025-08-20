@@ -16031,12 +16031,6 @@
 4	taz-Reporterin	_	_	_	order=VF[S]LK[V]MF[O]|props=spron-invan	2	obj	_	_
 5	.	_	_	_	order=VF[S]LK[V]MF[O]|props=spron-invan	_	_	_	_
 
-1	Eine	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	_	_	_	_
-2	taz-Reporterin	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	3	obj	_	_
-3	überfällt	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	0	verb	_	_
-4	sie	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	3	nsubj	_	_
-5	.	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	_	_	_	_
-
 1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	_	_	_	_
 2	überfällt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	0	verb	_	_
 3	sie	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	2	nsubj	_	_
@@ -16063,12 +16057,6 @@
 4	Berufstätige	_	_	_	order=VF[S]LK[V]MF[O]|props=spron-invan	2	obj	_	_
 5	.	_	_	_	order=VF[S]LK[V]MF[O]|props=spron-invan	_	_	_	_
 
-1	Eine	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	_	_	_	_
-2	Berufstätige	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	3	obj	_	_
-3	trifft	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	0	verb	_	_
-4	sie	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	3	nsubj	_	_
-5	.	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	_	_	_	_
-
 1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	_	_	_	_
 2	trifft	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	0	verb	_	_
 3	sie	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	2	nsubj	_	_
@@ -16094,11 +16082,6 @@
 3	Jogger	_	_	_	order=VF[S]LK[V]MF[O]|props=spron-invan	2	obj	_	_
 4	.	_	_	_	order=VF[S]LK[V]MF[O]|props=spron-invan	_	_	_	_
 
-1	Jogger	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	2	obj	_	_
-2	drücken	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	0	verb	_	_
-3	sie	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	2	nsubj	_	_
-4	.	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	_	_	_	_
-
 1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	_	_	_	_
 2	drücken	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	0	verb	_	_
 3	sie	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	2	nsubj	_	_
@@ -16121,12 +16104,6 @@
 3	eine	_	_	_	order=VF[S]LK[V]MF[O]|props=spron-invan	_	_	_	_
 4	Informatikerin	_	_	_	order=VF[S]LK[V]MF[O]|props=spron-invan	2	obj	_	_
 5	.	_	_	_	order=VF[S]LK[V]MF[O]|props=spron-invan	_	_	_	_
-
-1	Eine	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	_	_	_	_
-2	Informatikerin	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	3	obj	_	_
-3	drängt	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	0	verb	_	_
-4	sie	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	3	nsubj	_	_
-5	.	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	_	_	_	_
 
 1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	_	_	_	_
 2	drängt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	0	verb	_	_
@@ -16154,12 +16131,6 @@
 4	Wanderin	_	_	_	order=VF[S]LK[V]MF[O]|props=spron-invan	2	obj	_	_
 5	.	_	_	_	order=VF[S]LK[V]MF[O]|props=spron-invan	_	_	_	_
 
-1	Eine	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	_	_	_	_
-2	Wanderin	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	3	obj	_	_
-3	wärmt	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	0	verb	_	_
-4	sie	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	3	nsubj	_	_
-5	.	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	_	_	_	_
-
 1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	_	_	_	_
 2	wärmt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	0	verb	_	_
 3	sie	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	2	nsubj	_	_
@@ -16186,12 +16157,6 @@
 4	Spaziergängerin	_	_	_	order=VF[S]LK[V]MF[O]|props=spron-invan	2	obj	_	_
 5	.	_	_	_	order=VF[S]LK[V]MF[O]|props=spron-invan	_	_	_	_
 
-1	Eine	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	_	_	_	_
-2	Spaziergängerin	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	3	obj	_	_
-3	durchnässt	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	0	verb	_	_
-4	sie	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	3	nsubj	_	_
-5	.	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	_	_	_	_
-
 1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	_	_	_	_
 2	durchnässt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	0	verb	_	_
 3	sie	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	2	nsubj	_	_
@@ -16217,11 +16182,6 @@
 3	Trucker	_	_	_	order=VF[S]LK[V]MF[O]|props=spron-invan	2	obj	_	_
 4	.	_	_	_	order=VF[S]LK[V]MF[O]|props=spron-invan	_	_	_	_
 
-1	Trucker	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	2	obj	_	_
-2	begleiten	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	0	verb	_	_
-3	sie	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	2	nsubj	_	_
-4	.	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	_	_	_	_
-
 1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	_	_	_	_
 2	begleiten	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	0	verb	_	_
 3	sie	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	2	nsubj	_	_
@@ -16244,12 +16204,6 @@
 3	eine	_	_	_	order=VF[S]LK[V]MF[O]|props=spron-invan	_	_	_	_
 4	Bereiste	_	_	_	order=VF[S]LK[V]MF[O]|props=spron-invan	2	obj	_	_
 5	.	_	_	_	order=VF[S]LK[V]MF[O]|props=spron-invan	_	_	_	_
-
-1	Eine	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	_	_	_	_
-2	Bereiste	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	3	obj	_	_
-3	schützt	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	0	verb	_	_
-4	sie	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	3	nsubj	_	_
-5	.	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	_	_	_	_
 
 1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	_	_	_	_
 2	schützt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	0	verb	_	_
@@ -16277,12 +16231,6 @@
 4	Hausbesitzerin	_	_	_	order=VF[S]LK[V]MF[O]|props=spron-invan	2	obj	_	_
 5	.	_	_	_	order=VF[S]LK[V]MF[O]|props=spron-invan	_	_	_	_
 
-1	Eine	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	_	_	_	_
-2	Hausbesitzerin	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	3	obj	_	_
-3	betrifft	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	0	verb	_	_
-4	sie	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	3	nsubj	_	_
-5	.	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	_	_	_	_
-
 1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	_	_	_	_
 2	betrifft	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	0	verb	_	_
 3	sie	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	2	nsubj	_	_
@@ -16308,12 +16256,6 @@
 3	eine	_	_	_	order=VF[S]LK[V]MF[O]|props=spron-invan	_	_	_	_
 4	Grünenpolitikerin	_	_	_	order=VF[S]LK[V]MF[O]|props=spron-invan	2	obj	_	_
 5	.	_	_	_	order=VF[S]LK[V]MF[O]|props=spron-invan	_	_	_	_
-
-1	Eine	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	_	_	_	_
-2	Grünenpolitikerin	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	3	obj	_	_
-3	prägt	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	0	verb	_	_
-4	sie	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	3	nsubj	_	_
-5	.	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	_	_	_	_
 
 1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	_	_	_	_
 2	prägt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	0	verb	_	_
@@ -16341,12 +16283,6 @@
 4	Schwimmerin	_	_	_	order=VF[S]LK[V]MF[O]|props=spron-invan	2	obj	_	_
 5	.	_	_	_	order=VF[S]LK[V]MF[O]|props=spron-invan	_	_	_	_
 
-1	Eine	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	_	_	_	_
-2	Schwimmerin	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	3	obj	_	_
-3	blendet	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	0	verb	_	_
-4	sie	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	3	nsubj	_	_
-5	.	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	_	_	_	_
-
 1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	_	_	_	_
 2	blendet	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	0	verb	_	_
 3	sie	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	2	nsubj	_	_
@@ -16372,11 +16308,6 @@
 3	Fahrgäste	_	_	_	order=VF[S]LK[V]MF[O]|props=spron-invan	2	obj	_	_
 4	.	_	_	_	order=VF[S]LK[V]MF[O]|props=spron-invan	_	_	_	_
 
-1	Fahrgäste	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	2	obj	_	_
-2	befördern	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	0	verb	_	_
-3	sie	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	2	nsubj	_	_
-4	.	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	_	_	_	_
-
 1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	_	_	_	_
 2	befördern	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	0	verb	_	_
 3	sie	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	2	nsubj	_	_
@@ -16399,12 +16330,6 @@
 3	eine	_	_	_	order=VF[S]LK[V]MF[O]|props=spron-invan	_	_	_	_
 4	Bürotäterin	_	_	_	order=VF[S]LK[V]MF[O]|props=spron-invan	2	obj	_	_
 5	.	_	_	_	order=VF[S]LK[V]MF[O]|props=spron-invan	_	_	_	_
-
-1	Eine	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	_	_	_	_
-2	Bürotäterin	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	3	obj	_	_
-3	unterstützt	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	0	verb	_	_
-4	sie	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	3	nsubj	_	_
-5	.	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	_	_	_	_
 
 1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	_	_	_	_
 2	unterstützt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	0	verb	_	_
@@ -16432,12 +16357,6 @@
 4	Entertainerin	_	_	_	order=VF[S]LK[V]MF[O]|props=spron-invan	2	obj	_	_
 5	.	_	_	_	order=VF[S]LK[V]MF[O]|props=spron-invan	_	_	_	_
 
-1	Eine	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	_	_	_	_
-2	Entertainerin	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	3	obj	_	_
-3	zwickt	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	0	verb	_	_
-4	sie	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	3	nsubj	_	_
-5	.	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	_	_	_	_
-
 1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	_	_	_	_
 2	zwickt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	0	verb	_	_
 3	sie	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	2	nsubj	_	_
@@ -16463,12 +16382,6 @@
 3	eine	_	_	_	order=VF[S]LK[V]MF[O]|props=spron-invan	_	_	_	_
 4	Biene	_	_	_	order=VF[S]LK[V]MF[O]|props=spron-invan	2	obj	_	_
 5	.	_	_	_	order=VF[S]LK[V]MF[O]|props=spron-invan	_	_	_	_
-
-1	Eine	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	_	_	_	_
-2	Biene	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	3	obj	_	_
-3	bedroht	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	0	verb	_	_
-4	sie	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	3	nsubj	_	_
-5	.	_	_	_	order=VF[O]LK[V]MF[S]|props=spron-invan	_	_	_	_
 
 1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	_	_	_	_
 2	bedroht	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=spron-invan	0	verb	_	_
@@ -50739,4 +50652,3 @@
 7	Tugend	_	_	_	order=MF[SO]VC[V]|props=pp-prov	8	obj	_	_
 8	kennt	_	_	_	order=MF[SO]VC[V]|props=pp-prov	0	verb	_	_
 9	.	_	_	_	order=MF[SO]VC[V]|props=pp-prov	_	_	_	_
-

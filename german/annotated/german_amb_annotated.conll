@@ -16030,13 +16030,7 @@
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:MF
 4	taz-Reporterin	taz-Reporterin	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:UNK
-					
-1	Eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:VF
-2	taz-Reporterin	taz-Reporterin	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:VF
-3	überfällt	überfallen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:LK
-4	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:UNK
-					
+
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:VF
 2	überfällt	überfallen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:LK
 3	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:MF
@@ -16062,13 +16056,7 @@
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:MF
 4	Berufstätige	Berufstätige	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:UNK
-					
-1	Eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:VF
-2	Berufstätige	Berufstätige	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:VF
-3	trifft	treffen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:LK
-4	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:UNK
-					
+
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:VF
 2	trifft	treffen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:LK
 3	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:MF
@@ -16093,12 +16081,7 @@
 2	drücken	drücken	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:LK
 3	Jogger	Jogger	_	NOUN-NN	Morph:apm|NE:0|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:MF
 4	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:UNK
-					
-1	Jogger	Jogger	_	ADJ-ADJD	Morph:asm|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:VF
-2	drücken	drücken	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:LK
-3	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:MF
-4	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:UNK
-					
+
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:VF
 2	drücken	drücken	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:LK
 3	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:MF
@@ -16121,13 +16104,7 @@
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:MF
 4	Informatikerin	Informatikerin	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:UNK
-					
-1	Eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:VF
-2	Informatikerin	Informatikerin	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:VF
-3	drängt	drängen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:LK
-4	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:UNK
-					
+
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:VF
 2	drängt	drängen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:LK
 3	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:MF
@@ -16153,13 +16130,7 @@
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:MF
 4	Wanderin	Wanderin	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:UNK
-					
-1	Eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:VF
-2	Wanderin	Wanderin	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:VF
-3	wärmt	wärmen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:LK
-4	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:UNK
-					
+
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:VF
 2	wärmt	wärmen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:LK
 3	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:MF
@@ -16185,13 +16156,7 @@
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:MF
 4	Spaziergängerin	Spaziergängerin	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:UNK
-					
-1	Eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:VF
-2	Spaziergängerin	Spaziergängerin	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:VF
-3	durchnässt	durchnässen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:LK
-4	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:UNK
-					
+
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:VF
 2	durchnässt	durchnässen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:LK
 3	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:MF
@@ -16216,12 +16181,7 @@
 2	begleiten	begleiten	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:LK
 3	Trucker	Trucker	_	NOUN-NN	Morph:apm|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:MF
 4	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:UNK
-					
-1	Trucker	Trucker	_	NOUN-NN	Morph:apm|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:VF
-2	begleiten	begleiten	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:LK
-3	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:MF
-4	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:UNK
-					
+
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:VF
 2	begleiten	begleiten	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:LK
 3	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:MF
@@ -16244,13 +16204,7 @@
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:MF
 4	Bereiste	Bereiste	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:UNK
-					
-1	Eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:VF
-2	Bereiste	Bereiste	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:VF
-3	schützt	schützen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:LK
-4	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:UNK
-					
+
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:VF
 2	schützt	schützen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:LK
 3	sie	sie	_	PRON-PPER	Morph:ap*3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:MF
@@ -16276,13 +16230,7 @@
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:MF
 4	Hausbesitzerin	Hausbesitzerin	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:UNK
-					
-1	Eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:VF
-2	Hausbesitzerin	Hausbesitzerin	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:VF
-3	betrifft	betreffen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:LK
-4	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:UNK
-					
+
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:VF
 2	betrifft	betreffen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:LK
 3	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:MF
@@ -16308,13 +16256,7 @@
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:MF
 4	Grünenpolitikerin	Grünenpolitikerin	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:UNK
-					
-1	Eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:VF
-2	Grünenpolitikerin	Grünenpolitikerin	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:VF
-3	prägt	prägen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:LK
-4	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:UNK
-					
+
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:VF
 2	prägt	prägen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:LK
 3	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:MF
@@ -16340,13 +16282,7 @@
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:MF
 4	Schwimmerin	Schwimmerin	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:UNK
-					
-1	Eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:VF
-2	Schwimmerin	Schwimmerin	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:VF
-3	blendet	blenden	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:LK
-4	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:UNK
-					
+
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:VF
 2	blendet	blenden	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:LK
 3	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:MF
@@ -16371,12 +16307,7 @@
 2	befördern	befördern	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:LK
 3	Fahrgäste	Fahrgast	_	NOUN-NN	Morph:apm|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:MF
 4	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:UNK
-					
-1	Fahrgäste	Fahrgast	_	NOUN-NN	Morph:apm|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:VF
-2	befördern	befördern	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:LK
-3	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:MF
-4	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:UNK
-					
+
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:VF
 2	befördern	befördern	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:LK
 3	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:MF
@@ -16399,13 +16330,7 @@
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:MF
 4	Bürotäterin	Bürotäterin	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:UNK
-					
-1	Eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:VF
-2	Bürotäterin	Bürotäterin	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:VF
-3	unterstützt	unterstützen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:LK
-4	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:UNK
-					
+
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:VF
 2	unterstützt	unterstützen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:LK
 3	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:MF
@@ -16431,13 +16356,7 @@
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:MF
 4	Entertainerin	Entertainerin	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:UNK
-					
-1	Eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:VF
-2	Entertainerin	Entertainerin	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:VF
-3	zwickt	zwicken	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:LK
-4	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:UNK
-					
+
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:VF
 2	zwickt	zwicken	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:LK
 3	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:MF
@@ -16463,13 +16382,7 @@
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:MF
 4	Biene	Biene	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:spron-invan|tf:UNK
-					
-1	Eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:VF
-2	Biene	Biene	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:VF
-3	bedroht	bedrohen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:LK
-4	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:spron-invan|tf:UNK
-					
+
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:VF
 2	bedroht	bedrohen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:LK
 3	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-invan|tf:MF

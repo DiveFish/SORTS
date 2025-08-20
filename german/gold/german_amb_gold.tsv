@@ -2031,77 +2031,62 @@ LK[V]MF[OS]	aux-invan	5	3	Wird eine Biene die Landwirtschaft bedrohen ?
 MF[SO]VC[V]	aux-invan	3	5	Weil die Landwirtschaft eine Biene bedrohen wird .
 MF[OS]VC[V]	aux-invan	5	3	Weil eine Biene die Landwirtschaft bedrohen wird .
 VF[S]LK[V]MF[O]	spron-invan	1	4	Sie überfällt eine taz-Reporterin .
-VF[O]LK[V]MF[S]	spron-invan	4	2	Eine taz-Reporterin überfällt sie .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	5	Deshalb überfällt sie eine taz-Reporterin .
 LK[V]MF[SO]	spron-invan	2	4	Überfällt sie eine taz-Reporterin ?
 MF[SO]VC[V]	spron-invan	2	4	Weil sie eine taz-Reporterin überfällt .
 VF[S]LK[V]MF[O]	spron-invan	1	4	Sie trifft eine Berufstätige .
-VF[O]LK[V]MF[S]	spron-invan	4	2	Eine Berufstätige trifft sie .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	5	Deshalb trifft sie eine Berufstätige .
 LK[V]MF[SO]	spron-invan	2	4	Trifft sie eine Berufstätige ?
 MF[SO]VC[V]	spron-invan	2	4	Weil sie eine Berufstätige trifft .
 VF[S]LK[V]MF[O]	spron-invan	1	3	Sie drücken Jogger .
-VF[O]LK[V]MF[S]	spron-invan	3	1	Jogger drücken sie .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	4	Deshalb drücken sie Jogger .
 LK[V]MF[SO]	spron-invan	2	3	Drücken sie Jogger ?
 MF[SO]VC[V]	spron-invan	2	3	Weil sie Jogger drücken .
 VF[S]LK[V]MF[O]	spron-invan	1	4	Sie drängt eine Informatikerin .
-VF[O]LK[V]MF[S]	spron-invan	4	2	Eine Informatikerin drängt sie .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	5	Deshalb drängt sie eine Informatikerin .
 LK[V]MF[SO]	spron-invan	2	4	Drängt sie eine Informatikerin ?
 MF[SO]VC[V]	spron-invan	2	4	Weil sie eine Informatikerin drängt .
 VF[S]LK[V]MF[O]	spron-invan	1	4	Sie wärmt eine Wanderin .
-VF[O]LK[V]MF[S]	spron-invan	4	2	Eine Wanderin wärmt sie .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	5	Deshalb wärmt sie eine Wanderin .
 LK[V]MF[SO]	spron-invan	2	4	Wärmt sie eine Wanderin ?
 MF[SO]VC[V]	spron-invan	2	4	Weil sie eine Wanderin wärmt .
 VF[S]LK[V]MF[O]	spron-invan	1	4	Sie durchnässt eine Spaziergängerin .
-VF[O]LK[V]MF[S]	spron-invan	4	2	Eine Spaziergängerin durchnässt sie .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	5	Deshalb durchnässt sie eine Spaziergängerin .
 LK[V]MF[SO]	spron-invan	2	4	Durchnässt sie eine Spaziergängerin ?
 MF[SO]VC[V]	spron-invan	2	4	Weil sie eine Spaziergängerin durchnässt .
 VF[S]LK[V]MF[O]	spron-invan	1	3	Sie begleiten Trucker .
-VF[O]LK[V]MF[S]	spron-invan	3	1	Trucker begleiten sie .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	4	Deshalb begleiten sie Trucker .
 LK[V]MF[SO]	spron-invan	2	3	Begleiten sie Trucker ?
 MF[SO]VC[V]	spron-invan	2	3	Weil sie Trucker begleiten .
 VF[S]LK[V]MF[O]	spron-invan	1	4	Sie schützt eine Bereiste .
-VF[O]LK[V]MF[S]	spron-invan	4	2	Eine Bereiste schützt sie .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	5	Deshalb schützt sie eine Bereiste .
 LK[V]MF[SO]	spron-invan	2	4	Schützt sie eine Bereiste ?
 MF[SO]VC[V]	spron-invan	2	4	Weil sie eine Bereiste schützt .
 VF[S]LK[V]MF[O]	spron-invan	1	4	Sie betrifft eine Hausbesitzerin .
-VF[O]LK[V]MF[S]	spron-invan	4	2	Eine Hausbesitzerin betrifft sie .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	5	Deshalb betrifft sie eine Hausbesitzerin .
 LK[V]MF[SO]	spron-invan	2	4	Betrifft sie eine Hausbesitzerin ?
 MF[SO]VC[V]	spron-invan	2	4	Weil sie eine Hausbesitzerin betrifft .
 VF[S]LK[V]MF[O]	spron-invan	1	4	Sie prägt eine Grünenpolitikerin .
-VF[O]LK[V]MF[S]	spron-invan	4	2	Eine Grünenpolitikerin prägt sie .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	5	Deshalb prägt sie eine Grünenpolitikerin .
 LK[V]MF[SO]	spron-invan	2	4	Prägt sie eine Grünenpolitikerin ?
 MF[SO]VC[V]	spron-invan	2	4	Weil sie eine Grünenpolitikerin prägt .
 VF[S]LK[V]MF[O]	spron-invan	1	4	Sie blendet eine Schwimmerin .
-VF[O]LK[V]MF[S]	spron-invan	4	2	Eine Schwimmerin blendet sie .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	5	Deshalb blendet sie eine Schwimmerin .
 LK[V]MF[SO]	spron-invan	2	4	Blendet sie eine Schwimmerin ?
 MF[SO]VC[V]	spron-invan	2	4	Weil sie eine Schwimmerin blendet .
 VF[S]LK[V]MF[O]	spron-invan	1	3	Sie befördern Fahrgäste .
-VF[O]LK[V]MF[S]	spron-invan	3	1	Fahrgäste befördern sie .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	4	Deshalb befördern sie Fahrgäste .
 LK[V]MF[SO]	spron-invan	2	3	Befördern sie Fahrgäste ?
 MF[SO]VC[V]	spron-invan	2	3	Weil sie Fahrgäste befördern .
 VF[S]LK[V]MF[O]	spron-invan	1	4	Sie unterstützt eine Bürotäterin .
-VF[O]LK[V]MF[S]	spron-invan	4	2	Eine Bürotäterin unterstützt sie .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	5	Deshalb unterstützt sie eine Bürotäterin .
 LK[V]MF[SO]	spron-invan	2	4	Unterstützt sie eine Bürotäterin ?
 MF[SO]VC[V]	spron-invan	2	4	Weil sie eine Bürotäterin unterstützt .
 VF[S]LK[V]MF[O]	spron-invan	1	4	Sie zwickt eine Entertainerin .
-VF[O]LK[V]MF[S]	spron-invan	4	2	Eine Entertainerin zwickt sie .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	5	Deshalb zwickt sie eine Entertainerin .
 LK[V]MF[SO]	spron-invan	2	4	Zwickt sie eine Entertainerin ?
 MF[SO]VC[V]	spron-invan	2	4	Weil sie eine Entertainerin zwickt .
 VF[S]LK[V]MF[O]	spron-invan	1	4	Sie bedroht eine Biene .
-VF[O]LK[V]MF[S]	spron-invan	4	2	Eine Biene bedroht sie .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	5	Deshalb bedroht sie eine Biene .
 LK[V]MF[SO]	spron-invan	2	4	Bedroht sie eine Biene ?
 MF[SO]VC[V]	spron-invan	2	4	Weil sie eine Biene bedroht .
