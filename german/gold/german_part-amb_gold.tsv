@@ -3553,14 +3553,14 @@ LK[V]MF[SO]	base-invan	3	5	Zwickt die Hose einen Entertainer ?
 LK[V]MF[OS]	base-invan	5	3	Zwickt einen Entertainer die Hose ?
 MF[SO]VC[V]	base-invan	3	5	Weil die Hose einen Entertainer zwickt .
 MF[OS]VC[V]	base-invan	5	3	Weil einen Entertainer die Hose zwickt .
-VF[S]LK[V]MF[O]	base-invan	2	5	Die Landwirtschaften bedrohen eine Biene .
-VF[O]LK[V]MF[S]	base-invan	5	2	Eine Biene bedrohen die Landwirtschaften .
-VF[ADV]LK[V]MF[SO]	base-invan	4	6	Deshalb bedrohen die Landwirtschaften eine Biene .
-VF[ADV]LK[V]MF[OS]	base-invan	6	4	Deshalb bedrohen eine Biene die Landwirtschaften .
-LK[V]MF[SO]	base-invan	3	5	Bedrohen die Landwirtschaften eine Biene ?
-LK[V]MF[OS]	base-invan	5	3	Bedrohen eine Biene die Landwirtschaften ?
-MF[SO]VC[V]	base-invan	3	5	Weil die Landwirtschaften eine Biene bedrohen .
-MF[OS]VC[V]	base-invan	5	3	Weil eine Biene die Landwirtschaften bedrohen .
+VF[S]LK[V]MF[O]	base-invan	2	4	Die Landwirtschaft bedroht Bienen .
+VF[O]LK[V]MF[S]	base-invan	4	1	Bienen bedroht die Landwirtschaft .
+VF[ADV]LK[V]MF[SO]	base-invan	4	5	Deshalb bedroht die Landwirtschaft Bienen .
+VF[ADV]LK[V]MF[OS]	base-invan	5	3	Deshalb bedroht Bienen die Landwirtschaft .
+LK[V]MF[SO]	base-invan	3	4	Bedroht die Landwirtschaft Bienen ?
+LK[V]MF[OS]	base-invan	4	2	Bedroht Bienen die Landwirtschaft ?
+MF[SO]VC[V]	base-invan	3	4	Weil die Landwirtschaft Bienen bedroht .
+MF[OS]VC[V]	base-invan	4	2	Weil Bienen die Landwirtschaft bedroht .
 VF[S]LK[V]MF[O]	dat-invan	2	5	Der Luftballon platzt einer Tante .
 VF[O]LK[V]MF[S]	dat-invan	5	2	Einer Tante platzt der Luftballon .
 VF[ADV]LK[V]MF[SO]	dat-invan	4	6	Deshalb platzt der Luftballon einer Tante .
@@ -4330,14 +4330,14 @@ LK[V]MF[SO]	pp-invan	6	8	Zwickt in dem Jahr die Hose einen Entertainer ?
 LK[V]MF[OS]	pp-invan	8	6	Zwickt in dem Jahr einen Entertainer die Hose ?
 MF[SO]VC[V]	pp-invan	6	8	Weil in dem Jahr die Hose einen Entertainer zwickt .
 MF[OS]VC[V]	pp-invan	8	6	Weil in dem Jahr einen Entertainer die Hose zwickt .
-VF[S]LK[V]MF[O]	pp-invan	2	8	Die Landwirtschaften bedrohen in dem Jahr eine Biene .
-VF[O]LK[V]MF[S]	pp-invan	8	2	Eine Biene bedrohen in dem Jahr die Landwirtschaften .
-VF[ADV]LK[V]MF[SO]	pp-invan	7	9	Deshalb bedrohen in dem Jahr die Landwirtschaften eine Biene .
-VF[ADV]LK[V]MF[OS]	pp-invan	9	7	Deshalb bedrohen in dem Jahr eine Biene die Landwirtschaften .
-LK[V]MF[SO]	pp-invan	6	8	Bedrohen in dem Jahr die Landwirtschaften eine Biene ?
-LK[V]MF[OS]	pp-invan	8	6	Bedrohen in dem Jahr eine Biene die Landwirtschaften ?
-MF[SO]VC[V]	pp-invan	6	8	Weil in dem Jahr die Landwirtschaften eine Biene bedrohen .
-MF[OS]VC[V]	pp-invan	8	6	Weil in dem Jahr eine Biene die Landwirtschaften bedrohen .
+VF[S]LK[V]MF[O]	pp-invan	2	7	Die Landwirtschaft bedroht in dem Jahr Bienen .
+VF[O]LK[V]MF[S]	pp-invan	7	1	Bienen bedroht in dem Jahr die Landwirtschaft .
+VF[ADV]LK[V]MF[SO]	pp-invan	7	8	Deshalb bedroht in dem Jahr die Landwirtschaft Bienen .
+VF[ADV]LK[V]MF[OS]	pp-invan	8	6	Deshalb bedroht in dem Jahr Bienen die Landwirtschaft .
+LK[V]MF[SO]	pp-invan	6	7	Bedroht in dem Jahr die Landwirtschaft Bienen ?
+LK[V]MF[OS]	pp-invan	7	5	Bedroht in dem Jahr Bienen die Landwirtschaft ?
+MF[SO]VC[V]	pp-invan	6	7	Weil in dem Jahr die Landwirtschaft Bienen bedroht .
+MF[OS]VC[V]	pp-invan	7	5	Weil in dem Jahr Bienen die Landwirtschaft bedroht .
 VF[S]LK[V]MF[O]	base-regpol	2	5	Die Kanzlei startet einen Angriff .
 VF[O]LK[V]MF[S]	base-regpol	5	2	Einen Angriff startet die Kanzlei .
 VF[ADV]LK[V]MF[SO]	base-regpol	4	6	Deshalb startet die Kanzlei einen Angriff .
