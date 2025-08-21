@@ -993,10 +993,10 @@ VF[S]LK[V]MF[O]	amb-opron	2	4	Die Generäle starten sie .
 VF[ADV]LK[V]MF[SO]	amb-opron	4	5	Deshalb starten die Generäle sie .
 LK[V]MF[SO]	amb-opron	3	4	Starten die Generäle sie ?
 MF[SO]VC[V]	amb-opron	3	4	Weil die Generäle sie starten .
-VF[S]LK[V]MF[O]	amb-opron	2	4	Die Partnerin lebt es .
-VF[ADV]LK[V]MF[SO]	amb-opron	4	5	Deshalb lebt die Partnerin es .
-LK[V]MF[SO]	amb-opron	3	4	Lebt die Partnerin es ?
-MF[SO]VC[V]	amb-opron	3	4	Weil die Partnerin es lebt .
+VF[S]LK[V]MF[O]	amb-opron	2	4	Die Partnerin lebt sie .
+VF[ADV]LK[V]MF[SO]	amb-opron	4	5	Deshalb lebt die Partnerin sie .
+LK[V]MF[SO]	amb-opron	3	4	Lebt die Partnerin sie ?
+MF[SO]VC[V]	amb-opron	3	4	Weil die Partnerin sie lebt .
 VF[S]LK[V]MF[O]	amb-opron	2	4	Die Journalisten übertexten sie .
 VF[ADV]LK[V]MF[SO]	amb-opron	4	5	Deshalb übertexten die Journalisten sie .
 LK[V]MF[SO]	amb-opron	3	4	Übertexten die Journalisten sie ?
@@ -1009,10 +1009,10 @@ VF[S]LK[V]MF[O]	amb-opron	2	4	Die Passanten bewerfen sie .
 VF[ADV]LK[V]MF[SO]	amb-opron	4	5	Deshalb bewerfen die Passanten sie .
 LK[V]MF[SO]	amb-opron	3	4	Bewerfen die Passanten sie ?
 MF[SO]VC[V]	amb-opron	3	4	Weil die Passanten sie bewerfen .
-VF[S]LK[V]MF[O]	amb-opron	2	4	Das Kind findet es .
-VF[ADV]LK[V]MF[SO]	amb-opron	4	5	Deshalb findet das Kind es .
-LK[V]MF[SO]	amb-opron	3	4	Findet das Kind es ?
-MF[SO]VC[V]	amb-opron	3	4	Weil das Kind es findet .
+VF[S]LK[V]MF[O]	amb-opron	2	4	Das Kind findet sie .
+VF[ADV]LK[V]MF[SO]	amb-opron	4	5	Deshalb findet das Kind sie .
+LK[V]MF[SO]	amb-opron	3	4	Findet das Kind sie ?
+MF[SO]VC[V]	amb-opron	3	4	Weil das Kind sie findet .
 VF[S]LK[V]MF[O]	amb-opron	2	4	Die Leser abonnieren sie .
 VF[ADV]LK[V]MF[SO]	amb-opron	4	5	Deshalb abonnieren die Leser sie .
 LK[V]MF[SO]	amb-opron	3	4	Abonnieren die Leser sie ?
@@ -1021,10 +1021,10 @@ VF[S]LK[V]MF[O]	amb-opron	2	4	Die Herren rasieren sie .
 VF[ADV]LK[V]MF[SO]	amb-opron	4	5	Deshalb rasieren die Herren sie .
 LK[V]MF[SO]	amb-opron	3	4	Rasieren die Herren sie ?
 MF[SO]VC[V]	amb-opron	3	4	Weil die Herren sie rasieren .
-VF[S]LK[V]MF[O]	amb-opron	2	4	Die Mama trinkt es .
-VF[ADV]LK[V]MF[SO]	amb-opron	4	5	Deshalb trinkt die Mama es .
-LK[V]MF[SO]	amb-opron	3	4	Trinkt die Mama es ?
-MF[SO]VC[V]	amb-opron	3	4	Weil die Mama es trinkt .
+VF[S]LK[V]MF[O]	amb-opron	2	4	Die Mama trinkt sie .
+VF[ADV]LK[V]MF[SO]	amb-opron	4	5	Deshalb trinkt die Mama sie .
+LK[V]MF[SO]	amb-opron	3	4	Trinkt die Mama sie ?
+MF[SO]VC[V]	amb-opron	3	4	Weil die Mama sie trinkt .
 VF[S]LK[V]MF[O]	amb-opron	2	4	Die Schriftsteller schreiben sie .
 VF[ADV]LK[V]MF[SO]	amb-opron	4	5	Deshalb schreiben die Schriftsteller sie .
 LK[V]MF[SO]	amb-opron	3	4	Schreiben die Schriftsteller sie ?

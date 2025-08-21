@@ -7062,26 +7062,26 @@
 1	Die	_	_	_	order=VF[S]LK[V]MF[O]|props=amb-opron	_	_	_	_
 2	Partnerin	_	_	_	order=VF[S]LK[V]MF[O]|props=amb-opron	3	nsubj	_	_
 3	lebt	_	_	_	order=VF[S]LK[V]MF[O]|props=amb-opron	0	verb	_	_
-4	es	_	_	_	order=VF[S]LK[V]MF[O]|props=amb-opron	3	obj	_	_
+4	sie	_	_	_	order=VF[S]LK[V]MF[O]|props=amb-opron	3	obj	_	_
 5	.	_	_	_	order=VF[S]LK[V]MF[O]|props=amb-opron	_	_	_	_
 
 1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=amb-opron	_	_	_	_
 2	lebt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=amb-opron	0	verb	_	_
 3	die	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=amb-opron	_	_	_	_
 4	Partnerin	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=amb-opron	2	nsubj	_	_
-5	es	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=amb-opron	2	obj	_	_
+5	sie	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=amb-opron	2	obj	_	_
 6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=amb-opron	_	_	_	_
 
 1	Lebt	_	_	_	order=LK[V]MF[SO]|props=amb-opron	0	verb	_	_
 2	die	_	_	_	order=LK[V]MF[SO]|props=amb-opron	_	_	_	_
 3	Partnerin	_	_	_	order=LK[V]MF[SO]|props=amb-opron	1	nsubj	_	_
-4	es	_	_	_	order=LK[V]MF[SO]|props=amb-opron	1	obj	_	_
+4	sie	_	_	_	order=LK[V]MF[SO]|props=amb-opron	1	obj	_	_
 5	?	_	_	_	order=LK[V]MF[SO]|props=amb-opron	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=amb-opron	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=amb-opron	_	_	_	_
 3	Partnerin	_	_	_	order=MF[SO]VC[V]|props=amb-opron	5	nsubj	_	_
-4	es	_	_	_	order=MF[SO]VC[V]|props=amb-opron	5	obj	_	_
+4	sie	_	_	_	order=MF[SO]VC[V]|props=amb-opron	5	obj	_	_
 5	lebt	_	_	_	order=MF[SO]VC[V]|props=amb-opron	0	verb	_	_
 6	.	_	_	_	order=MF[SO]VC[V]|props=amb-opron	_	_	_	_
 
@@ -7166,26 +7166,26 @@
 1	Das	_	_	_	order=VF[S]LK[V]MF[O]|props=amb-opron	_	_	_	_
 2	Kind	_	_	_	order=VF[S]LK[V]MF[O]|props=amb-opron	3	nsubj	_	_
 3	findet	_	_	_	order=VF[S]LK[V]MF[O]|props=amb-opron	0	verb	_	_
-4	es	_	_	_	order=VF[S]LK[V]MF[O]|props=amb-opron	3	obj	_	_
+4	sie	_	_	_	order=VF[S]LK[V]MF[O]|props=amb-opron	3	obj	_	_
 5	.	_	_	_	order=VF[S]LK[V]MF[O]|props=amb-opron	_	_	_	_
 
 1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=amb-opron	_	_	_	_
 2	findet	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=amb-opron	0	verb	_	_
 3	das	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=amb-opron	_	_	_	_
 4	Kind	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=amb-opron	2	nsubj	_	_
-5	es	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=amb-opron	2	obj	_	_
+5	sie	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=amb-opron	2	obj	_	_
 6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=amb-opron	_	_	_	_
 
 1	Findet	_	_	_	order=LK[V]MF[SO]|props=amb-opron	0	verb	_	_
 2	das	_	_	_	order=LK[V]MF[SO]|props=amb-opron	_	_	_	_
 3	Kind	_	_	_	order=LK[V]MF[SO]|props=amb-opron	1	nsubj	_	_
-4	es	_	_	_	order=LK[V]MF[SO]|props=amb-opron	1	obj	_	_
+4	sie	_	_	_	order=LK[V]MF[SO]|props=amb-opron	1	obj	_	_
 5	?	_	_	_	order=LK[V]MF[SO]|props=amb-opron	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=amb-opron	_	_	_	_
 2	das	_	_	_	order=MF[SO]VC[V]|props=amb-opron	_	_	_	_
 3	Kind	_	_	_	order=MF[SO]VC[V]|props=amb-opron	5	nsubj	_	_
-4	es	_	_	_	order=MF[SO]VC[V]|props=amb-opron	5	obj	_	_
+4	sie	_	_	_	order=MF[SO]VC[V]|props=amb-opron	5	obj	_	_
 5	findet	_	_	_	order=MF[SO]VC[V]|props=amb-opron	0	verb	_	_
 6	.	_	_	_	order=MF[SO]VC[V]|props=amb-opron	_	_	_	_
 
@@ -7244,26 +7244,26 @@
 1	Die	_	_	_	order=VF[S]LK[V]MF[O]|props=amb-opron	_	_	_	_
 2	Mama	_	_	_	order=VF[S]LK[V]MF[O]|props=amb-opron	3	nsubj	_	_
 3	trinkt	_	_	_	order=VF[S]LK[V]MF[O]|props=amb-opron	0	verb	_	_
-4	es	_	_	_	order=VF[S]LK[V]MF[O]|props=amb-opron	3	obj	_	_
+4	sie	_	_	_	order=VF[S]LK[V]MF[O]|props=amb-opron	3	obj	_	_
 5	.	_	_	_	order=VF[S]LK[V]MF[O]|props=amb-opron	_	_	_	_
 
 1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=amb-opron	_	_	_	_
 2	trinkt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=amb-opron	0	verb	_	_
 3	die	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=amb-opron	_	_	_	_
 4	Mama	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=amb-opron	2	nsubj	_	_
-5	es	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=amb-opron	2	obj	_	_
+5	sie	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=amb-opron	2	obj	_	_
 6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=amb-opron	_	_	_	_
 
 1	Trinkt	_	_	_	order=LK[V]MF[SO]|props=amb-opron	0	verb	_	_
 2	die	_	_	_	order=LK[V]MF[SO]|props=amb-opron	_	_	_	_
 3	Mama	_	_	_	order=LK[V]MF[SO]|props=amb-opron	1	nsubj	_	_
-4	es	_	_	_	order=LK[V]MF[SO]|props=amb-opron	1	obj	_	_
+4	sie	_	_	_	order=LK[V]MF[SO]|props=amb-opron	1	obj	_	_
 5	?	_	_	_	order=LK[V]MF[SO]|props=amb-opron	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=amb-opron	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=amb-opron	_	_	_	_
 3	Mama	_	_	_	order=MF[SO]VC[V]|props=amb-opron	5	nsubj	_	_
-4	es	_	_	_	order=MF[SO]VC[V]|props=amb-opron	5	obj	_	_
+4	sie	_	_	_	order=MF[SO]VC[V]|props=amb-opron	5	obj	_	_
 5	trinkt	_	_	_	order=MF[SO]VC[V]|props=amb-opron	0	verb	_	_
 6	.	_	_	_	order=MF[SO]VC[V]|props=amb-opron	_	_	_	_
 
