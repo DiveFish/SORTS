@@ -4251,105 +4251,61 @@ VF[ADV]LK[V]MF[SO]	spron-psy	3	4	Deshalb fesseln sie Generäle .
 LK[V]MF[SO]	spron-psy	2	3	Fesseln sie Generäle ?
 MF[SO]VC[V]	spron-psy	2	3	Weil sie Generäle fesseln .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Es langweilt eine Partnerin .
-VF[O]LK[V]MF[S]	spron-psy	4	2	Eine Partnerin langweilt es .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Deshalb langweilt es eine Partnerin .
-VF[ADV]LK[V]MF[OS]	spron-psy	5	4	Deshalb langweilt eine Partnerin es .
 LK[V]MF[SO]	spron-psy	2	4	Langweilt es eine Partnerin ?
-LK[V]MF[OS]	spron-psy	4	3	Langweilt eine Partnerin es ?
 MF[SO]VC[V]	spron-psy	2	4	Weil es eine Partnerin langweilt .
-MF[OS]VC[V]	spron-psy	4	3	Weil eine Partnerin es langweilt .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Es begeistert eine Journalistin .
-VF[O]LK[V]MF[S]	spron-psy	4	2	Eine Journalistin begeistert es .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Deshalb begeistert es eine Journalistin .
-VF[ADV]LK[V]MF[OS]	spron-psy	5	4	Deshalb begeistert eine Journalistin es .
 LK[V]MF[SO]	spron-psy	2	4	Begeistert es eine Journalistin ?
-LK[V]MF[OS]	spron-psy	4	3	Begeistert eine Journalistin es ?
 MF[SO]VC[V]	spron-psy	2	4	Weil es eine Journalistin begeistert .
-MF[OS]VC[V]	spron-psy	4	3	Weil eine Journalistin es begeistert .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Es erzürnt eine Freundin .
-VF[O]LK[V]MF[S]	spron-psy	4	2	Eine Freundin erzürnt es .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Deshalb erzürnt es eine Freundin .
-VF[ADV]LK[V]MF[OS]	spron-psy	5	4	Deshalb erzürnt eine Freundin es .
 LK[V]MF[SO]	spron-psy	2	4	Erzürnt es eine Freundin ?
-LK[V]MF[OS]	spron-psy	4	3	Erzürnt eine Freundin es ?
 MF[SO]VC[V]	spron-psy	2	4	Weil es eine Freundin erzürnt .
-MF[OS]VC[V]	spron-psy	4	3	Weil eine Freundin es erzürnt .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Es fasziniert eine Passantin .
-VF[O]LK[V]MF[S]	spron-psy	4	2	Eine Passantin fasziniert es .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Deshalb fasziniert es eine Passantin .
-VF[ADV]LK[V]MF[OS]	spron-psy	5	4	Deshalb fasziniert eine Passantin es .
 LK[V]MF[SO]	spron-psy	2	4	Fasziniert es eine Passantin ?
-LK[V]MF[OS]	spron-psy	4	3	Fasziniert eine Passantin es ?
 MF[SO]VC[V]	spron-psy	2	4	Weil es eine Passantin fasziniert .
-MF[OS]VC[V]	spron-psy	4	3	Weil eine Passantin es fasziniert .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Es berührt ein Kind .
-VF[O]LK[V]MF[S]	spron-psy	4	2	Ein Kind berührt es .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Deshalb berührt es ein Kind .
-VF[ADV]LK[V]MF[OS]	spron-psy	5	4	Deshalb berührt ein Kind es .
 LK[V]MF[SO]	spron-psy	2	4	Berührt es ein Kind ?
-LK[V]MF[OS]	spron-psy	4	3	Berührt ein Kind es ?
 MF[SO]VC[V]	spron-psy	2	4	Weil es ein Kind berührt .
-MF[OS]VC[V]	spron-psy	4	3	Weil ein Kind es berührt .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Es ängstigt eine Leserin .
-VF[O]LK[V]MF[S]	spron-psy	4	2	Eine Leserin ängstigt es .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Deshalb ängstigt es eine Leserin .
-VF[ADV]LK[V]MF[OS]	spron-psy	5	4	Deshalb ängstigt eine Leserin es .
 LK[V]MF[SO]	spron-psy	2	4	Ängstigt es eine Leserin ?
-LK[V]MF[OS]	spron-psy	4	3	Ängstigt eine Leserin es ?
 MF[SO]VC[V]	spron-psy	2	4	Weil es eine Leserin ängstigt .
-MF[OS]VC[V]	spron-psy	4	3	Weil eine Leserin es ängstigt .
 VF[S]LK[V]MF[O]	spron-psy	1	3	Sie erstaunen Herren .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	4	Deshalb erstaunen sie Herren .
 LK[V]MF[SO]	spron-psy	2	3	Erstaunen sie Herren ?
 MF[SO]VC[V]	spron-psy	2	3	Weil sie Herren erstaunen .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Es erfreut eine Mama .
-VF[O]LK[V]MF[S]	spron-psy	4	2	Eine Mama erfreut es .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Deshalb erfreut es eine Mama .
-VF[ADV]LK[V]MF[OS]	spron-psy	5	4	Deshalb erfreut eine Mama es .
 LK[V]MF[SO]	spron-psy	2	4	Erfreut es eine Mama ?
-LK[V]MF[OS]	spron-psy	4	3	Erfreut eine Mama es ?
 MF[SO]VC[V]	spron-psy	2	4	Weil es eine Mama erfreut .
-MF[OS]VC[V]	spron-psy	4	3	Weil eine Mama es erfreut .
 VF[S]LK[V]MF[O]	spron-psy	1	3	Sie frustrieren Schriftsteller .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	4	Deshalb frustrieren sie Schriftsteller .
 LK[V]MF[SO]	spron-psy	2	3	Frustrieren sie Schriftsteller ?
 MF[SO]VC[V]	spron-psy	2	3	Weil sie Schriftsteller frustrieren .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Es erbost eine Politikerin .
-VF[O]LK[V]MF[S]	spron-psy	4	2	Eine Politikerin erbost es .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Deshalb erbost es eine Politikerin .
-VF[ADV]LK[V]MF[OS]	spron-psy	5	4	Deshalb erbost eine Politikerin es .
 LK[V]MF[SO]	spron-psy	2	4	Erbost es eine Politikerin ?
-LK[V]MF[OS]	spron-psy	4	3	Erbost eine Politikerin es ?
 MF[SO]VC[V]	spron-psy	2	4	Weil es eine Politikerin erbost .
-MF[OS]VC[V]	spron-psy	4	3	Weil eine Politikerin es erbost .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Es beschämt eine Abgeordnete .
-VF[O]LK[V]MF[S]	spron-psy	4	2	Eine Abgeordnete beschämt es .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Deshalb beschämt es eine Abgeordnete .
-VF[ADV]LK[V]MF[OS]	spron-psy	5	4	Deshalb beschämt eine Abgeordnete es .
 LK[V]MF[SO]	spron-psy	2	4	Beschämt es eine Abgeordnete ?
-LK[V]MF[OS]	spron-psy	4	3	Beschämt eine Abgeordnete es ?
 MF[SO]VC[V]	spron-psy	2	4	Weil es eine Abgeordnete beschämt .
-MF[OS]VC[V]	spron-psy	4	3	Weil eine Abgeordnete es beschämt .
 VF[S]LK[V]MF[O]	spron-psy	1	3	Sie reuen Kleinbauern .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	4	Deshalb reuen sie Kleinbauern .
 LK[V]MF[SO]	spron-psy	2	3	Reuen sie Kleinbauern ?
 MF[SO]VC[V]	spron-psy	2	3	Weil sie Kleinbauern reuen .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Es amüsiert eine Sportlerin .
-VF[O]LK[V]MF[S]	spron-psy	4	2	Eine Sportlerin amüsiert es .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Deshalb amüsiert es eine Sportlerin .
-VF[ADV]LK[V]MF[OS]	spron-psy	5	4	Deshalb amüsiert eine Sportlerin es .
 LK[V]MF[SO]	spron-psy	2	4	Amüsiert es eine Sportlerin ?
-LK[V]MF[OS]	spron-psy	4	3	Amüsiert eine Sportlerin es ?
 MF[SO]VC[V]	spron-psy	2	4	Weil es eine Sportlerin amüsiert .
-MF[OS]VC[V]	spron-psy	4	3	Weil eine Sportlerin es amüsiert .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Es belustigt eine Handwerkerin .
-VF[O]LK[V]MF[S]	spron-psy	4	2	Eine Handwerkerin belustigt es .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Deshalb belustigt es eine Handwerkerin .
-VF[ADV]LK[V]MF[OS]	spron-psy	5	4	Deshalb belustigt eine Handwerkerin es .
 LK[V]MF[SO]	spron-psy	2	4	Belustigt es eine Handwerkerin ?
-LK[V]MF[OS]	spron-psy	4	3	Belustigt eine Handwerkerin es ?
 MF[SO]VC[V]	spron-psy	2	4	Weil es eine Handwerkerin belustigt .
-MF[OS]VC[V]	spron-psy	4	3	Weil eine Handwerkerin es belustigt .
 VF[S]LK[V]MF[O]	opron-psy	2	4	Die Angriffe fesseln sie .
 VF[O]LK[V]MF[S]	opron-psy	4	1	Sie fesseln die Angriffe .
 VF[ADV]LK[V]MF[SO]	opron-psy	4	5	Deshalb fesseln die Angriffe sie .

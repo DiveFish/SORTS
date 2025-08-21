@@ -32597,12 +32597,6 @@
 4	Partnerin	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	2	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	_	_	_	_
 
-1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	_	_	_	_
-2	Partnerin	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	3	obj	_	_
-3	langweilt	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	0	verb	_	_
-4	es	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	3	nsubj	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	_	_	_	_
-
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	_	_	_	_
 2	langweilt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	0	verb	_	_
 3	es	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	2	nsubj	_	_
@@ -32610,24 +32604,11 @@
 5	Partnerin	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	_	_	_	_
-2	langweilt	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	0	verb	_	_
-3	eine	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	_	_	_	_
-4	Partnerin	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	2	obj	_	_
-5	es	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	_	_	_	_
-
 1	Langweilt	_	_	_	order:LK[V]MF[SO]|props:spron-psy	0	verb	_	_
 2	es	_	_	_	order:LK[V]MF[SO]|props:spron-psy	1	nsubj	_	_
 3	eine	_	_	_	order:LK[V]MF[SO]|props:spron-psy	_	_	_	_
 4	Partnerin	_	_	_	order:LK[V]MF[SO]|props:spron-psy	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:spron-psy	_	_	_	_
-
-1	Langweilt	_	_	_	order:LK[V]MF[OS]|props:spron-psy	0	verb	_	_
-2	eine	_	_	_	order:LK[V]MF[OS]|props:spron-psy	_	_	_	_
-3	Partnerin	_	_	_	order:LK[V]MF[OS]|props:spron-psy	1	obj	_	_
-4	es	_	_	_	order:LK[V]MF[OS]|props:spron-psy	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:spron-psy	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:spron-psy	_	_	_	_
 2	es	_	_	_	order:MF[SO]VC[V]|props:spron-psy	5	nsubj	_	_
@@ -32636,24 +32617,11 @@
 5	langweilt	_	_	_	order:MF[SO]VC[V]|props:spron-psy	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:spron-psy	_	_	_	_
 
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:spron-psy	_	_	_	_
-2	eine	_	_	_	order:MF[OS]VC[V]|props:spron-psy	_	_	_	_
-3	Partnerin	_	_	_	order:MF[OS]VC[V]|props:spron-psy	5	obj	_	_
-4	es	_	_	_	order:MF[OS]VC[V]|props:spron-psy	5	nsubj	_	_
-5	langweilt	_	_	_	order:MF[OS]VC[V]|props:spron-psy	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:spron-psy	_	_	_	_
-
 1	Es	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	2	nsubj	_	_
 2	begeistert	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	0	verb	_	_
 3	eine	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	_	_	_	_
 4	Journalistin	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	2	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	_	_	_	_
-
-1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	_	_	_	_
-2	Journalistin	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	3	obj	_	_
-3	begeistert	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	0	verb	_	_
-4	es	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	3	nsubj	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	_	_	_	_
 2	begeistert	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	0	verb	_	_
@@ -32662,24 +32630,11 @@
 5	Journalistin	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	_	_	_	_
-2	begeistert	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	0	verb	_	_
-3	eine	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	_	_	_	_
-4	Journalistin	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	2	obj	_	_
-5	es	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	_	_	_	_
-
 1	Begeistert	_	_	_	order:LK[V]MF[SO]|props:spron-psy	0	verb	_	_
 2	es	_	_	_	order:LK[V]MF[SO]|props:spron-psy	1	nsubj	_	_
 3	eine	_	_	_	order:LK[V]MF[SO]|props:spron-psy	_	_	_	_
 4	Journalistin	_	_	_	order:LK[V]MF[SO]|props:spron-psy	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:spron-psy	_	_	_	_
-
-1	Begeistert	_	_	_	order:LK[V]MF[OS]|props:spron-psy	0	verb	_	_
-2	eine	_	_	_	order:LK[V]MF[OS]|props:spron-psy	_	_	_	_
-3	Journalistin	_	_	_	order:LK[V]MF[OS]|props:spron-psy	1	obj	_	_
-4	es	_	_	_	order:LK[V]MF[OS]|props:spron-psy	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:spron-psy	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:spron-psy	_	_	_	_
 2	es	_	_	_	order:MF[SO]VC[V]|props:spron-psy	5	nsubj	_	_
@@ -32688,24 +32643,11 @@
 5	begeistert	_	_	_	order:MF[SO]VC[V]|props:spron-psy	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:spron-psy	_	_	_	_
 
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:spron-psy	_	_	_	_
-2	eine	_	_	_	order:MF[OS]VC[V]|props:spron-psy	_	_	_	_
-3	Journalistin	_	_	_	order:MF[OS]VC[V]|props:spron-psy	5	obj	_	_
-4	es	_	_	_	order:MF[OS]VC[V]|props:spron-psy	5	nsubj	_	_
-5	begeistert	_	_	_	order:MF[OS]VC[V]|props:spron-psy	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:spron-psy	_	_	_	_
-
 1	Es	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	2	nsubj	_	_
 2	erzürnt	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	0	verb	_	_
 3	eine	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	_	_	_	_
 4	Freundin	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	2	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	_	_	_	_
-
-1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	_	_	_	_
-2	Freundin	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	3	obj	_	_
-3	erzürnt	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	0	verb	_	_
-4	es	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	3	nsubj	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	_	_	_	_
 2	erzürnt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	0	verb	_	_
@@ -32714,24 +32656,11 @@
 5	Freundin	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	_	_	_	_
-2	erzürnt	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	0	verb	_	_
-3	eine	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	_	_	_	_
-4	Freundin	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	2	obj	_	_
-5	es	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	_	_	_	_
-
 1	Erzürnt	_	_	_	order:LK[V]MF[SO]|props:spron-psy	0	verb	_	_
 2	es	_	_	_	order:LK[V]MF[SO]|props:spron-psy	1	nsubj	_	_
 3	eine	_	_	_	order:LK[V]MF[SO]|props:spron-psy	_	_	_	_
 4	Freundin	_	_	_	order:LK[V]MF[SO]|props:spron-psy	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:spron-psy	_	_	_	_
-
-1	Erzürnt	_	_	_	order:LK[V]MF[OS]|props:spron-psy	0	verb	_	_
-2	eine	_	_	_	order:LK[V]MF[OS]|props:spron-psy	_	_	_	_
-3	Freundin	_	_	_	order:LK[V]MF[OS]|props:spron-psy	1	obj	_	_
-4	es	_	_	_	order:LK[V]MF[OS]|props:spron-psy	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:spron-psy	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:spron-psy	_	_	_	_
 2	es	_	_	_	order:MF[SO]VC[V]|props:spron-psy	5	nsubj	_	_
@@ -32740,24 +32669,11 @@
 5	erzürnt	_	_	_	order:MF[SO]VC[V]|props:spron-psy	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:spron-psy	_	_	_	_
 
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:spron-psy	_	_	_	_
-2	eine	_	_	_	order:MF[OS]VC[V]|props:spron-psy	_	_	_	_
-3	Freundin	_	_	_	order:MF[OS]VC[V]|props:spron-psy	5	obj	_	_
-4	es	_	_	_	order:MF[OS]VC[V]|props:spron-psy	5	nsubj	_	_
-5	erzürnt	_	_	_	order:MF[OS]VC[V]|props:spron-psy	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:spron-psy	_	_	_	_
-
 1	Es	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	2	nsubj	_	_
 2	fasziniert	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	0	verb	_	_
 3	eine	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	_	_	_	_
 4	Passantin	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	2	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	_	_	_	_
-
-1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	_	_	_	_
-2	Passantin	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	3	obj	_	_
-3	fasziniert	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	0	verb	_	_
-4	es	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	3	nsubj	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	_	_	_	_
 2	fasziniert	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	0	verb	_	_
@@ -32766,24 +32682,11 @@
 5	Passantin	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	_	_	_	_
-2	fasziniert	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	0	verb	_	_
-3	eine	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	_	_	_	_
-4	Passantin	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	2	obj	_	_
-5	es	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	_	_	_	_
-
 1	Fasziniert	_	_	_	order:LK[V]MF[SO]|props:spron-psy	0	verb	_	_
 2	es	_	_	_	order:LK[V]MF[SO]|props:spron-psy	1	nsubj	_	_
 3	eine	_	_	_	order:LK[V]MF[SO]|props:spron-psy	_	_	_	_
 4	Passantin	_	_	_	order:LK[V]MF[SO]|props:spron-psy	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:spron-psy	_	_	_	_
-
-1	Fasziniert	_	_	_	order:LK[V]MF[OS]|props:spron-psy	0	verb	_	_
-2	eine	_	_	_	order:LK[V]MF[OS]|props:spron-psy	_	_	_	_
-3	Passantin	_	_	_	order:LK[V]MF[OS]|props:spron-psy	1	obj	_	_
-4	es	_	_	_	order:LK[V]MF[OS]|props:spron-psy	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:spron-psy	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:spron-psy	_	_	_	_
 2	es	_	_	_	order:MF[SO]VC[V]|props:spron-psy	5	nsubj	_	_
@@ -32792,24 +32695,11 @@
 5	fasziniert	_	_	_	order:MF[SO]VC[V]|props:spron-psy	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:spron-psy	_	_	_	_
 
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:spron-psy	_	_	_	_
-2	eine	_	_	_	order:MF[OS]VC[V]|props:spron-psy	_	_	_	_
-3	Passantin	_	_	_	order:MF[OS]VC[V]|props:spron-psy	5	obj	_	_
-4	es	_	_	_	order:MF[OS]VC[V]|props:spron-psy	5	nsubj	_	_
-5	fasziniert	_	_	_	order:MF[OS]VC[V]|props:spron-psy	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:spron-psy	_	_	_	_
-
 1	Es	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	2	nsubj	_	_
 2	berührt	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	0	verb	_	_
 3	ein	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	_	_	_	_
 4	Kind	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	2	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	_	_	_	_
-
-1	Ein	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	_	_	_	_
-2	Kind	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	3	obj	_	_
-3	berührt	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	0	verb	_	_
-4	es	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	3	nsubj	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	_	_	_	_
 2	berührt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	0	verb	_	_
@@ -32818,24 +32708,11 @@
 5	Kind	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	_	_	_	_
-2	berührt	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	0	verb	_	_
-3	ein	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	_	_	_	_
-4	Kind	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	2	obj	_	_
-5	es	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	_	_	_	_
-
 1	Berührt	_	_	_	order:LK[V]MF[SO]|props:spron-psy	0	verb	_	_
 2	es	_	_	_	order:LK[V]MF[SO]|props:spron-psy	1	nsubj	_	_
 3	ein	_	_	_	order:LK[V]MF[SO]|props:spron-psy	_	_	_	_
 4	Kind	_	_	_	order:LK[V]MF[SO]|props:spron-psy	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:spron-psy	_	_	_	_
-
-1	Berührt	_	_	_	order:LK[V]MF[OS]|props:spron-psy	0	verb	_	_
-2	ein	_	_	_	order:LK[V]MF[OS]|props:spron-psy	_	_	_	_
-3	Kind	_	_	_	order:LK[V]MF[OS]|props:spron-psy	1	obj	_	_
-4	es	_	_	_	order:LK[V]MF[OS]|props:spron-psy	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:spron-psy	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:spron-psy	_	_	_	_
 2	es	_	_	_	order:MF[SO]VC[V]|props:spron-psy	5	nsubj	_	_
@@ -32844,24 +32721,11 @@
 5	berührt	_	_	_	order:MF[SO]VC[V]|props:spron-psy	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:spron-psy	_	_	_	_
 
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:spron-psy	_	_	_	_
-2	ein	_	_	_	order:MF[OS]VC[V]|props:spron-psy	_	_	_	_
-3	Kind	_	_	_	order:MF[OS]VC[V]|props:spron-psy	5	obj	_	_
-4	es	_	_	_	order:MF[OS]VC[V]|props:spron-psy	5	nsubj	_	_
-5	berührt	_	_	_	order:MF[OS]VC[V]|props:spron-psy	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:spron-psy	_	_	_	_
-
 1	Es	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	2	nsubj	_	_
 2	ängstigt	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	0	verb	_	_
 3	eine	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	_	_	_	_
 4	Leserin	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	2	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	_	_	_	_
-
-1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	_	_	_	_
-2	Leserin	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	3	obj	_	_
-3	ängstigt	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	0	verb	_	_
-4	es	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	3	nsubj	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	_	_	_	_
 2	ängstigt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	0	verb	_	_
@@ -32870,24 +32734,11 @@
 5	Leserin	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	_	_	_	_
-2	ängstigt	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	0	verb	_	_
-3	eine	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	_	_	_	_
-4	Leserin	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	2	obj	_	_
-5	es	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	_	_	_	_
-
 1	Ängstigt	_	_	_	order:LK[V]MF[SO]|props:spron-psy	0	verb	_	_
 2	es	_	_	_	order:LK[V]MF[SO]|props:spron-psy	1	nsubj	_	_
 3	eine	_	_	_	order:LK[V]MF[SO]|props:spron-psy	_	_	_	_
 4	Leserin	_	_	_	order:LK[V]MF[SO]|props:spron-psy	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:spron-psy	_	_	_	_
-
-1	Ängstigt	_	_	_	order:LK[V]MF[OS]|props:spron-psy	0	verb	_	_
-2	eine	_	_	_	order:LK[V]MF[OS]|props:spron-psy	_	_	_	_
-3	Leserin	_	_	_	order:LK[V]MF[OS]|props:spron-psy	1	obj	_	_
-4	es	_	_	_	order:LK[V]MF[OS]|props:spron-psy	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:spron-psy	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:spron-psy	_	_	_	_
 2	es	_	_	_	order:MF[SO]VC[V]|props:spron-psy	5	nsubj	_	_
@@ -32895,13 +32746,6 @@
 4	Leserin	_	_	_	order:MF[SO]VC[V]|props:spron-psy	5	obj	_	_
 5	ängstigt	_	_	_	order:MF[SO]VC[V]|props:spron-psy	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:spron-psy	_	_	_	_
-
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:spron-psy	_	_	_	_
-2	eine	_	_	_	order:MF[OS]VC[V]|props:spron-psy	_	_	_	_
-3	Leserin	_	_	_	order:MF[OS]VC[V]|props:spron-psy	5	obj	_	_
-4	es	_	_	_	order:MF[OS]VC[V]|props:spron-psy	5	nsubj	_	_
-5	ängstigt	_	_	_	order:MF[OS]VC[V]|props:spron-psy	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:spron-psy	_	_	_	_
 
 1	Sie	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	2	nsubj	_	_
 2	erstaunen	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	0	verb	_	_
@@ -32931,12 +32775,6 @@
 4	Mama	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	2	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	_	_	_	_
 
-1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	_	_	_	_
-2	Mama	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	3	obj	_	_
-3	erfreut	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	0	verb	_	_
-4	es	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	3	nsubj	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	_	_	_	_
-
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	_	_	_	_
 2	erfreut	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	0	verb	_	_
 3	es	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	2	nsubj	_	_
@@ -32944,24 +32782,11 @@
 5	Mama	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	_	_	_	_
-2	erfreut	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	0	verb	_	_
-3	eine	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	_	_	_	_
-4	Mama	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	2	obj	_	_
-5	es	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	_	_	_	_
-
 1	Erfreut	_	_	_	order:LK[V]MF[SO]|props:spron-psy	0	verb	_	_
 2	es	_	_	_	order:LK[V]MF[SO]|props:spron-psy	1	nsubj	_	_
 3	eine	_	_	_	order:LK[V]MF[SO]|props:spron-psy	_	_	_	_
 4	Mama	_	_	_	order:LK[V]MF[SO]|props:spron-psy	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:spron-psy	_	_	_	_
-
-1	Erfreut	_	_	_	order:LK[V]MF[OS]|props:spron-psy	0	verb	_	_
-2	eine	_	_	_	order:LK[V]MF[OS]|props:spron-psy	_	_	_	_
-3	Mama	_	_	_	order:LK[V]MF[OS]|props:spron-psy	1	obj	_	_
-4	es	_	_	_	order:LK[V]MF[OS]|props:spron-psy	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:spron-psy	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:spron-psy	_	_	_	_
 2	es	_	_	_	order:MF[SO]VC[V]|props:spron-psy	5	nsubj	_	_
@@ -32969,13 +32794,6 @@
 4	Mama	_	_	_	order:MF[SO]VC[V]|props:spron-psy	5	obj	_	_
 5	erfreut	_	_	_	order:MF[SO]VC[V]|props:spron-psy	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:spron-psy	_	_	_	_
-
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:spron-psy	_	_	_	_
-2	eine	_	_	_	order:MF[OS]VC[V]|props:spron-psy	_	_	_	_
-3	Mama	_	_	_	order:MF[OS]VC[V]|props:spron-psy	5	obj	_	_
-4	es	_	_	_	order:MF[OS]VC[V]|props:spron-psy	5	nsubj	_	_
-5	erfreut	_	_	_	order:MF[OS]VC[V]|props:spron-psy	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:spron-psy	_	_	_	_
 
 1	Sie	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	2	nsubj	_	_
 2	frustrieren	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	0	verb	_	_
@@ -33005,12 +32823,6 @@
 4	Politikerin	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	2	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	_	_	_	_
 
-1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	_	_	_	_
-2	Politikerin	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	3	obj	_	_
-3	erbost	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	0	verb	_	_
-4	es	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	3	nsubj	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	_	_	_	_
-
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	_	_	_	_
 2	erbost	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	0	verb	_	_
 3	es	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	2	nsubj	_	_
@@ -33018,24 +32830,11 @@
 5	Politikerin	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	_	_	_	_
-2	erbost	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	0	verb	_	_
-3	eine	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	_	_	_	_
-4	Politikerin	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	2	obj	_	_
-5	es	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	_	_	_	_
-
 1	Erbost	_	_	_	order:LK[V]MF[SO]|props:spron-psy	0	verb	_	_
 2	es	_	_	_	order:LK[V]MF[SO]|props:spron-psy	1	nsubj	_	_
 3	eine	_	_	_	order:LK[V]MF[SO]|props:spron-psy	_	_	_	_
 4	Politikerin	_	_	_	order:LK[V]MF[SO]|props:spron-psy	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:spron-psy	_	_	_	_
-
-1	Erbost	_	_	_	order:LK[V]MF[OS]|props:spron-psy	0	verb	_	_
-2	eine	_	_	_	order:LK[V]MF[OS]|props:spron-psy	_	_	_	_
-3	Politikerin	_	_	_	order:LK[V]MF[OS]|props:spron-psy	1	obj	_	_
-4	es	_	_	_	order:LK[V]MF[OS]|props:spron-psy	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:spron-psy	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:spron-psy	_	_	_	_
 2	es	_	_	_	order:MF[SO]VC[V]|props:spron-psy	5	nsubj	_	_
@@ -33044,24 +32843,11 @@
 5	erbost	_	_	_	order:MF[SO]VC[V]|props:spron-psy	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:spron-psy	_	_	_	_
 
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:spron-psy	_	_	_	_
-2	eine	_	_	_	order:MF[OS]VC[V]|props:spron-psy	_	_	_	_
-3	Politikerin	_	_	_	order:MF[OS]VC[V]|props:spron-psy	5	obj	_	_
-4	es	_	_	_	order:MF[OS]VC[V]|props:spron-psy	5	nsubj	_	_
-5	erbost	_	_	_	order:MF[OS]VC[V]|props:spron-psy	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:spron-psy	_	_	_	_
-
 1	Es	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	2	nsubj	_	_
 2	beschämt	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	0	verb	_	_
 3	eine	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	_	_	_	_
 4	Abgeordnete	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	2	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	_	_	_	_
-
-1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	_	_	_	_
-2	Abgeordnete	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	3	obj	_	_
-3	beschämt	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	0	verb	_	_
-4	es	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	3	nsubj	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	_	_	_	_
 2	beschämt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	0	verb	_	_
@@ -33070,24 +32856,11 @@
 5	Abgeordnete	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	_	_	_	_
-2	beschämt	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	0	verb	_	_
-3	eine	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	_	_	_	_
-4	Abgeordnete	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	2	obj	_	_
-5	es	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	_	_	_	_
-
 1	Beschämt	_	_	_	order:LK[V]MF[SO]|props:spron-psy	0	verb	_	_
 2	es	_	_	_	order:LK[V]MF[SO]|props:spron-psy	1	nsubj	_	_
 3	eine	_	_	_	order:LK[V]MF[SO]|props:spron-psy	_	_	_	_
 4	Abgeordnete	_	_	_	order:LK[V]MF[SO]|props:spron-psy	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:spron-psy	_	_	_	_
-
-1	Beschämt	_	_	_	order:LK[V]MF[OS]|props:spron-psy	0	verb	_	_
-2	eine	_	_	_	order:LK[V]MF[OS]|props:spron-psy	_	_	_	_
-3	Abgeordnete	_	_	_	order:LK[V]MF[OS]|props:spron-psy	1	obj	_	_
-4	es	_	_	_	order:LK[V]MF[OS]|props:spron-psy	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:spron-psy	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:spron-psy	_	_	_	_
 2	es	_	_	_	order:MF[SO]VC[V]|props:spron-psy	5	nsubj	_	_
@@ -33095,13 +32868,6 @@
 4	Abgeordnete	_	_	_	order:MF[SO]VC[V]|props:spron-psy	5	obj	_	_
 5	beschämt	_	_	_	order:MF[SO]VC[V]|props:spron-psy	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:spron-psy	_	_	_	_
-
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:spron-psy	_	_	_	_
-2	eine	_	_	_	order:MF[OS]VC[V]|props:spron-psy	_	_	_	_
-3	Abgeordnete	_	_	_	order:MF[OS]VC[V]|props:spron-psy	5	obj	_	_
-4	es	_	_	_	order:MF[OS]VC[V]|props:spron-psy	5	nsubj	_	_
-5	beschämt	_	_	_	order:MF[OS]VC[V]|props:spron-psy	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:spron-psy	_	_	_	_
 
 1	Sie	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	2	nsubj	_	_
 2	reuen	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	0	verb	_	_
@@ -33131,12 +32897,6 @@
 4	Sportlerin	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	2	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	_	_	_	_
 
-1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	_	_	_	_
-2	Sportlerin	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	3	obj	_	_
-3	amüsiert	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	0	verb	_	_
-4	es	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	3	nsubj	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	_	_	_	_
-
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	_	_	_	_
 2	amüsiert	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	0	verb	_	_
 3	es	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	2	nsubj	_	_
@@ -33144,24 +32904,11 @@
 5	Sportlerin	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	_	_	_	_
-2	amüsiert	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	0	verb	_	_
-3	eine	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	_	_	_	_
-4	Sportlerin	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	2	obj	_	_
-5	es	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	_	_	_	_
-
 1	Amüsiert	_	_	_	order:LK[V]MF[SO]|props:spron-psy	0	verb	_	_
 2	es	_	_	_	order:LK[V]MF[SO]|props:spron-psy	1	nsubj	_	_
 3	eine	_	_	_	order:LK[V]MF[SO]|props:spron-psy	_	_	_	_
 4	Sportlerin	_	_	_	order:LK[V]MF[SO]|props:spron-psy	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:spron-psy	_	_	_	_
-
-1	Amüsiert	_	_	_	order:LK[V]MF[OS]|props:spron-psy	0	verb	_	_
-2	eine	_	_	_	order:LK[V]MF[OS]|props:spron-psy	_	_	_	_
-3	Sportlerin	_	_	_	order:LK[V]MF[OS]|props:spron-psy	1	obj	_	_
-4	es	_	_	_	order:LK[V]MF[OS]|props:spron-psy	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:spron-psy	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:spron-psy	_	_	_	_
 2	es	_	_	_	order:MF[SO]VC[V]|props:spron-psy	5	nsubj	_	_
@@ -33170,24 +32917,11 @@
 5	amüsiert	_	_	_	order:MF[SO]VC[V]|props:spron-psy	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:spron-psy	_	_	_	_
 
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:spron-psy	_	_	_	_
-2	eine	_	_	_	order:MF[OS]VC[V]|props:spron-psy	_	_	_	_
-3	Sportlerin	_	_	_	order:MF[OS]VC[V]|props:spron-psy	5	obj	_	_
-4	es	_	_	_	order:MF[OS]VC[V]|props:spron-psy	5	nsubj	_	_
-5	amüsiert	_	_	_	order:MF[OS]VC[V]|props:spron-psy	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:spron-psy	_	_	_	_
-
 1	Es	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	2	nsubj	_	_
 2	belustigt	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	0	verb	_	_
 3	eine	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	_	_	_	_
 4	Handwerkerin	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	2	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:spron-psy	_	_	_	_
-
-1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	_	_	_	_
-2	Handwerkerin	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	3	obj	_	_
-3	belustigt	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	0	verb	_	_
-4	es	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	3	nsubj	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:spron-psy	_	_	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	_	_	_	_
 2	belustigt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	0	verb	_	_
@@ -33196,24 +32930,11 @@
 5	Handwerkerin	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	2	obj	_	_
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:spron-psy	_	_	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	_	_	_	_
-2	belustigt	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	0	verb	_	_
-3	eine	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	_	_	_	_
-4	Handwerkerin	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	2	obj	_	_
-5	es	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	2	nsubj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[OS]|props:spron-psy	_	_	_	_
-
 1	Belustigt	_	_	_	order:LK[V]MF[SO]|props:spron-psy	0	verb	_	_
 2	es	_	_	_	order:LK[V]MF[SO]|props:spron-psy	1	nsubj	_	_
 3	eine	_	_	_	order:LK[V]MF[SO]|props:spron-psy	_	_	_	_
 4	Handwerkerin	_	_	_	order:LK[V]MF[SO]|props:spron-psy	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:spron-psy	_	_	_	_
-
-1	Belustigt	_	_	_	order:LK[V]MF[OS]|props:spron-psy	0	verb	_	_
-2	eine	_	_	_	order:LK[V]MF[OS]|props:spron-psy	_	_	_	_
-3	Handwerkerin	_	_	_	order:LK[V]MF[OS]|props:spron-psy	1	obj	_	_
-4	es	_	_	_	order:LK[V]MF[OS]|props:spron-psy	1	nsubj	_	_
-5	?	_	_	_	order:LK[V]MF[OS]|props:spron-psy	_	_	_	_
 
 1	Weil	_	_	_	order:MF[SO]VC[V]|props:spron-psy	_	_	_	_
 2	es	_	_	_	order:MF[SO]VC[V]|props:spron-psy	5	nsubj	_	_
@@ -33221,13 +32942,6 @@
 4	Handwerkerin	_	_	_	order:MF[SO]VC[V]|props:spron-psy	5	obj	_	_
 5	belustigt	_	_	_	order:MF[SO]VC[V]|props:spron-psy	0	verb	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:spron-psy	_	_	_	_
-
-1	Weil	_	_	_	order:MF[OS]VC[V]|props:spron-psy	_	_	_	_
-2	eine	_	_	_	order:MF[OS]VC[V]|props:spron-psy	_	_	_	_
-3	Handwerkerin	_	_	_	order:MF[OS]VC[V]|props:spron-psy	5	obj	_	_
-4	es	_	_	_	order:MF[OS]VC[V]|props:spron-psy	5	nsubj	_	_
-5	belustigt	_	_	_	order:MF[OS]VC[V]|props:spron-psy	0	verb	_	_
-6	.	_	_	_	order:MF[OS]VC[V]|props:spron-psy	_	_	_	_
 
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	_	_	_	_
 2	Angriffe	_	_	_	order:VF[S]LK[V]MF[O]|props:opron-psy	3	nsubj	_	_

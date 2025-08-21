@@ -32596,313 +32596,157 @@
 3	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:MF
 4	Partnerin	Partnerin	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:UNK
-					
-1	Eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:VF
-2	Partnerin	Partnerin	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:VF
-3	langweilt	langweilen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:LK
-4	es	es	_	PRON-PPER	Morph:asn3|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:UNK
-					
+
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:VF
 2	langweilt	langweilen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:LK
 3	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:MF
 4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:MF
 5	Partnerin	Partnerin	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:VF
-2	langweilt	langweilen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:LK
-3	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:MF
-4	Partnerin	Partnerin	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:MF
-5	es	es	_	PRON-PPER	Morph:asn3|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:UNK
-					
+
 1	Langweilt	langweilen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:LK
 2	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:MF
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:MF
 4	Partnerin	Partnerin	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:MF
 5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:UNK
-					
-1	Langweilt	langweilen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:LK
-2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:MF
-3	Partnerin	Partnerin	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:MF
-4	es	es	_	PRON-PPER	Morph:asn3|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:MF
-5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:UNK
-					
+
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:C
 2	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:MF
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:MF
 4	Partnerin	Partnerin	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:MF
 5	langweilt	langweilen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:C
-2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:MF
-3	Partnerin	Partnerin	_	NOUN-NN	Morph:nsf|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:MF
-4	es	es	_	PRON-PPER	Morph:asn3|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:MF
-5	langweilt	langweilen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:VC
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:UNK
-					
+
 1	Es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:VF
 2	begeistert	begeistern	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:LK
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:MF
 4	Journalistin	Journalistin	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:UNK
-					
-1	Eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:VF
-2	Journalistin	Journalistin	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:VF
-3	begeistert	begeistern	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:LK
-4	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:UNK
-					
+
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:VF
 2	begeistert	begeistern	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:LK
 3	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:MF
 4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:MF
 5	Journalistin	Journalistin	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:VF
-2	begeistert	begeistern	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:LK
-3	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:MF
-4	Journalistin	Journalistin	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:MF
-5	es	es	_	PRON-PPER	Morph:asn3|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:UNK
-					
+
 1	Begeistert	begeistern	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:LK
 2	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:MF
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:MF
 4	Journalistin	Journalistin	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:MF
 5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:UNK
-					
-1	Begeistert	begeistern	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:LK
-2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:MF
-3	Journalistin	Journalistin	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:MF
-4	es	es	_	PRON-PPER	Morph:asn3|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:MF
-5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:UNK
-					
+
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:C
 2	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:MF
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:MF
 4	Journalistin	Journalistin	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:MF
 5	begeistert	begeistern	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:C
-2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:MF
-3	Journalistin	Journalistin	_	NOUN-NN	Morph:nsf|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:MF
-4	es	es	_	PRON-PPER	Morph:asn3|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:MF
-5	begeistert	begeistern	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:VC
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:UNK
-					
+
 1	Es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:VF
 2	erzürnt	erzürnen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:LK
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:MF
 4	Freundin	Freundin	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:UNK
-					
-1	Eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:VF
-2	Freundin	Freundin	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:VF
-3	erzürnt	erzürnen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:LK
-4	es	es	_	PRON-PPER	Morph:asn3|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:UNK
-					
+
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:VF
 2	erzürnt	erzürnen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:LK
 3	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:MF
 4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:MF
 5	Freundin	Freundin	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:VF
-2	erzürnt	erzürnen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:LK
-3	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:MF
-4	Freundin	Freundin	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:MF
-5	es	es	_	PRON-PPER	Morph:asn3|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:UNK
-					
+
 1	Erzürnt	erzürnen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:LK
 2	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:MF
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:MF
 4	Freundin	Freundin	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:MF
 5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:UNK
-					
-1	Erzürnt	erzürnen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:LK
-2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:MF
-3	Freundin	Freundin	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:MF
-4	es	es	_	PRON-PPER	Morph:asn3|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:MF
-5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:UNK
-					
+
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:C
 2	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:MF
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:MF
 4	Freundin	Freundin	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:MF
 5	erzürnt	erzürnen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:C
-2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:MF
-3	Freundin	Freundin	_	NOUN-NN	Morph:nsf|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:MF
-4	es	es	_	PRON-PPER	Morph:asn3|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:MF
-5	erzürnt	erzürnen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:VC
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:UNK
-					
+
 1	Es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:VF
 2	fasziniert	faszinieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:LK
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:MF
 4	Passantin	Passantin	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:UNK
-					
-1	Eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:VF
-2	Passantin	Passantin	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:VF
-3	fasziniert	faszinieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:LK
-4	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:UNK
-					
+
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:VF
 2	fasziniert	faszinieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:LK
 3	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:MF
 4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:MF
 5	Passantin	Passantin	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:VF
-2	fasziniert	faszinieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:LK
-3	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:MF
-4	Passantin	Passantin	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:MF
-5	es	es	_	PRON-PPER	Morph:asn3|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:UNK
-					
+
 1	Fasziniert	faszinieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:LK
 2	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:MF
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:MF
 4	Passantin	Passantin	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:MF
 5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:UNK
-					
-1	Fasziniert	faszinieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:LK
-2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:MF
-3	Passantin	Passantin	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:MF
-4	es	es	_	PRON-PPER	Morph:asn3|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:MF
-5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:UNK
-					
+
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:C
 2	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:MF
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:MF
 4	Passantin	Passantin	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:MF
 5	fasziniert	faszinieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:C
-2	eine	eine	_	DET-ART	Morph:asf|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:MF
-3	Passantin	Passantin	_	NOUN-NN	Morph:asf|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:MF
-4	es	es	_	PRON-PPER	Morph:asn3|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:MF
-5	fasziniert	faszinieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:VC
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:UNK
-					
+
 1	Es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:VF
 2	berührt	berühren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:LK
 3	ein	ein	_	DET-ART	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:MF
 4	Kind	Kind	_	NOUN-NN	Morph:nsn|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:UNK
-					
-1	Ein	ein	_	DET-ART	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:VF
-2	Kind	Kind	_	NOUN-NN	Morph:asn|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:VF
-3	berührt	berühren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:LK
-4	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:UNK
-					
+
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:VF
 2	berührt	berühren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:LK
 3	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:MF
 4	ein	ein	_	DET-ART	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:MF
 5	Kind	Kind	_	NOUN-NN	Morph:asn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:VF
-2	berührt	berühren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:LK
-3	ein	ein	_	DET-ART	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:MF
-4	Kind	Kind	_	NOUN-NN	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:MF
-5	es	es	_	PRON-PPER	Morph:asn3|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:UNK
-					
+
 1	Berührt	berühren	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:LK
 2	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:MF
 3	ein	ein	_	DET-ART	Morph:asn|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:MF
 4	Kind	Kind	_	NOUN-NN	Morph:asn|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:MF
 5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:UNK
-					
-1	Berührt	berühren	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:LK
-2	ein	ein	_	DET-ART	Morph:nsn|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:MF
-3	Kind	Kind	_	NOUN-NN	Morph:nsn|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:MF
-4	es	es	_	PRON-PPER	Morph:asn3|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:MF
-5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:UNK
-					
+
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:C
 2	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:MF
 3	ein	ein	_	DET-ART	Morph:asn|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:MF
 4	Kind	Kind	_	NOUN-NN	Morph:asn|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:MF
 5	berührt	berühren	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:C
-2	ein	ein	_	DET-ART	Morph:nsn|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:MF
-3	Kind	Kind	_	NOUN-NN	Morph:nsn|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:MF
-4	es	es	_	PRON-PPER	Morph:asn3|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:MF
-5	berührt	berühren	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:VC
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:UNK
-					
+
 1	Es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:VF
 2	ängstigt	ängstigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:LK
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:MF
 4	Leserin	Leserin	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:UNK
-					
-1	Eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:VF
-2	Leserin	Leserin	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:VF
-3	ängstigt	ängstigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:LK
-4	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:UNK
-					
+
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:VF
 2	ängstigt	ängstigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:LK
 3	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:MF
 4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:MF
 5	Leserin	Leserin	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:VF
-2	ängstigt	ängstigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:LK
-3	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:MF
-4	Leserin	Leserin	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:MF
-5	es	es	_	PRON-PPER	Morph:asn3|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:UNK
-					
+
 1	Ängstigt	ängstigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:LK
 2	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:MF
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:MF
 4	Leserin	Leserin	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:MF
 5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:UNK
-					
-1	Ängstigt	ängstigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:LK
-2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:MF
-3	Leserin	Leserin	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:MF
-4	es	es	_	PRON-PPER	Morph:asn3|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:MF
-5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:UNK
-					
+
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:C
 2	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:MF
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:MF
 4	Leserin	Leserin	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:MF
 5	ängstigt	ängstigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:C
-2	eine	eine	_	DET-ART	Morph:asf|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:MF
-3	Leserin	Leserin	_	NOUN-NN	Morph:asf|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:MF
-4	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:MF
-5	ängstigt	ängstigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:VC
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:UNK
-					
+
 1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:VF
 2	erstaunen	erstaunen	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:LK
 3	Herren	Herr	_	NOUN-NN	Morph:apm|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:MF
@@ -32930,53 +32774,27 @@
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:MF
 4	Mama	Mama	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:UNK
-					
-1	Eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:VF
-2	Mama	Mama	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:VF
-3	erfreut	erfreuen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:LK
-4	es	es	_	PRON-PPER	Morph:asn3|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:UNK
-					
+
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:VF
 2	erfreut	erfreuen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:LK
 3	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:MF
 4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:MF
 5	Mama	Mama	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:VF
-2	erfreut	erfreuen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:LK
-3	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:MF
-4	Mama	Mama	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:MF
-5	es	es	_	PRON-PPER	Morph:asn3|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:UNK
-					
+
 1	Erfreut	erfreuen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:LK
 2	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:MF
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:MF
 4	Mama	Mama	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:MF
 5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:UNK
-					
-1	Erfreut	erfreuen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:LK
-2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:MF
-3	Mama	Mama	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:MF
-4	es	es	_	PRON-PPER	Morph:asn3|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:MF
-5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:UNK
-					
+
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:C
 2	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:MF
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:MF
 4	Mama	Mama	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:MF
 5	erfreut	erfreuen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:C
-2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:MF
-3	Mama	Mama	_	NOUN-NN	Morph:nsf|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:MF
-4	es	es	_	PRON-PPER	Morph:asn3|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:MF
-5	erfreut	erfreuen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:VC
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:UNK
-					
+
 1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:VF
 2	frustrieren	frustrieren	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:LK
 3	Schriftsteller	Schriftsteller	_	NOUN-NN	Morph:apm|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:MF
@@ -33004,105 +32822,53 @@
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:MF
 4	Politikerin	Politikerin	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:UNK
-					
-1	Eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:VF
-2	Politikerin	Politikerin	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:VF
-3	erbost	erbosen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:LK
-4	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:UNK
-					
+
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:VF
 2	erbost	erbosen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:LK
 3	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:MF
 4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:MF
 5	Politikerin	Politikerin	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:VF
-2	erbost	erbosen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:LK
-3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:MF
-4	Politikerin	Politikerin	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:MF
-5	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:UNK
-					
+
 1	Erbost	erbosen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:LK
 2	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:MF
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:MF
 4	Politikerin	Politikerin	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:MF
 5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:UNK
-					
-1	Erbost	erbosen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:LK
-2	eine	eine	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:MF
-3	Politikerin	Politikerin	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:MF
-4	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:MF
-5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:UNK
-					
+
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:C
 2	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:MF
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:MF
 4	Politikerin	Politikerin	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:MF
 5	erbost	erbosen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:C
-2	eine	eine	_	DET-ART	Morph:asf|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:MF
-3	Politikerin	Politikerin	_	NOUN-NN	Morph:asf|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:MF
-4	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:MF
-5	erbost	erbosen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:VC
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:UNK
-					
+
 1	Es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:VF
 2	beschämt	beschämen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:LK
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:MF
 4	Abgeordnete	Abgeordnete	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:UNK
-					
-1	Eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:VF
-2	Abgeordnete	Abgeordnete	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:VF
-3	beschämt	beschämen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:LK
-4	es	es	_	PRON-PPER	Morph:asn3|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:UNK
-					
+
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:VF
 2	beschämt	beschämen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:LK
 3	es	es	_	PRON-PPER	Morph:asn3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:MF
 4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:MF
 5	Abgeordnete	Abgeordnete	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:VF
-2	beschämt	beschämen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:LK
-3	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:MF
-4	Abgeordnete	Abgeordnete	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:MF
-5	es	es	_	PRON-PPER	Morph:asn3|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:UNK
-					
+
 1	Beschämt	beschämen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:LK
 2	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:MF
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:MF
 4	Abgeordnete	Abgeordnete	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:MF
 5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:UNK
-					
-1	Beschämt	beschämen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:LK
-2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:MF
-3	Abgeordnete	Abgeordnete	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:MF
-4	es	es	_	PRON-PPER	Morph:asn3|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:MF
-5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:UNK
-					
+
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:C
 2	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:MF
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:MF
 4	Abgeordnete	Abgeordnete	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:MF
 5	beschämt	beschämen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:C
-2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:MF
-3	Abgeordnete	Abgeordnete	_	NOUN-NN	Morph:nsf|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:MF
-4	es	es	_	PRON-PPER	Morph:asn3|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:MF
-5	beschämt	beschämen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:VC
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:UNK
-					
+
 1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:VF
 2	reuen	reuen	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:LK
 3	Kleinbauern	Kleinbauer	_	NOUN-NN	Morph:dpm|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:MF
@@ -33130,105 +32896,53 @@
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:MF
 4	Sportlerin	Sportlerin	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:UNK
-					
-1	Eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:VF
-2	Sportlerin	Sportlerin	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:VF
-3	amüsiert	amüsieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:LK
-4	es	es	_	PRON-PPER	Morph:asn3|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:UNK
-					
+
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:VF
 2	amüsiert	amüsieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:LK
 3	es	es	_	PRON-PPER	Morph:asn3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:MF
 4	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:MF
 5	Sportlerin	Sportlerin	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:VF
-2	amüsiert	amüsieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:LK
-3	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:MF
-4	Sportlerin	Sportlerin	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:MF
-5	es	es	_	PRON-PPER	Morph:asn3|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:UNK
-					
+
 1	Amüsiert	amüsieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:LK
 2	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:MF
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:MF
 4	Sportlerin	Sportlerin	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:MF
 5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:UNK
-					
-1	Amüsiert	amüsieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:LK
-2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:MF
-3	Sportlerin	Sportlerin	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:MF
-4	es	es	_	PRON-PPER	Morph:asn3|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:MF
-5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:UNK
-					
+
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:C
 2	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:MF
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:MF
 4	Sportlerin	Sportlerin	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:MF
 5	amüsiert	amüsieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:C
-2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:MF
-3	Sportlerin	Sportlerin	_	NOUN-NN	Morph:nsf|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:MF
-4	es	es	_	PRON-PPER	Morph:asn3|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:MF
-5	amüsiert	amüsieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:VC
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:UNK
-					
+
 1	Es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:VF
 2	belustigt	belustigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:LK
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:MF
 4	Handwerkerin	Handwerkerin	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:spron-psy|tf:UNK
-					
-1	Eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:VF
-2	Handwerkerin	Handwerkerin	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:VF
-3	belustigt	belustigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:LK
-4	es	es	_	PRON-PPER	Morph:asn3|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:spron-psy|tf:UNK
-					
+
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:VF
 2	belustigt	belustigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:LK
 3	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:MF
 4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:MF
 5	Handwerkerin	Handwerkerin	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:spron-psy|tf:UNK
-					
-1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:VF
-2	belustigt	belustigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:LK
-3	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:MF
-4	Handwerkerin	Handwerkerin	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:MF
-5	es	es	_	PRON-PPER	Morph:asn3|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:spron-psy|tf:UNK
-					
+
 1	Belustigt	belustigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:LK
 2	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:MF
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:MF
 4	Handwerkerin	Handwerkerin	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:MF
 5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:spron-psy|tf:UNK
-					
-1	Belustigt	belustigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:LK
-2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:MF
-3	Handwerkerin	Handwerkerin	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:MF
-4	es	es	_	PRON-PPER	Morph:asn3|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:MF
-5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[OS]|props:spron-psy|tf:UNK
-					
+
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:C
 2	es	es	_	PRON-PPER	Morph:nsn3|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:MF
 3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:MF
 4	Handwerkerin	Handwerkerin	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:MF
 5	belustigt	belustigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:spron-psy|tf:UNK
-					
-1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:C
-2	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:MF
-3	Handwerkerin	Handwerkerin	_	NOUN-NN	Morph:nsf|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:MF
-4	es	es	_	PRON-PPER	Morph:asn3|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:MF
-5	belustigt	belustigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:VC
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:spron-psy|tf:UNK
-					
+
 1	Die	der	_	DET-ART	Morph:npm|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:VF
 2	Angriffe	Angriff	_	NOUN-NN	Morph:npm|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:VF
 3	fesseln	fesseln	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[S]LK[V]MF[O]|props:opron-psy|tf:LK
