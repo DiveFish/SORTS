@@ -50348,7 +50348,7 @@
 8	Tugend	Tugend	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:MF
 9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:UNK
 
-1	Kennt	kennen	_	VERB-VVFIN	Morph:2pis|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:LK
+1	Kennt	kennen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:LK
 2	in	in	_	ADP-APPR	Morph:d|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
 3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
 4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-prov|tf:MF
