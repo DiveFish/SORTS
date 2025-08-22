@@ -3993,6 +3993,11 @@ VF[O]LK[V]MF[S]	oneg-regpol	5	2	Keine Bauausführungen übernimmt der Konzern .
 VF[ADV]LK[V]MF[SO]	oneg-regpol	4	6	Deshalb übernimmt der Konzern keine Bauausführungen .
 LK[V]MF[SO]	oneg-regpol	3	5	Übernimmt der Konzern keine Bauausführungen ?
 MF[SO]VC[V]	oneg-regpol	3	5	Weil der Konzern keine Bauausführungen übernimmt .
+VF[S]LK[V]MF[O]	oan-regpol	2	5	Der Salon ernennt einen Vertreter .
+VF[O]LK[V]MF[S]	oan-regpol	5	2	Einen Vertreter ernennt der Salon .
+VF[ADV]LK[V]MF[SO]	oan-regpol	4	6	Deshalb ernennt der Salon einen Vertreter .
+LK[V]MF[SO]	oan-regpol	3	5	Ernennt der Salon einen Vertreter ?
+MF[SO]VC[V]	oan-regpol	3	5	Weil der Salon einen Vertreter ernennt .
 VF[S]LK[V]MF[O]	oan-regpol	2	5	Die Kanzlei befragt einen EZB-Chef .
 VF[O]LK[V]MF[S]	oan-regpol	5	2	Einen EZB-Chef befragt die Kanzlei .
 VF[ADV]LK[V]MF[SO]	oan-regpol	4	6	Deshalb befragt die Kanzlei einen EZB-Chef .
@@ -9943,11 +9948,6 @@ VF[O]LK[V]MF[S]	pp-regpol	8	2	Eine Bauausführung übernimmt in dem Jahr der Kon
 VF[ADV]LK[V]MF[SO]	pp-regpol	7	9	Deshalb übernimmt in dem Jahr der Konzern eine Bauausführung .
 LK[V]MF[SO]	pp-regpol	6	8	Übernimmt in dem Jahr der Konzern eine Bauausführung ?
 MF[SO]VC[V]	pp-regpol	6	8	Weil in dem Jahr der Konzern eine Bauausführung übernimmt .
-VF[S]LK[V]MF[O]	pp-regpol	2	5	Der Salon ernennt einen Vertreter .
-VF[O]LK[V]MF[S]	pp-regpol	5	2	Einen Vertreter ernennt der Salon .
-VF[ADV]LK[V]MF[SO]	pp-regpol	4	6	Deshalb ernennt der Salon einen Vertreter .
-LK[V]MF[SO]	pp-regpol	3	5	Ernennt der Salon einen Vertreter ?
-MF[SO]VC[V]	pp-regpol	3	5	Weil der Salon einen Vertreter ernennt .
 VF[S]LK[V]MF[O]	pp-sname	1	7	Siemens startet in dem Jahr einen Angriff .
 VF[O]LK[V]MF[S]	pp-sname	7	2	Einen Angriff startet in dem Jahr Siemens .
 VF[ADV]LK[V]MF[SO]	pp-sname	6	8	Deshalb startet in dem Jahr Siemens einen Angriff .

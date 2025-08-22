@@ -28750,6 +28750,43 @@
 6	übernimmt	_	_	_	order=MF[SO]VC[V]|props=oneg-regpol	0	verb	_	_
 7	.	_	_	_	order=MF[SO]VC[V]|props=oneg-regpol	_	_	_	_
 
+1	Der	_	_	_	order=VF[S]LK[V]MF[O]|props=oan-regpol	_	_	_	_
+2	Salon	_	_	_	order=VF[S]LK[V]MF[O]|props=oan-regpol	3	nsubj	_	_
+3	ernennt	_	_	_	order=VF[S]LK[V]MF[O]|props=oan-regpol	0	verb	_	_
+4	einen	_	_	_	order=VF[S]LK[V]MF[O]|props=oan-regpol	_	_	_	_
+5	Vertreter	_	_	_	order=VF[S]LK[V]MF[O]|props=oan-regpol	3	obj	_	_
+6	.	_	_	_	order=VF[S]LK[V]MF[O]|props=oan-regpol	_	_	_	_
+
+1	Einen	_	_	_	order=VF[O]LK[V]MF[S]|props=oan-regpol	_	_	_	_
+2	Vertreter	_	_	_	order=VF[O]LK[V]MF[S]|props=oan-regpol	3	obj	_	_
+3	ernennt	_	_	_	order=VF[O]LK[V]MF[S]|props=oan-regpol	0	verb	_	_
+4	der	_	_	_	order=VF[O]LK[V]MF[S]|props=oan-regpol	_	_	_	_
+5	Salon	_	_	_	order=VF[O]LK[V]MF[S]|props=oan-regpol	3	nsubj	_	_
+6	.	_	_	_	order=VF[O]LK[V]MF[S]|props=oan-regpol	_	_	_	_
+
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oan-regpol	_	_	_	_
+2	ernennt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oan-regpol	0	verb	_	_
+3	der	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oan-regpol	_	_	_	_
+4	Salon	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oan-regpol	2	nsubj	_	_
+5	einen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oan-regpol	_	_	_	_
+6	Vertreter	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oan-regpol	2	obj	_	_
+7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=oan-regpol	_	_	_	_
+
+1	Ernennt	_	_	_	order=LK[V]MF[SO]|props=oan-regpol	0	verb	_	_
+2	der	_	_	_	order=LK[V]MF[SO]|props=oan-regpol	_	_	_	_
+3	Salon	_	_	_	order=LK[V]MF[SO]|props=oan-regpol	1	nsubj	_	_
+4	einen	_	_	_	order=LK[V]MF[SO]|props=oan-regpol	_	_	_	_
+5	Vertreter	_	_	_	order=LK[V]MF[SO]|props=oan-regpol	1	obj	_	_
+6	?	_	_	_	order=LK[V]MF[SO]|props=oan-regpol	_	_	_	_
+
+1	Weil	_	_	_	order=MF[SO]VC[V]|props=oan-regpol	_	_	_	_
+2	der	_	_	_	order=MF[SO]VC[V]|props=oan-regpol	_	_	_	_
+3	Salon	_	_	_	order=MF[SO]VC[V]|props=oan-regpol	6	nsubj	_	_
+4	einen	_	_	_	order=MF[SO]VC[V]|props=oan-regpol	_	_	_	_
+5	Vertreter	_	_	_	order=MF[SO]VC[V]|props=oan-regpol	6	obj	_	_
+6	ernennt	_	_	_	order=MF[SO]VC[V]|props=oan-regpol	0	verb	_	_
+7	.	_	_	_	order=MF[SO]VC[V]|props=oan-regpol	_	_	_	_
+
 1	Die	_	_	_	order=VF[S]LK[V]MF[O]|props=oan-regpol	_	_	_	_
 2	Kanzlei	_	_	_	order=VF[S]LK[V]MF[O]|props=oan-regpol	3	nsubj	_	_
 3	befragt	_	_	_	order=VF[S]LK[V]MF[O]|props=oan-regpol	0	verb	_	_
@@ -73169,43 +73206,6 @@
 8	Bauausführung	_	_	_	order=MF[SO]VC[V]|props=pp-regpol	9	obj	_	_
 9	übernimmt	_	_	_	order=MF[SO]VC[V]|props=pp-regpol	0	verb	_	_
 10	.	_	_	_	order=MF[SO]VC[V]|props=pp-regpol	_	_	_	_
-
-1	Der	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-regpol	_	_	_	_
-2	Salon	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-regpol	3	nsubj	_	_
-3	ernennt	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-regpol	0	verb	_	_
-4	einen	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-regpol	_	_	_	_
-5	Vertreter	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-regpol	3	obj	_	_
-6	.	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-regpol	_	_	_	_
-
-1	Einen	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-regpol	_	_	_	_
-2	Vertreter	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-regpol	3	obj	_	_
-3	ernennt	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-regpol	0	verb	_	_
-4	der	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-regpol	_	_	_	_
-5	Salon	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-regpol	3	nsubj	_	_
-6	.	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-regpol	_	_	_	_
-
-1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-regpol	_	_	_	_
-2	ernennt	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-regpol	0	verb	_	_
-3	der	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-regpol	_	_	_	_
-4	Salon	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-regpol	2	nsubj	_	_
-5	einen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-regpol	_	_	_	_
-6	Vertreter	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-regpol	2	obj	_	_
-7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-regpol	_	_	_	_
-
-1	Ernennt	_	_	_	order=LK[V]MF[SO]|props=pp-regpol	0	verb	_	_
-2	der	_	_	_	order=LK[V]MF[SO]|props=pp-regpol	_	_	_	_
-3	Salon	_	_	_	order=LK[V]MF[SO]|props=pp-regpol	1	nsubj	_	_
-4	einen	_	_	_	order=LK[V]MF[SO]|props=pp-regpol	_	_	_	_
-5	Vertreter	_	_	_	order=LK[V]MF[SO]|props=pp-regpol	1	obj	_	_
-6	?	_	_	_	order=LK[V]MF[SO]|props=pp-regpol	_	_	_	_
-
-1	Weil	_	_	_	order=MF[SO]VC[V]|props=pp-regpol	_	_	_	_
-2	der	_	_	_	order=MF[SO]VC[V]|props=pp-regpol	_	_	_	_
-3	Salon	_	_	_	order=MF[SO]VC[V]|props=pp-regpol	6	nsubj	_	_
-4	einen	_	_	_	order=MF[SO]VC[V]|props=pp-regpol	_	_	_	_
-5	Vertreter	_	_	_	order=MF[SO]VC[V]|props=pp-regpol	6	obj	_	_
-6	ernennt	_	_	_	order=MF[SO]VC[V]|props=pp-regpol	0	verb	_	_
-7	.	_	_	_	order=MF[SO]VC[V]|props=pp-regpol	_	_	_	_
 
 1	Siemens	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-sname	2	nsubj	_	_
 2	startet	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-sname	0	verb	_	_
