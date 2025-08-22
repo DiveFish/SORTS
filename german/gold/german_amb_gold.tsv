@@ -764,366 +764,6 @@ VF[S]LK[V]MF[O]	opron-oneg	2	4	Die Handwerkerin übernimmt keine .
 VF[ADV]LK[V]MF[SO]	opron-oneg	4	5	Deshalb übernimmt die Handwerkerin keine .
 LK[V]MF[SO]	opron-oneg	3	4	Übernimmt die Handwerkerin keine ?
 MF[SO]VC[V]	opron-oneg	3	4	Weil die Handwerkerin keine übernimmt .
-VF[S]LK[V]MF[O]	base-pp	2	7	Die Generäle starten in dem Jahr Angriffe .
-VF[O]LK[V]MF[S]	base-pp	7	1	Angriffe starten in dem Jahr die Generäle .
-VF[ADV]LK[V]MF[SO]	base-pp	7	8	Deshalb starten in dem Jahr die Generäle Angriffe .
-LK[V]MF[SO]	base-pp	6	7	Starten in dem Jahr die Generäle Angriffe ?
-MF[SO]VC[V]	base-pp	6	7	Weil in dem Jahr die Generäle Angriffe starten .
-VF[S]LK[V]MF[O]	base-pp	2	8	Die Partnerin lebt in dem Jahr ein Doppelleben .
-VF[O]LK[V]MF[S]	base-pp	8	2	Ein Doppelleben lebt in dem Jahr die Partnerin .
-VF[ADV]LK[V]MF[SO]	base-pp	7	9	Deshalb lebt in dem Jahr die Partnerin ein Doppelleben .
-LK[V]MF[SO]	base-pp	6	8	Lebt in dem Jahr die Partnerin ein Doppelleben ?
-MF[SO]VC[V]	base-pp	6	8	Weil in dem Jahr die Partnerin ein Doppelleben lebt .
-VF[S]LK[V]MF[O]	base-pp	2	8	Die Journalistin übertextet in dem Jahr eine Aufnahme .
-VF[O]LK[V]MF[S]	base-pp	8	2	Eine Aufnahme übertextet in dem Jahr die Journalistin .
-VF[ADV]LK[V]MF[SO]	base-pp	7	9	Deshalb übertextet in dem Jahr die Journalistin eine Aufnahme .
-LK[V]MF[SO]	base-pp	6	8	Übertextet in dem Jahr die Journalistin eine Aufnahme ?
-MF[SO]VC[V]	base-pp	6	8	Weil in dem Jahr die Journalistin eine Aufnahme übertextet .
-VF[S]LK[V]MF[O]	base-pp	2	8	Die Freundin spielt in dem Jahr eine Traumhochzeit .
-VF[O]LK[V]MF[S]	base-pp	8	2	Eine Traumhochzeit spielt in dem Jahr die Freundin .
-VF[ADV]LK[V]MF[SO]	base-pp	7	9	Deshalb spielt in dem Jahr die Freundin eine Traumhochzeit .
-LK[V]MF[SO]	base-pp	6	8	Spielt in dem Jahr die Freundin eine Traumhochzeit ?
-MF[SO]VC[V]	base-pp	6	8	Weil in dem Jahr die Freundin eine Traumhochzeit spielt .
-VF[S]LK[V]MF[O]	base-pp	2	8	Die Passantin bewirft in dem Jahr ein Kunstwerk .
-VF[O]LK[V]MF[S]	base-pp	8	2	Ein Kunstwerk bewirft in dem Jahr die Passantin .
-VF[ADV]LK[V]MF[SO]	base-pp	7	9	Deshalb bewirft in dem Jahr die Passantin ein Kunstwerk .
-LK[V]MF[SO]	base-pp	6	8	Bewirft in dem Jahr die Passantin ein Kunstwerk ?
-MF[SO]VC[V]	base-pp	6	8	Weil in dem Jahr die Passantin ein Kunstwerk bewirft .
-VF[S]LK[V]MF[O]	base-pp	2	8	Das Kind findet in dem Jahr eine Lösung .
-VF[O]LK[V]MF[S]	base-pp	8	2	Eine Lösung findet in dem Jahr das Kind .
-VF[ADV]LK[V]MF[SO]	base-pp	7	9	Deshalb findet in dem Jahr das Kind eine Lösung .
-LK[V]MF[SO]	base-pp	6	8	Findet in dem Jahr das Kind eine Lösung ?
-MF[SO]VC[V]	base-pp	6	8	Weil in dem Jahr das Kind eine Lösung findet .
-VF[S]LK[V]MF[O]	base-pp	2	8	Die Leserin abonniert in dem Jahr eine Zeitschrift .
-VF[O]LK[V]MF[S]	base-pp	8	2	Eine Zeitschrift abonniert in dem Jahr die Leserin .
-VF[ADV]LK[V]MF[SO]	base-pp	7	9	Deshalb abonniert in dem Jahr die Leserin eine Zeitschrift .
-LK[V]MF[SO]	base-pp	6	8	Abonniert in dem Jahr die Leserin eine Zeitschrift ?
-MF[SO]VC[V]	base-pp	6	8	Weil in dem Jahr die Leserin eine Zeitschrift abonniert .
-VF[S]LK[V]MF[O]	base-pp	2	7	Die Herren rasieren in dem Jahr Bärte .
-VF[O]LK[V]MF[S]	base-pp	7	1	Bärte rasieren in dem Jahr die Herren .
-VF[ADV]LK[V]MF[SO]	base-pp	7	8	Deshalb rasieren in dem Jahr die Herren Bärte .
-LK[V]MF[SO]	base-pp	6	7	Rasieren in dem Jahr die Herren Bärte ?
-MF[SO]VC[V]	base-pp	6	7	Weil in dem Jahr die Herren Bärte rasieren .
-VF[S]LK[V]MF[O]	base-pp	2	7	Die Mamas trinken in dem Jahr Kaffees .
-VF[O]LK[V]MF[S]	base-pp	7	1	Kaffees trinken in dem Jahr die Mamas .
-VF[ADV]LK[V]MF[SO]	base-pp	7	8	Deshalb trinken in dem Jahr die Mamas Kaffees .
-LK[V]MF[SO]	base-pp	6	7	Trinken in dem Jahr die Mamas Kaffees ?
-MF[SO]VC[V]	base-pp	6	7	Weil in dem Jahr die Mamas Kaffees trinken .
-VF[S]LK[V]MF[O]	base-pp	2	7	Die Schriftsteller schreiben in dem Jahr Romane .
-VF[O]LK[V]MF[S]	base-pp	7	1	Romane schreiben in dem Jahr die Schriftsteller .
-VF[ADV]LK[V]MF[SO]	base-pp	7	8	Deshalb schreiben in dem Jahr die Schriftsteller Romane .
-LK[V]MF[SO]	base-pp	6	7	Schreiben in dem Jahr die Schriftsteller Romane ?
-MF[SO]VC[V]	base-pp	6	7	Weil in dem Jahr die Schriftsteller Romane schreiben .
-VF[S]LK[V]MF[O]	base-pp	2	8	Die Politikerin beendet in dem Jahr eine Rede .
-VF[O]LK[V]MF[S]	base-pp	8	2	Eine Rede beendet in dem Jahr die Politikerin .
-VF[ADV]LK[V]MF[SO]	base-pp	7	9	Deshalb beendet in dem Jahr die Politikerin eine Rede .
-LK[V]MF[SO]	base-pp	6	8	Beendet in dem Jahr die Politikerin eine Rede ?
-MF[SO]VC[V]	base-pp	6	8	Weil in dem Jahr die Politikerin eine Rede beendet .
-VF[S]LK[V]MF[O]	base-pp	2	8	Die Abgeordnete bekommt in dem Jahr ein Grundgehalt .
-VF[O]LK[V]MF[S]	base-pp	8	2	Ein Grundgehalt bekommt in dem Jahr die Abgeordnete .
-VF[ADV]LK[V]MF[SO]	base-pp	7	9	Deshalb bekommt in dem Jahr die Abgeordnete ein Grundgehalt .
-LK[V]MF[SO]	base-pp	6	8	Bekommt in dem Jahr die Abgeordnete ein Grundgehalt ?
-MF[SO]VC[V]	base-pp	6	8	Weil in dem Jahr die Abgeordnete ein Grundgehalt bekommt .
-VF[S]LK[V]MF[O]	base-pp	2	7	Die Kleinbauern ziehen in dem Jahr Bauzäune .
-VF[O]LK[V]MF[S]	base-pp	7	1	Bauzäune ziehen in dem Jahr die Kleinbauern .
-VF[ADV]LK[V]MF[SO]	base-pp	7	8	Deshalb ziehen in dem Jahr die Kleinbauern Bauzäune .
-LK[V]MF[SO]	base-pp	6	7	Ziehen in dem Jahr die Kleinbauern Bauzäune ?
-MF[SO]VC[V]	base-pp	6	7	Weil in dem Jahr die Kleinbauern Bauzäune ziehen .
-VF[S]LK[V]MF[O]	base-pp	2	8	Die Sportlerin gewinnt in dem Jahr eine Tour .
-VF[O]LK[V]MF[S]	base-pp	8	2	Eine Tour gewinnt in dem Jahr die Sportlerin .
-VF[ADV]LK[V]MF[SO]	base-pp	7	9	Deshalb gewinnt in dem Jahr die Sportlerin eine Tour .
-LK[V]MF[SO]	base-pp	6	8	Gewinnt in dem Jahr die Sportlerin eine Tour ?
-MF[SO]VC[V]	base-pp	6	8	Weil in dem Jahr die Sportlerin eine Tour gewinnt .
-VF[S]LK[V]MF[O]	base-pp	2	8	Die Handwerkerin übernimmt in dem Jahr eine Bauausführung .
-VF[O]LK[V]MF[S]	base-pp	8	2	Eine Bauausführung übernimmt in dem Jahr die Handwerkerin .
-VF[ADV]LK[V]MF[SO]	base-pp	7	9	Deshalb übernimmt in dem Jahr die Handwerkerin eine Bauausführung .
-LK[V]MF[SO]	base-pp	6	8	Übernimmt in dem Jahr die Handwerkerin eine Bauausführung ?
-MF[SO]VC[V]	base-pp	6	8	Weil in dem Jahr die Handwerkerin eine Bauausführung übernimmt .
-VF[S]LK[V]MF[O]	aux-pp	2	7	Die Generäle werden in dem Jahr Angriffe starten .
-VF[O]LK[V]MF[S]	aux-pp	7	1	Angriffe werden in dem Jahr die Generäle starten .
-VF[ADV]LK[V]MF[SO]	aux-pp	7	8	Deshalb werden in dem Jahr die Generäle Angriffe starten .
-LK[V]MF[SO]	aux-pp	6	7	Werden in dem Jahr die Generäle Angriffe starten ?
-MF[SO]VC[V]	aux-pp	6	7	Weil in dem Jahr die Generäle Angriffe starten werden .
-VF[S]LK[V]MF[O]	aux-pp	2	8	Die Partnerin wird in dem Jahr ein Doppelleben leben .
-VF[O]LK[V]MF[S]	aux-pp	8	2	Ein Doppelleben wird in dem Jahr die Partnerin leben .
-VF[ADV]LK[V]MF[SO]	aux-pp	7	9	Deshalb wird in dem Jahr die Partnerin ein Doppelleben leben .
-LK[V]MF[SO]	aux-pp	6	8	Wird in dem Jahr die Partnerin ein Doppelleben leben ?
-MF[SO]VC[V]	aux-pp	6	8	Weil in dem Jahr die Partnerin ein Doppelleben leben wird .
-VF[S]LK[V]MF[O]	aux-pp	2	8	Die Journalistin wird in dem Jahr eine Aufnahme übertexten .
-VF[O]LK[V]MF[S]	aux-pp	8	2	Eine Aufnahme wird in dem Jahr die Journalistin übertexten .
-VF[ADV]LK[V]MF[SO]	aux-pp	7	9	Deshalb wird in dem Jahr die Journalistin eine Aufnahme übertexten .
-LK[V]MF[SO]	aux-pp	6	8	Wird in dem Jahr die Journalistin eine Aufnahme übertexten ?
-MF[SO]VC[V]	aux-pp	6	8	Weil in dem Jahr die Journalistin eine Aufnahme übertexten wird .
-VF[S]LK[V]MF[O]	aux-pp	2	8	Die Freundin wird in dem Jahr eine Traumhochzeit spielen .
-VF[O]LK[V]MF[S]	aux-pp	8	2	Eine Traumhochzeit wird in dem Jahr die Freundin spielen .
-VF[ADV]LK[V]MF[SO]	aux-pp	7	9	Deshalb wird in dem Jahr die Freundin eine Traumhochzeit spielen .
-LK[V]MF[SO]	aux-pp	6	8	Wird in dem Jahr die Freundin eine Traumhochzeit spielen ?
-MF[SO]VC[V]	aux-pp	6	8	Weil in dem Jahr die Freundin eine Traumhochzeit spielen wird .
-VF[S]LK[V]MF[O]	aux-pp	2	8	Die Passantin wird in dem Jahr ein Kunstwerk bewerfen .
-VF[O]LK[V]MF[S]	aux-pp	8	2	Ein Kunstwerk wird in dem Jahr die Passantin bewerfen .
-VF[ADV]LK[V]MF[SO]	aux-pp	7	9	Deshalb wird in dem Jahr die Passantin ein Kunstwerk bewerfen .
-LK[V]MF[SO]	aux-pp	6	8	Wird in dem Jahr die Passantin ein Kunstwerk bewerfen ?
-MF[SO]VC[V]	aux-pp	6	8	Weil in dem Jahr die Passantin ein Kunstwerk bewerfen wird .
-VF[S]LK[V]MF[O]	aux-pp	2	8	Das Kind wird in dem Jahr eine Lösung finden .
-VF[O]LK[V]MF[S]	aux-pp	8	2	Eine Lösung wird in dem Jahr das Kind finden .
-VF[ADV]LK[V]MF[SO]	aux-pp	7	9	Deshalb wird in dem Jahr das Kind eine Lösung finden .
-LK[V]MF[SO]	aux-pp	6	8	Wird in dem Jahr das Kind eine Lösung finden ?
-MF[SO]VC[V]	aux-pp	6	8	Weil in dem Jahr das Kind eine Lösung finden wird .
-VF[S]LK[V]MF[O]	aux-pp	2	8	Die Leserin wird in dem Jahr eine Zeitschrift abonnieren .
-VF[O]LK[V]MF[S]	aux-pp	8	2	Eine Zeitschrift wird in dem Jahr die Leserin abonnieren .
-VF[ADV]LK[V]MF[SO]	aux-pp	7	9	Deshalb wird in dem Jahr die Leserin eine Zeitschrift abonnieren .
-LK[V]MF[SO]	aux-pp	6	8	Wird in dem Jahr die Leserin eine Zeitschrift abonnieren ?
-MF[SO]VC[V]	aux-pp	6	8	Weil in dem Jahr die Leserin eine Zeitschrift abonnieren wird .
-VF[S]LK[V]MF[O]	aux-pp	2	7	Die Herren werden in dem Jahr Bärte rasieren .
-VF[O]LK[V]MF[S]	aux-pp	7	1	Bärte werden in dem Jahr die Herren rasieren .
-VF[ADV]LK[V]MF[SO]	aux-pp	7	8	Deshalb werden in dem Jahr die Herren Bärte rasieren .
-LK[V]MF[SO]	aux-pp	6	7	Werden in dem Jahr die Herren Bärte rasieren ?
-MF[SO]VC[V]	aux-pp	6	7	Weil in dem Jahr die Herren Bärte rasieren werden .
-VF[S]LK[V]MF[O]	aux-pp	2	7	Die Mamas werden in dem Jahr Kaffees trinken .
-VF[O]LK[V]MF[S]	aux-pp	7	1	Kaffees werden in dem Jahr die Mamas trinken .
-VF[ADV]LK[V]MF[SO]	aux-pp	7	8	Deshalb werden in dem Jahr die Mamas Kaffees trinken .
-LK[V]MF[SO]	aux-pp	6	7	Werden in dem Jahr die Mamas Kaffees trinken ?
-MF[SO]VC[V]	aux-pp	6	7	Weil in dem Jahr die Mamas Kaffees trinken werden .
-VF[S]LK[V]MF[O]	aux-pp	2	7	Die Schriftsteller werden in dem Jahr Romane schreiben .
-VF[O]LK[V]MF[S]	aux-pp	7	1	Romane werden in dem Jahr die Schriftsteller schreiben .
-VF[ADV]LK[V]MF[SO]	aux-pp	7	8	Deshalb werden in dem Jahr die Schriftsteller Romane schreiben .
-LK[V]MF[SO]	aux-pp	6	7	Werden in dem Jahr die Schriftsteller Romane schreiben ?
-MF[SO]VC[V]	aux-pp	6	7	Weil in dem Jahr die Schriftsteller Romane schreiben werden .
-VF[S]LK[V]MF[O]	aux-pp	2	8	Die Politikerin wird in dem Jahr eine Rede beenden .
-VF[O]LK[V]MF[S]	aux-pp	8	2	Eine Rede wird in dem Jahr die Politikerin beenden .
-VF[ADV]LK[V]MF[SO]	aux-pp	7	9	Deshalb wird in dem Jahr die Politikerin eine Rede beenden .
-LK[V]MF[SO]	aux-pp	6	8	Wird in dem Jahr die Politikerin eine Rede beenden ?
-MF[SO]VC[V]	aux-pp	6	8	Weil in dem Jahr die Politikerin eine Rede beenden wird .
-VF[S]LK[V]MF[O]	aux-pp	2	8	Die Abgeordnete wird in dem Jahr ein Grundgehalt bekommen .
-VF[O]LK[V]MF[S]	aux-pp	8	2	Ein Grundgehalt wird in dem Jahr die Abgeordnete bekommen .
-VF[ADV]LK[V]MF[SO]	aux-pp	7	9	Deshalb wird in dem Jahr die Abgeordnete ein Grundgehalt bekommen .
-LK[V]MF[SO]	aux-pp	6	8	Wird in dem Jahr die Abgeordnete ein Grundgehalt bekommen ?
-MF[SO]VC[V]	aux-pp	6	8	Weil in dem Jahr die Abgeordnete ein Grundgehalt bekommen wird .
-VF[S]LK[V]MF[O]	aux-pp	2	7	Die Kleinbauern werden in dem Jahr Bauzäune ziehen .
-VF[O]LK[V]MF[S]	aux-pp	7	1	Bauzäune werden in dem Jahr die Kleinbauern ziehen .
-VF[ADV]LK[V]MF[SO]	aux-pp	7	8	Deshalb werden in dem Jahr die Kleinbauern Bauzäune ziehen .
-LK[V]MF[SO]	aux-pp	6	7	Werden in dem Jahr die Kleinbauern Bauzäune ziehen ?
-MF[SO]VC[V]	aux-pp	6	7	Weil in dem Jahr die Kleinbauern Bauzäune ziehen werden .
-VF[S]LK[V]MF[O]	aux-pp	2	8	Die Sportlerin wird in dem Jahr eine Tour gewinnen .
-VF[O]LK[V]MF[S]	aux-pp	8	2	Eine Tour wird in dem Jahr die Sportlerin gewinnen .
-VF[ADV]LK[V]MF[SO]	aux-pp	7	9	Deshalb wird in dem Jahr die Sportlerin eine Tour gewinnen .
-LK[V]MF[SO]	aux-pp	6	8	Wird in dem Jahr die Sportlerin eine Tour gewinnen ?
-MF[SO]VC[V]	aux-pp	6	8	Weil in dem Jahr die Sportlerin eine Tour gewinnen wird .
-VF[S]LK[V]MF[O]	aux-pp	2	8	Die Handwerkerin wird in dem Jahr eine Bauausführung übernehmen .
-VF[O]LK[V]MF[S]	aux-pp	8	2	Eine Bauausführung wird in dem Jahr die Handwerkerin übernehmen .
-VF[ADV]LK[V]MF[SO]	aux-pp	7	9	Deshalb wird in dem Jahr die Handwerkerin eine Bauausführung übernehmen .
-LK[V]MF[SO]	aux-pp	6	8	Wird in dem Jahr die Handwerkerin eine Bauausführung übernehmen ?
-MF[SO]VC[V]	aux-pp	6	8	Weil in dem Jahr die Handwerkerin eine Bauausführung übernehmen wird .
-VF[S]LK[V]MF[O]	spron-pp	1	6	Sie starten in dem Jahr Angriffe .
-VF[O]LK[V]MF[S]	spron-pp	6	1	Angriffe starten in dem Jahr sie .
-VF[ADV]LK[V]MF[SO]	spron-pp	6	7	Deshalb starten in dem Jahr sie Angriffe .
-LK[V]MF[SO]	spron-pp	5	6	Starten in dem Jahr sie Angriffe ?
-MF[SO]VC[V]	spron-pp	5	6	Weil in dem Jahr sie Angriffe starten .
-VF[S]LK[V]MF[O]	spron-pp	1	7	Sie lebt in dem Jahr ein Doppelleben .
-VF[O]LK[V]MF[S]	spron-pp	7	2	Ein Doppelleben lebt in dem Jahr sie .
-VF[ADV]LK[V]MF[SO]	spron-pp	6	8	Deshalb lebt in dem Jahr sie ein Doppelleben .
-LK[V]MF[SO]	spron-pp	5	7	Lebt in dem Jahr sie ein Doppelleben ?
-MF[SO]VC[V]	spron-pp	5	7	Weil in dem Jahr sie ein Doppelleben lebt .
-VF[S]LK[V]MF[O]	spron-pp	1	7	Sie übertextet in dem Jahr eine Aufnahme .
-VF[O]LK[V]MF[S]	spron-pp	7	2	Eine Aufnahme übertextet in dem Jahr sie .
-VF[ADV]LK[V]MF[SO]	spron-pp	6	8	Deshalb übertextet in dem Jahr sie eine Aufnahme .
-LK[V]MF[SO]	spron-pp	5	7	Übertextet in dem Jahr sie eine Aufnahme ?
-MF[SO]VC[V]	spron-pp	5	7	Weil in dem Jahr sie eine Aufnahme übertextet .
-VF[S]LK[V]MF[O]	spron-pp	1	7	Sie spielt in dem Jahr eine Traumhochzeit .
-VF[O]LK[V]MF[S]	spron-pp	7	2	Eine Traumhochzeit spielt in dem Jahr sie .
-VF[ADV]LK[V]MF[SO]	spron-pp	6	8	Deshalb spielt in dem Jahr sie eine Traumhochzeit .
-LK[V]MF[SO]	spron-pp	5	7	Spielt in dem Jahr sie eine Traumhochzeit ?
-MF[SO]VC[V]	spron-pp	5	7	Weil in dem Jahr sie eine Traumhochzeit spielt .
-VF[S]LK[V]MF[O]	spron-pp	1	7	Sie bewirft in dem Jahr ein Kunstwerk .
-VF[O]LK[V]MF[S]	spron-pp	7	2	Ein Kunstwerk bewirft in dem Jahr sie .
-VF[ADV]LK[V]MF[SO]	spron-pp	6	8	Deshalb bewirft in dem Jahr sie ein Kunstwerk .
-LK[V]MF[SO]	spron-pp	5	7	Bewirft in dem Jahr sie ein Kunstwerk ?
-MF[SO]VC[V]	spron-pp	5	7	Weil in dem Jahr sie ein Kunstwerk bewirft .
-VF[S]LK[V]MF[O]	spron-pp	1	7	Sie findet in dem Jahr eine Lösung .
-VF[O]LK[V]MF[S]	spron-pp	7	2	Eine Lösung findet in dem Jahr sie .
-VF[ADV]LK[V]MF[SO]	spron-pp	6	8	Deshalb findet in dem Jahr sie eine Lösung .
-LK[V]MF[SO]	spron-pp	5	7	Findet in dem Jahr sie eine Lösung ?
-MF[SO]VC[V]	spron-pp	5	7	Weil in dem Jahr sie eine Lösung findet .
-VF[S]LK[V]MF[O]	spron-pp	1	7	Sie abonniert in dem Jahr eine Zeitschrift .
-VF[O]LK[V]MF[S]	spron-pp	7	2	Eine Zeitschrift abonniert in dem Jahr sie .
-VF[ADV]LK[V]MF[SO]	spron-pp	6	8	Deshalb abonniert in dem Jahr sie eine Zeitschrift .
-LK[V]MF[SO]	spron-pp	5	7	Abonniert in dem Jahr sie eine Zeitschrift ?
-MF[SO]VC[V]	spron-pp	5	7	Weil in dem Jahr sie eine Zeitschrift abonniert .
-VF[S]LK[V]MF[O]	spron-pp	1	6	Sie rasieren in dem Jahr Bärte .
-VF[O]LK[V]MF[S]	spron-pp	6	1	Bärte rasieren in dem Jahr sie .
-VF[ADV]LK[V]MF[SO]	spron-pp	6	7	Deshalb rasieren in dem Jahr sie Bärte .
-LK[V]MF[SO]	spron-pp	5	6	Rasieren in dem Jahr sie Bärte ?
-MF[SO]VC[V]	spron-pp	5	6	Weil in dem Jahr sie Bärte rasieren .
-VF[S]LK[V]MF[O]	spron-pp	1	6	Sie trinken in dem Jahr Kaffees .
-VF[O]LK[V]MF[S]	spron-pp	6	1	Kaffees trinken in dem Jahr sie .
-VF[ADV]LK[V]MF[SO]	spron-pp	6	7	Deshalb trinken in dem Jahr sie Kaffees .
-LK[V]MF[SO]	spron-pp	5	6	Trinken in dem Jahr sie Kaffees ?
-MF[SO]VC[V]	spron-pp	5	6	Weil in dem Jahr sie Kaffees trinken .
-VF[S]LK[V]MF[O]	spron-pp	1	6	Sie schreiben in dem Jahr Romane .
-VF[O]LK[V]MF[S]	spron-pp	6	1	Romane schreiben in dem Jahr sie .
-VF[ADV]LK[V]MF[SO]	spron-pp	6	7	Deshalb schreiben in dem Jahr sie Romane .
-LK[V]MF[SO]	spron-pp	5	6	Schreiben in dem Jahr sie Romane ?
-MF[SO]VC[V]	spron-pp	5	6	Weil in dem Jahr sie Romane schreiben .
-VF[S]LK[V]MF[O]	spron-pp	1	7	Sie beendet in dem Jahr eine Rede .
-VF[O]LK[V]MF[S]	spron-pp	7	2	Eine Rede beendet in dem Jahr sie .
-VF[ADV]LK[V]MF[SO]	spron-pp	6	8	Deshalb beendet in dem Jahr sie eine Rede .
-LK[V]MF[SO]	spron-pp	5	7	Beendet in dem Jahr sie eine Rede ?
-MF[SO]VC[V]	spron-pp	5	7	Weil in dem Jahr sie eine Rede beendet .
-VF[S]LK[V]MF[O]	spron-pp	1	7	Sie bekommt in dem Jahr ein Grundgehalt .
-VF[O]LK[V]MF[S]	spron-pp	7	2	Ein Grundgehalt bekommt in dem Jahr sie .
-VF[ADV]LK[V]MF[SO]	spron-pp	6	8	Deshalb bekommt in dem Jahr sie ein Grundgehalt .
-LK[V]MF[SO]	spron-pp	5	7	Bekommt in dem Jahr sie ein Grundgehalt ?
-MF[SO]VC[V]	spron-pp	5	7	Weil in dem Jahr sie ein Grundgehalt bekommt .
-VF[S]LK[V]MF[O]	spron-pp	1	6	Sie ziehen in dem Jahr Bauzäune .
-VF[O]LK[V]MF[S]	spron-pp	6	1	Bauzäune ziehen in dem Jahr sie .
-VF[ADV]LK[V]MF[SO]	spron-pp	6	7	Deshalb ziehen in dem Jahr sie Bauzäune .
-LK[V]MF[SO]	spron-pp	5	6	Ziehen in dem Jahr sie Bauzäune ?
-MF[SO]VC[V]	spron-pp	5	6	Weil in dem Jahr sie Bauzäune ziehen .
-VF[S]LK[V]MF[O]	spron-pp	1	7	Sie gewinnt in dem Jahr eine Tour .
-VF[O]LK[V]MF[S]	spron-pp	7	2	Eine Tour gewinnt in dem Jahr sie .
-VF[ADV]LK[V]MF[SO]	spron-pp	6	8	Deshalb gewinnt in dem Jahr sie eine Tour .
-LK[V]MF[SO]	spron-pp	5	7	Gewinnt in dem Jahr sie eine Tour ?
-MF[SO]VC[V]	spron-pp	5	7	Weil in dem Jahr sie eine Tour gewinnt .
-VF[S]LK[V]MF[O]	spron-pp	1	7	Sie übernimmt in dem Jahr eine Bauausführung .
-VF[O]LK[V]MF[S]	spron-pp	7	2	Eine Bauausführung übernimmt in dem Jahr sie .
-VF[ADV]LK[V]MF[SO]	spron-pp	6	8	Deshalb übernimmt in dem Jahr sie eine Bauausführung .
-LK[V]MF[SO]	spron-pp	5	7	Übernimmt in dem Jahr sie eine Bauausführung ?
-MF[SO]VC[V]	spron-pp	5	7	Weil in dem Jahr sie eine Bauausführung übernimmt .
-VF[S]LK[V]MF[O]	opron-pp	2	7	Die Generäle starten in dem Jahr sie .
-VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb starten in dem Jahr die Generäle sie .
-LK[V]MF[SO]	opron-pp	6	7	Starten in dem Jahr die Generäle sie ?
-MF[SO]VC[V]	opron-pp	6	7	Weil in dem Jahr die Generäle sie starten .
-VF[S]LK[V]MF[O]	opron-pp	2	7	Die Partnerin lebt in dem Jahr sie .
-VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb lebt in dem Jahr die Partnerin sie .
-LK[V]MF[SO]	opron-pp	6	7	Lebt in dem Jahr die Partnerin sie ?
-MF[SO]VC[V]	opron-pp	6	7	Weil in dem Jahr die Partnerin sie lebt .
-VF[S]LK[V]MF[O]	opron-pp	2	7	Die Journalistin übertextet in dem Jahr sie .
-VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb übertextet in dem Jahr die Journalistin sie .
-LK[V]MF[SO]	opron-pp	6	7	Übertextet in dem Jahr die Journalistin sie ?
-MF[SO]VC[V]	opron-pp	6	7	Weil in dem Jahr die Journalistin sie übertextet .
-VF[S]LK[V]MF[O]	opron-pp	2	7	Die Freundin spielt in dem Jahr sie .
-VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb spielt in dem Jahr die Freundin sie .
-LK[V]MF[SO]	opron-pp	6	7	Spielt in dem Jahr die Freundin sie ?
-MF[SO]VC[V]	opron-pp	6	7	Weil in dem Jahr die Freundin sie spielt .
-VF[S]LK[V]MF[O]	opron-pp	2	7	Die Passanten bewerfen in dem Jahr sie .
-VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb bewerfen in dem Jahr die Passanten sie .
-LK[V]MF[SO]	opron-pp	6	7	Bewerfen in dem Jahr die Passanten sie ?
-MF[SO]VC[V]	opron-pp	6	7	Weil in dem Jahr die Passanten sie bewerfen .
-VF[S]LK[V]MF[O]	opron-pp	2	7	Die Kinder finden in dem Jahr sie .
-VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb finden in dem Jahr die Kinder sie .
-LK[V]MF[SO]	opron-pp	6	7	Finden in dem Jahr die Kinder sie ?
-MF[SO]VC[V]	opron-pp	6	7	Weil in dem Jahr die Kinder sie finden .
-VF[S]LK[V]MF[O]	opron-pp	2	7	Die Leser abonnieren in dem Jahr sie .
-VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb abonnieren in dem Jahr die Leser sie .
-LK[V]MF[SO]	opron-pp	6	7	Abonnieren in dem Jahr die Leser sie ?
-MF[SO]VC[V]	opron-pp	6	7	Weil in dem Jahr die Leser sie abonnieren .
-VF[S]LK[V]MF[O]	opron-pp	2	7	Die Herren rasieren in dem Jahr sie .
-VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb rasieren in dem Jahr die Herren sie .
-LK[V]MF[SO]	opron-pp	6	7	Rasieren in dem Jahr die Herren sie ?
-MF[SO]VC[V]	opron-pp	6	7	Weil in dem Jahr die Herren sie rasieren .
-VF[S]LK[V]MF[O]	opron-pp	2	7	Die Mama trinkt in dem Jahr sie .
-VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb trinkt in dem Jahr die Mama sie .
-LK[V]MF[SO]	opron-pp	6	7	Trinkt in dem Jahr die Mama sie ?
-MF[SO]VC[V]	opron-pp	6	7	Weil in dem Jahr die Mama sie trinkt .
-VF[S]LK[V]MF[O]	opron-pp	2	7	Die Schriftsteller schreiben in dem Jahr sie .
-VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb schreiben in dem Jahr die Schriftsteller sie .
-LK[V]MF[SO]	opron-pp	6	7	Schreiben in dem Jahr die Schriftsteller sie ?
-MF[SO]VC[V]	opron-pp	6	7	Weil in dem Jahr die Schriftsteller sie schreiben .
-VF[S]LK[V]MF[O]	opron-pp	2	7	Die Politikerin beendet in dem Jahr sie .
-VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb beendet in dem Jahr die Politikerin sie .
-LK[V]MF[SO]	opron-pp	6	7	Beendet in dem Jahr die Politikerin sie ?
-MF[SO]VC[V]	opron-pp	6	7	Weil in dem Jahr die Politikerin sie beendet .
-VF[S]LK[V]MF[O]	opron-pp	2	7	Die Abgeordnete bekommt in dem Jahr sie .
-VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb bekommt in dem Jahr die Abgeordnete sie .
-LK[V]MF[SO]	opron-pp	6	7	Bekommt in dem Jahr die Abgeordnete sie ?
-MF[SO]VC[V]	opron-pp	6	7	Weil in dem Jahr die Abgeordnete sie bekommt .
-VF[S]LK[V]MF[O]	opron-pp	2	7	Die Kleinbauern ziehen in dem Jahr sie .
-VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb ziehen in dem Jahr die Kleinbauern sie .
-LK[V]MF[SO]	opron-pp	6	7	Ziehen in dem Jahr die Kleinbauern sie ?
-MF[SO]VC[V]	opron-pp	6	7	Weil in dem Jahr die Kleinbauern sie ziehen .
-VF[S]LK[V]MF[O]	opron-pp	2	7	Die Sportlerin gewinnt in dem Jahr sie .
-VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb gewinnt in dem Jahr die Sportlerin sie .
-LK[V]MF[SO]	opron-pp	6	7	Gewinnt in dem Jahr die Sportlerin sie ?
-MF[SO]VC[V]	opron-pp	6	7	Weil in dem Jahr die Sportlerin sie gewinnt .
-VF[S]LK[V]MF[O]	opron-pp	2	7	Die Handwerker übernehmen in dem Jahr sie .
-VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb übernehmen in dem Jahr die Handwerker sie .
-LK[V]MF[SO]	opron-pp	6	7	Übernehmen in dem Jahr die Handwerker sie ?
-MF[SO]VC[V]	opron-pp	6	7	Weil in dem Jahr die Handwerker sie übernehmen .
-VF[S]LK[V]MF[O]	oneg-pp	2	8	Die Generäle starten in dem Jahr keine Angriffe .
-VF[O]LK[V]MF[S]	oneg-pp	8	2	Keine Angriffe starten in dem Jahr die Generäle .
-VF[ADV]LK[V]MF[SO]	oneg-pp	7	9	Deshalb starten in dem Jahr die Generäle keine Angriffe .
-LK[V]MF[SO]	oneg-pp	6	8	Starten in dem Jahr die Generäle keine Angriffe ?
-MF[SO]VC[V]	oneg-pp	6	8	Weil in dem Jahr die Generäle keine Angriffe starten .
-VF[S]LK[V]MF[O]	oneg-pp	2	8	Die Partnerin lebt in dem Jahr kein Doppelleben .
-VF[O]LK[V]MF[S]	oneg-pp	8	2	Kein Doppelleben lebt in dem Jahr die Partnerin .
-VF[ADV]LK[V]MF[SO]	oneg-pp	7	9	Deshalb lebt in dem Jahr die Partnerin kein Doppelleben .
-LK[V]MF[SO]	oneg-pp	6	8	Lebt in dem Jahr die Partnerin kein Doppelleben ?
-MF[SO]VC[V]	oneg-pp	6	8	Weil in dem Jahr die Partnerin kein Doppelleben lebt .
-VF[S]LK[V]MF[O]	oneg-pp	2	8	Die Journalistin übertextet in dem Jahr keine Aufnahme .
-VF[O]LK[V]MF[S]	oneg-pp	8	2	Keine Aufnahme übertextet in dem Jahr die Journalistin .
-VF[ADV]LK[V]MF[SO]	oneg-pp	7	9	Deshalb übertextet in dem Jahr die Journalistin keine Aufnahme .
-LK[V]MF[SO]	oneg-pp	6	8	Übertextet in dem Jahr die Journalistin keine Aufnahme ?
-MF[SO]VC[V]	oneg-pp	6	8	Weil in dem Jahr die Journalistin keine Aufnahme übertextet .
-VF[S]LK[V]MF[O]	oneg-pp	2	8	Die Freundin spielt in dem Jahr keine Traumhochzeit .
-VF[O]LK[V]MF[S]	oneg-pp	8	2	Keine Traumhochzeit spielt in dem Jahr die Freundin .
-VF[ADV]LK[V]MF[SO]	oneg-pp	7	9	Deshalb spielt in dem Jahr die Freundin keine Traumhochzeit .
-LK[V]MF[SO]	oneg-pp	6	8	Spielt in dem Jahr die Freundin keine Traumhochzeit ?
-MF[SO]VC[V]	oneg-pp	6	8	Weil in dem Jahr die Freundin keine Traumhochzeit spielt .
-VF[S]LK[V]MF[O]	oneg-pp	2	8	Die Passantin bewirft in dem Jahr kein Kunstwerk .
-VF[O]LK[V]MF[S]	oneg-pp	8	2	Kein Kunstwerk bewirft in dem Jahr die Passantin .
-VF[ADV]LK[V]MF[SO]	oneg-pp	7	9	Deshalb bewirft in dem Jahr die Passantin kein Kunstwerk .
-LK[V]MF[SO]	oneg-pp	6	8	Bewirft in dem Jahr die Passantin kein Kunstwerk ?
-MF[SO]VC[V]	oneg-pp	6	8	Weil in dem Jahr die Passantin kein Kunstwerk bewirft .
-VF[S]LK[V]MF[O]	oneg-pp	2	8	Das Kind findet in dem Jahr keine Lösung .
-VF[O]LK[V]MF[S]	oneg-pp	8	2	Keine Lösung findet in dem Jahr das Kind .
-VF[ADV]LK[V]MF[SO]	oneg-pp	7	9	Deshalb findet in dem Jahr das Kind keine Lösung .
-LK[V]MF[SO]	oneg-pp	6	8	Findet in dem Jahr das Kind keine Lösung ?
-MF[SO]VC[V]	oneg-pp	6	8	Weil in dem Jahr das Kind keine Lösung findet .
-VF[S]LK[V]MF[O]	oneg-pp	2	8	Die Leser abonnieren in dem Jahr keine Zeitschriften .
-VF[O]LK[V]MF[S]	oneg-pp	8	2	Keine Zeitschriften abonnieren in dem Jahr die Leser .
-VF[ADV]LK[V]MF[SO]	oneg-pp	7	9	Deshalb abonnieren in dem Jahr die Leser keine Zeitschriften .
-LK[V]MF[SO]	oneg-pp	6	8	Abonnieren in dem Jahr die Leser keine Zeitschriften ?
-MF[SO]VC[V]	oneg-pp	6	8	Weil in dem Jahr die Leser keine Zeitschriften abonnieren .
-VF[S]LK[V]MF[O]	oneg-pp	2	8	Die Herren rasieren in dem Jahr keine Bärte .
-VF[O]LK[V]MF[S]	oneg-pp	8	2	Keine Bärte rasieren in dem Jahr die Herren .
-VF[ADV]LK[V]MF[SO]	oneg-pp	7	9	Deshalb rasieren in dem Jahr die Herren keine Bärte .
-LK[V]MF[SO]	oneg-pp	6	8	Rasieren in dem Jahr die Herren keine Bärte ?
-MF[SO]VC[V]	oneg-pp	6	8	Weil in dem Jahr die Herren keine Bärte rasieren .
-VF[S]LK[V]MF[O]	oneg-pp	2	8	Die Mamas trinken in dem Jahr keine Kaffees .
-VF[O]LK[V]MF[S]	oneg-pp	8	2	Keine Kaffees trinken in dem Jahr die Mamas .
-VF[ADV]LK[V]MF[SO]	oneg-pp	7	9	Deshalb trinken in dem Jahr die Mamas keine Kaffees .
-LK[V]MF[SO]	oneg-pp	6	8	Trinken in dem Jahr die Mamas keine Kaffees ?
-MF[SO]VC[V]	oneg-pp	6	8	Weil in dem Jahr die Mamas keine Kaffees trinken .
-VF[S]LK[V]MF[O]	oneg-pp	2	8	Die Schriftsteller schreiben in dem Jahr keine Romane .
-VF[O]LK[V]MF[S]	oneg-pp	8	2	Keine Romane schreiben in dem Jahr die Schriftsteller .
-VF[ADV]LK[V]MF[SO]	oneg-pp	7	9	Deshalb schreiben in dem Jahr die Schriftsteller keine Romane .
-LK[V]MF[SO]	oneg-pp	6	8	Schreiben in dem Jahr die Schriftsteller keine Romane ?
-MF[SO]VC[V]	oneg-pp	6	8	Weil in dem Jahr die Schriftsteller keine Romane schreiben .
-VF[S]LK[V]MF[O]	oneg-pp	2	8	Die Politikerin beendet in dem Jahr keine Rede .
-VF[O]LK[V]MF[S]	oneg-pp	8	2	Keine Rede beendet in dem Jahr die Politikerin .
-VF[ADV]LK[V]MF[SO]	oneg-pp	7	9	Deshalb beendet in dem Jahr die Politikerin keine Rede .
-LK[V]MF[SO]	oneg-pp	6	8	Beendet in dem Jahr die Politikerin keine Rede ?
-MF[SO]VC[V]	oneg-pp	6	8	Weil in dem Jahr die Politikerin keine Rede beendet .
-VF[S]LK[V]MF[O]	oneg-pp	2	8	Die Abgeordnete bekommt in dem Jahr kein Grundgehalt .
-VF[O]LK[V]MF[S]	oneg-pp	8	2	Kein Grundgehalt bekommt in dem Jahr die Abgeordnete .
-VF[ADV]LK[V]MF[SO]	oneg-pp	7	9	Deshalb bekommt in dem Jahr die Abgeordnete kein Grundgehalt .
-LK[V]MF[SO]	oneg-pp	6	8	Bekommt in dem Jahr die Abgeordnete kein Grundgehalt ?
-MF[SO]VC[V]	oneg-pp	6	8	Weil in dem Jahr die Abgeordnete kein Grundgehalt bekommt .
-VF[S]LK[V]MF[O]	oneg-pp	2	8	Die Kleinbauern ziehen in dem Jahr keine Bauzäune .
-VF[O]LK[V]MF[S]	oneg-pp	8	2	Keine Bauzäune ziehen in dem Jahr die Kleinbauern .
-VF[ADV]LK[V]MF[SO]	oneg-pp	7	9	Deshalb ziehen in dem Jahr die Kleinbauern keine Bauzäune .
-LK[V]MF[SO]	oneg-pp	6	8	Ziehen in dem Jahr die Kleinbauern keine Bauzäune ?
-MF[SO]VC[V]	oneg-pp	6	8	Weil in dem Jahr die Kleinbauern keine Bauzäune ziehen .
-VF[S]LK[V]MF[O]	oneg-pp	2	8	Die Sportlerin gewinnt in dem Jahr keine Tour .
-VF[O]LK[V]MF[S]	oneg-pp	8	2	Keine Tour gewinnt in dem Jahr die Sportlerin .
-VF[ADV]LK[V]MF[SO]	oneg-pp	7	9	Deshalb gewinnt in dem Jahr die Sportlerin keine Tour .
-LK[V]MF[SO]	oneg-pp	6	8	Gewinnt in dem Jahr die Sportlerin keine Tour ?
-MF[SO]VC[V]	oneg-pp	6	8	Weil in dem Jahr die Sportlerin keine Tour gewinnt .
-VF[S]LK[V]MF[O]	oneg-pp	2	8	Die Handwerkerin übernimmt in dem Jahr keine Bauausführung .
-VF[O]LK[V]MF[S]	oneg-pp	8	2	Keine Bauausführung übernimmt in dem Jahr die Handwerkerin .
-VF[ADV]LK[V]MF[SO]	oneg-pp	7	9	Deshalb übernimmt in dem Jahr die Handwerkerin keine Bauausführung .
-LK[V]MF[SO]	oneg-pp	6	8	Übernimmt in dem Jahr die Handwerkerin keine Bauausführung ?
-MF[SO]VC[V]	oneg-pp	6	8	Weil in dem Jahr die Handwerkerin keine Bauausführung übernimmt .
 VF[S]LK[V]MF[O]	base-sinan	2	5	Die Quote umgeht ein Argument .
 VF[O]LK[V]MF[S]	base-sinan	5	2	Ein Argument umgeht die Quote .
 VF[ADV]LK[V]MF[SO]	base-sinan	4	6	Deshalb umgeht die Quote ein Argument .
@@ -1405,81 +1045,6 @@ VF[O]LK[V]MF[S]	oneg-sinan	5	2	Keine Neuanfänge ermöglichen die Filme .
 VF[ADV]LK[V]MF[SO]	oneg-sinan	4	6	Deshalb ermöglichen die Filme keine Neuanfänge .
 LK[V]MF[SO]	oneg-sinan	3	5	Ermöglichen die Filme keine Neuanfänge ?
 MF[SO]VC[V]	oneg-sinan	3	5	Weil die Filme keine Neuanfänge ermöglichen .
-VF[S]LK[V]MF[O]	pp-sinan	2	8	Die Quote umgeht in dem Jahr ein Argument .
-VF[O]LK[V]MF[S]	pp-sinan	8	2	Ein Argument umgeht in dem Jahr die Quote .
-VF[ADV]LK[V]MF[SO]	pp-sinan	7	9	Deshalb umgeht in dem Jahr die Quote ein Argument .
-LK[V]MF[SO]	pp-sinan	6	8	Umgeht in dem Jahr die Quote ein Argument ?
-MF[SO]VC[V]	pp-sinan	6	8	Weil in dem Jahr die Quote ein Argument umgeht .
-VF[S]LK[V]MF[O]	pp-sinan	2	8	Das Gas verletzt in dem Jahr ein Menschenrecht .
-VF[O]LK[V]MF[S]	pp-sinan	8	2	Ein Menschenrecht verletzt in dem Jahr das Gas .
-VF[ADV]LK[V]MF[SO]	pp-sinan	7	9	Deshalb verletzt in dem Jahr das Gas ein Menschenrecht .
-LK[V]MF[SO]	pp-sinan	6	8	Verletzt in dem Jahr das Gas ein Menschenrecht ?
-MF[SO]VC[V]	pp-sinan	6	8	Weil in dem Jahr das Gas ein Menschenrecht verletzt .
-VF[S]LK[V]MF[O]	pp-sinan	2	8	Das Wandrelief ruft in dem Jahr ein Hallo .
-VF[O]LK[V]MF[S]	pp-sinan	8	2	Ein Hallo ruft in dem Jahr das Wandrelief .
-VF[ADV]LK[V]MF[SO]	pp-sinan	7	9	Deshalb ruft in dem Jahr das Wandrelief ein Hallo .
-LK[V]MF[SO]	pp-sinan	6	8	Ruft in dem Jahr das Wandrelief ein Hallo ?
-MF[SO]VC[V]	pp-sinan	6	8	Weil in dem Jahr das Wandrelief ein Hallo ruft .
-VF[S]LK[V]MF[O]	pp-sinan	2	8	Die Arbeit bringt in dem Jahr eine Anerkennung .
-VF[O]LK[V]MF[S]	pp-sinan	8	2	Eine Anerkennung bringt in dem Jahr die Arbeit .
-VF[ADV]LK[V]MF[SO]	pp-sinan	7	9	Deshalb bringt in dem Jahr die Arbeit eine Anerkennung .
-LK[V]MF[SO]	pp-sinan	6	8	Bringt in dem Jahr die Arbeit eine Anerkennung ?
-MF[SO]VC[V]	pp-sinan	6	8	Weil in dem Jahr die Arbeit eine Anerkennung bringt .
-VF[S]LK[V]MF[O]	pp-sinan	2	8	Das Bekenntnis verändert in dem Jahr ein Klima .
-VF[O]LK[V]MF[S]	pp-sinan	8	2	Ein Klima verändert in dem Jahr das Bekenntnis .
-VF[ADV]LK[V]MF[SO]	pp-sinan	7	9	Deshalb verändert in dem Jahr das Bekenntnis ein Klima .
-LK[V]MF[SO]	pp-sinan	6	8	Verändert in dem Jahr das Bekenntnis ein Klima ?
-MF[SO]VC[V]	pp-sinan	6	8	Weil in dem Jahr das Bekenntnis ein Klima verändert .
-VF[S]LK[V]MF[O]	pp-sinan	2	7	Die Zyklone treffen in dem Jahr Küstenstreifen .
-VF[O]LK[V]MF[S]	pp-sinan	7	1	Küstenstreifen treffen in dem Jahr die Zyklone .
-VF[ADV]LK[V]MF[SO]	pp-sinan	7	8	Deshalb treffen in dem Jahr die Zyklone Küstenstreifen .
-LK[V]MF[SO]	pp-sinan	6	7	Treffen in dem Jahr die Zyklone Küstenstreifen ?
-MF[SO]VC[V]	pp-sinan	6	7	Weil in dem Jahr die Zyklone Küstenstreifen treffen .
-VF[S]LK[V]MF[O]	pp-sinan	2	7	Die Flugzeugträger verlassen in dem Jahr Häfen .
-VF[O]LK[V]MF[S]	pp-sinan	7	1	Häfen verlassen in dem Jahr die Flugzeugträger .
-VF[ADV]LK[V]MF[SO]	pp-sinan	7	8	Deshalb verlassen in dem Jahr die Flugzeugträger Häfen .
-LK[V]MF[SO]	pp-sinan	6	7	Verlassen in dem Jahr die Flugzeugträger Häfen ?
-MF[SO]VC[V]	pp-sinan	6	7	Weil in dem Jahr die Flugzeugträger Häfen verlassen .
-VF[S]LK[V]MF[O]	pp-sinan	2	7	Die Hurrikans zerstören in dem Jahr Orte .
-VF[O]LK[V]MF[S]	pp-sinan	7	1	Orte zerstören in dem Jahr die Hurrikans .
-VF[ADV]LK[V]MF[SO]	pp-sinan	7	8	Deshalb zerstören in dem Jahr die Hurrikans Orte .
-LK[V]MF[SO]	pp-sinan	6	7	Zerstören in dem Jahr die Hurrikans Orte ?
-MF[SO]VC[V]	pp-sinan	6	7	Weil in dem Jahr die Hurrikans Orte zerstören .
-VF[S]LK[V]MF[O]	pp-sinan	2	7	Die Video-Installationen bilden in dem Jahr Abschlüsse .
-VF[O]LK[V]MF[S]	pp-sinan	7	1	Abschlüsse bilden in dem Jahr die Video-Installationen .
-VF[ADV]LK[V]MF[SO]	pp-sinan	7	8	Deshalb bilden in dem Jahr die Video-Installationen Abschlüsse .
-LK[V]MF[SO]	pp-sinan	6	7	Bilden in dem Jahr die Video-Installationen Abschlüsse ?
-MF[SO]VC[V]	pp-sinan	6	7	Weil in dem Jahr die Video-Installationen Abschlüsse bilden .
-VF[S]LK[V]MF[O]	pp-sinan	2	7	Die Anträge fordern in dem Jahr Reparationszahlungen .
-VF[O]LK[V]MF[S]	pp-sinan	7	1	Reparationszahlungen fordern in dem Jahr die Anträge .
-VF[ADV]LK[V]MF[SO]	pp-sinan	7	8	Deshalb fordern in dem Jahr die Anträge Reparationszahlungen .
-LK[V]MF[SO]	pp-sinan	6	7	Fordern in dem Jahr die Anträge Reparationszahlungen ?
-MF[SO]VC[V]	pp-sinan	6	7	Weil in dem Jahr die Anträge Reparationszahlungen fordern .
-VF[S]LK[V]MF[O]	pp-sinan	2	8	Das Leck bedeutet in dem Jahr ein Ende .
-VF[O]LK[V]MF[S]	pp-sinan	8	2	Ein Ende bedeutet in dem Jahr das Leck .
-VF[ADV]LK[V]MF[SO]	pp-sinan	7	9	Deshalb bedeutet in dem Jahr das Leck ein Ende .
-LK[V]MF[SO]	pp-sinan	6	8	Bedeutet in dem Jahr das Leck ein Ende ?
-MF[SO]VC[V]	pp-sinan	6	8	Weil in dem Jahr das Leck ein Ende bedeutet .
-VF[S]LK[V]MF[O]	pp-sinan	2	7	Die Bäume versperren in dem Jahr Aussichten .
-VF[O]LK[V]MF[S]	pp-sinan	7	1	Aussichten versperren in dem Jahr die Bäume .
-VF[ADV]LK[V]MF[SO]	pp-sinan	7	8	Deshalb versperren in dem Jahr die Bäume Aussichten .
-LK[V]MF[SO]	pp-sinan	6	7	Versperren in dem Jahr die Bäume Aussichten ?
-MF[SO]VC[V]	pp-sinan	6	7	Weil in dem Jahr die Bäume Aussichten versperren .
-VF[S]LK[V]MF[O]	pp-sinan	2	8	Die Idee entfaltet in dem Jahr eine Kraft .
-VF[O]LK[V]MF[S]	pp-sinan	8	2	Eine Kraft entfaltet in dem Jahr die Idee .
-VF[ADV]LK[V]MF[SO]	pp-sinan	7	9	Deshalb entfaltet in dem Jahr die Idee eine Kraft .
-LK[V]MF[SO]	pp-sinan	6	8	Entfaltet in dem Jahr die Idee eine Kraft ?
-MF[SO]VC[V]	pp-sinan	6	8	Weil in dem Jahr die Idee eine Kraft entfaltet .
-VF[S]LK[V]MF[O]	pp-sinan	2	7	Die Absatzmärkte eröffnen in dem Jahr Möglichkeiten .
-VF[O]LK[V]MF[S]	pp-sinan	7	1	Möglichkeiten eröffnen in dem Jahr die Absatzmärkte .
-VF[ADV]LK[V]MF[SO]	pp-sinan	7	8	Deshalb eröffnen in dem Jahr die Absatzmärkte Möglichkeiten .
-LK[V]MF[SO]	pp-sinan	6	7	Eröffnen in dem Jahr die Absatzmärkte Möglichkeiten ?
-MF[SO]VC[V]	pp-sinan	6	7	Weil in dem Jahr die Absatzmärkte Möglichkeiten eröffnen .
-VF[S]LK[V]MF[O]	pp-sinan	2	7	Die Filme ermöglichen in dem Jahr Neuanfänge .
-VF[O]LK[V]MF[S]	pp-sinan	7	1	Neuanfänge ermöglichen in dem Jahr die Filme .
-VF[ADV]LK[V]MF[SO]	pp-sinan	7	8	Deshalb ermöglichen in dem Jahr die Filme Neuanfänge .
-LK[V]MF[SO]	pp-sinan	6	7	Ermöglichen in dem Jahr die Filme Neuanfänge ?
-MF[SO]VC[V]	pp-sinan	6	7	Weil in dem Jahr die Filme Neuanfänge ermöglichen .
 VF[S]LK[V]MF[O]	base-oan	2	4	Die Aufsichtsratsvorstände ernennen Vertreter .
 VF[ADV]LK[V]MF[SO]	base-oan	4	5	Deshalb ernennen die Aufsichtsratsvorstände Vertreter .
 LK[V]MF[SO]	base-oan	3	4	Ernennen die Aufsichtsratsvorstände Vertreter ?
@@ -1720,66 +1285,6 @@ VF[S]LK[V]MF[O]	oneg-oan	2	5	Die Feuerwehrmänner befreien keine Notleidende .
 VF[ADV]LK[V]MF[SO]	oneg-oan	4	6	Deshalb befreien die Feuerwehrmänner keine Notleidende .
 LK[V]MF[SO]	oneg-oan	3	5	Befreien die Feuerwehrmänner keine Notleidende ?
 MF[SO]VC[V]	oneg-oan	3	5	Weil die Feuerwehrmänner keine Notleidende befreien .
-VF[S]LK[V]MF[O]	pp-oan	2	7	Die Aufsichtsratsvorstände ernennen in dem Jahr Vertreter .
-VF[ADV]LK[V]MF[SO]	pp-oan	7	8	Deshalb ernennen in dem Jahr die Aufsichtsratsvorstände Vertreter .
-LK[V]MF[SO]	pp-oan	6	7	Ernennen in dem Jahr die Aufsichtsratsvorstände Vertreter ?
-MF[SO]VC[V]	pp-oan	6	7	Weil in dem Jahr die Aufsichtsratsvorstände Vertreter ernennen .
-VF[S]LK[V]MF[O]	pp-oan	2	8	Die Fernsehreporterin befragt in dem Jahr eine EZB-Chefin .
-VF[ADV]LK[V]MF[SO]	pp-oan	7	9	Deshalb befragt in dem Jahr die Fernsehreporterin eine EZB-Chefin .
-LK[V]MF[SO]	pp-oan	6	8	Befragt in dem Jahr die Fernsehreporterin eine EZB-Chefin ?
-MF[SO]VC[V]	pp-oan	6	8	Weil in dem Jahr die Fernsehreporterin eine EZB-Chefin befragt .
-VF[S]LK[V]MF[O]	pp-oan	2	7	Die Züchter ernennen in dem Jahr Spinnen .
-VF[ADV]LK[V]MF[SO]	pp-oan	7	8	Deshalb ernennen in dem Jahr die Züchter Spinnen .
-LK[V]MF[SO]	pp-oan	6	7	Ernennen in dem Jahr die Züchter Spinnen ?
-MF[SO]VC[V]	pp-oan	6	7	Weil in dem Jahr die Züchter Spinnen ernennen .
-VF[S]LK[V]MF[O]	pp-oan	2	8	Die Katze kratzt in dem Jahr eine Hundehalterin .
-VF[ADV]LK[V]MF[SO]	pp-oan	7	9	Deshalb kratzt in dem Jahr die Katze eine Hundehalterin .
-LK[V]MF[SO]	pp-oan	6	8	Kratzt in dem Jahr die Katze eine Hundehalterin ?
-MF[SO]VC[V]	pp-oan	6	8	Weil in dem Jahr die Katze eine Hundehalterin kratzt .
-VF[S]LK[V]MF[O]	pp-oan	2	8	Die Kellnerin streift in dem Jahr eine Köchin .
-VF[ADV]LK[V]MF[SO]	pp-oan	7	9	Deshalb streift in dem Jahr die Kellnerin eine Köchin .
-LK[V]MF[SO]	pp-oan	6	8	Streift in dem Jahr die Kellnerin eine Köchin ?
-MF[SO]VC[V]	pp-oan	6	8	Weil in dem Jahr die Kellnerin eine Köchin streift .
-VF[S]LK[V]MF[O]	pp-oan	2	8	Die Personalerin nimmt in dem Jahr eine Bewerberin .
-VF[ADV]LK[V]MF[SO]	pp-oan	7	9	Deshalb nimmt in dem Jahr die Personalerin eine Bewerberin .
-LK[V]MF[SO]	pp-oan	6	8	Nimmt in dem Jahr die Personalerin eine Bewerberin ?
-MF[SO]VC[V]	pp-oan	6	8	Weil in dem Jahr die Personalerin eine Bewerberin nimmt .
-VF[S]LK[V]MF[O]	pp-oan	2	8	Die Komponistin kopiert in dem Jahr eine Jazz-Pianistin .
-VF[ADV]LK[V]MF[SO]	pp-oan	7	9	Deshalb kopiert in dem Jahr die Komponistin eine Jazz-Pianistin .
-LK[V]MF[SO]	pp-oan	6	8	Kopiert in dem Jahr die Komponistin eine Jazz-Pianistin ?
-MF[SO]VC[V]	pp-oan	6	8	Weil in dem Jahr die Komponistin eine Jazz-Pianistin kopiert .
-VF[S]LK[V]MF[O]	pp-oan	2	7	Die Mieterin beauftragt in dem Jahr Kammerjägerin .
-VF[ADV]LK[V]MF[SO]	pp-oan	7	8	Deshalb beauftragt in dem Jahr die Mieterin Kammerjägerin .
-LK[V]MF[SO]	pp-oan	6	7	Beauftragt in dem Jahr die Mieterin Kammerjägerin ?
-MF[SO]VC[V]	pp-oan	6	7	Weil in dem Jahr die Mieterin Kammerjägerin beauftragt .
-VF[S]LK[V]MF[O]	pp-oan	2	8	Die 18jährige verletzt in dem Jahr eine Jugendliche .
-VF[ADV]LK[V]MF[SO]	pp-oan	7	9	Deshalb verletzt in dem Jahr die 18jährige eine Jugendliche .
-LK[V]MF[SO]	pp-oan	6	8	Verletzt in dem Jahr die 18jährige eine Jugendliche ?
-MF[SO]VC[V]	pp-oan	6	8	Weil in dem Jahr die 18jährige eine Jugendliche verletzt .
-VF[S]LK[V]MF[O]	pp-oan	2	8	Die Schweizerin dirigiert in dem Jahr eine Philharmonikerin .
-VF[ADV]LK[V]MF[SO]	pp-oan	7	9	Deshalb dirigiert in dem Jahr die Schweizerin eine Philharmonikerin .
-LK[V]MF[SO]	pp-oan	6	8	Dirigiert in dem Jahr die Schweizerin eine Philharmonikerin ?
-MF[SO]VC[V]	pp-oan	6	8	Weil in dem Jahr die Schweizerin eine Philharmonikerin dirigiert .
-VF[S]LK[V]MF[O]	pp-oan	2	8	Die Fotografin beschreibt in dem Jahr ein Model .
-VF[ADV]LK[V]MF[SO]	pp-oan	7	9	Deshalb beschreibt in dem Jahr die Fotografin ein Model .
-LK[V]MF[SO]	pp-oan	6	8	Beschreibt in dem Jahr die Fotografin ein Model ?
-MF[SO]VC[V]	pp-oan	6	8	Weil in dem Jahr die Fotografin ein Model beschreibt .
-VF[S]LK[V]MF[O]	pp-oan	2	8	Die Wirtschaftsingenieurin leitet in dem Jahr eine Kursteilnehmerin .
-VF[ADV]LK[V]MF[SO]	pp-oan	7	9	Deshalb leitet in dem Jahr die Wirtschaftsingenieurin eine Kursteilnehmerin .
-LK[V]MF[SO]	pp-oan	6	8	Leitet in dem Jahr die Wirtschaftsingenieurin eine Kursteilnehmerin ?
-MF[SO]VC[V]	pp-oan	6	8	Weil in dem Jahr die Wirtschaftsingenieurin eine Kursteilnehmerin leitet .
-VF[S]LK[V]MF[O]	pp-oan	2	8	Die Expertin besucht in dem Jahr eine Oberbürgermeisterin .
-VF[ADV]LK[V]MF[SO]	pp-oan	7	9	Deshalb besucht in dem Jahr die Expertin eine Oberbürgermeisterin .
-LK[V]MF[SO]	pp-oan	6	8	Besucht in dem Jahr die Expertin eine Oberbürgermeisterin ?
-MF[SO]VC[V]	pp-oan	6	8	Weil in dem Jahr die Expertin eine Oberbürgermeisterin besucht .
-VF[S]LK[V]MF[O]	pp-oan	2	8	Die Pionierin braucht in dem Jahr eine Dolmetscherin .
-VF[ADV]LK[V]MF[SO]	pp-oan	7	9	Deshalb braucht in dem Jahr die Pionierin eine Dolmetscherin .
-LK[V]MF[SO]	pp-oan	6	8	Braucht in dem Jahr die Pionierin eine Dolmetscherin ?
-MF[SO]VC[V]	pp-oan	6	8	Weil in dem Jahr die Pionierin eine Dolmetscherin braucht .
-VF[S]LK[V]MF[O]	pp-oan	2	7	Die Feuerwehrmänner befreien in dem Jahr Notleidende .
-VF[ADV]LK[V]MF[SO]	pp-oan	7	8	Deshalb befreien in dem Jahr die Feuerwehrmänner Notleidende .
-LK[V]MF[SO]	pp-oan	6	7	Befreien in dem Jahr die Feuerwehrmänner Notleidende ?
-MF[SO]VC[V]	pp-oan	6	7	Weil in dem Jahr die Feuerwehrmänner Notleidende befreien .
 VF[S]LK[V]MF[O]	sinan-oan	2	5	Die Quote umgeht eine Frau .
 VF[ADV]LK[V]MF[SO]	sinan-oan	4	6	Deshalb umgeht die Quote eine Frau .
 LK[V]MF[SO]	sinan-oan	3	5	Umgeht die Quote eine Frau ?
@@ -2270,111 +1775,6 @@ LK[V]MF[SO]	oneg-invan	3	5	Bedroht die Landwirtschaft keine Biene ?
 LK[V]MF[OS]	oneg-invan	5	3	Bedroht keine Biene die Landwirtschaft ?
 MF[SO]VC[V]	oneg-invan	3	5	Weil die Landwirtschaft keine Biene bedroht .
 MF[OS]VC[V]	oneg-invan	5	3	Weil keine Biene die Landwirtschaft bedroht .
-VF[S]LK[V]MF[O]	pp-invan	2	8	Die Borniertheit überfällt in dem Jahr eine taz-Reporterin .
-VF[O]LK[V]MF[S]	pp-invan	8	2	Eine taz-Reporterin überfällt in dem Jahr die Borniertheit .
-VF[ADV]LK[V]MF[SO]	pp-invan	7	9	Deshalb überfällt in dem Jahr die Borniertheit eine taz-Reporterin .
-VF[ADV]LK[V]MF[OS]	pp-invan	9	7	Deshalb überfällt in dem Jahr eine taz-Reporterin die Borniertheit .
-LK[V]MF[SO]	pp-invan	6	8	Überfällt in dem Jahr die Borniertheit eine taz-Reporterin ?
-LK[V]MF[OS]	pp-invan	8	6	Überfällt in dem Jahr eine taz-Reporterin die Borniertheit ?
-MF[SO]VC[V]	pp-invan	6	8	Weil in dem Jahr die Borniertheit eine taz-Reporterin überfällt .
-MF[OS]VC[V]	pp-invan	8	6	Weil in dem Jahr eine taz-Reporterin die Borniertheit überfällt .
-VF[S]LK[V]MF[O]	pp-invan	2	8	Die Schuld trifft in dem Jahr eine Berufstätige .
-VF[O]LK[V]MF[S]	pp-invan	8	2	Eine Berufstätige trifft in dem Jahr die Schuld .
-VF[ADV]LK[V]MF[SO]	pp-invan	7	9	Deshalb trifft in dem Jahr die Schuld eine Berufstätige .
-VF[ADV]LK[V]MF[OS]	pp-invan	9	7	Deshalb trifft in dem Jahr eine Berufstätige die Schuld .
-LK[V]MF[SO]	pp-invan	6	8	Trifft in dem Jahr die Schuld eine Berufstätige ?
-LK[V]MF[OS]	pp-invan	8	6	Trifft in dem Jahr eine Berufstätige die Schuld ?
-MF[SO]VC[V]	pp-invan	6	8	Weil in dem Jahr die Schuld eine Berufstätige trifft .
-MF[OS]VC[V]	pp-invan	8	6	Weil in dem Jahr eine Berufstätige die Schuld trifft .
-VF[S]LK[V]MF[O]	pp-invan	2	7	Die Schuhe drücken in dem Jahr Jogger .
-VF[O]LK[V]MF[S]	pp-invan	7	1	Jogger drücken in dem Jahr die Schuhe .
-VF[ADV]LK[V]MF[SO]	pp-invan	7	8	Deshalb drücken in dem Jahr die Schuhe Jogger .
-LK[V]MF[SO]	pp-invan	6	7	Drücken in dem Jahr die Schuhe Jogger ?
-MF[SO]VC[V]	pp-invan	6	7	Weil in dem Jahr die Schuhe Jogger drücken .
-VF[S]LK[V]MF[O]	pp-invan	2	8	Die Deadline drängt in dem Jahr eine Informatikerin .
-VF[O]LK[V]MF[S]	pp-invan	8	2	Eine Informatikerin drängt in dem Jahr die Deadline .
-VF[ADV]LK[V]MF[SO]	pp-invan	7	9	Deshalb drängt in dem Jahr die Deadline eine Informatikerin .
-VF[ADV]LK[V]MF[OS]	pp-invan	9	7	Deshalb drängt in dem Jahr eine Informatikerin die Deadline .
-LK[V]MF[SO]	pp-invan	6	8	Drängt in dem Jahr die Deadline eine Informatikerin ?
-LK[V]MF[OS]	pp-invan	8	6	Drängt in dem Jahr eine Informatikerin die Deadline ?
-MF[SO]VC[V]	pp-invan	6	8	Weil in dem Jahr die Deadline eine Informatikerin drängt .
-MF[OS]VC[V]	pp-invan	8	6	Weil in dem Jahr eine Informatikerin die Deadline drängt .
-VF[S]LK[V]MF[O]	pp-invan	2	7	Die Öfen wärmen in dem Jahr Wanderinnen .
-VF[O]LK[V]MF[S]	pp-invan	7	1	Wanderinnen wärmen in dem Jahr die Öfen .
-VF[ADV]LK[V]MF[SO]	pp-invan	7	8	Deshalb wärmen in dem Jahr die Öfen Wanderinnen .
-LK[V]MF[SO]	pp-invan	6	7	Wärmen in dem Jahr die Öfen Wanderinnen ?
-MF[SO]VC[V]	pp-invan	6	7	Weil in dem Jahr die Öfen Wanderinnen wärmen .
-VF[S]LK[V]MF[O]	pp-invan	2	7	Die Regenschauer durchnässen in dem Jahr Spaziergänger .
-VF[O]LK[V]MF[S]	pp-invan	7	1	Spaziergänger durchnässen in dem Jahr die Regenschauer .
-VF[ADV]LK[V]MF[SO]	pp-invan	7	8	Deshalb durchnässen in dem Jahr die Regenschauer Spaziergänger .
-LK[V]MF[SO]	pp-invan	6	7	Durchnässen in dem Jahr die Regenschauer Spaziergänger ?
-MF[SO]VC[V]	pp-invan	6	7	Weil in dem Jahr die Regenschauer Spaziergänger durchnässen .
-VF[S]LK[V]MF[O]	pp-invan	2	7	Die Kameras begleiten in dem Jahr Trucker .
-VF[O]LK[V]MF[S]	pp-invan	7	1	Trucker begleiten in dem Jahr die Kameras .
-VF[ADV]LK[V]MF[SO]	pp-invan	7	8	Deshalb begleiten in dem Jahr die Kameras Trucker .
-LK[V]MF[SO]	pp-invan	6	7	Begleiten in dem Jahr die Kameras Trucker ?
-MF[SO]VC[V]	pp-invan	6	7	Weil in dem Jahr die Kameras Trucker begleiten .
-VF[S]LK[V]MF[O]	pp-invan	2	8	Die Anlage schützt in dem Jahr eine Bereiste .
-VF[O]LK[V]MF[S]	pp-invan	8	2	Eine Bereiste schützt in dem Jahr die Anlage .
-VF[ADV]LK[V]MF[SO]	pp-invan	7	9	Deshalb schützt in dem Jahr die Anlage eine Bereiste .
-VF[ADV]LK[V]MF[OS]	pp-invan	9	7	Deshalb schützt in dem Jahr eine Bereiste die Anlage .
-LK[V]MF[SO]	pp-invan	6	8	Schützt in dem Jahr die Anlage eine Bereiste ?
-LK[V]MF[OS]	pp-invan	8	6	Schützt in dem Jahr eine Bereiste die Anlage ?
-MF[SO]VC[V]	pp-invan	6	8	Weil in dem Jahr die Anlage eine Bereiste schützt .
-MF[OS]VC[V]	pp-invan	8	6	Weil in dem Jahr eine Bereiste die Anlage schützt .
-VF[S]LK[V]MF[O]	pp-invan	2	8	Die Anzeige betrifft in dem Jahr eine Hausbesitzerin .
-VF[O]LK[V]MF[S]	pp-invan	8	2	Eine Hausbesitzerin betrifft in dem Jahr die Anzeige .
-VF[ADV]LK[V]MF[SO]	pp-invan	7	9	Deshalb betrifft in dem Jahr die Anzeige eine Hausbesitzerin .
-VF[ADV]LK[V]MF[OS]	pp-invan	9	7	Deshalb betrifft in dem Jahr eine Hausbesitzerin die Anzeige .
-LK[V]MF[SO]	pp-invan	6	8	Betrifft in dem Jahr die Anzeige eine Hausbesitzerin ?
-LK[V]MF[OS]	pp-invan	8	6	Betrifft in dem Jahr eine Hausbesitzerin die Anzeige ?
-MF[SO]VC[V]	pp-invan	6	8	Weil in dem Jahr die Anzeige eine Hausbesitzerin betrifft .
-MF[OS]VC[V]	pp-invan	8	6	Weil in dem Jahr eine Hausbesitzerin die Anzeige betrifft .
-VF[S]LK[V]MF[O]	pp-invan	2	8	Die Alternativlosigkeit prägt in dem Jahr eine Grünenpolitikerin .
-VF[O]LK[V]MF[S]	pp-invan	8	2	Eine Grünenpolitikerin prägt in dem Jahr die Alternativlosigkeit .
-VF[ADV]LK[V]MF[SO]	pp-invan	7	9	Deshalb prägt in dem Jahr die Alternativlosigkeit eine Grünenpolitikerin .
-VF[ADV]LK[V]MF[OS]	pp-invan	9	7	Deshalb prägt in dem Jahr eine Grünenpolitikerin die Alternativlosigkeit .
-LK[V]MF[SO]	pp-invan	6	8	Prägt in dem Jahr die Alternativlosigkeit eine Grünenpolitikerin ?
-LK[V]MF[OS]	pp-invan	8	6	Prägt in dem Jahr eine Grünenpolitikerin die Alternativlosigkeit ?
-MF[SO]VC[V]	pp-invan	6	8	Weil in dem Jahr die Alternativlosigkeit eine Grünenpolitikerin prägt .
-MF[OS]VC[V]	pp-invan	8	6	Weil in dem Jahr eine Grünenpolitikerin die Alternativlosigkeit prägt .
-VF[S]LK[V]MF[O]	pp-invan	2	8	Die Sonne blendet in dem Jahr eine Schwimmerin .
-VF[O]LK[V]MF[S]	pp-invan	8	2	Eine Schwimmerin blendet in dem Jahr die Sonne .
-VF[ADV]LK[V]MF[SO]	pp-invan	7	9	Deshalb blendet in dem Jahr die Sonne eine Schwimmerin .
-VF[ADV]LK[V]MF[OS]	pp-invan	9	7	Deshalb blendet in dem Jahr eine Schwimmerin die Sonne .
-LK[V]MF[SO]	pp-invan	6	8	Blendet in dem Jahr die Sonne eine Schwimmerin ?
-LK[V]MF[OS]	pp-invan	8	6	Blendet in dem Jahr eine Schwimmerin die Sonne ?
-MF[SO]VC[V]	pp-invan	6	8	Weil in dem Jahr die Sonne eine Schwimmerin blendet .
-MF[OS]VC[V]	pp-invan	8	6	Weil in dem Jahr eine Schwimmerin die Sonne blendet .
-VF[S]LK[V]MF[O]	pp-invan	2	7	Die Züge befördern in dem Jahr Fahrgäste .
-VF[O]LK[V]MF[S]	pp-invan	7	1	Fahrgäste befördern in dem Jahr die Züge .
-VF[ADV]LK[V]MF[SO]	pp-invan	7	8	Deshalb befördern in dem Jahr die Züge Fahrgäste .
-LK[V]MF[SO]	pp-invan	6	7	Befördern in dem Jahr die Züge Fahrgäste ?
-MF[SO]VC[V]	pp-invan	6	7	Weil in dem Jahr die Züge Fahrgäste befördern .
-VF[S]LK[V]MF[O]	pp-invan	2	8	Die Rückenlehne unterstützt in dem Jahr eine Bürotäterin .
-VF[O]LK[V]MF[S]	pp-invan	8	2	Eine Bürotäterin unterstützt in dem Jahr die Rückenlehne .
-VF[ADV]LK[V]MF[SO]	pp-invan	7	9	Deshalb unterstützt in dem Jahr die Rückenlehne eine Bürotäterin .
-VF[ADV]LK[V]MF[OS]	pp-invan	9	7	Deshalb unterstützt in dem Jahr eine Bürotäterin die Rückenlehne .
-LK[V]MF[SO]	pp-invan	6	8	Unterstützt in dem Jahr die Rückenlehne eine Bürotäterin ?
-LK[V]MF[OS]	pp-invan	8	6	Unterstützt in dem Jahr eine Bürotäterin die Rückenlehne ?
-MF[SO]VC[V]	pp-invan	6	8	Weil in dem Jahr die Rückenlehne eine Bürotäterin unterstützt .
-MF[OS]VC[V]	pp-invan	8	6	Weil in dem Jahr eine Bürotäterin die Rückenlehne unterstützt .
-VF[S]LK[V]MF[O]	pp-invan	2	8	Die Hose zwickt in dem Jahr eine Entertainerin .
-VF[O]LK[V]MF[S]	pp-invan	8	2	Eine Entertainerin zwickt in dem Jahr die Hose .
-VF[ADV]LK[V]MF[SO]	pp-invan	7	9	Deshalb zwickt in dem Jahr die Hose eine Entertainerin .
-VF[ADV]LK[V]MF[OS]	pp-invan	9	7	Deshalb zwickt in dem Jahr eine Entertainerin die Hose .
-LK[V]MF[SO]	pp-invan	6	8	Zwickt in dem Jahr die Hose eine Entertainerin ?
-LK[V]MF[OS]	pp-invan	8	6	Zwickt in dem Jahr eine Entertainerin die Hose ?
-MF[SO]VC[V]	pp-invan	6	8	Weil in dem Jahr die Hose eine Entertainerin zwickt .
-MF[OS]VC[V]	pp-invan	8	6	Weil in dem Jahr eine Entertainerin die Hose zwickt .
-VF[S]LK[V]MF[O]	pp-invan	2	8	Die Landwirtschaft bedroht in dem Jahr eine Biene .
-VF[O]LK[V]MF[S]	pp-invan	8	2	Eine Biene bedroht in dem Jahr die Landwirtschaft .
-VF[ADV]LK[V]MF[SO]	pp-invan	7	9	Deshalb bedroht in dem Jahr die Landwirtschaft eine Biene .
-VF[ADV]LK[V]MF[OS]	pp-invan	9	7	Deshalb bedroht in dem Jahr eine Biene die Landwirtschaft .
-LK[V]MF[SO]	pp-invan	6	8	Bedroht in dem Jahr die Landwirtschaft eine Biene ?
-LK[V]MF[OS]	pp-invan	8	6	Bedroht in dem Jahr eine Biene die Landwirtschaft ?
-MF[SO]VC[V]	pp-invan	6	8	Weil in dem Jahr die Landwirtschaft eine Biene bedroht .
-MF[OS]VC[V]	pp-invan	8	6	Weil in dem Jahr eine Biene die Landwirtschaft bedroht .
 VF[S]LK[V]MF[O]	base-regpol	2	4	Die Kanzleien starten Angriffe .
 VF[O]LK[V]MF[S]	base-regpol	4	1	Angriffe starten die Kanzleien .
 VF[ADV]LK[V]MF[SO]	base-regpol	4	5	Deshalb starten die Kanzleien Angriffe .
@@ -2660,81 +2060,6 @@ VF[O]LK[V]MF[S]	oneg-regpol	5	2	Keine Bauausführungen übernehmen die Konzerne 
 VF[ADV]LK[V]MF[SO]	oneg-regpol	4	6	Deshalb übernehmen die Konzerne keine Bauausführungen .
 LK[V]MF[SO]	oneg-regpol	3	5	Übernehmen die Konzerne keine Bauausführungen ?
 MF[SO]VC[V]	oneg-regpol	3	5	Weil die Konzerne keine Bauausführungen übernehmen .
-VF[S]LK[V]MF[O]	pp-regpol	2	7	Die Kanzleien starten in dem Jahr Angriffe .
-VF[O]LK[V]MF[S]	pp-regpol	7	1	Angriffe starten in dem Jahr die Kanzleien .
-VF[ADV]LK[V]MF[SO]	pp-regpol	7	8	Deshalb starten in dem Jahr die Kanzleien Angriffe .
-LK[V]MF[SO]	pp-regpol	6	7	Starten in dem Jahr die Kanzleien Angriffe ?
-MF[SO]VC[V]	pp-regpol	6	7	Weil in dem Jahr die Kanzleien Angriffe starten .
-VF[S]LK[V]MF[O]	pp-regpol	2	7	Die Läden leben in dem Jahr Doppelleben .
-VF[O]LK[V]MF[S]	pp-regpol	7	1	Doppelleben leben in dem Jahr die Läden .
-VF[ADV]LK[V]MF[SO]	pp-regpol	7	8	Deshalb leben in dem Jahr die Läden Doppelleben .
-LK[V]MF[SO]	pp-regpol	6	7	Leben in dem Jahr die Läden Doppelleben ?
-MF[SO]VC[V]	pp-regpol	6	7	Weil in dem Jahr die Läden Doppelleben leben .
-VF[S]LK[V]MF[O]	pp-regpol	2	8	Die Werbeagentur übertextet in dem Jahr eine Aufnahme .
-VF[O]LK[V]MF[S]	pp-regpol	8	2	Eine Aufnahme übertextet in dem Jahr die Werbeagentur .
-VF[ADV]LK[V]MF[SO]	pp-regpol	7	9	Deshalb übertextet in dem Jahr die Werbeagentur eine Aufnahme .
-LK[V]MF[SO]	pp-regpol	6	8	Übertextet in dem Jahr die Werbeagentur eine Aufnahme ?
-MF[SO]VC[V]	pp-regpol	6	8	Weil in dem Jahr die Werbeagentur eine Aufnahme übertextet .
-VF[S]LK[V]MF[O]	pp-regpol	2	8	Die Gemeinde spielt in dem Jahr eine Traumhochzeit .
-VF[O]LK[V]MF[S]	pp-regpol	8	2	Eine Traumhochzeit spielt in dem Jahr die Gemeinde .
-VF[ADV]LK[V]MF[SO]	pp-regpol	7	9	Deshalb spielt in dem Jahr die Gemeinde eine Traumhochzeit .
-LK[V]MF[SO]	pp-regpol	6	8	Spielt in dem Jahr die Gemeinde eine Traumhochzeit ?
-MF[SO]VC[V]	pp-regpol	6	8	Weil in dem Jahr die Gemeinde eine Traumhochzeit spielt .
-VF[S]LK[V]MF[O]	pp-regpol	2	8	Das Dorf bewirft in dem Jahr ein Kunstwerk .
-VF[O]LK[V]MF[S]	pp-regpol	8	2	Ein Kunstwerk bewirft in dem Jahr das Dorf .
-VF[ADV]LK[V]MF[SO]	pp-regpol	7	9	Deshalb bewirft in dem Jahr das Dorf ein Kunstwerk .
-LK[V]MF[SO]	pp-regpol	6	8	Bewirft in dem Jahr das Dorf ein Kunstwerk ?
-MF[SO]VC[V]	pp-regpol	6	8	Weil in dem Jahr das Dorf ein Kunstwerk bewirft .
-VF[S]LK[V]MF[O]	pp-regpol	2	8	Das Büro findet in dem Jahr eine Lösung .
-VF[O]LK[V]MF[S]	pp-regpol	8	2	Eine Lösung findet in dem Jahr das Büro .
-VF[ADV]LK[V]MF[SO]	pp-regpol	7	9	Deshalb findet in dem Jahr das Büro eine Lösung .
-LK[V]MF[SO]	pp-regpol	6	8	Findet in dem Jahr das Büro eine Lösung ?
-MF[SO]VC[V]	pp-regpol	6	8	Weil in dem Jahr das Büro eine Lösung findet .
-VF[S]LK[V]MF[O]	pp-regpol	2	8	Die Praxis abonniert in dem Jahr eine Zeitschrift .
-VF[O]LK[V]MF[S]	pp-regpol	8	2	Eine Zeitschrift abonniert in dem Jahr die Praxis .
-VF[ADV]LK[V]MF[SO]	pp-regpol	7	9	Deshalb abonniert in dem Jahr die Praxis eine Zeitschrift .
-LK[V]MF[SO]	pp-regpol	6	8	Abonniert in dem Jahr die Praxis eine Zeitschrift ?
-MF[SO]VC[V]	pp-regpol	6	8	Weil in dem Jahr die Praxis eine Zeitschrift abonniert .
-VF[S]LK[V]MF[O]	pp-regpol	2	7	Die Salons rasieren in dem Jahr Bärte .
-VF[O]LK[V]MF[S]	pp-regpol	7	1	Bärte rasieren in dem Jahr die Salons .
-VF[ADV]LK[V]MF[SO]	pp-regpol	7	8	Deshalb rasieren in dem Jahr die Salons Bärte .
-LK[V]MF[SO]	pp-regpol	6	7	Rasieren in dem Jahr die Salons Bärte ?
-MF[SO]VC[V]	pp-regpol	6	7	Weil in dem Jahr die Salons Bärte rasieren .
-VF[S]LK[V]MF[O]	pp-regpol	2	7	Die Redaktionen trinken in dem Jahr Kaffees .
-VF[O]LK[V]MF[S]	pp-regpol	7	1	Kaffees trinken in dem Jahr die Redaktionen .
-VF[ADV]LK[V]MF[SO]	pp-regpol	7	8	Deshalb trinken in dem Jahr die Redaktionen Kaffees .
-LK[V]MF[SO]	pp-regpol	6	7	Trinken in dem Jahr die Redaktionen Kaffees ?
-MF[SO]VC[V]	pp-regpol	6	7	Weil in dem Jahr die Redaktionen Kaffees trinken .
-VF[S]LK[V]MF[O]	pp-regpol	2	7	Die Seminare schreiben in dem Jahr Romane .
-VF[O]LK[V]MF[S]	pp-regpol	7	1	Romane schreiben in dem Jahr die Seminare .
-VF[ADV]LK[V]MF[SO]	pp-regpol	7	8	Deshalb schreiben in dem Jahr die Seminare Romane .
-LK[V]MF[SO]	pp-regpol	6	7	Schreiben in dem Jahr die Seminare Romane ?
-MF[SO]VC[V]	pp-regpol	6	7	Weil in dem Jahr die Seminare Romane schreiben .
-VF[S]LK[V]MF[O]	pp-regpol	2	8	Das Landratsamt beendet in dem Jahr eine Rede .
-VF[O]LK[V]MF[S]	pp-regpol	8	2	Eine Rede beendet in dem Jahr das Landratsamt .
-VF[ADV]LK[V]MF[SO]	pp-regpol	7	9	Deshalb beendet in dem Jahr das Landratsamt eine Rede .
-LK[V]MF[SO]	pp-regpol	6	8	Beendet in dem Jahr das Landratsamt eine Rede ?
-MF[SO]VC[V]	pp-regpol	6	8	Weil in dem Jahr das Landratsamt eine Rede beendet .
-VF[S]LK[V]MF[O]	pp-regpol	2	8	Die Schule bekommt in dem Jahr ein Grundgehalt .
-VF[O]LK[V]MF[S]	pp-regpol	8	2	Ein Grundgehalt bekommt in dem Jahr die Schule .
-VF[ADV]LK[V]MF[SO]	pp-regpol	7	9	Deshalb bekommt in dem Jahr die Schule ein Grundgehalt .
-LK[V]MF[SO]	pp-regpol	6	8	Bekommt in dem Jahr die Schule ein Grundgehalt ?
-MF[SO]VC[V]	pp-regpol	6	8	Weil in dem Jahr die Schule ein Grundgehalt bekommt .
-VF[S]LK[V]MF[O]	pp-regpol	2	7	Die Werkstätten ziehen in dem Jahr Bauzäune .
-VF[O]LK[V]MF[S]	pp-regpol	7	1	Bauzäune ziehen in dem Jahr die Werkstätten .
-VF[ADV]LK[V]MF[SO]	pp-regpol	7	8	Deshalb ziehen in dem Jahr die Werkstätten Bauzäune .
-LK[V]MF[SO]	pp-regpol	6	7	Ziehen in dem Jahr die Werkstätten Bauzäune ?
-MF[SO]VC[V]	pp-regpol	6	7	Weil in dem Jahr die Werkstätten Bauzäune ziehen .
-VF[S]LK[V]MF[O]	pp-regpol	2	8	Die Universität gewinnt in dem Jahr eine Tour .
-VF[O]LK[V]MF[S]	pp-regpol	8	2	Eine Tour gewinnt in dem Jahr die Universität .
-VF[ADV]LK[V]MF[SO]	pp-regpol	7	9	Deshalb gewinnt in dem Jahr die Universität eine Tour .
-LK[V]MF[SO]	pp-regpol	6	8	Gewinnt in dem Jahr die Universität eine Tour ?
-MF[SO]VC[V]	pp-regpol	6	8	Weil in dem Jahr die Universität eine Tour gewinnt .
-VF[S]LK[V]MF[O]	pp-regpol	2	7	Die Konzerne übernehmen in dem Jahr Bauausführungen .
-VF[O]LK[V]MF[S]	pp-regpol	7	1	Bauausführungen übernehmen in dem Jahr die Konzerne .
-VF[ADV]LK[V]MF[SO]	pp-regpol	7	8	Deshalb übernehmen in dem Jahr die Konzerne Bauausführungen .
-LK[V]MF[SO]	pp-regpol	6	7	Übernehmen in dem Jahr die Konzerne Bauausführungen ?
-MF[SO]VC[V]	pp-regpol	6	7	Weil in dem Jahr die Konzerne Bauausführungen übernehmen .
 VF[S]LK[V]MF[O]	oan-regpol	2	4	Die Salons ernennen Vertreter .
 VF[ADV]LK[V]MF[SO]	oan-regpol	4	5	Deshalb ernennen die Salons Vertreter .
 LK[V]MF[SO]	oan-regpol	3	4	Ernennen die Salons Vertreter ?
@@ -3055,81 +2380,6 @@ VF[O]LK[V]MF[S]	oneg-sname	4	2	Keine Bauausführung übernimmt EnBW .
 VF[ADV]LK[V]MF[SO]	oneg-sname	3	5	Deshalb übernimmt EnBW keine Bauausführung .
 LK[V]MF[SO]	oneg-sname	2	4	Übernimmt EnBW keine Bauausführung ?
 MF[SO]VC[V]	oneg-sname	2	4	Weil EnBW keine Bauausführung übernimmt .
-VF[S]LK[V]MF[O]	pp-sname	1	6	Siemens startet in dem Jahr Angriff .
-VF[O]LK[V]MF[S]	pp-sname	6	1	Angriff startet in dem Jahr Siemens .
-VF[ADV]LK[V]MF[SO]	pp-sname	6	7	Deshalb startet in dem Jahr Siemens Angriff .
-LK[V]MF[SO]	pp-sname	5	6	Startet in dem Jahr Siemens Angriff ?
-MF[SO]VC[V]	pp-sname	5	6	Weil in dem Jahr Siemens Angriff startet .
-VF[S]LK[V]MF[O]	pp-sname	1	7	Balazs lebt in dem Jahr ein Doppelleben .
-VF[O]LK[V]MF[S]	pp-sname	7	2	Ein Doppelleben lebt in dem Jahr Balazs .
-VF[ADV]LK[V]MF[SO]	pp-sname	6	8	Deshalb lebt in dem Jahr Balazs ein Doppelleben .
-LK[V]MF[SO]	pp-sname	5	7	Lebt in dem Jahr Balazs ein Doppelleben ?
-MF[SO]VC[V]	pp-sname	5	7	Weil in dem Jahr Balazs ein Doppelleben lebt .
-VF[S]LK[V]MF[O]	pp-sname	1	7	Daimler übertextet in dem Jahr eine Aufnahme .
-VF[O]LK[V]MF[S]	pp-sname	7	2	Eine Aufnahme übertextet in dem Jahr Daimler .
-VF[ADV]LK[V]MF[SO]	pp-sname	6	8	Deshalb übertextet in dem Jahr Daimler eine Aufnahme .
-LK[V]MF[SO]	pp-sname	5	7	Übertextet in dem Jahr Daimler eine Aufnahme ?
-MF[SO]VC[V]	pp-sname	5	7	Weil in dem Jahr Daimler eine Aufnahme übertextet .
-VF[S]LK[V]MF[O]	pp-sname	1	7	RTL spielt in dem Jahr eine Traumhochzeit .
-VF[O]LK[V]MF[S]	pp-sname	7	2	Eine Traumhochzeit spielt in dem Jahr RTL .
-VF[ADV]LK[V]MF[SO]	pp-sname	6	8	Deshalb spielt in dem Jahr RTL eine Traumhochzeit .
-LK[V]MF[SO]	pp-sname	5	7	Spielt in dem Jahr RTL eine Traumhochzeit ?
-MF[SO]VC[V]	pp-sname	5	7	Weil in dem Jahr RTL eine Traumhochzeit spielt .
-VF[S]LK[V]MF[O]	pp-sname	1	7	Degas bewirft in dem Jahr ein Kunstwerk .
-VF[O]LK[V]MF[S]	pp-sname	7	2	Ein Kunstwerk bewirft in dem Jahr Degas .
-VF[ADV]LK[V]MF[SO]	pp-sname	6	8	Deshalb bewirft in dem Jahr Degas ein Kunstwerk .
-LK[V]MF[SO]	pp-sname	5	7	Bewirft in dem Jahr Degas ein Kunstwerk ?
-MF[SO]VC[V]	pp-sname	5	7	Weil in dem Jahr Degas ein Kunstwerk bewirft .
-VF[S]LK[V]MF[O]	pp-sname	1	8	Günter Jauch findet in dem Jahr eine Lösung .
-VF[O]LK[V]MF[S]	pp-sname	7	2	Eine Lösung findet in dem Jahr Günter Jauch .
-VF[ADV]LK[V]MF[SO]	pp-sname	6	9	Deshalb findet in dem Jahr Günter Jauch eine Lösung .
-LK[V]MF[SO]	pp-sname	5	8	Findet in dem Jahr Günter Jauch eine Lösung ?
-MF[SO]VC[V]	pp-sname	5	8	Weil in dem Jahr Günter Jauch eine Lösung findet .
-VF[S]LK[V]MF[O]	pp-sname	1	7	Harry abonniert in dem Jahr eine Zeitschrift .
-VF[O]LK[V]MF[S]	pp-sname	7	2	Eine Zeitschrift abonniert in dem Jahr Harry .
-VF[ADV]LK[V]MF[SO]	pp-sname	6	8	Deshalb abonniert in dem Jahr Harry eine Zeitschrift .
-LK[V]MF[SO]	pp-sname	5	7	Abonniert in dem Jahr Harry eine Zeitschrift ?
-MF[SO]VC[V]	pp-sname	5	7	Weil in dem Jahr Harry eine Zeitschrift abonniert .
-VF[S]LK[V]MF[O]	pp-sname	1	6	Gillette rasiert in dem Jahr Bart .
-VF[O]LK[V]MF[S]	pp-sname	6	1	Bart rasiert in dem Jahr Gillette .
-VF[ADV]LK[V]MF[SO]	pp-sname	6	7	Deshalb rasiert in dem Jahr Gillette Bart .
-LK[V]MF[SO]	pp-sname	5	6	Rasiert in dem Jahr Gillette Bart ?
-MF[SO]VC[V]	pp-sname	5	6	Weil in dem Jahr Gillette Bart rasiert .
-VF[S]LK[V]MF[O]	pp-sname	1	6	Clooney trinkt in dem Jahr Kaffee .
-VF[O]LK[V]MF[S]	pp-sname	6	1	Kaffee trinkt in dem Jahr Clooney .
-VF[ADV]LK[V]MF[SO]	pp-sname	6	7	Deshalb trinkt in dem Jahr Clooney Kaffee .
-LK[V]MF[SO]	pp-sname	5	6	Trinkt in dem Jahr Clooney Kaffee ?
-MF[SO]VC[V]	pp-sname	5	6	Weil in dem Jahr Clooney Kaffee trinkt .
-VF[S]LK[V]MF[O]	pp-sname	1	7	Bertolt Brecht schreibt in dem Jahr Roman .
-VF[O]LK[V]MF[S]	pp-sname	6	1	Roman schreibt in dem Jahr Bertolt Brecht .
-VF[ADV]LK[V]MF[SO]	pp-sname	6	8	Deshalb schreibt in dem Jahr Bertolt Brecht Roman .
-LK[V]MF[SO]	pp-sname	5	7	Schreibt in dem Jahr Bertolt Brecht Roman ?
-MF[SO]VC[V]	pp-sname	5	7	Weil in dem Jahr Bertolt Brecht Roman schreibt .
-VF[S]LK[V]MF[O]	pp-sname	1	7	Merkel beendet in dem Jahr eine Rede .
-VF[O]LK[V]MF[S]	pp-sname	7	2	Eine Rede beendet in dem Jahr Merkel .
-VF[ADV]LK[V]MF[SO]	pp-sname	6	8	Deshalb beendet in dem Jahr Merkel eine Rede .
-LK[V]MF[SO]	pp-sname	5	7	Beendet in dem Jahr Merkel eine Rede ?
-MF[SO]VC[V]	pp-sname	5	7	Weil in dem Jahr Merkel eine Rede beendet .
-VF[S]LK[V]MF[O]	pp-sname	1	7	Vietnam bekommt in dem Jahr ein Grundgehalt .
-VF[O]LK[V]MF[S]	pp-sname	7	2	Ein Grundgehalt bekommt in dem Jahr Vietnam .
-VF[ADV]LK[V]MF[SO]	pp-sname	6	8	Deshalb bekommt in dem Jahr Vietnam ein Grundgehalt .
-LK[V]MF[SO]	pp-sname	5	7	Bekommt in dem Jahr Vietnam ein Grundgehalt ?
-MF[SO]VC[V]	pp-sname	5	7	Weil in dem Jahr Vietnam ein Grundgehalt bekommt .
-VF[S]LK[V]MF[O]	pp-sname	1	6	Anke zieht in dem Jahr Bauzaun .
-VF[O]LK[V]MF[S]	pp-sname	6	1	Bauzaun zieht in dem Jahr Anke .
-VF[ADV]LK[V]MF[SO]	pp-sname	6	7	Deshalb zieht in dem Jahr Anke Bauzaun .
-LK[V]MF[SO]	pp-sname	5	6	Zieht in dem Jahr Anke Bauzaun ?
-MF[SO]VC[V]	pp-sname	5	6	Weil in dem Jahr Anke Bauzaun zieht .
-VF[S]LK[V]MF[O]	pp-sname	1	7	Bonn gewinnt in dem Jahr eine Tour .
-VF[O]LK[V]MF[S]	pp-sname	7	2	Eine Tour gewinnt in dem Jahr Bonn .
-VF[ADV]LK[V]MF[SO]	pp-sname	6	8	Deshalb gewinnt in dem Jahr Bonn eine Tour .
-LK[V]MF[SO]	pp-sname	5	7	Gewinnt in dem Jahr Bonn eine Tour ?
-MF[SO]VC[V]	pp-sname	5	7	Weil in dem Jahr Bonn eine Tour gewinnt .
-VF[S]LK[V]MF[O]	pp-sname	1	7	EnBW übernimmt in dem Jahr eine Bauausführung .
-VF[O]LK[V]MF[S]	pp-sname	7	2	Eine Bauausführung übernimmt in dem Jahr EnBW .
-VF[ADV]LK[V]MF[SO]	pp-sname	6	8	Deshalb übernimmt in dem Jahr EnBW eine Bauausführung .
-LK[V]MF[SO]	pp-sname	5	7	Übernimmt in dem Jahr EnBW eine Bauausführung ?
-MF[SO]VC[V]	pp-sname	5	7	Weil in dem Jahr EnBW eine Bauausführung übernimmt .
 VF[S]LK[V]MF[O]	oan-sname	1	4	Siemens ernennt eine Vertreterin .
 VF[ADV]LK[V]MF[SO]	oan-sname	3	5	Deshalb ernennt Siemens eine Vertreterin .
 LK[V]MF[SO]	oan-sname	2	4	Ernennt Siemens eine Vertreterin ?
@@ -3415,81 +2665,6 @@ VF[O]LK[V]MF[S]	oneg-semas	5	2	Keine Azubis belehren die Meister .
 VF[ADV]LK[V]MF[SO]	oneg-semas	4	6	Deshalb belehren die Meister keine Azubis .
 LK[V]MF[SO]	oneg-semas	3	5	Belehren die Meister keine Azubis ?
 MF[SO]VC[V]	oneg-semas	3	5	Weil die Meister keine Azubis belehren .
-VF[S]LK[V]MF[O]	pp-semas	2	8	Die Starke hält in dem Jahr eine Schwache .
-VF[O]LK[V]MF[S]	pp-semas	8	2	Eine Schwache hält in dem Jahr die Starke .
-VF[ADV]LK[V]MF[SO]	pp-semas	7	9	Deshalb hält in dem Jahr die Starke eine Schwache .
-LK[V]MF[SO]	pp-semas	6	8	Hält in dem Jahr die Starke eine Schwache ?
-MF[SO]VC[V]	pp-semas	6	8	Weil in dem Jahr die Starke eine Schwache hält .
-VF[S]LK[V]MF[O]	pp-semas	2	8	Die Spürhündin findet in dem Jahr eine Beute .
-VF[O]LK[V]MF[S]	pp-semas	8	2	Eine Beute findet in dem Jahr die Spürhündin .
-VF[ADV]LK[V]MF[SO]	pp-semas	7	9	Deshalb findet in dem Jahr die Spürhündin eine Beute .
-LK[V]MF[SO]	pp-semas	6	8	Findet in dem Jahr die Spürhündin eine Beute ?
-MF[SO]VC[V]	pp-semas	6	8	Weil in dem Jahr die Spürhündin eine Beute findet .
-VF[S]LK[V]MF[O]	pp-semas	2	8	Die Barbierin rasiert in dem Jahr eine Kundin .
-VF[O]LK[V]MF[S]	pp-semas	8	2	Eine Kundin rasiert in dem Jahr die Barbierin .
-VF[ADV]LK[V]MF[SO]	pp-semas	7	9	Deshalb rasiert in dem Jahr die Barbierin eine Kundin .
-LK[V]MF[SO]	pp-semas	6	8	Rasiert in dem Jahr die Barbierin eine Kundin ?
-MF[SO]VC[V]	pp-semas	6	8	Weil in dem Jahr die Barbierin eine Kundin rasiert .
-VF[S]LK[V]MF[O]	pp-semas	2	8	Die Polizistin verhaftet in dem Jahr eine Verdächtige .
-VF[O]LK[V]MF[S]	pp-semas	8	2	Eine Verdächtige verhaftet in dem Jahr die Polizistin .
-VF[ADV]LK[V]MF[SO]	pp-semas	7	9	Deshalb verhaftet in dem Jahr die Polizistin eine Verdächtige .
-LK[V]MF[SO]	pp-semas	6	8	Verhaftet in dem Jahr die Polizistin eine Verdächtige ?
-MF[SO]VC[V]	pp-semas	6	8	Weil in dem Jahr die Polizistin eine Verdächtige verhaftet .
-VF[S]LK[V]MF[O]	pp-semas	2	8	Die Lehrerin unterrichtet in dem Jahr eine Schülerin .
-VF[O]LK[V]MF[S]	pp-semas	8	2	Eine Schülerin unterrichtet in dem Jahr die Lehrerin .
-VF[ADV]LK[V]MF[SO]	pp-semas	7	9	Deshalb unterrichtet in dem Jahr die Lehrerin eine Schülerin .
-LK[V]MF[SO]	pp-semas	6	8	Unterrichtet in dem Jahr die Lehrerin eine Schülerin ?
-MF[SO]VC[V]	pp-semas	6	8	Weil in dem Jahr die Lehrerin eine Schülerin unterrichtet .
-VF[S]LK[V]MF[O]	pp-semas	2	7	Die Mütter stillen in dem Jahr Söhne .
-VF[O]LK[V]MF[S]	pp-semas	7	1	Söhne stillen in dem Jahr die Mütter .
-VF[ADV]LK[V]MF[SO]	pp-semas	7	8	Deshalb stillen in dem Jahr die Mütter Söhne .
-LK[V]MF[SO]	pp-semas	6	7	Stillen in dem Jahr die Mütter Söhne ?
-MF[SO]VC[V]	pp-semas	6	7	Weil in dem Jahr die Mütter Söhne stillen .
-VF[S]LK[V]MF[O]	pp-semas	2	8	Die Präsidentin befehligt in dem Jahr eine Soldatin .
-VF[O]LK[V]MF[S]	pp-semas	8	2	Eine Soldatin befehligt in dem Jahr die Präsidentin .
-VF[ADV]LK[V]MF[SO]	pp-semas	7	9	Deshalb befehligt in dem Jahr die Präsidentin eine Soldatin .
-LK[V]MF[SO]	pp-semas	6	8	Befehligt in dem Jahr die Präsidentin eine Soldatin ?
-MF[SO]VC[V]	pp-semas	6	8	Weil in dem Jahr die Präsidentin eine Soldatin befehligt .
-VF[S]LK[V]MF[O]	pp-semas	2	8	Die Vorgesetzte entlässt in dem Jahr eine Angestellte .
-VF[O]LK[V]MF[S]	pp-semas	8	2	Eine Angestellte entlässt in dem Jahr die Vorgesetzte .
-VF[ADV]LK[V]MF[SO]	pp-semas	7	9	Deshalb entlässt in dem Jahr die Vorgesetzte eine Angestellte .
-LK[V]MF[SO]	pp-semas	6	8	Entlässt in dem Jahr die Vorgesetzte eine Angestellte ?
-MF[SO]VC[V]	pp-semas	6	8	Weil in dem Jahr die Vorgesetzte eine Angestellte entlässt .
-VF[S]LK[V]MF[O]	pp-semas	2	8	Die Produzentin beliefert in dem Jahr eine Abnehmerin .
-VF[O]LK[V]MF[S]	pp-semas	8	2	Eine Abnehmerin beliefert in dem Jahr die Produzentin .
-VF[ADV]LK[V]MF[SO]	pp-semas	7	9	Deshalb beliefert in dem Jahr die Produzentin eine Abnehmerin .
-LK[V]MF[SO]	pp-semas	6	8	Beliefert in dem Jahr die Produzentin eine Abnehmerin ?
-MF[SO]VC[V]	pp-semas	6	8	Weil in dem Jahr die Produzentin eine Abnehmerin beliefert .
-VF[S]LK[V]MF[O]	pp-semas	2	7	Die Teenager bejubeln in dem Jahr Stars .
-VF[O]LK[V]MF[S]	pp-semas	7	1	Stars bejubeln in dem Jahr die Teenager .
-VF[ADV]LK[V]MF[SO]	pp-semas	7	8	Deshalb bejubeln in dem Jahr die Teenager Stars .
-LK[V]MF[SO]	pp-semas	6	7	Bejubeln in dem Jahr die Teenager Stars ?
-MF[SO]VC[V]	pp-semas	6	7	Weil in dem Jahr die Teenager Stars bejubeln .
-VF[S]LK[V]MF[O]	pp-semas	2	8	Die Ärztin behandelt in dem Jahr eine Patientin .
-VF[O]LK[V]MF[S]	pp-semas	8	2	Eine Patientin behandelt in dem Jahr die Ärztin .
-VF[ADV]LK[V]MF[SO]	pp-semas	7	9	Deshalb behandelt in dem Jahr die Ärztin eine Patientin .
-LK[V]MF[SO]	pp-semas	6	8	Behandelt in dem Jahr die Ärztin eine Patientin ?
-MF[SO]VC[V]	pp-semas	6	8	Weil in dem Jahr die Ärztin eine Patientin behandelt .
-VF[S]LK[V]MF[O]	pp-semas	2	8	Die Eigentümerin rügt in dem Jahr eine Pächterin .
-VF[O]LK[V]MF[S]	pp-semas	8	2	Eine Pächterin rügt in dem Jahr die Eigentümerin .
-VF[ADV]LK[V]MF[SO]	pp-semas	7	9	Deshalb rügt in dem Jahr die Eigentümerin eine Pächterin .
-LK[V]MF[SO]	pp-semas	6	8	Rügt in dem Jahr die Eigentümerin eine Pächterin ?
-MF[SO]VC[V]	pp-semas	6	8	Weil in dem Jahr die Eigentümerin eine Pächterin rügt .
-VF[S]LK[V]MF[O]	pp-semas	2	8	Die Pfarrerin betreut in dem Jahr ein Beichtkind .
-VF[O]LK[V]MF[S]	pp-semas	8	2	Ein Beichtkind betreut in dem Jahr die Pfarrerin .
-VF[ADV]LK[V]MF[SO]	pp-semas	7	9	Deshalb betreut in dem Jahr die Pfarrerin ein Beichtkind .
-LK[V]MF[SO]	pp-semas	6	8	Betreut in dem Jahr die Pfarrerin ein Beichtkind ?
-MF[SO]VC[V]	pp-semas	6	8	Weil in dem Jahr die Pfarrerin ein Beichtkind betreut .
-VF[S]LK[V]MF[O]	pp-semas	2	8	Die Prüferin testet in dem Jahr eine Examenskandidatin .
-VF[O]LK[V]MF[S]	pp-semas	8	2	Eine Examenskandidatin testet in dem Jahr die Prüferin .
-VF[ADV]LK[V]MF[SO]	pp-semas	7	9	Deshalb testet in dem Jahr die Prüferin eine Examenskandidatin .
-LK[V]MF[SO]	pp-semas	6	8	Testet in dem Jahr die Prüferin eine Examenskandidatin ?
-MF[SO]VC[V]	pp-semas	6	8	Weil in dem Jahr die Prüferin eine Examenskandidatin testet .
-VF[S]LK[V]MF[O]	pp-semas	2	7	Die Meister belehren in dem Jahr Azubis .
-VF[O]LK[V]MF[S]	pp-semas	7	1	Azubis belehren in dem Jahr die Meister .
-VF[ADV]LK[V]MF[SO]	pp-semas	7	8	Deshalb belehren in dem Jahr die Meister Azubis .
-LK[V]MF[SO]	pp-semas	6	7	Belehren in dem Jahr die Meister Azubis ?
-MF[SO]VC[V]	pp-semas	6	7	Weil in dem Jahr die Meister Azubis belehren .
 VF[S]LK[V]MF[O]	regpol-semas	2	5	Die Gemeinschaft hält eine Schwache .
 VF[O]LK[V]MF[S]	regpol-semas	5	2	Eine Schwache hält die Gemeinschaft .
 VF[ADV]LK[V]MF[SO]	regpol-semas	4	6	Deshalb hält die Gemeinschaft eine Schwache .
@@ -3790,81 +2965,6 @@ VF[O]LK[V]MF[S]	spron-noref	3	1	Nichts übernimmt sie .
 VF[ADV]LK[V]MF[SO]	spron-noref	3	4	Deshalb übernimmt sie nichts .
 LK[V]MF[SO]	spron-noref	2	3	Übernimmt sie nichts ?
 MF[SO]VC[V]	spron-noref	2	3	Weil sie nichts übernimmt .
-VF[S]LK[V]MF[O]	pp-noref	2	7	Die Generalin startet in dem Jahr nichts .
-VF[O]LK[V]MF[S]	pp-noref	7	1	Nichts startet in dem Jahr die Generalin .
-VF[ADV]LK[V]MF[SO]	pp-noref	7	8	Deshalb startet in dem Jahr die Generalin nichts .
-LK[V]MF[SO]	pp-noref	6	7	Startet in dem Jahr die Generalin nichts ?
-MF[SO]VC[V]	pp-noref	6	7	Weil in dem Jahr die Generalin nichts startet .
-VF[S]LK[V]MF[O]	pp-noref	2	7	Die Partnerin lebt in dem Jahr nichts .
-VF[O]LK[V]MF[S]	pp-noref	7	1	Nichts lebt in dem Jahr die Partnerin .
-VF[ADV]LK[V]MF[SO]	pp-noref	7	8	Deshalb lebt in dem Jahr die Partnerin nichts .
-LK[V]MF[SO]	pp-noref	6	7	Lebt in dem Jahr die Partnerin nichts ?
-MF[SO]VC[V]	pp-noref	6	7	Weil in dem Jahr die Partnerin nichts lebt .
-VF[S]LK[V]MF[O]	pp-noref	2	7	Die Journalistin übertextet in dem Jahr nichts .
-VF[O]LK[V]MF[S]	pp-noref	7	1	Nichts übertextet in dem Jahr die Journalistin .
-VF[ADV]LK[V]MF[SO]	pp-noref	7	8	Deshalb übertextet in dem Jahr die Journalistin nichts .
-LK[V]MF[SO]	pp-noref	6	7	Übertextet in dem Jahr die Journalistin nichts ?
-MF[SO]VC[V]	pp-noref	6	7	Weil in dem Jahr die Journalistin nichts übertextet .
-VF[S]LK[V]MF[O]	pp-noref	2	7	Die Freundin spielt in dem Jahr nichts .
-VF[O]LK[V]MF[S]	pp-noref	7	1	Nichts spielt in dem Jahr die Freundin .
-VF[ADV]LK[V]MF[SO]	pp-noref	7	8	Deshalb spielt in dem Jahr die Freundin nichts .
-LK[V]MF[SO]	pp-noref	6	7	Spielt in dem Jahr die Freundin nichts ?
-MF[SO]VC[V]	pp-noref	6	7	Weil in dem Jahr die Freundin nichts spielt .
-VF[S]LK[V]MF[O]	pp-noref	2	7	Die Passantin bewirft in dem Jahr nichts .
-VF[O]LK[V]MF[S]	pp-noref	7	1	Nichts bewirft in dem Jahr die Passantin .
-VF[ADV]LK[V]MF[SO]	pp-noref	7	8	Deshalb bewirft in dem Jahr die Passantin nichts .
-LK[V]MF[SO]	pp-noref	6	7	Bewirft in dem Jahr die Passantin nichts ?
-MF[SO]VC[V]	pp-noref	6	7	Weil in dem Jahr die Passantin nichts bewirft .
-VF[S]LK[V]MF[O]	pp-noref	2	7	Das Kind findet in dem Jahr nichts .
-VF[O]LK[V]MF[S]	pp-noref	7	1	Nichts findet in dem Jahr das Kind .
-VF[ADV]LK[V]MF[SO]	pp-noref	7	8	Deshalb findet in dem Jahr das Kind nichts .
-LK[V]MF[SO]	pp-noref	6	7	Findet in dem Jahr das Kind nichts ?
-MF[SO]VC[V]	pp-noref	6	7	Weil in dem Jahr das Kind nichts findet .
-VF[S]LK[V]MF[O]	pp-noref	2	7	Die Leserin abonniert in dem Jahr nichts .
-VF[O]LK[V]MF[S]	pp-noref	7	1	Nichts abonniert in dem Jahr die Leserin .
-VF[ADV]LK[V]MF[SO]	pp-noref	7	8	Deshalb abonniert in dem Jahr die Leserin nichts .
-LK[V]MF[SO]	pp-noref	6	7	Abonniert in dem Jahr die Leserin nichts ?
-MF[SO]VC[V]	pp-noref	6	7	Weil in dem Jahr die Leserin nichts abonniert .
-VF[S]LK[V]MF[O]	pp-noref	2	7	Die Herrin rasiert in dem Jahr nichts .
-VF[O]LK[V]MF[S]	pp-noref	7	1	Nichts rasiert in dem Jahr die Herrin .
-VF[ADV]LK[V]MF[SO]	pp-noref	7	8	Deshalb rasiert in dem Jahr die Herrin nichts .
-LK[V]MF[SO]	pp-noref	6	7	Rasiert in dem Jahr die Herrin nichts ?
-MF[SO]VC[V]	pp-noref	6	7	Weil in dem Jahr die Herrin nichts rasiert .
-VF[S]LK[V]MF[O]	pp-noref	2	7	Die Mama trinkt in dem Jahr nichts .
-VF[O]LK[V]MF[S]	pp-noref	7	1	Nichts trinkt in dem Jahr die Mama .
-VF[ADV]LK[V]MF[SO]	pp-noref	7	8	Deshalb trinkt in dem Jahr die Mama nichts .
-LK[V]MF[SO]	pp-noref	6	7	Trinkt in dem Jahr die Mama nichts ?
-MF[SO]VC[V]	pp-noref	6	7	Weil in dem Jahr die Mama nichts trinkt .
-VF[S]LK[V]MF[O]	pp-noref	2	7	Die Schriftstellerin schreibt in dem Jahr nichts .
-VF[O]LK[V]MF[S]	pp-noref	7	1	Nichts schreibt in dem Jahr die Schriftstellerin .
-VF[ADV]LK[V]MF[SO]	pp-noref	7	8	Deshalb schreibt in dem Jahr die Schriftstellerin nichts .
-LK[V]MF[SO]	pp-noref	6	7	Schreibt in dem Jahr die Schriftstellerin nichts ?
-MF[SO]VC[V]	pp-noref	6	7	Weil in dem Jahr die Schriftstellerin nichts schreibt .
-VF[S]LK[V]MF[O]	pp-noref	2	7	Die Politikerin beendet in dem Jahr nichts .
-VF[O]LK[V]MF[S]	pp-noref	7	1	Nichts beendet in dem Jahr die Politikerin .
-VF[ADV]LK[V]MF[SO]	pp-noref	7	8	Deshalb beendet in dem Jahr die Politikerin nichts .
-LK[V]MF[SO]	pp-noref	6	7	Beendet in dem Jahr die Politikerin nichts ?
-MF[SO]VC[V]	pp-noref	6	7	Weil in dem Jahr die Politikerin nichts beendet .
-VF[S]LK[V]MF[O]	pp-noref	2	7	Die Abgeordnete bekommt in dem Jahr nichts .
-VF[O]LK[V]MF[S]	pp-noref	7	1	Nichts bekommt in dem Jahr die Abgeordnete .
-VF[ADV]LK[V]MF[SO]	pp-noref	7	8	Deshalb bekommt in dem Jahr die Abgeordnete nichts .
-LK[V]MF[SO]	pp-noref	6	7	Bekommt in dem Jahr die Abgeordnete nichts ?
-MF[SO]VC[V]	pp-noref	6	7	Weil in dem Jahr die Abgeordnete nichts bekommt .
-VF[S]LK[V]MF[O]	pp-noref	2	7	Die Kleinbäuerin zieht in dem Jahr nichts .
-VF[O]LK[V]MF[S]	pp-noref	7	1	Nichts zieht in dem Jahr die Kleinbäuerin .
-VF[ADV]LK[V]MF[SO]	pp-noref	7	8	Deshalb zieht in dem Jahr die Kleinbäuerin nichts .
-LK[V]MF[SO]	pp-noref	6	7	Zieht in dem Jahr die Kleinbäuerin nichts ?
-MF[SO]VC[V]	pp-noref	6	7	Weil in dem Jahr die Kleinbäuerin nichts zieht .
-VF[S]LK[V]MF[O]	pp-noref	2	7	Die Sportlerin gewinnt in dem Jahr nichts .
-VF[O]LK[V]MF[S]	pp-noref	7	1	Nichts gewinnt in dem Jahr die Sportlerin .
-VF[ADV]LK[V]MF[SO]	pp-noref	7	8	Deshalb gewinnt in dem Jahr die Sportlerin nichts .
-LK[V]MF[SO]	pp-noref	6	7	Gewinnt in dem Jahr die Sportlerin nichts ?
-MF[SO]VC[V]	pp-noref	6	7	Weil in dem Jahr die Sportlerin nichts gewinnt .
-VF[S]LK[V]MF[O]	pp-noref	2	7	Die Handwerkerin übernimmt in dem Jahr nichts .
-VF[O]LK[V]MF[S]	pp-noref	7	1	Nichts übernimmt in dem Jahr die Handwerkerin .
-VF[ADV]LK[V]MF[SO]	pp-noref	7	8	Deshalb übernimmt in dem Jahr die Handwerkerin nichts .
-LK[V]MF[SO]	pp-noref	6	7	Übernimmt in dem Jahr die Handwerkerin nichts ?
-MF[SO]VC[V]	pp-noref	6	7	Weil in dem Jahr die Handwerkerin nichts übernimmt .
 VF[S]LK[V]MF[O]	sinan-noref	2	4	Die Quote umgeht nichts .
 VF[ADV]LK[V]MF[SO]	sinan-noref	4	5	Deshalb umgeht die Quote nichts .
 LK[V]MF[SO]	sinan-noref	3	4	Umgeht die Quote nichts ?
@@ -4546,111 +3646,6 @@ LK[V]MF[SO]	oneg-psy	3	5	Belustigt die Bauausführung keine Handwerkerin ?
 LK[V]MF[OS]	oneg-psy	5	3	Belustigt keine Handwerkerin die Bauausführung ?
 MF[SO]VC[V]	oneg-psy	3	5	Weil die Bauausführung keine Handwerkerin belustigt .
 MF[OS]VC[V]	oneg-psy	5	3	Weil keine Handwerkerin die Bauausführung belustigt .
-VF[S]LK[V]MF[O]	pp-psy	2	7	Die Angriffe fesseln in dem Jahr Generäle .
-VF[O]LK[V]MF[S]	pp-psy	7	1	Generäle fesseln in dem Jahr die Angriffe .
-VF[ADV]LK[V]MF[SO]	pp-psy	7	8	Deshalb fesseln in dem Jahr die Angriffe Generäle .
-LK[V]MF[SO]	pp-psy	6	7	Fesseln in dem Jahr die Angriffe Generäle ?
-MF[SO]VC[V]	pp-psy	6	7	Weil in dem Jahr die Angriffe Generäle fesseln .
-VF[S]LK[V]MF[O]	pp-psy	2	8	Das Doppelleben langweilt in dem Jahr eine Partnerin .
-VF[O]LK[V]MF[S]	pp-psy	8	2	Eine Partnerin langweilt in dem Jahr das Doppelleben .
-VF[ADV]LK[V]MF[SO]	pp-psy	7	9	Deshalb langweilt in dem Jahr das Doppelleben eine Partnerin .
-VF[ADV]LK[V]MF[OS]	pp-psy	9	7	Deshalb langweilt in dem Jahr eine Partnerin das Doppelleben .
-LK[V]MF[SO]	pp-psy	6	8	Langweilt in dem Jahr das Doppelleben eine Partnerin ?
-LK[V]MF[OS]	pp-psy	8	6	Langweilt in dem Jahr eine Partnerin das Doppelleben ?
-MF[SO]VC[V]	pp-psy	6	8	Weil in dem Jahr das Doppelleben eine Partnerin langweilt .
-MF[OS]VC[V]	pp-psy	8	6	Weil in dem Jahr eine Partnerin das Doppelleben langweilt .
-VF[S]LK[V]MF[O]	pp-psy	2	8	Die Aufnahme begeistert in dem Jahr eine Journalistin .
-VF[O]LK[V]MF[S]	pp-psy	8	2	Eine Journalistin begeistert in dem Jahr die Aufnahme .
-VF[ADV]LK[V]MF[SO]	pp-psy	7	9	Deshalb begeistert in dem Jahr die Aufnahme eine Journalistin .
-VF[ADV]LK[V]MF[OS]	pp-psy	9	7	Deshalb begeistert in dem Jahr eine Journalistin die Aufnahme .
-LK[V]MF[SO]	pp-psy	6	8	Begeistert in dem Jahr die Aufnahme eine Journalistin ?
-LK[V]MF[OS]	pp-psy	8	6	Begeistert in dem Jahr eine Journalistin die Aufnahme ?
-MF[SO]VC[V]	pp-psy	6	8	Weil in dem Jahr die Aufnahme eine Journalistin begeistert .
-MF[OS]VC[V]	pp-psy	8	6	Weil in dem Jahr eine Journalistin die Aufnahme begeistert .
-VF[S]LK[V]MF[O]	pp-psy	2	8	Die Traumhochzeit erzürnt in dem Jahr eine Freundin .
-VF[O]LK[V]MF[S]	pp-psy	8	2	Eine Freundin erzürnt in dem Jahr die Traumhochzeit .
-VF[ADV]LK[V]MF[SO]	pp-psy	7	9	Deshalb erzürnt in dem Jahr die Traumhochzeit eine Freundin .
-VF[ADV]LK[V]MF[OS]	pp-psy	9	7	Deshalb erzürnt in dem Jahr eine Freundin die Traumhochzeit .
-LK[V]MF[SO]	pp-psy	6	8	Erzürnt in dem Jahr die Traumhochzeit eine Freundin ?
-LK[V]MF[OS]	pp-psy	8	6	Erzürnt in dem Jahr eine Freundin die Traumhochzeit ?
-MF[SO]VC[V]	pp-psy	6	8	Weil in dem Jahr die Traumhochzeit eine Freundin erzürnt .
-MF[OS]VC[V]	pp-psy	8	6	Weil in dem Jahr eine Freundin die Traumhochzeit erzürnt .
-VF[S]LK[V]MF[O]	pp-psy	2	8	Das Kunstwerk fasziniert in dem Jahr eine Passantin .
-VF[O]LK[V]MF[S]	pp-psy	8	2	Eine Passantin fasziniert in dem Jahr das Kunstwerk .
-VF[ADV]LK[V]MF[SO]	pp-psy	7	9	Deshalb fasziniert in dem Jahr das Kunstwerk eine Passantin .
-VF[ADV]LK[V]MF[OS]	pp-psy	9	7	Deshalb fasziniert in dem Jahr eine Passantin das Kunstwerk .
-LK[V]MF[SO]	pp-psy	6	8	Fasziniert in dem Jahr das Kunstwerk eine Passantin ?
-LK[V]MF[OS]	pp-psy	8	6	Fasziniert in dem Jahr eine Passantin das Kunstwerk ?
-MF[SO]VC[V]	pp-psy	6	8	Weil in dem Jahr das Kunstwerk eine Passantin fasziniert .
-MF[OS]VC[V]	pp-psy	8	6	Weil in dem Jahr eine Passantin das Kunstwerk fasziniert .
-VF[S]LK[V]MF[O]	pp-psy	2	8	Die Lösung berührt in dem Jahr ein Kind .
-VF[O]LK[V]MF[S]	pp-psy	8	2	Ein Kind berührt in dem Jahr die Lösung .
-VF[ADV]LK[V]MF[SO]	pp-psy	7	9	Deshalb berührt in dem Jahr die Lösung ein Kind .
-VF[ADV]LK[V]MF[OS]	pp-psy	9	7	Deshalb berührt in dem Jahr ein Kind die Lösung .
-LK[V]MF[SO]	pp-psy	6	8	Berührt in dem Jahr die Lösung ein Kind ?
-LK[V]MF[OS]	pp-psy	8	6	Berührt in dem Jahr ein Kind die Lösung ?
-MF[SO]VC[V]	pp-psy	6	8	Weil in dem Jahr die Lösung ein Kind berührt .
-MF[OS]VC[V]	pp-psy	8	6	Weil in dem Jahr ein Kind die Lösung berührt .
-VF[S]LK[V]MF[O]	pp-psy	2	8	Die Zeitschrift ängstigt in dem Jahr eine Leserin .
-VF[O]LK[V]MF[S]	pp-psy	8	2	Eine Leserin ängstigt in dem Jahr die Zeitschrift .
-VF[ADV]LK[V]MF[SO]	pp-psy	7	9	Deshalb ängstigt in dem Jahr die Zeitschrift eine Leserin .
-VF[ADV]LK[V]MF[OS]	pp-psy	9	7	Deshalb ängstigt in dem Jahr eine Leserin die Zeitschrift .
-LK[V]MF[SO]	pp-psy	6	8	Ängstigt in dem Jahr die Zeitschrift eine Leserin ?
-LK[V]MF[OS]	pp-psy	8	6	Ängstigt in dem Jahr eine Leserin die Zeitschrift ?
-MF[SO]VC[V]	pp-psy	6	8	Weil in dem Jahr die Zeitschrift eine Leserin ängstigt .
-MF[OS]VC[V]	pp-psy	8	6	Weil in dem Jahr eine Leserin die Zeitschrift ängstigt .
-VF[S]LK[V]MF[O]	pp-psy	2	7	Die Bärte erstaunen in dem Jahr Herren .
-VF[O]LK[V]MF[S]	pp-psy	7	1	Herren erstaunen in dem Jahr die Bärte .
-VF[ADV]LK[V]MF[SO]	pp-psy	7	8	Deshalb erstaunen in dem Jahr die Bärte Herren .
-LK[V]MF[SO]	pp-psy	6	7	Erstaunen in dem Jahr die Bärte Herren ?
-MF[SO]VC[V]	pp-psy	6	7	Weil in dem Jahr die Bärte Herren erstaunen .
-VF[S]LK[V]MF[O]	pp-psy	2	7	Die Kaffees erfreuen in dem Jahr Mamas .
-VF[O]LK[V]MF[S]	pp-psy	7	1	Mamas erfreuen in dem Jahr die Kaffees .
-VF[ADV]LK[V]MF[SO]	pp-psy	7	8	Deshalb erfreuen in dem Jahr die Kaffees Mamas .
-LK[V]MF[SO]	pp-psy	6	7	Erfreuen in dem Jahr die Kaffees Mamas ?
-MF[SO]VC[V]	pp-psy	6	7	Weil in dem Jahr die Kaffees Mamas erfreuen .
-VF[S]LK[V]MF[O]	pp-psy	2	7	Die Romane frustrieren in dem Jahr Schriftsteller .
-VF[O]LK[V]MF[S]	pp-psy	7	1	Schriftsteller frustrieren in dem Jahr die Romane .
-VF[ADV]LK[V]MF[SO]	pp-psy	7	8	Deshalb frustrieren in dem Jahr die Romane Schriftsteller .
-LK[V]MF[SO]	pp-psy	6	7	Frustrieren in dem Jahr die Romane Schriftsteller ?
-MF[SO]VC[V]	pp-psy	6	7	Weil in dem Jahr die Romane Schriftsteller frustrieren .
-VF[S]LK[V]MF[O]	pp-psy	2	8	Die Rede erbost in dem Jahr eine Politikerin .
-VF[O]LK[V]MF[S]	pp-psy	8	2	Eine Politikerin erbost in dem Jahr die Rede .
-VF[ADV]LK[V]MF[SO]	pp-psy	7	9	Deshalb erbost in dem Jahr die Rede eine Politikerin .
-VF[ADV]LK[V]MF[OS]	pp-psy	9	7	Deshalb erbost in dem Jahr eine Politikerin die Rede .
-LK[V]MF[SO]	pp-psy	6	8	Erbost in dem Jahr die Rede eine Politikerin ?
-LK[V]MF[OS]	pp-psy	8	6	Erbost in dem Jahr eine Politikerin die Rede ?
-MF[SO]VC[V]	pp-psy	6	8	Weil in dem Jahr die Rede eine Politikerin erbost .
-MF[OS]VC[V]	pp-psy	8	6	Weil in dem Jahr eine Politikerin die Rede erbost .
-VF[S]LK[V]MF[O]	pp-psy	2	8	Das Grundgehalt beschämt in dem Jahr eine Abgeordnete .
-VF[O]LK[V]MF[S]	pp-psy	8	2	Eine Abgeordnete beschämt in dem Jahr das Grundgehalt .
-VF[ADV]LK[V]MF[SO]	pp-psy	7	9	Deshalb beschämt in dem Jahr das Grundgehalt eine Abgeordnete .
-VF[ADV]LK[V]MF[OS]	pp-psy	9	7	Deshalb beschämt in dem Jahr eine Abgeordnete das Grundgehalt .
-LK[V]MF[SO]	pp-psy	6	8	Beschämt in dem Jahr das Grundgehalt eine Abgeordnete ?
-LK[V]MF[OS]	pp-psy	8	6	Beschämt in dem Jahr eine Abgeordnete das Grundgehalt ?
-MF[SO]VC[V]	pp-psy	6	8	Weil in dem Jahr das Grundgehalt eine Abgeordnete beschämt .
-MF[OS]VC[V]	pp-psy	8	6	Weil in dem Jahr eine Abgeordnete das Grundgehalt beschämt .
-VF[S]LK[V]MF[O]	pp-psy	2	7	Die Bauzäune reuen in dem Jahr Kleinbauern .
-VF[O]LK[V]MF[S]	pp-psy	7	1	Kleinbauern reuen in dem Jahr die Bauzäune .
-VF[ADV]LK[V]MF[SO]	pp-psy	7	8	Deshalb reuen in dem Jahr die Bauzäune Kleinbauern .
-LK[V]MF[SO]	pp-psy	6	7	Reuen in dem Jahr die Bauzäune Kleinbauern ?
-MF[SO]VC[V]	pp-psy	6	7	Weil in dem Jahr die Bauzäune Kleinbauern reuen .
-VF[S]LK[V]MF[O]	pp-psy	2	8	Die Tour amüsiert in dem Jahr eine Sportlerin .
-VF[O]LK[V]MF[S]	pp-psy	8	2	Eine Sportlerin amüsiert in dem Jahr die Tour .
-VF[ADV]LK[V]MF[SO]	pp-psy	7	9	Deshalb amüsiert in dem Jahr die Tour eine Sportlerin .
-VF[ADV]LK[V]MF[OS]	pp-psy	9	7	Deshalb amüsiert in dem Jahr eine Sportlerin die Tour .
-LK[V]MF[SO]	pp-psy	6	8	Amüsiert in dem Jahr die Tour eine Sportlerin ?
-LK[V]MF[OS]	pp-psy	8	6	Amüsiert in dem Jahr eine Sportlerin die Tour ?
-MF[SO]VC[V]	pp-psy	6	8	Weil in dem Jahr die Tour eine Sportlerin amüsiert .
-MF[OS]VC[V]	pp-psy	8	6	Weil in dem Jahr eine Sportlerin die Tour amüsiert .
-VF[S]LK[V]MF[O]	pp-psy	2	8	Die Bauausführung belustigt in dem Jahr eine Handwerkerin .
-VF[O]LK[V]MF[S]	pp-psy	8	2	Eine Handwerkerin belustigt in dem Jahr die Bauausführung .
-VF[ADV]LK[V]MF[SO]	pp-psy	7	9	Deshalb belustigt in dem Jahr die Bauausführung eine Handwerkerin .
-VF[ADV]LK[V]MF[OS]	pp-psy	9	7	Deshalb belustigt in dem Jahr eine Handwerkerin die Bauausführung .
-LK[V]MF[SO]	pp-psy	6	8	Belustigt in dem Jahr die Bauausführung eine Handwerkerin ?
-LK[V]MF[OS]	pp-psy	8	6	Belustigt in dem Jahr eine Handwerkerin die Bauausführung ?
-MF[SO]VC[V]	pp-psy	6	8	Weil in dem Jahr die Bauausführung eine Handwerkerin belustigt .
-MF[OS]VC[V]	pp-psy	8	6	Weil in dem Jahr eine Handwerkerin die Bauausführung belustigt .
 VF[S]LK[V]MF[O]	regpol-psy	2	4	Die Angriffe fesseln Kanzleien .
 VF[O]LK[V]MF[S]	regpol-psy	4	1	Kanzleien fesseln die Angriffe .
 VF[ADV]LK[V]MF[SO]	regpol-psy	4	5	Deshalb fesseln die Angriffe Kanzleien .
@@ -5220,81 +4215,6 @@ VF[O]LK[V]MF[S]	oneg-vlight	5	2	Keine Stellung bezieht die Pressesprecherin .
 VF[ADV]LK[V]MF[SO]	oneg-vlight	4	6	Deshalb bezieht die Pressesprecherin keine Stellung .
 LK[V]MF[SO]	oneg-vlight	3	5	Bezieht die Pressesprecherin keine Stellung ?
 MF[SO]VC[V]	oneg-vlight	3	5	Weil die Pressesprecherin keine Stellung bezieht .
-VF[S]LK[V]MF[O]	pp-vlight	2	7	Die Menschen machen in dem Jahr Fehler .
-VF[O]LK[V]MF[S]	pp-vlight	7	1	Fehler machen in dem Jahr die Menschen .
-VF[ADV]LK[V]MF[SO]	pp-vlight	7	8	Deshalb machen in dem Jahr die Menschen Fehler .
-LK[V]MF[SO]	pp-vlight	6	7	Machen in dem Jahr die Menschen Fehler ?
-MF[SO]VC[V]	pp-vlight	6	7	Weil in dem Jahr die Menschen Fehler machen .
-VF[S]LK[V]MF[O]	pp-vlight	2	7	Die Gauner begehen in dem Jahr Verbrechen .
-VF[O]LK[V]MF[S]	pp-vlight	7	1	Verbrechen begehen in dem Jahr die Gauner .
-VF[ADV]LK[V]MF[SO]	pp-vlight	7	8	Deshalb begehen in dem Jahr die Gauner Verbrechen .
-LK[V]MF[SO]	pp-vlight	6	7	Begehen in dem Jahr die Gauner Verbrechen ?
-MF[SO]VC[V]	pp-vlight	6	7	Weil in dem Jahr die Gauner Verbrechen begehen .
-VF[S]LK[V]MF[O]	pp-vlight	2	8	Die Chefin trifft in dem Jahr eine Entscheidung .
-VF[O]LK[V]MF[S]	pp-vlight	8	2	Eine Entscheidung trifft in dem Jahr die Chefin .
-VF[ADV]LK[V]MF[SO]	pp-vlight	7	9	Deshalb trifft in dem Jahr die Chefin eine Entscheidung .
-LK[V]MF[SO]	pp-vlight	6	8	Trifft in dem Jahr die Chefin eine Entscheidung ?
-MF[SO]VC[V]	pp-vlight	6	8	Weil in dem Jahr die Chefin eine Entscheidung trifft .
-VF[S]LK[V]MF[O]	pp-vlight	2	7	Die Anwälte stellen in dem Jahr Anträge .
-VF[O]LK[V]MF[S]	pp-vlight	7	1	Anträge stellen in dem Jahr die Anwälte .
-VF[ADV]LK[V]MF[SO]	pp-vlight	7	8	Deshalb stellen in dem Jahr die Anwälte Anträge .
-LK[V]MF[SO]	pp-vlight	6	7	Stellen in dem Jahr die Anwälte Anträge ?
-MF[SO]VC[V]	pp-vlight	6	7	Weil in dem Jahr die Anwälte Anträge stellen .
-VF[S]LK[V]MF[O]	pp-vlight	2	8	Die Schülerin stellt in dem Jahr eine Frage .
-VF[O]LK[V]MF[S]	pp-vlight	8	2	Eine Frage stellt in dem Jahr die Schülerin .
-VF[ADV]LK[V]MF[SO]	pp-vlight	7	9	Deshalb stellt in dem Jahr die Schülerin eine Frage .
-LK[V]MF[SO]	pp-vlight	6	8	Stellt in dem Jahr die Schülerin eine Frage ?
-MF[SO]VC[V]	pp-vlight	6	8	Weil in dem Jahr die Schülerin eine Frage stellt .
-VF[S]LK[V]MF[O]	pp-vlight	2	7	Die Sachbearbeiter erteilen in dem Jahr Aufträge .
-VF[O]LK[V]MF[S]	pp-vlight	7	1	Aufträge erteilen in dem Jahr die Sachbearbeiter .
-VF[ADV]LK[V]MF[SO]	pp-vlight	7	8	Deshalb erteilen in dem Jahr die Sachbearbeiter Aufträge .
-LK[V]MF[SO]	pp-vlight	6	7	Erteilen in dem Jahr die Sachbearbeiter Aufträge ?
-MF[SO]VC[V]	pp-vlight	6	7	Weil in dem Jahr die Sachbearbeiter Aufträge erteilen .
-VF[S]LK[V]MF[O]	pp-vlight	2	8	Das Tier spielt in dem Jahr eine Rolle .
-VF[O]LK[V]MF[S]	pp-vlight	8	2	Eine Rolle spielt in dem Jahr das Tier .
-VF[ADV]LK[V]MF[SO]	pp-vlight	7	9	Deshalb spielt in dem Jahr das Tier eine Rolle .
-LK[V]MF[SO]	pp-vlight	6	8	Spielt in dem Jahr das Tier eine Rolle ?
-MF[SO]VC[V]	pp-vlight	6	8	Weil in dem Jahr das Tier eine Rolle spielt .
-VF[S]LK[V]MF[O]	pp-vlight	2	7	Die Kollegin nimmt in dem Jahr Rücksicht .
-VF[O]LK[V]MF[S]	pp-vlight	7	1	Rücksicht nimmt in dem Jahr die Kollegin .
-VF[ADV]LK[V]MF[SO]	pp-vlight	7	8	Deshalb nimmt in dem Jahr die Kollegin Rücksicht .
-LK[V]MF[SO]	pp-vlight	6	7	Nimmt in dem Jahr die Kollegin Rücksicht ?
-MF[SO]VC[V]	pp-vlight	6	7	Weil in dem Jahr die Kollegin Rücksicht nimmt .
-VF[S]LK[V]MF[O]	pp-vlight	2	7	Die Freundin nimmt in dem Jahr Abschied .
-VF[O]LK[V]MF[S]	pp-vlight	7	1	Abschied nimmt in dem Jahr die Freundin .
-VF[ADV]LK[V]MF[SO]	pp-vlight	7	8	Deshalb nimmt in dem Jahr die Freundin Abschied .
-LK[V]MF[SO]	pp-vlight	6	7	Nimmt in dem Jahr die Freundin Abschied ?
-MF[SO]VC[V]	pp-vlight	6	7	Weil in dem Jahr die Freundin Abschied nimmt .
-VF[S]LK[V]MF[O]	pp-vlight	2	7	Die Kandidaten hegen in dem Jahr Hoffnungen .
-VF[O]LK[V]MF[S]	pp-vlight	7	1	Hoffnungen hegen in dem Jahr die Kandidaten .
-VF[ADV]LK[V]MF[SO]	pp-vlight	7	8	Deshalb hegen in dem Jahr die Kandidaten Hoffnungen .
-LK[V]MF[SO]	pp-vlight	6	7	Hegen in dem Jahr die Kandidaten Hoffnungen ?
-MF[SO]VC[V]	pp-vlight	6	7	Weil in dem Jahr die Kandidaten Hoffnungen hegen .
-VF[S]LK[V]MF[O]	pp-vlight	2	7	Die Politikerin nimmt in dem Jahr Einfluss .
-VF[O]LK[V]MF[S]	pp-vlight	7	1	Einfluss nimmt in dem Jahr die Politikerin .
-VF[ADV]LK[V]MF[SO]	pp-vlight	7	8	Deshalb nimmt in dem Jahr die Politikerin Einfluss .
-LK[V]MF[SO]	pp-vlight	6	7	Nimmt in dem Jahr die Politikerin Einfluss ?
-MF[SO]VC[V]	pp-vlight	6	7	Weil in dem Jahr die Politikerin Einfluss nimmt .
-VF[S]LK[V]MF[O]	pp-vlight	2	7	Die Gefangene leistet in dem Jahr Widerstand .
-VF[O]LK[V]MF[S]	pp-vlight	7	1	Widerstand leistet in dem Jahr die Gefangene .
-VF[ADV]LK[V]MF[SO]	pp-vlight	7	8	Deshalb leistet in dem Jahr die Gefangene Widerstand .
-LK[V]MF[SO]	pp-vlight	6	7	Leistet in dem Jahr die Gefangene Widerstand ?
-MF[SO]VC[V]	pp-vlight	6	7	Weil in dem Jahr die Gefangene Widerstand leistet .
-VF[S]LK[V]MF[O]	pp-vlight	2	7	Die Autorin übt in dem Jahr Kritik .
-VF[O]LK[V]MF[S]	pp-vlight	7	1	Kritik übt in dem Jahr die Autorin .
-VF[ADV]LK[V]MF[SO]	pp-vlight	7	8	Deshalb übt in dem Jahr die Autorin Kritik .
-LK[V]MF[SO]	pp-vlight	6	7	Übt in dem Jahr die Autorin Kritik ?
-MF[SO]VC[V]	pp-vlight	6	7	Weil in dem Jahr die Autorin Kritik übt .
-VF[S]LK[V]MF[O]	pp-vlight	2	7	Die Mountainbikerin treibt in dem Jahr Sport .
-VF[O]LK[V]MF[S]	pp-vlight	7	1	Sport treibt in dem Jahr die Mountainbikerin .
-VF[ADV]LK[V]MF[SO]	pp-vlight	7	8	Deshalb treibt in dem Jahr die Mountainbikerin Sport .
-LK[V]MF[SO]	pp-vlight	6	7	Treibt in dem Jahr die Mountainbikerin Sport ?
-MF[SO]VC[V]	pp-vlight	6	7	Weil in dem Jahr die Mountainbikerin Sport treibt .
-VF[S]LK[V]MF[O]	pp-vlight	2	7	Die Pressesprecherin bezieht in dem Jahr Stellung .
-VF[O]LK[V]MF[S]	pp-vlight	7	1	Stellung bezieht in dem Jahr die Pressesprecherin .
-VF[ADV]LK[V]MF[SO]	pp-vlight	7	8	Deshalb bezieht in dem Jahr die Pressesprecherin Stellung .
-LK[V]MF[SO]	pp-vlight	6	7	Bezieht in dem Jahr die Pressesprecherin Stellung ?
-MF[SO]VC[V]	pp-vlight	6	7	Weil in dem Jahr die Pressesprecherin Stellung bezieht .
 VF[S]LK[V]MF[O]	sinan-vlight	2	4	Die Programme machen Fehler .
 VF[O]LK[V]MF[S]	sinan-vlight	4	1	Fehler machen die Programme .
 VF[ADV]LK[V]MF[SO]	sinan-vlight	4	5	Deshalb machen die Programme Fehler .
@@ -5830,81 +4750,6 @@ VF[O]LK[V]MF[S]	oneg-syn	5	2	Keine Bauausführung bestreitet die Handwerkerin .
 VF[ADV]LK[V]MF[SO]	oneg-syn	4	6	Deshalb bestreitet die Handwerkerin keine Bauausführung .
 LK[V]MF[SO]	oneg-syn	3	5	Bestreitet die Handwerkerin keine Bauausführung ?
 MF[SO]VC[V]	oneg-syn	3	5	Weil die Handwerkerin keine Bauausführung bestreitet .
-VF[S]LK[V]MF[O]	pp-syn	2	7	Die Generäle beginnen in dem Jahr Angriffe .
-VF[O]LK[V]MF[S]	pp-syn	7	1	Angriffe beginnen in dem Jahr die Generäle .
-VF[ADV]LK[V]MF[SO]	pp-syn	7	8	Deshalb beginnen in dem Jahr die Generäle Angriffe .
-LK[V]MF[SO]	pp-syn	6	7	Beginnen in dem Jahr die Generäle Angriffe ?
-MF[SO]VC[V]	pp-syn	6	7	Weil in dem Jahr die Generäle Angriffe beginnen .
-VF[S]LK[V]MF[O]	pp-syn	2	8	Die Partnerin führt in dem Jahr ein Doppelleben .
-VF[O]LK[V]MF[S]	pp-syn	8	2	Ein Doppelleben führt in dem Jahr die Partnerin .
-VF[ADV]LK[V]MF[SO]	pp-syn	7	9	Deshalb führt in dem Jahr die Partnerin ein Doppelleben .
-LK[V]MF[SO]	pp-syn	6	8	Führt in dem Jahr die Partnerin ein Doppelleben ?
-MF[SO]VC[V]	pp-syn	6	8	Weil in dem Jahr die Partnerin ein Doppelleben führt .
-VF[S]LK[V]MF[O]	pp-syn	2	8	Die Journalistin überspielt in dem Jahr eine Aufnahme .
-VF[O]LK[V]MF[S]	pp-syn	8	2	Eine Aufnahme überspielt in dem Jahr die Journalistin .
-VF[ADV]LK[V]MF[SO]	pp-syn	7	9	Deshalb überspielt in dem Jahr die Journalistin eine Aufnahme .
-LK[V]MF[SO]	pp-syn	6	8	Überspielt in dem Jahr die Journalistin eine Aufnahme ?
-MF[SO]VC[V]	pp-syn	6	8	Weil in dem Jahr die Journalistin eine Aufnahme überspielt .
-VF[S]LK[V]MF[O]	pp-syn	2	8	Die Freundin inszeniert in dem Jahr eine Traumhochzeit .
-VF[O]LK[V]MF[S]	pp-syn	8	2	Eine Traumhochzeit inszeniert in dem Jahr die Freundin .
-VF[ADV]LK[V]MF[SO]	pp-syn	7	9	Deshalb inszeniert in dem Jahr die Freundin eine Traumhochzeit .
-LK[V]MF[SO]	pp-syn	6	8	Inszeniert in dem Jahr die Freundin eine Traumhochzeit ?
-MF[SO]VC[V]	pp-syn	6	8	Weil in dem Jahr die Freundin eine Traumhochzeit inszeniert .
-VF[S]LK[V]MF[O]	pp-syn	2	8	Die Passantin beschmeißt in dem Jahr ein Kunstwerk .
-VF[O]LK[V]MF[S]	pp-syn	8	2	Ein Kunstwerk beschmeißt in dem Jahr die Passantin .
-VF[ADV]LK[V]MF[SO]	pp-syn	7	9	Deshalb beschmeißt in dem Jahr die Passantin ein Kunstwerk .
-LK[V]MF[SO]	pp-syn	6	8	Beschmeißt in dem Jahr die Passantin ein Kunstwerk ?
-MF[SO]VC[V]	pp-syn	6	8	Weil in dem Jahr die Passantin ein Kunstwerk beschmeißt .
-VF[S]LK[V]MF[O]	pp-syn	2	8	Das Kind errät in dem Jahr eine Lösung .
-VF[O]LK[V]MF[S]	pp-syn	8	2	Eine Lösung errät in dem Jahr das Kind .
-VF[ADV]LK[V]MF[SO]	pp-syn	7	9	Deshalb errät in dem Jahr das Kind eine Lösung .
-LK[V]MF[SO]	pp-syn	6	8	Errät in dem Jahr das Kind eine Lösung ?
-MF[SO]VC[V]	pp-syn	6	8	Weil in dem Jahr das Kind eine Lösung errät .
-VF[S]LK[V]MF[O]	pp-syn	2	8	Die Leserin bestellt in dem Jahr eine Zeitschrift .
-VF[O]LK[V]MF[S]	pp-syn	8	2	Eine Zeitschrift bestellt in dem Jahr die Leserin .
-VF[ADV]LK[V]MF[SO]	pp-syn	7	9	Deshalb bestellt in dem Jahr die Leserin eine Zeitschrift .
-LK[V]MF[SO]	pp-syn	6	8	Bestellt in dem Jahr die Leserin eine Zeitschrift ?
-MF[SO]VC[V]	pp-syn	6	8	Weil in dem Jahr die Leserin eine Zeitschrift bestellt .
-VF[S]LK[V]MF[O]	pp-syn	2	7	Die Herren stutzen in dem Jahr Bärte .
-VF[O]LK[V]MF[S]	pp-syn	7	1	Bärte stutzen in dem Jahr die Herren .
-VF[ADV]LK[V]MF[SO]	pp-syn	7	8	Deshalb stutzen in dem Jahr die Herren Bärte .
-LK[V]MF[SO]	pp-syn	6	7	Stutzen in dem Jahr die Herren Bärte ?
-MF[SO]VC[V]	pp-syn	6	7	Weil in dem Jahr die Herren Bärte stutzen .
-VF[S]LK[V]MF[O]	pp-syn	2	7	Die Mamas schlürfen in dem Jahr Kaffees .
-VF[O]LK[V]MF[S]	pp-syn	7	1	Kaffees schlürfen in dem Jahr die Mamas .
-VF[ADV]LK[V]MF[SO]	pp-syn	7	8	Deshalb schlürfen in dem Jahr die Mamas Kaffees .
-LK[V]MF[SO]	pp-syn	6	7	Schlürfen in dem Jahr die Mamas Kaffees ?
-MF[SO]VC[V]	pp-syn	6	7	Weil in dem Jahr die Mamas Kaffees schlürfen .
-VF[S]LK[V]MF[O]	pp-syn	2	7	Die Schriftsteller verfassen in dem Jahr Romane .
-VF[O]LK[V]MF[S]	pp-syn	7	1	Romane verfassen in dem Jahr die Schriftsteller .
-VF[ADV]LK[V]MF[SO]	pp-syn	7	8	Deshalb verfassen in dem Jahr die Schriftsteller Romane .
-LK[V]MF[SO]	pp-syn	6	7	Verfassen in dem Jahr die Schriftsteller Romane ?
-MF[SO]VC[V]	pp-syn	6	7	Weil in dem Jahr die Schriftsteller Romane verfassen .
-VF[S]LK[V]MF[O]	pp-syn	2	8	Die Politikerin beendigt in dem Jahr eine Rede .
-VF[O]LK[V]MF[S]	pp-syn	8	2	Eine Rede beendigt in dem Jahr die Politikerin .
-VF[ADV]LK[V]MF[SO]	pp-syn	7	9	Deshalb beendigt in dem Jahr die Politikerin eine Rede .
-LK[V]MF[SO]	pp-syn	6	8	Beendigt in dem Jahr die Politikerin eine Rede ?
-MF[SO]VC[V]	pp-syn	6	8	Weil in dem Jahr die Politikerin eine Rede beendigt .
-VF[S]LK[V]MF[O]	pp-syn	2	8	Die Abgeordnete kriegt in dem Jahr ein Grundgehalt .
-VF[O]LK[V]MF[S]	pp-syn	8	2	Ein Grundgehalt kriegt in dem Jahr die Abgeordnete .
-VF[ADV]LK[V]MF[SO]	pp-syn	7	9	Deshalb kriegt in dem Jahr die Abgeordnete ein Grundgehalt .
-LK[V]MF[SO]	pp-syn	6	8	Kriegt in dem Jahr die Abgeordnete ein Grundgehalt ?
-MF[SO]VC[V]	pp-syn	6	8	Weil in dem Jahr die Abgeordnete ein Grundgehalt kriegt .
-VF[S]LK[V]MF[O]	pp-syn	2	7	Die Kleinbauern errichten in dem Jahr Bauzäune .
-VF[O]LK[V]MF[S]	pp-syn	7	1	Bauzäune errichten in dem Jahr die Kleinbauern .
-VF[ADV]LK[V]MF[SO]	pp-syn	7	8	Deshalb errichten in dem Jahr die Kleinbauern Bauzäune .
-LK[V]MF[SO]	pp-syn	6	7	Errichten in dem Jahr die Kleinbauern Bauzäune ?
-MF[SO]VC[V]	pp-syn	6	7	Weil in dem Jahr die Kleinbauern Bauzäune errichten .
-VF[S]LK[V]MF[O]	pp-syn	2	8	Die Sportlerin erringt in dem Jahr eine Tour .
-VF[O]LK[V]MF[S]	pp-syn	8	2	Eine Tour erringt in dem Jahr die Sportlerin .
-VF[ADV]LK[V]MF[SO]	pp-syn	7	9	Deshalb erringt in dem Jahr die Sportlerin eine Tour .
-LK[V]MF[SO]	pp-syn	6	8	Erringt in dem Jahr die Sportlerin eine Tour ?
-MF[SO]VC[V]	pp-syn	6	8	Weil in dem Jahr die Sportlerin eine Tour erringt .
-VF[S]LK[V]MF[O]	pp-syn	2	8	Die Handwerkerin bestreitet in dem Jahr eine Bauausführung .
-VF[O]LK[V]MF[S]	pp-syn	8	2	Eine Bauausführung bestreitet in dem Jahr die Handwerkerin .
-VF[ADV]LK[V]MF[SO]	pp-syn	7	9	Deshalb bestreitet in dem Jahr die Handwerkerin eine Bauausführung .
-LK[V]MF[SO]	pp-syn	6	8	Bestreitet in dem Jahr die Handwerkerin eine Bauausführung ?
-MF[SO]VC[V]	pp-syn	6	8	Weil in dem Jahr die Handwerkerin eine Bauausführung bestreitet .
 VF[S]LK[V]MF[O]	sinan-syn	2	5	Die Quote umschifft ein Argument .
 VF[O]LK[V]MF[S]	sinan-syn	5	2	Ein Argument umschifft die Quote .
 VF[ADV]LK[V]MF[SO]	sinan-syn	4	6	Deshalb umschifft die Quote ein Argument .
@@ -6662,6 +5507,1161 @@ VF[O]LK[V]MF[S]	oneg-prov	5	2	Kein Leben bestimmt das Schicksal .
 VF[ADV]LK[V]MF[SO]	oneg-prov	4	6	Deshalb bestimmt das Schicksal kein Leben .
 LK[V]MF[SO]	oneg-prov	3	5	Bestimmt das Schicksal kein Leben ?
 MF[SO]VC[V]	oneg-prov	3	5	Weil das Schicksal kein Leben bestimmt .
+VF[S]LK[V]MF[O]	base-pp	2	7	Die Generäle starten in dem Jahr Angriffe .
+VF[O]LK[V]MF[S]	base-pp	7	1	Angriffe starten in dem Jahr die Generäle .
+VF[ADV]LK[V]MF[SO]	base-pp	7	8	Deshalb starten in dem Jahr die Generäle Angriffe .
+LK[V]MF[SO]	base-pp	6	7	Starten in dem Jahr die Generäle Angriffe ?
+MF[SO]VC[V]	base-pp	6	7	Weil in dem Jahr die Generäle Angriffe starten .
+VF[S]LK[V]MF[O]	base-pp	2	8	Die Partnerin lebt in dem Jahr ein Doppelleben .
+VF[O]LK[V]MF[S]	base-pp	8	2	Ein Doppelleben lebt in dem Jahr die Partnerin .
+VF[ADV]LK[V]MF[SO]	base-pp	7	9	Deshalb lebt in dem Jahr die Partnerin ein Doppelleben .
+LK[V]MF[SO]	base-pp	6	8	Lebt in dem Jahr die Partnerin ein Doppelleben ?
+MF[SO]VC[V]	base-pp	6	8	Weil in dem Jahr die Partnerin ein Doppelleben lebt .
+VF[S]LK[V]MF[O]	base-pp	2	8	Die Journalistin übertextet in dem Jahr eine Aufnahme .
+VF[O]LK[V]MF[S]	base-pp	8	2	Eine Aufnahme übertextet in dem Jahr die Journalistin .
+VF[ADV]LK[V]MF[SO]	base-pp	7	9	Deshalb übertextet in dem Jahr die Journalistin eine Aufnahme .
+LK[V]MF[SO]	base-pp	6	8	Übertextet in dem Jahr die Journalistin eine Aufnahme ?
+MF[SO]VC[V]	base-pp	6	8	Weil in dem Jahr die Journalistin eine Aufnahme übertextet .
+VF[S]LK[V]MF[O]	base-pp	2	8	Die Freundin spielt in dem Jahr eine Traumhochzeit .
+VF[O]LK[V]MF[S]	base-pp	8	2	Eine Traumhochzeit spielt in dem Jahr die Freundin .
+VF[ADV]LK[V]MF[SO]	base-pp	7	9	Deshalb spielt in dem Jahr die Freundin eine Traumhochzeit .
+LK[V]MF[SO]	base-pp	6	8	Spielt in dem Jahr die Freundin eine Traumhochzeit ?
+MF[SO]VC[V]	base-pp	6	8	Weil in dem Jahr die Freundin eine Traumhochzeit spielt .
+VF[S]LK[V]MF[O]	base-pp	2	8	Die Passantin bewirft in dem Jahr ein Kunstwerk .
+VF[O]LK[V]MF[S]	base-pp	8	2	Ein Kunstwerk bewirft in dem Jahr die Passantin .
+VF[ADV]LK[V]MF[SO]	base-pp	7	9	Deshalb bewirft in dem Jahr die Passantin ein Kunstwerk .
+LK[V]MF[SO]	base-pp	6	8	Bewirft in dem Jahr die Passantin ein Kunstwerk ?
+MF[SO]VC[V]	base-pp	6	8	Weil in dem Jahr die Passantin ein Kunstwerk bewirft .
+VF[S]LK[V]MF[O]	base-pp	2	8	Das Kind findet in dem Jahr eine Lösung .
+VF[O]LK[V]MF[S]	base-pp	8	2	Eine Lösung findet in dem Jahr das Kind .
+VF[ADV]LK[V]MF[SO]	base-pp	7	9	Deshalb findet in dem Jahr das Kind eine Lösung .
+LK[V]MF[SO]	base-pp	6	8	Findet in dem Jahr das Kind eine Lösung ?
+MF[SO]VC[V]	base-pp	6	8	Weil in dem Jahr das Kind eine Lösung findet .
+VF[S]LK[V]MF[O]	base-pp	2	8	Die Leserin abonniert in dem Jahr eine Zeitschrift .
+VF[O]LK[V]MF[S]	base-pp	8	2	Eine Zeitschrift abonniert in dem Jahr die Leserin .
+VF[ADV]LK[V]MF[SO]	base-pp	7	9	Deshalb abonniert in dem Jahr die Leserin eine Zeitschrift .
+LK[V]MF[SO]	base-pp	6	8	Abonniert in dem Jahr die Leserin eine Zeitschrift ?
+MF[SO]VC[V]	base-pp	6	8	Weil in dem Jahr die Leserin eine Zeitschrift abonniert .
+VF[S]LK[V]MF[O]	base-pp	2	7	Die Herren rasieren in dem Jahr Bärte .
+VF[O]LK[V]MF[S]	base-pp	7	1	Bärte rasieren in dem Jahr die Herren .
+VF[ADV]LK[V]MF[SO]	base-pp	7	8	Deshalb rasieren in dem Jahr die Herren Bärte .
+LK[V]MF[SO]	base-pp	6	7	Rasieren in dem Jahr die Herren Bärte ?
+MF[SO]VC[V]	base-pp	6	7	Weil in dem Jahr die Herren Bärte rasieren .
+VF[S]LK[V]MF[O]	base-pp	2	7	Die Mamas trinken in dem Jahr Kaffees .
+VF[O]LK[V]MF[S]	base-pp	7	1	Kaffees trinken in dem Jahr die Mamas .
+VF[ADV]LK[V]MF[SO]	base-pp	7	8	Deshalb trinken in dem Jahr die Mamas Kaffees .
+LK[V]MF[SO]	base-pp	6	7	Trinken in dem Jahr die Mamas Kaffees ?
+MF[SO]VC[V]	base-pp	6	7	Weil in dem Jahr die Mamas Kaffees trinken .
+VF[S]LK[V]MF[O]	base-pp	2	7	Die Schriftsteller schreiben in dem Jahr Romane .
+VF[O]LK[V]MF[S]	base-pp	7	1	Romane schreiben in dem Jahr die Schriftsteller .
+VF[ADV]LK[V]MF[SO]	base-pp	7	8	Deshalb schreiben in dem Jahr die Schriftsteller Romane .
+LK[V]MF[SO]	base-pp	6	7	Schreiben in dem Jahr die Schriftsteller Romane ?
+MF[SO]VC[V]	base-pp	6	7	Weil in dem Jahr die Schriftsteller Romane schreiben .
+VF[S]LK[V]MF[O]	base-pp	2	8	Die Politikerin beendet in dem Jahr eine Rede .
+VF[O]LK[V]MF[S]	base-pp	8	2	Eine Rede beendet in dem Jahr die Politikerin .
+VF[ADV]LK[V]MF[SO]	base-pp	7	9	Deshalb beendet in dem Jahr die Politikerin eine Rede .
+LK[V]MF[SO]	base-pp	6	8	Beendet in dem Jahr die Politikerin eine Rede ?
+MF[SO]VC[V]	base-pp	6	8	Weil in dem Jahr die Politikerin eine Rede beendet .
+VF[S]LK[V]MF[O]	base-pp	2	8	Die Abgeordnete bekommt in dem Jahr ein Grundgehalt .
+VF[O]LK[V]MF[S]	base-pp	8	2	Ein Grundgehalt bekommt in dem Jahr die Abgeordnete .
+VF[ADV]LK[V]MF[SO]	base-pp	7	9	Deshalb bekommt in dem Jahr die Abgeordnete ein Grundgehalt .
+LK[V]MF[SO]	base-pp	6	8	Bekommt in dem Jahr die Abgeordnete ein Grundgehalt ?
+MF[SO]VC[V]	base-pp	6	8	Weil in dem Jahr die Abgeordnete ein Grundgehalt bekommt .
+VF[S]LK[V]MF[O]	base-pp	2	7	Die Kleinbauern ziehen in dem Jahr Bauzäune .
+VF[O]LK[V]MF[S]	base-pp	7	1	Bauzäune ziehen in dem Jahr die Kleinbauern .
+VF[ADV]LK[V]MF[SO]	base-pp	7	8	Deshalb ziehen in dem Jahr die Kleinbauern Bauzäune .
+LK[V]MF[SO]	base-pp	6	7	Ziehen in dem Jahr die Kleinbauern Bauzäune ?
+MF[SO]VC[V]	base-pp	6	7	Weil in dem Jahr die Kleinbauern Bauzäune ziehen .
+VF[S]LK[V]MF[O]	base-pp	2	8	Die Sportlerin gewinnt in dem Jahr eine Tour .
+VF[O]LK[V]MF[S]	base-pp	8	2	Eine Tour gewinnt in dem Jahr die Sportlerin .
+VF[ADV]LK[V]MF[SO]	base-pp	7	9	Deshalb gewinnt in dem Jahr die Sportlerin eine Tour .
+LK[V]MF[SO]	base-pp	6	8	Gewinnt in dem Jahr die Sportlerin eine Tour ?
+MF[SO]VC[V]	base-pp	6	8	Weil in dem Jahr die Sportlerin eine Tour gewinnt .
+VF[S]LK[V]MF[O]	base-pp	2	8	Die Handwerkerin übernimmt in dem Jahr eine Bauausführung .
+VF[O]LK[V]MF[S]	base-pp	8	2	Eine Bauausführung übernimmt in dem Jahr die Handwerkerin .
+VF[ADV]LK[V]MF[SO]	base-pp	7	9	Deshalb übernimmt in dem Jahr die Handwerkerin eine Bauausführung .
+LK[V]MF[SO]	base-pp	6	8	Übernimmt in dem Jahr die Handwerkerin eine Bauausführung ?
+MF[SO]VC[V]	base-pp	6	8	Weil in dem Jahr die Handwerkerin eine Bauausführung übernimmt .
+VF[S]LK[V]MF[O]	aux-pp	2	7	Die Generäle werden in dem Jahr Angriffe starten .
+VF[O]LK[V]MF[S]	aux-pp	7	1	Angriffe werden in dem Jahr die Generäle starten .
+VF[ADV]LK[V]MF[SO]	aux-pp	7	8	Deshalb werden in dem Jahr die Generäle Angriffe starten .
+LK[V]MF[SO]	aux-pp	6	7	Werden in dem Jahr die Generäle Angriffe starten ?
+MF[SO]VC[V]	aux-pp	6	7	Weil in dem Jahr die Generäle Angriffe starten werden .
+VF[S]LK[V]MF[O]	aux-pp	2	8	Die Partnerin wird in dem Jahr ein Doppelleben leben .
+VF[O]LK[V]MF[S]	aux-pp	8	2	Ein Doppelleben wird in dem Jahr die Partnerin leben .
+VF[ADV]LK[V]MF[SO]	aux-pp	7	9	Deshalb wird in dem Jahr die Partnerin ein Doppelleben leben .
+LK[V]MF[SO]	aux-pp	6	8	Wird in dem Jahr die Partnerin ein Doppelleben leben ?
+MF[SO]VC[V]	aux-pp	6	8	Weil in dem Jahr die Partnerin ein Doppelleben leben wird .
+VF[S]LK[V]MF[O]	aux-pp	2	8	Die Journalistin wird in dem Jahr eine Aufnahme übertexten .
+VF[O]LK[V]MF[S]	aux-pp	8	2	Eine Aufnahme wird in dem Jahr die Journalistin übertexten .
+VF[ADV]LK[V]MF[SO]	aux-pp	7	9	Deshalb wird in dem Jahr die Journalistin eine Aufnahme übertexten .
+LK[V]MF[SO]	aux-pp	6	8	Wird in dem Jahr die Journalistin eine Aufnahme übertexten ?
+MF[SO]VC[V]	aux-pp	6	8	Weil in dem Jahr die Journalistin eine Aufnahme übertexten wird .
+VF[S]LK[V]MF[O]	aux-pp	2	8	Die Freundin wird in dem Jahr eine Traumhochzeit spielen .
+VF[O]LK[V]MF[S]	aux-pp	8	2	Eine Traumhochzeit wird in dem Jahr die Freundin spielen .
+VF[ADV]LK[V]MF[SO]	aux-pp	7	9	Deshalb wird in dem Jahr die Freundin eine Traumhochzeit spielen .
+LK[V]MF[SO]	aux-pp	6	8	Wird in dem Jahr die Freundin eine Traumhochzeit spielen ?
+MF[SO]VC[V]	aux-pp	6	8	Weil in dem Jahr die Freundin eine Traumhochzeit spielen wird .
+VF[S]LK[V]MF[O]	aux-pp	2	8	Die Passantin wird in dem Jahr ein Kunstwerk bewerfen .
+VF[O]LK[V]MF[S]	aux-pp	8	2	Ein Kunstwerk wird in dem Jahr die Passantin bewerfen .
+VF[ADV]LK[V]MF[SO]	aux-pp	7	9	Deshalb wird in dem Jahr die Passantin ein Kunstwerk bewerfen .
+LK[V]MF[SO]	aux-pp	6	8	Wird in dem Jahr die Passantin ein Kunstwerk bewerfen ?
+MF[SO]VC[V]	aux-pp	6	8	Weil in dem Jahr die Passantin ein Kunstwerk bewerfen wird .
+VF[S]LK[V]MF[O]	aux-pp	2	8	Das Kind wird in dem Jahr eine Lösung finden .
+VF[O]LK[V]MF[S]	aux-pp	8	2	Eine Lösung wird in dem Jahr das Kind finden .
+VF[ADV]LK[V]MF[SO]	aux-pp	7	9	Deshalb wird in dem Jahr das Kind eine Lösung finden .
+LK[V]MF[SO]	aux-pp	6	8	Wird in dem Jahr das Kind eine Lösung finden ?
+MF[SO]VC[V]	aux-pp	6	8	Weil in dem Jahr das Kind eine Lösung finden wird .
+VF[S]LK[V]MF[O]	aux-pp	2	8	Die Leserin wird in dem Jahr eine Zeitschrift abonnieren .
+VF[O]LK[V]MF[S]	aux-pp	8	2	Eine Zeitschrift wird in dem Jahr die Leserin abonnieren .
+VF[ADV]LK[V]MF[SO]	aux-pp	7	9	Deshalb wird in dem Jahr die Leserin eine Zeitschrift abonnieren .
+LK[V]MF[SO]	aux-pp	6	8	Wird in dem Jahr die Leserin eine Zeitschrift abonnieren ?
+MF[SO]VC[V]	aux-pp	6	8	Weil in dem Jahr die Leserin eine Zeitschrift abonnieren wird .
+VF[S]LK[V]MF[O]	aux-pp	2	7	Die Herren werden in dem Jahr Bärte rasieren .
+VF[O]LK[V]MF[S]	aux-pp	7	1	Bärte werden in dem Jahr die Herren rasieren .
+VF[ADV]LK[V]MF[SO]	aux-pp	7	8	Deshalb werden in dem Jahr die Herren Bärte rasieren .
+LK[V]MF[SO]	aux-pp	6	7	Werden in dem Jahr die Herren Bärte rasieren ?
+MF[SO]VC[V]	aux-pp	6	7	Weil in dem Jahr die Herren Bärte rasieren werden .
+VF[S]LK[V]MF[O]	aux-pp	2	7	Die Mamas werden in dem Jahr Kaffees trinken .
+VF[O]LK[V]MF[S]	aux-pp	7	1	Kaffees werden in dem Jahr die Mamas trinken .
+VF[ADV]LK[V]MF[SO]	aux-pp	7	8	Deshalb werden in dem Jahr die Mamas Kaffees trinken .
+LK[V]MF[SO]	aux-pp	6	7	Werden in dem Jahr die Mamas Kaffees trinken ?
+MF[SO]VC[V]	aux-pp	6	7	Weil in dem Jahr die Mamas Kaffees trinken werden .
+VF[S]LK[V]MF[O]	aux-pp	2	7	Die Schriftsteller werden in dem Jahr Romane schreiben .
+VF[O]LK[V]MF[S]	aux-pp	7	1	Romane werden in dem Jahr die Schriftsteller schreiben .
+VF[ADV]LK[V]MF[SO]	aux-pp	7	8	Deshalb werden in dem Jahr die Schriftsteller Romane schreiben .
+LK[V]MF[SO]	aux-pp	6	7	Werden in dem Jahr die Schriftsteller Romane schreiben ?
+MF[SO]VC[V]	aux-pp	6	7	Weil in dem Jahr die Schriftsteller Romane schreiben werden .
+VF[S]LK[V]MF[O]	aux-pp	2	8	Die Politikerin wird in dem Jahr eine Rede beenden .
+VF[O]LK[V]MF[S]	aux-pp	8	2	Eine Rede wird in dem Jahr die Politikerin beenden .
+VF[ADV]LK[V]MF[SO]	aux-pp	7	9	Deshalb wird in dem Jahr die Politikerin eine Rede beenden .
+LK[V]MF[SO]	aux-pp	6	8	Wird in dem Jahr die Politikerin eine Rede beenden ?
+MF[SO]VC[V]	aux-pp	6	8	Weil in dem Jahr die Politikerin eine Rede beenden wird .
+VF[S]LK[V]MF[O]	aux-pp	2	8	Die Abgeordnete wird in dem Jahr ein Grundgehalt bekommen .
+VF[O]LK[V]MF[S]	aux-pp	8	2	Ein Grundgehalt wird in dem Jahr die Abgeordnete bekommen .
+VF[ADV]LK[V]MF[SO]	aux-pp	7	9	Deshalb wird in dem Jahr die Abgeordnete ein Grundgehalt bekommen .
+LK[V]MF[SO]	aux-pp	6	8	Wird in dem Jahr die Abgeordnete ein Grundgehalt bekommen ?
+MF[SO]VC[V]	aux-pp	6	8	Weil in dem Jahr die Abgeordnete ein Grundgehalt bekommen wird .
+VF[S]LK[V]MF[O]	aux-pp	2	7	Die Kleinbauern werden in dem Jahr Bauzäune ziehen .
+VF[O]LK[V]MF[S]	aux-pp	7	1	Bauzäune werden in dem Jahr die Kleinbauern ziehen .
+VF[ADV]LK[V]MF[SO]	aux-pp	7	8	Deshalb werden in dem Jahr die Kleinbauern Bauzäune ziehen .
+LK[V]MF[SO]	aux-pp	6	7	Werden in dem Jahr die Kleinbauern Bauzäune ziehen ?
+MF[SO]VC[V]	aux-pp	6	7	Weil in dem Jahr die Kleinbauern Bauzäune ziehen werden .
+VF[S]LK[V]MF[O]	aux-pp	2	8	Die Sportlerin wird in dem Jahr eine Tour gewinnen .
+VF[O]LK[V]MF[S]	aux-pp	8	2	Eine Tour wird in dem Jahr die Sportlerin gewinnen .
+VF[ADV]LK[V]MF[SO]	aux-pp	7	9	Deshalb wird in dem Jahr die Sportlerin eine Tour gewinnen .
+LK[V]MF[SO]	aux-pp	6	8	Wird in dem Jahr die Sportlerin eine Tour gewinnen ?
+MF[SO]VC[V]	aux-pp	6	8	Weil in dem Jahr die Sportlerin eine Tour gewinnen wird .
+VF[S]LK[V]MF[O]	aux-pp	2	8	Die Handwerkerin wird in dem Jahr eine Bauausführung übernehmen .
+VF[O]LK[V]MF[S]	aux-pp	8	2	Eine Bauausführung wird in dem Jahr die Handwerkerin übernehmen .
+VF[ADV]LK[V]MF[SO]	aux-pp	7	9	Deshalb wird in dem Jahr die Handwerkerin eine Bauausführung übernehmen .
+LK[V]MF[SO]	aux-pp	6	8	Wird in dem Jahr die Handwerkerin eine Bauausführung übernehmen ?
+MF[SO]VC[V]	aux-pp	6	8	Weil in dem Jahr die Handwerkerin eine Bauausführung übernehmen wird .
+VF[S]LK[V]MF[O]	spron-pp	1	6	Sie starten in dem Jahr Angriffe .
+VF[O]LK[V]MF[S]	spron-pp	6	1	Angriffe starten in dem Jahr sie .
+VF[ADV]LK[V]MF[SO]	spron-pp	6	7	Deshalb starten in dem Jahr sie Angriffe .
+LK[V]MF[SO]	spron-pp	5	6	Starten in dem Jahr sie Angriffe ?
+MF[SO]VC[V]	spron-pp	5	6	Weil in dem Jahr sie Angriffe starten .
+VF[S]LK[V]MF[O]	spron-pp	1	7	Sie lebt in dem Jahr ein Doppelleben .
+VF[O]LK[V]MF[S]	spron-pp	7	2	Ein Doppelleben lebt in dem Jahr sie .
+VF[ADV]LK[V]MF[SO]	spron-pp	6	8	Deshalb lebt in dem Jahr sie ein Doppelleben .
+LK[V]MF[SO]	spron-pp	5	7	Lebt in dem Jahr sie ein Doppelleben ?
+MF[SO]VC[V]	spron-pp	5	7	Weil in dem Jahr sie ein Doppelleben lebt .
+VF[S]LK[V]MF[O]	spron-pp	1	7	Sie übertextet in dem Jahr eine Aufnahme .
+VF[O]LK[V]MF[S]	spron-pp	7	2	Eine Aufnahme übertextet in dem Jahr sie .
+VF[ADV]LK[V]MF[SO]	spron-pp	6	8	Deshalb übertextet in dem Jahr sie eine Aufnahme .
+LK[V]MF[SO]	spron-pp	5	7	Übertextet in dem Jahr sie eine Aufnahme ?
+MF[SO]VC[V]	spron-pp	5	7	Weil in dem Jahr sie eine Aufnahme übertextet .
+VF[S]LK[V]MF[O]	spron-pp	1	7	Sie spielt in dem Jahr eine Traumhochzeit .
+VF[O]LK[V]MF[S]	spron-pp	7	2	Eine Traumhochzeit spielt in dem Jahr sie .
+VF[ADV]LK[V]MF[SO]	spron-pp	6	8	Deshalb spielt in dem Jahr sie eine Traumhochzeit .
+LK[V]MF[SO]	spron-pp	5	7	Spielt in dem Jahr sie eine Traumhochzeit ?
+MF[SO]VC[V]	spron-pp	5	7	Weil in dem Jahr sie eine Traumhochzeit spielt .
+VF[S]LK[V]MF[O]	spron-pp	1	7	Sie bewirft in dem Jahr ein Kunstwerk .
+VF[O]LK[V]MF[S]	spron-pp	7	2	Ein Kunstwerk bewirft in dem Jahr sie .
+VF[ADV]LK[V]MF[SO]	spron-pp	6	8	Deshalb bewirft in dem Jahr sie ein Kunstwerk .
+LK[V]MF[SO]	spron-pp	5	7	Bewirft in dem Jahr sie ein Kunstwerk ?
+MF[SO]VC[V]	spron-pp	5	7	Weil in dem Jahr sie ein Kunstwerk bewirft .
+VF[S]LK[V]MF[O]	spron-pp	1	7	Sie findet in dem Jahr eine Lösung .
+VF[O]LK[V]MF[S]	spron-pp	7	2	Eine Lösung findet in dem Jahr sie .
+VF[ADV]LK[V]MF[SO]	spron-pp	6	8	Deshalb findet in dem Jahr sie eine Lösung .
+LK[V]MF[SO]	spron-pp	5	7	Findet in dem Jahr sie eine Lösung ?
+MF[SO]VC[V]	spron-pp	5	7	Weil in dem Jahr sie eine Lösung findet .
+VF[S]LK[V]MF[O]	spron-pp	1	7	Sie abonniert in dem Jahr eine Zeitschrift .
+VF[O]LK[V]MF[S]	spron-pp	7	2	Eine Zeitschrift abonniert in dem Jahr sie .
+VF[ADV]LK[V]MF[SO]	spron-pp	6	8	Deshalb abonniert in dem Jahr sie eine Zeitschrift .
+LK[V]MF[SO]	spron-pp	5	7	Abonniert in dem Jahr sie eine Zeitschrift ?
+MF[SO]VC[V]	spron-pp	5	7	Weil in dem Jahr sie eine Zeitschrift abonniert .
+VF[S]LK[V]MF[O]	spron-pp	1	6	Sie rasieren in dem Jahr Bärte .
+VF[O]LK[V]MF[S]	spron-pp	6	1	Bärte rasieren in dem Jahr sie .
+VF[ADV]LK[V]MF[SO]	spron-pp	6	7	Deshalb rasieren in dem Jahr sie Bärte .
+LK[V]MF[SO]	spron-pp	5	6	Rasieren in dem Jahr sie Bärte ?
+MF[SO]VC[V]	spron-pp	5	6	Weil in dem Jahr sie Bärte rasieren .
+VF[S]LK[V]MF[O]	spron-pp	1	6	Sie trinken in dem Jahr Kaffees .
+VF[O]LK[V]MF[S]	spron-pp	6	1	Kaffees trinken in dem Jahr sie .
+VF[ADV]LK[V]MF[SO]	spron-pp	6	7	Deshalb trinken in dem Jahr sie Kaffees .
+LK[V]MF[SO]	spron-pp	5	6	Trinken in dem Jahr sie Kaffees ?
+MF[SO]VC[V]	spron-pp	5	6	Weil in dem Jahr sie Kaffees trinken .
+VF[S]LK[V]MF[O]	spron-pp	1	6	Sie schreiben in dem Jahr Romane .
+VF[O]LK[V]MF[S]	spron-pp	6	1	Romane schreiben in dem Jahr sie .
+VF[ADV]LK[V]MF[SO]	spron-pp	6	7	Deshalb schreiben in dem Jahr sie Romane .
+LK[V]MF[SO]	spron-pp	5	6	Schreiben in dem Jahr sie Romane ?
+MF[SO]VC[V]	spron-pp	5	6	Weil in dem Jahr sie Romane schreiben .
+VF[S]LK[V]MF[O]	spron-pp	1	7	Sie beendet in dem Jahr eine Rede .
+VF[O]LK[V]MF[S]	spron-pp	7	2	Eine Rede beendet in dem Jahr sie .
+VF[ADV]LK[V]MF[SO]	spron-pp	6	8	Deshalb beendet in dem Jahr sie eine Rede .
+LK[V]MF[SO]	spron-pp	5	7	Beendet in dem Jahr sie eine Rede ?
+MF[SO]VC[V]	spron-pp	5	7	Weil in dem Jahr sie eine Rede beendet .
+VF[S]LK[V]MF[O]	spron-pp	1	7	Sie bekommt in dem Jahr ein Grundgehalt .
+VF[O]LK[V]MF[S]	spron-pp	7	2	Ein Grundgehalt bekommt in dem Jahr sie .
+VF[ADV]LK[V]MF[SO]	spron-pp	6	8	Deshalb bekommt in dem Jahr sie ein Grundgehalt .
+LK[V]MF[SO]	spron-pp	5	7	Bekommt in dem Jahr sie ein Grundgehalt ?
+MF[SO]VC[V]	spron-pp	5	7	Weil in dem Jahr sie ein Grundgehalt bekommt .
+VF[S]LK[V]MF[O]	spron-pp	1	6	Sie ziehen in dem Jahr Bauzäune .
+VF[O]LK[V]MF[S]	spron-pp	6	1	Bauzäune ziehen in dem Jahr sie .
+VF[ADV]LK[V]MF[SO]	spron-pp	6	7	Deshalb ziehen in dem Jahr sie Bauzäune .
+LK[V]MF[SO]	spron-pp	5	6	Ziehen in dem Jahr sie Bauzäune ?
+MF[SO]VC[V]	spron-pp	5	6	Weil in dem Jahr sie Bauzäune ziehen .
+VF[S]LK[V]MF[O]	spron-pp	1	7	Sie gewinnt in dem Jahr eine Tour .
+VF[O]LK[V]MF[S]	spron-pp	7	2	Eine Tour gewinnt in dem Jahr sie .
+VF[ADV]LK[V]MF[SO]	spron-pp	6	8	Deshalb gewinnt in dem Jahr sie eine Tour .
+LK[V]MF[SO]	spron-pp	5	7	Gewinnt in dem Jahr sie eine Tour ?
+MF[SO]VC[V]	spron-pp	5	7	Weil in dem Jahr sie eine Tour gewinnt .
+VF[S]LK[V]MF[O]	spron-pp	1	7	Sie übernimmt in dem Jahr eine Bauausführung .
+VF[O]LK[V]MF[S]	spron-pp	7	2	Eine Bauausführung übernimmt in dem Jahr sie .
+VF[ADV]LK[V]MF[SO]	spron-pp	6	8	Deshalb übernimmt in dem Jahr sie eine Bauausführung .
+LK[V]MF[SO]	spron-pp	5	7	Übernimmt in dem Jahr sie eine Bauausführung ?
+MF[SO]VC[V]	spron-pp	5	7	Weil in dem Jahr sie eine Bauausführung übernimmt .
+VF[S]LK[V]MF[O]	opron-pp	2	7	Die Generäle starten in dem Jahr sie .
+VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb starten in dem Jahr die Generäle sie .
+LK[V]MF[SO]	opron-pp	6	7	Starten in dem Jahr die Generäle sie ?
+MF[SO]VC[V]	opron-pp	3	4	Weil die Generäle sie in dem Jahr starten .
+VF[S]LK[V]MF[O]	opron-pp	2	7	Die Partnerin lebt in dem Jahr sie .
+VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb lebt in dem Jahr die Partnerin sie .
+LK[V]MF[SO]	opron-pp	6	7	Lebt in dem Jahr die Partnerin sie ?
+MF[SO]VC[V]	opron-pp	3	4	Weil die Partnerin sie in dem Jahr lebt .
+VF[S]LK[V]MF[O]	opron-pp	2	7	Die Journalistin übertextet in dem Jahr sie .
+VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb übertextet in dem Jahr die Journalistin sie .
+LK[V]MF[SO]	opron-pp	6	7	Übertextet in dem Jahr die Journalistin sie ?
+MF[SO]VC[V]	opron-pp	3	4	Weil die Journalistin sie in dem Jahr übertextet .
+VF[S]LK[V]MF[O]	opron-pp	2	7	Die Freundin spielt in dem Jahr sie .
+VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb spielt in dem Jahr die Freundin sie .
+LK[V]MF[SO]	opron-pp	6	7	Spielt in dem Jahr die Freundin sie ?
+MF[SO]VC[V]	opron-pp	3	4	Weil die Freundin sie in dem Jahr spielt .
+VF[S]LK[V]MF[O]	opron-pp	2	7	Die Passanten bewerfen in dem Jahr sie .
+VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb bewerfen in dem Jahr die Passanten sie .
+LK[V]MF[SO]	opron-pp	6	7	Bewerfen in dem Jahr die Passanten sie ?
+MF[SO]VC[V]	opron-pp	3	4	Weil die Passanten sie in dem Jahr bewerfen .
+VF[S]LK[V]MF[O]	opron-pp	2	7	Die Kinder finden in dem Jahr sie .
+VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb finden in dem Jahr die Kinder sie .
+LK[V]MF[SO]	opron-pp	6	7	Finden in dem Jahr die Kinder sie ?
+MF[SO]VC[V]	opron-pp	3	4	Weil die Kinder sie in dem Jahr finden .
+VF[S]LK[V]MF[O]	opron-pp	2	7	Die Leser abonnieren in dem Jahr sie .
+VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb abonnieren in dem Jahr die Leser sie .
+LK[V]MF[SO]	opron-pp	6	7	Abonnieren in dem Jahr die Leser sie ?
+MF[SO]VC[V]	opron-pp	3	4	Weil die Leser sie in dem Jahr abonnieren .
+VF[S]LK[V]MF[O]	opron-pp	2	7	Die Herren rasieren in dem Jahr sie .
+VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb rasieren in dem Jahr die Herren sie .
+LK[V]MF[SO]	opron-pp	6	7	Rasieren in dem Jahr die Herren sie ?
+MF[SO]VC[V]	opron-pp	3	4	Weil die Herren sie in dem Jahr rasieren .
+VF[S]LK[V]MF[O]	opron-pp	2	7	Die Mama trinkt in dem Jahr sie .
+VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb trinkt in dem Jahr die Mama sie .
+LK[V]MF[SO]	opron-pp	6	7	Trinkt in dem Jahr die Mama sie ?
+MF[SO]VC[V]	opron-pp	3	4	Weil die Mama sie in dem Jahr trinkt .
+VF[S]LK[V]MF[O]	opron-pp	2	7	Die Schriftsteller schreiben in dem Jahr sie .
+VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb schreiben in dem Jahr die Schriftsteller sie .
+LK[V]MF[SO]	opron-pp	6	7	Schreiben in dem Jahr die Schriftsteller sie ?
+MF[SO]VC[V]	opron-pp	3	4	Weil die Schriftsteller sie in dem Jahr schreiben .
+VF[S]LK[V]MF[O]	opron-pp	2	7	Die Politikerin beendet in dem Jahr sie .
+VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb beendet in dem Jahr die Politikerin sie .
+LK[V]MF[SO]	opron-pp	6	7	Beendet in dem Jahr die Politikerin sie ?
+MF[SO]VC[V]	opron-pp	3	4	Weil die Politikerin sie in dem Jahr beendet .
+VF[S]LK[V]MF[O]	opron-pp	2	7	Die Abgeordnete bekommt in dem Jahr sie .
+VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb bekommt in dem Jahr die Abgeordnete sie .
+LK[V]MF[SO]	opron-pp	6	7	Bekommt in dem Jahr die Abgeordnete sie ?
+MF[SO]VC[V]	opron-pp	3	4	Weil die Abgeordnete sie in dem Jahr bekommt .
+VF[S]LK[V]MF[O]	opron-pp	2	7	Die Kleinbauern ziehen in dem Jahr sie .
+VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb ziehen in dem Jahr die Kleinbauern sie .
+LK[V]MF[SO]	opron-pp	6	7	Ziehen in dem Jahr die Kleinbauern sie ?
+MF[SO]VC[V]	opron-pp	3	4	Weil die Kleinbauern sie in dem Jahr ziehen .
+VF[S]LK[V]MF[O]	opron-pp	2	7	Die Sportlerin gewinnt in dem Jahr sie .
+VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb gewinnt in dem Jahr die Sportlerin sie .
+LK[V]MF[SO]	opron-pp	6	7	Gewinnt in dem Jahr die Sportlerin sie ?
+MF[SO]VC[V]	opron-pp	3	4	Weil die Sportlerin sie in dem Jahr gewinnt .
+VF[S]LK[V]MF[O]	opron-pp	2	7	Die Handwerker übernehmen in dem Jahr sie .
+VF[ADV]LK[V]MF[SO]	opron-pp	7	8	Deshalb übernehmen in dem Jahr die Handwerker sie .
+LK[V]MF[SO]	opron-pp	6	7	Übernehmen in dem Jahr die Handwerker sie ?
+MF[SO]VC[V]	opron-pp	3	4	Weil die Handwerker sie in dem Jahr übernehmen .
+VF[S]LK[V]MF[O]	oneg-pp	2	8	Die Generäle starten in dem Jahr keine Angriffe .
+VF[O]LK[V]MF[S]	oneg-pp	8	2	Keine Angriffe starten in dem Jahr die Generäle .
+VF[ADV]LK[V]MF[SO]	oneg-pp	7	9	Deshalb starten in dem Jahr die Generäle keine Angriffe .
+LK[V]MF[SO]	oneg-pp	6	8	Starten in dem Jahr die Generäle keine Angriffe ?
+MF[SO]VC[V]	oneg-pp	6	8	Weil in dem Jahr die Generäle keine Angriffe starten .
+VF[S]LK[V]MF[O]	oneg-pp	2	8	Die Partnerin lebt in dem Jahr kein Doppelleben .
+VF[O]LK[V]MF[S]	oneg-pp	8	2	Kein Doppelleben lebt in dem Jahr die Partnerin .
+VF[ADV]LK[V]MF[SO]	oneg-pp	7	9	Deshalb lebt in dem Jahr die Partnerin kein Doppelleben .
+LK[V]MF[SO]	oneg-pp	6	8	Lebt in dem Jahr die Partnerin kein Doppelleben ?
+MF[SO]VC[V]	oneg-pp	6	8	Weil in dem Jahr die Partnerin kein Doppelleben lebt .
+VF[S]LK[V]MF[O]	oneg-pp	2	8	Die Journalistin übertextet in dem Jahr keine Aufnahme .
+VF[O]LK[V]MF[S]	oneg-pp	8	2	Keine Aufnahme übertextet in dem Jahr die Journalistin .
+VF[ADV]LK[V]MF[SO]	oneg-pp	7	9	Deshalb übertextet in dem Jahr die Journalistin keine Aufnahme .
+LK[V]MF[SO]	oneg-pp	6	8	Übertextet in dem Jahr die Journalistin keine Aufnahme ?
+MF[SO]VC[V]	oneg-pp	6	8	Weil in dem Jahr die Journalistin keine Aufnahme übertextet .
+VF[O]LK[V]MF[S]	oneg-pp	8	2	Keine Zeitschriften abonnieren in dem Jahr die Leser .
+VF[ADV]LK[V]MF[SO]	oneg-pp	7	9	Deshalb abonnieren in dem Jahr die Leser keine Zeitschriften .
+LK[V]MF[SO]	oneg-pp	6	8	Abonnieren in dem Jahr die Leser keine Zeitschriften ?
+MF[SO]VC[V]	oneg-pp	6	8	Weil in dem Jahr die Leser keine Zeitschriften abonnieren .
+VF[S]LK[V]MF[O]	oneg-pp	2	8	Die Herren rasieren in dem Jahr keine Bärte .
+VF[O]LK[V]MF[S]	oneg-pp	8	2	Keine Bärte rasieren in dem Jahr die Herren .
+VF[ADV]LK[V]MF[SO]	oneg-pp	7	9	Deshalb rasieren in dem Jahr die Herren keine Bärte .
+LK[V]MF[SO]	oneg-pp	6	8	Rasieren in dem Jahr die Herren keine Bärte ?
+MF[SO]VC[V]	oneg-pp	6	8	Weil in dem Jahr die Herren keine Bärte rasieren .
+VF[S]LK[V]MF[O]	oneg-pp	2	8	Die Mamas trinken in dem Jahr keine Kaffees .
+VF[O]LK[V]MF[S]	oneg-pp	8	2	Keine Kaffees trinken in dem Jahr die Mamas .
+VF[ADV]LK[V]MF[SO]	oneg-pp	7	9	Deshalb trinken in dem Jahr die Mamas keine Kaffees .
+LK[V]MF[SO]	oneg-pp	6	8	Trinken in dem Jahr die Mamas keine Kaffees ?
+MF[SO]VC[V]	oneg-pp	6	8	Weil in dem Jahr die Mamas keine Kaffees trinken .
+VF[S]LK[V]MF[O]	oneg-pp	2	8	Die Schriftsteller schreiben in dem Jahr keine Romane .
+VF[O]LK[V]MF[S]	oneg-pp	8	2	Keine Romane schreiben in dem Jahr die Schriftsteller .
+VF[S]LK[V]MF[O]	oneg-pp	2	8	Die Handwerkerin übernimmt in dem Jahr keine Bauausführung .
+VF[O]LK[V]MF[S]	oneg-pp	8	2	Keine Bauausführung übernimmt in dem Jahr die Handwerkerin .
+VF[ADV]LK[V]MF[SO]	oneg-pp	7	9	Deshalb übernimmt in dem Jahr die Handwerkerin keine Bauausführung .
+LK[V]MF[SO]	oneg-pp	6	8	Übernimmt in dem Jahr die Handwerkerin keine Bauausführung ?
+MF[SO]VC[V]	oneg-pp	6	8	Weil in dem Jahr die Handwerkerin keine Bauausführung übernimmt .
+VF[S]LK[V]MF[O]	oneg-pp	2	8	Die Freundin spielt in dem Jahr keine Traumhochzeit .
+VF[O]LK[V]MF[S]	oneg-pp	8	2	Keine Traumhochzeit spielt in dem Jahr die Freundin .
+VF[ADV]LK[V]MF[SO]	oneg-pp	7	9	Deshalb spielt in dem Jahr die Freundin keine Traumhochzeit .
+LK[V]MF[SO]	oneg-pp	6	8	Spielt in dem Jahr die Freundin keine Traumhochzeit ?
+MF[SO]VC[V]	oneg-pp	6	8	Weil in dem Jahr die Freundin keine Traumhochzeit spielt .
+VF[S]LK[V]MF[O]	oneg-pp	2	8	Die Passantin bewirft in dem Jahr kein Kunstwerk .
+VF[O]LK[V]MF[S]	oneg-pp	8	2	Kein Kunstwerk bewirft in dem Jahr die Passantin .
+VF[ADV]LK[V]MF[SO]	oneg-pp	7	9	Deshalb bewirft in dem Jahr die Passantin kein Kunstwerk .
+LK[V]MF[SO]	oneg-pp	6	8	Bewirft in dem Jahr die Passantin kein Kunstwerk ?
+MF[SO]VC[V]	oneg-pp	6	8	Weil in dem Jahr die Passantin kein Kunstwerk bewirft .
+VF[S]LK[V]MF[O]	oneg-pp	2	8	Das Kind findet in dem Jahr keine Lösung .
+VF[O]LK[V]MF[S]	oneg-pp	8	2	Keine Lösung findet in dem Jahr das Kind .
+VF[ADV]LK[V]MF[SO]	oneg-pp	7	9	Deshalb findet in dem Jahr das Kind keine Lösung .
+LK[V]MF[SO]	oneg-pp	6	8	Findet in dem Jahr das Kind keine Lösung ?
+MF[SO]VC[V]	oneg-pp	6	8	Weil in dem Jahr das Kind keine Lösung findet .
+VF[S]LK[V]MF[O]	oneg-pp	2	8	Die Leser abonnieren in dem Jahr keine Zeitschriften .
+VF[ADV]LK[V]MF[SO]	oneg-pp	7	9	Deshalb schreiben in dem Jahr die Schriftsteller keine Romane .
+LK[V]MF[SO]	oneg-pp	6	8	Schreiben in dem Jahr die Schriftsteller keine Romane ?
+MF[SO]VC[V]	oneg-pp	6	8	Weil in dem Jahr die Schriftsteller keine Romane schreiben .
+VF[S]LK[V]MF[O]	oneg-pp	2	8	Die Politikerin beendet in dem Jahr keine Rede .
+VF[O]LK[V]MF[S]	oneg-pp	8	2	Keine Rede beendet in dem Jahr die Politikerin .
+VF[ADV]LK[V]MF[SO]	oneg-pp	7	9	Deshalb beendet in dem Jahr die Politikerin keine Rede .
+LK[V]MF[SO]	oneg-pp	6	8	Beendet in dem Jahr die Politikerin keine Rede ?
+MF[SO]VC[V]	oneg-pp	6	8	Weil in dem Jahr die Politikerin keine Rede beendet .
+VF[S]LK[V]MF[O]	oneg-pp	2	8	Die Abgeordnete bekommt in dem Jahr kein Grundgehalt .
+VF[O]LK[V]MF[S]	oneg-pp	8	2	Kein Grundgehalt bekommt in dem Jahr die Abgeordnete .
+VF[ADV]LK[V]MF[SO]	oneg-pp	7	9	Deshalb bekommt in dem Jahr die Abgeordnete kein Grundgehalt .
+LK[V]MF[SO]	oneg-pp	6	8	Bekommt in dem Jahr die Abgeordnete kein Grundgehalt ?
+MF[SO]VC[V]	oneg-pp	6	8	Weil in dem Jahr die Abgeordnete kein Grundgehalt bekommt .
+VF[S]LK[V]MF[O]	oneg-pp	2	8	Die Kleinbauern ziehen in dem Jahr keine Bauzäune .
+VF[O]LK[V]MF[S]	oneg-pp	8	2	Keine Bauzäune ziehen in dem Jahr die Kleinbauern .
+VF[ADV]LK[V]MF[SO]	oneg-pp	7	9	Deshalb ziehen in dem Jahr die Kleinbauern keine Bauzäune .
+LK[V]MF[SO]	oneg-pp	6	8	Ziehen in dem Jahr die Kleinbauern keine Bauzäune ?
+MF[SO]VC[V]	oneg-pp	6	8	Weil in dem Jahr die Kleinbauern keine Bauzäune ziehen .
+VF[S]LK[V]MF[O]	oneg-pp	2	8	Die Sportlerin gewinnt in dem Jahr keine Tour .
+VF[O]LK[V]MF[S]	oneg-pp	8	2	Keine Tour gewinnt in dem Jahr die Sportlerin .
+VF[ADV]LK[V]MF[SO]	oneg-pp	7	9	Deshalb gewinnt in dem Jahr die Sportlerin keine Tour .
+LK[V]MF[SO]	oneg-pp	6	8	Gewinnt in dem Jahr die Sportlerin keine Tour ?
+MF[SO]VC[V]	oneg-pp	6	8	Weil in dem Jahr die Sportlerin keine Tour gewinnt .
+VF[S]LK[V]MF[O]	pp-sinan	2	8	Die Quote umgeht in dem Jahr ein Argument .
+VF[O]LK[V]MF[S]	pp-sinan	8	2	Ein Argument umgeht in dem Jahr die Quote .
+VF[ADV]LK[V]MF[SO]	pp-sinan	7	9	Deshalb umgeht in dem Jahr die Quote ein Argument .
+LK[V]MF[SO]	pp-sinan	6	8	Umgeht in dem Jahr die Quote ein Argument ?
+MF[SO]VC[V]	pp-sinan	6	8	Weil in dem Jahr die Quote ein Argument umgeht .
+VF[S]LK[V]MF[O]	pp-sinan	2	8	Das Gas verletzt in dem Jahr ein Menschenrecht .
+VF[O]LK[V]MF[S]	pp-sinan	8	2	Ein Menschenrecht verletzt in dem Jahr das Gas .
+VF[ADV]LK[V]MF[SO]	pp-sinan	7	9	Deshalb verletzt in dem Jahr das Gas ein Menschenrecht .
+LK[V]MF[SO]	pp-sinan	6	8	Verletzt in dem Jahr das Gas ein Menschenrecht ?
+MF[SO]VC[V]	pp-sinan	6	8	Weil in dem Jahr das Gas ein Menschenrecht verletzt .
+VF[S]LK[V]MF[O]	pp-sinan	2	8	Das Wandrelief ruft in dem Jahr ein Hallo .
+VF[O]LK[V]MF[S]	pp-sinan	8	2	Ein Hallo ruft in dem Jahr das Wandrelief .
+VF[ADV]LK[V]MF[SO]	pp-sinan	7	9	Deshalb ruft in dem Jahr das Wandrelief ein Hallo .
+LK[V]MF[SO]	pp-sinan	6	8	Ruft in dem Jahr das Wandrelief ein Hallo ?
+MF[SO]VC[V]	pp-sinan	6	8	Weil in dem Jahr das Wandrelief ein Hallo ruft .
+VF[S]LK[V]MF[O]	pp-sinan	2	8	Die Arbeit bringt in dem Jahr eine Anerkennung .
+VF[O]LK[V]MF[S]	pp-sinan	8	2	Eine Anerkennung bringt in dem Jahr die Arbeit .
+VF[ADV]LK[V]MF[SO]	pp-sinan	7	9	Deshalb bringt in dem Jahr die Arbeit eine Anerkennung .
+LK[V]MF[SO]	pp-sinan	6	8	Bringt in dem Jahr die Arbeit eine Anerkennung ?
+MF[SO]VC[V]	pp-sinan	6	8	Weil in dem Jahr die Arbeit eine Anerkennung bringt .
+VF[S]LK[V]MF[O]	pp-sinan	2	8	Das Bekenntnis verändert in dem Jahr ein Klima .
+VF[O]LK[V]MF[S]	pp-sinan	8	2	Ein Klima verändert in dem Jahr das Bekenntnis .
+VF[ADV]LK[V]MF[SO]	pp-sinan	7	9	Deshalb verändert in dem Jahr das Bekenntnis ein Klima .
+LK[V]MF[SO]	pp-sinan	6	8	Verändert in dem Jahr das Bekenntnis ein Klima ?
+MF[SO]VC[V]	pp-sinan	6	8	Weil in dem Jahr das Bekenntnis ein Klima verändert .
+VF[S]LK[V]MF[O]	pp-sinan	2	7	Die Zyklone treffen in dem Jahr Küstenstreifen .
+VF[O]LK[V]MF[S]	pp-sinan	7	1	Küstenstreifen treffen in dem Jahr die Zyklone .
+VF[ADV]LK[V]MF[SO]	pp-sinan	7	8	Deshalb treffen in dem Jahr die Zyklone Küstenstreifen .
+LK[V]MF[SO]	pp-sinan	6	7	Treffen in dem Jahr die Zyklone Küstenstreifen ?
+MF[SO]VC[V]	pp-sinan	6	7	Weil in dem Jahr die Zyklone Küstenstreifen treffen .
+VF[S]LK[V]MF[O]	pp-sinan	2	7	Die Flugzeugträger verlassen in dem Jahr Häfen .
+VF[O]LK[V]MF[S]	pp-sinan	7	1	Häfen verlassen in dem Jahr die Flugzeugträger .
+VF[ADV]LK[V]MF[SO]	pp-sinan	7	8	Deshalb verlassen in dem Jahr die Flugzeugträger Häfen .
+LK[V]MF[SO]	pp-sinan	6	7	Verlassen in dem Jahr die Flugzeugträger Häfen ?
+MF[SO]VC[V]	pp-sinan	6	7	Weil in dem Jahr die Flugzeugträger Häfen verlassen .
+VF[S]LK[V]MF[O]	pp-sinan	2	7	Die Hurrikans zerstören in dem Jahr Orte .
+VF[O]LK[V]MF[S]	pp-sinan	7	1	Orte zerstören in dem Jahr die Hurrikans .
+VF[ADV]LK[V]MF[SO]	pp-sinan	7	8	Deshalb zerstören in dem Jahr die Hurrikans Orte .
+LK[V]MF[SO]	pp-sinan	6	7	Zerstören in dem Jahr die Hurrikans Orte ?
+MF[SO]VC[V]	pp-sinan	6	7	Weil in dem Jahr die Hurrikans Orte zerstören .
+MF[SO]VC[V]	pp-sinan	6	8	Weil in dem Jahr die Idee eine Kraft entfaltet .
+VF[S]LK[V]MF[O]	pp-sinan	2	7	Die Absatzmärkte eröffnen in dem Jahr Möglichkeiten .
+VF[O]LK[V]MF[S]	pp-sinan	7	1	Möglichkeiten eröffnen in dem Jahr die Absatzmärkte .
+VF[ADV]LK[V]MF[SO]	pp-sinan	7	8	Deshalb eröffnen in dem Jahr die Absatzmärkte Möglichkeiten .
+LK[V]MF[SO]	pp-sinan	6	7	Eröffnen in dem Jahr die Absatzmärkte Möglichkeiten ?
+MF[SO]VC[V]	pp-sinan	6	7	Weil in dem Jahr die Absatzmärkte Möglichkeiten eröffnen .
+VF[S]LK[V]MF[O]	pp-sinan	2	7	Die Filme ermöglichen in dem Jahr Neuanfänge .
+VF[O]LK[V]MF[S]	pp-sinan	7	1	Neuanfänge ermöglichen in dem Jahr die Filme .
+VF[ADV]LK[V]MF[SO]	pp-sinan	7	8	Deshalb ermöglichen in dem Jahr die Filme Neuanfänge .
+LK[V]MF[SO]	pp-sinan	6	7	Ermöglichen in dem Jahr die Filme Neuanfänge ?
+MF[SO]VC[V]	pp-sinan	6	7	Weil in dem Jahr die Filme Neuanfänge ermöglichen .
+VF[S]LK[V]MF[O]	pp-sinan	2	7	Die Video-Installationen bilden in dem Jahr Abschlüsse .
+VF[O]LK[V]MF[S]	pp-sinan	7	1	Abschlüsse bilden in dem Jahr die Video-Installationen .
+VF[ADV]LK[V]MF[SO]	pp-sinan	7	8	Deshalb bilden in dem Jahr die Video-Installationen Abschlüsse .
+LK[V]MF[SO]	pp-sinan	6	7	Bilden in dem Jahr die Video-Installationen Abschlüsse ?
+MF[SO]VC[V]	pp-sinan	6	7	Weil in dem Jahr die Video-Installationen Abschlüsse bilden .
+VF[S]LK[V]MF[O]	pp-sinan	2	7	Die Anträge fordern in dem Jahr Reparationszahlungen .
+VF[O]LK[V]MF[S]	pp-sinan	7	1	Reparationszahlungen fordern in dem Jahr die Anträge .
+VF[ADV]LK[V]MF[SO]	pp-sinan	7	8	Deshalb fordern in dem Jahr die Anträge Reparationszahlungen .
+LK[V]MF[SO]	pp-sinan	6	7	Fordern in dem Jahr die Anträge Reparationszahlungen ?
+MF[SO]VC[V]	pp-sinan	6	7	Weil in dem Jahr die Anträge Reparationszahlungen fordern .
+VF[S]LK[V]MF[O]	pp-sinan	2	8	Das Leck bedeutet in dem Jahr ein Ende .
+VF[O]LK[V]MF[S]	pp-sinan	8	2	Ein Ende bedeutet in dem Jahr das Leck .
+VF[ADV]LK[V]MF[SO]	pp-sinan	7	9	Deshalb bedeutet in dem Jahr das Leck ein Ende .
+LK[V]MF[SO]	pp-sinan	6	8	Bedeutet in dem Jahr das Leck ein Ende ?
+MF[SO]VC[V]	pp-sinan	6	8	Weil in dem Jahr das Leck ein Ende bedeutet .
+VF[S]LK[V]MF[O]	pp-sinan	2	7	Die Bäume versperren in dem Jahr Aussichten .
+VF[O]LK[V]MF[S]	pp-sinan	7	1	Aussichten versperren in dem Jahr die Bäume .
+VF[ADV]LK[V]MF[SO]	pp-sinan	7	8	Deshalb versperren in dem Jahr die Bäume Aussichten .
+LK[V]MF[SO]	pp-sinan	6	7	Versperren in dem Jahr die Bäume Aussichten ?
+MF[SO]VC[V]	pp-sinan	6	7	Weil in dem Jahr die Bäume Aussichten versperren .
+VF[S]LK[V]MF[O]	pp-sinan	2	8	Die Idee entfaltet in dem Jahr eine Kraft .
+VF[O]LK[V]MF[S]	pp-sinan	8	2	Eine Kraft entfaltet in dem Jahr die Idee .
+VF[ADV]LK[V]MF[SO]	pp-sinan	7	9	Deshalb entfaltet in dem Jahr die Idee eine Kraft .
+LK[V]MF[SO]	pp-sinan	6	8	Entfaltet in dem Jahr die Idee eine Kraft ?
+VF[S]LK[V]MF[O]	pp-oan	2	7	Die Aufsichtsratsvorstände ernennen in dem Jahr Vertreter .
+VF[ADV]LK[V]MF[SO]	pp-oan	7	8	Deshalb ernennen in dem Jahr die Aufsichtsratsvorstände Vertreter .
+LK[V]MF[SO]	pp-oan	6	7	Ernennen in dem Jahr die Aufsichtsratsvorstände Vertreter ?
+MF[SO]VC[V]	pp-oan	6	7	Weil in dem Jahr die Aufsichtsratsvorstände Vertreter ernennen .
+VF[S]LK[V]MF[O]	pp-oan	2	8	Die Fernsehreporterin befragt in dem Jahr eine EZB-Chefin .
+VF[ADV]LK[V]MF[SO]	pp-oan	7	9	Deshalb befragt in dem Jahr die Fernsehreporterin eine EZB-Chefin .
+LK[V]MF[SO]	pp-oan	6	8	Befragt in dem Jahr die Fernsehreporterin eine EZB-Chefin ?
+MF[SO]VC[V]	pp-oan	6	8	Weil in dem Jahr die Fernsehreporterin eine EZB-Chefin befragt .
+VF[S]LK[V]MF[O]	pp-oan	2	7	Die Züchter ernennen in dem Jahr Spinnen .
+VF[ADV]LK[V]MF[SO]	pp-oan	7	8	Deshalb ernennen in dem Jahr die Züchter Spinnen .
+LK[V]MF[SO]	pp-oan	6	7	Ernennen in dem Jahr die Züchter Spinnen ?
+MF[SO]VC[V]	pp-oan	6	7	Weil in dem Jahr die Züchter Spinnen ernennen .
+VF[S]LK[V]MF[O]	pp-oan	2	8	Die Katze kratzt in dem Jahr eine Hundehalterin .
+VF[ADV]LK[V]MF[SO]	pp-oan	7	9	Deshalb kratzt in dem Jahr die Katze eine Hundehalterin .
+LK[V]MF[SO]	pp-oan	6	8	Kratzt in dem Jahr die Katze eine Hundehalterin ?
+MF[SO]VC[V]	pp-oan	6	8	Weil in dem Jahr die Katze eine Hundehalterin kratzt .
+VF[S]LK[V]MF[O]	pp-oan	2	8	Die Kellnerin streift in dem Jahr eine Köchin .
+VF[ADV]LK[V]MF[SO]	pp-oan	7	9	Deshalb streift in dem Jahr die Kellnerin eine Köchin .
+LK[V]MF[SO]	pp-oan	6	8	Streift in dem Jahr die Kellnerin eine Köchin ?
+MF[SO]VC[V]	pp-oan	6	8	Weil in dem Jahr die Kellnerin eine Köchin streift .
+VF[S]LK[V]MF[O]	pp-oan	2	8	Die Personalerin nimmt in dem Jahr eine Bewerberin .
+VF[ADV]LK[V]MF[SO]	pp-oan	7	9	Deshalb nimmt in dem Jahr die Personalerin eine Bewerberin .
+LK[V]MF[SO]	pp-oan	6	8	Nimmt in dem Jahr die Personalerin eine Bewerberin ?
+MF[SO]VC[V]	pp-oan	6	8	Weil in dem Jahr die Personalerin eine Bewerberin nimmt .
+VF[S]LK[V]MF[O]	pp-oan	2	8	Die Komponistin kopiert in dem Jahr eine Jazz-Pianistin .
+VF[ADV]LK[V]MF[SO]	pp-oan	7	9	Deshalb kopiert in dem Jahr die Komponistin eine Jazz-Pianistin .
+LK[V]MF[SO]	pp-oan	6	8	Kopiert in dem Jahr die Komponistin eine Jazz-Pianistin ?
+MF[SO]VC[V]	pp-oan	6	8	Weil in dem Jahr die Komponistin eine Jazz-Pianistin kopiert .
+VF[S]LK[V]MF[O]	pp-oan	2	7	Die Mieterin beauftragt in dem Jahr Kammerjägerin .
+VF[ADV]LK[V]MF[SO]	pp-oan	7	8	Deshalb beauftragt in dem Jahr die Mieterin Kammerjägerin .
+LK[V]MF[SO]	pp-oan	6	7	Beauftragt in dem Jahr die Mieterin Kammerjägerin ?
+MF[SO]VC[V]	pp-oan	6	7	Weil in dem Jahr die Mieterin Kammerjägerin beauftragt .
+VF[S]LK[V]MF[O]	pp-oan	2	8	Die 18jährige verletzt in dem Jahr eine Jugendliche .
+VF[ADV]LK[V]MF[SO]	pp-oan	7	9	Deshalb verletzt in dem Jahr die 18jährige eine Jugendliche .
+LK[V]MF[SO]	pp-oan	6	8	Verletzt in dem Jahr die 18jährige eine Jugendliche ?
+MF[SO]VC[V]	pp-oan	6	8	Weil in dem Jahr die 18jährige eine Jugendliche verletzt .
+VF[S]LK[V]MF[O]	pp-oan	2	8	Die Schweizerin dirigiert in dem Jahr eine Philharmonikerin .
+VF[ADV]LK[V]MF[SO]	pp-oan	7	9	Deshalb dirigiert in dem Jahr die Schweizerin eine Philharmonikerin .
+LK[V]MF[SO]	pp-oan	6	8	Dirigiert in dem Jahr die Schweizerin eine Philharmonikerin ?
+MF[SO]VC[V]	pp-oan	6	8	Weil in dem Jahr die Schweizerin eine Philharmonikerin dirigiert .
+VF[S]LK[V]MF[O]	pp-oan	2	8	Die Fotografin beschreibt in dem Jahr ein Model .
+VF[ADV]LK[V]MF[SO]	pp-oan	7	9	Deshalb beschreibt in dem Jahr die Fotografin ein Model .
+LK[V]MF[SO]	pp-oan	6	8	Beschreibt in dem Jahr die Fotografin ein Model ?
+MF[SO]VC[V]	pp-oan	6	8	Weil in dem Jahr die Fotografin ein Model beschreibt .
+VF[S]LK[V]MF[O]	pp-oan	2	8	Die Wirtschaftsingenieurin leitet in dem Jahr eine Kursteilnehmerin .
+VF[ADV]LK[V]MF[SO]	pp-oan	7	9	Deshalb leitet in dem Jahr die Wirtschaftsingenieurin eine Kursteilnehmerin .
+LK[V]MF[SO]	pp-oan	6	8	Leitet in dem Jahr die Wirtschaftsingenieurin eine Kursteilnehmerin ?
+MF[SO]VC[V]	pp-oan	6	8	Weil in dem Jahr die Wirtschaftsingenieurin eine Kursteilnehmerin leitet .
+VF[S]LK[V]MF[O]	pp-oan	2	8	Die Expertin besucht in dem Jahr eine Oberbürgermeisterin .
+VF[ADV]LK[V]MF[SO]	pp-oan	7	9	Deshalb besucht in dem Jahr die Expertin eine Oberbürgermeisterin .
+LK[V]MF[SO]	pp-oan	6	8	Besucht in dem Jahr die Expertin eine Oberbürgermeisterin ?
+MF[SO]VC[V]	pp-oan	6	8	Weil in dem Jahr die Expertin eine Oberbürgermeisterin besucht .
+VF[S]LK[V]MF[O]	pp-oan	2	8	Die Pionierin braucht in dem Jahr eine Dolmetscherin .
+VF[ADV]LK[V]MF[SO]	pp-oan	7	9	Deshalb braucht in dem Jahr die Pionierin eine Dolmetscherin .
+LK[V]MF[SO]	pp-oan	6	8	Braucht in dem Jahr die Pionierin eine Dolmetscherin ?
+MF[SO]VC[V]	pp-oan	6	8	Weil in dem Jahr die Pionierin eine Dolmetscherin braucht .
+VF[S]LK[V]MF[O]	pp-oan	2	7	Die Feuerwehrmänner befreien in dem Jahr Notleidende .
+VF[ADV]LK[V]MF[SO]	pp-oan	7	8	Deshalb befreien in dem Jahr die Feuerwehrmänner Notleidende .
+LK[V]MF[SO]	pp-oan	6	7	Befreien in dem Jahr die Feuerwehrmänner Notleidende ?
+MF[SO]VC[V]	pp-oan	6	7	Weil in dem Jahr die Feuerwehrmänner Notleidende befreien .
+VF[S]LK[V]MF[O]	pp-invan	2	8	Die Borniertheit überfällt in dem Jahr eine taz-Reporterin .
+VF[O]LK[V]MF[S]	pp-invan	8	2	Eine taz-Reporterin überfällt in dem Jahr die Borniertheit .
+VF[ADV]LK[V]MF[SO]	pp-invan	7	9	Deshalb überfällt in dem Jahr die Borniertheit eine taz-Reporterin .
+VF[ADV]LK[V]MF[OS]	pp-invan	9	7	Deshalb überfällt in dem Jahr eine taz-Reporterin die Borniertheit .
+LK[V]MF[SO]	pp-invan	6	8	Überfällt in dem Jahr die Borniertheit eine taz-Reporterin ?
+LK[V]MF[OS]	pp-invan	8	6	Überfällt in dem Jahr eine taz-Reporterin die Borniertheit ?
+MF[SO]VC[V]	pp-invan	6	8	Weil in dem Jahr die Borniertheit eine taz-Reporterin überfällt .
+MF[OS]VC[V]	pp-invan	8	6	Weil in dem Jahr eine taz-Reporterin die Borniertheit überfällt .
+VF[S]LK[V]MF[O]	pp-invan	2	8	Die Schuld trifft in dem Jahr eine Berufstätige .
+VF[O]LK[V]MF[S]	pp-invan	8	2	Eine Berufstätige trifft in dem Jahr die Schuld .
+VF[ADV]LK[V]MF[SO]	pp-invan	7	9	Deshalb trifft in dem Jahr die Schuld eine Berufstätige .
+VF[ADV]LK[V]MF[OS]	pp-invan	9	7	Deshalb trifft in dem Jahr eine Berufstätige die Schuld .
+LK[V]MF[SO]	pp-invan	6	8	Trifft in dem Jahr die Schuld eine Berufstätige ?
+LK[V]MF[OS]	pp-invan	8	6	Trifft in dem Jahr eine Berufstätige die Schuld ?
+MF[SO]VC[V]	pp-invan	6	8	Weil in dem Jahr die Schuld eine Berufstätige trifft .
+MF[OS]VC[V]	pp-invan	8	6	Weil in dem Jahr eine Berufstätige die Schuld trifft .
+VF[S]LK[V]MF[O]	pp-invan	2	7	Die Schuhe drücken in dem Jahr Jogger .
+VF[O]LK[V]MF[S]	pp-invan	7	1	Jogger drücken in dem Jahr die Schuhe .
+VF[ADV]LK[V]MF[SO]	pp-invan	7	8	Deshalb drücken in dem Jahr die Schuhe Jogger .
+LK[V]MF[SO]	pp-invan	6	7	Drücken in dem Jahr die Schuhe Jogger ?
+MF[SO]VC[V]	pp-invan	6	7	Weil in dem Jahr die Schuhe Jogger drücken .
+VF[S]LK[V]MF[O]	pp-invan	2	8	Die Deadline drängt in dem Jahr eine Informatikerin .
+VF[O]LK[V]MF[S]	pp-invan	8	2	Eine Informatikerin drängt in dem Jahr die Deadline .
+VF[ADV]LK[V]MF[SO]	pp-invan	7	9	Deshalb drängt in dem Jahr die Deadline eine Informatikerin .
+VF[ADV]LK[V]MF[OS]	pp-invan	9	7	Deshalb drängt in dem Jahr eine Informatikerin die Deadline .
+LK[V]MF[SO]	pp-invan	6	8	Drängt in dem Jahr die Deadline eine Informatikerin ?
+LK[V]MF[OS]	pp-invan	8	6	Drängt in dem Jahr eine Informatikerin die Deadline ?
+MF[SO]VC[V]	pp-invan	6	8	Weil in dem Jahr die Deadline eine Informatikerin drängt .
+MF[OS]VC[V]	pp-invan	8	6	Weil in dem Jahr eine Informatikerin die Deadline drängt .
+VF[S]LK[V]MF[O]	pp-invan	2	7	Die Öfen wärmen in dem Jahr Wanderinnen .
+VF[O]LK[V]MF[S]	pp-invan	7	1	Wanderinnen wärmen in dem Jahr die Öfen .
+VF[ADV]LK[V]MF[SO]	pp-invan	7	8	Deshalb wärmen in dem Jahr die Öfen Wanderinnen .
+LK[V]MF[SO]	pp-invan	6	7	Wärmen in dem Jahr die Öfen Wanderinnen ?
+MF[SO]VC[V]	pp-invan	6	7	Weil in dem Jahr die Öfen Wanderinnen wärmen .
+VF[S]LK[V]MF[O]	pp-invan	2	7	Die Regenschauer durchnässen in dem Jahr Spaziergänger .
+VF[O]LK[V]MF[S]	pp-invan	7	1	Spaziergänger durchnässen in dem Jahr die Regenschauer .
+VF[ADV]LK[V]MF[SO]	pp-invan	7	8	Deshalb durchnässen in dem Jahr die Regenschauer Spaziergänger .
+LK[V]MF[SO]	pp-invan	6	7	Durchnässen in dem Jahr die Regenschauer Spaziergänger ?
+MF[SO]VC[V]	pp-invan	6	7	Weil in dem Jahr die Regenschauer Spaziergänger durchnässen .
+VF[S]LK[V]MF[O]	pp-invan	2	7	Die Kameras begleiten in dem Jahr Trucker .
+VF[O]LK[V]MF[S]	pp-invan	7	1	Trucker begleiten in dem Jahr die Kameras .
+VF[ADV]LK[V]MF[SO]	pp-invan	7	8	Deshalb begleiten in dem Jahr die Kameras Trucker .
+LK[V]MF[SO]	pp-invan	6	7	Begleiten in dem Jahr die Kameras Trucker ?
+MF[SO]VC[V]	pp-invan	6	7	Weil in dem Jahr die Kameras Trucker begleiten .
+VF[S]LK[V]MF[O]	pp-invan	2	8	Die Anlage schützt in dem Jahr eine Bereiste .
+VF[O]LK[V]MF[S]	pp-invan	8	2	Eine Bereiste schützt in dem Jahr die Anlage .
+VF[ADV]LK[V]MF[SO]	pp-invan	7	9	Deshalb schützt in dem Jahr die Anlage eine Bereiste .
+VF[ADV]LK[V]MF[OS]	pp-invan	9	7	Deshalb schützt in dem Jahr eine Bereiste die Anlage .
+LK[V]MF[SO]	pp-invan	6	8	Schützt in dem Jahr die Anlage eine Bereiste ?
+LK[V]MF[OS]	pp-invan	8	6	Schützt in dem Jahr eine Bereiste die Anlage ?
+MF[SO]VC[V]	pp-invan	6	8	Weil in dem Jahr die Anlage eine Bereiste schützt .
+MF[OS]VC[V]	pp-invan	8	6	Weil in dem Jahr eine Bereiste die Anlage schützt .
+VF[S]LK[V]MF[O]	pp-invan	2	8	Die Anzeige betrifft in dem Jahr eine Hausbesitzerin .
+VF[O]LK[V]MF[S]	pp-invan	8	2	Eine Hausbesitzerin betrifft in dem Jahr die Anzeige .
+VF[ADV]LK[V]MF[SO]	pp-invan	7	9	Deshalb betrifft in dem Jahr die Anzeige eine Hausbesitzerin .
+VF[ADV]LK[V]MF[OS]	pp-invan	9	7	Deshalb betrifft in dem Jahr eine Hausbesitzerin die Anzeige .
+LK[V]MF[SO]	pp-invan	6	8	Betrifft in dem Jahr die Anzeige eine Hausbesitzerin ?
+LK[V]MF[OS]	pp-invan	8	6	Betrifft in dem Jahr eine Hausbesitzerin die Anzeige ?
+MF[SO]VC[V]	pp-invan	6	8	Weil in dem Jahr die Anzeige eine Hausbesitzerin betrifft .
+MF[OS]VC[V]	pp-invan	8	6	Weil in dem Jahr eine Hausbesitzerin die Anzeige betrifft .
+VF[S]LK[V]MF[O]	pp-invan	2	8	Die Alternativlosigkeit prägt in dem Jahr eine Grünenpolitikerin .
+VF[O]LK[V]MF[S]	pp-invan	8	2	Eine Grünenpolitikerin prägt in dem Jahr die Alternativlosigkeit .
+VF[ADV]LK[V]MF[SO]	pp-invan	7	9	Deshalb prägt in dem Jahr die Alternativlosigkeit eine Grünenpolitikerin .
+VF[ADV]LK[V]MF[OS]	pp-invan	9	7	Deshalb prägt in dem Jahr eine Grünenpolitikerin die Alternativlosigkeit .
+LK[V]MF[SO]	pp-invan	6	8	Prägt in dem Jahr die Alternativlosigkeit eine Grünenpolitikerin ?
+LK[V]MF[OS]	pp-invan	8	6	Prägt in dem Jahr eine Grünenpolitikerin die Alternativlosigkeit ?
+MF[SO]VC[V]	pp-invan	6	8	Weil in dem Jahr die Alternativlosigkeit eine Grünenpolitikerin prägt .
+MF[OS]VC[V]	pp-invan	8	6	Weil in dem Jahr eine Grünenpolitikerin die Alternativlosigkeit prägt .
+VF[S]LK[V]MF[O]	pp-invan	2	8	Die Sonne blendet in dem Jahr eine Schwimmerin .
+VF[O]LK[V]MF[S]	pp-invan	8	2	Eine Schwimmerin blendet in dem Jahr die Sonne .
+VF[ADV]LK[V]MF[SO]	pp-invan	7	9	Deshalb blendet in dem Jahr die Sonne eine Schwimmerin .
+VF[ADV]LK[V]MF[OS]	pp-invan	9	7	Deshalb blendet in dem Jahr eine Schwimmerin die Sonne .
+LK[V]MF[SO]	pp-invan	6	8	Blendet in dem Jahr die Sonne eine Schwimmerin ?
+LK[V]MF[OS]	pp-invan	8	6	Blendet in dem Jahr eine Schwimmerin die Sonne ?
+MF[SO]VC[V]	pp-invan	6	8	Weil in dem Jahr die Sonne eine Schwimmerin blendet .
+MF[OS]VC[V]	pp-invan	8	6	Weil in dem Jahr eine Schwimmerin die Sonne blendet .
+VF[S]LK[V]MF[O]	pp-invan	2	7	Die Züge befördern in dem Jahr Fahrgäste .
+VF[O]LK[V]MF[S]	pp-invan	7	1	Fahrgäste befördern in dem Jahr die Züge .
+VF[ADV]LK[V]MF[SO]	pp-invan	7	8	Deshalb befördern in dem Jahr die Züge Fahrgäste .
+LK[V]MF[SO]	pp-invan	6	7	Befördern in dem Jahr die Züge Fahrgäste ?
+MF[SO]VC[V]	pp-invan	6	7	Weil in dem Jahr die Züge Fahrgäste befördern .
+VF[S]LK[V]MF[O]	pp-invan	2	8	Die Rückenlehne unterstützt in dem Jahr eine Bürotäterin .
+VF[O]LK[V]MF[S]	pp-invan	8	2	Eine Bürotäterin unterstützt in dem Jahr die Rückenlehne .
+VF[ADV]LK[V]MF[SO]	pp-invan	7	9	Deshalb unterstützt in dem Jahr die Rückenlehne eine Bürotäterin .
+VF[ADV]LK[V]MF[OS]	pp-invan	9	7	Deshalb unterstützt in dem Jahr eine Bürotäterin die Rückenlehne .
+LK[V]MF[SO]	pp-invan	6	8	Unterstützt in dem Jahr die Rückenlehne eine Bürotäterin ?
+LK[V]MF[OS]	pp-invan	8	6	Unterstützt in dem Jahr eine Bürotäterin die Rückenlehne ?
+MF[SO]VC[V]	pp-invan	6	8	Weil in dem Jahr die Rückenlehne eine Bürotäterin unterstützt .
+MF[OS]VC[V]	pp-invan	8	6	Weil in dem Jahr eine Bürotäterin die Rückenlehne unterstützt .
+VF[S]LK[V]MF[O]	pp-invan	2	8	Die Hose zwickt in dem Jahr eine Entertainerin .
+VF[O]LK[V]MF[S]	pp-invan	8	2	Eine Entertainerin zwickt in dem Jahr die Hose .
+VF[ADV]LK[V]MF[SO]	pp-invan	7	9	Deshalb zwickt in dem Jahr die Hose eine Entertainerin .
+VF[ADV]LK[V]MF[OS]	pp-invan	9	7	Deshalb zwickt in dem Jahr eine Entertainerin die Hose .
+LK[V]MF[SO]	pp-invan	6	8	Zwickt in dem Jahr die Hose eine Entertainerin ?
+LK[V]MF[OS]	pp-invan	8	6	Zwickt in dem Jahr eine Entertainerin die Hose ?
+MF[SO]VC[V]	pp-invan	6	8	Weil in dem Jahr die Hose eine Entertainerin zwickt .
+MF[OS]VC[V]	pp-invan	8	6	Weil in dem Jahr eine Entertainerin die Hose zwickt .
+VF[S]LK[V]MF[O]	pp-invan	2	8	Die Landwirtschaft bedroht in dem Jahr eine Biene .
+VF[O]LK[V]MF[S]	pp-invan	8	2	Eine Biene bedroht in dem Jahr die Landwirtschaft .
+VF[ADV]LK[V]MF[SO]	pp-invan	7	9	Deshalb bedroht in dem Jahr die Landwirtschaft eine Biene .
+VF[ADV]LK[V]MF[OS]	pp-invan	9	7	Deshalb bedroht in dem Jahr eine Biene die Landwirtschaft .
+LK[V]MF[SO]	pp-invan	6	8	Bedroht in dem Jahr die Landwirtschaft eine Biene ?
+LK[V]MF[OS]	pp-invan	8	6	Bedroht in dem Jahr eine Biene die Landwirtschaft ?
+MF[SO]VC[V]	pp-invan	6	8	Weil in dem Jahr die Landwirtschaft eine Biene bedroht .
+MF[OS]VC[V]	pp-invan	8	6	Weil in dem Jahr eine Biene die Landwirtschaft bedroht .
+VF[S]LK[V]MF[O]	pp-regpol	2	7	Die Kanzleien starten in dem Jahr Angriffe .
+VF[O]LK[V]MF[S]	pp-regpol	7	1	Angriffe starten in dem Jahr die Kanzleien .
+VF[ADV]LK[V]MF[SO]	pp-regpol	7	8	Deshalb starten in dem Jahr die Kanzleien Angriffe .
+LK[V]MF[SO]	pp-regpol	6	7	Starten in dem Jahr die Kanzleien Angriffe ?
+MF[SO]VC[V]	pp-regpol	6	7	Weil in dem Jahr die Kanzleien Angriffe starten .
+VF[S]LK[V]MF[O]	pp-regpol	2	7	Die Läden leben in dem Jahr Doppelleben .
+VF[O]LK[V]MF[S]	pp-regpol	7	1	Doppelleben leben in dem Jahr die Läden .
+VF[ADV]LK[V]MF[SO]	pp-regpol	7	8	Deshalb leben in dem Jahr die Läden Doppelleben .
+LK[V]MF[SO]	pp-regpol	6	7	Leben in dem Jahr die Läden Doppelleben ?
+MF[SO]VC[V]	pp-regpol	6	7	Weil in dem Jahr die Läden Doppelleben leben .
+VF[S]LK[V]MF[O]	pp-regpol	2	8	Die Werbeagentur übertextet in dem Jahr eine Aufnahme .
+VF[O]LK[V]MF[S]	pp-regpol	8	2	Eine Aufnahme übertextet in dem Jahr die Werbeagentur .
+VF[ADV]LK[V]MF[SO]	pp-regpol	7	9	Deshalb übertextet in dem Jahr die Werbeagentur eine Aufnahme .
+LK[V]MF[SO]	pp-regpol	6	8	Übertextet in dem Jahr die Werbeagentur eine Aufnahme ?
+MF[SO]VC[V]	pp-regpol	6	8	Weil in dem Jahr die Werbeagentur eine Aufnahme übertextet .
+VF[S]LK[V]MF[O]	pp-regpol	2	8	Die Gemeinde spielt in dem Jahr eine Traumhochzeit .
+VF[O]LK[V]MF[S]	pp-regpol	8	2	Eine Traumhochzeit spielt in dem Jahr die Gemeinde .
+VF[ADV]LK[V]MF[SO]	pp-regpol	7	9	Deshalb spielt in dem Jahr die Gemeinde eine Traumhochzeit .
+LK[V]MF[SO]	pp-regpol	6	8	Spielt in dem Jahr die Gemeinde eine Traumhochzeit ?
+MF[SO]VC[V]	pp-regpol	6	8	Weil in dem Jahr die Gemeinde eine Traumhochzeit spielt .
+VF[S]LK[V]MF[O]	pp-regpol	2	8	Das Dorf bewirft in dem Jahr ein Kunstwerk .
+VF[O]LK[V]MF[S]	pp-regpol	8	2	Ein Kunstwerk bewirft in dem Jahr das Dorf .
+VF[ADV]LK[V]MF[SO]	pp-regpol	7	9	Deshalb bewirft in dem Jahr das Dorf ein Kunstwerk .
+LK[V]MF[SO]	pp-regpol	6	8	Bewirft in dem Jahr das Dorf ein Kunstwerk ?
+MF[SO]VC[V]	pp-regpol	6	8	Weil in dem Jahr das Dorf ein Kunstwerk bewirft .
+VF[S]LK[V]MF[O]	pp-regpol	2	8	Das Büro findet in dem Jahr eine Lösung .
+VF[O]LK[V]MF[S]	pp-regpol	8	2	Eine Lösung findet in dem Jahr das Büro .
+VF[ADV]LK[V]MF[SO]	pp-regpol	7	9	Deshalb findet in dem Jahr das Büro eine Lösung .
+LK[V]MF[SO]	pp-regpol	6	8	Findet in dem Jahr das Büro eine Lösung ?
+MF[SO]VC[V]	pp-regpol	6	8	Weil in dem Jahr das Büro eine Lösung findet .
+VF[S]LK[V]MF[O]	pp-regpol	2	8	Die Praxis abonniert in dem Jahr eine Zeitschrift .
+VF[O]LK[V]MF[S]	pp-regpol	8	2	Eine Zeitschrift abonniert in dem Jahr die Praxis .
+VF[ADV]LK[V]MF[SO]	pp-regpol	7	9	Deshalb abonniert in dem Jahr die Praxis eine Zeitschrift .
+LK[V]MF[SO]	pp-regpol	6	8	Abonniert in dem Jahr die Praxis eine Zeitschrift ?
+MF[SO]VC[V]	pp-regpol	6	8	Weil in dem Jahr die Praxis eine Zeitschrift abonniert .
+VF[S]LK[V]MF[O]	pp-regpol	2	7	Die Salons rasieren in dem Jahr Bärte .
+VF[O]LK[V]MF[S]	pp-regpol	7	1	Bärte rasieren in dem Jahr die Salons .
+VF[ADV]LK[V]MF[SO]	pp-regpol	7	8	Deshalb rasieren in dem Jahr die Salons Bärte .
+LK[V]MF[SO]	pp-regpol	6	7	Rasieren in dem Jahr die Salons Bärte ?
+MF[SO]VC[V]	pp-regpol	6	7	Weil in dem Jahr die Salons Bärte rasieren .
+VF[S]LK[V]MF[O]	pp-regpol	2	7	Die Redaktionen trinken in dem Jahr Kaffees .
+VF[O]LK[V]MF[S]	pp-regpol	7	1	Kaffees trinken in dem Jahr die Redaktionen .
+VF[ADV]LK[V]MF[SO]	pp-regpol	7	8	Deshalb trinken in dem Jahr die Redaktionen Kaffees .
+LK[V]MF[SO]	pp-regpol	6	7	Trinken in dem Jahr die Redaktionen Kaffees ?
+MF[SO]VC[V]	pp-regpol	6	7	Weil in dem Jahr die Redaktionen Kaffees trinken .
+VF[S]LK[V]MF[O]	pp-regpol	2	7	Die Seminare schreiben in dem Jahr Romane .
+VF[O]LK[V]MF[S]	pp-regpol	7	1	Romane schreiben in dem Jahr die Seminare .
+VF[ADV]LK[V]MF[SO]	pp-regpol	7	8	Deshalb schreiben in dem Jahr die Seminare Romane .
+LK[V]MF[SO]	pp-regpol	6	7	Schreiben in dem Jahr die Seminare Romane ?
+MF[SO]VC[V]	pp-regpol	6	7	Weil in dem Jahr die Seminare Romane schreiben .
+VF[S]LK[V]MF[O]	pp-regpol	2	8	Das Landratsamt beendet in dem Jahr eine Rede .
+VF[O]LK[V]MF[S]	pp-regpol	8	2	Eine Rede beendet in dem Jahr das Landratsamt .
+VF[ADV]LK[V]MF[SO]	pp-regpol	7	9	Deshalb beendet in dem Jahr das Landratsamt eine Rede .
+LK[V]MF[SO]	pp-regpol	6	8	Beendet in dem Jahr das Landratsamt eine Rede ?
+MF[SO]VC[V]	pp-regpol	6	8	Weil in dem Jahr das Landratsamt eine Rede beendet .
+VF[S]LK[V]MF[O]	pp-regpol	2	8	Die Schule bekommt in dem Jahr ein Grundgehalt .
+VF[O]LK[V]MF[S]	pp-regpol	8	2	Ein Grundgehalt bekommt in dem Jahr die Schule .
+VF[ADV]LK[V]MF[SO]	pp-regpol	7	9	Deshalb bekommt in dem Jahr die Schule ein Grundgehalt .
+LK[V]MF[SO]	pp-regpol	6	8	Bekommt in dem Jahr die Schule ein Grundgehalt ?
+MF[SO]VC[V]	pp-regpol	6	8	Weil in dem Jahr die Schule ein Grundgehalt bekommt .
+VF[S]LK[V]MF[O]	pp-regpol	2	7	Die Werkstätten ziehen in dem Jahr Bauzäune .
+VF[O]LK[V]MF[S]	pp-regpol	7	1	Bauzäune ziehen in dem Jahr die Werkstätten .
+VF[ADV]LK[V]MF[SO]	pp-regpol	7	8	Deshalb ziehen in dem Jahr die Werkstätten Bauzäune .
+LK[V]MF[SO]	pp-regpol	6	7	Ziehen in dem Jahr die Werkstätten Bauzäune ?
+MF[SO]VC[V]	pp-regpol	6	7	Weil in dem Jahr die Werkstätten Bauzäune ziehen .
+VF[S]LK[V]MF[O]	pp-regpol	2	8	Die Universität gewinnt in dem Jahr eine Tour .
+VF[O]LK[V]MF[S]	pp-regpol	8	2	Eine Tour gewinnt in dem Jahr die Universität .
+VF[ADV]LK[V]MF[SO]	pp-regpol	7	9	Deshalb gewinnt in dem Jahr die Universität eine Tour .
+LK[V]MF[SO]	pp-regpol	6	8	Gewinnt in dem Jahr die Universität eine Tour ?
+MF[SO]VC[V]	pp-regpol	6	8	Weil in dem Jahr die Universität eine Tour gewinnt .
+VF[S]LK[V]MF[O]	pp-regpol	2	7	Die Konzerne übernehmen in dem Jahr Bauausführungen .
+VF[O]LK[V]MF[S]	pp-regpol	7	1	Bauausführungen übernehmen in dem Jahr die Konzerne .
+VF[ADV]LK[V]MF[SO]	pp-regpol	7	8	Deshalb übernehmen in dem Jahr die Konzerne Bauausführungen .
+LK[V]MF[SO]	pp-regpol	6	7	Übernehmen in dem Jahr die Konzerne Bauausführungen ?
+MF[SO]VC[V]	pp-regpol	6	7	Weil in dem Jahr die Konzerne Bauausführungen übernehmen .
+VF[S]LK[V]MF[O]	pp-sname	1	6	Siemens startet in dem Jahr Angriff .
+VF[O]LK[V]MF[S]	pp-sname	6	1	Angriff startet in dem Jahr Siemens .
+VF[ADV]LK[V]MF[SO]	pp-sname	6	7	Deshalb startet in dem Jahr Siemens Angriff .
+LK[V]MF[SO]	pp-sname	5	6	Startet in dem Jahr Siemens Angriff ?
+MF[SO]VC[V]	pp-sname	5	6	Weil in dem Jahr Siemens Angriff startet .
+VF[S]LK[V]MF[O]	pp-sname	1	7	Balazs lebt in dem Jahr ein Doppelleben .
+VF[O]LK[V]MF[S]	pp-sname	7	2	Ein Doppelleben lebt in dem Jahr Balazs .
+VF[ADV]LK[V]MF[SO]	pp-sname	6	8	Deshalb lebt in dem Jahr Balazs ein Doppelleben .
+LK[V]MF[SO]	pp-sname	5	7	Lebt in dem Jahr Balazs ein Doppelleben ?
+MF[SO]VC[V]	pp-sname	5	7	Weil in dem Jahr Balazs ein Doppelleben lebt .
+VF[S]LK[V]MF[O]	pp-sname	1	7	Daimler übertextet in dem Jahr eine Aufnahme .
+VF[O]LK[V]MF[S]	pp-sname	7	2	Eine Aufnahme übertextet in dem Jahr Daimler .
+VF[ADV]LK[V]MF[SO]	pp-sname	6	8	Deshalb übertextet in dem Jahr Daimler eine Aufnahme .
+LK[V]MF[SO]	pp-sname	5	7	Übertextet in dem Jahr Daimler eine Aufnahme ?
+MF[SO]VC[V]	pp-sname	5	7	Weil in dem Jahr Daimler eine Aufnahme übertextet .
+VF[S]LK[V]MF[O]	pp-sname	1	7	RTL spielt in dem Jahr eine Traumhochzeit .
+VF[O]LK[V]MF[S]	pp-sname	7	2	Eine Traumhochzeit spielt in dem Jahr RTL .
+VF[ADV]LK[V]MF[SO]	pp-sname	6	8	Deshalb spielt in dem Jahr RTL eine Traumhochzeit .
+LK[V]MF[SO]	pp-sname	5	7	Spielt in dem Jahr RTL eine Traumhochzeit ?
+MF[SO]VC[V]	pp-sname	5	7	Weil in dem Jahr RTL eine Traumhochzeit spielt .
+VF[S]LK[V]MF[O]	pp-sname	1	7	Degas bewirft in dem Jahr ein Kunstwerk .
+VF[O]LK[V]MF[S]	pp-sname	7	2	Ein Kunstwerk bewirft in dem Jahr Degas .
+VF[ADV]LK[V]MF[SO]	pp-sname	6	8	Deshalb bewirft in dem Jahr Degas ein Kunstwerk .
+LK[V]MF[SO]	pp-sname	5	7	Bewirft in dem Jahr Degas ein Kunstwerk ?
+MF[SO]VC[V]	pp-sname	5	7	Weil in dem Jahr Degas ein Kunstwerk bewirft .
+VF[S]LK[V]MF[O]	pp-sname	1	8	Günter Jauch findet in dem Jahr eine Lösung .
+VF[O]LK[V]MF[S]	pp-sname	7	2	Eine Lösung findet in dem Jahr Günter Jauch .
+VF[ADV]LK[V]MF[SO]	pp-sname	6	9	Deshalb findet in dem Jahr Günter Jauch eine Lösung .
+LK[V]MF[SO]	pp-sname	5	8	Findet in dem Jahr Günter Jauch eine Lösung ?
+MF[SO]VC[V]	pp-sname	5	8	Weil in dem Jahr Günter Jauch eine Lösung findet .
+VF[S]LK[V]MF[O]	pp-sname	1	7	Harry abonniert in dem Jahr eine Zeitschrift .
+VF[O]LK[V]MF[S]	pp-sname	7	2	Eine Zeitschrift abonniert in dem Jahr Harry .
+VF[ADV]LK[V]MF[SO]	pp-sname	6	8	Deshalb abonniert in dem Jahr Harry eine Zeitschrift .
+LK[V]MF[SO]	pp-sname	5	7	Abonniert in dem Jahr Harry eine Zeitschrift ?
+MF[SO]VC[V]	pp-sname	5	7	Weil in dem Jahr Harry eine Zeitschrift abonniert .
+VF[S]LK[V]MF[O]	pp-sname	1	6	Gillette rasiert in dem Jahr Bart .
+VF[O]LK[V]MF[S]	pp-sname	6	1	Bart rasiert in dem Jahr Gillette .
+VF[ADV]LK[V]MF[SO]	pp-sname	6	7	Deshalb rasiert in dem Jahr Gillette Bart .
+LK[V]MF[SO]	pp-sname	5	6	Rasiert in dem Jahr Gillette Bart ?
+MF[SO]VC[V]	pp-sname	5	6	Weil in dem Jahr Gillette Bart rasiert .
+VF[S]LK[V]MF[O]	pp-sname	1	6	Clooney trinkt in dem Jahr Kaffee .
+VF[O]LK[V]MF[S]	pp-sname	6	1	Kaffee trinkt in dem Jahr Clooney .
+VF[ADV]LK[V]MF[SO]	pp-sname	6	7	Deshalb trinkt in dem Jahr Clooney Kaffee .
+LK[V]MF[SO]	pp-sname	5	6	Trinkt in dem Jahr Clooney Kaffee ?
+MF[SO]VC[V]	pp-sname	5	6	Weil in dem Jahr Clooney Kaffee trinkt .
+VF[S]LK[V]MF[O]	pp-sname	1	7	Bertolt Brecht schreibt in dem Jahr Roman .
+VF[O]LK[V]MF[S]	pp-sname	6	1	Roman schreibt in dem Jahr Bertolt Brecht .
+VF[ADV]LK[V]MF[SO]	pp-sname	6	8	Deshalb schreibt in dem Jahr Bertolt Brecht Roman .
+LK[V]MF[SO]	pp-sname	5	7	Schreibt in dem Jahr Bertolt Brecht Roman ?
+MF[SO]VC[V]	pp-sname	5	7	Weil in dem Jahr Bertolt Brecht Roman schreibt .
+VF[S]LK[V]MF[O]	pp-sname	1	7	Merkel beendet in dem Jahr eine Rede .
+VF[O]LK[V]MF[S]	pp-sname	7	2	Eine Rede beendet in dem Jahr Merkel .
+VF[ADV]LK[V]MF[SO]	pp-sname	6	8	Deshalb beendet in dem Jahr Merkel eine Rede .
+LK[V]MF[SO]	pp-sname	5	7	Beendet in dem Jahr Merkel eine Rede ?
+MF[SO]VC[V]	pp-sname	5	7	Weil in dem Jahr Merkel eine Rede beendet .
+VF[S]LK[V]MF[O]	pp-sname	1	7	Vietnam bekommt in dem Jahr ein Grundgehalt .
+VF[O]LK[V]MF[S]	pp-sname	7	2	Ein Grundgehalt bekommt in dem Jahr Vietnam .
+VF[ADV]LK[V]MF[SO]	pp-sname	6	8	Deshalb bekommt in dem Jahr Vietnam ein Grundgehalt .
+LK[V]MF[SO]	pp-sname	5	7	Bekommt in dem Jahr Vietnam ein Grundgehalt ?
+MF[SO]VC[V]	pp-sname	5	7	Weil in dem Jahr Vietnam ein Grundgehalt bekommt .
+VF[S]LK[V]MF[O]	pp-sname	1	6	Anke zieht in dem Jahr Bauzaun .
+VF[O]LK[V]MF[S]	pp-sname	6	1	Bauzaun zieht in dem Jahr Anke .
+VF[ADV]LK[V]MF[SO]	pp-sname	6	7	Deshalb zieht in dem Jahr Anke Bauzaun .
+LK[V]MF[SO]	pp-sname	5	6	Zieht in dem Jahr Anke Bauzaun ?
+MF[SO]VC[V]	pp-sname	5	6	Weil in dem Jahr Anke Bauzaun zieht .
+VF[S]LK[V]MF[O]	pp-sname	1	7	Bonn gewinnt in dem Jahr eine Tour .
+VF[O]LK[V]MF[S]	pp-sname	7	2	Eine Tour gewinnt in dem Jahr Bonn .
+VF[ADV]LK[V]MF[SO]	pp-sname	6	8	Deshalb gewinnt in dem Jahr Bonn eine Tour .
+LK[V]MF[SO]	pp-sname	5	7	Gewinnt in dem Jahr Bonn eine Tour ?
+MF[SO]VC[V]	pp-sname	5	7	Weil in dem Jahr Bonn eine Tour gewinnt .
+VF[S]LK[V]MF[O]	pp-sname	1	7	EnBW übernimmt in dem Jahr eine Bauausführung .
+VF[O]LK[V]MF[S]	pp-sname	7	2	Eine Bauausführung übernimmt in dem Jahr EnBW .
+VF[ADV]LK[V]MF[SO]	pp-sname	6	8	Deshalb übernimmt in dem Jahr EnBW eine Bauausführung .
+LK[V]MF[SO]	pp-sname	5	7	Übernimmt in dem Jahr EnBW eine Bauausführung ?
+MF[SO]VC[V]	pp-sname	5	7	Weil in dem Jahr EnBW eine Bauausführung übernimmt .
+VF[S]LK[V]MF[O]	pp-semas	2	8	Die Starke hält in dem Jahr eine Schwache .
+VF[O]LK[V]MF[S]	pp-semas	8	2	Eine Schwache hält in dem Jahr die Starke .
+VF[ADV]LK[V]MF[SO]	pp-semas	7	9	Deshalb hält in dem Jahr die Starke eine Schwache .
+LK[V]MF[SO]	pp-semas	6	8	Hält in dem Jahr die Starke eine Schwache ?
+MF[SO]VC[V]	pp-semas	6	8	Weil in dem Jahr die Starke eine Schwache hält .
+VF[S]LK[V]MF[O]	pp-semas	2	8	Die Spürhündin findet in dem Jahr eine Beute .
+VF[O]LK[V]MF[S]	pp-semas	8	2	Eine Beute findet in dem Jahr die Spürhündin .
+VF[ADV]LK[V]MF[SO]	pp-semas	7	9	Deshalb findet in dem Jahr die Spürhündin eine Beute .
+LK[V]MF[SO]	pp-semas	6	8	Findet in dem Jahr die Spürhündin eine Beute ?
+MF[SO]VC[V]	pp-semas	6	8	Weil in dem Jahr die Spürhündin eine Beute findet .
+VF[S]LK[V]MF[O]	pp-semas	2	8	Die Barbierin rasiert in dem Jahr eine Kundin .
+VF[O]LK[V]MF[S]	pp-semas	8	2	Eine Kundin rasiert in dem Jahr die Barbierin .
+VF[ADV]LK[V]MF[SO]	pp-semas	7	9	Deshalb rasiert in dem Jahr die Barbierin eine Kundin .
+LK[V]MF[SO]	pp-semas	6	8	Rasiert in dem Jahr die Barbierin eine Kundin ?
+MF[SO]VC[V]	pp-semas	6	8	Weil in dem Jahr die Barbierin eine Kundin rasiert .
+VF[S]LK[V]MF[O]	pp-semas	2	8	Die Polizistin verhaftet in dem Jahr eine Verdächtige .
+VF[O]LK[V]MF[S]	pp-semas	8	2	Eine Verdächtige verhaftet in dem Jahr die Polizistin .
+VF[ADV]LK[V]MF[SO]	pp-semas	7	9	Deshalb verhaftet in dem Jahr die Polizistin eine Verdächtige .
+LK[V]MF[SO]	pp-semas	6	8	Verhaftet in dem Jahr die Polizistin eine Verdächtige ?
+MF[SO]VC[V]	pp-semas	6	8	Weil in dem Jahr die Polizistin eine Verdächtige verhaftet .
+VF[S]LK[V]MF[O]	pp-semas	2	8	Die Lehrerin unterrichtet in dem Jahr eine Schülerin .
+VF[O]LK[V]MF[S]	pp-semas	8	2	Eine Schülerin unterrichtet in dem Jahr die Lehrerin .
+VF[ADV]LK[V]MF[SO]	pp-semas	7	9	Deshalb unterrichtet in dem Jahr die Lehrerin eine Schülerin .
+LK[V]MF[SO]	pp-semas	6	8	Unterrichtet in dem Jahr die Lehrerin eine Schülerin ?
+MF[SO]VC[V]	pp-semas	6	8	Weil in dem Jahr die Lehrerin eine Schülerin unterrichtet .
+VF[S]LK[V]MF[O]	pp-semas	2	7	Die Mütter stillen in dem Jahr Söhne .
+VF[O]LK[V]MF[S]	pp-semas	7	1	Söhne stillen in dem Jahr die Mütter .
+VF[ADV]LK[V]MF[SO]	pp-semas	7	8	Deshalb stillen in dem Jahr die Mütter Söhne .
+LK[V]MF[SO]	pp-semas	6	7	Stillen in dem Jahr die Mütter Söhne ?
+MF[SO]VC[V]	pp-semas	6	7	Weil in dem Jahr die Mütter Söhne stillen .
+VF[S]LK[V]MF[O]	pp-semas	2	8	Die Präsidentin befehligt in dem Jahr eine Soldatin .
+VF[O]LK[V]MF[S]	pp-semas	8	2	Eine Soldatin befehligt in dem Jahr die Präsidentin .
+VF[ADV]LK[V]MF[SO]	pp-semas	7	9	Deshalb befehligt in dem Jahr die Präsidentin eine Soldatin .
+LK[V]MF[SO]	pp-semas	6	8	Befehligt in dem Jahr die Präsidentin eine Soldatin ?
+MF[SO]VC[V]	pp-semas	6	8	Weil in dem Jahr die Präsidentin eine Soldatin befehligt .
+VF[S]LK[V]MF[O]	pp-semas	2	8	Die Vorgesetzte entlässt in dem Jahr eine Angestellte .
+VF[O]LK[V]MF[S]	pp-semas	8	2	Eine Angestellte entlässt in dem Jahr die Vorgesetzte .
+VF[ADV]LK[V]MF[SO]	pp-semas	7	9	Deshalb entlässt in dem Jahr die Vorgesetzte eine Angestellte .
+LK[V]MF[SO]	pp-semas	6	8	Entlässt in dem Jahr die Vorgesetzte eine Angestellte ?
+MF[SO]VC[V]	pp-semas	6	8	Weil in dem Jahr die Vorgesetzte eine Angestellte entlässt .
+VF[S]LK[V]MF[O]	pp-semas	2	8	Die Produzentin beliefert in dem Jahr eine Abnehmerin .
+VF[O]LK[V]MF[S]	pp-semas	8	2	Eine Abnehmerin beliefert in dem Jahr die Produzentin .
+VF[ADV]LK[V]MF[SO]	pp-semas	7	9	Deshalb beliefert in dem Jahr die Produzentin eine Abnehmerin .
+LK[V]MF[SO]	pp-semas	6	8	Beliefert in dem Jahr die Produzentin eine Abnehmerin ?
+MF[SO]VC[V]	pp-semas	6	8	Weil in dem Jahr die Produzentin eine Abnehmerin beliefert .
+VF[S]LK[V]MF[O]	pp-semas	2	7	Die Teenager bejubeln in dem Jahr Stars .
+VF[O]LK[V]MF[S]	pp-semas	7	1	Stars bejubeln in dem Jahr die Teenager .
+VF[ADV]LK[V]MF[SO]	pp-semas	7	8	Deshalb bejubeln in dem Jahr die Teenager Stars .
+LK[V]MF[SO]	pp-semas	6	7	Bejubeln in dem Jahr die Teenager Stars ?
+MF[SO]VC[V]	pp-semas	6	7	Weil in dem Jahr die Teenager Stars bejubeln .
+VF[S]LK[V]MF[O]	pp-semas	2	8	Die Ärztin behandelt in dem Jahr eine Patientin .
+VF[O]LK[V]MF[S]	pp-semas	8	2	Eine Patientin behandelt in dem Jahr die Ärztin .
+VF[ADV]LK[V]MF[SO]	pp-semas	7	9	Deshalb behandelt in dem Jahr die Ärztin eine Patientin .
+LK[V]MF[SO]	pp-semas	6	8	Behandelt in dem Jahr die Ärztin eine Patientin ?
+MF[SO]VC[V]	pp-semas	6	8	Weil in dem Jahr die Ärztin eine Patientin behandelt .
+VF[S]LK[V]MF[O]	pp-semas	2	8	Die Eigentümerin rügt in dem Jahr eine Pächterin .
+VF[O]LK[V]MF[S]	pp-semas	8	2	Eine Pächterin rügt in dem Jahr die Eigentümerin .
+VF[ADV]LK[V]MF[SO]	pp-semas	7	9	Deshalb rügt in dem Jahr die Eigentümerin eine Pächterin .
+LK[V]MF[SO]	pp-semas	6	8	Rügt in dem Jahr die Eigentümerin eine Pächterin ?
+MF[SO]VC[V]	pp-semas	6	8	Weil in dem Jahr die Eigentümerin eine Pächterin rügt .
+VF[S]LK[V]MF[O]	pp-semas	2	8	Die Pfarrerin betreut in dem Jahr ein Beichtkind .
+VF[O]LK[V]MF[S]	pp-semas	8	2	Ein Beichtkind betreut in dem Jahr die Pfarrerin .
+VF[ADV]LK[V]MF[SO]	pp-semas	7	9	Deshalb betreut in dem Jahr die Pfarrerin ein Beichtkind .
+LK[V]MF[SO]	pp-semas	6	8	Betreut in dem Jahr die Pfarrerin ein Beichtkind ?
+MF[SO]VC[V]	pp-semas	6	8	Weil in dem Jahr die Pfarrerin ein Beichtkind betreut .
+VF[S]LK[V]MF[O]	pp-semas	2	8	Die Prüferin testet in dem Jahr eine Examenskandidatin .
+VF[O]LK[V]MF[S]	pp-semas	8	2	Eine Examenskandidatin testet in dem Jahr die Prüferin .
+VF[ADV]LK[V]MF[SO]	pp-semas	7	9	Deshalb testet in dem Jahr die Prüferin eine Examenskandidatin .
+LK[V]MF[SO]	pp-semas	6	8	Testet in dem Jahr die Prüferin eine Examenskandidatin ?
+MF[SO]VC[V]	pp-semas	6	8	Weil in dem Jahr die Prüferin eine Examenskandidatin testet .
+VF[S]LK[V]MF[O]	pp-semas	2	7	Die Meister belehren in dem Jahr Azubis .
+VF[O]LK[V]MF[S]	pp-semas	7	1	Azubis belehren in dem Jahr die Meister .
+VF[ADV]LK[V]MF[SO]	pp-semas	7	8	Deshalb belehren in dem Jahr die Meister Azubis .
+LK[V]MF[SO]	pp-semas	6	7	Belehren in dem Jahr die Meister Azubis ?
+MF[SO]VC[V]	pp-semas	6	7	Weil in dem Jahr die Meister Azubis belehren .
+VF[S]LK[V]MF[O]	pp-noref	2	7	Die Generalin startet in dem Jahr nichts .
+VF[O]LK[V]MF[S]	pp-noref	7	1	Nichts startet in dem Jahr die Generalin .
+VF[ADV]LK[V]MF[SO]	pp-noref	7	8	Deshalb startet in dem Jahr die Generalin nichts .
+LK[V]MF[SO]	pp-noref	6	7	Startet in dem Jahr die Generalin nichts ?
+MF[SO]VC[V]	pp-noref	6	7	Weil in dem Jahr die Generalin nichts startet .
+VF[S]LK[V]MF[O]	pp-noref	2	7	Die Partnerin lebt in dem Jahr nichts .
+VF[O]LK[V]MF[S]	pp-noref	7	1	Nichts lebt in dem Jahr die Partnerin .
+VF[ADV]LK[V]MF[SO]	pp-noref	7	8	Deshalb lebt in dem Jahr die Partnerin nichts .
+LK[V]MF[SO]	pp-noref	6	7	Lebt in dem Jahr die Partnerin nichts ?
+MF[SO]VC[V]	pp-noref	6	7	Weil in dem Jahr die Partnerin nichts lebt .
+VF[S]LK[V]MF[O]	pp-noref	2	7	Die Journalistin übertextet in dem Jahr nichts .
+VF[O]LK[V]MF[S]	pp-noref	7	1	Nichts übertextet in dem Jahr die Journalistin .
+VF[ADV]LK[V]MF[SO]	pp-noref	7	8	Deshalb übertextet in dem Jahr die Journalistin nichts .
+LK[V]MF[SO]	pp-noref	6	7	Übertextet in dem Jahr die Journalistin nichts ?
+MF[SO]VC[V]	pp-noref	6	7	Weil in dem Jahr die Journalistin nichts übertextet .
+VF[S]LK[V]MF[O]	pp-noref	2	7	Die Freundin spielt in dem Jahr nichts .
+VF[O]LK[V]MF[S]	pp-noref	7	1	Nichts spielt in dem Jahr die Freundin .
+VF[ADV]LK[V]MF[SO]	pp-noref	7	8	Deshalb spielt in dem Jahr die Freundin nichts .
+LK[V]MF[SO]	pp-noref	6	7	Spielt in dem Jahr die Freundin nichts ?
+MF[SO]VC[V]	pp-noref	6	7	Weil in dem Jahr die Freundin nichts spielt .
+VF[S]LK[V]MF[O]	pp-noref	2	7	Die Passantin bewirft in dem Jahr nichts .
+VF[O]LK[V]MF[S]	pp-noref	7	1	Nichts bewirft in dem Jahr die Passantin .
+VF[ADV]LK[V]MF[SO]	pp-noref	7	8	Deshalb bewirft in dem Jahr die Passantin nichts .
+LK[V]MF[SO]	pp-noref	6	7	Bewirft in dem Jahr die Passantin nichts ?
+MF[SO]VC[V]	pp-noref	6	7	Weil in dem Jahr die Passantin nichts bewirft .
+VF[S]LK[V]MF[O]	pp-noref	2	7	Das Kind findet in dem Jahr nichts .
+VF[O]LK[V]MF[S]	pp-noref	7	1	Nichts findet in dem Jahr das Kind .
+VF[ADV]LK[V]MF[SO]	pp-noref	7	8	Deshalb findet in dem Jahr das Kind nichts .
+LK[V]MF[SO]	pp-noref	6	7	Findet in dem Jahr das Kind nichts ?
+MF[SO]VC[V]	pp-noref	6	7	Weil in dem Jahr das Kind nichts findet .
+VF[S]LK[V]MF[O]	pp-noref	2	7	Die Leserin abonniert in dem Jahr nichts .
+VF[O]LK[V]MF[S]	pp-noref	7	1	Nichts abonniert in dem Jahr die Leserin .
+VF[ADV]LK[V]MF[SO]	pp-noref	7	8	Deshalb abonniert in dem Jahr die Leserin nichts .
+LK[V]MF[SO]	pp-noref	6	7	Abonniert in dem Jahr die Leserin nichts ?
+MF[SO]VC[V]	pp-noref	6	7	Weil in dem Jahr die Leserin nichts abonniert .
+VF[S]LK[V]MF[O]	pp-noref	2	7	Die Herrin rasiert in dem Jahr nichts .
+VF[O]LK[V]MF[S]	pp-noref	7	1	Nichts rasiert in dem Jahr die Herrin .
+VF[ADV]LK[V]MF[SO]	pp-noref	7	8	Deshalb rasiert in dem Jahr die Herrin nichts .
+LK[V]MF[SO]	pp-noref	6	7	Rasiert in dem Jahr die Herrin nichts ?
+MF[SO]VC[V]	pp-noref	6	7	Weil in dem Jahr die Herrin nichts rasiert .
+VF[S]LK[V]MF[O]	pp-noref	2	7	Die Mama trinkt in dem Jahr nichts .
+VF[O]LK[V]MF[S]	pp-noref	7	1	Nichts trinkt in dem Jahr die Mama .
+VF[ADV]LK[V]MF[SO]	pp-noref	7	8	Deshalb trinkt in dem Jahr die Mama nichts .
+LK[V]MF[SO]	pp-noref	6	7	Trinkt in dem Jahr die Mama nichts ?
+MF[SO]VC[V]	pp-noref	6	7	Weil in dem Jahr die Mama nichts trinkt .
+VF[S]LK[V]MF[O]	pp-noref	2	7	Die Schriftstellerin schreibt in dem Jahr nichts .
+VF[O]LK[V]MF[S]	pp-noref	7	1	Nichts schreibt in dem Jahr die Schriftstellerin .
+VF[ADV]LK[V]MF[SO]	pp-noref	7	8	Deshalb schreibt in dem Jahr die Schriftstellerin nichts .
+LK[V]MF[SO]	pp-noref	6	7	Schreibt in dem Jahr die Schriftstellerin nichts ?
+MF[SO]VC[V]	pp-noref	6	7	Weil in dem Jahr die Schriftstellerin nichts schreibt .
+VF[S]LK[V]MF[O]	pp-noref	2	7	Die Politikerin beendet in dem Jahr nichts .
+VF[O]LK[V]MF[S]	pp-noref	7	1	Nichts beendet in dem Jahr die Politikerin .
+VF[ADV]LK[V]MF[SO]	pp-noref	7	8	Deshalb beendet in dem Jahr die Politikerin nichts .
+LK[V]MF[SO]	pp-noref	6	7	Beendet in dem Jahr die Politikerin nichts ?
+MF[SO]VC[V]	pp-noref	6	7	Weil in dem Jahr die Politikerin nichts beendet .
+VF[S]LK[V]MF[O]	pp-noref	2	7	Die Abgeordnete bekommt in dem Jahr nichts .
+VF[O]LK[V]MF[S]	pp-noref	7	1	Nichts bekommt in dem Jahr die Abgeordnete .
+VF[ADV]LK[V]MF[SO]	pp-noref	7	8	Deshalb bekommt in dem Jahr die Abgeordnete nichts .
+LK[V]MF[SO]	pp-noref	6	7	Bekommt in dem Jahr die Abgeordnete nichts ?
+MF[SO]VC[V]	pp-noref	6	7	Weil in dem Jahr die Abgeordnete nichts bekommt .
+VF[S]LK[V]MF[O]	pp-noref	2	7	Die Kleinbäuerin zieht in dem Jahr nichts .
+VF[O]LK[V]MF[S]	pp-noref	7	1	Nichts zieht in dem Jahr die Kleinbäuerin .
+VF[ADV]LK[V]MF[SO]	pp-noref	7	8	Deshalb zieht in dem Jahr die Kleinbäuerin nichts .
+LK[V]MF[SO]	pp-noref	6	7	Zieht in dem Jahr die Kleinbäuerin nichts ?
+MF[SO]VC[V]	pp-noref	6	7	Weil in dem Jahr die Kleinbäuerin nichts zieht .
+VF[S]LK[V]MF[O]	pp-noref	2	7	Die Sportlerin gewinnt in dem Jahr nichts .
+VF[O]LK[V]MF[S]	pp-noref	7	1	Nichts gewinnt in dem Jahr die Sportlerin .
+VF[ADV]LK[V]MF[SO]	pp-noref	7	8	Deshalb gewinnt in dem Jahr die Sportlerin nichts .
+LK[V]MF[SO]	pp-noref	6	7	Gewinnt in dem Jahr die Sportlerin nichts ?
+MF[SO]VC[V]	pp-noref	6	7	Weil in dem Jahr die Sportlerin nichts gewinnt .
+VF[S]LK[V]MF[O]	pp-noref	2	7	Die Handwerkerin übernimmt in dem Jahr nichts .
+VF[O]LK[V]MF[S]	pp-noref	7	1	Nichts übernimmt in dem Jahr die Handwerkerin .
+VF[ADV]LK[V]MF[SO]	pp-noref	7	8	Deshalb übernimmt in dem Jahr die Handwerkerin nichts .
+LK[V]MF[SO]	pp-noref	6	7	Übernimmt in dem Jahr die Handwerkerin nichts ?
+MF[SO]VC[V]	pp-noref	6	7	Weil in dem Jahr die Handwerkerin nichts übernimmt .
+VF[S]LK[V]MF[O]	pp-psy	2	7	Die Angriffe fesseln in dem Jahr Generäle .
+VF[O]LK[V]MF[S]	pp-psy	7	1	Generäle fesseln in dem Jahr die Angriffe .
+VF[ADV]LK[V]MF[SO]	pp-psy	7	8	Deshalb fesseln in dem Jahr die Angriffe Generäle .
+LK[V]MF[SO]	pp-psy	6	7	Fesseln in dem Jahr die Angriffe Generäle ?
+MF[SO]VC[V]	pp-psy	6	7	Weil in dem Jahr die Angriffe Generäle fesseln .
+VF[S]LK[V]MF[O]	pp-psy	2	8	Das Doppelleben langweilt in dem Jahr eine Partnerin .
+VF[O]LK[V]MF[S]	pp-psy	8	2	Eine Partnerin langweilt in dem Jahr das Doppelleben .
+VF[ADV]LK[V]MF[SO]	pp-psy	7	9	Deshalb langweilt in dem Jahr das Doppelleben eine Partnerin .
+VF[ADV]LK[V]MF[OS]	pp-psy	9	7	Deshalb langweilt in dem Jahr eine Partnerin das Doppelleben .
+LK[V]MF[SO]	pp-psy	6	8	Langweilt in dem Jahr das Doppelleben eine Partnerin ?
+LK[V]MF[OS]	pp-psy	8	6	Langweilt in dem Jahr eine Partnerin das Doppelleben ?
+MF[SO]VC[V]	pp-psy	6	8	Weil in dem Jahr das Doppelleben eine Partnerin langweilt .
+MF[OS]VC[V]	pp-psy	8	6	Weil in dem Jahr eine Partnerin das Doppelleben langweilt .
+VF[S]LK[V]MF[O]	pp-psy	2	8	Die Aufnahme begeistert in dem Jahr eine Journalistin .
+VF[O]LK[V]MF[S]	pp-psy	8	2	Eine Journalistin begeistert in dem Jahr die Aufnahme .
+VF[ADV]LK[V]MF[SO]	pp-psy	7	9	Deshalb begeistert in dem Jahr die Aufnahme eine Journalistin .
+VF[ADV]LK[V]MF[OS]	pp-psy	9	7	Deshalb begeistert in dem Jahr eine Journalistin die Aufnahme .
+LK[V]MF[SO]	pp-psy	6	8	Begeistert in dem Jahr die Aufnahme eine Journalistin ?
+LK[V]MF[OS]	pp-psy	8	6	Begeistert in dem Jahr eine Journalistin die Aufnahme ?
+MF[SO]VC[V]	pp-psy	6	8	Weil in dem Jahr die Aufnahme eine Journalistin begeistert .
+MF[OS]VC[V]	pp-psy	8	6	Weil in dem Jahr eine Journalistin die Aufnahme begeistert .
+VF[S]LK[V]MF[O]	pp-psy	2	8	Die Traumhochzeit erzürnt in dem Jahr eine Freundin .
+VF[O]LK[V]MF[S]	pp-psy	8	2	Eine Freundin erzürnt in dem Jahr die Traumhochzeit .
+VF[ADV]LK[V]MF[SO]	pp-psy	7	9	Deshalb erzürnt in dem Jahr die Traumhochzeit eine Freundin .
+VF[ADV]LK[V]MF[OS]	pp-psy	9	7	Deshalb erzürnt in dem Jahr eine Freundin die Traumhochzeit .
+LK[V]MF[SO]	pp-psy	6	8	Erzürnt in dem Jahr die Traumhochzeit eine Freundin ?
+LK[V]MF[OS]	pp-psy	8	6	Erzürnt in dem Jahr eine Freundin die Traumhochzeit ?
+MF[SO]VC[V]	pp-psy	6	8	Weil in dem Jahr die Traumhochzeit eine Freundin erzürnt .
+MF[OS]VC[V]	pp-psy	8	6	Weil in dem Jahr eine Freundin die Traumhochzeit erzürnt .
+VF[S]LK[V]MF[O]	pp-psy	2	8	Das Kunstwerk fasziniert in dem Jahr eine Passantin .
+VF[O]LK[V]MF[S]	pp-psy	8	2	Eine Passantin fasziniert in dem Jahr das Kunstwerk .
+VF[ADV]LK[V]MF[SO]	pp-psy	7	9	Deshalb fasziniert in dem Jahr das Kunstwerk eine Passantin .
+VF[ADV]LK[V]MF[OS]	pp-psy	9	7	Deshalb fasziniert in dem Jahr eine Passantin das Kunstwerk .
+LK[V]MF[SO]	pp-psy	6	8	Fasziniert in dem Jahr das Kunstwerk eine Passantin ?
+LK[V]MF[OS]	pp-psy	8	6	Fasziniert in dem Jahr eine Passantin das Kunstwerk ?
+MF[SO]VC[V]	pp-psy	6	8	Weil in dem Jahr das Kunstwerk eine Passantin fasziniert .
+MF[OS]VC[V]	pp-psy	8	6	Weil in dem Jahr eine Passantin das Kunstwerk fasziniert .
+VF[S]LK[V]MF[O]	pp-psy	2	8	Die Lösung berührt in dem Jahr ein Kind .
+VF[O]LK[V]MF[S]	pp-psy	8	2	Ein Kind berührt in dem Jahr die Lösung .
+VF[ADV]LK[V]MF[SO]	pp-psy	7	9	Deshalb berührt in dem Jahr die Lösung ein Kind .
+VF[ADV]LK[V]MF[OS]	pp-psy	9	7	Deshalb berührt in dem Jahr ein Kind die Lösung .
+LK[V]MF[SO]	pp-psy	6	8	Berührt in dem Jahr die Lösung ein Kind ?
+LK[V]MF[OS]	pp-psy	8	6	Berührt in dem Jahr ein Kind die Lösung ?
+MF[SO]VC[V]	pp-psy	6	8	Weil in dem Jahr die Lösung ein Kind berührt .
+MF[OS]VC[V]	pp-psy	8	6	Weil in dem Jahr ein Kind die Lösung berührt .
+VF[S]LK[V]MF[O]	pp-psy	2	8	Die Zeitschrift ängstigt in dem Jahr eine Leserin .
+VF[O]LK[V]MF[S]	pp-psy	8	2	Eine Leserin ängstigt in dem Jahr die Zeitschrift .
+VF[ADV]LK[V]MF[SO]	pp-psy	7	9	Deshalb ängstigt in dem Jahr die Zeitschrift eine Leserin .
+VF[ADV]LK[V]MF[OS]	pp-psy	9	7	Deshalb ängstigt in dem Jahr eine Leserin die Zeitschrift .
+LK[V]MF[SO]	pp-psy	6	8	Ängstigt in dem Jahr die Zeitschrift eine Leserin ?
+LK[V]MF[OS]	pp-psy	8	6	Ängstigt in dem Jahr eine Leserin die Zeitschrift ?
+MF[SO]VC[V]	pp-psy	6	8	Weil in dem Jahr die Zeitschrift eine Leserin ängstigt .
+MF[OS]VC[V]	pp-psy	8	6	Weil in dem Jahr eine Leserin die Zeitschrift ängstigt .
+VF[S]LK[V]MF[O]	pp-psy	2	7	Die Bärte erstaunen in dem Jahr Herren .
+VF[O]LK[V]MF[S]	pp-psy	7	1	Herren erstaunen in dem Jahr die Bärte .
+VF[ADV]LK[V]MF[SO]	pp-psy	7	8	Deshalb erstaunen in dem Jahr die Bärte Herren .
+LK[V]MF[SO]	pp-psy	6	7	Erstaunen in dem Jahr die Bärte Herren ?
+MF[SO]VC[V]	pp-psy	6	7	Weil in dem Jahr die Bärte Herren erstaunen .
+VF[S]LK[V]MF[O]	pp-psy	2	7	Die Kaffees erfreuen in dem Jahr Mamas .
+VF[O]LK[V]MF[S]	pp-psy	7	1	Mamas erfreuen in dem Jahr die Kaffees .
+VF[ADV]LK[V]MF[SO]	pp-psy	7	8	Deshalb erfreuen in dem Jahr die Kaffees Mamas .
+LK[V]MF[SO]	pp-psy	6	7	Erfreuen in dem Jahr die Kaffees Mamas ?
+MF[SO]VC[V]	pp-psy	6	7	Weil in dem Jahr die Kaffees Mamas erfreuen .
+VF[S]LK[V]MF[O]	pp-psy	2	7	Die Romane frustrieren in dem Jahr Schriftsteller .
+VF[O]LK[V]MF[S]	pp-psy	7	1	Schriftsteller frustrieren in dem Jahr die Romane .
+VF[ADV]LK[V]MF[SO]	pp-psy	7	8	Deshalb frustrieren in dem Jahr die Romane Schriftsteller .
+LK[V]MF[SO]	pp-psy	6	7	Frustrieren in dem Jahr die Romane Schriftsteller ?
+MF[SO]VC[V]	pp-psy	6	7	Weil in dem Jahr die Romane Schriftsteller frustrieren .
+VF[S]LK[V]MF[O]	pp-psy	2	8	Die Rede erbost in dem Jahr eine Politikerin .
+VF[O]LK[V]MF[S]	pp-psy	8	2	Eine Politikerin erbost in dem Jahr die Rede .
+VF[ADV]LK[V]MF[SO]	pp-psy	7	9	Deshalb erbost in dem Jahr die Rede eine Politikerin .
+VF[ADV]LK[V]MF[OS]	pp-psy	9	7	Deshalb erbost in dem Jahr eine Politikerin die Rede .
+LK[V]MF[SO]	pp-psy	6	8	Erbost in dem Jahr die Rede eine Politikerin ?
+LK[V]MF[OS]	pp-psy	8	6	Erbost in dem Jahr eine Politikerin die Rede ?
+MF[SO]VC[V]	pp-psy	6	8	Weil in dem Jahr die Rede eine Politikerin erbost .
+MF[OS]VC[V]	pp-psy	8	6	Weil in dem Jahr eine Politikerin die Rede erbost .
+VF[S]LK[V]MF[O]	pp-psy	2	8	Das Grundgehalt beschämt in dem Jahr eine Abgeordnete .
+VF[O]LK[V]MF[S]	pp-psy	8	2	Eine Abgeordnete beschämt in dem Jahr das Grundgehalt .
+VF[ADV]LK[V]MF[SO]	pp-psy	7	9	Deshalb beschämt in dem Jahr das Grundgehalt eine Abgeordnete .
+VF[ADV]LK[V]MF[OS]	pp-psy	9	7	Deshalb beschämt in dem Jahr eine Abgeordnete das Grundgehalt .
+LK[V]MF[SO]	pp-psy	6	8	Beschämt in dem Jahr das Grundgehalt eine Abgeordnete ?
+LK[V]MF[OS]	pp-psy	8	6	Beschämt in dem Jahr eine Abgeordnete das Grundgehalt ?
+MF[SO]VC[V]	pp-psy	6	8	Weil in dem Jahr das Grundgehalt eine Abgeordnete beschämt .
+MF[OS]VC[V]	pp-psy	8	6	Weil in dem Jahr eine Abgeordnete das Grundgehalt beschämt .
+VF[S]LK[V]MF[O]	pp-psy	2	7	Die Bauzäune reuen in dem Jahr Kleinbauern .
+VF[O]LK[V]MF[S]	pp-psy	7	1	Kleinbauern reuen in dem Jahr die Bauzäune .
+VF[ADV]LK[V]MF[SO]	pp-psy	7	8	Deshalb reuen in dem Jahr die Bauzäune Kleinbauern .
+LK[V]MF[SO]	pp-psy	6	7	Reuen in dem Jahr die Bauzäune Kleinbauern ?
+MF[SO]VC[V]	pp-psy	6	7	Weil in dem Jahr die Bauzäune Kleinbauern reuen .
+VF[S]LK[V]MF[O]	pp-psy	2	8	Die Tour amüsiert in dem Jahr eine Sportlerin .
+VF[O]LK[V]MF[S]	pp-psy	8	2	Eine Sportlerin amüsiert in dem Jahr die Tour .
+VF[ADV]LK[V]MF[SO]	pp-psy	7	9	Deshalb amüsiert in dem Jahr die Tour eine Sportlerin .
+VF[ADV]LK[V]MF[OS]	pp-psy	9	7	Deshalb amüsiert in dem Jahr eine Sportlerin die Tour .
+LK[V]MF[SO]	pp-psy	6	8	Amüsiert in dem Jahr die Tour eine Sportlerin ?
+LK[V]MF[OS]	pp-psy	8	6	Amüsiert in dem Jahr eine Sportlerin die Tour ?
+MF[SO]VC[V]	pp-psy	6	8	Weil in dem Jahr die Tour eine Sportlerin amüsiert .
+MF[OS]VC[V]	pp-psy	8	6	Weil in dem Jahr eine Sportlerin die Tour amüsiert .
+VF[S]LK[V]MF[O]	pp-psy	2	8	Die Bauausführung belustigt in dem Jahr eine Handwerkerin .
+VF[O]LK[V]MF[S]	pp-psy	8	2	Eine Handwerkerin belustigt in dem Jahr die Bauausführung .
+VF[ADV]LK[V]MF[SO]	pp-psy	7	9	Deshalb belustigt in dem Jahr die Bauausführung eine Handwerkerin .
+VF[ADV]LK[V]MF[OS]	pp-psy	9	7	Deshalb belustigt in dem Jahr eine Handwerkerin die Bauausführung .
+LK[V]MF[SO]	pp-psy	6	8	Belustigt in dem Jahr die Bauausführung eine Handwerkerin ?
+LK[V]MF[OS]	pp-psy	8	6	Belustigt in dem Jahr eine Handwerkerin die Bauausführung ?
+MF[SO]VC[V]	pp-psy	6	8	Weil in dem Jahr die Bauausführung eine Handwerkerin belustigt .
+MF[OS]VC[V]	pp-psy	8	6	Weil in dem Jahr eine Handwerkerin die Bauausführung belustigt .
+VF[S]LK[V]MF[O]	pp-vlight	2	7	Die Menschen machen in dem Jahr Fehler .
+VF[O]LK[V]MF[S]	pp-vlight	7	1	Fehler machen in dem Jahr die Menschen .
+VF[ADV]LK[V]MF[SO]	pp-vlight	7	8	Deshalb machen in dem Jahr die Menschen Fehler .
+LK[V]MF[SO]	pp-vlight	6	7	Machen in dem Jahr die Menschen Fehler ?
+MF[SO]VC[V]	pp-vlight	6	7	Weil in dem Jahr die Menschen Fehler machen .
+VF[S]LK[V]MF[O]	pp-vlight	2	7	Die Gauner begehen in dem Jahr Verbrechen .
+VF[O]LK[V]MF[S]	pp-vlight	7	1	Verbrechen begehen in dem Jahr die Gauner .
+VF[ADV]LK[V]MF[SO]	pp-vlight	7	8	Deshalb begehen in dem Jahr die Gauner Verbrechen .
+LK[V]MF[SO]	pp-vlight	6	7	Begehen in dem Jahr die Gauner Verbrechen ?
+MF[SO]VC[V]	pp-vlight	6	7	Weil in dem Jahr die Gauner Verbrechen begehen .
+VF[S]LK[V]MF[O]	pp-vlight	2	8	Die Chefin trifft in dem Jahr eine Entscheidung .
+VF[O]LK[V]MF[S]	pp-vlight	8	2	Eine Entscheidung trifft in dem Jahr die Chefin .
+VF[ADV]LK[V]MF[SO]	pp-vlight	7	9	Deshalb trifft in dem Jahr die Chefin eine Entscheidung .
+LK[V]MF[SO]	pp-vlight	6	8	Trifft in dem Jahr die Chefin eine Entscheidung ?
+MF[SO]VC[V]	pp-vlight	6	8	Weil in dem Jahr die Chefin eine Entscheidung trifft .
+VF[S]LK[V]MF[O]	pp-vlight	2	7	Die Anwälte stellen in dem Jahr Anträge .
+VF[O]LK[V]MF[S]	pp-vlight	7	1	Anträge stellen in dem Jahr die Anwälte .
+VF[ADV]LK[V]MF[SO]	pp-vlight	7	8	Deshalb stellen in dem Jahr die Anwälte Anträge .
+LK[V]MF[SO]	pp-vlight	6	7	Stellen in dem Jahr die Anwälte Anträge ?
+MF[SO]VC[V]	pp-vlight	6	7	Weil in dem Jahr die Anwälte Anträge stellen .
+VF[S]LK[V]MF[O]	pp-vlight	2	8	Die Schülerin stellt in dem Jahr eine Frage .
+VF[O]LK[V]MF[S]	pp-vlight	8	2	Eine Frage stellt in dem Jahr die Schülerin .
+VF[ADV]LK[V]MF[SO]	pp-vlight	7	9	Deshalb stellt in dem Jahr die Schülerin eine Frage .
+LK[V]MF[SO]	pp-vlight	6	8	Stellt in dem Jahr die Schülerin eine Frage ?
+MF[SO]VC[V]	pp-vlight	6	8	Weil in dem Jahr die Schülerin eine Frage stellt .
+VF[S]LK[V]MF[O]	pp-vlight	2	7	Die Sachbearbeiter erteilen in dem Jahr Aufträge .
+VF[O]LK[V]MF[S]	pp-vlight	7	1	Aufträge erteilen in dem Jahr die Sachbearbeiter .
+VF[ADV]LK[V]MF[SO]	pp-vlight	7	8	Deshalb erteilen in dem Jahr die Sachbearbeiter Aufträge .
+LK[V]MF[SO]	pp-vlight	6	7	Erteilen in dem Jahr die Sachbearbeiter Aufträge ?
+MF[SO]VC[V]	pp-vlight	6	7	Weil in dem Jahr die Sachbearbeiter Aufträge erteilen .
+VF[S]LK[V]MF[O]	pp-vlight	2	8	Das Tier spielt in dem Jahr eine Rolle .
+VF[O]LK[V]MF[S]	pp-vlight	8	2	Eine Rolle spielt in dem Jahr das Tier .
+VF[ADV]LK[V]MF[SO]	pp-vlight	7	9	Deshalb spielt in dem Jahr das Tier eine Rolle .
+LK[V]MF[SO]	pp-vlight	6	8	Spielt in dem Jahr das Tier eine Rolle ?
+MF[SO]VC[V]	pp-vlight	6	8	Weil in dem Jahr das Tier eine Rolle spielt .
+VF[S]LK[V]MF[O]	pp-vlight	2	7	Die Kollegin nimmt in dem Jahr Rücksicht .
+VF[O]LK[V]MF[S]	pp-vlight	7	1	Rücksicht nimmt in dem Jahr die Kollegin .
+VF[ADV]LK[V]MF[SO]	pp-vlight	7	8	Deshalb nimmt in dem Jahr die Kollegin Rücksicht .
+LK[V]MF[SO]	pp-vlight	6	7	Nimmt in dem Jahr die Kollegin Rücksicht ?
+MF[SO]VC[V]	pp-vlight	6	7	Weil in dem Jahr die Kollegin Rücksicht nimmt .
+VF[S]LK[V]MF[O]	pp-vlight	2	7	Die Freundin nimmt in dem Jahr Abschied .
+VF[O]LK[V]MF[S]	pp-vlight	7	1	Abschied nimmt in dem Jahr die Freundin .
+VF[ADV]LK[V]MF[SO]	pp-vlight	7	8	Deshalb nimmt in dem Jahr die Freundin Abschied .
+LK[V]MF[SO]	pp-vlight	6	7	Nimmt in dem Jahr die Freundin Abschied ?
+MF[SO]VC[V]	pp-vlight	6	7	Weil in dem Jahr die Freundin Abschied nimmt .
+VF[S]LK[V]MF[O]	pp-vlight	2	7	Die Kandidaten hegen in dem Jahr Hoffnungen .
+VF[O]LK[V]MF[S]	pp-vlight	7	1	Hoffnungen hegen in dem Jahr die Kandidaten .
+VF[ADV]LK[V]MF[SO]	pp-vlight	7	8	Deshalb hegen in dem Jahr die Kandidaten Hoffnungen .
+LK[V]MF[SO]	pp-vlight	6	7	Hegen in dem Jahr die Kandidaten Hoffnungen ?
+MF[SO]VC[V]	pp-vlight	6	7	Weil in dem Jahr die Kandidaten Hoffnungen hegen .
+VF[S]LK[V]MF[O]	pp-vlight	2	7	Die Politikerin nimmt in dem Jahr Einfluss .
+VF[O]LK[V]MF[S]	pp-vlight	7	1	Einfluss nimmt in dem Jahr die Politikerin .
+VF[ADV]LK[V]MF[SO]	pp-vlight	7	8	Deshalb nimmt in dem Jahr die Politikerin Einfluss .
+LK[V]MF[SO]	pp-vlight	6	7	Nimmt in dem Jahr die Politikerin Einfluss ?
+MF[SO]VC[V]	pp-vlight	6	7	Weil in dem Jahr die Politikerin Einfluss nimmt .
+VF[S]LK[V]MF[O]	pp-vlight	2	7	Die Gefangene leistet in dem Jahr Widerstand .
+VF[O]LK[V]MF[S]	pp-vlight	7	1	Widerstand leistet in dem Jahr die Gefangene .
+VF[ADV]LK[V]MF[SO]	pp-vlight	7	8	Deshalb leistet in dem Jahr die Gefangene Widerstand .
+LK[V]MF[SO]	pp-vlight	6	7	Leistet in dem Jahr die Gefangene Widerstand ?
+MF[SO]VC[V]	pp-vlight	6	7	Weil in dem Jahr die Gefangene Widerstand leistet .
+VF[S]LK[V]MF[O]	pp-vlight	2	7	Die Autorin übt in dem Jahr Kritik .
+VF[O]LK[V]MF[S]	pp-vlight	7	1	Kritik übt in dem Jahr die Autorin .
+VF[ADV]LK[V]MF[SO]	pp-vlight	7	8	Deshalb übt in dem Jahr die Autorin Kritik .
+LK[V]MF[SO]	pp-vlight	6	7	Übt in dem Jahr die Autorin Kritik ?
+MF[SO]VC[V]	pp-vlight	6	7	Weil in dem Jahr die Autorin Kritik übt .
+VF[S]LK[V]MF[O]	pp-vlight	2	7	Die Mountainbikerin treibt in dem Jahr Sport .
+VF[O]LK[V]MF[S]	pp-vlight	7	1	Sport treibt in dem Jahr die Mountainbikerin .
+VF[ADV]LK[V]MF[SO]	pp-vlight	7	8	Deshalb treibt in dem Jahr die Mountainbikerin Sport .
+LK[V]MF[SO]	pp-vlight	6	7	Treibt in dem Jahr die Mountainbikerin Sport ?
+MF[SO]VC[V]	pp-vlight	6	7	Weil in dem Jahr die Mountainbikerin Sport treibt .
+VF[S]LK[V]MF[O]	pp-vlight	2	7	Die Pressesprecherin bezieht in dem Jahr Stellung .
+VF[O]LK[V]MF[S]	pp-vlight	7	1	Stellung bezieht in dem Jahr die Pressesprecherin .
+VF[ADV]LK[V]MF[SO]	pp-vlight	7	8	Deshalb bezieht in dem Jahr die Pressesprecherin Stellung .
+LK[V]MF[SO]	pp-vlight	6	7	Bezieht in dem Jahr die Pressesprecherin Stellung ?
+MF[SO]VC[V]	pp-vlight	6	7	Weil in dem Jahr die Pressesprecherin Stellung bezieht .
+VF[S]LK[V]MF[O]	pp-syn	2	7	Die Generäle beginnen in dem Jahr Angriffe .
+VF[O]LK[V]MF[S]	pp-syn	7	1	Angriffe beginnen in dem Jahr die Generäle .
+VF[ADV]LK[V]MF[SO]	pp-syn	7	8	Deshalb beginnen in dem Jahr die Generäle Angriffe .
+LK[V]MF[SO]	pp-syn	6	7	Beginnen in dem Jahr die Generäle Angriffe ?
+MF[SO]VC[V]	pp-syn	6	7	Weil in dem Jahr die Generäle Angriffe beginnen .
+VF[S]LK[V]MF[O]	pp-syn	2	8	Die Partnerin führt in dem Jahr ein Doppelleben .
+VF[O]LK[V]MF[S]	pp-syn	8	2	Ein Doppelleben führt in dem Jahr die Partnerin .
+VF[ADV]LK[V]MF[SO]	pp-syn	7	9	Deshalb führt in dem Jahr die Partnerin ein Doppelleben .
+LK[V]MF[SO]	pp-syn	6	8	Führt in dem Jahr die Partnerin ein Doppelleben ?
+MF[SO]VC[V]	pp-syn	6	8	Weil in dem Jahr die Partnerin ein Doppelleben führt .
+VF[S]LK[V]MF[O]	pp-syn	2	8	Die Journalistin überspielt in dem Jahr eine Aufnahme .
+VF[O]LK[V]MF[S]	pp-syn	8	2	Eine Aufnahme überspielt in dem Jahr die Journalistin .
+VF[ADV]LK[V]MF[SO]	pp-syn	7	9	Deshalb überspielt in dem Jahr die Journalistin eine Aufnahme .
+LK[V]MF[SO]	pp-syn	6	8	Überspielt in dem Jahr die Journalistin eine Aufnahme ?
+MF[SO]VC[V]	pp-syn	6	8	Weil in dem Jahr die Journalistin eine Aufnahme überspielt .
+VF[S]LK[V]MF[O]	pp-syn	2	8	Die Freundin inszeniert in dem Jahr eine Traumhochzeit .
+VF[O]LK[V]MF[S]	pp-syn	8	2	Eine Traumhochzeit inszeniert in dem Jahr die Freundin .
+VF[ADV]LK[V]MF[SO]	pp-syn	7	9	Deshalb inszeniert in dem Jahr die Freundin eine Traumhochzeit .
+LK[V]MF[SO]	pp-syn	6	8	Inszeniert in dem Jahr die Freundin eine Traumhochzeit ?
+MF[SO]VC[V]	pp-syn	6	8	Weil in dem Jahr die Freundin eine Traumhochzeit inszeniert .
+VF[S]LK[V]MF[O]	pp-syn	2	8	Die Passantin beschmeißt in dem Jahr ein Kunstwerk .
+VF[O]LK[V]MF[S]	pp-syn	8	2	Ein Kunstwerk beschmeißt in dem Jahr die Passantin .
+VF[ADV]LK[V]MF[SO]	pp-syn	7	9	Deshalb beschmeißt in dem Jahr die Passantin ein Kunstwerk .
+LK[V]MF[SO]	pp-syn	6	8	Beschmeißt in dem Jahr die Passantin ein Kunstwerk ?
+MF[SO]VC[V]	pp-syn	6	8	Weil in dem Jahr die Passantin ein Kunstwerk beschmeißt .
+VF[S]LK[V]MF[O]	pp-syn	2	8	Das Kind errät in dem Jahr eine Lösung .
+VF[O]LK[V]MF[S]	pp-syn	8	2	Eine Lösung errät in dem Jahr das Kind .
+VF[ADV]LK[V]MF[SO]	pp-syn	7	9	Deshalb errät in dem Jahr das Kind eine Lösung .
+LK[V]MF[SO]	pp-syn	6	8	Errät in dem Jahr das Kind eine Lösung ?
+MF[SO]VC[V]	pp-syn	6	8	Weil in dem Jahr das Kind eine Lösung errät .
+VF[S]LK[V]MF[O]	pp-syn	2	8	Die Leserin bestellt in dem Jahr eine Zeitschrift .
+VF[O]LK[V]MF[S]	pp-syn	8	2	Eine Zeitschrift bestellt in dem Jahr die Leserin .
+VF[ADV]LK[V]MF[SO]	pp-syn	7	9	Deshalb bestellt in dem Jahr die Leserin eine Zeitschrift .
+LK[V]MF[SO]	pp-syn	6	8	Bestellt in dem Jahr die Leserin eine Zeitschrift ?
+MF[SO]VC[V]	pp-syn	6	8	Weil in dem Jahr die Leserin eine Zeitschrift bestellt .
+VF[S]LK[V]MF[O]	pp-syn	2	7	Die Herren stutzen in dem Jahr Bärte .
+VF[O]LK[V]MF[S]	pp-syn	7	1	Bärte stutzen in dem Jahr die Herren .
+VF[ADV]LK[V]MF[SO]	pp-syn	7	8	Deshalb stutzen in dem Jahr die Herren Bärte .
+LK[V]MF[SO]	pp-syn	6	7	Stutzen in dem Jahr die Herren Bärte ?
+MF[SO]VC[V]	pp-syn	6	7	Weil in dem Jahr die Herren Bärte stutzen .
+VF[S]LK[V]MF[O]	pp-syn	2	7	Die Mamas schlürfen in dem Jahr Kaffees .
+VF[O]LK[V]MF[S]	pp-syn	7	1	Kaffees schlürfen in dem Jahr die Mamas .
+VF[ADV]LK[V]MF[SO]	pp-syn	7	8	Deshalb schlürfen in dem Jahr die Mamas Kaffees .
+LK[V]MF[SO]	pp-syn	6	7	Schlürfen in dem Jahr die Mamas Kaffees ?
+MF[SO]VC[V]	pp-syn	6	7	Weil in dem Jahr die Mamas Kaffees schlürfen .
+VF[S]LK[V]MF[O]	pp-syn	2	7	Die Schriftsteller verfassen in dem Jahr Romane .
+VF[O]LK[V]MF[S]	pp-syn	7	1	Romane verfassen in dem Jahr die Schriftsteller .
+VF[ADV]LK[V]MF[SO]	pp-syn	7	8	Deshalb verfassen in dem Jahr die Schriftsteller Romane .
+LK[V]MF[SO]	pp-syn	6	7	Verfassen in dem Jahr die Schriftsteller Romane ?
+MF[SO]VC[V]	pp-syn	6	7	Weil in dem Jahr die Schriftsteller Romane verfassen .
+VF[S]LK[V]MF[O]	pp-syn	2	8	Die Politikerin beendigt in dem Jahr eine Rede .
+VF[O]LK[V]MF[S]	pp-syn	8	2	Eine Rede beendigt in dem Jahr die Politikerin .
+VF[ADV]LK[V]MF[SO]	pp-syn	7	9	Deshalb beendigt in dem Jahr die Politikerin eine Rede .
+LK[V]MF[SO]	pp-syn	6	8	Beendigt in dem Jahr die Politikerin eine Rede ?
+MF[SO]VC[V]	pp-syn	6	8	Weil in dem Jahr die Politikerin eine Rede beendigt .
+VF[S]LK[V]MF[O]	pp-syn	2	8	Die Abgeordnete kriegt in dem Jahr ein Grundgehalt .
+VF[O]LK[V]MF[S]	pp-syn	8	2	Ein Grundgehalt kriegt in dem Jahr die Abgeordnete .
+VF[ADV]LK[V]MF[SO]	pp-syn	7	9	Deshalb kriegt in dem Jahr die Abgeordnete ein Grundgehalt .
+LK[V]MF[SO]	pp-syn	6	8	Kriegt in dem Jahr die Abgeordnete ein Grundgehalt ?
+MF[SO]VC[V]	pp-syn	6	8	Weil in dem Jahr die Abgeordnete ein Grundgehalt kriegt .
+VF[S]LK[V]MF[O]	pp-syn	2	7	Die Kleinbauern errichten in dem Jahr Bauzäune .
+VF[O]LK[V]MF[S]	pp-syn	7	1	Bauzäune errichten in dem Jahr die Kleinbauern .
+VF[ADV]LK[V]MF[SO]	pp-syn	7	8	Deshalb errichten in dem Jahr die Kleinbauern Bauzäune .
+LK[V]MF[SO]	pp-syn	6	7	Errichten in dem Jahr die Kleinbauern Bauzäune ?
+MF[SO]VC[V]	pp-syn	6	7	Weil in dem Jahr die Kleinbauern Bauzäune errichten .
+VF[S]LK[V]MF[O]	pp-syn	2	8	Die Sportlerin erringt in dem Jahr eine Tour .
+VF[O]LK[V]MF[S]	pp-syn	8	2	Eine Tour erringt in dem Jahr die Sportlerin .
+VF[ADV]LK[V]MF[SO]	pp-syn	7	9	Deshalb erringt in dem Jahr die Sportlerin eine Tour .
+LK[V]MF[SO]	pp-syn	6	8	Erringt in dem Jahr die Sportlerin eine Tour ?
+MF[SO]VC[V]	pp-syn	6	8	Weil in dem Jahr die Sportlerin eine Tour erringt .
+VF[S]LK[V]MF[O]	pp-syn	2	8	Die Handwerkerin bestreitet in dem Jahr eine Bauausführung .
+VF[O]LK[V]MF[S]	pp-syn	8	2	Eine Bauausführung bestreitet in dem Jahr die Handwerkerin .
+VF[ADV]LK[V]MF[SO]	pp-syn	7	9	Deshalb bestreitet in dem Jahr die Handwerkerin eine Bauausführung .
+LK[V]MF[SO]	pp-syn	6	8	Bestreitet in dem Jahr die Handwerkerin eine Bauausführung ?
+MF[SO]VC[V]	pp-syn	6	8	Weil in dem Jahr die Handwerkerin eine Bauausführung bestreitet .
 VF[S]LK[V]MF[O]	pp-prov	2	8	Jedes Böhnchen gibt in dem Jahr ein Tönchen .
 VF[O]LK[V]MF[S]	pp-prov	8	2	Ein Tönchen gibt in dem Jahr jedes Böhnchen .
 VF[ADV]LK[V]MF[SO]	pp-prov	7	9	Deshalb gibt in dem Jahr jedes Böhnchen ein Tönchen .
