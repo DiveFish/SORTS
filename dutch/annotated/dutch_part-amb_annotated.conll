@@ -28662,7 +28662,7 @@
 5	.	.	PUNCT	PUNCT	morph:null|order:VF[ADV]LK[V]MF[SO]|props:oan-snp
 
 1	Adviseert	adviseren	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:LK[V]MF[SO]|props:oan-snp
-2	Degas	Degas	PROPN	PROPN	morph:Gender=Com&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:oan-snp
+2	Degas	Degas	PROPN	PROPN	morph:Gender=Com&Number=Sing|order:LK[V]MF[SO]|props:oan-snp
 3	leerlingen	leerling	NOUN	NOUN	morph:Number=Plur|order:LK[V]MF[SO]|props:oan-snp
 4	?	?	PUNCT	PUNCT	morph:null|order:LK[V]MF[SO]|props:oan-snp
 
@@ -55312,7 +55312,7 @@
 
 1	Aanvallen	aanval	NOUN	NOUN	morph:Number=Plur|order:VF[O]LK[V]MF[S]|props:pp-snp
 2	plant	plannen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[O]LK[V]MF[S]|props:pp-snp
-3	AkzoNobel	AkzoNobel	PROPN	PROPN	morph:Gender=Com&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:pp-snp
+3	AkzoNobel	AkzoNobel	PROPN	PROPN	morph:Gender=Com&Number=Sing|order:VF[O]LK[V]MF[S]|props:pp-snp
 4	in	in	ADP	ADP-init	morph:null|order:VF[O]LK[V]MF[S]|props:pp-snp
 5	een	een	DET	DET-onbep	morph:Definite=Ind|order:VF[O]LK[V]MF[S]|props:pp-snp
 6	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[O]LK[V]MF[S]|props:pp-snp
@@ -55509,7 +55509,7 @@
 7	?	?	PUNCT	PUNCT	morph:null|order:LK[V]MF[SO]|props:pp-snp
 
 1	Omdat	omdat	SCONJ	SCONJ	morph:null|order:MF[SO]VC[V]|props:pp-snp
-2	Degas	Degas	PROPN	PROPN	morph:Gender=Com&Number=Sing|props:pp-snp
+2	Degas	Degas	PROPN	PROPN	morph:Gender=Com&Number=Sing|order:MF[SO]VC[V]|props:pp-snp
 3	gedurende	gedurende	ADP	ADP-init	morph:null|order:MF[SO]VC[V]|props:pp-snp
 4	een	een	DET	DET-onbep	morph:Definite=Ind|order:MF[SO]VC[V]|props:pp-snp
 5	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:MF[SO]VC[V]|props:pp-snp

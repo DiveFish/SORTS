@@ -21676,7 +21676,7 @@
 1	Geen	geen	DET	DET-onbep	morph:null|order:VF[O]LK[V]MF[S]|props:oneg-snp
 2	aanval	aanval	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[O]LK[V]MF[S]|props:oneg-snp
 3	plant	plannen	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[O]LK[V]MF[S]|props:oneg-snp
-4	AkzoNobel	AkzoNobel	PROPN	PROPN	morph:Gender=Com&Number=Sing|order:VF[O]LK[V]MF[S]|props:opron-snp
+4	AkzoNobel	AkzoNobel	PROPN	PROPN	morph:Gender=Com&Number=Sing|order:VF[O]LK[V]MF[S]|props:oneg-snp
 5	.	.	PUNCT	PUNCT	morph:null|order:VF[O]LK[V]MF[S]|props:oneg-snp
 
 1	Daarom	daarom	ADV	ADV-bw	morph:null|order:VF[ADV]LK[V]MF[SO]|props:oneg-snp
