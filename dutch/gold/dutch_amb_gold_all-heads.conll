@@ -14177,7 +14177,7 @@
 5	bij	_	_	_	order:VF[S]LK[V]MF[O]|props:base-invan	3	obj	_	_		
 6	.	_	_	_	order:VF[S]LK[V]MF[O]|props:base-invan	3	punct	_	_		
 
-1	Een	_	_	_	order:VF[O]LK[V]MF[S]|props:base-invan	1	det	_	_
+1	Een	_	_	_	order:VF[O]LK[V]MF[S]|props:base-invan	2	det	_	_
 2	bij	_	_	_	order:VF[O]LK[V]MF[S]|props:base-invan	3	obj	_	_		
 3	bedreigt	_	_	_	order:VF[O]LK[V]MF[S]|props:base-invan	0	root	_	_		
 4	de	_	_	_	order:VF[O]LK[V]MF[S]|props:base-invan	5	det	_	_		
@@ -25412,10 +25412,10 @@
 8	.	_	_	_	order:VF[S]LK[V]MF[O]|props:regpol-semas	5	punct	_	_		
 
 1	Een	_	_	_	order:VF[O]LK[V]MF[S]|props:regpol-semas	2	det	_	_		
-2	huurder	_	_	_	order:VF[O]LK[V]MF[S]|props:regpol-semas	3	obj	_	_		
+2	huurder	_	_	_	order:VF[O]LK[V]MF[S]|props:regpol-semas	3	obj	_	_
 3	berispt	_	_	_	order:VF[O]LK[V]MF[S]|props:regpol-semas	0	root	_	_		
 4	de	_	_	_	order:VF[O]LK[V]MF[S]|props:regpol-semas	5	det	_	_		
-5	vereniging	_	_	_	order:VF[O]LK[V]MF[S]|props:regpol-semas	3	obj	_	_		
+5	vereniging	_	_	_	order:VF[O]LK[V]MF[S]|props:regpol-semas	3	nsubj	_	_
 6	van	_	_	_	order:VF[O]LK[V]MF[S]|props:regpol-semas	7	case	_	_		
 7	eigenaren	_	_	_	order:VF[O]LK[V]MF[S]|props:regpol-semas	5	nmod	_	_
 8	.	_	_	_	order:VF[O]LK[V]MF[S]|props:regpol-semas	3	punct	_	_		

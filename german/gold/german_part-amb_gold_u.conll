@@ -72365,7 +72365,7 @@
 7	Bienen	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-invan	3	obj	_	_
 8	.	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-invan	_	_	_	_
 
-1	Bienen	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-invan    2	obj	_	_
+1	Bienen	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-invan	2	obj	_	_
 2	bedroht	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-invan	0	verb	_	_
 3	in	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-invan	_	_	_	_
 4	dem	_	_	_	order=VF[O]LK[V]MF[S]|props=pp-invan	_	_	_	_
