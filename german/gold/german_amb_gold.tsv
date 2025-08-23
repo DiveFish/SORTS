@@ -2120,11 +2120,11 @@ VF[S]LK[V]MF[O]	oan-regpol	2	4	Die Universitäten befreien Notleidende .
 VF[ADV]LK[V]MF[SO]	oan-regpol	4	5	Deshalb befreien die Universitäten Notleidende .
 LK[V]MF[SO]	oan-regpol	3	4	Befreien die Universitäten Notleidende ?
 MF[SO]VC[V]	oan-regpol	3	4	Weil die Universitäten Notleidende befreien .
-VF[S]LK[V]MF[O]	base-sname	1	3	Siemens startet Angriff .
-VF[O]LK[V]MF[S]	base-sname	3	1	Angriff startet Siemens .
-VF[ADV]LK[V]MF[SO]	base-sname	3	4	Deshalb startet Siemens Angriff .
-LK[V]MF[SO]	base-sname	2	3	Startet Siemens Angriff ?
-MF[SO]VC[V]	base-sname	2	3	Weil Siemens Angriff startet .
+VF[S]LK[V]MF[O]	base-sname	1	4	Siemens startet eine Attacke .
+VF[O]LK[V]MF[S]	base-sname	4	2	Eine Attacke startet Siemens .
+VF[ADV]LK[V]MF[SO]	base-sname	3	5	Deshalb startet Siemens eine Attacke .
+LK[V]MF[SO]	base-sname	2	4	Startet Siemens eine Attacke ?
+MF[SO]VC[V]	base-sname	2	4	Weil Siemens eine Attacke startet .
 VF[S]LK[V]MF[O]	base-sname	1	4	Balazs lebt ein Doppelleben .
 VF[O]LK[V]MF[S]	base-sname	4	2	Ein Doppelleben lebt Balazs .
 VF[ADV]LK[V]MF[SO]	base-sname	3	5	Deshalb lebt Balazs ein Doppelleben .
@@ -2165,11 +2165,11 @@ VF[O]LK[V]MF[S]	base-sname	3	1	Kaffee trinkt Clooney .
 VF[ADV]LK[V]MF[SO]	base-sname	3	4	Deshalb trinkt Clooney Kaffee .
 LK[V]MF[SO]	base-sname	2	3	Trinkt Clooney Kaffee ?
 MF[SO]VC[V]	base-sname	2	3	Weil Clooney Kaffee trinkt .
-VF[S]LK[V]MF[O]	base-sname	1	4	Bertolt Brecht schreibt Roman .
-VF[O]LK[V]MF[S]	base-sname	3	1	Roman schreibt Bertolt Brecht .
-VF[ADV]LK[V]MF[SO]	base-sname	3	5	Deshalb schreibt Bertolt Brecht Roman .
-LK[V]MF[SO]	base-sname	2	4	Schreibt Bertolt Brecht Roman ?
-MF[SO]VC[V]	base-sname	2	4	Weil Bertolt Brecht Roman schreibt .
+VF[S]LK[V]MF[O]	base-sname	1	5	Bertolt Brecht schreibt eine Erzählung .
+VF[O]LK[V]MF[S]	base-sname	4	2	Eine Erzählung schreibt Bertolt Brecht .
+VF[ADV]LK[V]MF[SO]	base-sname	3	6	Deshalb schreibt Bertolt Brecht eine Erzählung .
+LK[V]MF[SO]	base-sname	2	5	Schreibt Bertolt Brecht eine Erzählung ?
+MF[SO]VC[V]	base-sname	2	5	Weil Bertolt Brecht eine Erzählung schreibt .
 VF[S]LK[V]MF[O]	base-sname	1	4	Merkel beendet eine Rede .
 VF[O]LK[V]MF[S]	base-sname	4	2	Eine Rede beendet Merkel .
 VF[ADV]LK[V]MF[SO]	base-sname	3	5	Deshalb beendet Merkel eine Rede .
@@ -2180,11 +2180,11 @@ VF[O]LK[V]MF[S]	base-sname	4	2	Ein Grundgehalt bekommt Vietnam .
 VF[ADV]LK[V]MF[SO]	base-sname	3	5	Deshalb bekommt Vietnam ein Grundgehalt .
 LK[V]MF[SO]	base-sname	2	4	Bekommt Vietnam ein Grundgehalt ?
 MF[SO]VC[V]	base-sname	2	4	Weil Vietnam ein Grundgehalt bekommt .
-VF[S]LK[V]MF[O]	base-sname	1	3	Anke zieht Bauzaun .
-VF[O]LK[V]MF[S]	base-sname	3	1	Bauzaun zieht Anke .
-VF[ADV]LK[V]MF[SO]	base-sname	3	4	Deshalb zieht Anke Bauzaun .
-LK[V]MF[SO]	base-sname	2	3	Zieht Anke Bauzaun ?
-MF[SO]VC[V]	base-sname	2	3	Weil Anke Bauzaun zieht .
+VF[S]LK[V]MF[O]	base-sname	1	4	Anke zieht eine Umzäunung .
+VF[O]LK[V]MF[S]	base-sname	4	2	Eine Umzäunung zieht Anke .
+VF[ADV]LK[V]MF[SO]	base-sname	3	5	Deshalb zieht Anke eine Umzäunung .
+LK[V]MF[SO]	base-sname	2	4	Zieht Anke eine Umzäunung ?
+MF[SO]VC[V]	base-sname	2	4	Weil Anke eine Umzäunung zieht .
 VF[S]LK[V]MF[O]	base-sname	1	4	Bonn gewinnt eine Tour .
 VF[O]LK[V]MF[S]	base-sname	4	2	Eine Tour gewinnt Bonn .
 VF[ADV]LK[V]MF[SO]	base-sname	3	5	Deshalb gewinnt Bonn eine Tour .
@@ -2195,11 +2195,11 @@ VF[O]LK[V]MF[S]	base-sname	4	2	Eine Bauausführung übernimmt EnBW .
 VF[ADV]LK[V]MF[SO]	base-sname	3	5	Deshalb übernimmt EnBW eine Bauausführung .
 LK[V]MF[SO]	base-sname	2	4	Übernimmt EnBW eine Bauausführung ?
 MF[SO]VC[V]	base-sname	2	4	Weil EnBW eine Bauausführung übernimmt .
-VF[S]LK[V]MF[O]	aux-sname	1	3	Siemens wird Angriff starten .
-VF[O]LK[V]MF[S]	aux-sname	3	1	Angriff wird Siemens starten .
-VF[ADV]LK[V]MF[SO]	aux-sname	3	4	Deshalb wird Siemens Angriff starten .
-LK[V]MF[SO]	aux-sname	2	3	Wird Siemens Angriff starten ?
-MF[SO]VC[V]	aux-sname	2	3	Weil Siemens Angriff starten wird .
+VF[S]LK[V]MF[O]	aux-sname	1	4	Siemens wird eine Attacke starten .
+VF[O]LK[V]MF[S]	aux-sname	4	2	Eine Attacke wird Siemens starten .
+VF[ADV]LK[V]MF[SO]	aux-sname	3	5	Deshalb wird Siemens eine Attacke starten .
+LK[V]MF[SO]	aux-sname	2	4	Wird Siemens eine Attacke starten ?
+MF[SO]VC[V]	aux-sname	2	4	Weil Siemens eine Attacke starten wird .
 VF[S]LK[V]MF[O]	aux-sname	1	4	Balazs wird ein Doppelleben leben .
 VF[O]LK[V]MF[S]	aux-sname	4	2	Ein Doppelleben wird Balazs leben .
 VF[ADV]LK[V]MF[SO]	aux-sname	3	5	Deshalb wird Balazs ein Doppelleben leben .
@@ -2240,11 +2240,11 @@ VF[O]LK[V]MF[S]	aux-sname	3	1	Kaffee wird Clooney trinken .
 VF[ADV]LK[V]MF[SO]	aux-sname	3	4	Deshalb wird Clooney Kaffee trinken .
 LK[V]MF[SO]	aux-sname	2	3	Wird Clooney Kaffee trinken ?
 MF[SO]VC[V]	aux-sname	2	3	Weil Clooney Kaffee trinken wird .
-VF[S]LK[V]MF[O]	aux-sname	1	4	Bertolt Brecht wird Roman schreiben .
-VF[O]LK[V]MF[S]	aux-sname	3	1	Roman wird Bertolt Brecht schreiben .
-VF[ADV]LK[V]MF[SO]	aux-sname	3	5	Deshalb wird Bertolt Brecht Roman schreiben .
-LK[V]MF[SO]	aux-sname	2	4	Wird Bertolt Brecht Roman schreiben ?
-MF[SO]VC[V]	aux-sname	2	4	Weil Bertolt Brecht Roman schreiben wird .
+VF[S]LK[V]MF[O]	aux-sname	1	5	Bertolt Brecht wird eine Erzählung schreiben .
+VF[O]LK[V]MF[S]	aux-sname	4	2	Eine Erzählung wird Bertolt Brecht schreiben .
+VF[ADV]LK[V]MF[SO]	aux-sname	3	6	Deshalb wird Bertolt Brecht eine Erzählung schreiben .
+LK[V]MF[SO]	aux-sname	2	5	Wird Bertolt Brecht eine Erzählung schreiben ?
+MF[SO]VC[V]	aux-sname	2	5	Weil Bertolt Brecht eine Erzählung schreiben wird .
 VF[S]LK[V]MF[O]	aux-sname	1	4	Merkel wird eine Rede beenden .
 VF[O]LK[V]MF[S]	aux-sname	4	2	Eine Rede wird Merkel beenden .
 VF[ADV]LK[V]MF[SO]	aux-sname	3	5	Deshalb wird Merkel eine Rede beenden .
@@ -2255,11 +2255,11 @@ VF[O]LK[V]MF[S]	aux-sname	4	2	Ein Grundgehalt wird Vietnam bekommen .
 VF[ADV]LK[V]MF[SO]	aux-sname	3	5	Deshalb wird Vietnam ein Grundgehalt bekommen .
 LK[V]MF[SO]	aux-sname	2	4	Wird Vietnam ein Grundgehalt bekommen ?
 MF[SO]VC[V]	aux-sname	2	4	Weil Vietnam ein Grundgehalt bekommen wird .
-VF[S]LK[V]MF[O]	aux-sname	1	3	Anke wird Bauzaun ziehen .
-VF[O]LK[V]MF[S]	aux-sname	3	1	Bauzaun wird Anke ziehen .
-VF[ADV]LK[V]MF[SO]	aux-sname	3	4	Deshalb wird Anke Bauzaun ziehen .
-LK[V]MF[SO]	aux-sname	2	3	Wird Anke Bauzaun ziehen ?
-MF[SO]VC[V]	aux-sname	2	3	Weil Anke Bauzaun ziehen wird .
+VF[S]LK[V]MF[O]	aux-sname	1	4	Anke wird eine Umzäunung ziehen .
+VF[O]LK[V]MF[S]	aux-sname	4	2	Eine Umzäunung wird Anke ziehen .
+VF[ADV]LK[V]MF[SO]	aux-sname	3	5	Deshalb wird Anke eine Umzäunung ziehen .
+LK[V]MF[SO]	aux-sname	2	4	Wird Anke eine Umzäunung ziehen ?
+MF[SO]VC[V]	aux-sname	2	4	Weil Anke eine Umzäunung ziehen wird .
 VF[S]LK[V]MF[O]	aux-sname	1	4	Bonn wird eine Tour gewinnen .
 VF[O]LK[V]MF[S]	aux-sname	4	2	Eine Tour wird Bonn gewinnen .
 VF[ADV]LK[V]MF[SO]	aux-sname	3	5	Deshalb wird Bonn eine Tour gewinnen .
@@ -3745,11 +3745,11 @@ VF[O]LK[V]MF[S]	regpol-psy	4	1	Konzerne belustigen die Bauausführungen .
 VF[ADV]LK[V]MF[SO]	regpol-psy	4	5	Deshalb belustigen die Bauausführungen Konzerne .
 LK[V]MF[SO]	regpol-psy	3	4	Belustigen die Bauausführungen Konzerne ?
 MF[SO]VC[V]	regpol-psy	3	4	Weil die Bauausführungen Konzerne belustigen .
-VF[S]LK[V]MF[O]	sname-psy	1	3	Angriff fesselt Daimler .
-VF[O]LK[V]MF[S]	sname-psy	3	1	Daimler fesselt Angriff .
-VF[ADV]LK[V]MF[SO]	sname-psy	3	4	Deshalb fesselt Angriff Daimler .
-LK[V]MF[SO]	sname-psy	2	3	Fesselt Angriff Daimler ?
-MF[SO]VC[V]	sname-psy	2	3	Weil Angriff Daimler fesselt .
+VF[S]LK[V]MF[O]	sname-psy	2	4	Eine Attacke fesselt Daimler .
+VF[O]LK[V]MF[S]	sname-psy	4	1	Daimler fesselt eine Attacke .
+VF[ADV]LK[V]MF[SO]	sname-p4sy	4	5	Deshalb fesselt eine Attacke Daimler .
+LK[V]MF[SO]	sname-psy	3	4	Fesselt eine Attacke Daimler ?
+MF[SO]VC[V]	sname-psy	3	4	Weil eine Attacke Daimler fesselt .
 VF[S]LK[V]MF[O]	sname-psy	2	4	Das Doppelleben langweilt Siemens .
 VF[O]LK[V]MF[S]	sname-psy	4	1	Siemens langweilt das Doppelleben .
 VF[ADV]LK[V]MF[SO]	sname-psy	4	5	Deshalb langweilt das Doppelleben Siemens .
@@ -3790,11 +3790,11 @@ LK[V]MF[SO]	sname-psy	3	4	Ängstigt die Zeitschrift Bertolt Brecht ?
 LK[V]MF[OS]	sname-psy	5	2	Ängstigt Bertolt Brecht die Zeitschrift ?
 MF[SO]VC[V]	sname-psy	3	4	Weil die Zeitschrift Bertolt Brecht ängstigt .
 MF[OS]VC[V]	sname-psy	5	2	Weil Bertolt Brecht die Zeitschrift ängstigt .
-VF[S]LK[V]MF[O]	sname-psy	1	3	Bart erstaunt Gillette .
-VF[O]LK[V]MF[S]	sname-psy	3	1	Gillette erstaunt Bart .
-VF[ADV]LK[V]MF[SO]	sname-psy	3	4	Deshalb erstaunt Bart Gillette .
-LK[V]MF[SO]	sname-psy	2	3	Erstaunt Bart Gillette ?
-MF[SO]VC[V]	sname-psy	2	3	Weil Bart Gillette erstaunt .
+VF[S]LK[V]MF[O]	sname-psy	2	4	Die Gesichtsbehaarung erstaunt Gillette .
+VF[O]LK[V]MF[S]	sname-psy	4	1	Gillette erstaunt die Gesichtsbehaarung .
+VF[ADV]LK[V]MF[SO]	sname-psy	4	5	Deshalb erstaunt die Gesichtsbehaarung Gillette .
+LK[V]MF[SO]	sname-psy	3	4	Erstaunt die Gesichtsbehaarung Gillette ?
+MF[SO]VC[V]	sname-psy	3	4	Weil die Gesichtsbehaarung Gillette erstaunt .
 VF[S]LK[V]MF[O]	sname-psy	1	3	Kaffee erfreut RTL .
 VF[O]LK[V]MF[S]	sname-psy	3	1	RTL erfreut Kaffee .
 VF[ADV]LK[V]MF[SO]	sname-psy	3	4	Deshalb erfreut Kaffee RTL .
@@ -3803,11 +3803,11 @@ LK[V]MF[SO]	sname-psy	2	3	Erfreut Kaffee RTL ?
 LK[V]MF[OS]	sname-psy	3	2	Erfreut RTL Kaffee ?
 MF[SO]VC[V]	sname-psy	2	3	Weil Kaffee RTL erfreut .
 MF[OS]VC[V]	sname-psy	3	2	Weil RTL Kaffee erfreut .
-VF[S]LK[V]MF[O]	sname-psy	1	3	Roman frustriert Günter Jauch .
-VF[O]LK[V]MF[S]	sname-psy	4	1	Günter Jauch frustriert Roman .
-VF[ADV]LK[V]MF[SO]	sname-psy	3	4	Deshalb frustriert Roman Günter Jauch .
-LK[V]MF[SO]	sname-psy	2	3	Frustriert Roman Günter Jauch ?
-MF[SO]VC[V]	sname-psy	2	3	Weil Roman Günter Jauch frustriert .
+VF[S]LK[V]MF[O]	sname-psy	2	4	Die Erzählung frustriert Günter Jauch .
+VF[O]LK[V]MF[S]	sname-psy	5	1	Günter Jauch frustriert die Erzählung .
+VF[ADV]LK[V]MF[SO]	sname-psy	4	5	Deshalb frustriert die Erzählung Günter Jauch .
+LK[V]MF[SO]	sname-psy	3	4	Frustriert die Erzählung Günter Jauch ?
+MF[SO]VC[V]	sname-psy	3	4	Weil die Erzählung Günter Jauch frustriert .
 VF[S]LK[V]MF[O]	sname-psy	2	4	Die Rede erbost Merkel .
 VF[O]LK[V]MF[S]	sname-psy	4	1	Merkel erbost die Rede .
 VF[ADV]LK[V]MF[SO]	sname-psy	4	5	Deshalb erbost die Rede Merkel .
@@ -3832,11 +3832,11 @@ LK[V]MF[SO]	sname-psy	3	4	Beschämt das Grundgehalt Vietnam ?
 LK[V]MF[OS]	sname-psy	4	2	Beschämt Vietnam das Grundgehalt ?
 MF[SO]VC[V]	sname-psy	3	4	Weil das Grundgehalt Vietnam beschämt .
 MF[OS]VC[V]	sname-psy	4	2	Weil Vietnam das Grundgehalt beschämt .
-VF[S]LK[V]MF[O]	sname-psy	1	3	Bauzaun reut Anke .
-VF[O]LK[V]MF[S]	sname-psy	3	1	Anke reut Bauzaun .
-VF[ADV]LK[V]MF[SO]	sname-psy	3	4	Deshalb reut Bauzaun Anke .
-LK[V]MF[SO]	sname-psy	2	3	Reut Bauzaun Anke ?
-MF[SO]VC[V]	sname-psy	2	3	Weil Bauzaun Anke reut .
+VF[S]LK[V]MF[O]	sname-psy	2	4	Die Umzäunung reut Anke .
+VF[O]LK[V]MF[S]	sname-psy	4	1	Anke reut die Umzäunung .
+VF[ADV]LK[V]MF[SO]	sname-psy	4	5	Deshalb reut die Umzäunung Anke .
+LK[V]MF[SO]	sname-psy	3	4	Reut die Umzäunung Anke ?
+MF[SO]VC[V]	sname-psy	3	4	Weil die Umzäunung Anke reut .
 VF[S]LK[V]MF[O]	sname-psy	2	4	Die Tour amüsiert Bonn .
 VF[O]LK[V]MF[S]	sname-psy	4	1	Bonn amüsiert die Tour .
 VF[ADV]LK[V]MF[SO]	sname-psy	4	5	Deshalb amüsiert die Tour Bonn .
@@ -5065,11 +5065,11 @@ VF[O]LK[V]MF[S]	regpol-syn	4	1	Bauausführungen bestreiten die Konzerne .
 VF[ADV]LK[V]MF[SO]	regpol-syn	4	5	Deshalb bestreiten die Konzerne Bauausführungen .
 LK[V]MF[SO]	regpol-syn	3	4	Bestreiten die Konzerne Bauausführungen ?
 MF[SO]VC[V]	regpol-syn	3	4	Weil die Konzerne Bauausführungen bestreiten .
-VF[S]LK[V]MF[O]	sname-syn	1	3	Siemens beginnt Angriff .
-VF[O]LK[V]MF[S]	sname-syn	3	1	Angriff beginnt Siemens .
-VF[ADV]LK[V]MF[SO]	sname-syn	3	4	Deshalb beginnt Siemens Angriff .
-LK[V]MF[SO]	sname-syn	2	3	Beginnt Siemens Angriff ?
-MF[SO]VC[V]	sname-syn	2	3	Weil Siemens Angriff beginnt .
+VF[S]LK[V]MF[O]	sname-syn	1	4	Siemens beginnt eine Attacke .
+VF[O]LK[V]MF[S]	sname-syn	4	2	Eine Attacke beginnt Siemens .
+VF[ADV]LK[V]MF[SO]	sname-syn	3	5	Deshalb beginnt Siemens eine Attacke .
+LK[V]MF[SO]	sname-syn	2	4	Beginnt Siemens eine Attacke ?
+MF[SO]VC[V]	sname-syn	2	4	Weil Siemens eine Attacke beginnt .
 VF[S]LK[V]MF[O]	sname-syn	1	4	Balazs führt ein Doppelleben .
 VF[O]LK[V]MF[S]	sname-syn	4	2	Ein Doppelleben führt Balazs .
 VF[ADV]LK[V]MF[SO]	sname-syn	3	5	Deshalb führt Balazs ein Doppelleben .
@@ -5110,11 +5110,11 @@ VF[O]LK[V]MF[S]	sname-syn	3	1	Kaffee schlürft Clooney .
 VF[ADV]LK[V]MF[SO]	sname-syn	3	4	Deshalb schlürft Clooney Kaffee .
 LK[V]MF[SO]	sname-syn	2	3	Schlürft Clooney Kaffee ?
 MF[SO]VC[V]	sname-syn	2	3	Weil Clooney Kaffee schlürft .
-VF[S]LK[V]MF[O]	sname-syn	1	4	Bertolt Brecht verfasst Roman .
-VF[O]LK[V]MF[S]	sname-syn	3	1	Roman verfasst Bertolt Brecht .
-VF[ADV]LK[V]MF[SO]	sname-syn	3	5	Deshalb verfasst Bertolt Brecht Roman .
-LK[V]MF[SO]	sname-syn	2	4	Verfasst Bertolt Brecht Roman ?
-MF[SO]VC[V]	sname-syn	2	4	Weil Bertolt Brecht Roman verfasst .
+VF[S]LK[V]MF[O]	sname-syn	1	5	Bertolt Brecht verfasst eine Erzählung .
+VF[O]LK[V]MF[S]	sname-syn	4	2	Eine Erzählung verfasst Bertolt Brecht .
+VF[ADV]LK[V]MF[SO]	sname-syn	3	6	Deshalb verfasst Bertolt Brecht eine Erzählung .
+LK[V]MF[SO]	sname-syn	2	5	Verfasst Bertolt Brecht eine Erzählung ?
+MF[SO]VC[V]	sname-syn	2	5	Weil Bertolt Brecht eine Erzählung verfasst .
 VF[S]LK[V]MF[O]	sname-syn	1	4	Merkel beendigt eine Rede .
 VF[O]LK[V]MF[S]	sname-syn	4	2	Eine Rede beendigt Merkel .
 VF[ADV]LK[V]MF[SO]	sname-syn	3	5	Deshalb beendigt Merkel eine Rede .
@@ -5125,11 +5125,11 @@ VF[O]LK[V]MF[S]	sname-syn	4	2	Ein Grundgehalt kriegt Vietnam .
 VF[ADV]LK[V]MF[SO]	sname-syn	3	5	Deshalb kriegt Vietnam ein Grundgehalt .
 LK[V]MF[SO]	sname-syn	2	4	Kriegt Vietnam ein Grundgehalt ?
 MF[SO]VC[V]	sname-syn	2	4	Weil Vietnam ein Grundgehalt kriegt .
-VF[S]LK[V]MF[O]	sname-syn	1	3	Anke errichtet Bauzaun .
-VF[O]LK[V]MF[S]	sname-syn	3	1	Bauzaun errichtet Anke .
-VF[ADV]LK[V]MF[SO]	sname-syn	3	4	Deshalb errichtet Anke Bauzaun .
-LK[V]MF[SO]	sname-syn	2	3	Errichtet Anke Bauzaun ?
-MF[SO]VC[V]	sname-syn	2	3	Weil Anke Bauzaun errichtet .
+VF[S]LK[V]MF[O]	sname-syn	1	4	Anke errichtet eine Umzäunung .
+VF[O]LK[V]MF[S]	sname-syn	4	2	Eine Umzäunung errichtet Anke .
+VF[ADV]LK[V]MF[SO]	sname-syn	3	5	Deshalb errichtet Anke eine Umzäunung .
+LK[V]MF[SO]	sname-syn	2	4	Errichtet Anke eine Umzäunung ?
+MF[SO]VC[V]	sname-syn	2	4	Weil Anke eine Umzäunung errichtet .
 VF[S]LK[V]MF[O]	sname-syn	1	4	Bonn erringt eine Tour .
 VF[O]LK[V]MF[S]	sname-syn	4	2	Eine Tour erringt Bonn .
 VF[ADV]LK[V]MF[SO]	sname-syn	3	5	Deshalb erringt Bonn eine Tour .
@@ -6182,11 +6182,11 @@ VF[O]LK[V]MF[S]	pp-regpol	7	1	Bauausführungen übernehmen in dem Jahr die Konze
 VF[ADV]LK[V]MF[SO]	pp-regpol	7	8	Deshalb übernehmen in dem Jahr die Konzerne Bauausführungen .
 LK[V]MF[SO]	pp-regpol	6	7	Übernehmen in dem Jahr die Konzerne Bauausführungen ?
 MF[SO]VC[V]	pp-regpol	6	7	Weil in dem Jahr die Konzerne Bauausführungen übernehmen .
-VF[S]LK[V]MF[O]	pp-sname	1	6	Siemens startet in dem Jahr Angriff .
-VF[O]LK[V]MF[S]	pp-sname	6	1	Angriff startet in dem Jahr Siemens .
-VF[ADV]LK[V]MF[SO]	pp-sname	6	7	Deshalb startet in dem Jahr Siemens Angriff .
-LK[V]MF[SO]	pp-sname	5	6	Startet in dem Jahr Siemens Angriff ?
-MF[SO]VC[V]	pp-sname	5	6	Weil in dem Jahr Siemens Angriff startet .
+VF[S]LK[V]MF[O]	pp-sname	1	7	Siemens startet in dem Jahr eine Attacke .
+VF[O]LK[V]MF[S]	pp-sname	7	2	Eine Attacke startet in dem Jahr Siemens .
+VF[ADV]LK[V]MF[SO]	pp-sname	6	8	Deshalb startet in dem Jahr Siemens eine Attacke .
+LK[V]MF[SO]	pp-sname	5	7	Startet in dem Jahr Siemens eine Attacke ?
+MF[SO]VC[V]	pp-sname	5	7	Weil in dem Jahr Siemens eine Attacke startet .
 VF[S]LK[V]MF[O]	pp-sname	1	7	Balazs lebt in dem Jahr ein Doppelleben .
 VF[O]LK[V]MF[S]	pp-sname	7	2	Ein Doppelleben lebt in dem Jahr Balazs .
 VF[ADV]LK[V]MF[SO]	pp-sname	6	8	Deshalb lebt in dem Jahr Balazs ein Doppelleben .
@@ -6227,11 +6227,11 @@ VF[O]LK[V]MF[S]	pp-sname	6	1	Kaffee trinkt in dem Jahr Clooney .
 VF[ADV]LK[V]MF[SO]	pp-sname	6	7	Deshalb trinkt in dem Jahr Clooney Kaffee .
 LK[V]MF[SO]	pp-sname	5	6	Trinkt in dem Jahr Clooney Kaffee ?
 MF[SO]VC[V]	pp-sname	5	6	Weil in dem Jahr Clooney Kaffee trinkt .
-VF[S]LK[V]MF[O]	pp-sname	1	7	Bertolt Brecht schreibt in dem Jahr Roman .
-VF[O]LK[V]MF[S]	pp-sname	6	1	Roman schreibt in dem Jahr Bertolt Brecht .
-VF[ADV]LK[V]MF[SO]	pp-sname	6	8	Deshalb schreibt in dem Jahr Bertolt Brecht Roman .
-LK[V]MF[SO]	pp-sname	5	7	Schreibt in dem Jahr Bertolt Brecht Roman ?
-MF[SO]VC[V]	pp-sname	5	7	Weil in dem Jahr Bertolt Brecht Roman schreibt .
+VF[S]LK[V]MF[O]	pp-sname	1	8	Bertolt Brecht schreibt in dem Jahr eine Erzählung .
+VF[O]LK[V]MF[S]	pp-sname	7	2	Eine Erzählung schreibt in dem Jahr Bertolt Brecht .
+VF[ADV]LK[V]MF[SO]	pp-sname	6	9	Deshalb schreibt in dem Jahr Bertolt Brecht eine Erzählung .
+LK[V]MF[SO]	pp-sname	5	8	Schreibt in dem Jahr Bertolt Brecht eine Erzählung ?
+MF[SO]VC[V]	pp-sname	5	8	Weil in dem Jahr Bertolt Brecht eine Erzählung schreibt .
 VF[S]LK[V]MF[O]	pp-sname	1	7	Merkel beendet in dem Jahr eine Rede .
 VF[O]LK[V]MF[S]	pp-sname	7	2	Eine Rede beendet in dem Jahr Merkel .
 VF[ADV]LK[V]MF[SO]	pp-sname	6	8	Deshalb beendet in dem Jahr Merkel eine Rede .
@@ -6242,11 +6242,11 @@ VF[O]LK[V]MF[S]	pp-sname	7	2	Ein Grundgehalt bekommt in dem Jahr Vietnam .
 VF[ADV]LK[V]MF[SO]	pp-sname	6	8	Deshalb bekommt in dem Jahr Vietnam ein Grundgehalt .
 LK[V]MF[SO]	pp-sname	5	7	Bekommt in dem Jahr Vietnam ein Grundgehalt ?
 MF[SO]VC[V]	pp-sname	5	7	Weil in dem Jahr Vietnam ein Grundgehalt bekommt .
-VF[S]LK[V]MF[O]	pp-sname	1	6	Anke zieht in dem Jahr Bauzaun .
-VF[O]LK[V]MF[S]	pp-sname	6	1	Bauzaun zieht in dem Jahr Anke .
-VF[ADV]LK[V]MF[SO]	pp-sname	6	7	Deshalb zieht in dem Jahr Anke Bauzaun .
-LK[V]MF[SO]	pp-sname	5	6	Zieht in dem Jahr Anke Bauzaun ?
-MF[SO]VC[V]	pp-sname	5	6	Weil in dem Jahr Anke Bauzaun zieht .
+VF[S]LK[V]MF[O]	pp-sname	1	7	Anke zieht in dem Jahr eine Umzäunung .
+VF[O]LK[V]MF[S]	pp-sname	7	2	Eine Umzäunung zieht in dem Jahr Anke .
+VF[ADV]LK[V]MF[SO]	pp-sname	6	8	Deshalb zieht in dem Jahr Anke eine Umzäunung .
+LK[V]MF[SO]	pp-sname	5	7	Zieht in dem Jahr Anke eine Umzäunung ?
+MF[SO]VC[V]	pp-sname	5	7	Weil in dem Jahr Anke eine Umzäunung zieht .
 VF[S]LK[V]MF[O]	pp-sname	1	7	Bonn gewinnt in dem Jahr eine Tour .
 VF[O]LK[V]MF[S]	pp-sname	7	2	Eine Tour gewinnt in dem Jahr Bonn .
 VF[ADV]LK[V]MF[SO]	pp-sname	6	8	Deshalb gewinnt in dem Jahr Bonn eine Tour .

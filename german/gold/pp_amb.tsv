@@ -14,21 +14,21 @@ MF[SO]VC[V]	base-pp	3	5	Weil die Abgeordnete ein Grundgehalt in dem Jahr bekommt
 MF[SO]VC[V]	base-pp	3	4	Weil die Kleinbauern Bauzäune in dem Jahr ziehen .
 MF[SO]VC[V]	base-pp	3	5	Weil die Sportlerin eine Tour in dem Jahr gewinnt .
 MF[SO]VC[V]	base-pp	3	5	Weil die Handwerkerin eine Bauausführung in dem Jahr übernimmt .
-MF[SO]VC[V]	aux-pp	3	4	Weil die Generäle Angriffe starten in dem Jahr werden .
-MF[SO]VC[V]	aux-pp	3	5	Weil die Partnerin ein Doppelleben leben in dem Jahr wird .
-MF[SO]VC[V]	aux-pp	3	5	Weil die Journalistin eine Aufnahme übertexten in dem Jahr wird .
-MF[SO]VC[V]	aux-pp	3	5	Weil die Freundin eine Traumhochzeit spielen in dem Jahr wird .
-MF[SO]VC[V]	aux-pp	3	5	Weil die Passantin ein Kunstwerk bewerfen in dem Jahr wird .
-MF[SO]VC[V]	aux-pp	3	5	Weil das Kind eine Lösung finden in dem Jahr wird .
-MF[SO]VC[V]	aux-pp	3	5	Weil die Leserin eine Zeitschrift abonnieren in dem Jahr wird .
-MF[SO]VC[V]	aux-pp	3	4	Weil die Herren Bärte rasieren in dem Jahr werden .
-MF[SO]VC[V]	aux-pp	3	4	Weil die Mamas Kaffees trinken in dem Jahr werden .
-MF[SO]VC[V]	aux-pp	3	4	Weil die Schriftsteller Romane schreiben in dem Jahr werden .
-MF[SO]VC[V]	aux-pp	3	5	Weil die Politikerin eine Rede beenden in dem Jahr wird .
-MF[SO]VC[V]	aux-pp	3	5	Weil die Abgeordnete ein Grundgehalt bekommen in dem Jahr wird .
-MF[SO]VC[V]	aux-pp	3	4	Weil die Kleinbauern Bauzäune ziehen in dem Jahr werden .
-MF[SO]VC[V]	aux-pp	3	5	Weil die Sportlerin eine Tour gewinnen in dem Jahr wird .
-MF[SO]VC[V]	aux-pp	3	5	Weil die Handwerkerin eine Bauausführung übernehmen in dem Jahr wird .
+MF[SO]VC[V]	aux-pp	3	4	Weil die Generäle Angriffe in dem Jahr starten werden .
+MF[SO]VC[V]	aux-pp	3	5	Weil die Partnerin ein Doppelleben in dem Jahr leben wird .
+MF[SO]VC[V]	aux-pp	3	5	Weil die Journalistin eine Aufnahme in dem Jahr übertexten wird .
+MF[SO]VC[V]	aux-pp	3	5	Weil die Freundin eine Traumhochzeit in dem Jahr spielen wird .
+MF[SO]VC[V]	aux-pp	3	5	Weil die Passantin ein Kunstwerk in dem Jahr bewerfen wird .
+MF[SO]VC[V]	aux-pp	3	5	Weil das Kind eine Lösung in dem Jahr finden wird .
+MF[SO]VC[V]	aux-pp	3	5	Weil die Leserin eine Zeitschrift in dem Jahr abonnieren wird .
+MF[SO]VC[V]	aux-pp	3	4	Weil die Herren Bärte in dem Jahr rasieren werden .
+MF[SO]VC[V]	aux-pp	3	4	Weil die Mamas Kaffees in dem Jahr trinken werden .
+MF[SO]VC[V]	aux-pp	3	4	Weil die Schriftsteller Romane in dem Jahr schreiben werden .
+MF[SO]VC[V]	aux-pp	3	5	Weil die Politikerin eine Rede in dem Jahr beenden wird .
+MF[SO]VC[V]	aux-pp	3	5	Weil die Abgeordnete ein Grundgehalt in dem Jahr bekommen wird .
+MF[SO]VC[V]	aux-pp	3	4	Weil die Kleinbauern Bauzäune in dem Jahr ziehen werden .
+MF[SO]VC[V]	aux-pp	3	5	Weil die Sportlerin eine Tour in dem Jahr gewinnen wird .
+MF[SO]VC[V]	aux-pp	3	5	Weil die Handwerkerin eine Bauausführung in dem Jahr übernehmen wird .
 MF[SO]VC[V]	spron-pp	2	3	Weil sie Angriffe in dem Jahr starten .
 MF[SO]VC[V]	spron-pp	2	4	Weil sie ein Doppelleben in dem Jahr lebt .
 MF[SO]VC[V]	spron-pp	2	4	Weil sie eine Aufnahme in dem Jahr übertextet .
@@ -144,19 +144,19 @@ MF[SO]VC[V]	pp-regpol	3	5	Weil die Schule ein Grundgehalt in dem Jahr bekommt .
 MF[SO]VC[V]	pp-regpol	3	4	Weil die Werkstätten Bauzäune in dem Jahr ziehen .
 MF[SO]VC[V]	pp-regpol	3	5	Weil die Universität eine Tour in dem Jahr gewinnt .
 MF[SO]VC[V]	pp-regpol	3	4	Weil die Konzerne Bauausführungen in dem Jahr übernehmen .
-MF[SO]VC[V]	pp-sname	2	3	Weil Siemens Angriff in dem Jahr startet .
+MF[SO]VC[V]	pp-sname	2	4	Weil Siemens eine Attacke in dem Jahr startet .
 MF[SO]VC[V]	pp-sname	2	4	Weil Balazs ein Doppelleben in dem Jahr lebt .
 MF[SO]VC[V]	pp-sname	2	4	Weil Daimler eine Aufnahme in dem Jahr übertextet .
 MF[SO]VC[V]	pp-sname	2	4	Weil RTL eine Traumhochzeit in dem Jahr spielt .
 MF[SO]VC[V]	pp-sname	2	4	Weil Degas ein Kunstwerk in dem Jahr bewirft .
 MF[SO]VC[V]	pp-sname	2	5	Weil Günter Jauch eine Lösung in dem Jahr findet .
 MF[SO]VC[V]	pp-sname	2	4	Weil Harry eine Zeitschrift in dem Jahr abonniert .
-MF[SO]VC[V]	pp-sname	2	3	Weil Gillette Bart in dem Jahr rasiert .
+MF[SO]VC[V]	pp-sname	2	4	Weil Gillette eine Gesichtsbehaarung in dem Jahr rasiert .
 MF[SO]VC[V]	pp-sname	2	3	Weil Clooney Kaffee in dem Jahr trinkt .
-MF[SO]VC[V]	pp-sname	2	4	Weil Bertolt Brecht Roman in dem Jahr schreibt .
+MF[SO]VC[V]	pp-sname	2	5	Weil Bertolt Brecht eine Erzählung in dem Jahr schreibt .
 MF[SO]VC[V]	pp-sname	2	4	Weil Merkel eine Rede in dem Jahr beendet .
 MF[SO]VC[V]	pp-sname	2	4	Weil Vietnam ein Grundgehalt in dem Jahr bekommt .
-MF[SO]VC[V]	pp-sname	2	3	Weil Anke Bauzaun in dem Jahr zieht .
+MF[SO]VC[V]	pp-sname	2	4	Weil Anke eine Umzäunung in dem Jahr zieht .
 MF[SO]VC[V]	pp-sname	2	4	Weil Bonn eine Tour in dem Jahr gewinnt .
 MF[SO]VC[V]	pp-sname	2	4	Weil EnBW eine Bauausführung in dem Jahr übernimmt .
 MF[SO]VC[V]	pp-semas	3	5	Weil die Starke eine Schwache in dem Jahr hält .

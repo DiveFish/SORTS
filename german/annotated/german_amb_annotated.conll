@@ -15220,30 +15220,35 @@
 
 1	Siemens	Siemens	_	PROPN-NE	Morph:ns*|NE:B-ORG|order:VF[S]LK[V]MF[O]|props:base-sname|tf:VF
 2	startet	starten	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:base-sname|tf:LK
-3	Angriff	Angriff	_	NOUN-NN	Morph:asm|NE:O|order:VF[S]LK[V]MF[O]|props:base-sname|tf:MF
-4	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:base-sname|tf:UNK
+3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:base-sname|tf:MF
+4	Attacke	Attacke	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:base-sname|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:base-sname|tf:UNK
 
-1	Angriff	Angriff	_	NOUN-NN	Morph:asm|NE:O|order:VF[O]LK[V]MF[S]|props:base-sname|tf:VF
-2	startet	starten	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:base-sname|tf:LK
-3	Siemens	Siemens	_	PROPN-NE	Morph:ns*|NE:B-ORG|order:VF[O]LK[V]MF[S]|props:base-sname|tf:MF
-4	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:base-sname|tf:UNK
+1	Eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:base-sname|tf:VF
+2	Attacke	Attacke	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:base-sname|tf:VF
+3	startet	starten	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:base-sname|tf:LK
+4	Siemens	Siemens	_	PROPN-NE	Morph:ns*|NE:B-ORG|order:VF[O]LK[V]MF[S]|props:base-sname|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:base-sname|tf:UNK
 
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-sname|tf:VF
 2	startet	starten	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-sname|tf:LK
 3	Siemens	Siemens	_	PROPN-NE	Morph:ns*|NE:B-ORG|order:VF[ADV]LK[V]MF[SO]|props:base-sname|tf:MF
-4	Angriff	Angriff	_	NOUN-NN	Morph:asm|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-sname|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-sname|tf:UNK
+4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-sname|tf:MF
+5	Attacke	Attacke	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-sname|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-sname|tf:UNK
 
 1	Startet	starten	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:base-sname|tf:LK
 2	Siemens	Siemens	_	PROPN-NE	Morph:ns*|NE:B-ORG|order:LK[V]MF[SO]|props:base-sname|tf:MF
-3	Angriff	Angriff	_	NOUN-NN	Morph:asm|NE:O|order:LK[V]MF[SO]|props:base-sname|tf:MF
-4	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:base-sname|tf:UNK
+3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:base-sname|tf:MF
+4	Attacke	Attacke	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:base-sname|tf:MF
+5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:base-sname|tf:UNK
 
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-sname|tf:C
 2	Siemens	Siemens	_	PROPN-NE	Morph:ns*|NE:B-ORG|order:MF[SO]VC[V]|props:base-sname|tf:MF
-3	Angriff	Angriff	_	NOUN-NN	Morph:asm|NE:O|order:MF[SO]VC[V]|props:base-sname|tf:MF
-4	startet	starten	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:base-sname|tf:VC
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-sname|tf:UNK
+3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:MF[SO]VC[V]|props:base-sname|tf:MF
+4	Attacke	Attacke	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:base-sname|tf:MF
+5	startet	starten	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:base-sname|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-sname|tf:UNK
 
 1	Balazs	Balazs	_	PROPN-NE	Morph:nsm|NE:B-PER|order:VF[S]LK[V]MF[O]|props:base-sname|tf:VF
 2	lebt	leben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:base-sname|tf:LK
@@ -15444,30 +15449,35 @@
 
 1	Gillette	Gillette	_	PROPN-NE	Morph:nsf|NE:B-PER|order:VF[S]LK[V]MF[O]|props:base-sname|tf:VF
 2	rasiert	rasieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:base-sname|tf:LK
-3	Bart	Bart	_	NOUN-NN	Morph:asm|NE:O|order:VF[S]LK[V]MF[O]|props:base-sname|tf:MF
-4	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:base-sname|tf:UNK
+3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:base-sname|tf:MF
+4	Gesichtsbehaarung	Gesichtsbehaarung	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:base-sname|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:base-sname|tf:UNK
 
-1	Bart	Bart	_	NOUN-NN	Morph:nsm|NE:O|order:VF[O]LK[V]MF[S]|props:base-sname|tf:VF
-2	rasiert	rasieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:base-sname|tf:LK
-3	Gillette	Gillette	_	PROPN-NE	Morph:asf|NE:B-PER|order:VF[O]LK[V]MF[S]|props:base-sname|tf:MF
-4	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:base-sname|tf:UNK
+1	Eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:base-sname|tf:VF
+2	Gesichtsbehaarung	Gesichtsbehaarung	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:base-sname|tf:VF
+3	rasiert	rasieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:base-sname|tf:LK
+4	Gillette	Gillette	_	PROPN-NE	Morph:asf|NE:B-PER|order:VF[O]LK[V]MF[S]|props:base-sname|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:base-sname|tf:UNK
 
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-sname|tf:VF
 2	rasiert	rasieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-sname|tf:LK
 3	Gillette	Gillette	_	PROPN-NE	Morph:nsf|NE:B-PER|order:VF[ADV]LK[V]MF[SO]|props:base-sname|tf:MF
-4	Bart	Bart	_	NOUN-NN	Morph:asm|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-sname|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-sname|tf:UNK
+4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-sname|tf:MF
+5	Gesichtsbehaarung	Gesichtsbehaarung	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-sname|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-sname|tf:UNK
 
 1	Rasiert	rasieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:base-sname|tf:LK
 2	Gillette	Gillette	_	PROPN-NE	Morph:nsf|NE:B-PER|order:LK[V]MF[SO]|props:base-sname|tf:MF
-3	Bart	Bart	_	NOUN-NN	Morph:asm|NE:O|order:LK[V]MF[SO]|props:base-sname|tf:MF
-4	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:base-sname|tf:UNK
+3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:base-sname|tf:MF
+4	Gesichtsbehaarung	Gesichtsbehaarung	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:base-sname|tf:MF
+5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:base-sname|tf:UNK
 
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-sname|tf:C
 2	Gillette	Gillette	_	PROPN-NE	Morph:nsf|NE:B-PER|order:MF[SO]VC[V]|props:base-sname|tf:MF
-3	Bart	Bart	_	NOUN-NN	Morph:asm|NE:O|order:MF[SO]VC[V]|props:base-sname|tf:MF
-4	rasiert	rasieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:base-sname|tf:VC
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-sname|tf:UNK
+3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:MF[SO]VC[V]|props:base-sname|tf:MF
+4	Gesichtsbehaarung	Gesichtsbehaarung	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:base-sname|tf:MF
+5	rasiert	rasieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:base-sname|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-sname|tf:UNK
 
 1	Clooney	Clooney	_	PROPN-NE	Morph:nsm|NE:B-PER|order:VF[S]LK[V]MF[O]|props:base-sname|tf:VF
 2	trinkt	trinken	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:base-sname|tf:LK
@@ -15499,34 +15509,39 @@
 1	Bertolt	Bertolt	_	PROPN-NE	Morph:nsm|NE:B-PER|order:VF[S]LK[V]MF[O]|props:base-sname|tf:VF
 2	Brecht	Brecht	_	PROPN-NE	Morph:nsm|NE:I-PER|order:VF[S]LK[V]MF[O]|props:base-sname|tf:VF
 3	schreibt	schreiben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:base-sname|tf:LK
-4	Roman	Roman	_	NOUN-NN	Morph:asm|NE:O|order:VF[S]LK[V]MF[O]|props:base-sname|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:base-sname|tf:UNK
+4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:base-sname|tf:MF
+5	Erzählung	Erzählung	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:base-sname|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:base-sname|tf:UNK
 
-1	Roman	Roman	_	NOUN-NN	Morph:asm|NE:O|order:VF[O]LK[V]MF[S]|props:base-sname|tf:VF
-2	schreibt	schreiben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:base-sname|tf:LK
-3	Bertolt	Bertolt	_	PROPN-NE	Morph:nsm|NE:B-PER|order:VF[O]LK[V]MF[S]|props:base-sname|tf:MF
-4	Brecht	Brecht	_	PROPN-NE	Morph:nsm|NE:I-PER|order:VF[O]LK[V]MF[S]|props:base-sname|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:base-sname|tf:UNK
+1	Eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:base-sname|tf:VF
+2	Erzählung	Erzählung	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:base-sname|tf:VF
+3	schreibt	schreiben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:base-sname|tf:LK
+4	Bertolt	Bertolt	_	PROPN-NE	Morph:nsm|NE:B-PER|order:VF[O]LK[V]MF[S]|props:base-sname|tf:MF
+5	Brecht	Brecht	_	PROPN-NE	Morph:nsm|NE:I-PER|order:VF[O]LK[V]MF[S]|props:base-sname|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:base-sname|tf:UNK
 
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-sname|tf:VF
 2	schreibt	schreiben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-sname|tf:LK
 3	Bertolt	Bertolt	_	PROPN-NE	Morph:nsm|NE:B-PER|order:VF[ADV]LK[V]MF[SO]|props:base-sname|tf:MF
 4	Brecht	Brecht	_	PROPN-NE	Morph:nsm|NE:I-PER|order:VF[ADV]LK[V]MF[SO]|props:base-sname|tf:MF
-5	Roman	Roman	_	NOUN-NN	Morph:asm|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-sname|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-sname|tf:UNK
+5	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-sname|tf:MF
+6	Erzählung	Erzählung	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-sname|tf:MF
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-sname|tf:UNK
 
 1	Schreibt	schreiben	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:base-sname|tf:LK
 2	Bertolt	Bertolt	_	PROPN-NE	Morph:nsm|NE:B-PER|order:LK[V]MF[SO]|props:base-sname|tf:MF
 3	Brecht	Brecht	_	PROPN-NE	Morph:nsm|NE:I-PER|order:LK[V]MF[SO]|props:base-sname|tf:MF
-4	Roman	Roman	_	NOUN-NN	Morph:asm|NE:O|order:LK[V]MF[SO]|props:base-sname|tf:MF
-5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:base-sname|tf:UNK
+4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:base-sname|tf:MF
+5	Erzählung	Erzählung	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:base-sname|tf:MF
+6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:base-sname|tf:UNK
 
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-sname|tf:C
 2	Bertolt	Bertolt	_	PROPN-NE	Morph:nsm|NE:B-PER|order:MF[SO]VC[V]|props:base-sname|tf:MF
 3	Brecht	Brecht	_	PROPN-NE	Morph:nsm|NE:I-PER|order:MF[SO]VC[V]|props:base-sname|tf:MF
-4	Roman	Roman	_	NOUN-NN	Morph:asm|NE:O|order:MF[SO]VC[V]|props:base-sname|tf:MF
-5	schreibt	schreiben	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:base-sname|tf:VC
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-sname|tf:UNK
+4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:MF[SO]VC[V]|props:base-sname|tf:MF
+5	Erzählung	Erzählung	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:base-sname|tf:MF
+6	schreibt	schreiben	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:base-sname|tf:VC
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-sname|tf:UNK
 
 1	Merkel	Merkel	_	PROPN-NE	Morph:nsf|NE:B-PER|order:VF[S]LK[V]MF[O]|props:base-sname|tf:VF
 2	beendet	beenden	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:base-sname|tf:LK
@@ -15594,30 +15609,35 @@
 
 1	Anke	Anke	_	PROPN-NE	Morph:nsf|NE:B-PER|order:VF[S]LK[V]MF[O]|props:base-sname|tf:VF
 2	zieht	ziehen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:base-sname|tf:LK
-3	Bauzaun	Bauzaun	_	NOUN-NN	Morph:asm|NE:O|order:VF[S]LK[V]MF[O]|props:base-sname|tf:MF
-4	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:base-sname|tf:UNK
+3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:base-sname|tf:MF
+4	Umzäunung	Umzäunung	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:base-sname|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:base-sname|tf:UNK
 
-1	Bauzaun	Bauzaun	_	NOUN-NN	Morph:nsm|NE:O|order:VF[O]LK[V]MF[S]|props:base-sname|tf:VF
-2	zieht	ziehen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:base-sname|tf:LK
-3	Anke	Anke	_	PROPN-NE	Morph:asf|NE:B-PER|order:VF[O]LK[V]MF[S]|props:base-sname|tf:MF
-4	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:base-sname|tf:UNK
+1	Eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:base-sname|tf:VF
+2	Umzäunung	Umzäunung	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:base-sname|tf:VF
+3	zieht	ziehen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:base-sname|tf:LK
+4	Anke	Anke	_	PROPN-NE	Morph:asf|NE:B-PER|order:VF[O]LK[V]MF[S]|props:base-sname|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:base-sname|tf:UNK
 
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-sname|tf:VF
 2	zieht	ziehen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-sname|tf:LK
 3	Anke	Anke	_	PROPN-NE	Morph:nsf|NE:B-PER|order:VF[ADV]LK[V]MF[SO]|props:base-sname|tf:MF
-4	Bauzaun	Bauzaun	_	NOUN-NN	Morph:asm|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-sname|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-sname|tf:UNK
+4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-sname|tf:MF
+5	Umzäunung	Umzäunung	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-sname|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:base-sname|tf:UNK
 
 1	Zieht	ziehen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:base-sname|tf:LK
 2	Anke	Anke	_	PROPN-NE	Morph:nsf|NE:B-PER|order:LK[V]MF[SO]|props:base-sname|tf:MF
-3	Bauzaun	Bauzaun	_	NOUN-NN	Morph:asm|NE:O|order:LK[V]MF[SO]|props:base-sname|tf:MF
-4	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:base-sname|tf:UNK
+3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:base-sname|tf:MF
+4	Umzäunung	Umzäunung	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:base-sname|tf:MF
+5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:base-sname|tf:UNK
 
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-sname|tf:C
 2	Anke	Anke	_	PROPN-NE	Morph:nsf|NE:B-PER|order:MF[SO]VC[V]|props:base-sname|tf:MF
-3	Bauzaun	Bauzaun	_	NOUN-NN	Morph:asm|NE:O|order:MF[SO]VC[V]|props:base-sname|tf:MF
-4	zieht	ziehen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:base-sname|tf:VC
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-sname|tf:UNK
+3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:MF[SO]VC[V]|props:base-sname|tf:MF
+4	Umzäunung	Umzäunung	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:base-sname|tf:MF
+5	zieht	ziehen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:base-sname|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:base-sname|tf:UNK
 
 1	Bonn	Bonn	_	PROPN-NE	Morph:nsn|NE:B-GPE|order:VF[S]LK[V]MF[O]|props:base-sname|tf:VF
 2	gewinnt	gewinnen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:base-sname|tf:LK
@@ -15685,35 +15705,40 @@
 
 1	Siemens	Siemens	_	PROPN-NE	Morph:ns*|NE:B-ORG|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:VF
 2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:LK
-3	Angriff	Angriff	_	NOUN-NN	Morph:asm|NE:O|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:MF
-4	starten	starten	_	VERB-VVINF	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:VC
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:UNK
+3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:MF
+4	Attacke	Attacke	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:MF
+5	starten	starten	_	VERB-VVINF	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:UNK
 
-1	Angriff	Angriff	_	NOUN-NN	Morph:asm|NE:O|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:VF
-2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:LK
-3	Siemens	Siemens	_	PROPN-NE	Morph:ns*|NE:B-ORG|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:MF
-4	starten	starten	_	VERB-VVINF	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:VC
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:UNK
+1	Eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:VF
+2	Attacke	Attacke	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:VF
+3	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:LK
+4	Siemens	Siemens	_	PROPN-NE	Morph:ns*|NE:B-ORG|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:MF
+5	starten	starten	_	VERB-VVINF	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:UNK
 
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:VF
 2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:LK
 3	Siemens	Siemens	_	PROPN-NE	Morph:ns*|NE:B-ORG|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:MF
-4	Angriff	Angriff	_	NOUN-NN	Morph:asm|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:MF
-5	starten	starten	_	VERB-VVINF	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:VC
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:UNK
+4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:MF
+5	Attacke	Attacke	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:MF
+6	starten	starten	_	VERB-VVINF	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:VC
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:UNK
 
 1	Wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:aux-sname|tf:LK
 2	Siemens	Siemens	_	PROPN-NE	Morph:ns*|NE:B-ORG|order:LK[V]MF[SO]|props:aux-sname|tf:MF
-3	Angriff	Angriff	_	NOUN-NN	Morph:asm|NE:O|order:LK[V]MF[SO]|props:aux-sname|tf:MF
-4	starten	starten	_	VERB-VVINF	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-sname|tf:VC
-5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-sname|tf:UNK
+3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:aux-sname|tf:MF
+4	Attacke	Attacke	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:aux-sname|tf:MF
+5	starten	starten	_	VERB-VVINF	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-sname|tf:VC
+6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-sname|tf:UNK
 
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:C
 2	Siemens	Siemens	_	PROPN-NE	Morph:ns*|NE:B-ORG|order:MF[SO]VC[V]|props:aux-sname|tf:MF
-3	Angriff	Angriff	_	NOUN-NN	Morph:asm|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:MF
-4	starten	starten	_	VERB-VVINF	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:VC
-5	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:VC
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:UNK
+3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:MF
+4	Attacke	Attacke	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:MF
+5	starten	starten	_	VERB-VVINF	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:VC
+6	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:VC
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:UNK
 
 1	Balazs	Balazs	_	PROPN-NE	Morph:nsm|NE:B-PER|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:VF
 2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:LK
@@ -15944,35 +15969,40 @@
 
 1	Gillette	Gillette	_	PROPN-NE	Morph:nsf|NE:B-PER|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:VF
 2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:LK
-3	Bart	Bart	_	NOUN-NN	Morph:asm|NE:O|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:MF
-4	rasieren	rasieren	_	VERB-VVINF	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:VC
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:UNK
+3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:MF
+4	Gesichtsbehaarung	Gesichtsbehaarung	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:MF
+5	rasieren	rasieren	_	VERB-VVINF	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:UNK
 
-1	Bart	Bart	_	NOUN-NN	Morph:nsm|NE:O|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:VF
-2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:LK
-3	Gillette	Gillette	_	PROPN-NE	Morph:asf|NE:B-PER|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:MF
-4	rasieren	rasieren	_	VERB-VVINF	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:VC
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:UNK
+1	Eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:VF
+2	Gesichtsbehaarung	Gesichtsbehaarung	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:VF
+3	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:LK
+4	Gillette	Gillette	_	PROPN-NE	Morph:asf|NE:B-PER|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:MF
+5	rasieren	rasieren	_	VERB-VVINF	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:UNK
 
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:VF
 2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:LK
 3	Gillette	Gillette	_	PROPN-NE	Morph:nsf|NE:B-PER|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:MF
-4	Bart	Bart	_	NOUN-NN	Morph:asm|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:MF
-5	rasieren	rasieren	_	VERB-VVINF	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:VC
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:UNK
+4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:MF
+5	Gesichtsbehaarung	Gesichtsbehaarung	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:MF
+6	rasieren	rasieren	_	VERB-VVINF	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:VC
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:UNK
 
 1	Wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:aux-sname|tf:LK
 2	Gillette	Gillette	_	PROPN-NE	Morph:nsf|NE:B-PER|order:LK[V]MF[SO]|props:aux-sname|tf:MF
-3	Bart	Bart	_	NOUN-NN	Morph:asm|NE:O|order:LK[V]MF[SO]|props:aux-sname|tf:MF
-4	rasieren	rasieren	_	VERB-VVINF	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-sname|tf:VC
-5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-sname|tf:UNK
+3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:aux-sname|tf:MF
+4	Gesichtsbehaarung	Gesichtsbehaarung	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:aux-sname|tf:MF
+5	rasieren	rasieren	_	VERB-VVINF	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-sname|tf:VC
+6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-sname|tf:UNK
 
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:C
 2	Gillette	Gillette	_	PROPN-NE	Morph:nsf|NE:B-PER|order:MF[SO]VC[V]|props:aux-sname|tf:MF
-3	Bart	Bart	_	NOUN-NN	Morph:asm|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:MF
-4	rasieren	rasieren	_	VERB-VVINF	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:VC
-5	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:VC
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:UNK
+3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:MF
+4	Gesichtsbehaarung	Gesichtsbehaarung	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:MF
+5	rasieren	rasieren	_	VERB-VVINF	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:VC
+6	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:VC
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:UNK
 
 1	Clooney	Clooney	_	PROPN-NE	Morph:nsm|NE:B-PER|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:VF
 2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:LK
@@ -16009,39 +16039,44 @@
 1	Bertolt	Bertolt	_	PROPN-NE	Morph:nsm|NE:B-PER|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:VF
 2	Brecht	Brecht	_	PROPN-NE	Morph:nsm|NE:I-PER|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:VF
 3	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:LK
-4	Roman	Roman	_	NOUN-NN	Morph:asm|NE:O|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:MF
-5	schreiben	schreiben	_	VERB-VVINF	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:VC
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:UNK
+4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:MF
+5	Erzählung	Erzählung	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:MF
+6	schreiben	schreiben	_	VERB-VVINF	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:VC
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:UNK
 
-1	Roman	Roman	_	NOUN-NN	Morph:asm|NE:O|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:VF
-2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:LK
-3	Bertolt	Bertolt	_	PROPN-NE	Morph:nsm|NE:B-PER|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:MF
-4	Brecht	Brecht	_	PROPN-NE	Morph:nsm|NE:I-PER|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:MF
-5	schreiben	schreiben	_	VERB-VVINF	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:VC
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:UNK
+1	Eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:VF
+2	Erzählung	Erzählung	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:VF
+3	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:LK
+4	Bertolt	Bertolt	_	PROPN-NE	Morph:nsm|NE:B-PER|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:MF
+5	Brecht	Brecht	_	PROPN-NE	Morph:nsm|NE:I-PER|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:MF
+6	schreiben	schreiben	_	VERB-VVINF	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:VC
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:UNK
 
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:VF
 2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:LK
 3	Bertolt	Bertolt	_	PROPN-NE	Morph:nsm|NE:B-PER|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:MF
 4	Brecht	Brecht	_	PROPN-NE	Morph:nsm|NE:I-PER|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:MF
-5	Roman	Roman	_	NOUN-NN	Morph:asm|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:MF
-6	schreiben	schreiben	_	VERB-VVINF	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:VC
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:UNK
+5	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:MF
+6	Erzählung	Erzählung	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:MF
+7	schreiben	schreiben	_	VERB-VVINF	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:VC
+8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:UNK
 
 1	Wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:aux-sname|tf:LK
 2	Bertolt	Bertolt	_	PROPN-NE	Morph:nsm|NE:B-PER|order:LK[V]MF[SO]|props:aux-sname|tf:MF
 3	Brecht	Brecht	_	PROPN-NE	Morph:nsm|NE:I-PER|order:LK[V]MF[SO]|props:aux-sname|tf:MF
-4	Roman	Roman	_	NOUN-NN	Morph:asm|NE:O|order:LK[V]MF[SO]|props:aux-sname|tf:MF
-5	schreiben	schreiben	_	VERB-VVINF	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-sname|tf:VC
-6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-sname|tf:UNK
+4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:aux-sname|tf:MF
+5	Erzählung	Erzählung	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:aux-sname|tf:MF
+6	schreiben	schreiben	_	VERB-VVINF	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-sname|tf:VC
+7	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-sname|tf:UNK
 
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:C
 2	Bertolt	Bertolt	_	PROPN-NE	Morph:nsm|NE:B-PER|order:MF[SO]VC[V]|props:aux-sname|tf:MF
 3	Brecht	Brecht	_	PROPN-NE	Morph:nsm|NE:I-PER|order:MF[SO]VC[V]|props:aux-sname|tf:MF
-4	Roman	Roman	_	NOUN-NN	Morph:asm|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:MF
-5	schreiben	schreiben	_	VERB-VVINF	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:VC
-6	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:VC
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:UNK
+4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:MF
+5	Erzählung	Erzählung	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:MF
+6	schreiben	schreiben	_	VERB-VVINF	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:VC
+7	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:VC
+8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:UNK
 
 1	Merkel	Merkel	_	PROPN-NE	Morph:nsf|NE:B-PER|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:VF
 2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:LK
@@ -16119,35 +16154,40 @@
 
 1	Anke	Anke	_	PROPN-NE	Morph:nsf|NE:B-PER|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:VF
 2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:LK
-3	Bauzaun	Bauzaun	_	NOUN-NN	Morph:asm|NE:O|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:MF
-4	ziehen	ziehen	_	VERB-VVINF	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:VC
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:UNK
+3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:MF
+4	Umzäunung	Umzäunung	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:MF
+5	ziehen	ziehen	_	VERB-VVINF	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:UNK
 
-1	Bauzaun	Bauzaun	_	PROPN-NE	Morph:nsm|NE:B-ORG|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:VF
-2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:LK
-3	Anke	Anke	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:MF
-4	ziehen	ziehen	_	VERB-VVINF	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:VC
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:UNK
+1	Eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:VF
+2	Umzäunung	Umzäunung	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:VF
+3	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:LK
+4	Anke	Anke	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:MF
+5	ziehen	ziehen	_	VERB-VVINF	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-sname|tf:UNK
 
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:VF
 2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:LK
 3	Anke	Anke	_	PROPN-NE	Morph:nsf|NE:B-PER|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:MF
-4	Bauzaun	Bauzaun	_	NOUN-NN	Morph:asm|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:MF
-5	ziehen	ziehen	_	VERB-VVINF	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:VC
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:UNK
+4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:MF
+5	Umzäunung	Umzäunung	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:MF
+6	ziehen	ziehen	_	VERB-VVINF	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:VC
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-sname|tf:UNK
 
 1	Wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:aux-sname|tf:LK
 2	Anke	Anke	_	PROPN-NE	Morph:nsf|NE:B-PER|order:LK[V]MF[SO]|props:aux-sname|tf:MF
-3	Bauzaun	Bauzaun	_	NOUN-NN	Morph:asm|NE:O|order:LK[V]MF[SO]|props:aux-sname|tf:MF
-4	ziehen	ziehen	_	VERB-VVINF	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-sname|tf:VC
-5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-sname|tf:UNK
+3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:aux-sname|tf:MF
+4	Umzäunung	Umzäunung	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:aux-sname|tf:MF
+5	ziehen	ziehen	_	VERB-VVINF	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-sname|tf:VC
+6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:aux-sname|tf:UNK
 
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:C
 2	Anke	Anke	_	PROPN-NE	Morph:nsf|NE:B-PER|order:MF[SO]VC[V]|props:aux-sname|tf:MF
-3	Bauzaun	Bauzaun	_	NOUN-NN	Morph:asm|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:MF
-4	ziehen	ziehen	_	VERB-VVINF	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:VC
-5	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:VC
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:UNK
+3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:MF
+4	Umzäunung	Umzäunung	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:MF
+5	ziehen	ziehen	_	VERB-VVINF	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:VC
+6	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:VC
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:aux-sname|tf:UNK
 
 1	Bonn	Bonn	_	PROPN-NE	Morph:nsn|NE:B-GPE|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:VF
 2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:aux-sname|tf:LK
@@ -26378,32 +26418,37 @@
 5	belustigen	belustigen	_	VERB-VVFIN	Morph:3pis|NE:O|order:MF[SO]VC[V]|props:regpol-psy|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:regpol-psy|tf:UNK
 
-1	Angriff	Angriff	_	NOUN-NN	Morph:nsm|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:VF
-2	fesselt	fesseln	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:LK
-3	Daimler	Daimler	_	PROPN-NE	Morph:as*|NE:B-ORG|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:MF
-4	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:UNK
+1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:MF
+2	Attacke	Attacke	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:VF
+3	fesselt	fesseln	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:LK
+4	Daimler	Daimler	_	PROPN-NE	Morph:as*|NE:B-ORG|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:UNK
 
 1	Daimler	Daimler	_	PROPN-NE	Morph:ns*|NE:B-ORG|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:VF
 2	fesselt	fesseln	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:LK
-3	Angriff	Angriff	_	NOUN-NN	Morph:asm|NE:O|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:MF
-4	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:UNK
+3	die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:MF
+4	Attacke	Attacke	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:UNK
 
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:VF
 2	fesselt	fesseln	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:LK
-3	Angriff	Angriff	_	NOUN-NN	Morph:nsm|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:MF
-4	Daimler	Daimler	_	PROPN-NE	Morph:ns*|NE:B-ORG|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:UNK
+3	die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:MF
+4	Attacke	Attacke	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:MF
+5	Daimler	Daimler	_	PROPN-NE	Morph:ns*|NE:B-ORG|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:UNK
 
 1	Fesselt	fesseln	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:sname-psy|tf:LK
-2	Angriff	Angriff	_	NOUN-NN	Morph:nsm|NE:O|order:LK[V]MF[SO]|props:sname-psy|tf:MF
-3	Daimler	Daimler	_	PROPN-NE	Morph:as*|NE:B-ORG|order:LK[V]MF[SO]|props:sname-psy|tf:MF
-4	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:sname-psy|tf:UNK
+2	die	die	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:sname-psy|tf:MF
+3	Attacke	Attacke	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:sname-psy|tf:MF
+4	Daimler	Daimler	_	PROPN-NE	Morph:as*|NE:B-ORG|order:LK[V]MF[SO]|props:sname-psy|tf:MF
+5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:sname-psy|tf:UNK
 
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:sname-psy|tf:C
-2	Angriff	Angriff	_	NOUN-NN	Morph:nsm|NE:O|order:MF[SO]VC[V]|props:sname-psy|tf:MF
-3	Daimler	Daimler	_	PROPN-NE	Morph:as*|NE:B-ORG|order:MF[SO]VC[V]|props:sname-psy|tf:MF
-4	fesselt	fesseln	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:sname-psy|tf:VC
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:sname-psy|tf:UNK
+2	die	die	_	DET-ART	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:sname-psy|tf:MF
+3	Attacke	Attacke	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:sname-psy|tf:MF
+4	Daimler	Daimler	_	PROPN-NE	Morph:as*|NE:B-ORG|order:MF[SO]VC[V]|props:sname-psy|tf:MF
+5	fesselt	fesseln	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:sname-psy|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:sname-psy|tf:UNK
 
 1	Das	das	_	DET-ART	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:VF
 2	Doppelleben	Doppelleben	_	NOUN-NN	Morph:asn|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:VF
@@ -26620,11 +26665,11 @@
 5	Brecht	Brecht	_	PROPN-NE	Morph:asm|NE:I-PER|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:UNK
 
-1	Bertolt	Bertolt	_	PROPN-NE	Morph:nsm|NE:B-PER|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:VF
-2	Brecht	Brecht	_	PROPN-NE	Morph:nsm|NE:I-PER|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:VF
+1	Bertolt	Bertolt	_	PROPN-NE	Morph:asm|NE:B-PER|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:VF
+2	Brecht	Brecht	_	PROPN-NE	Morph:asm|NE:I-PER|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:VF
 3	ängstigt	ängstigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:LK
-4	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:MF
-5	Zeitschrift	Zeitschrift	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:MF
+4	die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:MF
+5	Zeitschrift	Zeitschrift	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:UNK
 
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:VF
@@ -26637,10 +26682,10 @@
 
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:sname-psy|tf:VF
 2	ängstigt	ängstigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[OS]|props:sname-psy|tf:LK
-3	Bertolt	Bertolt	_	PROPN-NE	Morph:nsm|NE:B-PER|order:VF[ADV]LK[V]MF[OS]|props:sname-psy|tf:MF
-4	Brecht	Brecht	_	PROPN-NE	Morph:nsm|NE:I-PER|order:VF[ADV]LK[V]MF[OS]|props:sname-psy|tf:MF
-5	die	die	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:sname-psy|tf:MF
-6	Zeitschrift	Zeitschrift	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:sname-psy|tf:MF
+3	Bertolt	Bertolt	_	PROPN-NE	Morph:asm|NE:B-PER|order:VF[ADV]LK[V]MF[OS]|props:sname-psy|tf:MF
+4	Brecht	Brecht	_	PROPN-NE	Morph:asm|NE:I-PER|order:VF[ADV]LK[V]MF[OS]|props:sname-psy|tf:MF
+5	die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:sname-psy|tf:MF
+6	Zeitschrift	Zeitschrift	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[OS]|props:sname-psy|tf:MF
 7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[OS]|props:sname-psy|tf:UNK
 
 1	Ängstigt	ängstigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:sname-psy|tf:LK
@@ -26651,54 +26696,59 @@
 6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:sname-psy|tf:UNK
 
 1	Ängstigt	ängstigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[OS]|props:sname-psy|tf:LK
-2	Bertolt	Bertolt	_	PROPN-NE	Morph:nsm|NE:B-PER|order:LK[V]MF[OS]|props:sname-psy|tf:MF
-3	Brecht	Brecht	_	PROPN-NE	Morph:nsm|NE:I-PER|order:LK[V]MF[OS]|props:sname-psy|tf:MF
-4	die	die	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[OS]|props:sname-psy|tf:MF
-5	Zeitschrift	Zeitschrift	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[OS]|props:sname-psy|tf:MF
+2	Bertolt	Bertolt	_	PROPN-NE	Morph:asm|NE:B-PER|order:LK[V]MF[OS]|props:sname-psy|tf:MF
+3	Brecht	Brecht	_	PROPN-NE	Morph:asm|NE:I-PER|order:LK[V]MF[OS]|props:sname-psy|tf:MF
+4	die	die	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:sname-psy|tf:MF
+5	Zeitschrift	Zeitschrift	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[OS]|props:sname-psy|tf:MF
 6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[OS]|props:sname-psy|tf:UNK
 
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:sname-psy|tf:C
 2	die	die	_	DET-ART	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:sname-psy|tf:MF
 3	Zeitschrift	Zeitschrift	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:sname-psy|tf:MF
-4	Bertolt	Bertolt	_	PROPN-NE	Morph:nsm|NE:B-ORG|order:MF[SO]VC[V]|props:sname-psy|tf:MF
+4	Bertolt	Bertolt	_	PROPN-NE	Morph:asm|NE:B-ORG|order:MF[SO]VC[V]|props:sname-psy|tf:MF
 5	Brecht	Brecht	_	PROPN-NE	Morph:asm|NE:I-ORG|order:MF[SO]VC[V]|props:sname-psy|tf:MF
 6	ängstigt	ängstigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:sname-psy|tf:VC
 7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:sname-psy|tf:UNK
 
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[OS]VC[V]|props:sname-psy|tf:C
-2	Bertolt	Bertolt	_	PROPN-NE	Morph:nsm|NE:B-PER|order:MF[OS]VC[V]|props:sname-psy|tf:MF
-3	Brecht	Brecht	_	PROPN-NE	Morph:nsm|NE:I-PER|order:MF[OS]VC[V]|props:sname-psy|tf:MF
-4	die	die	_	DET-ART	Morph:asf|NE:O|order:MF[OS]VC[V]|props:sname-psy|tf:MF
-5	Zeitschrift	Zeitschrift	_	NOUN-NN	Morph:asf|NE:O|order:MF[OS]VC[V]|props:sname-psy|tf:MF
+2	Bertolt	Bertolt	_	PROPN-NE	Morph:asm|NE:B-PER|order:MF[OS]VC[V]|props:sname-psy|tf:MF
+3	Brecht	Brecht	_	PROPN-NE	Morph:asm|NE:I-PER|order:MF[OS]VC[V]|props:sname-psy|tf:MF
+4	die	die	_	DET-ART	Morph:nsf|NE:O|order:MF[OS]VC[V]|props:sname-psy|tf:MF
+5	Zeitschrift	Zeitschrift	_	NOUN-NN	Morph:nsf|NE:O|order:MF[OS]VC[V]|props:sname-psy|tf:MF
 6	ängstigt	ängstigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[OS]VC[V]|props:sname-psy|tf:VC
 7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:sname-psy|tf:UNK
 
-1	Bart	Bart	_	NOUN-NN	Morph:nsm|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:VF
-2	erstaunt	erstaunen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:LK
-3	Gillette	Gillette	_	PROPN-NE	Morph:asf|NE:B-PER|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:MF
-4	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:UNK
+1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:VF
+2	Gesichtsbehaarung	Gesichtsbehaarung	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:VF
+3	erstaunt	erstaunen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:LK
+4	Gillette	Gillette	_	PROPN-NE	Morph:asf|NE:B-PER|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:UNK
 
 1	Gillette	Gillette	_	PROPN-NE	Morph:nsf|NE:B-PER|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:VF
 2	erstaunt	erstaunen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:LK
-3	Bart	Bart	_	NOUN-NN	Morph:asm|NE:O|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:MF
-4	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:UNK
+3	die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:MF
+4	Gesichtsbehaarung	Gesichtsbehaarung	_	NOUN-NN	Morph:nsm|NE:O|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:UNK
 
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:VF
 2	erstaunt	erstaunen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:LK
-3	Bart	Bart	_	PROPN-NE	Morph:nsm|NE:B-PER|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:MF
-4	Gillette	Gillette	_	PROPN-NE	Morph:nsm|NE:I-PER|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:UNK
+3	die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:MF
+4	Gesichtsbehaarung	Gesichtsbehaarung	_	NOUN-NN	Morph:nsm|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:MF
+5	Gillette	Gillette	_	PROPN-NE	Morph:nsm|NE:I-PER|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:UNK
 
 1	Erstaunt	erstaunen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:sname-psy|tf:LK
-2	Bart	Bart	_	PROPN-NE	Morph:nsm|NE:B-PER|order:LK[V]MF[SO]|props:sname-psy|tf:MF
-3	Gillette	Gillette	_	PROPN-NE	Morph:nsm|NE:I-PER|order:LK[V]MF[SO]|props:sname-psy|tf:MF
-4	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:sname-psy|tf:UNK
+2	die	die	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:sname-psy|tf:MF
+3	Gesichtsbehaarung	Gesichtsbehaarung	_	NOUN-NN	Morph:nsm|NE:O|order:LK[V]MF[SO]|props:sname-psy|tf:MF
+4	Gillette	Gillette	_	PROPN-NE	Morph:nsm|NE:I-PER|order:LK[V]MF[SO]|props:sname-psy|tf:MF
+5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:sname-psy|tf:UNK
 
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:sname-psy|tf:C
-2	Bart	Bart	_	PROPN-NE	Morph:nsm|NE:B-PER|order:MF[SO]VC[V]|props:sname-psy|tf:MF
-3	Gillette	Gillette	_	PROPN-NE	Morph:nsm|NE:I-PER|order:MF[SO]VC[V]|props:sname-psy|tf:MF
-4	erstaunt	erstaunen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:sname-psy|tf:VC
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:sname-psy|tf:UNK
+2	die	die	_	DET-ART	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:sname-psy|tf:MF
+3	Gesichtsbehaarung	Gesichtsbehaarung	_	NOUN-NN	Morph:nsm|NE:O|order:MF[SO]VC[V]|props:sname-psy|tf:MF
+4	Gillette	Gillette	_	PROPN-NE	Morph:nsm|NE:I-PER|order:MF[SO]VC[V]|props:sname-psy|tf:MF
+5	erstaunt	erstaunen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:sname-psy|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:sname-psy|tf:UNK
 
 1	Kaffee	Kaffee	_	NOUN-NN	Morph:nsm|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:VF
 2	erfreut	erfreuen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:LK
@@ -26744,37 +26794,42 @@
 4	erfreut	erfreuen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[OS]VC[V]|props:sname-psy|tf:VC
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:sname-psy|tf:UNK
 
-1	Roman	Roman	_	NOUN-NN	Morph:nsm|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:VF
-2	frustriert	frustrieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:LK
-3	Günter	Günter	_	PROPN-NE	Morph:asm|NE:B-PER|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:MF
-4	Jauch	Jauch	_	PROPN-NE	Morph:asm|NE:I-PER|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:UNK
+1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:VF
+2	Erzählung	Erzählung	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:VF
+3	frustriert	frustrieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:LK
+4	Günter	Günter	_	PROPN-NE	Morph:asm|NE:B-PER|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:MF
+5	Jauch	Jauch	_	PROPN-NE	Morph:asm|NE:I-PER|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:UNK
 
 1	Günter	Günter	_	PROPN-NE	Morph:asm|NE:B-PER|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:VF
 2	Jauch	Jauch	_	PROPN-NE	Morph:asm|NE:I-PER|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:VF
 3	frustriert	frustrieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:LK
-4	Roman	Roman	_	NOUN-NN	Morph:nsm|NE:O|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:UNK
+4	die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:MF
+5	Erzählung	Erzählung	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:UNK
 
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:VF
 2	frustriert	frustrieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:LK
-3	Roman	Roman	_	PROPN-NE	Morph:nsm|NE:B-PER|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:MF
-4	Günter	Günter	_	PROPN-NE	Morph:asm|NE:B-PER|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:MF
-5	Jauch	Jauch	_	PROPN-NE	Morph:asm|NE:I-PER|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:UNK
+3	die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:MF
+4	Erzählung	Erzählung	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:MF
+5	Günter	Günter	_	PROPN-NE	Morph:asm|NE:B-PER|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:MF
+6	Jauch	Jauch	_	PROPN-NE	Morph:asm|NE:I-PER|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:MF
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:UNK
 
 1	Frustriert	frustrieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:sname-psy|tf:LK
-2	Roman	Roman	_	PROPN-NE	Morph:nsm|NE:B-PER|order:LK[V]MF[SO]|props:sname-psy|tf:MF
-3	Günter	Günter	_	PROPN-NE	Morph:asm|NE:B-PER|order:LK[V]MF[SO]|props:sname-psy|tf:MF
-4	Jauch	Jauch	_	PROPN-NE	Morph:asm|NE:I-PER|order:LK[V]MF[SO]|props:sname-psy|tf:MF
-5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:sname-psy|tf:UNK
+2	die	die	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:sname-psy|tf:MF
+3	Erzählung	Erzählung	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:sname-psy|tf:MF
+4	Günter	Günter	_	PROPN-NE	Morph:asm|NE:B-PER|order:LK[V]MF[SO]|props:sname-psy|tf:MF
+5	Jauch	Jauch	_	PROPN-NE	Morph:asm|NE:I-PER|order:LK[V]MF[SO]|props:sname-psy|tf:MF
+6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:sname-psy|tf:UNK
 
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:sname-psy|tf:C
-2	Roman	Roman	_	NOUN-NN	Morph:nsm|NE:O|order:MF[SO]VC[V]|props:sname-psy|tf:MF
-3	Günter	Günter	_	PROPN-NE	Morph:asm|NE:B-PER|order:MF[SO]VC[V]|props:sname-psy|tf:MF
-4	Jauch	Jauch	_	PROPN-NE	Morph:asm|NE:I-PER|order:MF[SO]VC[V]|props:sname-psy|tf:MF
-5	frustriert	frustrieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:sname-psy|tf:VC
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:sname-psy|tf:UNK
+2	die	die	_	DET-ART	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:sname-psy|tf:MF
+3	Erzählung	Erzählung	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:sname-psy|tf:MF
+4	Günter	Günter	_	PROPN-NE	Morph:asm|NE:B-PER|order:MF[SO]VC[V]|props:sname-psy|tf:MF
+5	Jauch	Jauch	_	PROPN-NE	Morph:asm|NE:I-PER|order:MF[SO]VC[V]|props:sname-psy|tf:MF
+6	frustriert	frustrieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:sname-psy|tf:VC
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:sname-psy|tf:UNK
 
 1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:VF
 2	Rede	Rede	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:VF
@@ -26932,32 +26987,37 @@
 5	beschämt	beschämen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[OS]VC[V]|props:sname-psy|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:sname-psy|tf:UNK
 
-1	Bauzaun	Bauzaun	_	NOUN-NN	Morph:nsm|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:VF
-2	reut	reuen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:LK
-3	Anke	Anke	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:MF
-4	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:UNK
+1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:VF
+2	Umzäunung	Umzäunung	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:VF
+3	reut	reuen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:LK
+4	Anke	Anke	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:UNK
 
-1	Anke	Anke	_	PROPN-NE	Morph:nsf|NE:B-PER|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:VF
+1	Anke	Anke	_	PROPN-NE	Morph:asf|NE:B-PER|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:VF
 2	reut	reuen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:LK
-3	Bauzaun	Bauzaun	_	NOUN-NN	Morph:asm|NE:O|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:MF
-4	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:UNK
+3	die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:MF
+4	Umzäunung	Umzäunung	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:sname-psy|tf:UNK
 
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:VF
 2	reut	reuen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:LK
-3	Bauzaun	Bauzaun	_	NOUN-NN	Morph:nsm|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:MF
-4	Anke	Anke	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:UNK
+3	die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:MF
+4	Umzäunung	Umzäunung	_	NOUN-NN	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:MF
+5	Anke	Anke	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-psy|tf:UNK
 
 1	Reut	reuen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:sname-psy|tf:LK
-2	Bauzaun	Bauzaun	_	NOUN-NN	Morph:nsm|NE:O|order:LK[V]MF[SO]|props:sname-psy|tf:MF
-3	Anke	Anke	_	PROPN-NE	Morph:asf|NE:B-PER|order:LK[V]MF[SO]|props:sname-psy|tf:MF
-4	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:sname-psy|tf:UNK
+2	die	die	_	DET-ART	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:sname-psy|tf:MF
+3	Umzäunung	Umzäunung	_	NOUN-NN	Morph:nsf|NE:O|order:LK[V]MF[SO]|props:sname-psy|tf:MF
+4	Anke	Anke	_	PROPN-NE	Morph:asf|NE:B-PER|order:LK[V]MF[SO]|props:sname-psy|tf:MF
+5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:sname-psy|tf:UNK
 
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:sname-psy|tf:C
-2	Bauzaun	Bauzaun	_	NOUN-NN	Morph:nsm|NE:O|order:MF[SO]VC[V]|props:sname-psy|tf:MF
-3	Anke	Anke	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:sname-psy|tf:MF
-4	reut	reuen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:sname-psy|tf:VC
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:sname-psy|tf:UNK
+2	die	die	_	DET-ART	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:sname-psy|tf:MF
+3	Umzäunung	Umzäunung	_	NOUN-NN	Morph:nsf|NE:O|order:MF[SO]VC[V]|props:sname-psy|tf:MF
+4	Anke	Anke	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:sname-psy|tf:MF
+5	reut	reuen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:sname-psy|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:sname-psy|tf:UNK
 
 1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:VF
 2	Tour	Tour	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:VF
@@ -35423,30 +35483,35 @@
 
 1	Siemens	Siemens	_	PROPN-NE	Morph:ns*|NE:B-ORG|order:VF[S]LK[V]MF[O]|props:sname-syn|tf:VF
 2	beginnt	beginnen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:sname-syn|tf:LK
-3	Angriff	Angriff	_	NOUN-NN	Morph:asm|NE:O|order:VF[S]LK[V]MF[O]|props:sname-syn|tf:MF
-4	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:sname-syn|tf:UNK
+3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:sname-syn|tf:MF
+4	Attacke	Attacke	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:sname-syn|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:sname-syn|tf:UNK
 
-1	Angriff	Angriff	_	NOUN-NN	Morph:asm|NE:O|order:VF[O]LK[V]MF[S]|props:sname-syn|tf:VF
-2	beginnt	beginnen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:sname-syn|tf:LK
-3	Siemens	Siemens	_	PROPN-NE	Morph:ns*|NE:B-ORG|order:VF[O]LK[V]MF[S]|props:sname-syn|tf:MF
-4	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:sname-syn|tf:UNK
+1	Eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:sname-syn|tf:VF
+2	Attacke	Attacke	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:sname-syn|tf:VF
+3	beginnt	beginnen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:sname-syn|tf:LK
+4	Siemens	Siemens	_	PROPN-NE	Morph:ns*|NE:B-ORG|order:VF[O]LK[V]MF[S]|props:sname-syn|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:sname-syn|tf:UNK
 
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-syn|tf:VF
 2	beginnt	beginnen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-syn|tf:LK
 3	Siemens	Siemens	_	PROPN-NE	Morph:ns*|NE:B-ORG|order:VF[ADV]LK[V]MF[SO]|props:sname-syn|tf:MF
-4	Angriff	Angriff	_	NOUN-NN	Morph:asm|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-syn|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-syn|tf:UNK
+4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-syn|tf:MF
+5	Attacke	Attacke	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-syn|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-syn|tf:UNK
 
 1	Beginnt	beginnen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:sname-syn|tf:LK
 2	Siemens	Siemens	_	PROPN-NE	Morph:ns*|NE:B-ORG|order:LK[V]MF[SO]|props:sname-syn|tf:MF
-3	Angriff	Angriff	_	NOUN-NN	Morph:asm|NE:O|order:LK[V]MF[SO]|props:sname-syn|tf:MF
-4	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:sname-syn|tf:UNK
+3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:sname-syn|tf:MF
+4	Attacke	Attacke	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:sname-syn|tf:MF
+5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:sname-syn|tf:UNK
 
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:sname-syn|tf:C
 2	Siemens	Siemens	_	PROPN-NE	Morph:ns*|NE:B-ORG|order:MF[SO]VC[V]|props:sname-syn|tf:MF
-3	Angriff	Angriff	_	NOUN-NN	Morph:asm|NE:O|order:MF[SO]VC[V]|props:sname-syn|tf:MF
-4	beginnt	beginnen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:sname-syn|tf:VC
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:sname-syn|tf:UNK
+3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:MF[SO]VC[V]|props:sname-syn|tf:MF
+4	Attacke	Attacke	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:sname-syn|tf:MF
+5	beginnt	beginnen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:sname-syn|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:sname-syn|tf:UNK
 
 1	Balazs	Balazs	_	PROPN-NE	Morph:nsm|NE:B-PER|order:VF[S]LK[V]MF[O]|props:sname-syn|tf:VF
 2	führt	führen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:sname-syn|tf:LK
@@ -35647,30 +35712,35 @@
 
 1	Gillette	Gillette	_	PROPN-NE	Morph:nsf|NE:B-PER|order:VF[S]LK[V]MF[O]|props:sname-syn|tf:VF
 2	stutzt	stutzen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:sname-syn|tf:LK
-3	Bart	Bart	_	NOUN-NN	Morph:asm|NE:O|order:VF[S]LK[V]MF[O]|props:sname-syn|tf:MF
-4	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:sname-syn|tf:UNK
+3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:sname-syn|tf:MF
+4	Gesichtsbehaarung	Gesichtsbehaarung	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:sname-syn|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:sname-syn|tf:UNK
 
-1	Bart	Bart	_	NOUN-NN	Morph:nsm|NE:O|order:VF[O]LK[V]MF[S]|props:sname-syn|tf:VF
-2	stutzt	stutzen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:sname-syn|tf:LK
-3	Gillette	Gillette	_	PROPN-NE	Morph:asf|NE:B-PER|order:VF[O]LK[V]MF[S]|props:sname-syn|tf:MF
-4	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:sname-syn|tf:UNK
+1	Eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:sname-syn|tf:VF
+2	Gesichtsbehaarung	Gesichtsbehaarung	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:sname-syn|tf:VF
+3	stutzt	stutzen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:sname-syn|tf:LK
+4	Gillette	Gillette	_	PROPN-NE	Morph:asf|NE:B-PER|order:VF[O]LK[V]MF[S]|props:sname-syn|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:sname-syn|tf:UNK
 
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-syn|tf:VF
 2	stutzt	stutzen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-syn|tf:LK
 3	Gillette	Gillette	_	PROPN-NE	Morph:nsf|NE:B-PER|order:VF[ADV]LK[V]MF[SO]|props:sname-syn|tf:MF
-4	Bart	Bart	_	NOUN-NN	Morph:asm|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-syn|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-syn|tf:UNK
+4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-syn|tf:MF
+5	Gesichtsbehaarung	Gesichtsbehaarung	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-syn|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-syn|tf:UNK
 
 1	Stutzt	stutzen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:sname-syn|tf:LK
 2	Gillette	Gillette	_	PROPN-NE	Morph:nsf|NE:B-PER|order:LK[V]MF[SO]|props:sname-syn|tf:MF
-3	Bart	Bart	_	NOUN-NN	Morph:asm|NE:O|order:LK[V]MF[SO]|props:sname-syn|tf:MF
-4	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:sname-syn|tf:UNK
+3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:sname-syn|tf:MF
+4	Gesichtsbehaarung	Gesichtsbehaarung	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:sname-syn|tf:MF
+5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:sname-syn|tf:UNK
 
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:sname-syn|tf:C
 2	Gillette	Gillette	_	PROPN-NE	Morph:nsf|NE:B-PER|order:MF[SO]VC[V]|props:sname-syn|tf:MF
-3	Bart	Bart	_	NOUN-NN	Morph:asm|NE:O|order:MF[SO]VC[V]|props:sname-syn|tf:MF
-4	stutzt	stutzen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:sname-syn|tf:VC
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:sname-syn|tf:UNK
+3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:MF[SO]VC[V]|props:sname-syn|tf:MF
+4	Gesichtsbehaarung	Gesichtsbehaarung	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:sname-syn|tf:MF
+5	stutzt	stutzen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:sname-syn|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:sname-syn|tf:UNK
 
 1	Clooney	Clooney	_	PROPN-NE	Morph:nsm|NE:B-PER|order:VF[S]LK[V]MF[O]|props:sname-syn|tf:VF
 2	schlürft	schlürfen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:sname-syn|tf:LK
@@ -35702,34 +35772,39 @@
 1	Bertolt	Bertolt	_	PROPN-NE	Morph:nsm|NE:B-PER|order:VF[S]LK[V]MF[O]|props:sname-syn|tf:VF
 2	Brecht	Brecht	_	PROPN-NE	Morph:nsm|NE:I-PER|order:VF[S]LK[V]MF[O]|props:sname-syn|tf:VF
 3	verfasst	verfassen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:sname-syn|tf:LK
-4	Roman	Roman	_	NOUN-NN	Morph:asm|NE:O|order:VF[S]LK[V]MF[O]|props:sname-syn|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:sname-syn|tf:UNK
+4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:sname-syn|tf:MF
+5	Erzählung	Erzählung	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:sname-syn|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:sname-syn|tf:UNK
 
-1	Roman	Roman	_	NOUN-NN	Morph:asm|NE:O|order:VF[O]LK[V]MF[S]|props:sname-syn|tf:VF
-2	verfasst	verfassen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:sname-syn|tf:LK
-3	Bertolt	Bertolt	_	PROPN-NE	Morph:nsm|NE:B-PER|order:VF[O]LK[V]MF[S]|props:sname-syn|tf:MF
-4	Brecht	Brecht	_	PROPN-NE	Morph:nsm|NE:I-PER|order:VF[O]LK[V]MF[S]|props:sname-syn|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:sname-syn|tf:UNK
+1	Eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:sname-syn|tf:VF
+2	Erzählung	Erzählung	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:sname-syn|tf:VF
+3	verfasst	verfassen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:sname-syn|tf:LK
+4	Bertolt	Bertolt	_	PROPN-NE	Morph:nsm|NE:B-PER|order:VF[O]LK[V]MF[S]|props:sname-syn|tf:MF
+5	Brecht	Brecht	_	PROPN-NE	Morph:nsm|NE:I-PER|order:VF[O]LK[V]MF[S]|props:sname-syn|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:sname-syn|tf:UNK
 
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-syn|tf:VF
 2	verfasst	verfassen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-syn|tf:LK
 3	Bertolt	Bertolt	_	PROPN-NE	Morph:nsm|NE:B-PER|order:VF[ADV]LK[V]MF[SO]|props:sname-syn|tf:MF
 4	Brecht	Brecht	_	PROPN-NE	Morph:nsm|NE:I-PER|order:VF[ADV]LK[V]MF[SO]|props:sname-syn|tf:MF
-5	Roman	Roman	_	NOUN-NN	Morph:asm|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-syn|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-syn|tf:UNK
+5	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-syn|tf:MF
+6	Erzählung	Erzählung	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-syn|tf:MF
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-syn|tf:UNK
 
 1	Verfasst	verfassen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:sname-syn|tf:LK
 2	Bertolt	Bertolt	_	PROPN-NE	Morph:nsm|NE:B-PER|order:LK[V]MF[SO]|props:sname-syn|tf:MF
 3	Brecht	Brecht	_	PROPN-NE	Morph:nsm|NE:I-PER|order:LK[V]MF[SO]|props:sname-syn|tf:MF
-4	Roman	Roman	_	NOUN-NN	Morph:asm|NE:O|order:LK[V]MF[SO]|props:sname-syn|tf:MF
-5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:sname-syn|tf:UNK
+4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:sname-syn|tf:MF
+5	Erzählung	Erzählung	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:sname-syn|tf:MF
+6	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:sname-syn|tf:UNK
 
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:sname-syn|tf:C
 2	Bertolt	Bertolt	_	PROPN-NE	Morph:nsm|NE:B-PER|order:MF[SO]VC[V]|props:sname-syn|tf:MF
 3	Brecht	Brecht	_	PROPN-NE	Morph:nsm|NE:I-PER|order:MF[SO]VC[V]|props:sname-syn|tf:MF
-4	Roman	Roman	_	NOUN-NN	Morph:asm|NE:O|order:MF[SO]VC[V]|props:sname-syn|tf:MF
-5	verfasst	verfassen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:sname-syn|tf:VC
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:sname-syn|tf:UNK
+4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:MF[SO]VC[V]|props:sname-syn|tf:MF
+5	Erzählung	Erzählung	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:sname-syn|tf:MF
+6	verfasst	verfassen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:sname-syn|tf:VC
+7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:sname-syn|tf:UNK
 
 1	Merkel	Merkel	_	PROPN-NE	Morph:nsf|NE:B-PER|order:VF[S]LK[V]MF[O]|props:sname-syn|tf:VF
 2	beendigt	beendigen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:sname-syn|tf:LK
@@ -35797,30 +35872,35 @@
 
 1	Anke	Anke	_	PROPN-NE	Morph:nsf|NE:B-PER|order:VF[S]LK[V]MF[O]|props:sname-syn|tf:VF
 2	errichtet	errichten	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:sname-syn|tf:LK
-3	Bauzaun	Bauzaun	_	NOUN-NN	Morph:asm|NE:O|order:VF[S]LK[V]MF[O]|props:sname-syn|tf:MF
-4	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:sname-syn|tf:UNK
+3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:sname-syn|tf:MF
+4	Umzäunung	Umzäunung	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:sname-syn|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:sname-syn|tf:UNK
 
-1	Bauzaun	Bauzaun	_	PROPN-NN	Morph:nsm|NE:B-ORG|order:VF[O]LK[V]MF[S]|props:sname-syn|tf:VF
-2	errichtet	errichten	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:sname-syn|tf:LK
-3	Anke	Anke	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:sname-syn|tf:MF
-4	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:sname-syn|tf:UNK
+1	Eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:sname-syn|tf:VF
+2	Umzäunung	Umzäunung	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:sname-syn|tf:VF
+3	errichtet	errichten	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:sname-syn|tf:LK
+4	Anke	Anke	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:sname-syn|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:sname-syn|tf:UNK
 
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-syn|tf:VF
 2	errichtet	errichten	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-syn|tf:LK
 3	Anke	Anke	_	PROPN-NE	Morph:nsf|NE:B-PER|order:VF[ADV]LK[V]MF[SO]|props:sname-syn|tf:MF
-4	Bauzaun	Bauzaun	_	NOUN-NN	Morph:asm|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-syn|tf:MF
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-syn|tf:UNK
+4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-syn|tf:MF
+5	Umzäunung	Umzäunung	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-syn|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:sname-syn|tf:UNK
 
 1	Errichtet	errichten	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:sname-syn|tf:LK
 2	Anke	Anke	_	PROPN-NE	Morph:nsf|NE:B-PER|order:LK[V]MF[SO]|props:sname-syn|tf:MF
-3	Bauzaun	Bauzaun	_	NOUN-NN	Morph:asm|NE:O|order:LK[V]MF[SO]|props:sname-syn|tf:MF
-4	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:sname-syn|tf:UNK
+3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:sname-syn|tf:MF
+4	Umzäunung	Umzäunung	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:sname-syn|tf:MF
+5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:sname-syn|tf:UNK
 
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:sname-syn|tf:C
 2	Anke	Anke	_	PROPN-NE	Morph:nsf|NE:B-PER|order:MF[SO]VC[V]|props:sname-syn|tf:MF
-3	Bauzaun	Bauzaun	_	NOUN-NN	Morph:asm|NE:O|order:MF[SO]VC[V]|props:sname-syn|tf:MF
-4	errichtet	errichten	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:sname-syn|tf:VC
-5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:sname-syn|tf:UNK
+3	eine	eine	_	DET-ART	Morph:asf|NE:O|order:MF[SO]VC[V]|props:sname-syn|tf:MF
+4	Umzäunung	Umzäunung	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:sname-syn|tf:MF
+5	errichtet	errichten	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:sname-syn|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:sname-syn|tf:UNK
 
 1	Bonn	Bonn	_	PROPN-NE	Morph:nsn|NE:B-GPE|order:VF[S]LK[V]MF[O]|props:sname-syn|tf:VF
 2	erringt	erringen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:sname-syn|tf:LK
@@ -45271,16 +45351,18 @@
 3	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:MF
 4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:MF
 5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:MF
-6	Angriff	Angriff	_	NOUN-NN	Morph:asm|NE:O|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:MF
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:UNK
+6	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:MF
+7	Attacke	Attacke	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:MF
+8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:UNK
 
-1	Angriff	Angriff	_	NOUN-NN	Morph:nsm|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:VF
-2	startet	starten	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:LK
-3	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:MF
-4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:MF
-5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:MF
-6	Siemens	Siemens	_	PROPN-NE	Morph:ns*|NE:B-ORG|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:MF
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:UNK
+1	Eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:VF
+2	Attacke	Attacke	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:VF
+3	startet	starten	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:LK
+4	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:MF
+5	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:MF
+6	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:MF
+7	Siemens	Siemens	_	PROPN-NE	Morph:ns*|NE:B-ORG|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:MF
+8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:UNK
 
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:VF
 2	startet	starten	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:LK
@@ -45288,25 +45370,28 @@
 4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:MF
 5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:MF
 6	Siemens	Siemens	_	PROPN-NE	Morph:ns*|NE:B-ORG|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:MF
-7	Angriff	Angriff	_	NOUN-NN	Morph:asm|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:MF
-8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:UNK
+7	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:MF
+8	Attacke	Attacke	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:MF
+9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:UNK
 
 1	Startet	starten	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:pp-sname|tf:LK
 2	in	in	_	ADP-APPR	Morph:d|NE:O|order:LK[V]MF[SO]|props:pp-sname|tf:MF
 3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-sname|tf:MF
 4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-sname|tf:MF
 5	Siemens	Siemens	_	PROPN-NE	Morph:ns*|NE:B-ORG|order:LK[V]MF[SO]|props:pp-sname|tf:MF
-6	Angriff	Angriff	_	NOUN-NN	Morph:asm|NE:O|order:LK[V]MF[SO]|props:pp-sname|tf:MF
-7	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:pp-sname|tf:UNK
+6	eine	eine	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:pp-sname|tf:MF
+7	Attacke	Attacke	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:pp-sname|tf:MF
+8	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:pp-sname|tf:UNK
 
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:C
 2	in	in	_	ADP-APPR	Morph:d|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:MF
 3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:MF
 4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:MF
 5	Siemens	Siemens	_	PROPN-NE	Morph:ns*|NE:B-ORG|order:MF[SO]VC[V]|props:pp-sname|tf:MF
-6	Angriff	Angriff	_	NOUN-NN	Morph:asm|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:MF
-7	startet	starten	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:VC
-8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:UNK
+6	eine	eine	_	DET-ART	Morph:asf|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:MF
+7	Attacke	Attacke	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:MF
+8	startet	starten	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:VC
+9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:UNK
 
 1	Balazs	Balazs	_	PROPN-NE	Morph:nsm|NE:B-PER|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:VF
 2	lebt	leben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:LK
@@ -45600,16 +45685,18 @@
 3	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:MF
 4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:MF
 5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:MF
-6	Bart	Bart	_	NOUN-NN	Morph:asm|NE:O|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:MF
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:UNK
+6	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:MF
+7	Gesichtsbehaarung	Gesichtsbehaarung	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:MF
+8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:UNK
 
-1	Bart	Bart	_	NOUN-NN	Morph:nsm|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:VF
-2	rasiert	rasieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:LK
-3	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:MF
-4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:MF
-5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:MF
-6	Gillette	Gillette	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:MF
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:UNK
+1	Eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:VF
+2	Gesichtsbehaarung	Gesichtsbehaarung	_	NOUN-NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:VF
+3	rasiert	rasieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:LK
+4	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:MF
+5	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:MF
+6	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:MF
+7	Gillette	Gillette	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:MF
+8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:UNK
 
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:VF
 2	rasiert	rasieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:LK
@@ -45617,25 +45704,28 @@
 4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:MF
 5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:MF
 6	Gillette	Gillette	_	PROPN-NE	Morph:nsf|NE:B-PER|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:MF
-7	Bart	Bart	_	NOUN-NN	Morph:asm|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:MF
-8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:UNK
+7	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:MF
+8	Gesichtsbehaarung	Gesichtsbehaarung	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:MF
+9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:UNK
 
 1	Rasiert	rasieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:pp-sname|tf:LK
 2	in	in	_	ADP-APPR	Morph:d|NE:O|order:LK[V]MF[SO]|props:pp-sname|tf:MF
 3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-sname|tf:MF
 4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-sname|tf:MF
 5	Gillette	Gillette	_	PROPN-NE	Morph:nsf|NE:B-PER|order:LK[V]MF[SO]|props:pp-sname|tf:MF
-6	Bart	Bart	_	PROPN-NE	Morph:asm|NE:I-PER|order:LK[V]MF[SO]|props:pp-sname|tf:MF
-7	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:pp-sname|tf:UNK
+6	eine	eine	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:pp-sname|tf:MF
+7	Gesichtsbehaarung	Gesichtsbehaarung	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:pp-sname|tf:MF
+8	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:pp-sname|tf:UNK
 
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:C
 2	in	in	_	ADP-APPR	Morph:d|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:MF
 3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:MF
 4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:MF
 5	Gillette	Gillette	_	PROPN-NE	Morph:nsf|NE:B-PER|order:MF[SO]VC[V]|props:pp-sname|tf:MF
-6	Bart	Bart	_	NOUN-NN	Morph:asm|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:MF
-7	rasiert	rasieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:VC
-8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:UNK
+6	eine	eine	_	DET-ART	Morph:asf|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:MF
+7	Gesichtsbehaarung	Gesichtsbehaarung	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:MF
+8	rasiert	rasieren	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:VC
+9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:UNK
 
 1	Clooney	Clooney	_	PROPN-NE	Morph:nsm|NE:B-PER|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:VF
 2	trinkt	trinken	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:LK
@@ -45685,17 +45775,19 @@
 4	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:MF
 5	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:MF
 6	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:MF
-7	Roman	Roman	_	NOUN-NN	Morph:asm|NE:O|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:MF
-8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:UNK
+7	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:MF
+8	Erzählung	Erzählung	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:MF
+9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:UNK
 
-1	Roman	Roman	_	NOUN-NN	Morph:asm|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:VF
-2	schreibt	schreiben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:LK
-3	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:MF
-4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:MF
-5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:MF
-6	Bertolt	Bertolt	_	PROPN-NE	Morph:nsm|NE:B-PER|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:MF
-7	Brecht	Brecht	_	PROPN-NE	Morph:nsm|NE:I-PER|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:MF
-8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:UNK
+1	Eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:VF
+2	Erzählung	Erzählung	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:VF
+3	schreibt	schreiben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:LK
+4	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:MF
+5	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:MF
+6	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:MF
+7	Bertolt	Bertolt	_	PROPN-NE	Morph:nsm|NE:B-PER|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:MF
+8	Brecht	Brecht	_	PROPN-NE	Morph:nsm|NE:I-PER|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:MF
+9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:UNK
 
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:VF
 2	schreibt	schreiben	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:LK
@@ -45704,8 +45796,9 @@
 5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:MF
 6	Bertolt	Bertolt	_	PROPN-NE	Morph:nsm|NE:B-PER|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:MF
 7	Brecht	Brecht	_	PROPN-NE	Morph:nsm|NE:I-PER|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:MF
-8	Roman	Roman	_	NOUN-NN	Morph:asm|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:MF
-9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:UNK
+8	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:MF
+9	Erzählung	Erzählung	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:MF
+10	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:UNK
 
 1	Schreibt	schreiben	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:pp-sname|tf:LK
 2	in	in	_	ADP-APPR	Morph:d|NE:O|order:LK[V]MF[SO]|props:pp-sname|tf:MF
@@ -45713,8 +45806,9 @@
 4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-sname|tf:MF
 5	Bertolt	Bertolt	_	PROPN-NE	Morph:nsm|NE:B-PER|order:LK[V]MF[SO]|props:pp-sname|tf:MF
 6	Brecht	Brecht	_	PROPN-NE	Morph:nsm|NE:I-PER|order:LK[V]MF[SO]|props:pp-sname|tf:MF
-7	Roman	Roman	_	NOUN-NN	Morph:asm|NE:O|order:LK[V]MF[SO]|props:pp-sname|tf:MF
-8	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:pp-sname|tf:UNK
+7	eine	eine	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:pp-sname|tf:MF
+8	Erzählung	Erzählung	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:pp-sname|tf:MF
+9	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:pp-sname|tf:UNK
 
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:C
 2	in	in	_	ADP-APPR	Morph:d|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:MF
@@ -45722,9 +45816,10 @@
 4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:MF
 5	Bertolt	Bertolt	_	PROPN-NE	Morph:nsm|NE:B-PER|order:MF[SO]VC[V]|props:pp-sname|tf:MF
 6	Brecht	Brecht	_	PROPN-NE	Morph:nsm|NE:I-PER|order:MF[SO]VC[V]|props:pp-sname|tf:MF
-7	Roman	Roman	_	NOUN-NN	Morph:asm|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:MF
-8	schreibt	schreiben	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:VC
-9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:UNK
+7	eine	eine	_	DET-ART	Morph:asf|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:MF
+8	Erzählung	Erzählung	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:MF
+9	schreibt	schreiben	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:VC
+10	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:UNK
 
 1	Merkel	Merkel	_	PROPN-NE	Morph:nsf|NE:B-PER|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:VF
 2	beendet	beenden	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:LK
@@ -45825,16 +45920,18 @@
 3	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:MF
 4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:MF
 5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:MF
-6	Bauzaun	Bauzaun	_	NOUN-NN	Morph:asm|NE:O|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:MF
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:UNK
+6	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:MF
+7	Umzäunung	Umzäunung	_	NOUN-NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:MF
+8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:UNK
 
-1	Bauzaun	Bauzaun	_	NOUN-NN	Morph:nsm|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:VF
-2	zieht	ziehen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:LK
-3	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:MF
-4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:MF
-5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:MF
-6	Anke	Anke	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:MF
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:UNK
+1	Eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:VF
+2	Umzäunung	Umzäunung	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:VF
+3	zieht	ziehen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:LK
+4	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:MF
+5	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:MF
+6	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:MF
+7	Anke	Anke	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:MF
+8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:pp-sname|tf:UNK
 
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:VF
 2	zieht	ziehen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:LK
@@ -45842,25 +45939,28 @@
 4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:MF
 5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:MF
 6	Anke	Anke	_	PROPN-NE	Morph:nsf|NE:B-PER|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:MF
-7	Bauzaun	Bauzaun	_	NOUN-NN	Morph:asm|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:MF
-8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:UNK
+7	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:MF
+8	Umzäunung	Umzäunung	_	NOUN-NN	Morph:asf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:MF
+9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-sname|tf:UNK
 
 1	Zieht	ziehen	_	VERB-VVFIN	Morph:3sis|NE:O|order:LK[V]MF[SO]|props:pp-sname|tf:LK
 2	in	in	_	ADP-APPR	Morph:d|NE:O|order:LK[V]MF[SO]|props:pp-sname|tf:MF
 3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-sname|tf:MF
 4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-sname|tf:MF
 5	Anke	Anke	_	PROPN-NE	Morph:nsf|NE:B-PER|order:LK[V]MF[SO]|props:pp-sname|tf:MF
-6	Bauzaun	Bauzaun	_	NOUN-NN	Morph:asm|NE:O|order:LK[V]MF[SO]|props:pp-sname|tf:MF
-7	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:pp-sname|tf:UNK
+6	eine	eine	_	DET-ART	Morph:asf|NE:O|order:LK[V]MF[SO]|props:pp-sname|tf:MF
+7	Umzäunung	Umzäunung	_	NOUN-NN	Morph:asf|NE:O|order:LK[V]MF[SO]|props:pp-sname|tf:MF
+8	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:pp-sname|tf:UNK
 
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:C
 2	in	in	_	ADP-APPR	Morph:d|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:MF
 3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:MF
 4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:MF
 5	Anke	Anke	_	PROPN-NE	Morph:nsf|NE:B-PER|order:MF[SO]VC[V]|props:pp-sname|tf:MF
-6	Bauzaun	Bauzaun	_	NOUN-NN	Morph:asm|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:MF
-7	zieht	ziehen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:VC
-8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:UNK
+6	eine	eine	_	DET-ART	Morph:asf|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:MF
+7	Umzäunung	Umzäunung	_	NOUN-NN	Morph:asf|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:MF
+8	zieht	ziehen	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:VC
+9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-sname|tf:UNK
 
 1	Bonn	Bonn	_	PROPN-NE	Morph:nsn|NE:B-GPE|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:VF
 2	gewinnt	gewinnen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:pp-sname|tf:LK

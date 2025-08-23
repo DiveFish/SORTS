@@ -15220,30 +15220,35 @@
 
 1	Siemens	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	2	nsubj	_	_
 2	startet	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	0	root	_	_
-3	Angriff	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	2	obj	_	_
-4	.	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	2	punct	_	_
+3	eine	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	4	det	_	_
+4	Attacke	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	2	obj	_	_
+5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	2	punct	_	_
 
-1	Angriff	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	2	obj	_	_
-2	startet	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	0	root	_	_
-3	Siemens	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	2	nsubj	_	_
-4	.	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	2	punct	_	_
+1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	2	det	_	_
+2	Attacke	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	3	obj	_	_
+3	startet	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	0	root	_	_
+4	Siemens	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	3	nsubj	_	_
+5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	3	punct	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	2	advmod	_	_
 2	startet	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	0	root	_	_
 3	Siemens	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	2	nsubj	_	_
-4	Angriff	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	2	obj	_	_
-5	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	2	punct	_	_
+4	eine	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	5	det	_	_
+5	Attacke	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	2	obj	_	_
+6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	2	punct	_	_
 
 1	Startet	_	_	_	order:LK[V]MF[SO]|props:base-sname	0	root	_	_
 2	Siemens	_	_	_	order:LK[V]MF[SO]|props:base-sname	1	nsubj	_	_
-3	Angriff	_	_	_	order:LK[V]MF[SO]|props:base-sname	1	obj	_	_
-4	?	_	_	_	order:LK[V]MF[SO]|props:base-sname	1	punct	_	_
+3	eine	_	_	_	order:LK[V]MF[SO]|props:base-sname	4	det	_	_
+4	Attacke	_	_	_	order:LK[V]MF[SO]|props:base-sname	1	obj	_	_
+5	?	_	_	_	order:LK[V]MF[SO]|props:base-sname	1	punct	_	_
 
-1	Weil	_	_	_	order:MF[SO]VC[V]|props:base-sname	4	mark	_	_
-2	Siemens	_	_	_	order:MF[SO]VC[V]|props:base-sname	4	nsubj	_	_
-3	Angriff	_	_	_	order:MF[SO]VC[V]|props:base-sname	4	obj	_	_
-4	startet	_	_	_	order:MF[SO]VC[V]|props:base-sname	0	root	_	_
-5	.	_	_	_	order:MF[SO]VC[V]|props:base-sname	4	punct	_	_
+1	Weil	_	_	_	order:MF[SO]VC[V]|props:base-sname	5	mark	_	_
+2	Siemens	_	_	_	order:MF[SO]VC[V]|props:base-sname	5	nsubj	_	_
+3	eine	_	_	_	order:MF[SO]VC[V]|props:base-sname	4	det	_	_
+4	Attacke	_	_	_	order:MF[SO]VC[V]|props:base-sname	5	obj	_	_
+5	startet	_	_	_	order:MF[SO]VC[V]|props:base-sname	0	root	_	_
+6	.	_	_	_	order:MF[SO]VC[V]|props:base-sname	5	punct	_	_
 
 1	Balazs	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	2	nsubj	_	_
 2	lebt	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	0	root	_	_
@@ -15444,30 +15449,35 @@
 
 1	Gillette	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	2	nsubj	_	_
 2	rasiert	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	0	root	_	_
-3	Bart	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	2	obj	_	_
-4	.	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	2	punct	_	_
+3	eine	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	4	det	_	_
+4	Gesichtsbehaarung	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	2	obj	_	_
+5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	2	punct	_	_
 
-1	Bart	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	2	obj	_	_
-2	rasiert	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	0	root	_	_
-3	Gillette	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	2	nsubj	_	_
-4	.	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	2	punct	_	_
+1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	2	det	_	_
+2	Gesichtsbehaarung	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	3	obj	_	_
+3	rasiert	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	0	root	_	_
+4	Gillette	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	3	nsubj	_	_
+5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	3	punct	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	2	advmod	_	_
 2	rasiert	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	0	root	_	_
 3	Gillette	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	2	nsubj	_	_
-4	Bart	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	2	obj	_	_
-5	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	2	punct	_	_
+4	eine	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	5	det	_	_
+5	Gesichtsbehaarung	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	2	obj	_	_
+6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	2	punct	_	_
 
 1	Rasiert	_	_	_	order:LK[V]MF[SO]|props:base-sname	0	root	_	_
 2	Gillette	_	_	_	order:LK[V]MF[SO]|props:base-sname	1	nsubj	_	_
-3	Bart	_	_	_	order:LK[V]MF[SO]|props:base-sname	1	obj	_	_
-4	?	_	_	_	order:LK[V]MF[SO]|props:base-sname	1	punct	_	_
+3	eine	_	_	_	order:LK[V]MF[SO]|props:base-sname	4	det	_	_
+4	Gesichtsbehaarung	_	_	_	order:LK[V]MF[SO]|props:base-sname	1	obj	_	_
+5	?	_	_	_	order:LK[V]MF[SO]|props:base-sname	1	punct	_	_
 
-1	Weil	_	_	_	order:MF[SO]VC[V]|props:base-sname	4	mark	_	_
-2	Gillette	_	_	_	order:MF[SO]VC[V]|props:base-sname	4	nsubj	_	_
-3	Bart	_	_	_	order:MF[SO]VC[V]|props:base-sname	4	obj	_	_
-4	rasiert	_	_	_	order:MF[SO]VC[V]|props:base-sname	0	root	_	_
-5	.	_	_	_	order:MF[SO]VC[V]|props:base-sname	4	punct	_	_
+1	Weil	_	_	_	order:MF[SO]VC[V]|props:base-sname	5	mark	_	_
+2	Gillette	_	_	_	order:MF[SO]VC[V]|props:base-sname	5	nsubj	_	_
+3	eine	_	_	_	order:MF[SO]VC[V]|props:base-sname	4	det	_	_
+4	Gesichtsbehaarung	_	_	_	order:MF[SO]VC[V]|props:base-sname	5	obj	_	_
+5	rasiert	_	_	_	order:MF[SO]VC[V]|props:base-sname	0	root	_	_
+6	.	_	_	_	order:MF[SO]VC[V]|props:base-sname	5	punct	_	_
 
 1	Clooney	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	2	nsubj	_	_
 2	trinkt	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	0	root	_	_
@@ -15499,34 +15509,39 @@
 1	Bertolt	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	3	nsubj	_	_
 2	Brecht	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	1	flat	_	_
 3	schreibt	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	0	root	_	_
-4	Roman	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	3	obj	_	_
-5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	3	punct	_	_
+4	eine	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	5	det	_	_
+5	Erzählung	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	3	obj	_	_
+6	.	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	3	punct	_	_
 
-1	Roman	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	2	obj	_	_
-2	schreibt	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	0	root	_	_
-3	Bertolt	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	2	nsubj	_	_
-4	Brecht	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	3	flat	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	2	punct	_	_
+1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	2	det	_	_
+2	Erzählung	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	3	obj	_	_
+3	schreibt	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	0	root	_	_
+4	Bertolt	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	3	nsubj	_	_
+5	Brecht	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	4	flat	_	_
+6	.	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	3	punct	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	2	advmod	_	_
 2	schreibt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	0	root	_	_
 3	Bertolt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	2	nsubj	_	_
 4	Brecht	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	3	flat	_	_
-5	Roman	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	2	obj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	2	punct	_	_
+5	eine	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	6	det	_	_
+6	Erzählung	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	2	obj	_	_
+7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	2	punct	_	_
 
 1	Schreibt	_	_	_	order:LK[V]MF[SO]|props:base-sname	0	root	_	_
 2	Bertolt	_	_	_	order:LK[V]MF[SO]|props:base-sname	1	nsubj	_	_
 3	Brecht	_	_	_	order:LK[V]MF[SO]|props:base-sname	2	flat	_	_
-4	Roman	_	_	_	order:LK[V]MF[SO]|props:base-sname	1	obj	_	_
-5	?	_	_	_	order:LK[V]MF[SO]|props:base-sname	1	punct	_	_
+4	eine	_	_	_	order:LK[V]MF[SO]|props:base-sname	5	det	_	_
+5	Erzählung	_	_	_	order:LK[V]MF[SO]|props:base-sname	1	obj	_	_
+6	?	_	_	_	order:LK[V]MF[SO]|props:base-sname	1	punct	_	_
 
-1	Weil	_	_	_	order:MF[SO]VC[V]|props:base-sname	5	mark	_	_
-2	Bertolt	_	_	_	order:MF[SO]VC[V]|props:base-sname	5	nsubj	_	_
+1	Weil	_	_	_	order:MF[SO]VC[V]|props:base-sname	6	mark	_	_
+2	Bertolt	_	_	_	order:MF[SO]VC[V]|props:base-sname	6	nsubj	_	_
 3	Brecht	_	_	_	order:MF[SO]VC[V]|props:base-sname	2	flat	_	_
-4	Roman	_	_	_	order:MF[SO]VC[V]|props:base-sname	5	obj	_	_
-5	schreibt	_	_	_	order:MF[SO]VC[V]|props:base-sname	0	root	_	_
-6	.	_	_	_	order:MF[SO]VC[V]|props:base-sname	5	punct	_	_
+4	eine	_	_	_	order:MF[SO]VC[V]|props:base-sname	5	det	_	_
+5	Erzählung	_	_	_	order:MF[SO]VC[V]|props:base-sname	6	obj	_	_
+6	schreibt	_	_	_	order:MF[SO]VC[V]|props:base-sname	0	root	_	_
+7	.	_	_	_	order:MF[SO]VC[V]|props:base-sname	6	punct	_	_
 
 1	Merkel	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	2	nsubj	_	_
 2	beendet	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	0	root	_	_
@@ -15594,30 +15609,35 @@
 
 1	Anke	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	2	nsubj	_	_
 2	zieht	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	0	root	_	_
-3	Bauzaun	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	2	obj	_	_
-4	.	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	2	punct	_	_
+3	eine	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	4	det	_	_
+4	Umzäunung	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	2	obj	_	_
+5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	2	punct	_	_
 
-1	Bauzaun	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	2	obj	_	_
-2	zieht	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	0	root	_	_
-3	Anke	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	2	nsubj	_	_
-4	.	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	2	punct	_	_
+1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	2	det	_	_
+2	Umzäunung	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	3	obj	_	_
+3	zieht	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	0	root	_	_
+4	Anke	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	3	nsubj	_	_
+5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:base-sname	3	punct	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	2	advmod	_	_
 2	zieht	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	0	root	_	_
 3	Anke	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	2	nsubj	_	_
-4	Bauzaun	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	2	obj	_	_
-5	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	2	punct	_	_
+4	eine	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	5	det	_	_
+5	Umzäunung	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	2	obj	_	_
+6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:base-sname	2	punct	_	_
 
 1	Zieht	_	_	_	order:LK[V]MF[SO]|props:base-sname	0	root	_	_
 2	Anke	_	_	_	order:LK[V]MF[SO]|props:base-sname	1	nsubj	_	_
-3	Bauzaun	_	_	_	order:LK[V]MF[SO]|props:base-sname	1	obj	_	_
-4	?	_	_	_	order:LK[V]MF[SO]|props:base-sname	1	punct	_	_
+3	eine	_	_	_	order:LK[V]MF[SO]|props:base-sname	4	det	_	_
+4	Umzäunung	_	_	_	order:LK[V]MF[SO]|props:base-sname	1	obj	_	_
+5	?	_	_	_	order:LK[V]MF[SO]|props:base-sname	1	punct	_	_
 
-1	Weil	_	_	_	order:MF[SO]VC[V]|props:base-sname	4	mark	_	_
-2	Anke	_	_	_	order:MF[SO]VC[V]|props:base-sname	4	nsubj	_	_
-3	Bauzaun	_	_	_	order:MF[SO]VC[V]|props:base-sname	4	obj	_	_
-4	zieht	_	_	_	order:MF[SO]VC[V]|props:base-sname	0	root	_	_
-5	.	_	_	_	order:MF[SO]VC[V]|props:base-sname	4	punct	_	_
+1	Weil	_	_	_	order:MF[SO]VC[V]|props:base-sname	5	mark	_	_
+2	Anke	_	_	_	order:MF[SO]VC[V]|props:base-sname	5	nsubj	_	_
+3	eine	_	_	_	order:MF[SO]VC[V]|props:base-sname	4	det	_	_
+4	Umzäunung	_	_	_	order:MF[SO]VC[V]|props:base-sname	5	obj	_	_
+5	zieht	_	_	_	order:MF[SO]VC[V]|props:base-sname	0	root	_	_
+6	.	_	_	_	order:MF[SO]VC[V]|props:base-sname	5	punct	_	_
 
 1	Bonn	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	2	nsubj	_	_
 2	gewinnt	_	_	_	order:VF[S]LK[V]MF[O]|props:base-sname	0	root	_	_
@@ -15683,37 +15703,42 @@
 5	übernimmt	_	_	_	order:MF[SO]VC[V]|props:base-sname	0	root	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:base-sname	5	punct	_	_
 
-1	Siemens	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	4	nsubj	_	_
-2	wird	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	4	aux	_	_
-3	Angriff	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	4	obj	_	_
-4	starten	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	0	root	_	_
-5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	4	punct	_	_
+1	Siemens	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	5	nsubj	_	_
+2	wird	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	5	aux	_	_
+3	eine	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	4	det	_	_
+4	Attacke	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	5	obj	_	_
+5	starten	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	0	root	_	_
+6	.	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	5	punct	_	_
 
-1	Angriff	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	4	obj	_	_
-2	wird	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	4	aux	_	_
-3	Siemens	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	4	nsubj	_	_
-4	starten	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	0	root	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	4	punct	_	_
+1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	2	det	_	_
+2	Attacke	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	5	obj	_	_
+3	wird	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	5	aux	_	_
+4	Siemens	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	5	nsubj	_	_
+5	starten	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	0	root	_	_
+6	.	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	5	punct	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	5	advmod	_	_
-2	wird	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	5	aux	_	_
-3	Siemens	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	5	nsubj	_	_
-4	Angriff	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	5	obj	_	_
-5	starten	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	0	root	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	5	punct	_	_
+1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	6	advmod	_	_
+2	wird	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	6	aux	_	_
+3	Siemens	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	6	nsubj	_	_
+4	eine	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	5	det	_	_
+5	Attacke	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	6	obj	_	_
+6	starten	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	0	root	_	_
+7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	6	punct	_	_
 
-1	Wird	_	_	_	order:LK[V]MF[SO]|props:aux-sname	4	aux	_	_
-2	Siemens	_	_	_	order:LK[V]MF[SO]|props:aux-sname	4	nsubj	_	_
-3	Angriff	_	_	_	order:LK[V]MF[SO]|props:aux-sname	4	obj	_	_
-4	starten	_	_	_	order:LK[V]MF[SO]|props:aux-sname	0	root	_	_
-5	?	_	_	_	order:LK[V]MF[SO]|props:aux-sname	4	punct	_	_
+1	Wird	_	_	_	order:LK[V]MF[SO]|props:aux-sname	5	aux	_	_
+2	Siemens	_	_	_	order:LK[V]MF[SO]|props:aux-sname	5	nsubj	_	_
+3	eine	_	_	_	order:LK[V]MF[SO]|props:aux-sname	4	det	_	_
+4	Attacke	_	_	_	order:LK[V]MF[SO]|props:aux-sname	5	obj	_	_
+5	starten	_	_	_	order:LK[V]MF[SO]|props:aux-sname	0	root	_	_
+6	?	_	_	_	order:LK[V]MF[SO]|props:aux-sname	5	punct	_	_
 
-1	Weil	_	_	_	order:MF[SO]VC[V]|props:aux-sname	4	mark	_	_
-2	Siemens	_	_	_	order:MF[SO]VC[V]|props:aux-sname	4	nsubj	_	_
-3	Angriff	_	_	_	order:MF[SO]VC[V]|props:aux-sname	4	obj	_	_
-4	starten	_	_	_	order:MF[SO]VC[V]|props:aux-sname	0	root	_	_
-5	wird	_	_	_	order:MF[SO]VC[V]|props:aux-sname	4	aux	_	_
-6	.	_	_	_	order:MF[SO]VC[V]|props:aux-sname	4	punct	_	_
+1	Weil	_	_	_	order:MF[SO]VC[V]|props:aux-sname	5	mark	_	_
+2	Siemens	_	_	_	order:MF[SO]VC[V]|props:aux-sname	5	nsubj	_	_
+3	eine	_	_	_	order:MF[SO]VC[V]|props:aux-sname	4	det	_	_
+4	Attacke	_	_	_	order:MF[SO]VC[V]|props:aux-sname	5	obj	_	_
+5	starten	_	_	_	order:MF[SO]VC[V]|props:aux-sname	0	root	_	_
+6	wird	_	_	_	order:MF[SO]VC[V]|props:aux-sname	5	aux	_	_
+7	.	_	_	_	order:MF[SO]VC[V]|props:aux-sname	5	punct	_	_
 
 1	Balazs	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	5	nsubj	_	_
 2	wird	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	5	aux	_	_
@@ -15942,37 +15967,42 @@
 6	wird	_	_	_	order:MF[SO]VC[V]|props:aux-sname	5	aux	_	_
 7	.	_	_	_	order:MF[SO]VC[V]|props:aux-sname	5	punct	_	_
 
-1	Gillette	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	4	nsubj	_	_
-2	wird	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	4	aux	_	_
-3	Bart	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	4	obj	_	_
-4	rasieren	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	0	root	_	_
-5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	4	punct	_	_
+1	Gillette	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	5	nsubj	_	_
+2	wird	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	5	aux	_	_
+3	eine	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	4	det	_	_
+4	Gesichtsbehaarung	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	5	obj	_	_
+5	rasieren	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	0	root	_	_
+6	.	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	5	punct	_	_
 
-1	Bart	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	4	obj	_	_
-2	wird	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	4	aux	_	_
-3	Gillette	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	4	nsubj	_	_
-4	rasieren	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	0	root	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	4	punct	_	_
+1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	2	det	_	_
+2	Gesichtsbehaarung	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	5	obj	_	_
+3	wird	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	5	aux	_	_
+4	Gillette	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	5	nsubj	_	_
+5	rasieren	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	0	root	_	_
+6	.	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	5	punct	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	5	advmod	_	_
-2	wird	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	5	aux	_	_
-3	Gillette	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	5	nsubj	_	_
-4	Bart	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	5	obj	_	_
-5	rasieren	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	0	root	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	5	punct	_	_
+1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	6	advmod	_	_
+2	wird	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	6	aux	_	_
+3	Gillette	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	6	nsubj	_	_
+4	eine	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	5	det	_	_
+5	Gesichtsbehaarung	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	6	obj	_	_
+6	rasieren	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	0	root	_	_
+7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	6	punct	_	_
 
-1	Wird	_	_	_	order:LK[V]MF[SO]|props:aux-sname	4	aux	_	_
-2	Gillette	_	_	_	order:LK[V]MF[SO]|props:aux-sname	4	nsubj	_	_
-3	Bart	_	_	_	order:LK[V]MF[SO]|props:aux-sname	4	obj	_	_
-4	rasieren	_	_	_	order:LK[V]MF[SO]|props:aux-sname	0	root	_	_
-5	?	_	_	_	order:LK[V]MF[SO]|props:aux-sname	4	punct	_	_
+1	Wird	_	_	_	order:LK[V]MF[SO]|props:aux-sname	5	aux	_	_
+2	Gillette	_	_	_	order:LK[V]MF[SO]|props:aux-sname	5	nsubj	_	_
+3	eine	_	_	_	order:LK[V]MF[SO]|props:aux-sname	4	det	_	_
+4	Gesichtsbehaarung	_	_	_	order:LK[V]MF[SO]|props:aux-sname	5	obj	_	_
+5	rasieren	_	_	_	order:LK[V]MF[SO]|props:aux-sname	0	root	_	_
+6	?	_	_	_	order:LK[V]MF[SO]|props:aux-sname	5	punct	_	_
 
-1	Weil	_	_	_	order:MF[SO]VC[V]|props:aux-sname	4	mark	_	_
-2	Gillette	_	_	_	order:MF[SO]VC[V]|props:aux-sname	4	nsubj	_	_
-3	Bart	_	_	_	order:MF[SO]VC[V]|props:aux-sname	4	obj	_	_
-4	rasieren	_	_	_	order:MF[SO]VC[V]|props:aux-sname	0	root	_	_
-5	wird	_	_	_	order:MF[SO]VC[V]|props:aux-sname	4	aux	_	_
-6	.	_	_	_	order:MF[SO]VC[V]|props:aux-sname	4	punct	_	_
+1	Weil	_	_	_	order:MF[SO]VC[V]|props:aux-sname	5	mark	_	_
+2	Gillette	_	_	_	order:MF[SO]VC[V]|props:aux-sname	5	nsubj	_	_
+3	eine	_	_	_	order:MF[SO]VC[V]|props:aux-sname	4	det	_	_
+4	Gesichtsbehaarung	_	_	_	order:MF[SO]VC[V]|props:aux-sname	5	obj	_	_
+5	rasieren	_	_	_	order:MF[SO]VC[V]|props:aux-sname	0	root	_	_
+6	wird	_	_	_	order:MF[SO]VC[V]|props:aux-sname	5	aux	_	_
+7	.	_	_	_	order:MF[SO]VC[V]|props:aux-sname	5	punct	_	_
 
 1	Clooney	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	4	nsubj	_	_
 2	wird	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	4	aux	_	_
@@ -16006,42 +16036,47 @@
 5	wird	_	_	_	order:MF[SO]VC[V]|props:aux-sname	4	aux	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:aux-sname	4	punct	_	_
 
-1	Bertolt	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	5	nsubj	_	_
+1	Bertolt	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	6	nsubj	_	_
 2	Brecht	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	1	flat	_	_
-3	wird	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	5	aux	_	_
-4	Roman	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	5	obj	_	_
-5	schreiben	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	0	root	_	_
-6	.	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	5	punct	_	_
+3	wird	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	6	aux	_	_
+4	eine	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	5	det	_	_
+5	Erzählung	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	6	obj	_	_
+6	schreiben	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	0	root	_	_
+7	.	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	6	punct	_	_
 
-1	Roman	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	5	obj	_	_
-2	wird	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	5	aux	_	_
-3	Bertolt	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	5	nsubj	_	_
-4	Brecht	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	3	flat	_	_
-5	schreiben	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	0	root	_	_
-6	.	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	5	punct	_	_
+1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	2	det	_	_
+2	Erzählung	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	6	obj	_	_
+3	wird	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	6	aux	_
+4	Bertolt	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	6	nsubj	_	_
+5	Brecht	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	4	flat	_	_
+6	schreiben	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	0	root	_	_
+7	.	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	6	punct	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	6	advmod	_	_
-2	wird	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	6	aux	_	_
-3	Bertolt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	6	nsubj	_	_
+1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	7	advmod	_	_
+2	wird	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	7	aux	_	_
+3	Bertolt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	7	nsubj	_	_
 4	Brecht	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	3	flat	_	_
-5	Roman	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	6	obj	_	_
-6	schreiben	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	0	root	_	_
-7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	6	punct	_	_
+5	eine	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	6	det	_	_
+6	Erzählung	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	7	obj	_	_
+7	schreiben	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	0	root	_	_
+8	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	7	punct	_	_
 
-1	Wird	_	_	_	order:LK[V]MF[SO]|props:aux-sname	5	aux	_	_
-2	Bertolt	_	_	_	order:LK[V]MF[SO]|props:aux-sname	5	nsubj	_	_
+1	Wird	_	_	_	order:LK[V]MF[SO]|props:aux-sname	6	aux	_	_
+2	Bertolt	_	_	_	order:LK[V]MF[SO]|props:aux-sname	6	nsubj	_	_
 3	Brecht	_	_	_	order:LK[V]MF[SO]|props:aux-sname	2	flat	_	_
-4	Roman	_	_	_	order:LK[V]MF[SO]|props:aux-sname	5	obj	_	_
-5	schreiben	_	_	_	order:LK[V]MF[SO]|props:aux-sname	0	root	_	_
-6	?	_	_	_	order:LK[V]MF[SO]|props:aux-sname	5	punct	_	_
+4	eine	_	_	_	order:LK[V]MF[SO]|props:aux-sname	5	det	_	_
+5	Erzählung	_	_	_	order:LK[V]MF[SO]|props:aux-sname	6	obj	_	_
+6	schreiben	_	_	_	order:LK[V]MF[SO]|props:aux-sname	0	root	_	_
+7	?	_	_	_	order:LK[V]MF[SO]|props:aux-sname	6	punct	_	_
 
-1	Weil	_	_	_	order:MF[SO]VC[V]|props:aux-sname	5	mark	_	_
-2	Bertolt	_	_	_	order:MF[SO]VC[V]|props:aux-sname	5	nsubj	_	_
+1	Weil	_	_	_	order:MF[SO]VC[V]|props:aux-sname	6	mark	_	_
+2	Bertolt	_	_	_	order:MF[SO]VC[V]|props:aux-sname	6	nsubj	_	_
 3	Brecht	_	_	_	order:MF[SO]VC[V]|props:aux-sname	2	flat	_	_
-4	Roman	_	_	_	order:MF[SO]VC[V]|props:aux-sname	5	obj	_	_
-5	schreiben	_	_	_	order:MF[SO]VC[V]|props:aux-sname	0	root	_	_
-6	wird	_	_	_	order:MF[SO]VC[V]|props:aux-sname	5	aux	_	_
-7	.	_	_	_	order:MF[SO]VC[V]|props:aux-sname	5	punct	_	_
+4	eine	_	_	_	order:MF[SO]VC[V]|props:aux-sname	5	det	_	_
+5	Erzählung	_	_	_	order:MF[SO]VC[V]|props:aux-sname	6	obj	_	_
+6	schreiben	_	_	_	order:MF[SO]VC[V]|props:aux-sname	0	root	_	_
+7	wird	_	_	_	order:MF[SO]VC[V]|props:aux-sname	6	aux	_	_
+8	.	_	_	_	order:MF[SO]VC[V]|props:aux-sname	6	punct	_	_
 
 1	Merkel	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	5	nsubj	_	_
 2	wird	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	5	aux	_	_
@@ -16117,37 +16152,42 @@
 6	wird	_	_	_	order:MF[SO]VC[V]|props:aux-sname	5	aux	_	_
 7	.	_	_	_	order:MF[SO]VC[V]|props:aux-sname	5	punct	_	_
 
-1	Anke	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	4	nsubj	_	_
-2	wird	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	4	aux	_	_
-3	Bauzaun	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	4	obj	_	_
-4	ziehen	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	0	root	_	_
-5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	4	punct	_	_
+1	Anke	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	5	nsubj	_	_
+2	wird	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	5	aux	_	_
+3	eine	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	4	det	_	_
+4	Umzäunung	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	5	obj	_	_
+5	ziehen	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	0	root	_	_
+6	.	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	5	punct	_	_
 
-1	Bauzaun	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	4	obj	_	_
-2	wird	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	4	aux	_	_
-3	Anke	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	4	nsubj	_	_
-4	ziehen	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	0	root	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	4	punct	_	_
+1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	2	det	_	_
+2	Umzäunung	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	5	obj	_	_
+3	wird	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	5	aux	_	_
+4	Anke	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	5	nsubj	_	_
+5	ziehen	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	0	root	_	_
+6	.	_	_	_	order:VF[O]LK[V]MF[S]|props:aux-sname	5	punct	_	_
 
-1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	5	advmod	_	_
-2	wird	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	5	aux	_	_
-3	Anke	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	5	nsubj	_	_
-4	Bauzaun	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	5	obj	_	_
-5	ziehen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	0	root	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	5	punct	_	_
+1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	6	advmod	_	_
+2	wird	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	6	aux	_	_
+3	Anke	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	6	nsubj	_	_
+4	eine	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	5	det	_	_
+5	Umzäunung	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	6	obj	_	_
+6	ziehen	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	0	root	_	_
+7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:aux-sname	6	punct	_	_
 
-1	Wird	_	_	_	order:LK[V]MF[SO]|props:aux-sname	4	aux	_	_
-2	Anke	_	_	_	order:LK[V]MF[SO]|props:aux-sname	4	nsubj	_	_
-3	Bauzaun	_	_	_	order:LK[V]MF[SO]|props:aux-sname	4	obj	_	_
-4	ziehen	_	_	_	order:LK[V]MF[SO]|props:aux-sname	0	root	_	_
-5	?	_	_	_	order:LK[V]MF[SO]|props:aux-sname	4	punct	_	_
+1	Wird	_	_	_	order:LK[V]MF[SO]|props:aux-sname	5	aux	_	_
+2	Anke	_	_	_	order:LK[V]MF[SO]|props:aux-sname	5	nsubj	_	_
+3	eine	_	_	_	order:LK[V]MF[SO]|props:aux-sname	4	det	_	_
+4	Umzäunung	_	_	_	order:LK[V]MF[SO]|props:aux-sname	5	obj	_	_
+5	ziehen	_	_	_	order:LK[V]MF[SO]|props:aux-sname	0	root	_	_
+6	?	_	_	_	order:LK[V]MF[SO]|props:aux-sname	5	punct	_	_
 
-1	Weil	_	_	_	order:MF[SO]VC[V]|props:aux-sname	4	mark	_	_
-2	Anke	_	_	_	order:MF[SO]VC[V]|props:aux-sname	4	nsubj	_	_
-3	Bauzaun	_	_	_	order:MF[SO]VC[V]|props:aux-sname	4	obj	_	_
-4	ziehen	_	_	_	order:MF[SO]VC[V]|props:aux-sname	0	root	_	_
-5	wird	_	_	_	order:MF[SO]VC[V]|props:aux-sname	4	aux	_	_
-6	.	_	_	_	order:MF[SO]VC[V]|props:aux-sname	4	punct	_	_
+1	Weil	_	_	_	order:MF[SO]VC[V]|props:aux-sname	5	mark	_	_
+2	Anke	_	_	_	order:MF[SO]VC[V]|props:aux-sname	5	nsubj	_	_
+3	eine	_	_	_	order:MF[SO]VC[V]|props:aux-sname	4	det	_	_
+4	Umzäunung	_	_	_	order:MF[SO]VC[V]|props:aux-sname	5	obj	_	_
+5	ziehen	_	_	_	order:MF[SO]VC[V]|props:aux-sname	0	root	_	_
+6	wird	_	_	_	order:MF[SO]VC[V]|props:aux-sname	5	aux	_	_
+7	.	_	_	_	order:MF[SO]VC[V]|props:aux-sname	5	punct	_	_
 
 1	Bonn	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	5	nsubj	_	_
 2	wird	_	_	_	order:VF[S]LK[V]MF[O]|props:aux-sname	5	aux	_	_
@@ -26058,7 +26098,7 @@
 6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:regpol-psy	2	punct	_	_
 
 1	Erstaunen	_	_	_	order:LK[V]MF[SO]|props:regpol-psy	0	root	_	_
-2	die	_	_	_	order:LK[V]MF[SO]|props:regpol-psy	2	det	_	_
+2	die	_	_	_	order:LK[V]MF[SO]|props:regpol-psy	3	det	_	_
 3	Bärte	_	_	_	order:LK[V]MF[SO]|props:regpol-psy	1	nsubj	_	_
 4	Salons	_	_	_	order:LK[V]MF[SO]|props:regpol-psy	1	obj	_	_
 5	?	_	_	_	order:LK[V]MF[SO]|props:regpol-psy	1	punct	_	_
@@ -26378,32 +26418,37 @@
 5	belustigen	_	_	_	order:MF[SO]VC[V]|props:regpol-psy	0	root	_	_
 6	.	_	_	_	order:MF[SO]VC[V]|props:regpol-psy	5	punct	_	_
 
-1	Angriff	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	2	nsubj	_	_
-2	fesselt	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	0	root	_	_
-3	Daimler	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	2	obj	_	_
-4	.	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	2	punct	_	_
+1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	2	det	_	_
+2	Attacke	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	3	nsubj	_	_
+3	fesselt	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	0	root	_	_
+4	Daimler	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	3	obj	_	_
+5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	3	punct	_	_
 
 1	Daimler	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	2	obj	_	_
 2	fesselt	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	0	root	_	_
-3	Angriff	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	2	nsubj	_	_
-4	.	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	2	punct	_	_
+3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	4	det	_	_
+4	Attacke	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	2	nsubj	_	_
+5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	2	punct	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	2	advmod	_	_
 2	fesselt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	0	root	_	_
-3	Angriff	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	2	nsubj	_	_
-4	Daimler	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	2	obj	_	_
-5	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	2	punct	_	_
+3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	4	det	_	_
+4	Attacke	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	2	nsubj	_	_
+5	Daimler	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	2	obj	_	_
+6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	2	punct	_	_
 
 1	Fesselt	_	_	_	order:LK[V]MF[SO]|props:sname-psy	0	root	_	_
-2	Angriff	_	_	_	order:LK[V]MF[SO]|props:sname-psy	1	nsubj	_	_
-3	Daimler	_	_	_	order:LK[V]MF[SO]|props:sname-psy	1	obj	_	_
-4	?	_	_	_	order:LK[V]MF[SO]|props:sname-psy	1	punct	_	_
+2	die	_	_	_	order:LK[V]MF[SO]|props:sname-psy	3	det	_	_
+3	Attacke	_	_	_	order:LK[V]MF[SO]|props:sname-psy	1	nsubj	_	_
+4	Daimler	_	_	_	order:LK[V]MF[SO]|props:sname-psy	1	obj	_	_
+5	?	_	_	_	order:LK[V]MF[SO]|props:sname-psy	1	punct	_	_
 
-1	Weil	_	_	_	order:MF[SO]VC[V]|props:sname-psy	4	mark	_	_
-2	Angriff	_	_	_	order:MF[SO]VC[V]|props:sname-psy	4	nsubj	_	_
-3	Daimler	_	_	_	order:MF[SO]VC[V]|props:sname-psy	4	obj	_	_
-4	fesselt	_	_	_	order:MF[SO]VC[V]|props:sname-psy	0	root	_	_
-5	.	_	_	_	order:MF[SO]VC[V]|props:sname-psy	4	punct	_	_
+1	Weil	_	_	_	order:MF[SO]VC[V]|props:sname-psy	5	mark	_	_
+2	die	_	_	_	order:MF[SO]VC[V]|props:sname-psy	3	det	_	_
+3	Attacke	_	_	_	order:MF[SO]VC[V]|props:sname-psy	5	nsubj	_	_
+4	Daimler	_	_	_	order:MF[SO]VC[V]|props:sname-psy	5	obj	_	_
+5	fesselt	_	_	_	order:MF[SO]VC[V]|props:sname-psy	0	root	_	_
+6	.	_	_	_	order:MF[SO]VC[V]|props:sname-psy	5	punct	_	_
 
 1	Das	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	2	det	_	_
 2	Doppelleben	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	3	nsubj	_	_
@@ -26673,32 +26718,37 @@
 6	ängstigt	_	_	_	order:MF[OS]VC[V]|props:sname-psy	0	root	_	_
 7	.	_	_	_	order:MF[OS]VC[V]|props:sname-psy	6	punct	_	_
 
-1	Bart	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	2	nsubj	_	_
-2	erstaunt	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	0	root	_	_
-3	Gillette	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	2	obj	_	_
-4	.	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	2	punct	_	_
+1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	2	det	_	_
+2	Gesichtsbehaarung	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	3	nsubj	_	_
+3	erstaunt	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	0	root	_	_
+4	Gillette	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	3	obj	_	_
+5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	3	punct	_	_
 
 1	Gillette	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	2	obj	_	_
 2	erstaunt	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	0	root	_	_
-3	Bart	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	2	nsubj	_	_
-4	.	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	2	punct	_	_
+3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	4	det	_	_
+4	Gesichtsbehaarung	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	2	nsubj	_	_
+5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	2	punct	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	2	advmod	_	_
 2	erstaunt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	0	root	_	_
-3	Bart	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	2	nsubj	_	_
-4	Gillette	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	2	obj	_	_
-5	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	2	punct	_	_
+3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	4	det	_	_
+4	Gesichtsbehaarung	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	2	nsubj	_	_
+5	Gillette	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	2	obj	_	_
+6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	2	punct	_	_
 
 1	Erstaunt	_	_	_	order:LK[V]MF[SO]|props:sname-psy	0	root	_	_
-2	Bart	_	_	_	order:LK[V]MF[SO]|props:sname-psy	1	nsubj	_	_
-3	Gillette	_	_	_	order:LK[V]MF[SO]|props:sname-psy	1	obj	_	_
-4	?	_	_	_	order:LK[V]MF[SO]|props:sname-psy	1	punct	_	_
+2	die	_	_	_	order:LK[V]MF[SO]|props:sname-psy	3	det	_	_
+3	Gesichtsbehaarung	_	_	_	order:LK[V]MF[SO]|props:sname-psy	1	nsubj	_	_
+4	Gillette	_	_	_	order:LK[V]MF[SO]|props:sname-psy	1	obj	_	_
+5	?	_	_	_	order:LK[V]MF[SO]|props:sname-psy	1	punct	_	_
 
-1	Weil	_	_	_	order:MF[SO]VC[V]|props:sname-psy	4	mark	_	_
-2	Bart	_	_	_	order:MF[SO]VC[V]|props:sname-psy	4	nsubj	_	_
-3	Gillette	_	_	_	order:MF[SO]VC[V]|props:sname-psy	4	obj	_	_
-4	erstaunt	_	_	_	order:MF[SO]VC[V]|props:sname-psy	0	root	_	_
-5	.	_	_	_	order:MF[SO]VC[V]|props:sname-psy	4	punct	_	_
+1	Weil	_	_	_	order:MF[SO]VC[V]|props:sname-psy	5	mark	_	_
+2	die	_	_	_	order:MF[SO]VC[V]|props:sname-psy	3	det	_	_
+3	Gesichtsbehaarung	_	_	_	order:MF[SO]VC[V]|props:sname-psy	5	nsubj	_	_
+4	Gillette	_	_	_	order:MF[SO]VC[V]|props:sname-psy	5	obj	_	_
+5	erstaunt	_	_	_	order:MF[SO]VC[V]|props:sname-psy	0	root	_	_
+6	.	_	_	_	order:MF[SO]VC[V]|props:sname-psy	5	punct	_	_
 
 1	Kaffee	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	2	nsubj	_	_
 2	erfreut	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	0	root	_	_
@@ -26744,37 +26794,42 @@
 4	erfreut	_	_	_	order:MF[OS]VC[V]|props:sname-psy	0	root	_	_
 5	.	_	_	_	order:MF[OS]VC[V]|props:sname-psy	4	punct	_	_
 
-1	Roman	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	2	nsubj	_	_
-2	frustriert	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	0	root	_	_
-3	Günter	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	2	obj	_	_
-4	Jauch	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	3	flat	_	_
-5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	2	punct	_	_
+1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	2	det	_	_
+2	Erzählung	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	3	nsubj	_	_
+3	frustriert	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	0	root	_	_
+4	Günter	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	3	obj	_	_
+5	Jauch	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	4	flat	_	_
+6	.	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	3	punct	_	_
 
 1	Günter	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	3	obj	_	_
 2	Jauch	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	1	flat	_	_
 3	frustriert	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	0	root	_	_
-4	Roman	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	3	nsubj	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	3	punct	_	_
+4	die	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	5	det	_	_
+5	Erzählung	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	3	nsubj	_	_
+6	.	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	3	punct	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	2	advmod	_	_
 2	frustriert	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	0	root	_	_
-3	Roman	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	2	nsubj	_	_
-4	Günter	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	2	obj	_	_
-5	Jauch	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	4	flat	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	2	punct	_	_
+3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	4	det	_	_
+4	Erzählung	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	2	nsubj	_	_
+5	Günter	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	2	obj	_	_
+6	Jauch	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	5	flat	_	_
+7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	2	punct	_	_
 
 1	Frustriert	_	_	_	order:LK[V]MF[SO]|props:sname-psy	0	root	_	_
-2	Roman	_	_	_	order:LK[V]MF[SO]|props:sname-psy	1	nsubj	_	_
-3	Günter	_	_	_	order:LK[V]MF[SO]|props:sname-psy	1	obj	_	_
-4	Jauch	_	_	_	order:LK[V]MF[SO]|props:sname-psy	3	flat	_	_
-5	?	_	_	_	order:LK[V]MF[SO]|props:sname-psy	1	punct	_	_
+2	die	_	_	_	order:LK[V]MF[SO]|props:sname-psy	3	det	_	_
+3	Erzählung	_	_	_	order:LK[V]MF[SO]|props:sname-psy	1	nsubj	_	_
+4	Günter	_	_	_	order:LK[V]MF[SO]|props:sname-psy	1	obj	_	_
+5	Jauch	_	_	_	order:LK[V]MF[SO]|props:sname-psy	4	flat	_	_
+6	?	_	_	_	order:LK[V]MF[SO]|props:sname-psy	1	punct	_	_
 
-1	Weil	_	_	_	order:MF[SO]VC[V]|props:sname-psy	5	mark	_	_
-2	Roman	_	_	_	order:MF[SO]VC[V]|props:sname-psy	5	nsubj	_	_
-3	Günter	_	_	_	order:MF[SO]VC[V]|props:sname-psy	5	obj	_	_
-4	Jauch	_	_	_	order:MF[SO]VC[V]|props:sname-psy	3	flat	_	_
-5	frustriert	_	_	_	order:MF[SO]VC[V]|props:sname-psy	0	root	_	_
-6	.	_	_	_	order:MF[SO]VC[V]|props:sname-psy	5	punct	_	_
+1	Weil	_	_	_	order:MF[SO]VC[V]|props:sname-psy	6	mark	_	_
+2	die	_	_	_	order:MF[SO]VC[V]|props:sname-psy	3	det	_	_
+3	Erzählung	_	_	_	order:MF[SO]VC[V]|props:sname-psy	6	nsubj	_	_
+4	Günter	_	_	_	order:MF[SO]VC[V]|props:sname-psy	6	obj	_	_
+5	Jauch	_	_	_	order:MF[SO]VC[V]|props:sname-psy	4	flat	_	_
+6	frustriert	_	_	_	order:MF[SO]VC[V]|props:sname-psy	0	root	_	_
+7	.	_	_	_	order:MF[SO]VC[V]|props:sname-psy	6	punct	_	_
 
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	2	det	_	_
 2	Rede	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	3	nsubj	_	_
@@ -26932,32 +26987,37 @@
 5	beschämt	_	_	_	order:MF[OS]VC[V]|props:sname-psy	0	root	_	_
 6	.	_	_	_	order:MF[OS]VC[V]|props:sname-psy	5	punct	_	_
 
-1	Bauzaun	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	2	nsubj	_	_
-2	reut	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	0	root	_	_
-3	Anke	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	2	obj	_	_
-4	.	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	2	punct	_	_
+1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	2	det	_	_
+2	Umzäunung	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	3	nsubj	_	_
+3	reut	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	0	root	_	_
+4	Anke	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	3	obj	_	_
+5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	3	punct	_	_
 
 1	Anke	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	2	obj	_	_
 2	reut	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	0	root	_	_
-3	Bauzaun	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	2	nsubj	_	_
-4	.	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	2	punct	_	_
+3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	4	det	_	_
+4	Umzäunung	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	2	nsubj	_	_
+5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-psy	2	punct	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	2	advmod	_	_
 2	reut	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	0	root	_	_
-3	Bauzaun	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	2	nsubj	_	_
-4	Anke	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	2	obj	_	_
-5	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	2	punct	_	_
+3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	4	det	_	_
+4	Umzäunung	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	2	nsubj	_	_
+5	Anke	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	2	obj	_	_
+6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-psy	2	punct	_	_
 
 1	Reut	_	_	_	order:LK[V]MF[SO]|props:sname-psy	0	root	_	_
-2	Bauzaun	_	_	_	order:LK[V]MF[SO]|props:sname-psy	1	nsubj	_	_
-3	Anke	_	_	_	order:LK[V]MF[SO]|props:sname-psy	1	obj	_	_
-4	?	_	_	_	order:LK[V]MF[SO]|props:sname-psy	1	punct	_	_
+2	die	_	_	_	order:LK[V]MF[SO]|props:sname-psy	3	det	_	_
+3	Umzäunung	_	_	_	order:LK[V]MF[SO]|props:sname-psy	1	nsubj	_	_
+4	Anke	_	_	_	order:LK[V]MF[SO]|props:sname-psy	1	obj	_	_
+5	?	_	_	_	order:LK[V]MF[SO]|props:sname-psy	1	punct	_	_
 
-1	Weil	_	_	_	order:MF[SO]VC[V]|props:sname-psy	4	mark	_	_
-2	Bauzaun	_	_	_	order:MF[SO]VC[V]|props:sname-psy	4	nsubj	_	_
-3	Anke	_	_	_	order:MF[SO]VC[V]|props:sname-psy	4	obj	_	_
-4	reut	_	_	_	order:MF[SO]VC[V]|props:sname-psy	0	root	_	_
-5	.	_	_	_	order:MF[SO]VC[V]|props:sname-psy	4	punct	_	_
+1	Weil	_	_	_	order:MF[SO]VC[V]|props:sname-psy	5	mark	_	_
+2	die	_	_	_	order:MF[SO]VC[V]|props:sname-psy	3	det	_	_
+3	Umzäunung	_	_	_	order:MF[SO]VC[V]|props:sname-psy	5	nsubj	_	_
+4	Anke	_	_	_	order:MF[SO]VC[V]|props:sname-psy	5	obj	_	_
+5	reut	_	_	_	order:MF[SO]VC[V]|props:sname-psy	0	root	_	_
+6	.	_	_	_	order:MF[SO]VC[V]|props:sname-psy	5	punct	_	_
 
 1	Die	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	2	det	_	_
 2	Tour	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-psy	3	nsubj	_	_
@@ -35423,30 +35483,35 @@
 
 1	Siemens	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	2	nsubj	_	_
 2	beginnt	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	0	root	_	_
-3	Angriff	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	2	obj	_	_
-4	.	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	2	punct	_	_
+3	eine	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	4	det	_	_
+4	Attacke	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	2	obj	_	_
+5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	2	punct	_	_
 
-1	Angriff	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	2	obj	_	_
-2	beginnt	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	0	root	_	_
-3	Siemens	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	2	nsubj	_	_
-4	.	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	2	punct	_	_
+1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	2	det	_	_
+2	Attacke	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	3	obj	_	_
+3	beginnt	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	0	root	_	_
+4	Siemens	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	3	nsubj	_	_
+5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	3	punct	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	2	advmod	_	_
 2	beginnt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	0	root	_	_
 3	Siemens	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	2	nsubj	_	_
-4	Angriff	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	2	obj	_	_
-5	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	2	punct	_	_
+4	eine	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	5	det	_	_
+5	Attacke	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	2	obj	_	_
+6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	2	punct	_	_
 
 1	Beginnt	_	_	_	order:LK[V]MF[SO]|props:sname-syn	0	root	_	_
 2	Siemens	_	_	_	order:LK[V]MF[SO]|props:sname-syn	1	nsubj	_	_
-3	Angriff	_	_	_	order:LK[V]MF[SO]|props:sname-syn	1	obj	_	_
-4	?	_	_	_	order:LK[V]MF[SO]|props:sname-syn	1	punct	_	_
+3	eine	_	_	_	order:LK[V]MF[SO]|props:sname-syn	4	det	_	_
+4	Attacke	_	_	_	order:LK[V]MF[SO]|props:sname-syn	1	obj	_	_
+5	?	_	_	_	order:LK[V]MF[SO]|props:sname-syn	1	punct	_	_
 
-1	Weil	_	_	_	order:MF[SO]VC[V]|props:sname-syn	4	mark	_	_
-2	Siemens	_	_	_	order:MF[SO]VC[V]|props:sname-syn	4	nsubj	_	_
-3	Angriff	_	_	_	order:MF[SO]VC[V]|props:sname-syn	4	obj	_	_
-4	beginnt	_	_	_	order:MF[SO]VC[V]|props:sname-syn	0	root	_	_
-5	.	_	_	_	order:MF[SO]VC[V]|props:sname-syn	4	punct	_	_
+1	Weil	_	_	_	order:MF[SO]VC[V]|props:sname-syn	5	mark	_	_
+2	Siemens	_	_	_	order:MF[SO]VC[V]|props:sname-syn	5	nsubj	_	_
+3	eine	_	_	_	order:MF[SO]VC[V]|props:sname-syn	4	det	_	_
+4	Attacke	_	_	_	order:MF[SO]VC[V]|props:sname-syn	5	obj	_	_
+5	beginnt	_	_	_	order:MF[SO]VC[V]|props:sname-syn	0	root	_	_
+6	.	_	_	_	order:MF[SO]VC[V]|props:sname-syn	5	punct	_	_
 
 1	Balazs	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	2	nsubj	_	_
 2	führt	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	0	root	_	_
@@ -35647,30 +35712,35 @@
 
 1	Gillette	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	2	nsubj	_	_
 2	stutzt	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	0	root	_	_
-3	Bart	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	2	obj	_	_
-4	.	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	2	punct	_	_
+3	eine	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	4	det	_	_
+4	Gesichtsbehaarung	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	2	obj	_	_
+5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	2	punct	_	_
 
-1	Bart	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	2	obj	_	_
-2	stutzt	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	0	root	_	_
-3	Gillette	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	2	nsubj	_	_
-4	.	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	2	punct	_	_
+1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	2	det	_	_
+2	Gesichtsbehaarung	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	3	obj	_	_
+3	stutzt	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	0	root	_	_
+4	Gillette	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	3	nsubj	_	_
+5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	3	punct	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	2	advmod	_	_
 2	stutzt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	0	root	_	_
 3	Gillette	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	2	nsubj	_	_
-4	Bart	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	2	obj	_	_
-5	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	2	punct	_	_
+4	eine	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	5	det	_	_
+5	Gesichtsbehaarung	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	2	obj	_	_
+6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	2	punct	_	_
 
 1	Stutzt	_	_	_	order:LK[V]MF[SO]|props:sname-syn	0	root	_	_
 2	Gillette	_	_	_	order:LK[V]MF[SO]|props:sname-syn	1	nsubj	_	_
-3	Bart	_	_	_	order:LK[V]MF[SO]|props:sname-syn	1	obj	_	_
-4	?	_	_	_	order:LK[V]MF[SO]|props:sname-syn	1	punct	_	_
+3	eine	_	_	_	order:LK[V]MF[SO]|props:sname-syn	4	det	_	_
+4	Gesichtsbehaarung	_	_	_	order:LK[V]MF[SO]|props:sname-syn	1	obj	_	_
+5	?	_	_	_	order:LK[V]MF[SO]|props:sname-syn	1	punct	_	_
 
-1	Weil	_	_	_	order:MF[SO]VC[V]|props:sname-syn	4	mark	_	_
-2	Gillette	_	_	_	order:MF[SO]VC[V]|props:sname-syn	4	nsubj	_	_
-3	Bart	_	_	_	order:MF[SO]VC[V]|props:sname-syn	4	obj	_	_
-4	stutzt	_	_	_	order:MF[SO]VC[V]|props:sname-syn	0	root	_	_
-5	.	_	_	_	order:MF[SO]VC[V]|props:sname-syn	4	punct	_	_
+1	Weil	_	_	_	order:MF[SO]VC[V]|props:sname-syn	5	mark	_	_
+2	Gillette	_	_	_	order:MF[SO]VC[V]|props:sname-syn	5	nsubj	_	_
+3	eine	_	_	_	order:MF[SO]VC[V]|props:sname-syn	4	det	_	_
+4	Gesichtsbehaarung	_	_	_	order:MF[SO]VC[V]|props:sname-syn	5	obj	_	_
+5	stutzt	_	_	_	order:MF[SO]VC[V]|props:sname-syn	0	root	_	_
+6	.	_	_	_	order:MF[SO]VC[V]|props:sname-syn	5	punct	_	_
 
 1	Clooney	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	2	nsubj	_	_
 2	schlürft	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	0	root	_	_
@@ -35702,34 +35772,39 @@
 1	Bertolt	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	3	nsubj	_	_
 2	Brecht	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	1	flat	_	_
 3	verfasst	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	0	root	_	_
-4	Roman	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	3	obj	_	_
-5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	3	punct	_	_
+4	eine	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	5	det	_	_
+5	Erzählung	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	3	obj	_	_
+6	.	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	3	punct	_	_
 
-1	Roman	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	2	obj	_	_
-2	verfasst	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	0	root	_	_
-3	Bertolt	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	2	nsubj	_	_
-4	Brecht	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	3	flat	_	_
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	2	punct	_	_
+1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	2	det	_	_
+2	Erzählung	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	3	obj	_	_
+3	verfasst	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	0	root	_	_
+4	Bertolt	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	3	nsubj	_	_
+5	Brecht	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	4	flat	_	_
+6	.	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	3	punct	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	2	advmod	_	_
 2	verfasst	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	0	root	_	_
 3	Bertolt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	2	nsubj	_	_
 4	Brecht	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	3	flat	_	_
-5	Roman	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	2	obj	_	_
-6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	2	punct	_	_
+5	eine	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	6	det	_	_
+6	Erzählung	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	2	obj	_	_
+7	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	2	punct	_	_
 
 1	Verfasst	_	_	_	order:LK[V]MF[SO]|props:sname-syn	0	root	_	_
 2	Bertolt	_	_	_	order:LK[V]MF[SO]|props:sname-syn	1	nsubj	_	_
 3	Brecht	_	_	_	order:LK[V]MF[SO]|props:sname-syn	2	flat	_	_
-4	Roman	_	_	_	order:LK[V]MF[SO]|props:sname-syn	1	obj	_	_
-5	?	_	_	_	order:LK[V]MF[SO]|props:sname-syn	1	punct	_	_
+4	eine	_	_	_	order:LK[V]MF[SO]|props:sname-syn	5	det	_	_
+5	Erzählung	_	_	_	order:LK[V]MF[SO]|props:sname-syn	1	obj	_	_
+6	?	_	_	_	order:LK[V]MF[SO]|props:sname-syn	1	punct	_	_
 
-1	Weil	_	_	_	order:MF[SO]VC[V]|props:sname-syn	5	mark	_	_
-2	Bertolt	_	_	_	order:MF[SO]VC[V]|props:sname-syn	5	nsubj	_	_
+1	Weil	_	_	_	order:MF[SO]VC[V]|props:sname-syn	6	mark	_	_
+2	Bertolt	_	_	_	order:MF[SO]VC[V]|props:sname-syn	6	nsubj	_	_
 3	Brecht	_	_	_	order:MF[SO]VC[V]|props:sname-syn	2	flat	_	_
-4	Roman	_	_	_	order:MF[SO]VC[V]|props:sname-syn	5	obj	_	_
-5	verfasst	_	_	_	order:MF[SO]VC[V]|props:sname-syn	0	root	_	_
-6	.	_	_	_	order:MF[SO]VC[V]|props:sname-syn	5	punct	_	_
+4	eine	_	_	_	order:MF[SO]VC[V]|props:sname-syn	5	det	_	_
+5	Erzählung	_	_	_	order:MF[SO]VC[V]|props:sname-syn	6	obj	_	_
+6	verfasst	_	_	_	order:MF[SO]VC[V]|props:sname-syn	0	root	_	_
+7	.	_	_	_	order:MF[SO]VC[V]|props:sname-syn	6	punct	_	_
 
 1	Merkel	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	2	nsubj	_	_
 2	beendigt	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	0	root	_	_
@@ -35797,30 +35872,35 @@
 
 1	Anke	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	2	nsubj	_	_
 2	errichtet	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	0	root	_	_
-3	Bauzaun	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	2	obj	_	_
-4	.	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	2	punct	_	_
+3	eine	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	4	det	_	_
+4	Umzäunung	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	2	obj	_	_
+5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	2	punct	_	_
 
-1	Bauzaun	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	2	obj	_	_
-2	errichtet	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	0	root	_	_
-3	Anke	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	2	nsubj	_	_
-4	.	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	2	punct	_	_
+1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	2	det	_	_
+2	Umzäunung	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	3	obj	_	_
+3	errichtet	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	0	root	_	_
+4	Anke	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	3	nsubj	_	_
+5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:sname-syn	3	punct	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	2	advmod	_	_
 2	errichtet	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	0	root	_	_
 3	Anke	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	2	nsubj	_	_
-4	Bauzaun	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	2	obj	_	_
-5	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	2	punct	_	_
+4	eine	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	5	det	_	_
+5	Umzäunung	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	2	obj	_	_
+6	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:sname-syn	2	punct	_	_
 
 1	Errichtet	_	_	_	order:LK[V]MF[SO]|props:sname-syn	0	root	_	_
 2	Anke	_	_	_	order:LK[V]MF[SO]|props:sname-syn	1	nsubj	_	_
-3	Bauzaun	_	_	_	order:LK[V]MF[SO]|props:sname-syn	1	obj	_	_
-4	?	_	_	_	order:LK[V]MF[SO]|props:sname-syn	1	punct	_	_
+3	eine	_	_	_	order:LK[V]MF[SO]|props:sname-syn	4	det	_	_
+4	Umzäunung	_	_	_	order:LK[V]MF[SO]|props:sname-syn	1	obj	_	_
+5	?	_	_	_	order:LK[V]MF[SO]|props:sname-syn	1	punct	_	_
 
-1	Weil	_	_	_	order:MF[SO]VC[V]|props:sname-syn	4	mark	_	_
-2	Anke	_	_	_	order:MF[SO]VC[V]|props:sname-syn	4	nsubj	_	_
-3	Bauzaun	_	_	_	order:MF[SO]VC[V]|props:sname-syn	4	obj	_	_
-4	errichtet	_	_	_	order:MF[SO]VC[V]|props:sname-syn	0	root	_	_
-5	.	_	_	_	order:MF[SO]VC[V]|props:sname-syn	4	punct	_	_
+1	Weil	_	_	_	order:MF[SO]VC[V]|props:sname-syn	5	mark	_	_
+2	Anke	_	_	_	order:MF[SO]VC[V]|props:sname-syn	5	nsubj	_	_
+3	eine	_	_	_	order:MF[SO]VC[V]|props:sname-syn	4	det	_	_
+4	Umzäunung	_	_	_	order:MF[SO]VC[V]|props:sname-syn	5	obj	_	_
+5	errichtet	_	_	_	order:MF[SO]VC[V]|props:sname-syn	0	root	_	_
+6	.	_	_	_	order:MF[SO]VC[V]|props:sname-syn	5	punct	_	_
 
 1	Bonn	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	2	nsubj	_	_
 2	erringt	_	_	_	order:VF[S]LK[V]MF[O]|props:sname-syn	0	root	_	_
@@ -45271,16 +45351,18 @@
 3	in	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	5	case	_	_
 4	dem	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	5	det	_	_
 5	Jahr	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	2	obl	_	_
-6	Angriff	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	2	obj	_	_
-7	.	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	2	punct	_	_
+6	eine	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	7	det	_	_
+7	Attacke	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	2	obj	_	_
+8	.	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	2	punct	_	_
 
-1	Angriff	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	2	obj	_	_
-2	startet	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	0	root	_	_
-3	in	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	5	case	_	_
-4	dem	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	5	det	_	_
-5	Jahr	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	2	obl	_	_
-6	Siemens	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	2	nsubj	_	_
-7	.	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	2	punct	_	_
+1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	2	det	_	_
+2	Attacke	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	3	obj	_	_
+3	startet	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	0	root	_	_
+4	in	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	6	case	_	_
+5	dem	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	6	det	_	_
+6	Jahr	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	3	obl	_	_
+7	Siemens	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	3	nsubj	_	_
+8	.	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	3	punct	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	2	advmod	_	_
 2	startet	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	0	root	_	_
@@ -45288,25 +45370,28 @@
 4	dem	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	5	det	_	_
 5	Jahr	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	2	obl	_	_
 6	Siemens	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	2	nsubj	_	_
-7	Angriff	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	2	obj	_	_
-8	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	2	punct	_	_
+7	eine	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	8	det	_	_
+8	Attacke	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	2	obj	_	_
+9	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	2	punct	_	_
 
 1	Startet	_	_	_	order:LK[V]MF[SO]|props:pp-sname	0	root	_	_
 2	in	_	_	_	order:LK[V]MF[SO]|props:pp-sname	4	case	_	_
 3	dem	_	_	_	order:LK[V]MF[SO]|props:pp-sname	4	det	_	_
 4	Jahr	_	_	_	order:LK[V]MF[SO]|props:pp-sname	1	obl	_	_
 5	Siemens	_	_	_	order:LK[V]MF[SO]|props:pp-sname	1	nsubj	_	_
-6	Angriff	_	_	_	order:LK[V]MF[SO]|props:pp-sname	1	obj	_	_
-7	?	_	_	_	order:LK[V]MF[SO]|props:pp-sname	1	punct	_	_
+6	eine	_	_	_	order:LK[V]MF[SO]|props:pp-sname	7	det	_	_
+7	Attacke	_	_	_	order:LK[V]MF[SO]|props:pp-sname	1	obj	_	_
+8	?	_	_	_	order:LK[V]MF[SO]|props:pp-sname	1	punct	_	_
 
-1	Weil	_	_	_	order:MF[SO]VC[V]|props:pp-sname	7	mark	_	_
+1	Weil	_	_	_	order:MF[SO]VC[V]|props:pp-sname	8	mark	_	_
 2	in	_	_	_	order:MF[SO]VC[V]|props:pp-sname	4	case	_	_
 3	dem	_	_	_	order:MF[SO]VC[V]|props:pp-sname	4	det	_	_
-4	Jahr	_	_	_	order:MF[SO]VC[V]|props:pp-sname	7	obl	_	_
-5	Siemens	_	_	_	order:MF[SO]VC[V]|props:pp-sname	7	nsubj	_	_
-6	Angriff	_	_	_	order:MF[SO]VC[V]|props:pp-sname	7	obj	_	_
-7	startet	_	_	_	order:MF[SO]VC[V]|props:pp-sname	0	root	_	_
-8	.	_	_	_	order:MF[SO]VC[V]|props:pp-sname	7	punct	_	_
+4	Jahr	_	_	_	order:MF[SO]VC[V]|props:pp-sname	8	obl	_	_
+5	Siemens	_	_	_	order:MF[SO]VC[V]|props:pp-sname	8	nsubj	_	_
+6	eine	_	_	_	order:MF[SO]VC[V]|props:pp-sname	7	det	_	_
+7	Attacke	_	_	_	order:MF[SO]VC[V]|props:pp-sname	8	obj	_	_
+8	startet	_	_	_	order:MF[SO]VC[V]|props:pp-sname	0	root	_	_
+9	.	_	_	_	order:MF[SO]VC[V]|props:pp-sname	8	punct	_	_
 
 1	Balazs	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	2	nsubj	_	_
 2	lebt	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	0	root	_	_
@@ -45600,16 +45685,18 @@
 3	in	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	5	case	_	_
 4	dem	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	5	det	_	_
 5	Jahr	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	2	obl	_	_
-6	Bart	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	2	obj	_	_
-7	.	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	2	punct	_	_
+6	eine	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	7	det	_	_
+7	Gesichtsbehaarung	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	2	obj	_	_
+8	.	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	2	punct	_	_
 
-1	Bart	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	2	obj	_	_
-2	rasiert	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	0	root	_	_
-3	in	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	5	case	_	_
-4	dem	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	5	det	_	_
-5	Jahr	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	2	obl	_	_
-6	Gillette	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	2	nsubj	_	_
-7	.	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	2	punct	_	_
+1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	2	det	_	_
+2	Gesichtsbehaarung	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	3	obj	_	_
+3	rasiert	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	0	root	_	_
+4	in	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	6	case	_	_
+5	dem	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	6	det	_	_
+6	Jahr	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	3	obl	_	_
+7	Gillette	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	3	nsubj	_	_
+8	.	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	3	punct	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	2	advmod	_	_
 2	rasiert	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	0	root	_	_
@@ -45617,25 +45704,28 @@
 4	dem	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	5	det	_	_
 5	Jahr	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	2	obl	_	_
 6	Gillette	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	2	nsubj	_	_
-7	Bart	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	2	obj	_	_
-8	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	2	punct	_	_
+7	eine	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	8	det	_	_
+8	Gesichtsbehaarung	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	2	obj	_	_
+9	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	2	punct	_	_
 
 1	Rasiert	_	_	_	order:LK[V]MF[SO]|props:pp-sname	0	root	_	_
 2	in	_	_	_	order:LK[V]MF[SO]|props:pp-sname	4	case	_	_
 3	dem	_	_	_	order:LK[V]MF[SO]|props:pp-sname	4	det	_	_
 4	Jahr	_	_	_	order:LK[V]MF[SO]|props:pp-sname	1	obl	_	_
 5	Gillette	_	_	_	order:LK[V]MF[SO]|props:pp-sname	1	nsubj	_	_
-6	Bart	_	_	_	order:LK[V]MF[SO]|props:pp-sname	1	obj	_	_
-7	?	_	_	_	order:LK[V]MF[SO]|props:pp-sname	1	punct	_	_
+6	eine	_	_	_	order:LK[V]MF[SO]|props:pp-sname	7	det	_	_
+7	Gesichtsbehaarung	_	_	_	order:LK[V]MF[SO]|props:pp-sname	1	obj	_	_
+8	?	_	_	_	order:LK[V]MF[SO]|props:pp-sname	1	punct	_	_
 
-1	Weil	_	_	_	order:MF[SO]VC[V]|props:pp-sname	7	mark	_	_
+1	Weil	_	_	_	order:MF[SO]VC[V]|props:pp-sname	8	mark	_	_
 2	in	_	_	_	order:MF[SO]VC[V]|props:pp-sname	4	case	_	_
 3	dem	_	_	_	order:MF[SO]VC[V]|props:pp-sname	4	det	_	_
-4	Jahr	_	_	_	order:MF[SO]VC[V]|props:pp-sname	7	obl	_	_
-5	Gillette	_	_	_	order:MF[SO]VC[V]|props:pp-sname	7	nsubj	_	_
-6	Bart	_	_	_	order:MF[SO]VC[V]|props:pp-sname	7	obj	_	_
-7	rasiert	_	_	_	order:MF[SO]VC[V]|props:pp-sname	0	root	_	_
-8	.	_	_	_	order:MF[SO]VC[V]|props:pp-sname	7	punct	_	_
+4	Jahr	_	_	_	order:MF[SO]VC[V]|props:pp-sname	8	obl	_	_
+5	Gillette	_	_	_	order:MF[SO]VC[V]|props:pp-sname	8	nsubj	_	_
+6	eine	_	_	_	order:MF[SO]VC[V]|props:pp-sname	7	det	_	_
+7	Gesichtsbehaarung	_	_	_	order:MF[SO]VC[V]|props:pp-sname	8	obj	_	_
+8	rasiert	_	_	_	order:MF[SO]VC[V]|props:pp-sname	0	root	_	_
+9	.	_	_	_	order:MF[SO]VC[V]|props:pp-sname	8	punct	_	_
 
 1	Clooney	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	2	nsubj	_	_
 2	trinkt	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	0	root	_	_
@@ -45685,17 +45775,19 @@
 4	in	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	6	case	_	_
 5	dem	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	6	det	_	_
 6	Jahr	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	3	obl	_	_
-7	Roman	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	3	obj	_	_
-8	.	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	3	punct	_	_
+7	eine	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	8	det	_	_
+8	Erzählung	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	3	obj	_	_
+9	.	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	3	punct	_	_
 
-1	Roman	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	2	obj	_	_
-2	schreibt	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	0	root	_	_
-3	in	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	5	case	_	_
-4	dem	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	5	det	_	_
-5	Jahr	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	2	obl	_	_
-6	Bertolt	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	2	nsubj	_	_
-7	Brecht	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	6	flat	_	_
-8	.	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	2	punct	_	_
+1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	2	det	_	_
+2	Erzählung	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	3	obj	_	_
+3	schreibt	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	0	root	_	_
+4	in	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	6	case	_	_
+5	dem	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	6	det	_	_
+6	Jahr	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	3	obl	_	_
+7	Bertolt	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	3	nsubj	_	_
+8	Brecht	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	7	flat	_	_
+9	.	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	3	punct	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	2	advmod	_	_
 2	schreibt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	0	root	_	_
@@ -45704,8 +45796,9 @@
 5	Jahr	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	2	obl	_	_
 6	Bertolt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	2	nsubj	_	_
 7	Brecht	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	6	flat	_	_
-8	Roman	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	2	obj	_	_
-9	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	2	punct	_	_
+8	eine	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	9	det	_	_
+9	Erzählung	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	2	obj	_	_
+10	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	2	punct	_	_
 
 1	Schreibt	_	_	_	order:LK[V]MF[SO]|props:pp-sname	0	root	_	_
 2	in	_	_	_	order:LK[V]MF[SO]|props:pp-sname	4	case	_	_
@@ -45713,18 +45806,20 @@
 4	Jahr	_	_	_	order:LK[V]MF[SO]|props:pp-sname	1	obl	_	_
 5	Bertolt	_	_	_	order:LK[V]MF[SO]|props:pp-sname	1	nsubj	_	_
 6	Brecht	_	_	_	order:LK[V]MF[SO]|props:pp-sname	5	flat	_	_
-7	Roman	_	_	_	order:LK[V]MF[SO]|props:pp-sname	1	obj	_	_
-8	?	_	_	_	order:LK[V]MF[SO]|props:pp-sname	1	punct	_	_
+7	eine	_	_	_	order:LK[V]MF[SO]|props:pp-sname	8	det	_	_
+8	Erzählung	_	_	_	order:LK[V]MF[SO]|props:pp-sname	1	obj	_	_
+9	?	_	_	_	order:LK[V]MF[SO]|props:pp-sname	1	punct	_	_
 
-1	Weil	_	_	_	order:MF[SO]VC[V]|props:pp-sname	8	mark	_	_
+1	Weil	_	_	_	order:MF[SO]VC[V]|props:pp-sname	9	mark	_	_
 2	in	_	_	_	order:MF[SO]VC[V]|props:pp-sname	4	case	_	_
 3	dem	_	_	_	order:MF[SO]VC[V]|props:pp-sname	4	det	_	_
-4	Jahr	_	_	_	order:MF[SO]VC[V]|props:pp-sname	8	obl	_	_
-5	Bertolt	_	_	_	order:MF[SO]VC[V]|props:pp-sname	8	nsubj	_	_
+4	Jahr	_	_	_	order:MF[SO]VC[V]|props:pp-sname	9	obl	_	_
+5	Bertolt	_	_	_	order:MF[SO]VC[V]|props:pp-sname	9	nsubj	_	_
 6	Brecht	_	_	_	order:MF[SO]VC[V]|props:pp-sname	5	flat	_	_
-7	Roman	_	_	_	order:MF[SO]VC[V]|props:pp-sname	8	obj	_	_
-8	schreibt	_	_	_	order:MF[SO]VC[V]|props:pp-sname	0	root	_	_
-9	.	_	_	_	order:MF[SO]VC[V]|props:pp-sname	8	punct	_	_
+7	eine	_	_	_	order:MF[SO]VC[V]|props:pp-sname	8	det	_	_
+8	Erzählung	_	_	_	order:MF[SO]VC[V]|props:pp-sname	9	obj	_	_
+9	schreibt	_	_	_	order:MF[SO]VC[V]|props:pp-sname	0	root	_	_
+10	.	_	_	_	order:MF[SO]VC[V]|props:pp-sname	9	punct	_	_
 
 1	Merkel	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	2	nsubj	_	_
 2	beendet	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	0	root	_	_
@@ -45825,16 +45920,18 @@
 3	in	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	5	case	_	_
 4	dem	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	5	det	_	_
 5	Jahr	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	2	obl	_	_
-6	Bauzaun	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	2	obj	_	_
-7	.	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	2	punct	_	_
+6	eine	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	7	det	_	_
+7	Umzäunung	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	2	obj	_	_
+8	.	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	2	punct	_	_
 
-1	Bauzaun	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	2	obj	_	_
-2	zieht	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	0	root	_	_
-3	in	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	5	case	_	_
-4	dem	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	5	det	_	_
-5	Jahr	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	2	obl	_	_
-6	Anke	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	2	nsubj	_	_
-7	.	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	2	punct	_	_
+1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	2	det	_	_
+2	Umzäunung	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	3	obj	_	_
+3	zieht	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	0	root	_	_
+4	in	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	6	case	_	_
+5	dem	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	6	det	_	_
+6	Jahr	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	3	obl	_	_
+7	Anke	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	3	nsubj	_	_
+8	.	_	_	_	order:VF[O]LK[V]MF[S]|props:pp-sname	3	punct	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	2	advmod	_	_
 2	zieht	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	0	root	_	_
@@ -45842,25 +45939,28 @@
 4	dem	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	5	det	_	_
 5	Jahr	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	2	obl	_	_
 6	Anke	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	2	nsubj	_	_
-7	Bauzaun	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	2	obj	_	_
-8	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	2	punct	_	_
+7	eine	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	8	det	_	_
+8	Umzäunung	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	2	obj	_	_
+9	.	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:pp-sname	2	punct	_	_
 
 1	Zieht	_	_	_	order:LK[V]MF[SO]|props:pp-sname	0	root	_	_
 2	in	_	_	_	order:LK[V]MF[SO]|props:pp-sname	4	case	_	_
 3	dem	_	_	_	order:LK[V]MF[SO]|props:pp-sname	4	det	_	_
 4	Jahr	_	_	_	order:LK[V]MF[SO]|props:pp-sname	1	obl	_	_
 5	Anke	_	_	_	order:LK[V]MF[SO]|props:pp-sname	1	nsubj	_	_
-6	Bauzaun	_	_	_	order:LK[V]MF[SO]|props:pp-sname	1	obj	_	_
-7	?	_	_	_	order:LK[V]MF[SO]|props:pp-sname	1	punct	_	_
+6	eine	_	_	_	order:LK[V]MF[SO]|props:pp-sname	7	det	_	_
+7	Umzäunung	_	_	_	order:LK[V]MF[SO]|props:pp-sname	1	obj	_	_
+8	?	_	_	_	order:LK[V]MF[SO]|props:pp-sname	1	punct	_	_
 
-1	Weil	_	_	_	order:MF[SO]VC[V]|props:pp-sname	7	mark	_	_
+1	Weil	_	_	_	order:MF[SO]VC[V]|props:pp-sname	8	mark	_	_
 2	in	_	_	_	order:MF[SO]VC[V]|props:pp-sname	4	case	_	_
 3	dem	_	_	_	order:MF[SO]VC[V]|props:pp-sname	4	det	_	_
-4	Jahr	_	_	_	order:MF[SO]VC[V]|props:pp-sname	7	obl	_	_
-5	Anke	_	_	_	order:MF[SO]VC[V]|props:pp-sname	7	nsubj	_	_
-6	Bauzaun	_	_	_	order:MF[SO]VC[V]|props:pp-sname	7	obj	_	_
-7	zieht	_	_	_	order:MF[SO]VC[V]|props:pp-sname	0	root	_	_
-8	.	_	_	_	order:MF[SO]VC[V]|props:pp-sname	7	punct	_	_
+4	Jahr	_	_	_	order:MF[SO]VC[V]|props:pp-sname	8	obl	_	_
+5	Anke	_	_	_	order:MF[SO]VC[V]|props:pp-sname	8	nsubj	_	_
+6	eine	_	_	_	order:MF[SO]VC[V]|props:pp-sname	7	det	_	_
+7	Umzäunung	_	_	_	order:MF[SO]VC[V]|props:pp-sname	8	obj	_	_
+8	zieht	_	_	_	order:MF[SO]VC[V]|props:pp-sname	0	root	_	_
+9	.	_	_	_	order:MF[SO]VC[V]|props:pp-sname	8	punct	_	_
 
 1	Bonn	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	2	nsubj	_	_
 2	gewinnt	_	_	_	order:VF[S]LK[V]MF[O]|props:pp-sname	0	root	_	_
