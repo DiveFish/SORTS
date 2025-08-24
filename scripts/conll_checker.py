@@ -22,7 +22,7 @@ def process_single_file(file_path):
         deprels = []
         head_errors = []
         sentence_index = 1
-        cols_in_file = None  # Will be inferred from first line
+        cols_in_file = None
 
         for line in f:
             line = line.strip()
@@ -48,7 +48,7 @@ def process_single_file(file_path):
                         if sorted(indices) != expected:
                             mismatches.append(f"indices not consecutive: {sorted(indices)}")
 
-                # HEAD and deprel checks only for files with enough columns
+                # HEAD checks if file has enough columns
                 if cols_in_file and cols_in_file >= 7:
                     if indices and heads and None not in indices and None not in heads:
                         max_idx = max(indices)
@@ -67,7 +67,7 @@ def process_single_file(file_path):
                         if head_errors:
                             mismatches.extend(head_errors)
 
-                    # Deprel checks
+                    # Deprel multiplicity check
                     if deprels:
                         nsubj_count = deprels.count("nsubj")
                         obj_count = deprels.count("obj")
@@ -76,7 +76,18 @@ def process_single_file(file_path):
                         if obj_count > 1:
                             mismatches.append(f"multiple obj ({obj_count})")
 
-                # Output mismatches
+                    # Specific DEPREL → verb/root HEAD check
+                    try:
+                        token_info = list(zip(indices, heads, deprels))
+                        verb_heads = {idx for idx, _, rel in token_info if rel in {"root", "verb"}}
+                        target_deprels = {"nsubj", "obj", "obl", "mark", "advmod", "punct", "aux"}
+                        for idx, head, rel in token_info:
+                            if rel in target_deprels and head not in verb_heads:
+                                mismatches.append(f"{rel} at token {idx} doesn't attach to verb/root (head={head})")
+                    except Exception as e:
+                        mismatches.append(f"[ERROR during deprel-head check: {e}]")
+
+                # Print mismatches
                 if mismatches:
                     print(f"[{os.path.basename(file_path)}] Sentence {sentence_index} – mismatches: {', '.join(mismatches)}")
                     print("  " + " ".join(sentence_tokens))
@@ -147,5 +158,5 @@ def process_directory(directory_path):
 
 
 if __name__ == "__main__":
-    directory = "/Users/patricia/Code/SORTS/german/gold/"
+    directory = "/Users/patricia/Code/SORTS/dutch/gold/"
     process_directory(directory)

@@ -11934,7 +11934,7 @@
 2	reizigers	_	_	_	order:VF[S]LK[V]MF[O]|props:base-oan	3	nsubj	_	_		
 3	eisen	_	_	_	order:VF[S]LK[V]MF[O]|props:base-oan	0	root	_	_		
 4	tolken	_	_	_	order:VF[S]LK[V]MF[O]|props:base-oan	3	obj	_	_		
-5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:base-oan	4	punct	_	_		
+5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:base-oan	3	punct	_	_
 
 1	Tolken	_	_	_	order:VF[O]LK[V]MF[S]|props:base-oan	2	obj	_	_		
 2	eisen	_	_	_	order:VF[O]LK[V]MF[S]|props:base-oan	0	root	_	_		
@@ -11953,7 +11953,7 @@
 2	de	_	_	_	order:LK[V]MF[SO]|props:base-oan	3	det	_	_		
 3	reizigers	_	_	_	order:LK[V]MF[SO]|props:base-oan	1	nsubj	_	_		
 4	tolken	_	_	_	order:LK[V]MF[SO]|props:base-oan	1	obj	_	_		
-5	?	_	_	_	order:LK[V]MF[SO]|props:base-oan	4	punct	_	_		
+5	?	_	_	_	order:LK[V]MF[SO]|props:base-oan	1	punct	_	_
 
 1	Omdat	_	_	_	order:MF[SO]VC[V]|props:base-oan	5	mark	_	_		
 2	de	_	_	_	order:MF[SO]VC[V]|props:base-oan	3	det	_	_		
@@ -17213,7 +17213,7 @@
 2	de	_	_	_	order:LK[V]MF[SO]|props:base-regpol	3	det	_	_		
 3	garages	_	_	_	order:LK[V]MF[SO]|props:base-regpol	1	nsubj	_	_		
 4	hekken	_	_	_	order:LK[V]MF[SO]|props:base-regpol	1	obj	_	_		
-5	?	_	_	_	order:LK[V]MF[SO]|props:base-regpol	4	punct	_	_		
+5	?	_	_	_	order:LK[V]MF[SO]|props:base-regpol	1	punct	_	_
 
 1	Omdat	_	_	_	order:MF[SO]VC[V]|props:base-regpol	5	mark	_	_		
 2	de	_	_	_	order:MF[SO]VC[V]|props:base-regpol	3	det	_	_		
@@ -22421,7 +22421,7 @@
 2	kind	_	_	_	order:VF[O]LK[V]MF[S]|props:oan-snp	3	obj	_	_		
 3	babysit	_	_	_	order:VF[O]LK[V]MF[S]|props:oan-snp	0	root	_	_		
 4	Clooney	_	_	_	order:VF[O]LK[V]MF[S]|props:oan-snp	3	nsubj	_	_		
-5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:oan-snp	2	punct	_	_		
+5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:oan-snp	3	punct	_	_
 
 1	Daarom	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oan-snp	2	advmod	_	_		
 2	babysit	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oan-snp	0	root	_	_		
@@ -32158,7 +32158,7 @@
 4	koffie	_	_	_	order:LK[V]MF[SO]|props:regpol-psy	3	nmod	_	_		
 5	een	_	_	_	order:LK[V]MF[SO]|props:regpol-psy	6	det	_	_		
 6	personeelsafdeling	_	_	_	order:LK[V]MF[SO]|props:regpol-psy	1	obj	_	_		
-7	?	_	_	_	order:LK[V]MF[SO]|props:regpol-psy	6	punct	_	_		
+7	?	_	_	_	order:LK[V]MF[SO]|props:regpol-psy	1	punct	_	_
 
 1	Omdat	_	_	_	order:MF[SO]VC[V]|props:regpol-psy	7	mark	_	_		
 2	het	_	_	_	order:MF[SO]VC[V]|props:regpol-psy	3	det	_	_		
@@ -41771,7 +41771,7 @@
 2	reizigers	_	_	_	order:VF[S]LK[V]MF[O]|props:oan-syn	3	nsubj	_	_		
 3	vragen	_	_	_	order:VF[S]LK[V]MF[O]|props:oan-syn	0	root	_	_		
 4	tolken	_	_	_	order:VF[S]LK[V]MF[O]|props:oan-syn	3	obj	_	_		
-5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:oan-syn	4	punct	_	_		
+5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:oan-syn	3	punct	_	_
 
 1	Tolken	_	_	_	order:VF[O]LK[V]MF[S]|props:oan-syn	2	obj	_	_		
 2	vragen	_	_	_	order:VF[O]LK[V]MF[S]|props:oan-syn	0	root	_	_		
@@ -41790,7 +41790,7 @@
 2	de	_	_	_	order:LK[V]MF[SO]|props:oan-syn	3	det	_	_		
 3	reizigers	_	_	_	order:LK[V]MF[SO]|props:oan-syn	1	nsubj	_	_		
 4	tolken	_	_	_	order:LK[V]MF[SO]|props:oan-syn	1	obj	_	_		
-5	?	_	_	_	order:LK[V]MF[SO]|props:oan-syn	4	punct	_	_		
+5	?	_	_	_	order:LK[V]MF[SO]|props:oan-syn	1	punct	_	_
 
 1	Omdat	_	_	_	order:MF[SO]VC[V]|props:oan-syn	5	mark	_	_		
 2	de	_	_	_	order:MF[SO]VC[V]|props:oan-syn	3	det	_	_		
@@ -43196,7 +43196,7 @@
 3	pent	_	_	_	order:VF[O]LK[V]MF[S]|props:snp-syn	0	root	_	_		
 4	Han	_	_	_	order:VF[O]LK[V]MF[S]|props:snp-syn	3	nsubj	_	_		
 5	Voskuil	_	_	_	order:VF[O]LK[V]MF[S]|props:snp-syn	4	flat	_	_		
-6	.	_	_	_	order:VF[O]LK[V]MF[S]|props:snp-syn	2	punct	_	_		
+6	.	_	_	_	order:VF[O]LK[V]MF[S]|props:snp-syn	3	punct	_	_
 
 1	Daarom	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:snp-syn	2	advmod	_	_		
 2	pent	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:snp-syn	0	root	_	_		
