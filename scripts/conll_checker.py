@@ -158,5 +158,6 @@ def process_directory(directory_path):
 
 
 if __name__ == "__main__":
-    directory = "/Users/patricia/Code/SORTS/dutch/gold/"
+    directory = "/Users/patricia/Code/SORTS/german/pp/"
+    print("Checked directory: " + directory)
     process_directory(directory)

@@ -8755,20 +8755,20 @@
 
 1	Die	der	_	DET-ART	Morph:npm|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-oan|tf:VF
 2	Züchter	Züchter	_	NOUN-NN	Morph:npm|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-oan|tf:VF
-3	ernennen	ernennen	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-oan|tf:LK
+3	füttern	füttern	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-oan|tf:LK
 4	keine	keine	_	DET-PIAT	Morph:apf|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-oan|tf:MF
 5	Spinnen	Spinne	_	NOUN-NN	Morph:apf|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-oan|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-oan|tf:UNK
 
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-oan|tf:VF
-2	ernennen	ernennen	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-oan|tf:LK
+2	füttern	füttern	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-oan|tf:LK
 3	die	der	_	DET-ART	Morph:npm|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-oan|tf:MF
 4	Züchter	Züchter	_	NOUN-NN	Morph:npm|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-oan|tf:MF
 5	keine	keine	_	DET-PIAT	Morph:apf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-oan|tf:MF
 6	Spinnen	Spinne	_	NOUN-NN	Morph:apf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-oan|tf:MF
 7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-oan|tf:UNK
 
-1	Ernennen	ernennen	_	VERB-VVFIN	Morph:3pis|NE:O|order:LK[V]MF[SO]|props:oneg-oan|tf:LK
+1	Füttern	füttern	_	VERB-VVFIN	Morph:3pis|NE:O|order:LK[V]MF[SO]|props:oneg-oan|tf:LK
 2	die	der	_	DET-ART	Morph:npm|NE:O|order:LK[V]MF[SO]|props:oneg-oan|tf:MF
 3	Züchter	Züchter	_	NOUN-NN	Morph:npm|NE:O|order:LK[V]MF[SO]|props:oneg-oan|tf:MF
 4	keine	keine	_	DET-PIAT	Morph:apf|NE:O|order:LK[V]MF[SO]|props:oneg-oan|tf:MF
@@ -8780,7 +8780,7 @@
 3	Züchter	Züchter	_	NOUN-NN	Morph:npm|NE:O|order:MF[SO]VC[V]|props:oneg-oan|tf:MF
 4	keine	keine	_	DET-PIAT	Morph:apf|NE:O|order:MF[SO]VC[V]|props:oneg-oan|tf:MF
 5	Spinnen	Spinne	_	NOUN-NN	Morph:apf|NE:O|order:MF[SO]VC[V]|props:oneg-oan|tf:MF
-6	ernennen	ernennen	_	VERB-VVFIN	Morph:3pis|NE:O|order:MF[SO]VC[V]|props:oneg-oan|tf:VC
+6	füttern	füttern	_	VERB-VVFIN	Morph:3pis|NE:O|order:MF[SO]VC[V]|props:oneg-oan|tf:VC
 7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:oneg-oan|tf:UNK
 
 1	Die	die	_	DET-ART	Morph:npf|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-oan|tf:VF
@@ -42711,11 +42711,11 @@
 1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-sinan|tf:C
 2	das	das	_	DET-ART	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:pp-sinan|tf:MF
 3	Leck	Leck	_	NOUN-NN	Morph:nsn|NE:O|order:MF[SO]VC[V]|props:pp-sinan|tf:MF
-4	ein	ein	_	DET-ART	Morph:asn|NE:O|order:MF[SO]VC[V]|props:pp-sinan|tf:MF
-5	Ende	Ende	_	NOUN-NN	Morph:asn|NE:O|order:MF[SO]VC[V]|props:pp-sinan|tf:MF
-6	in	in	_	ADP-APPR	Morph:d|NE:O|order:MF[SO]VC[V]|props:pp-sinan|tf:MF
-7	dem	das	_	DET-ART	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-sinan|tf:MF
-8	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-sinan|tf:MF
+4	in	in	_	ADP-APPR	Morph:d|NE:O|order:MF[SO]VC[V]|props:pp-sinan|tf:MF
+5	dem	das	_	DET-ART	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-sinan|tf:MF
+6	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-sinan|tf:MF
+7	ein	ein	_	DET-ART	Morph:asn|NE:O|order:MF[SO]VC[V]|props:pp-sinan|tf:MF
+8	Ende	Ende	_	NOUN-NN	Morph:asn|NE:O|order:MF[SO]VC[V]|props:pp-sinan|tf:MF
 9	bedeutet	bedeuten	_	VERB-VVFIN	Morph:3sis|NE:O|order:MF[SO]VC[V]|props:pp-sinan|tf:VC
 10	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-sinan|tf:UNK
 
@@ -42994,7 +42994,7 @@
 
 1	Die	der	_	DET-ART	Morph:npm|NE:O|order:VF[S]LK[V]MF[O]|props:pp-oan|tf:VF
 2	Züchter	Züchter	_	NOUN-NN	Morph:npm|NE:O|order:VF[S]LK[V]MF[O]|props:pp-oan|tf:VF
-3	ernennen	ernennen	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[S]LK[V]MF[O]|props:pp-oan|tf:LK
+3	füttern	füttern	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[S]LK[V]MF[O]|props:pp-oan|tf:LK
 4	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[S]LK[V]MF[O]|props:pp-oan|tf:MF
 5	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-oan|tf:MF
 6	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[S]LK[V]MF[O]|props:pp-oan|tf:MF
@@ -43002,7 +43002,7 @@
 8	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:pp-oan|tf:UNK
 
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-oan|tf:VF
-2	ernennen	ernennen	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-oan|tf:LK
+2	füttern	füttern	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-oan|tf:LK
 3	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-oan|tf:MF
 4	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-oan|tf:MF
 5	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-oan|tf:MF
@@ -43011,7 +43011,7 @@
 8	Spinnen	Spinne	_	NOUN-NN	Morph:apf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-oan|tf:MF
 9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-oan|tf:UNK
 
-1	Ernennen	ernennen	_	VERB-VVFIN	Morph:3pis|NE:O|order:LK[V]MF[SO]|props:pp-oan|tf:LK
+1	Füttern	füttern	_	VERB-VVFIN	Morph:3pis|NE:O|order:LK[V]MF[SO]|props:pp-oan|tf:LK
 2	in	in	_	ADP-APPR	Morph:d|NE:O|order:LK[V]MF[SO]|props:pp-oan|tf:MF
 3	dem	das	_	DET-ART	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-oan|tf:MF
 4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:LK[V]MF[SO]|props:pp-oan|tf:MF
@@ -43027,7 +43027,7 @@
 5	in	in	_	ADP-APPR	Morph:d|NE:O|order:MF[SO]VC[V]|props:pp-oan|tf:MF
 6	dem	das	_	DET-ART	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-oan|tf:MF
 7	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:MF[SO]VC[V]|props:pp-oan|tf:MF
-8	ernennen	ernennen	_	VERB-VVFIN	Morph:3pis|NE:O|order:MF[SO]VC[V]|props:pp-oan|tf:VC
+8	füttern	füttern	_	VERB-VVFIN	Morph:3pis|NE:O|order:MF[SO]VC[V]|props:pp-oan|tf:VC
 9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:pp-oan|tf:UNK
 
 1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-oan|tf:VF
