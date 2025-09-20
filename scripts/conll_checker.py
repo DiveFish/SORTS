@@ -1,5 +1,10 @@
 import os
 
+FEATURES = ['base', 'dat', 'amb', 'aux', 'spron', 'opron', 'oneg', 'sinan', 'oan', 'regpol', 'invan', 'sname', 'semas',
+            'noref', 'psy', 'pp', 'acc', 'vlight', 'syn', 'prov',
+            'VF[S]LK[V]MF[O]', 'VF[O]LK[V]MF[S]', 'VF[ADV]LK[V]MF[SO]', 'VF[ADV]LK[V]MF[OS]',
+            'LK[V]MF[SO]', 'LK[V]MF[OS]', 'MF[SO]VC[V]', 'MF[OS]VC[V]']
+
 
 def extract_feature(features_str, key):
     for item in features_str.split("|"):
@@ -23,6 +28,7 @@ def process_single_file(file_path):
         head_errors = []
         sentence_index = 1
         cols_in_file = None
+        invalid_features = []
 
         for line in f:
             line = line.strip()
@@ -31,11 +37,13 @@ def process_single_file(file_path):
             if line == "":
                 mismatches = []
 
-                # Feature mismatches
+                # Invalid FEATURES
+                if invalid_features:
+                    mismatches.extend(invalid_features)
+
+                # Word order mismatch
                 if len(orders) > 1:
                     mismatches.append(f"order: {format_values(orders)}")
-                if len(props) > 1:
-                    mismatches.append(f"props: {format_values(props)}")
 
                 # ID checks
                 if indices:
@@ -75,6 +83,10 @@ def process_single_file(file_path):
                             mismatches.append(f"multiple nsubj ({nsubj_count})")
                         if obj_count > 1:
                             mismatches.append(f"multiple obj ({obj_count})")
+                        if nsubj_count == 0:
+                            mismatches.append("missing nsubj")
+                        if obj_count == 0:
+                            mismatches.append("missing obj")
 
                     # Specific DEPREL → verb/root HEAD check
                     try:
@@ -102,6 +114,7 @@ def process_single_file(file_path):
                 heads = []
                 deprels = []
                 head_errors = []
+                invalid_features = []
                 continue
 
             # Parse line
@@ -145,9 +158,22 @@ def process_single_file(file_path):
             deprel = cols[7] if len(cols) > 7 else None
             deprels.append(deprel)
 
-            # Extract features
-            orders.add(extract_feature(feats, "order"))
-            props.add(extract_feature(feats, "props"))
+            # Order feature
+            order_value = extract_feature(feats, "order")
+            if order_value:
+                orders.add(order_value)
+                if order_value not in FEATURES:
+                    invalid_features.append(f"Invalid order: '{order_value}'")
+
+            # Props feature
+            prop_value = extract_feature(feats, "props")
+            if prop_value:
+                for prop in prop_value.split("-"):
+                    prop = prop.strip()
+                    if prop:
+                        props.add(prop)
+                        if prop not in FEATURES:
+                            invalid_features.append(f"Invalid prop: '{prop}'")
 
 
 def process_directory(directory_path):
@@ -158,6 +184,6 @@ def process_directory(directory_path):
 
 
 if __name__ == "__main__":
-    directory = "/Users/patricia/Code/SORTS/german/pp/"
+    directory = "/Users/patricia/Code/SORTS/german/annotated/"
     print("Checked directory: " + directory)
     process_directory(directory)
