@@ -363,26 +363,26 @@ VF[S]LK[V]MF[O]	aux-opron	2	4	Die Generäle werden sie starten .
 VF[ADV]LK[V]MF[SO]	aux-opron	4	5	Deshalb werden die Generäle sie starten .
 LK[V]MF[SO]	aux-opron	3	4	Werden die Generäle sie starten ?
 MF[SO]VC[V]	aux-opron	3	4	Weil die Generäle sie starten werden .
-VF[S]LK[V]MF[O]	aux-opron	2	5	Die Partnerin wird sie leben .
-VF[ADV]LK[V]MF[SO]	aux-opron	4	6	Deshalb wird die Partnerin sie leben .
-LK[V]MF[SO]	aux-opron	3	5	Wird die Partnerin sie leben ?
-MF[SO]VC[V]	aux-opron	3	5	Weil die Partnerin sie leben wird .
+VF[S]LK[V]MF[O]	aux-opron	2	4	Die Partnerin wird sie leben .
+VF[ADV]LK[V]MF[SO]	aux-opron	4	5	Deshalb wird die Partnerin sie leben .
+LK[V]MF[SO]	aux-opron	3	4	Wird die Partnerin sie leben ?
+MF[SO]VC[V]	aux-opron	3	4	Weil die Partnerin sie leben wird .
 VF[S]LK[V]MF[O]	aux-opron	2	4	Die Journalistin wird sie übertexten .
 VF[ADV]LK[V]MF[SO]	aux-opron	4	5	Deshalb wird die Journalistin sie übertexten .
 LK[V]MF[SO]	aux-opron	3	4	Wird die Journalistin sie übertexten ?
 MF[SO]VC[V]	aux-opron	3	4	Weil die Journalistin sie übertexten wird .
-VF[S]LK[V]MF[O]	aux-opron	2	5	Die Freundin wird sie spielen .
-VF[ADV]LK[V]MF[SO]	aux-opron	4	6	Deshalb wird die Freundin sie spielen .
-LK[V]MF[SO]	aux-opron	3	5	Wird die Freundin sie spielen ?
-MF[SO]VC[V]	aux-opron	3	5	Weil die Freundin sie spielen wird .
+VF[S]LK[V]MF[O]	aux-opron	2	4	Die Freundin wird sie spielen .
+VF[ADV]LK[V]MF[SO]	aux-opron	4	5	Deshalb wird die Freundin sie spielen .
+LK[V]MF[SO]	aux-opron	3	4	Wird die Freundin sie spielen ?
+MF[SO]VC[V]	aux-opron	3	4	Weil die Freundin sie spielen wird .
 VF[S]LK[V]MF[O]	aux-opron	2	4	Die Passanten werden sie bewerfen .
 VF[ADV]LK[V]MF[SO]	aux-opron	4	5	Deshalb werden die Passanten sie bewerfen .
 LK[V]MF[SO]	aux-opron	3	4	Werden die Passanten sie bewerfen ?
 MF[SO]VC[V]	aux-opron	3	4	Weil die Passanten sie bewerfen werden .
-VF[S]LK[V]MF[O]	aux-opron	2	5	Die Kinder werden sie finden .
-VF[ADV]LK[V]MF[SO]	aux-opron	4	6	Deshalb werden die Kinder sie finden .
-LK[V]MF[SO]	aux-opron	3	5	Werden die Kinder sie finden ?
-MF[SO]VC[V]	aux-opron	3	5	Weil die Kinder sie finden werden .
+VF[S]LK[V]MF[O]	aux-opron	2	4	Die Kinder werden sie finden .
+VF[ADV]LK[V]MF[SO]	aux-opron	4	5	Deshalb werden die Kinder sie finden .
+LK[V]MF[SO]	aux-opron	3	4	Werden die Kinder sie finden ?
+MF[SO]VC[V]	aux-opron	3	4	Weil die Kinder sie finden werden .
 VF[S]LK[V]MF[O]	aux-opron	2	4	Die Leser werden sie abonnieren .
 VF[ADV]LK[V]MF[SO]	aux-opron	4	5	Deshalb werden die Leser sie abonnieren .
 LK[V]MF[SO]	aux-opron	3	4	Werden die Leser sie abonnieren ?
@@ -1357,13 +1357,19 @@ MF[OS]VC[V]	base-invan	5	3	Weil eine Informatikerin die Deadline drängt .
 VF[S]LK[V]MF[O]	base-invan	2	4	Die Öfen wärmen Wanderinnen .
 VF[O]LK[V]MF[S]	base-invan	4	1	Wanderinnen wärmen die Öfen .
 VF[ADV]LK[V]MF[SO]	base-invan	4	5	Deshalb wärmen die Öfen Wanderinnen .
+VF[ADV]LK[V]MF[OS]	base-invan	5	3	Deshalb wärmen Wanderinnen die Öfen .
 LK[V]MF[SO]	base-invan	3	4	Wärmen die Öfen Wanderinnen ?
+LK[V]MF[OS]	base-invan	4	2	Wärmen Wanderinnen die Öfen ?
 MF[SO]VC[V]	base-invan	3	4	Weil die Öfen Wanderinnen wärmen .
+MF[OS]VC[V]	base-invan	4	2	Weil Wanderinnen die Öfen wärmen .
 VF[S]LK[V]MF[O]	base-invan	2	4	Die Regenschauer durchnässen Spaziergänger .
 VF[O]LK[V]MF[S]	base-invan	4	1	Spaziergänger durchnässen die Regenschauer .
 VF[ADV]LK[V]MF[SO]	base-invan	4	5	Deshalb durchnässen die Regenschauer Spaziergänger .
+VF[ADV]LK[V]MF[OS]	base-invan	5	3	Deshalb durchnässen Spaziergänger die Regenschauer .
 LK[V]MF[SO]	base-invan	3	4	Durchnässen die Regenschauer Spaziergänger ?
+LK[V]MF[OS]	base-invan	4	2	Durchnässen Spaziergänger die Regenschauer ?
 MF[SO]VC[V]	base-invan	3	4	Weil die Regenschauer Spaziergänger durchnässen .
+MF[OS]VC[V]	base-invan	4	2	Weil Spaziergänger die Regenschauer durchnässen .
 VF[S]LK[V]MF[O]	base-invan	2	4	Die Kameras begleiten Trucker .
 VF[O]LK[V]MF[S]	base-invan	4	1	Trucker begleiten die Kameras .
 VF[ADV]LK[V]MF[SO]	base-invan	4	5	Deshalb begleiten die Kameras Trucker .
@@ -1462,13 +1468,19 @@ MF[OS]VC[V]	aux-invan	5	3	Weil eine Informatikerin die Deadline drängen wird .
 VF[S]LK[V]MF[O]	aux-invan	2	4	Die Öfen werden Wanderinnen wärmen .
 VF[O]LK[V]MF[S]	aux-invan	4	1	Wanderinnen werden die Öfen wärmen .
 VF[ADV]LK[V]MF[SO]	aux-invan	4	5	Deshalb werden die Öfen Wanderinnen wärmen .
+VF[ADV]LK[V]MF[OS]	aux-invan	5	3	Deshalb werden Wanderinnen die Öfen wärmen .
 LK[V]MF[SO]	aux-invan	3	4	Werden die Öfen Wanderinnen wärmen ?
+LK[V]MF[OS]	aux-invan	4	2	Werden Wanderinnen die Öfen wärmen ?
 MF[SO]VC[V]	aux-invan	3	4	Weil die Öfen Wanderinnen wärmen werden .
+MF[OS]VC[V]	aux-invan	4	2	Weil Wanderinnen die Öfen wärmen werden .
 VF[S]LK[V]MF[O]	aux-invan	2	4	Die Regenschauer werden Spaziergänger durchnässen .
 VF[O]LK[V]MF[S]	aux-invan	4	1	Spaziergänger werden die Regenschauer durchnässen .
 VF[ADV]LK[V]MF[SO]	aux-invan	4	5	Deshalb werden die Regenschauer Spaziergänger durchnässen .
+VF[ADV]LK[V]MF[OS]	aux-invan	5	3	Deshalb werden Spaziergänger die Regenschauer durchnässen .
 LK[V]MF[SO]	aux-invan	3	4	Werden die Regenschauer Spaziergänger durchnässen ?
+LK[V]MF[OS]	aux-invan	4	2	Werden Spaziergänger die Regenschauer durchnässen ?
 MF[SO]VC[V]	aux-invan	3	4	Weil die Regenschauer Spaziergänger durchnässen werden .
+MF[OS]VC[V]	aux-invan	4	2	Weil Spaziergänger die Regenschauer durchnässen werden .
 VF[S]LK[V]MF[O]	aux-invan	2	4	Die Kameras werden Trucker begleiten .
 VF[O]LK[V]MF[S]	aux-invan	4	1	Trucker werden die Kameras begleiten .
 VF[ADV]LK[V]MF[SO]	aux-invan	4	5	Deshalb werden die Kameras Trucker begleiten .
@@ -3139,8 +3151,11 @@ MF[SO]VC[V]	sname-noref	2	3	Weil EnBW nichts übernimmt .
 VF[S]LK[V]MF[O]	base-psy	2	4	Die Angriffe fesseln Generäle .
 VF[O]LK[V]MF[S]	base-psy	4	1	Generäle fesseln die Angriffe .
 VF[ADV]LK[V]MF[SO]	base-psy	4	5	Deshalb fesseln die Angriffe Generäle .
+VF[ADV]LK[V]MF[OS]	base-psy	5	3	Deshalb fesseln Generäle die Angriffe .
 LK[V]MF[SO]	base-psy	3	4	Fesseln die Angriffe Generäle ?
+LK[V]MF[OS]	base-psy	4	2	Fesseln Generäle die Angriffe ?
 MF[SO]VC[V]	base-psy	3	4	Weil die Angriffe Generäle fesseln .
+MF[OS]VC[V]	base-psy	4	2	Weil Generäle die Angriffe fesseln .
 VF[S]LK[V]MF[O]	base-psy	2	5	Das Doppelleben langweilt eine Partnerin .
 VF[O]LK[V]MF[S]	base-psy	5	2	Eine Partnerin langweilt das Doppelleben .
 VF[ADV]LK[V]MF[SO]	base-psy	4	6	Deshalb langweilt das Doppelleben eine Partnerin .
@@ -3192,18 +3207,27 @@ MF[OS]VC[V]	base-psy	5	3	Weil eine Leserin die Zeitschrift ängstigt .
 VF[S]LK[V]MF[O]	base-psy	2	4	Die Bärte erstaunen Herren .
 VF[O]LK[V]MF[S]	base-psy	4	1	Herren erstaunen die Bärte .
 VF[ADV]LK[V]MF[SO]	base-psy	4	5	Deshalb erstaunen die Bärte Herren .
+VF[ADV]LK[V]MF[OS]	base-psy	5	3	Deshalb erstaunen Herren die Bärte .
 LK[V]MF[SO]	base-psy	3	4	Erstaunen die Bärte Herren ?
+LK[V]MF[OS]	base-psy	4	2	Erstaunen Herren die Bärte ?
 MF[SO]VC[V]	base-psy	3	4	Weil die Bärte Herren erstaunen .
+MF[OS]VC[V]	base-psy	4	2	Weil Herren die Bärte erstaunen .
 VF[S]LK[V]MF[O]	base-psy	2	4	Die Kaffees erfreuen Mamas .
 VF[O]LK[V]MF[S]	base-psy	4	1	Mamas erfreuen die Kaffees .
 VF[ADV]LK[V]MF[SO]	base-psy	4	5	Deshalb erfreuen die Kaffees Mamas .
+VF[ADV]LK[V]MF[OS]	base-psy	5	3	Deshalb erfreuen Mamas die Kaffees .
 LK[V]MF[SO]	base-psy	3	4	Erfreuen die Kaffees Mamas ?
+LK[V]MF[OS]	base-psy	4	2	Erfreuen Mamas die Kaffees ?
 MF[SO]VC[V]	base-psy	3	4	Weil die Kaffees Mamas erfreuen .
+MF[OS]VC[V]	base-psy	4	2	Weil Mamas die Kaffees erfreuen .
 VF[S]LK[V]MF[O]	base-psy	2	4	Die Romane frustrieren Schriftsteller .
 VF[O]LK[V]MF[S]	base-psy	4	1	Schriftsteller frustrieren die Romane .
 VF[ADV]LK[V]MF[SO]	base-psy	4	5	Deshalb frustrieren die Romane Schriftsteller .
+VF[ADV]LK[V]MF[OS]	base-psy	5	3	Deshalb frustrieren Schriftsteller die Romane .
 LK[V]MF[SO]	base-psy	3	4	Frustrieren die Romane Schriftsteller ?
+LK[V]MF[OS]	base-psy	4	2	Frustrieren Schriftsteller die Romane ?
 MF[SO]VC[V]	base-psy	3	4	Weil die Romane Schriftsteller frustrieren .
+MF[OS]VC[V]	base-psy	4	2	Weil Schriftsteller die Romane frustrieren .
 VF[S]LK[V]MF[O]	base-psy	2	5	Die Rede erbost eine Politikerin .
 VF[O]LK[V]MF[S]	base-psy	5	2	Eine Politikerin erbost die Rede .
 VF[ADV]LK[V]MF[SO]	base-psy	4	6	Deshalb erbost die Rede eine Politikerin .
@@ -3223,8 +3247,11 @@ MF[OS]VC[V]	base-psy	5	3	Weil eine Abgeordnete das Grundgehalt beschämt .
 VF[S]LK[V]MF[O]	base-psy	2	4	Die Bauzäune reuen Kleinbauern .
 VF[O]LK[V]MF[S]	base-psy	4	1	Kleinbauern reuen die Bauzäune .
 VF[ADV]LK[V]MF[SO]	base-psy	4	5	Deshalb reuen die Bauzäune Kleinbauern .
+VF[ADV]LK[V]MF[OS]	base-psy	5	3	Deshalb reuen Kleinbauern die Bauzäune .
 LK[V]MF[SO]	base-psy	3	4	Reuen die Bauzäune Kleinbauern ?
+LK[V]MF[OS]	base-psy	4	2	Reuen Kleinbauern die Bauzäune ?
 MF[SO]VC[V]	base-psy	3	4	Weil die Bauzäune Kleinbauern reuen .
+MF[OS]VC[V]	base-psy	4	2	Weil Kleinbauern die Bauzäune reuen .
 VF[S]LK[V]MF[O]	base-psy	2	5	Die Tour amüsiert eine Sportlerin .
 VF[O]LK[V]MF[S]	base-psy	5	2	Eine Sportlerin amüsiert die Tour .
 VF[ADV]LK[V]MF[SO]	base-psy	4	6	Deshalb amüsiert die Tour eine Sportlerin .
@@ -3244,8 +3271,11 @@ MF[OS]VC[V]	base-psy	5	3	Weil eine Handwerkerin die Bauausführung belustigt .
 VF[S]LK[V]MF[O]	aux-psy	2	4	Die Angriffe werden Generäle fesseln .
 VF[O]LK[V]MF[S]	aux-psy	4	1	Generäle werden die Angriffe fesseln .
 VF[ADV]LK[V]MF[SO]	aux-psy	4	5	Deshalb werden die Angriffe Generäle fesseln .
+VF[ADV]LK[V]MF[OS]	aux-psy	5	3	Deshalb werden Generäle die Angriffe fesseln .
 LK[V]MF[SO]	aux-psy	3	4	Werden die Angriffe Generäle fesseln ?
+LK[V]MF[OS]	aux-psy	4	2	Werden Generäle die Angriffe fesseln ?
 MF[SO]VC[V]	aux-psy	3	4	Weil die Angriffe Generäle fesseln werden .
+MF[OS]VC[V]	aux-psy	4	2	Weil Generäle die Angriffe fesseln werden .
 VF[S]LK[V]MF[O]	aux-psy	2	5	Das Doppelleben wird eine Partnerin langweilen .
 VF[O]LK[V]MF[S]	aux-psy	5	2	Eine Partnerin wird das Doppelleben langweilen .
 VF[ADV]LK[V]MF[SO]	aux-psy	4	6	Deshalb wird das Doppelleben eine Partnerin langweilen .
@@ -3297,18 +3327,27 @@ MF[OS]VC[V]	aux-psy	5	3	Weil eine Leserin die Zeitschrift ängstigen wird .
 VF[S]LK[V]MF[O]	aux-psy	2	4	Die Bärte werden Herren erstaunen .
 VF[O]LK[V]MF[S]	aux-psy	4	1	Herren werden die Bärte erstaunen .
 VF[ADV]LK[V]MF[SO]	aux-psy	4	5	Deshalb werden die Bärte Herren erstaunen .
+VF[ADV]LK[V]MF[OS]	aux-psy	5	3	Deshalb werden Herren die Bärte erstaunen .
 LK[V]MF[SO]	aux-psy	3	4	Werden die Bärte Herren erstaunen ?
+LK[V]MF[OS]	aux-psy	4	2	Werden Herren die Bärte erstaunen ?
 MF[SO]VC[V]	aux-psy	3	4	Weil die Bärte Herren erstaunen werden .
+MF[OS]VC[V]	aux-psy	4	2	Weil Herren die Bärte erstaunen werden .
 VF[S]LK[V]MF[O]	aux-psy	2	4	Die Kaffees werden Mamas erfreuen .
 VF[O]LK[V]MF[S]	aux-psy	4	1	Mamas werden die Kaffees erfreuen .
 VF[ADV]LK[V]MF[SO]	aux-psy	4	5	Deshalb werden die Kaffees Mamas erfreuen .
+VF[ADV]LK[V]MF[OS]	aux-psy	5	3	Deshalb werden Mamas die Kaffees erfreuen .
 LK[V]MF[SO]	aux-psy	3	4	Werden die Kaffees Mamas erfreuen ?
+LK[V]MF[OS]	aux-psy	4	2	Werden Mamas die Kaffees erfreuen ?
 MF[SO]VC[V]	aux-psy	3	4	Weil die Kaffees Mamas erfreuen werden .
+MF[OS]VC[V]	aux-psy	4	2	Weil Mamas die Kaffees erfreuen werden .
 VF[S]LK[V]MF[O]	aux-psy	2	4	Die Romane werden Schriftsteller frustrieren .
 VF[O]LK[V]MF[S]	aux-psy	4	1	Schriftsteller werden die Romane frustrieren .
 VF[ADV]LK[V]MF[SO]	aux-psy	4	5	Deshalb werden die Romane Schriftsteller frustrieren .
+VF[ADV]LK[V]MF[OS]	aux-psy	5	3	Deshalb werden Schriftsteller die Romane frustrieren .
 LK[V]MF[SO]	aux-psy	3	4	Werden die Romane Schriftsteller frustrieren ?
+LK[V]MF[OS]	aux-psy	4	2	Werden Schriftsteller die Romane frustrieren ?
 MF[SO]VC[V]	aux-psy	3	4	Weil die Romane Schriftsteller frustrieren werden .
+MF[OS]VC[V]	aux-psy	4	2	Weil Schriftsteller die Romane frustrieren werden .
 VF[S]LK[V]MF[O]	aux-psy	2	5	Die Rede wird eine Politikerin erbosen .
 VF[O]LK[V]MF[S]	aux-psy	5	2	Eine Politikerin wird die Rede erbosen .
 VF[ADV]LK[V]MF[SO]	aux-psy	4	6	Deshalb wird die Rede eine Politikerin erbosen .
@@ -3328,8 +3367,11 @@ MF[OS]VC[V]	aux-psy	5	3	Weil eine Abgeordnete das Grundgehalt beschämen wird .
 VF[S]LK[V]MF[O]	aux-psy	2	4	Die Bauzäune werden Kleinbauern reuen .
 VF[O]LK[V]MF[S]	aux-psy	4	1	Kleinbauern werden die Bauzäune reuen .
 VF[ADV]LK[V]MF[SO]	aux-psy	4	5	Deshalb werden die Bauzäune Kleinbauern reuen .
+VF[ADV]LK[V]MF[OS]	aux-psy	5	3	Deshalb werden Kleinbauern die Bauzäune reuen .
 LK[V]MF[SO]	aux-psy	3	4	Werden die Bauzäune Kleinbauern reuen ?
+LK[V]MF[OS]	aux-psy	4	2	Werden Kleinbauern die Bauzäune reuen ?
 MF[SO]VC[V]	aux-psy	3	4	Weil die Bauzäune Kleinbauern reuen werden .
+MF[OS]VC[V]	aux-psy	4	2	Weil Kleinbauern die Bauzäune reuen werden .
 VF[S]LK[V]MF[O]	aux-psy	2	5	Die Tour wird eine Sportlerin amüsieren .
 VF[O]LK[V]MF[S]	aux-psy	5	2	Eine Sportlerin wird die Tour amüsieren .
 VF[ADV]LK[V]MF[SO]	aux-psy	4	6	Deshalb wird die Tour eine Sportlerin amüsieren .
@@ -3649,13 +3691,19 @@ MF[OS]VC[V]	oneg-psy	5	3	Weil keine Handwerkerin die Bauausführung belustigt .
 VF[S]LK[V]MF[O]	regpol-psy	2	4	Die Angriffe fesseln Kanzleien .
 VF[O]LK[V]MF[S]	regpol-psy	4	1	Kanzleien fesseln die Angriffe .
 VF[ADV]LK[V]MF[SO]	regpol-psy	4	5	Deshalb fesseln die Angriffe Kanzleien .
+VF[ADV]LK[V]MF[OS]	regpol-psy	5	3	Deshalb fesseln Kanzleien die Angriffe .
 LK[V]MF[SO]	regpol-psy	3	4	Fesseln die Angriffe Kanzleien ?
+LK[V]MF[OS]	regpol-psy	4	2	Fesseln Kanzleien die Angriffe ?
 MF[SO]VC[V]	regpol-psy	3	4	Weil die Angriffe Kanzleien fesseln .
+MF[OS]VC[V]	regpol-psy	4	2	Weil Kanzleien die Angriffe fesseln .
 VF[S]LK[V]MF[O]	regpol-psy	2	4	Die Doppelleben langweilen Läden .
 VF[O]LK[V]MF[S]	regpol-psy	4	1	Läden langweilen die Doppelleben .
 VF[ADV]LK[V]MF[SO]	regpol-psy	4	5	Deshalb langweilen die Doppelleben Läden .
+VF[ADV]LK[V]MF[OS]	regpol-psy	5	3	Deshalb langweilen Läden die Doppelleben .
 LK[V]MF[SO]	regpol-psy	3	4	Langweilen die Doppelleben Läden ?
+LK[V]MF[OS]	regpol-psy	4	2	Langweilen Läden die Doppelleben ?
 MF[SO]VC[V]	regpol-psy	3	4	Weil die Doppelleben Läden langweilen .
+MF[OS]VC[V]	regpol-psy	4	2	Weil Läden die Doppelleben langweilen .
 VF[S]LK[V]MF[O]	regpol-psy	2	5	Die Aufnahme begeistert eine Werbeagentur .
 VF[O]LK[V]MF[S]	regpol-psy	5	2	Eine Werbeagentur begeistert die Aufnahme .
 VF[ADV]LK[V]MF[SO]	regpol-psy	4	6	Deshalb begeistert die Aufnahme eine Werbeagentur .
@@ -3699,18 +3747,27 @@ MF[OS]VC[V]	regpol-psy	5	3	Weil eine Praxis die Zeitschrift ängstigt .
 VF[S]LK[V]MF[O]	regpol-psy	2	4	Die Bärte erstaunen Salons .
 VF[O]LK[V]MF[S]	regpol-psy	4	1	Salons erstaunen die Bärte .
 VF[ADV]LK[V]MF[SO]	regpol-psy	4	5	Deshalb erstaunen die Bärte Salons .
+VF[ADV]LK[V]MF[OS]	regpol-psy	5	3	Deshalb erstaunen Salons die Bärte .
 LK[V]MF[SO]	regpol-psy	3	4	Erstaunen die Bärte Salons ?
+LK[V]MF[OS]	regpol-psy	4	2	Erstaunen Salons die Bärte ?
 MF[SO]VC[V]	regpol-psy	3	4	Weil die Bärte Salons erstaunen .
+MF[OS]VC[V]	regpol-psy	4	2	Weil Salons die Bärte erstaunen .
 VF[S]LK[V]MF[O]	regpol-psy	2	4	Die Kaffees erfreuen Redaktionen .
 VF[O]LK[V]MF[S]	regpol-psy	4	1	Redaktionen erfreuen die Kaffees .
 VF[ADV]LK[V]MF[SO]	regpol-psy	4	5	Deshalb erfreuen die Kaffees Redaktionen .
+VF[ADV]LK[V]MF[OS]	regpol-psy	5	3	Deshalb erfreuen Redaktionen die Kaffees .
 LK[V]MF[SO]	regpol-psy	3	4	Erfreuen die Kaffees Redaktionen ?
+LK[V]MF[OS]	regpol-psy	4	2	Erfreuen Redaktionen die Kaffees ?
 MF[SO]VC[V]	regpol-psy	3	4	Weil die Kaffees Redaktionen erfreuen .
+MF[OS]VC[V]	regpol-psy	4	2	Weil Redaktionen die Kaffees erfreuen .
 VF[S]LK[V]MF[O]	regpol-psy	2	4	Die Romane frustrieren Seminare .
 VF[O]LK[V]MF[S]	regpol-psy	4	1	Seminare frustrieren die Romane .
 VF[ADV]LK[V]MF[SO]	regpol-psy	4	5	Deshalb frustrieren die Romane Seminare .
+VF[ADV]LK[V]MF[OS]	regpol-psy	5	3	Deshalb frustrieren Seminare die Romane .
 LK[V]MF[SO]	regpol-psy	3	4	Frustrieren die Romane Seminare ?
+LK[V]MF[OS]	regpol-psy	4	2	Frustrieren Seminare die Romane ?
 MF[SO]VC[V]	regpol-psy	3	4	Weil die Romane Seminare frustrieren .
+MF[OS]VC[V]	regpol-psy	4	2	Weil Seminare die Romane frustrieren .
 VF[S]LK[V]MF[O]	regpol-psy	2	5	Die Rede erbost ein Landratsamt .
 VF[O]LK[V]MF[S]	regpol-psy	5	2	Ein Landratsamt erbost die Rede .
 VF[ADV]LK[V]MF[SO]	regpol-psy	4	6	Deshalb erbost die Rede ein Landratsamt .
@@ -3730,8 +3787,11 @@ MF[OS]VC[V]	regpol-psy	5	3	Weil eine Schule das Grundgehalt beschämt .
 VF[S]LK[V]MF[O]	regpol-psy	2	4	Die Bauzäune reuen Werkstätten .
 VF[O]LK[V]MF[S]	regpol-psy	4	1	Werkstätten reuen die Bauzäune .
 VF[ADV]LK[V]MF[SO]	regpol-psy	4	5	Deshalb reuen die Bauzäune Werkstätten .
+VF[ADV]LK[V]MF[OS]	regpol-psy	5	3	Deshalb reuen Werkstätten die Bauzäune .
 LK[V]MF[SO]	regpol-psy	3	4	Reuen die Bauzäune Werkstätten ?
+LK[V]MF[OS]	regpol-psy	4	2	Reuen Werkstätten die Bauzäune ?
 MF[SO]VC[V]	regpol-psy	3	4	Weil die Bauzäune Werkstätten reuen .
+MF[OS]VC[V]	regpol-psy	4	2	Weil Werkstätten die Bauzäune reuen .
 VF[S]LK[V]MF[O]	regpol-psy	2	5	Die Tour amüsiert eine Universität .
 VF[O]LK[V]MF[S]	regpol-psy	5	2	Eine Universität amüsiert die Tour .
 VF[ADV]LK[V]MF[SO]	regpol-psy	4	6	Deshalb amüsiert die Tour eine Universität .
@@ -3743,13 +3803,19 @@ MF[OS]VC[V]	regpol-psy	5	3	Weil eine Universität die Tour amüsiert .
 VF[S]LK[V]MF[O]	regpol-psy	2	4	Die Bauausführungen belustigen Konzerne .
 VF[O]LK[V]MF[S]	regpol-psy	4	1	Konzerne belustigen die Bauausführungen .
 VF[ADV]LK[V]MF[SO]	regpol-psy	4	5	Deshalb belustigen die Bauausführungen Konzerne .
+VF[ADV]LK[V]MF[OS]	regpol-psy	5	3	Deshalb belustigen Konzerne die Bauausführungen .
 LK[V]MF[SO]	regpol-psy	3	4	Belustigen die Bauausführungen Konzerne ?
+LK[V]MF[OS]	regpol-psy	4	2	Belustigen Konzerne die Bauausführungen ?
 MF[SO]VC[V]	regpol-psy	3	4	Weil die Bauausführungen Konzerne belustigen .
+MF[OS]VC[V]	regpol-psy	4	2	Weil Konzerne die Bauausführungen belustigen .
 VF[S]LK[V]MF[O]	sname-psy	2	4	Eine Attacke fesselt Daimler .
 VF[O]LK[V]MF[S]	sname-psy	4	1	Daimler fesselt eine Attacke .
-VF[ADV]LK[V]MF[SO]	sname-p4sy	4	5	Deshalb fesselt eine Attacke Daimler .
+VF[ADV]LK[V]MF[SO]	sname-psy	4	5	Deshalb fesselt eine Attacke Daimler .
+VF[ADV]LK[V]MF[OS]	sname-psy	5	3	Deshalb fesselt Daimler eine Attacke .
 LK[V]MF[SO]	sname-psy	3	4	Fesselt eine Attacke Daimler ?
+LK[V]MF[OS]	sname-psy	4	2	Fesselt Daimler eine Attacke ?
 MF[SO]VC[V]	sname-psy	3	4	Weil eine Attacke Daimler fesselt .
+MF[OS]VC[V]	sname-psy	4	2	Weil Daimler eine Attacke fesselt .
 VF[S]LK[V]MF[O]	sname-psy	2	4	Das Doppelleben langweilt Siemens .
 VF[O]LK[V]MF[S]	sname-psy	4	1	Siemens langweilt das Doppelleben .
 VF[ADV]LK[V]MF[SO]	sname-psy	4	5	Deshalb langweilt das Doppelleben Siemens .
@@ -3793,8 +3859,11 @@ MF[OS]VC[V]	sname-psy	5	2	Weil Bertolt Brecht die Zeitschrift ängstigt .
 VF[S]LK[V]MF[O]	sname-psy	2	4	Die Gesichtsbehaarung erstaunt Gillette .
 VF[O]LK[V]MF[S]	sname-psy	4	1	Gillette erstaunt die Gesichtsbehaarung .
 VF[ADV]LK[V]MF[SO]	sname-psy	4	5	Deshalb erstaunt die Gesichtsbehaarung Gillette .
+VF[ADV]LK[V]MF[OS]	sname-psy	5	3	Deshalb erstaunt Gillette die Gesichtsbehaarung .
 LK[V]MF[SO]	sname-psy	3	4	Erstaunt die Gesichtsbehaarung Gillette ?
+LK[V]MF[OS]	sname-psy	4	2	Erstaunt Gillette die Gesichtsbehaarung ?
 MF[SO]VC[V]	sname-psy	3	4	Weil die Gesichtsbehaarung Gillette erstaunt .
+MF[OS]VC[V]	sname-psy	4	2	Weil Gillette die Gesichtsbehaarung erstaunt .
 VF[S]LK[V]MF[O]	sname-psy	1	3	Kaffee erfreut RTL .
 VF[O]LK[V]MF[S]	sname-psy	3	1	RTL erfreut Kaffee .
 VF[ADV]LK[V]MF[SO]	sname-psy	3	4	Deshalb erfreut Kaffee RTL .
@@ -3806,8 +3875,11 @@ MF[OS]VC[V]	sname-psy	3	2	Weil RTL Kaffee erfreut .
 VF[S]LK[V]MF[O]	sname-psy	2	4	Die Erzählung frustriert Günter Jauch .
 VF[O]LK[V]MF[S]	sname-psy	5	1	Günter Jauch frustriert die Erzählung .
 VF[ADV]LK[V]MF[SO]	sname-psy	4	5	Deshalb frustriert die Erzählung Günter Jauch .
+VF[ADV]LK[V]MF[OS]	sname-psy	6	3	Deshalb frustriert Günter Jauch die Erzählung .
 LK[V]MF[SO]	sname-psy	3	4	Frustriert die Erzählung Günter Jauch ?
+LK[V]MF[OS]	sname-psy	5	2	Frustriert Günter Jauch die Erzählung ?
 MF[SO]VC[V]	sname-psy	3	4	Weil die Erzählung Günter Jauch frustriert .
+MF[OS]VC[V]	sname-psy	5	2	Weil Günter Jauch die Erzählung frustriert .
 VF[S]LK[V]MF[O]	sname-psy	2	4	Die Rede erbost Merkel .
 VF[O]LK[V]MF[S]	sname-psy	4	1	Merkel erbost die Rede .
 VF[ADV]LK[V]MF[SO]	sname-psy	4	5	Deshalb erbost die Rede Merkel .
@@ -3835,8 +3907,11 @@ MF[OS]VC[V]	sname-psy	4	2	Weil Vietnam das Grundgehalt beschämt .
 VF[S]LK[V]MF[O]	sname-psy	2	4	Die Umzäunung reut Anke .
 VF[O]LK[V]MF[S]	sname-psy	4	1	Anke reut die Umzäunung .
 VF[ADV]LK[V]MF[SO]	sname-psy	4	5	Deshalb reut die Umzäunung Anke .
+VF[ADV]LK[V]MF[OS]	sname-psy	5	3	Deshalb reut Anke die Umzäunung .
 LK[V]MF[SO]	sname-psy	3	4	Reut die Umzäunung Anke ?
+LK[V]MF[OS]	sname-psy	4	2	Reut Anke die Umzäunung ?
 MF[SO]VC[V]	sname-psy	3	4	Weil die Umzäunung Anke reut .
+MF[OS]VC[V]	sname-psy	4	2	Weil Anke die Umzäunung reut .
 VF[S]LK[V]MF[O]	sname-psy	2	4	Die Tour amüsiert Bonn .
 VF[O]LK[V]MF[S]	sname-psy	4	1	Bonn amüsiert die Tour .
 VF[ADV]LK[V]MF[SO]	sname-psy	4	5	Deshalb amüsiert die Tour Bonn .
@@ -4922,8 +4997,11 @@ MF[SO]VC[V]	invan-syn	3	4	Weil die Öfen Wanderinnen erwärmen .
 VF[S]LK[V]MF[O]	invan-syn	2	4	Die Regenschauer durchweichen Spaziergänger .
 VF[O]LK[V]MF[S]	invan-syn	4	1	Spaziergänger durchweichen die Regenschauer .
 VF[ADV]LK[V]MF[SO]	invan-syn	4	5	Deshalb durchweichen die Regenschauer Spaziergänger .
+VF[ADV]LK[V]MF[OS]	invan-syn	5	3	Deshalb durchweichen Spaziergänger die Regenschauer .
 LK[V]MF[SO]	invan-syn	3	4	Durchweichen die Regenschauer Spaziergänger ?
+LK[V]MF[OS]	invan-syn	4	2	Durchweichen Spaziergänger die Regenschauer ?
 MF[SO]VC[V]	invan-syn	3	4	Weil die Regenschauer Spaziergänger durchweichen .
+MF[OS]VC[V]	invan-syn	4	2	Weil Spaziergänger die Regenschauer durchweichen .
 VF[S]LK[V]MF[O]	invan-syn	2	4	Die Kameras verfolgen Trucker .
 VF[O]LK[V]MF[S]	invan-syn	4	1	Trucker verfolgen die Kameras .
 VF[ADV]LK[V]MF[SO]	invan-syn	4	5	Deshalb verfolgen die Kameras Trucker .
@@ -5344,18 +5422,27 @@ MF[OS]VC[V]	psy-syn	5	3	Weil eine Leserin die Zeitschrift verängstigt .
 VF[S]LK[V]MF[O]	psy-syn	2	4	Die Bärte verblüffen Herren .
 VF[O]LK[V]MF[S]	psy-syn	4	1	Herren verblüffen die Bärte .
 VF[ADV]LK[V]MF[SO]	psy-syn	4	5	Deshalb verblüffen die Bärte Herren .
+VF[ADV]LK[V]MF[OS]	psy-syn	5	3	Deshalb verblüffen Herren die Bärte .
 LK[V]MF[SO]	psy-syn	3	4	Verblüffen die Bärte Herren ?
+LK[V]MF[OS]	psy-syn	4	2	Verblüffen Herren die Bärte ?
 MF[SO]VC[V]	psy-syn	3	4	Weil die Bärte Herren verblüffen .
+MF[OS]VC[V]	psy-syn	4	2	Weil Herren die Bärte verblüffen .
 VF[S]LK[V]MF[O]	psy-syn	2	4	Die Kaffees freuen Mamas .
 VF[O]LK[V]MF[S]	psy-syn	4	1	Mamas freuen die Kaffees .
 VF[ADV]LK[V]MF[SO]	psy-syn	4	5	Deshalb freuen die Kaffees Mamas .
+VF[ADV]LK[V]MF[OS]	psy-syn	5	3	Deshalb freuen Mamas die Kaffees .
 LK[V]MF[SO]	psy-syn	3	4	Freuen die Kaffees Mamas ?
+LK[V]MF[OS]	psy-syn	4	2	Freuen Mamas die Kaffees ?
 MF[SO]VC[V]	psy-syn	3	4	Weil die Kaffees Mamas freuen .
+MF[OS]VC[V]	psy-syn	4	2	Weil Mamas die Kaffees freuen .
 VF[S]LK[V]MF[O]	psy-syn	2	4	Die Romane demotivieren Schriftsteller .
 VF[O]LK[V]MF[S]	psy-syn	4	1	Schriftsteller demotivieren die Romane .
 VF[ADV]LK[V]MF[SO]	psy-syn	4	5	Deshalb demotivieren die Romane Schriftsteller .
+VF[ADV]LK[V]MF[OS]	psy-syn	5	3	Deshalb demotivieren Schriftsteller die Romane .
 LK[V]MF[SO]	psy-syn	3	4	Demotivieren die Romane Schriftsteller ?
+LK[V]MF[OS]	psy-syn	4	2	Demotivieren Schriftsteller die Romane ?
 MF[SO]VC[V]	psy-syn	3	4	Weil die Romane Schriftsteller demotivieren .
+MF[OS]VC[V]	psy-syn	4	2	Weil Schriftsteller die Romane demotivieren .
 VF[S]LK[V]MF[O]	psy-syn	2	5	Die Rede fuchst eine Politikerin .
 VF[O]LK[V]MF[S]	psy-syn	5	2	Eine Politikerin fuchst die Rede .
 VF[ADV]LK[V]MF[SO]	psy-syn	4	6	Deshalb fuchst die Rede eine Politikerin .
@@ -5375,8 +5462,11 @@ MF[OS]VC[V]	psy-syn	5	3	Weil eine Abgeordnete das Grundgehalt blamiert .
 VF[S]LK[V]MF[O]	psy-syn	2	4	Die Bauzäune ärgern Kleinbauern .
 VF[O]LK[V]MF[S]	psy-syn	4	1	Kleinbauern ärgern die Bauzäune .
 VF[ADV]LK[V]MF[SO]	psy-syn	4	5	Deshalb ärgern die Bauzäune Kleinbauern .
+VF[ADV]LK[V]MF[OS]	psy-syn	5	3	Deshalb ärgern Kleinbauern die Bauzäune .
 LK[V]MF[SO]	psy-syn	3	4	Ärgern die Bauzäune Kleinbauern ?
+LK[V]MF[OS]	psy-syn	4	2	Ärgern Kleinbauern die Bauzäune ?
 MF[SO]VC[V]	psy-syn	3	4	Weil die Bauzäune Kleinbauern ärgern .
+MF[OS]VC[V]	psy-syn	4	2	Weil Kleinbauern die Bauzäune ärgern .
 VF[S]LK[V]MF[O]	psy-syn	2	5	Die Tour belustigt eine Sportlerin .
 VF[O]LK[V]MF[S]	psy-syn	5	2	Eine Sportlerin belustigt die Tour .
 VF[ADV]LK[V]MF[SO]	psy-syn	4	6	Deshalb belustigt die Tour eine Sportlerin .
@@ -6034,13 +6124,19 @@ MF[OS]VC[V]	pp-invan	5	3	Weil eine Informatikerin die Deadline in dem Jahr drän
 VF[S]LK[V]MF[O]	pp-invan	2	7	Die Öfen wärmen in dem Jahr Wanderinnen .
 VF[O]LK[V]MF[S]	pp-invan	7	1	Wanderinnen wärmen in dem Jahr die Öfen .
 VF[ADV]LK[V]MF[SO]	pp-invan	7	8	Deshalb wärmen in dem Jahr die Öfen Wanderinnen .
+VF[ADV]LK[V]MF[OS]	pp-invan	8	6	Deshalb wärmen in dem Jahr Wanderinnen die Öfen .
 LK[V]MF[SO]	pp-invan	6	7	Wärmen in dem Jahr die Öfen Wanderinnen ?
+LK[V]MF[OS]	pp-invan	7	5	Wärmen in dem Jahr Wanderinnen die Öfen ?
 MF[SO]VC[V]	pp-invan	3	4	Weil die Öfen Wanderinnen in dem Jahr wärmen .
+MF[OS]VC[V]	pp-invan	4	2	Weil Wanderinnen die Öfen in dem Jahr wärmen .
 VF[S]LK[V]MF[O]	pp-invan	2	7	Die Regenschauer durchnässen in dem Jahr Spaziergänger .
 VF[O]LK[V]MF[S]	pp-invan	7	1	Spaziergänger durchnässen in dem Jahr die Regenschauer .
 VF[ADV]LK[V]MF[SO]	pp-invan	7	8	Deshalb durchnässen in dem Jahr die Regenschauer Spaziergänger .
+VF[ADV]LK[V]MF[OS]	pp-invan	8	6	Deshalb durchnässen in dem Jahr Spaziergänger die Regenschauer .
 LK[V]MF[SO]	pp-invan	6	7	Durchnässen in dem Jahr die Regenschauer Spaziergänger ?
+LK[V]MF[OS]	pp-invan	7	5	Durchnässen in dem Jahr Spaziergänger die Regenschauer ?
 MF[SO]VC[V]	pp-invan	3	4	Weil die Regenschauer Spaziergänger in dem Jahr durchnässen .
+MF[OS]VC[V]	pp-invan	4	2	Weil Spaziergänger die Regenschauer in dem Jahr durchnässen .
 VF[S]LK[V]MF[O]	pp-invan	2	7	Die Kameras begleiten in dem Jahr Trucker .
 VF[O]LK[V]MF[S]	pp-invan	7	1	Trucker begleiten in dem Jahr die Kameras .
 VF[ADV]LK[V]MF[SO]	pp-invan	7	8	Deshalb begleiten in dem Jahr die Kameras Trucker .
@@ -6410,8 +6506,11 @@ MF[SO]VC[V]	pp-noref	3	4	Weil die Handwerkerin nichts in dem Jahr übernimmt .
 VF[S]LK[V]MF[O]	pp-psy	2	7	Die Angriffe fesseln in dem Jahr Generäle .
 VF[O]LK[V]MF[S]	pp-psy	7	1	Generäle fesseln in dem Jahr die Angriffe .
 VF[ADV]LK[V]MF[SO]	pp-psy	7	8	Deshalb fesseln in dem Jahr die Angriffe Generäle .
+VF[ADV]LK[V]MF[OS]	pp-psy	8	6	Deshalb fesseln in dem Jahr Generäle die Angriffe .
 LK[V]MF[SO]	pp-psy	6	7	Fesseln in dem Jahr die Angriffe Generäle ?
+LK[V]MF[OS]	pp-psy	7	5	Fesseln in dem Jahr Generäle die Angriffe ?
 MF[SO]VC[V]	pp-psy	3	4	Weil die Angriffe Generäle in dem Jahr fesseln .
+MF[OS]VC[V]	pp-psy	4	2	Weil Generäle die Angriffe in dem Jahr fesseln .
 VF[S]LK[V]MF[O]	pp-psy	2	8	Das Doppelleben langweilt in dem Jahr eine Partnerin .
 VF[O]LK[V]MF[S]	pp-psy	8	2	Eine Partnerin langweilt in dem Jahr das Doppelleben .
 VF[ADV]LK[V]MF[SO]	pp-psy	7	9	Deshalb langweilt in dem Jahr das Doppelleben eine Partnerin .
@@ -6463,18 +6562,27 @@ MF[OS]VC[V]	pp-psy	5	3	Weil eine Leserin die Zeitschrift in dem Jahr ängstigt .
 VF[S]LK[V]MF[O]	pp-psy	2	7	Die Bärte erstaunen in dem Jahr Herren .
 VF[O]LK[V]MF[S]	pp-psy	7	1	Herren erstaunen in dem Jahr die Bärte .
 VF[ADV]LK[V]MF[SO]	pp-psy	7	8	Deshalb erstaunen in dem Jahr die Bärte Herren .
+VF[ADV]LK[V]MF[OS]	pp-psy	8	6	Deshalb erstaunen in dem Jahr Herren die Bärte .
 LK[V]MF[SO]	pp-psy	6	7	Erstaunen in dem Jahr die Bärte Herren ?
+LK[V]MF[OS]	pp-psy	7	5	Erstaunen in dem Jahr Herren die Bärte ?
 MF[SO]VC[V]	pp-psy	3	4	Weil die Bärte Herren in dem Jahr erstaunen .
+MF[OS]VC[V]	pp-psy	4	2	Weil Herren die Bärte in dem Jahr erstaunen .
 VF[S]LK[V]MF[O]	pp-psy	2	7	Die Kaffees erfreuen in dem Jahr Mamas .
 VF[O]LK[V]MF[S]	pp-psy	7	1	Mamas erfreuen in dem Jahr die Kaffees .
 VF[ADV]LK[V]MF[SO]	pp-psy	7	8	Deshalb erfreuen in dem Jahr die Kaffees Mamas .
+VF[ADV]LK[V]MF[OS]	pp-psy	8	6	Deshalb erfreuen in dem Jahr Mamas die Kaffees .
 LK[V]MF[SO]	pp-psy	6	7	Erfreuen in dem Jahr die Kaffees Mamas ?
+LK[V]MF[OS]	pp-psy	7	5	Erfreuen in dem Jahr Mamas die Kaffees ?
 MF[SO]VC[V]	pp-psy	3	4	Weil die Kaffees Mamas in dem Jahr erfreuen .
+MF[OS]VC[V]	pp-psy	4	2	Weil Mamas die Kaffees in dem Jahr erfreuen .
 VF[S]LK[V]MF[O]	pp-psy	2	7	Die Romane frustrieren in dem Jahr Schriftsteller .
 VF[O]LK[V]MF[S]	pp-psy	7	1	Schriftsteller frustrieren in dem Jahr die Romane .
 VF[ADV]LK[V]MF[SO]	pp-psy	7	8	Deshalb frustrieren in dem Jahr die Romane Schriftsteller .
+VF[ADV]LK[V]MF[OS]	pp-psy	8	6	Deshalb frustrieren in dem Jahr Schriftsteller die Romane .
 LK[V]MF[SO]	pp-psy	6	7	Frustrieren in dem Jahr die Romane Schriftsteller ?
+LK[V]MF[OS]	pp-psy	7	5	Frustrieren in dem Jahr Schriftsteller die Romane ?
 MF[SO]VC[V]	pp-psy	3	4	Weil die Romane Schriftsteller in dem Jahr frustrieren .
+MF[OS]VC[V]	pp-psy	4	2	Weil Schriftsteller die Romane in dem Jahr frustrieren .
 VF[S]LK[V]MF[O]	pp-psy	2	8	Die Rede erbost in dem Jahr eine Politikerin .
 VF[O]LK[V]MF[S]	pp-psy	8	2	Eine Politikerin erbost in dem Jahr die Rede .
 VF[ADV]LK[V]MF[SO]	pp-psy	7	9	Deshalb erbost in dem Jahr die Rede eine Politikerin .
@@ -6494,8 +6602,11 @@ MF[OS]VC[V]	pp-psy	5	3	Weil eine Abgeordnete das Grundgehalt in dem Jahr beschä
 VF[S]LK[V]MF[O]	pp-psy	2	7	Die Bauzäune reuen in dem Jahr Kleinbauern .
 VF[O]LK[V]MF[S]	pp-psy	7	1	Kleinbauern reuen in dem Jahr die Bauzäune .
 VF[ADV]LK[V]MF[SO]	pp-psy	7	8	Deshalb reuen in dem Jahr die Bauzäune Kleinbauern .
+VF[ADV]LK[V]MF[OS]	pp-psy	8	6	Deshalb reuen in dem Jahr Kleinbauern die Bauzäune .
 LK[V]MF[SO]	pp-psy	6	7	Reuen in dem Jahr die Bauzäune Kleinbauern ?
+LK[V]MF[OS]	pp-psy	7	5	Reuen in dem Jahr Kleinbauern die Bauzäune ?
 MF[SO]VC[V]	pp-psy	3	4	Weil die Bauzäune Kleinbauern in dem Jahr reuen .
+MF[OS]VC[V]	pp-psy	4	2	Weil Kleinbauern die Bauzäune in dem Jahr reuen .
 VF[S]LK[V]MF[O]	pp-psy	2	8	Die Tour amüsiert in dem Jahr eine Sportlerin .
 VF[O]LK[V]MF[S]	pp-psy	8	2	Eine Sportlerin amüsiert in dem Jahr die Tour .
 VF[ADV]LK[V]MF[SO]	pp-psy	7	9	Deshalb amüsiert in dem Jahr die Tour eine Sportlerin .

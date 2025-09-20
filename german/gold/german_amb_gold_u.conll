@@ -2541,7 +2541,7 @@
 1	Die	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-opron	_	_	_	_
 2	Partnerin	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-opron	5	nsubj	_	_
 3	wird	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-opron	_	_	_	_
-4	sie	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-opron	_	_	_	_
+4	sie	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-opron	5	obj	_	_
 5	leben	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-opron	0	verb	_	_
 6	.	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-opron	_	_	_	_
 
@@ -2549,21 +2549,21 @@
 2	wird	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-opron	_	_	_	_
 3	die	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-opron	_	_	_	_
 4	Partnerin	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-opron	6	nsubj	_	_
-5	sie	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-opron	_	_	_	_
+5	sie	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-opron	6	obj	_	_
 6	leben	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-opron	0	verb	_	_
 7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-opron	_	_	_	_
 
 1	Wird	_	_	_	order=LK[V]MF[SO]|props=aux-opron	_	_	_	_
 2	die	_	_	_	order=LK[V]MF[SO]|props=aux-opron	_	_	_	_
 3	Partnerin	_	_	_	order=LK[V]MF[SO]|props=aux-opron	5	nsubj	_	_
-4	sie	_	_	_	order=LK[V]MF[SO]|props=aux-opron	_	_	_	_
+4	sie	_	_	_	order=LK[V]MF[SO]|props=aux-opron	5	obj	_	_
 5	leben	_	_	_	order=LK[V]MF[SO]|props=aux-opron	0	verb	_	_
 6	?	_	_	_	order=LK[V]MF[SO]|props=aux-opron	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=aux-opron	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=aux-opron	_	_	_	_
 3	Partnerin	_	_	_	order=MF[SO]VC[V]|props=aux-opron	5	nsubj	_	_
-4	sie	_	_	_	order=MF[SO]VC[V]|props=aux-opron	_	_	_	_
+4	sie	_	_	_	order=MF[SO]VC[V]|props=aux-opron	5	obj	_	_
 5	leben	_	_	_	order=MF[SO]VC[V]|props=aux-opron	0	verb	_	_
 6	wird	_	_	_	order=MF[SO]VC[V]|props=aux-opron	_	_	_	_
 7	.	_	_	_	order=MF[SO]VC[V]|props=aux-opron	_	_	_	_
@@ -2601,7 +2601,7 @@
 1	Die	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-opron	_	_	_	_
 2	Freundin	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-opron	5	nsubj	_	_
 3	wird	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-opron	_	_	_	_
-4	sie	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-opron	_	_	_	_
+4	sie	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-opron	5	obj	_	_
 5	spielen	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-opron	0	verb	_	_
 6	.	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-opron	_	_	_	_
 
@@ -2609,21 +2609,21 @@
 2	wird	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-opron	_	_	_	_
 3	die	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-opron	_	_	_	_
 4	Freundin	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-opron	6	nsubj	_	_
-5	sie	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-opron	_	_	_	_
+5	sie	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-opron	6	obj	_	_
 6	spielen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-opron	0	verb	_	_
 7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-opron	_	_	_	_
 
 1	Wird	_	_	_	order=LK[V]MF[SO]|props=aux-opron	_	_	_	_
 2	die	_	_	_	order=LK[V]MF[SO]|props=aux-opron	_	_	_	_
 3	Freundin	_	_	_	order=LK[V]MF[SO]|props=aux-opron	5	nsubj	_	_
-4	sie	_	_	_	order=LK[V]MF[SO]|props=aux-opron	_	_	_	_
+4	sie	_	_	_	order=LK[V]MF[SO]|props=aux-opron	5	obj	_	_
 5	spielen	_	_	_	order=LK[V]MF[SO]|props=aux-opron	0	verb	_	_
 6	?	_	_	_	order=LK[V]MF[SO]|props=aux-opron	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=aux-opron	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=aux-opron	_	_	_	_
 3	Freundin	_	_	_	order=MF[SO]VC[V]|props=aux-opron	5	nsubj	_	_
-4	sie	_	_	_	order=MF[SO]VC[V]|props=aux-opron	_	_	_	_
+4	sie	_	_	_	order=MF[SO]VC[V]|props=aux-opron	5	obj	_	_
 5	spielen	_	_	_	order=MF[SO]VC[V]|props=aux-opron	0	verb	_	_
 6	wird	_	_	_	order=MF[SO]VC[V]|props=aux-opron	_	_	_	_
 7	.	_	_	_	order=MF[SO]VC[V]|props=aux-opron	_	_	_	_
@@ -2661,7 +2661,7 @@
 1	Die	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-opron	_	_	_	_
 2	Kinder	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-opron	5	nsubj	_	_
 3	werden	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-opron	_	_	_	_
-4	sie	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-opron	_	_	_	_
+4	sie	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-opron	5	obj	_	_
 5	finden	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-opron	0	verb	_	_
 6	.	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-opron	_	_	_	_
 
@@ -2669,21 +2669,21 @@
 2	werden	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-opron	_	_	_	_
 3	die	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-opron	_	_	_	_
 4	Kinder	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-opron	6	nsubj	_	_
-5	sie	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-opron	_	_	_	_
+5	sie	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-opron	6	obj	_	_
 6	finden	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-opron	0	verb	_	_
 7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-opron	_	_	_	_
 
 1	Werden	_	_	_	order=LK[V]MF[SO]|props=aux-opron	_	_	_	_
 2	die	_	_	_	order=LK[V]MF[SO]|props=aux-opron	_	_	_	_
 3	Kinder	_	_	_	order=LK[V]MF[SO]|props=aux-opron	5	nsubj	_	_
-4	sie	_	_	_	order=LK[V]MF[SO]|props=aux-opron	_	_	_	_
+4	sie	_	_	_	order=LK[V]MF[SO]|props=aux-opron	5	obj	_	_
 5	finden	_	_	_	order=LK[V]MF[SO]|props=aux-opron	0	verb	_	_
 6	?	_	_	_	order=LK[V]MF[SO]|props=aux-opron	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=aux-opron	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=aux-opron	_	_	_	_
 3	Kinder	_	_	_	order=MF[SO]VC[V]|props=aux-opron	5	nsubj	_	_
-4	sie	_	_	_	order=MF[SO]VC[V]|props=aux-opron	_	_	_	_
+4	sie	_	_	_	order=MF[SO]VC[V]|props=aux-opron	5	obj	_	_
 5	finden	_	_	_	order=MF[SO]VC[V]|props=aux-opron	0	verb	_	_
 6	werden	_	_	_	order=MF[SO]VC[V]|props=aux-opron	_	_	_	_
 7	.	_	_	_	order=MF[SO]VC[V]|props=aux-opron	_	_	_	_
@@ -9662,11 +9662,24 @@
 5	Wanderinnen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-invan	2	obj	_	_
 6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-invan	_	_	_	_
 
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-invan	_	_	_	_
+2	wärmen	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-invan	0	verb	_	_
+3	Wanderinnen	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-invan	2	obj	_	_
+4	die	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-invan	_	_	_	_
+5	Öfen	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-invan	2	nsubj	_	_
+6	.	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-invan	_	_	_	_
+
 1	Wärmen	_	_	_	order=LK[V]MF[SO]|props=base-invan	0	verb	_	_
 2	die	_	_	_	order=LK[V]MF[SO]|props=base-invan	_	_	_	_
 3	Öfen	_	_	_	order=LK[V]MF[SO]|props=base-invan	1	nsubj	_	_
 4	Wanderinnen	_	_	_	order=LK[V]MF[SO]|props=base-invan	1	obj	_	_
 5	?	_	_	_	order=LK[V]MF[SO]|props=base-invan	_	_	_	_
+
+1	Wärmen	_	_	_	order=LK[V]MF[OS]|props=base-invan	0	verb	_	_
+2	Wanderinnen	_	_	_	order=LK[V]MF[OS]|props=base-invan	1	obj	_	_
+3	die	_	_	_	order=LK[V]MF[OS]|props=base-invan	_	_	_	_
+4	Öfen	_	_	_	order=LK[V]MF[OS]|props=base-invan	1	nsubj	_	_
+5	?	_	_	_	order=LK[V]MF[OS]|props=base-invan	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=base-invan	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=base-invan	_	_	_	_
@@ -9674,6 +9687,13 @@
 4	Wanderinnen	_	_	_	order=MF[SO]VC[V]|props=base-invan	5	obj	_	_
 5	wärmen	_	_	_	order=MF[SO]VC[V]|props=base-invan	0	verb	_	_
 6	.	_	_	_	order=MF[SO]VC[V]|props=base-invan	_	_	_	_
+
+1	Weil	_	_	_	order=MF[OS]VC[V]|props=base-invan	_	_	_	_
+2	Wanderinnen	_	_	_	order=MF[OS]VC[V]|props=base-invan	5	obj	_	_
+3	die	_	_	_	order=MF[OS]VC[V]|props=base-invan	_	_	_	_
+4	Öfen	_	_	_	order=MF[OS]VC[V]|props=base-invan	5	nsubj	_	_
+5	wärmen	_	_	_	order=MF[OS]VC[V]|props=base-invan	0	verb	_	_
+6	.	_	_	_	order=MF[OS]VC[V]|props=base-invan	_	_	_	_
 
 1	Die	_	_	_	order=VF[S]LK[V]MF[O]|props=base-invan	_	_	_	_
 2	Regenschauer	_	_	_	order=VF[S]LK[V]MF[O]|props=base-invan	3	nsubj	_	_
@@ -9694,11 +9714,24 @@
 5	Spaziergänger	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-invan	2	obj	_	_
 6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-invan	_	_	_	_
 
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-invan	_	_	_	_
+2	durchnässen	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-invan	0	verb	_	_
+3	Spaziergänger	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-invan	2	obj	_	_
+4	die	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-invan	_	_	_	_
+5	Regenschauer	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-invan	2	nsubj	_	_
+6	.	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-invan	_	_	_	_
+
 1	Durchnässen	_	_	_	order=LK[V]MF[SO]|props=base-invan	0	verb	_	_
 2	die	_	_	_	order=LK[V]MF[SO]|props=base-invan	_	_	_	_
 3	Regenschauer	_	_	_	order=LK[V]MF[SO]|props=base-invan	1	nsubj	_	_
 4	Spaziergänger	_	_	_	order=LK[V]MF[SO]|props=base-invan	1	obj	_	_
 5	?	_	_	_	order=LK[V]MF[SO]|props=base-invan	_	_	_	_
+
+1	Durchnässen	_	_	_	order=LK[V]MF[OS]|props=base-invan	0	verb	_	_
+2	Spaziergänger	_	_	_	order=LK[V]MF[OS]|props=base-invan	1	obj	_	_
+3	die	_	_	_	order=LK[V]MF[OS]|props=base-invan	_	_	_	_
+4	Regenschauer	_	_	_	order=LK[V]MF[OS]|props=base-invan	1	nsubj	_	_
+5	?	_	_	_	order=LK[V]MF[OS]|props=base-invan	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=base-invan	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=base-invan	_	_	_	_
@@ -9706,6 +9739,13 @@
 4	Spaziergänger	_	_	_	order=MF[SO]VC[V]|props=base-invan	5	obj	_	_
 5	durchnässen	_	_	_	order=MF[SO]VC[V]|props=base-invan	0	verb	_	_
 6	.	_	_	_	order=MF[SO]VC[V]|props=base-invan	_	_	_	_
+
+1	Weil	_	_	_	order=MF[OS]VC[V]|props=base-invan	_	_	_	_
+2	Spaziergänger	_	_	_	order=MF[OS]VC[V]|props=base-invan	5	obj	_	_
+3	die	_	_	_	order=MF[OS]VC[V]|props=base-invan	_	_	_	_
+4	Regenschauer	_	_	_	order=MF[OS]VC[V]|props=base-invan	5	nsubj	_	_
+5	durchnässen	_	_	_	order=MF[OS]VC[V]|props=base-invan	0	verb	_	_
+6	.	_	_	_	order=MF[OS]VC[V]|props=base-invan	_	_	_	_
 
 1	Die	_	_	_	order=VF[S]LK[V]MF[O]|props=base-invan	_	_	_	_
 2	Kameras	_	_	_	order=VF[S]LK[V]MF[O]|props=base-invan	3	nsubj	_	_
@@ -10454,12 +10494,27 @@
 6	wärmen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-invan	0	verb	_	_
 7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-invan	_	_	_	_
 
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-invan	_	_	_	_
+2	werden	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-invan	_	_	_	_
+3	Wanderinnen	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-invan	6	obj	_	_
+4	die	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-invan	_	_	_	_
+5	Öfen	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-invan	6	nsubj	_	_
+6	wärmen	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-invan	0	verb	_	_
+7	.	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-invan	_	_	_	_
+
 1	Werden	_	_	_	order=LK[V]MF[SO]|props=aux-invan	_	_	_	_
 2	die	_	_	_	order=LK[V]MF[SO]|props=aux-invan	_	_	_	_
 3	Öfen	_	_	_	order=LK[V]MF[SO]|props=aux-invan	5	nsubj	_	_
 4	Wanderinnen	_	_	_	order=LK[V]MF[SO]|props=aux-invan	5	obj	_	_
 5	wärmen	_	_	_	order=LK[V]MF[SO]|props=aux-invan	0	verb	_	_
 6	?	_	_	_	order=LK[V]MF[SO]|props=aux-invan	_	_	_	_
+
+1	Werden	_	_	_	order=LK[V]MF[OS]|props=aux-invan	_	_	_	_
+2	Wanderinnen	_	_	_	order=LK[V]MF[OS]|props=aux-invan	5	obj	_	_
+3	die	_	_	_	order=LK[V]MF[OS]|props=aux-invan	_	_	_	_
+4	Öfen	_	_	_	order=LK[V]MF[OS]|props=aux-invan	5	nsubj	_	_
+5	wärmen	_	_	_	order=LK[V]MF[OS]|props=aux-invan	0	verb	_	_
+6	?	_	_	_	order=LK[V]MF[OS]|props=aux-invan	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=aux-invan	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=aux-invan	_	_	_	_
@@ -10468,6 +10523,14 @@
 5	wärmen	_	_	_	order=MF[SO]VC[V]|props=aux-invan	0	verb	_	_
 6	werden	_	_	_	order=MF[SO]VC[V]|props=aux-invan	_	_	_	_
 7	.	_	_	_	order=MF[SO]VC[V]|props=aux-invan	_	_	_	_
+
+1	Weil	_	_	_	order=MF[OS]VC[V]|props=aux-invan	_	_	_	_
+2	Wanderinnen	_	_	_	order=MF[OS]VC[V]|props=aux-invan	5	obj	_	_
+3	die	_	_	_	order=MF[OS]VC[V]|props=aux-invan	_	_	_	_
+4	Öfen	_	_	_	order=MF[OS]VC[V]|props=aux-invan	5	nsubj	_	_
+5	wärmen	_	_	_	order=MF[OS]VC[V]|props=aux-invan	0	verb	_	_
+6	werden	_	_	_	order=MF[OS]VC[V]|props=aux-invan	_	_	_	_
+7	.	_	_	_	order=MF[OS]VC[V]|props=aux-invan	_	_	_	_
 
 1	Die	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-invan	_	_	_	_
 2	Regenschauer	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-invan	5	nsubj	_	_
@@ -10491,12 +10554,27 @@
 6	durchnässen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-invan	0	verb	_	_
 7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-invan	_	_	_	_
 
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-invan	_	_	_	_
+2	werden	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-invan	_	_	_	_
+3	Spaziergänger	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-invan	6	obj	_	_
+4	die	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-invan	_	_	_	_
+5	Regenschauer	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-invan	6	nsubj	_	_
+6	durchnässen	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-invan	0	verb	_	_
+7	.	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-invan	_	_	_	_
+
 1	Werden	_	_	_	order=LK[V]MF[SO]|props=aux-invan	_	_	_	_
 2	die	_	_	_	order=LK[V]MF[SO]|props=aux-invan	_	_	_	_
 3	Regenschauer	_	_	_	order=LK[V]MF[SO]|props=aux-invan	5	nsubj	_	_
 4	Spaziergänger	_	_	_	order=LK[V]MF[SO]|props=aux-invan	5	obj	_	_
 5	durchnässen	_	_	_	order=LK[V]MF[SO]|props=aux-invan	0	verb	_	_
 6	?	_	_	_	order=LK[V]MF[SO]|props=aux-invan	_	_	_	_
+
+1	Werden	_	_	_	order=LK[V]MF[OS]|props=aux-invan	_	_	_	_
+2	Spaziergänger	_	_	_	order=LK[V]MF[OS]|props=aux-invan	5	obj	_	_
+3	die	_	_	_	order=LK[V]MF[OS]|props=aux-invan	_	_	_	_
+4	Regenschauer	_	_	_	order=LK[V]MF[OS]|props=aux-invan	5	nsubj	_	_
+5	durchnässen	_	_	_	order=LK[V]MF[OS]|props=aux-invan	0	verb	_	_
+6	?	_	_	_	order=LK[V]MF[OS]|props=aux-invan	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=aux-invan	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=aux-invan	_	_	_	_
@@ -10505,6 +10583,14 @@
 5	durchnässen	_	_	_	order=MF[SO]VC[V]|props=aux-invan	0	verb	_	_
 6	werden	_	_	_	order=MF[SO]VC[V]|props=aux-invan	_	_	_	_
 7	.	_	_	_	order=MF[SO]VC[V]|props=aux-invan	_	_	_	_
+
+1	Weil	_	_	_	order=MF[OS]VC[V]|props=aux-invan	_	_	_	_
+2	Spaziergänger	_	_	_	order=MF[OS]VC[V]|props=aux-invan	5	obj	_	_
+3	die	_	_	_	order=MF[OS]VC[V]|props=aux-invan	_	_	_	_
+4	Regenschauer	_	_	_	order=MF[OS]VC[V]|props=aux-invan	5	nsubj	_	_
+5	durchnässen	_	_	_	order=MF[OS]VC[V]|props=aux-invan	0	verb	_	_
+6	werden	_	_	_	order=MF[OS]VC[V]|props=aux-invan	_	_	_	_
+7	.	_	_	_	order=MF[OS]VC[V]|props=aux-invan	_	_	_	_
 
 1	Die	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-invan	_	_	_	_
 2	Kameras	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-invan	5	nsubj	_	_
@@ -22054,11 +22140,24 @@
 5	Generäle	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-psy	2	obj	_	_
 6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-psy	_	_	_	_
+2	fesseln	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-psy	0	verb	_	_
+3	Generäle	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-psy	2	obj	_	_
+4	die	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-psy	_	_	_	_
+5	Angriffe	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-psy	2	nsubj	_	_
+6	.	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-psy	_	_	_	_
+
 1	Fesseln	_	_	_	order=LK[V]MF[SO]|props=base-psy	0	verb	_	_
 2	die	_	_	_	order=LK[V]MF[SO]|props=base-psy	_	_	_	_
 3	Angriffe	_	_	_	order=LK[V]MF[SO]|props=base-psy	1	nsubj	_	_
 4	Generäle	_	_	_	order=LK[V]MF[SO]|props=base-psy	1	obj	_	_
 5	?	_	_	_	order=LK[V]MF[SO]|props=base-psy	_	_	_	_
+
+1	Fesseln	_	_	_	order=LK[V]MF[OS]|props=base-psy	0	verb	_	_
+2	Generäle	_	_	_	order=LK[V]MF[OS]|props=base-psy	1	obj	_	_
+3	die	_	_	_	order=LK[V]MF[OS]|props=base-psy	_	_	_	_
+4	Angriffe	_	_	_	order=LK[V]MF[OS]|props=base-psy	1	nsubj	_	_
+5	?	_	_	_	order=LK[V]MF[OS]|props=base-psy	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=base-psy	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=base-psy	_	_	_	_
@@ -22066,6 +22165,13 @@
 4	Generäle	_	_	_	order=MF[SO]VC[V]|props=base-psy	5	obj	_	_
 5	fesseln	_	_	_	order=MF[SO]VC[V]|props=base-psy	0	verb	_	_
 6	.	_	_	_	order=MF[SO]VC[V]|props=base-psy	_	_	_	_
+
+1	Weil	_	_	_	order=MF[OS]VC[V]|props=base-psy	_	_	_	_
+2	Generäle	_	_	_	order=MF[OS]VC[V]|props=base-psy	5	obj	_	_
+3	die	_	_	_	order=MF[OS]VC[V]|props=base-psy	_	_	_	_
+4	Angriffe	_	_	_	order=MF[OS]VC[V]|props=base-psy	5	nsubj	_	_
+5	fesseln	_	_	_	order=MF[OS]VC[V]|props=base-psy	0	verb	_	_
+6	.	_	_	_	order=MF[OS]VC[V]|props=base-psy	_	_	_	_
 
 1	Das	_	_	_	order=VF[S]LK[V]MF[O]|props=base-psy	_	_	_	_
 2	Doppelleben	_	_	_	order=VF[S]LK[V]MF[O]|props=base-psy	3	nsubj	_	_
@@ -22446,11 +22552,24 @@
 5	Herren	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-psy	2	obj	_	_
 6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-psy	_	_	_	_
+2	erstaunen	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-psy	0	verb	_	_
+3	Herren	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-psy	2	obj	_	_
+4	die	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-psy	_	_	_	_
+5	Bärte	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-psy	2	nsubj	_	_
+6	.	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-psy	_	_	_	_
+
 1	Erstaunen	_	_	_	order=LK[V]MF[SO]|props=base-psy	0	verb	_	_
 2	die	_	_	_	order=LK[V]MF[SO]|props=base-psy	_	_	_	_
 3	Bärte	_	_	_	order=LK[V]MF[SO]|props=base-psy	1	nsubj	_	_
 4	Herren	_	_	_	order=LK[V]MF[SO]|props=base-psy	1	obj	_	_
 5	?	_	_	_	order=LK[V]MF[SO]|props=base-psy	_	_	_	_
+
+1	Erstaunen	_	_	_	order=LK[V]MF[OS]|props=base-psy	0	verb	_	_
+2	Herren	_	_	_	order=LK[V]MF[OS]|props=base-psy	1	obj	_	_
+3	die	_	_	_	order=LK[V]MF[OS]|props=base-psy	_	_	_	_
+4	Bärte	_	_	_	order=LK[V]MF[OS]|props=base-psy	1	nsubj	_	_
+5	?	_	_	_	order=LK[V]MF[OS]|props=base-psy	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=base-psy	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=base-psy	_	_	_	_
@@ -22458,6 +22577,13 @@
 4	Herren	_	_	_	order=MF[SO]VC[V]|props=base-psy	5	obj	_	_
 5	erstaunen	_	_	_	order=MF[SO]VC[V]|props=base-psy	0	verb	_	_
 6	.	_	_	_	order=MF[SO]VC[V]|props=base-psy	_	_	_	_
+
+1	Weil	_	_	_	order=MF[OS]VC[V]|props=base-psy	_	_	_	_
+2	Herren	_	_	_	order=MF[OS]VC[V]|props=base-psy	5	obj	_	_
+3	die	_	_	_	order=MF[OS]VC[V]|props=base-psy	_	_	_	_
+4	Bärte	_	_	_	order=MF[OS]VC[V]|props=base-psy	5	nsubj	_	_
+5	erstaunen	_	_	_	order=MF[OS]VC[V]|props=base-psy	0	verb	_	_
+6	.	_	_	_	order=MF[OS]VC[V]|props=base-psy	_	_	_	_
 
 1	Die	_	_	_	order=VF[S]LK[V]MF[O]|props=base-psy	_	_	_	_
 2	Kaffees	_	_	_	order=VF[S]LK[V]MF[O]|props=base-psy	3	nsubj	_	_
@@ -22478,11 +22604,24 @@
 5	Mamas	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-psy	2	obj	_	_
 6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-psy	_	_	_	_
+2	erfreuen	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-psy	0	verb	_	_
+3	Mamas	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-psy	2	obj	_	_
+4	die	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-psy	_	_	_	_
+5	Kaffees	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-psy	2	nsubj	_	_
+6	.	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-psy	_	_	_	_
+
 1	Erfreuen	_	_	_	order=LK[V]MF[SO]|props=base-psy	0	verb	_	_
 2	die	_	_	_	order=LK[V]MF[SO]|props=base-psy	_	_	_	_
 3	Kaffees	_	_	_	order=LK[V]MF[SO]|props=base-psy	1	nsubj	_	_
 4	Mamas	_	_	_	order=LK[V]MF[SO]|props=base-psy	1	obj	_	_
 5	?	_	_	_	order=LK[V]MF[SO]|props=base-psy	_	_	_	_
+
+1	Erfreuen	_	_	_	order=LK[V]MF[OS]|props=base-psy	0	verb	_	_
+2	Mamas	_	_	_	order=LK[V]MF[OS]|props=base-psy	1	obj	_	_
+3	die	_	_	_	order=LK[V]MF[OS]|props=base-psy	_	_	_	_
+4	Kaffees	_	_	_	order=LK[V]MF[OS]|props=base-psy	1	nsubj	_	_
+5	?	_	_	_	order=LK[V]MF[OS]|props=base-psy	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=base-psy	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=base-psy	_	_	_	_
@@ -22490,6 +22629,13 @@
 4	Mamas	_	_	_	order=MF[SO]VC[V]|props=base-psy	5	obj	_	_
 5	erfreuen	_	_	_	order=MF[SO]VC[V]|props=base-psy	0	verb	_	_
 6	.	_	_	_	order=MF[SO]VC[V]|props=base-psy	_	_	_	_
+
+1	Weil	_	_	_	order=MF[OS]VC[V]|props=base-psy	_	_	_	_
+2	Mamas	_	_	_	order=MF[OS]VC[V]|props=base-psy	5	obj	_	_
+3	die	_	_	_	order=MF[OS]VC[V]|props=base-psy	_	_	_	_
+4	Kaffees	_	_	_	order=MF[OS]VC[V]|props=base-psy	5	nsubj	_	_
+5	erfreuen	_	_	_	order=MF[OS]VC[V]|props=base-psy	0	verb	_	_
+6	.	_	_	_	order=MF[OS]VC[V]|props=base-psy	_	_	_	_
 
 1	Die	_	_	_	order=VF[S]LK[V]MF[O]|props=base-psy	_	_	_	_
 2	Romane	_	_	_	order=VF[S]LK[V]MF[O]|props=base-psy	3	nsubj	_	_
@@ -22510,11 +22656,24 @@
 5	Schriftsteller	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-psy	2	obj	_	_
 6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-psy	_	_	_	_
+2	frustrieren	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-psy	0	verb	_	_
+3	Schriftsteller	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-psy	2	obj	_	_
+4	die	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-psy	_	_	_	_
+5	Romane	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-psy	2	nsubj	_	_
+6	.	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-psy	_	_	_	_
+
 1	Frustrieren	_	_	_	order=LK[V]MF[SO]|props=base-psy	0	verb	_	_
 2	die	_	_	_	order=LK[V]MF[SO]|props=base-psy	_	_	_	_
 3	Romane	_	_	_	order=LK[V]MF[SO]|props=base-psy	1	nsubj	_	_
 4	Schriftsteller	_	_	_	order=LK[V]MF[SO]|props=base-psy	1	obj	_	_
 5	?	_	_	_	order=LK[V]MF[SO]|props=base-psy	_	_	_	_
+
+1	Frustrieren	_	_	_	order=LK[V]MF[OS]|props=base-psy	0	verb	_	_
+2	Schriftsteller	_	_	_	order=LK[V]MF[OS]|props=base-psy	1	obj	_	_
+3	die	_	_	_	order=LK[V]MF[OS]|props=base-psy	_	_	_	_
+4	Romane	_	_	_	order=LK[V]MF[OS]|props=base-psy	1	nsubj	_	_
+5	?	_	_	_	order=LK[V]MF[OS]|props=base-psy	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=base-psy	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=base-psy	_	_	_	_
@@ -22522,6 +22681,13 @@
 4	Schriftsteller	_	_	_	order=MF[SO]VC[V]|props=base-psy	5	obj	_	_
 5	frustrieren	_	_	_	order=MF[SO]VC[V]|props=base-psy	0	verb	_	_
 6	.	_	_	_	order=MF[SO]VC[V]|props=base-psy	_	_	_	_
+
+1	Weil	_	_	_	order=MF[OS]VC[V]|props=base-psy	_	_	_	_
+2	Schriftsteller	_	_	_	order=MF[OS]VC[V]|props=base-psy	5	obj	_	_
+3	die	_	_	_	order=MF[OS]VC[V]|props=base-psy	_	_	_	_
+4	Romane	_	_	_	order=MF[OS]VC[V]|props=base-psy	5	nsubj	_	_
+5	frustrieren	_	_	_	order=MF[OS]VC[V]|props=base-psy	0	verb	_	_
+6	.	_	_	_	order=MF[OS]VC[V]|props=base-psy	_	_	_	_
 
 1	Die	_	_	_	order=VF[S]LK[V]MF[O]|props=base-psy	_	_	_	_
 2	Rede	_	_	_	order=VF[S]LK[V]MF[O]|props=base-psy	3	nsubj	_	_
@@ -22662,11 +22828,24 @@
 5	Kleinbauern	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-psy	2	obj	_	_
 6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=base-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-psy	_	_	_	_
+2	reuen	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-psy	0	verb	_	_
+3	Kleinbauern	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-psy	2	obj	_	_
+4	die	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-psy	_	_	_	_
+5	Bauzäune	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-psy	2	nsubj	_	_
+6	.	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=base-psy	_	_	_	_
+
 1	Reuen	_	_	_	order=LK[V]MF[SO]|props=base-psy	0	verb	_	_
 2	die	_	_	_	order=LK[V]MF[SO]|props=base-psy	_	_	_	_
 3	Bauzäune	_	_	_	order=LK[V]MF[SO]|props=base-psy	1	nsubj	_	_
 4	Kleinbauern	_	_	_	order=LK[V]MF[SO]|props=base-psy	1	obj	_	_
 5	?	_	_	_	order=LK[V]MF[SO]|props=base-psy	_	_	_	_
+
+1	Reuen	_	_	_	order=LK[V]MF[OS]|props=base-psy	0	verb	_	_
+2	Kleinbauern	_	_	_	order=LK[V]MF[OS]|props=base-psy	1	obj	_	_
+3	die	_	_	_	order=LK[V]MF[OS]|props=base-psy	_	_	_	_
+4	Bauzäune	_	_	_	order=LK[V]MF[OS]|props=base-psy	1	nsubj	_	_
+5	?	_	_	_	order=LK[V]MF[OS]|props=base-psy	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=base-psy	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=base-psy	_	_	_	_
@@ -22674,6 +22853,13 @@
 4	Kleinbauern	_	_	_	order=MF[SO]VC[V]|props=base-psy	5	obj	_	_
 5	reuen	_	_	_	order=MF[SO]VC[V]|props=base-psy	0	verb	_	_
 6	.	_	_	_	order=MF[SO]VC[V]|props=base-psy	_	_	_	_
+
+1	Weil	_	_	_	order=MF[OS]VC[V]|props=base-psy	_	_	_	_
+2	Kleinbauern	_	_	_	order=MF[OS]VC[V]|props=base-psy	5	obj	_	_
+3	die	_	_	_	order=MF[OS]VC[V]|props=base-psy	_	_	_	_
+4	Bauzäune	_	_	_	order=MF[OS]VC[V]|props=base-psy	5	nsubj	_	_
+5	reuen	_	_	_	order=MF[OS]VC[V]|props=base-psy	0	verb	_	_
+6	.	_	_	_	order=MF[OS]VC[V]|props=base-psy	_	_	_	_
 
 1	Die	_	_	_	order=VF[S]LK[V]MF[O]|props=base-psy	_	_	_	_
 2	Tour	_	_	_	order=VF[S]LK[V]MF[O]|props=base-psy	3	nsubj	_	_
@@ -22817,12 +23003,27 @@
 6	fesseln	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-psy	0	verb	_	_
 7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-psy	_	_	_	_
+2	werden	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-psy	_	_	_	_
+3	Generäle	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-psy	6	obj	_	_
+4	die	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-psy	_	_	_	_
+5	Angriffe	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-psy	6	nsubj	_	_
+6	fesseln	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-psy	0	verb	_	_
+7	.	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-psy	_	_	_	_
+
 1	Werden	_	_	_	order=LK[V]MF[SO]|props=aux-psy	_	_	_	_
 2	die	_	_	_	order=LK[V]MF[SO]|props=aux-psy	_	_	_	_
 3	Angriffe	_	_	_	order=LK[V]MF[SO]|props=aux-psy	5	nsubj	_	_
 4	Generäle	_	_	_	order=LK[V]MF[SO]|props=aux-psy	5	obj	_	_
 5	fesseln	_	_	_	order=LK[V]MF[SO]|props=aux-psy	0	verb	_	_
 6	?	_	_	_	order=LK[V]MF[SO]|props=aux-psy	_	_	_	_
+
+1	Werden	_	_	_	order=LK[V]MF[OS]|props=aux-psy	_	_	_	_
+2	Generäle	_	_	_	order=LK[V]MF[OS]|props=aux-psy	5	obj	_	_
+3	die	_	_	_	order=LK[V]MF[OS]|props=aux-psy	_	_	_	_
+4	Angriffe	_	_	_	order=LK[V]MF[OS]|props=aux-psy	5	nsubj	_	_
+5	fesseln	_	_	_	order=LK[V]MF[OS]|props=aux-psy	0	verb	_	_
+6	?	_	_	_	order=LK[V]MF[OS]|props=aux-psy	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=aux-psy	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=aux-psy	_	_	_	_
@@ -22831,6 +23032,14 @@
 5	fesseln	_	_	_	order=MF[SO]VC[V]|props=aux-psy	0	verb	_	_
 6	werden	_	_	_	order=MF[SO]VC[V]|props=aux-psy	_	_	_	_
 7	.	_	_	_	order=MF[SO]VC[V]|props=aux-psy	_	_	_	_
+
+1	Weil	_	_	_	order=MF[OS]VC[V]|props=aux-psy	_	_	_	_
+2	Generäle	_	_	_	order=MF[OS]VC[V]|props=aux-psy	5	obj	_	_
+3	die	_	_	_	order=MF[OS]VC[V]|props=aux-psy	_	_	_	_
+4	Angriffe	_	_	_	order=MF[OS]VC[V]|props=aux-psy	5	nsubj	_	_
+5	fesseln	_	_	_	order=MF[OS]VC[V]|props=aux-psy	0	verb	_	_
+6	werden	_	_	_	order=MF[OS]VC[V]|props=aux-psy	_	_	_	_
+7	.	_	_	_	order=MF[OS]VC[V]|props=aux-psy	_	_	_	_
 
 1	Das	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-psy	_	_	_	_
 2	Doppelleben	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-psy	6	nsubj	_	_
@@ -23262,12 +23471,27 @@
 6	erstaunen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-psy	0	verb	_	_
 7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-psy	_	_	_	_
+2	werden	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-psy	_	_	_	_
+3	Herren	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-psy	6	obj	_	_
+4	die	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-psy	_	_	_	_
+5	Bärte	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-psy	6	nsubj	_	_
+6	erstaunen	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-psy	0	verb	_	_
+7	.	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-psy	_	_	_	_
+
 1	Werden	_	_	_	order=LK[V]MF[SO]|props=aux-psy	_	_	_	_
 2	die	_	_	_	order=LK[V]MF[SO]|props=aux-psy	_	_	_	_
 3	Bärte	_	_	_	order=LK[V]MF[SO]|props=aux-psy	5	nsubj	_	_
 4	Herren	_	_	_	order=LK[V]MF[SO]|props=aux-psy	5	obj	_	_
 5	erstaunen	_	_	_	order=LK[V]MF[SO]|props=aux-psy	0	verb	_	_
 6	?	_	_	_	order=LK[V]MF[SO]|props=aux-psy	_	_	_	_
+
+1	Werden	_	_	_	order=LK[V]MF[OS]|props=aux-psy	_	_	_	_
+2	Herren	_	_	_	order=LK[V]MF[OS]|props=aux-psy	5	obj	_	_
+3	die	_	_	_	order=LK[V]MF[OS]|props=aux-psy	_	_	_	_
+4	Bärte	_	_	_	order=LK[V]MF[OS]|props=aux-psy	5	nsubj	_	_
+5	erstaunen	_	_	_	order=LK[V]MF[OS]|props=aux-psy	0	verb	_	_
+6	?	_	_	_	order=LK[V]MF[OS]|props=aux-psy	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=aux-psy	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=aux-psy	_	_	_	_
@@ -23276,6 +23500,14 @@
 5	erstaunen	_	_	_	order=MF[SO]VC[V]|props=aux-psy	0	verb	_	_
 6	werden	_	_	_	order=MF[SO]VC[V]|props=aux-psy	_	_	_	_
 7	.	_	_	_	order=MF[SO]VC[V]|props=aux-psy	_	_	_	_
+
+1	Weil	_	_	_	order=MF[OS]VC[V]|props=aux-psy	_	_	_	_
+2	Herren	_	_	_	order=MF[OS]VC[V]|props=aux-psy	5	obj	_	_
+3	die	_	_	_	order=MF[OS]VC[V]|props=aux-psy	_	_	_	_
+4	Bärte	_	_	_	order=MF[OS]VC[V]|props=aux-psy	5	nsubj	_	_
+5	erstaunen	_	_	_	order=MF[OS]VC[V]|props=aux-psy	0	verb	_	_
+6	werden	_	_	_	order=MF[OS]VC[V]|props=aux-psy	_	_	_	_
+7	.	_	_	_	order=MF[OS]VC[V]|props=aux-psy	_	_	_	_
 
 1	Die	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-psy	_	_	_	_
 2	Kaffees	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-psy	5	nsubj	_	_
@@ -23299,12 +23531,27 @@
 6	erfreuen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-psy	0	verb	_	_
 7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-psy	_	_	_	_
+2	werden	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-psy	_	_	_	_
+3	Mamas	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-psy	6	obj	_	_
+4	die	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-psy	_	_	_	_
+5	Kaffees	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-psy	6	nsubj	_	_
+6	erfreuen	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-psy	0	verb	_	_
+7	.	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-psy	_	_	_	_
+
 1	Werden	_	_	_	order=LK[V]MF[SO]|props=aux-psy	_	_	_	_
 2	die	_	_	_	order=LK[V]MF[SO]|props=aux-psy	_	_	_	_
 3	Kaffees	_	_	_	order=LK[V]MF[SO]|props=aux-psy	5	nsubj	_	_
 4	Mamas	_	_	_	order=LK[V]MF[SO]|props=aux-psy	5	obj	_	_
 5	erfreuen	_	_	_	order=LK[V]MF[SO]|props=aux-psy	0	verb	_	_
 6	?	_	_	_	order=LK[V]MF[SO]|props=aux-psy	_	_	_	_
+
+1	Werden	_	_	_	order=LK[V]MF[OS]|props=aux-psy	_	_	_	_
+2	Mamas	_	_	_	order=LK[V]MF[OS]|props=aux-psy	5	obj	_	_
+3	die	_	_	_	order=LK[V]MF[OS]|props=aux-psy	_	_	_	_
+4	Kaffees	_	_	_	order=LK[V]MF[OS]|props=aux-psy	5	nsubj	_	_
+5	erfreuen	_	_	_	order=LK[V]MF[OS]|props=aux-psy	0	verb	_	_
+6	?	_	_	_	order=LK[V]MF[OS]|props=aux-psy	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=aux-psy	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=aux-psy	_	_	_	_
@@ -23313,6 +23560,14 @@
 5	erfreuen	_	_	_	order=MF[SO]VC[V]|props=aux-psy	0	verb	_	_
 6	werden	_	_	_	order=MF[SO]VC[V]|props=aux-psy	_	_	_	_
 7	.	_	_	_	order=MF[SO]VC[V]|props=aux-psy	_	_	_	_
+
+1	Weil	_	_	_	order=MF[OS]VC[V]|props=aux-psy	_	_	_	_
+2	Mamas	_	_	_	order=MF[OS]VC[V]|props=aux-psy	5	obj	_	_
+3	die	_	_	_	order=MF[OS]VC[V]|props=aux-psy	_	_	_	_
+4	Kaffees	_	_	_	order=MF[OS]VC[V]|props=aux-psy	5	nsubj	_	_
+5	erfreuen	_	_	_	order=MF[OS]VC[V]|props=aux-psy	0	verb	_	_
+6	werden	_	_	_	order=MF[OS]VC[V]|props=aux-psy	_	_	_	_
+7	.	_	_	_	order=MF[OS]VC[V]|props=aux-psy	_	_	_	_
 
 1	Die	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-psy	_	_	_	_
 2	Romane	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-psy	5	nsubj	_	_
@@ -23336,12 +23591,27 @@
 6	frustrieren	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-psy	0	verb	_	_
 7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-psy	_	_	_	_
+2	werden	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-psy	_	_	_	_
+3	Schriftsteller	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-psy	6	obj	_	_
+4	die	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-psy	_	_	_	_
+5	Romane	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-psy	6	nsubj	_	_
+6	frustrieren	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-psy	0	verb	_	_
+7	.	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-psy	_	_	_	_
+
 1	Werden	_	_	_	order=LK[V]MF[SO]|props=aux-psy	_	_	_	_
 2	die	_	_	_	order=LK[V]MF[SO]|props=aux-psy	_	_	_	_
 3	Romane	_	_	_	order=LK[V]MF[SO]|props=aux-psy	5	nsubj	_	_
 4	Schriftsteller	_	_	_	order=LK[V]MF[SO]|props=aux-psy	5	obj	_	_
 5	frustrieren	_	_	_	order=LK[V]MF[SO]|props=aux-psy	0	verb	_	_
 6	?	_	_	_	order=LK[V]MF[SO]|props=aux-psy	_	_	_	_
+
+1	Werden	_	_	_	order=LK[V]MF[OS]|props=aux-psy	_	_	_	_
+2	Schriftsteller	_	_	_	order=LK[V]MF[OS]|props=aux-psy	5	obj	_	_
+3	die	_	_	_	order=LK[V]MF[OS]|props=aux-psy	_	_	_	_
+4	Romane	_	_	_	order=LK[V]MF[OS]|props=aux-psy	5	nsubj	_	_
+5	frustrieren	_	_	_	order=LK[V]MF[OS]|props=aux-psy	0	verb	_	_
+6	?	_	_	_	order=LK[V]MF[OS]|props=aux-psy	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=aux-psy	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=aux-psy	_	_	_	_
@@ -23350,6 +23620,14 @@
 5	frustrieren	_	_	_	order=MF[SO]VC[V]|props=aux-psy	0	verb	_	_
 6	werden	_	_	_	order=MF[SO]VC[V]|props=aux-psy	_	_	_	_
 7	.	_	_	_	order=MF[SO]VC[V]|props=aux-psy	_	_	_	_
+
+1	Weil	_	_	_	order=MF[OS]VC[V]|props=aux-psy	_	_	_	_
+2	Schriftsteller	_	_	_	order=MF[OS]VC[V]|props=aux-psy	5	obj	_	_
+3	die	_	_	_	order=MF[OS]VC[V]|props=aux-psy	_	_	_	_
+4	Romane	_	_	_	order=MF[OS]VC[V]|props=aux-psy	5	nsubj	_	_
+5	frustrieren	_	_	_	order=MF[OS]VC[V]|props=aux-psy	0	verb	_	_
+6	werden	_	_	_	order=MF[OS]VC[V]|props=aux-psy	_	_	_	_
+7	.	_	_	_	order=MF[OS]VC[V]|props=aux-psy	_	_	_	_
 
 1	Die	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-psy	_	_	_	_
 2	Rede	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-psy	6	nsubj	_	_
@@ -23509,12 +23787,27 @@
 6	reuen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-psy	0	verb	_	_
 7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=aux-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-psy	_	_	_	_
+2	werden	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-psy	_	_	_	_
+3	Kleinbauern	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-psy	6	obj	_	_
+4	die	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-psy	_	_	_	_
+5	Bauzäune	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-psy	6	nsubj	_	_
+6	reuen	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-psy	0	verb	_	_
+7	.	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=aux-psy	_	_	_	_
+
 1	Werden	_	_	_	order=LK[V]MF[SO]|props=aux-psy	_	_	_	_
 2	die	_	_	_	order=LK[V]MF[SO]|props=aux-psy	_	_	_	_
 3	Bauzäune	_	_	_	order=LK[V]MF[SO]|props=aux-psy	5	nsubj	_	_
 4	Kleinbauern	_	_	_	order=LK[V]MF[SO]|props=aux-psy	5	obj	_	_
 5	reuen	_	_	_	order=LK[V]MF[SO]|props=aux-psy	0	verb	_	_
 6	?	_	_	_	order=LK[V]MF[SO]|props=aux-psy	_	_	_	_
+
+1	Werden	_	_	_	order=LK[V]MF[OS]|props=aux-psy	_	_	_	_
+2	Kleinbauern	_	_	_	order=LK[V]MF[OS]|props=aux-psy	5	obj	_	_
+3	die	_	_	_	order=LK[V]MF[OS]|props=aux-psy	_	_	_	_
+4	Bauzäune	_	_	_	order=LK[V]MF[OS]|props=aux-psy	5	nsubj	_	_
+5	reuen	_	_	_	order=LK[V]MF[OS]|props=aux-psy	0	verb	_	_
+6	?	_	_	_	order=LK[V]MF[OS]|props=aux-psy	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=aux-psy	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=aux-psy	_	_	_	_
@@ -23523,6 +23816,14 @@
 5	reuen	_	_	_	order=MF[SO]VC[V]|props=aux-psy	0	verb	_	_
 6	werden	_	_	_	order=MF[SO]VC[V]|props=aux-psy	_	_	_	_
 7	.	_	_	_	order=MF[SO]VC[V]|props=aux-psy	_	_	_	_
+
+1	Weil	_	_	_	order=MF[OS]VC[V]|props=aux-psy	_	_	_	_
+2	Kleinbauern	_	_	_	order=MF[OS]VC[V]|props=aux-psy	5	obj	_	_
+3	die	_	_	_	order=MF[OS]VC[V]|props=aux-psy	_	_	_	_
+4	Bauzäune	_	_	_	order=MF[OS]VC[V]|props=aux-psy	5	nsubj	_	_
+5	reuen	_	_	_	order=MF[OS]VC[V]|props=aux-psy	0	verb	_	_
+6	werden	_	_	_	order=MF[OS]VC[V]|props=aux-psy	_	_	_	_
+7	.	_	_	_	order=MF[OS]VC[V]|props=aux-psy	_	_	_	_
 
 1	Die	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-psy	_	_	_	_
 2	Tour	_	_	_	order=VF[S]LK[V]MF[O]|props=aux-psy	6	nsubj	_	_
@@ -25733,11 +26034,24 @@
 5	Kanzleien	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=regpol-psy	2	obj	_	_
 6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=regpol-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	_	_	_	_
+2	fesseln	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	0	verb	_	_
+3	Kanzleien	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	2	obj	_	_
+4	die	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	_	_	_	_
+5	Angriffe	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	2	nsubj	_	_
+6	.	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	_	_	_	_
+
 1	Fesseln	_	_	_	order=LK[V]MF[SO]|props=regpol-psy	0	verb	_	_
 2	die	_	_	_	order=LK[V]MF[SO]|props=regpol-psy	_	_	_	_
 3	Angriffe	_	_	_	order=LK[V]MF[SO]|props=regpol-psy	1	nsubj	_	_
 4	Kanzleien	_	_	_	order=LK[V]MF[SO]|props=regpol-psy	1	obj	_	_
 5	?	_	_	_	order=LK[V]MF[SO]|props=regpol-psy	_	_	_	_
+
+1	Fesseln	_	_	_	order=LK[V]MF[OS]|props=regpol-psy	0	verb	_	_
+2	Kanzleien	_	_	_	order=LK[V]MF[OS]|props=regpol-psy	1	obj	_	_
+3	die	_	_	_	order=LK[V]MF[OS]|props=regpol-psy	_	_	_	_
+4	Angriffe	_	_	_	order=LK[V]MF[OS]|props=regpol-psy	1	nsubj	_	_
+5	?	_	_	_	order=LK[V]MF[OS]|props=regpol-psy	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=regpol-psy	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=regpol-psy	_	_	_	_
@@ -25745,6 +26059,13 @@
 4	Kanzleien	_	_	_	order=MF[SO]VC[V]|props=regpol-psy	5	obj	_	_
 5	fesseln	_	_	_	order=MF[SO]VC[V]|props=regpol-psy	0	verb	_	_
 6	.	_	_	_	order=MF[SO]VC[V]|props=regpol-psy	_	_	_	_
+
+1	Weil	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	_	_	_	_
+2	Kanzleien	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	5	obj	_	_
+3	die	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	_	_	_	_
+4	Angriffe	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	5	nsubj	_	_
+5	fesseln	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	0	verb	_	_
+6	.	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	_	_	_	_
 
 1	Die	_	_	_	order=VF[S]LK[V]MF[O]|props=regpol-psy	_	_	_	_
 2	Doppelleben	_	_	_	order=VF[S]LK[V]MF[O]|props=regpol-psy	3	nsubj	_	_
@@ -25765,11 +26086,24 @@
 5	Läden	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=regpol-psy	2	obj	_	_
 6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=regpol-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	_	_	_	_
+2	langweilen	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	0	verb	_	_
+3	Läden	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	2	obj	_	_
+4	die	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	_	_	_	_
+5	Doppelleben	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	2	nsubj	_	_
+6	.	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	_	_	_	_
+
 1	Langweilen	_	_	_	order=LK[V]MF[SO]|props=regpol-psy	0	verb	_	_
 2	die	_	_	_	order=LK[V]MF[SO]|props=regpol-psy	_	_	_	_
 3	Doppelleben	_	_	_	order=LK[V]MF[SO]|props=regpol-psy	1	nsubj	_	_
 4	Läden	_	_	_	order=LK[V]MF[SO]|props=regpol-psy	1	obj	_	_
 5	?	_	_	_	order=LK[V]MF[SO]|props=regpol-psy	_	_	_	_
+
+1	Langweilen	_	_	_	order=LK[V]MF[OS]|props=regpol-psy	0	verb	_	_
+2	Läden	_	_	_	order=LK[V]MF[OS]|props=regpol-psy	1	obj	_	_
+3	die	_	_	_	order=LK[V]MF[OS]|props=regpol-psy	_	_	_	_
+4	Doppelleben	_	_	_	order=LK[V]MF[OS]|props=regpol-psy	1	nsubj	_	_
+5	?	_	_	_	order=LK[V]MF[OS]|props=regpol-psy	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=regpol-psy	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=regpol-psy	_	_	_	_
@@ -25777,6 +26111,13 @@
 4	Läden	_	_	_	order=MF[SO]VC[V]|props=regpol-psy	5	obj	_	_
 5	langweilen	_	_	_	order=MF[SO]VC[V]|props=regpol-psy	0	verb	_	_
 6	.	_	_	_	order=MF[SO]VC[V]|props=regpol-psy	_	_	_	_
+
+1	Weil	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	_	_	_	_
+2	Läden	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	5	obj	_	_
+3	die	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	_	_	_	_
+4	Doppelleben	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	5	nsubj	_	_
+5	langweilen	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	0	verb	_	_
+6	.	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	_	_	_	_
 
 1	Die	_	_	_	order=VF[S]LK[V]MF[O]|props=regpol-psy	_	_	_	_
 2	Aufnahme	_	_	_	order=VF[S]LK[V]MF[O]|props=regpol-psy	3	nsubj	_	_
@@ -26097,11 +26438,24 @@
 5	Salons	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=regpol-psy	2	obj	_	_
 6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=regpol-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	_	_	_	_
+2	erstaunen	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	0	verb	_	_
+3	Salons	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	2	obj	_	_
+4	die	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	_	_	_	_
+5	Bärte	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	2	nsubj	_	_
+6	.	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	_	_	_	_
+
 1	Erstaunen	_	_	_	order=LK[V]MF[SO]|props=regpol-psy	0	verb	_	_
 2	die	_	_	_	order=LK[V]MF[SO]|props=regpol-psy	_	_	_	_
 3	Bärte	_	_	_	order=LK[V]MF[SO]|props=regpol-psy	1	nsubj	_	_
 4	Salons	_	_	_	order=LK[V]MF[SO]|props=regpol-psy	1	obj	_	_
 5	?	_	_	_	order=LK[V]MF[SO]|props=regpol-psy	_	_	_	_
+
+1	Erstaunen	_	_	_	order=LK[V]MF[OS]|props=regpol-psy	0	verb	_	_
+2	Salons	_	_	_	order=LK[V]MF[OS]|props=regpol-psy	1	obj	_	_
+3	die	_	_	_	order=LK[V]MF[OS]|props=regpol-psy	_	_	_	_
+4	Bärte	_	_	_	order=LK[V]MF[OS]|props=regpol-psy	1	nsubj	_	_
+5	?	_	_	_	order=LK[V]MF[OS]|props=regpol-psy	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=regpol-psy	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=regpol-psy	_	_	_	_
@@ -26109,6 +26463,13 @@
 4	Salons	_	_	_	order=MF[SO]VC[V]|props=regpol-psy	5	obj	_	_
 5	erstaunen	_	_	_	order=MF[SO]VC[V]|props=regpol-psy	0	verb	_	_
 6	.	_	_	_	order=MF[SO]VC[V]|props=regpol-psy	_	_	_	_
+
+1	Weil	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	_	_	_	_
+2	Salons	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	5	obj	_	_
+3	die	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	_	_	_	_
+4	Bärte	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	5	nsubj	_	_
+5	erstaunen	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	0	verb	_	_
+6	.	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	_	_	_	_
 
 1	Die	_	_	_	order=VF[S]LK[V]MF[O]|props=regpol-psy	_	_	_	_
 2	Kaffees	_	_	_	order=VF[S]LK[V]MF[O]|props=regpol-psy	3	nsubj	_	_
@@ -26129,11 +26490,24 @@
 5	Redaktionen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=regpol-psy	2	obj	_	_
 6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=regpol-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	_	_	_	_
+2	erfreuen	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	0	verb	_	_
+3	Redaktionen	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	2	obj	_	_
+4	die	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	_	_	_	_
+5	Kaffees	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	2	nsubj	_	_
+6	.	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	_	_	_	_
+
 1	Erfreuen	_	_	_	order=LK[V]MF[SO]|props=regpol-psy	0	verb	_	_
 2	die	_	_	_	order=LK[V]MF[SO]|props=regpol-psy	_	_	_	_
 3	Kaffees	_	_	_	order=LK[V]MF[SO]|props=regpol-psy	1	nsubj	_	_
 4	Redaktionen	_	_	_	order=LK[V]MF[SO]|props=regpol-psy	1	obj	_	_
 5	?	_	_	_	order=LK[V]MF[SO]|props=regpol-psy	_	_	_	_
+
+1	Erfreuen	_	_	_	order=LK[V]MF[OS]|props=regpol-psy	0	verb	_	_
+2	Redaktionen	_	_	_	order=LK[V]MF[OS]|props=regpol-psy	1	obj	_	_
+3	die	_	_	_	order=LK[V]MF[OS]|props=regpol-psy	_	_	_	_
+4	Kaffees	_	_	_	order=LK[V]MF[OS]|props=regpol-psy	1	nsubj	_	_
+5	?	_	_	_	order=LK[V]MF[OS]|props=regpol-psy	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=regpol-psy	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=regpol-psy	_	_	_	_
@@ -26141,6 +26515,13 @@
 4	Redaktionen	_	_	_	order=MF[SO]VC[V]|props=regpol-psy	5	obj	_	_
 5	erfreuen	_	_	_	order=MF[SO]VC[V]|props=regpol-psy	0	verb	_	_
 6	.	_	_	_	order=MF[SO]VC[V]|props=regpol-psy	_	_	_	_
+
+1	Weil	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	_	_	_	_
+2	Redaktionen	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	5	obj	_	_
+3	die	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	_	_	_	_
+4	Kaffees	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	5	nsubj	_	_
+5	erfreuen	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	0	verb	_	_
+6	.	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	_	_	_	_
 
 1	Die	_	_	_	order=VF[S]LK[V]MF[O]|props=regpol-psy	_	_	_	_
 2	Romane	_	_	_	order=VF[S]LK[V]MF[O]|props=regpol-psy	3	nsubj	_	_
@@ -26161,11 +26542,24 @@
 5	Seminare	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=regpol-psy	2	obj	_	_
 6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=regpol-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	_	_	_	_
+2	frustrieren	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	0	verb	_	_
+3	Seminare	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	2	obj	_	_
+4	die	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	_	_	_	_
+5	Romane	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	2	nsubj	_	_
+6	.	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	_	_	_	_
+
 1	Frustrieren	_	_	_	order=LK[V]MF[SO]|props=regpol-psy	0	verb	_	_
 2	die	_	_	_	order=LK[V]MF[SO]|props=regpol-psy	_	_	_	_
 3	Romane	_	_	_	order=LK[V]MF[SO]|props=regpol-psy	1	nsubj	_	_
 4	Seminare	_	_	_	order=LK[V]MF[SO]|props=regpol-psy	1	obj	_	_
 5	?	_	_	_	order=LK[V]MF[SO]|props=regpol-psy	_	_	_	_
+
+1	Frustrieren	_	_	_	order=LK[V]MF[OS]|props=regpol-psy	0	verb	_	_
+2	Seminare	_	_	_	order=LK[V]MF[OS]|props=regpol-psy	1	obj	_	_
+3	die	_	_	_	order=LK[V]MF[OS]|props=regpol-psy	_	_	_	_
+4	Romane	_	_	_	order=LK[V]MF[OS]|props=regpol-psy	1	nsubj	_	_
+5	?	_	_	_	order=LK[V]MF[OS]|props=regpol-psy	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=regpol-psy	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=regpol-psy	_	_	_	_
@@ -26173,6 +26567,13 @@
 4	Seminare	_	_	_	order=MF[SO]VC[V]|props=regpol-psy	5	obj	_	_
 5	frustrieren	_	_	_	order=MF[SO]VC[V]|props=regpol-psy	0	verb	_	_
 6	.	_	_	_	order=MF[SO]VC[V]|props=regpol-psy	_	_	_	_
+
+1	Weil	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	_	_	_	_
+2	Seminare	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	5	obj	_	_
+3	die	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	_	_	_	_
+4	Romane	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	5	nsubj	_	_
+5	frustrieren	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	0	verb	_	_
+6	.	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	_	_	_	_
 
 1	Die	_	_	_	order=VF[S]LK[V]MF[O]|props=regpol-psy	_	_	_	_
 2	Rede	_	_	_	order=VF[S]LK[V]MF[O]|props=regpol-psy	3	nsubj	_	_
@@ -26313,11 +26714,24 @@
 5	Werkstätten	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=regpol-psy	2	obj	_	_
 6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=regpol-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	_	_	_	_
+2	reuen	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	0	verb	_	_
+3	Werkstätten	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	2	obj	_	_
+4	die	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	_	_	_	_
+5	Bauzäune	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	2	nsubj	_	_
+6	.	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	_	_	_	_
+
 1	Reuen	_	_	_	order=LK[V]MF[SO]|props=regpol-psy	0	verb	_	_
 2	die	_	_	_	order=LK[V]MF[SO]|props=regpol-psy	_	_	_	_
 3	Bauzäune	_	_	_	order=LK[V]MF[SO]|props=regpol-psy	1	nsubj	_	_
 4	Werkstätten	_	_	_	order=LK[V]MF[SO]|props=regpol-psy	1	obj	_	_
 5	?	_	_	_	order=LK[V]MF[SO]|props=regpol-psy	_	_	_	_
+
+1	Reuen	_	_	_	order=LK[V]MF[OS]|props=regpol-psy	0	verb	_	_
+2	Werkstätten	_	_	_	order=LK[V]MF[OS]|props=regpol-psy	1	obj	_	_
+3	die	_	_	_	order=LK[V]MF[OS]|props=regpol-psy	_	_	_	_
+4	Bauzäune	_	_	_	order=LK[V]MF[OS]|props=regpol-psy	1	nsubj	_	_
+5	?	_	_	_	order=LK[V]MF[OS]|props=regpol-psy	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=regpol-psy	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=regpol-psy	_	_	_	_
@@ -26325,6 +26739,13 @@
 4	Werkstätten	_	_	_	order=MF[SO]VC[V]|props=regpol-psy	5	obj	_	_
 5	reuen	_	_	_	order=MF[SO]VC[V]|props=regpol-psy	0	verb	_	_
 6	.	_	_	_	order=MF[SO]VC[V]|props=regpol-psy	_	_	_	_
+
+1	Weil	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	_	_	_	_
+2	Werkstätten	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	5	obj	_	_
+3	die	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	_	_	_	_
+4	Bauzäune	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	5	nsubj	_	_
+5	reuen	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	0	verb	_	_
+6	.	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	_	_	_	_
 
 1	Die	_	_	_	order=VF[S]LK[V]MF[O]|props=regpol-psy	_	_	_	_
 2	Tour	_	_	_	order=VF[S]LK[V]MF[O]|props=regpol-psy	3	nsubj	_	_
@@ -26405,11 +26826,24 @@
 5	Konzerne	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=regpol-psy	2	obj	_	_
 6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=regpol-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	_	_	_	_
+2	belustigen	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	0	verb	_	_
+3	Konzerne	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	2	obj	_	_
+4	die	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	_	_	_	_
+5	Bauausführungen	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	2	nsubj	_	_
+6	.	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=regpol-psy	_	_	_	_
+
 1	Belustigen	_	_	_	order=LK[V]MF[SO]|props=regpol-psy	0	verb	_	_
 2	die	_	_	_	order=LK[V]MF[SO]|props=regpol-psy	_	_	_	_
 3	Bauausführungen	_	_	_	order=LK[V]MF[SO]|props=regpol-psy	1	nsubj	_	_
 4	Konzerne	_	_	_	order=LK[V]MF[SO]|props=regpol-psy	1	obj	_	_
 5	?	_	_	_	order=LK[V]MF[SO]|props=regpol-psy	_	_	_	_
+
+1	Belustigen	_	_	_	order=LK[V]MF[OS]|props=regpol-psy	0	verb	_	_
+2	Konzerne	_	_	_	order=LK[V]MF[OS]|props=regpol-psy	1	obj	_	_
+3	die	_	_	_	order=LK[V]MF[OS]|props=regpol-psy	_	_	_	_
+4	Bauausführungen	_	_	_	order=LK[V]MF[OS]|props=regpol-psy	1	nsubj	_	_
+5	?	_	_	_	order=LK[V]MF[OS]|props=regpol-psy	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=regpol-psy	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=regpol-psy	_	_	_	_
@@ -26417,6 +26851,13 @@
 4	Konzerne	_	_	_	order=MF[SO]VC[V]|props=regpol-psy	5	obj	_	_
 5	belustigen	_	_	_	order=MF[SO]VC[V]|props=regpol-psy	0	verb	_	_
 6	.	_	_	_	order=MF[SO]VC[V]|props=regpol-psy	_	_	_	_
+
+1	Weil	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	_	_	_	_
+2	Konzerne	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	5	obj	_	_
+3	die	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	_	_	_	_
+4	Bauausführungen	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	5	nsubj	_	_
+5	belustigen	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	0	verb	_	_
+6	.	_	_	_	order=MF[OS]VC[V]|props=regpol-psy	_	_	_	_
 
 1	Die	_	_	_	order=VF[S]LK[V]MF[O]|props=sname-psy	_	_	_	_
 2	Attacke	_	_	_	order=VF[S]LK[V]MF[O]|props=sname-psy	3	nsubj	_	_
@@ -26437,11 +26878,24 @@
 5	Daimler	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=sname-psy	2	obj	_	_
 6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=sname-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=sname-psy	_	_	_	_
+2	fesselt	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=sname-psy	0	verb	_	_
+3	Daimler	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=sname-psy	2	obj	_	_
+4	die	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=sname-psy	_	_	_	_
+5	Attacke	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=sname-psy	2	nsubj	_	_
+6	.	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=sname-psy	_	_	_	_
+
 1	Fesselt	_	_	_	order=LK[V]MF[SO]|props=sname-psy	0	verb	_	_
 2	die	_	_	_	order=LK[V]MF[SO]|props=sname-psy	_	_	_	_
 3	Attacke	_	_	_	order=LK[V]MF[SO]|props=sname-psy	1	nsubj	_	_
 4	Daimler	_	_	_	order=LK[V]MF[SO]|props=sname-psy	1	obj	_	_
 5	?	_	_	_	order=LK[V]MF[SO]|props=sname-psy	_	_	_	_
+
+1	Fesselt	_	_	_	order=LK[V]MF[OS]|props=sname-psy	0	verb	_	_
+2	Daimler	_	_	_	order=LK[V]MF[OS]|props=sname-psy	1	obj	_	_
+3	die	_	_	_	order=LK[V]MF[OS]|props=sname-psy	_	_	_	_
+4	Attacke	_	_	_	order=LK[V]MF[OS]|props=sname-psy	1	nsubj	_	_
+5	?	_	_	_	order=LK[V]MF[OS]|props=sname-psy	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=sname-psy	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=sname-psy	_	_	_	_
@@ -26449,6 +26903,13 @@
 4	Daimler	_	_	_	order=MF[SO]VC[V]|props=sname-psy	5	obj	_	_
 5	fesselt	_	_	_	order=MF[SO]VC[V]|props=sname-psy	0	verb	_	_
 6	.	_	_	_	order=MF[SO]VC[V]|props=sname-psy	_	_	_	_
+
+1	Weil	_	_	_	order=MF[OS]VC[V]|props=sname-psy	_	_	_	_
+2	Daimler	_	_	_	order=MF[OS]VC[V]|props=sname-psy	5	obj	_	_
+3	die	_	_	_	order=MF[OS]VC[V]|props=sname-psy	_	_	_	_
+4	Attacke	_	_	_	order=MF[OS]VC[V]|props=sname-psy	5	nsubj	_	_
+5	fesselt	_	_	_	order=MF[OS]VC[V]|props=sname-psy	0	verb	_	_
+6	.	_	_	_	order=MF[OS]VC[V]|props=sname-psy	_	_	_	_
 
 1	Das	_	_	_	order=VF[S]LK[V]MF[O]|props=sname-psy	_	_	_	_
 2	Doppelleben	_	_	_	order=VF[S]LK[V]MF[O]|props=sname-psy	3	nsubj	_	_
@@ -26737,11 +27198,24 @@
 5	Gillette	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=sname-psy	2	obj	_	_
 6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=sname-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=sname-psy	_	_	_	_
+2	erstaunt	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=sname-psy	0	verb	_	_
+3	Gillette	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=sname-psy	2	obj	_	_
+4	die	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=sname-psy	_	_	_	_
+5	Gesichtsbehaarung	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=sname-psy	2	nsubj	_	_
+6	.	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=sname-psy	_	_	_	_
+
 1	Erstaunt	_	_	_	order=LK[V]MF[SO]|props=sname-psy	0	verb	_	_
 2	die	_	_	_	order=LK[V]MF[SO]|props=sname-psy	_	_	_	_
 3	Gesichtsbehaarung	_	_	_	order=LK[V]MF[SO]|props=sname-psy	1	nsubj	_	_
 4	Gillette	_	_	_	order=LK[V]MF[SO]|props=sname-psy	1	obj	_	_
 5	?	_	_	_	order=LK[V]MF[SO]|props=sname-psy	_	_	_	_
+
+1	Erstaunt	_	_	_	order=LK[V]MF[OS]|props=sname-psy	0	verb	_	_
+2	Gillette	_	_	_	order=LK[V]MF[OS]|props=sname-psy	1	obj	_	_
+3	die	_	_	_	order=LK[V]MF[OS]|props=sname-psy	_	_	_	_
+4	Gesichtsbehaarung	_	_	_	order=LK[V]MF[OS]|props=sname-psy	1	nsubj	_	_
+5	?	_	_	_	order=LK[V]MF[OS]|props=sname-psy	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=sname-psy	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=sname-psy	_	_	_	_
@@ -26749,6 +27223,13 @@
 4	Gillette	_	_	_	order=MF[SO]VC[V]|props=sname-psy	5	obj	_	_
 5	erstaunt	_	_	_	order=MF[SO]VC[V]|props=sname-psy	0	verb	_	_
 6	.	_	_	_	order=MF[SO]VC[V]|props=sname-psy	_	_	_	_
+
+1	Weil	_	_	_	order=MF[OS]VC[V]|props=sname-psy	_	_	_	_
+2	Gillette	_	_	_	order=MF[OS]VC[V]|props=sname-psy	5	obj	_	_
+3	die	_	_	_	order=MF[OS]VC[V]|props=sname-psy	_	_	_	_
+4	Gesichtsbehaarung	_	_	_	order=MF[OS]VC[V]|props=sname-psy	5	nsubj	_	_
+5	erstaunt	_	_	_	order=MF[OS]VC[V]|props=sname-psy	0	verb	_	_
+6	.	_	_	_	order=MF[OS]VC[V]|props=sname-psy	_	_	_	_
 
 1	Kaffee	_	_	_	order=VF[S]LK[V]MF[O]|props=sname-psy	2	nsubj	_	_
 2	erfreut	_	_	_	order=VF[S]LK[V]MF[O]|props=sname-psy	0	verb	_	_
@@ -26816,12 +27297,27 @@
 6	Jauch	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=sname-psy	_	_	_	_
 7	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=sname-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=sname-psy	_	_	_	_
+2	frustriert	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=sname-psy	0	verb	_	_
+3	Günter	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=sname-psy	2	obj	_	_
+4	Jauch	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=sname-psy	_	_	_	_
+5	die	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=sname-psy	_	_	_	_
+6	Erzählung	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=sname-psy	2	nsubj	_	_
+7	.	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=sname-psy	_	_	_	_
+
 1	Frustriert	_	_	_	order=LK[V]MF[SO]|props=sname-psy	0	verb	_	_
 2	die	_	_	_	order=LK[V]MF[SO]|props=sname-psy	_	_	_	_
 3	Erzählung	_	_	_	order=LK[V]MF[SO]|props=sname-psy	1	nsubj	_	_
 4	Günter	_	_	_	order=LK[V]MF[SO]|props=sname-psy	1	obj	_	_
 5	Jauch	_	_	_	order=LK[V]MF[SO]|props=sname-psy	_	_	_	_
 6	?	_	_	_	order=LK[V]MF[SO]|props=sname-psy	_	_	_	_
+
+1	Frustriert	_	_	_	order=LK[V]MF[OS]|props=sname-psy	0	verb	_	_
+2	Günter	_	_	_	order=LK[V]MF[OS]|props=sname-psy	1	obj	_	_
+3	Jauch	_	_	_	order=LK[V]MF[OS]|props=sname-psy	_	_	_	_
+4	die	_	_	_	order=LK[V]MF[OS]|props=sname-psy	_	_	_	_
+5	Erzählung	_	_	_	order=LK[V]MF[OS]|props=sname-psy	1	nsubj	_	_
+6	?	_	_	_	order=LK[V]MF[OS]|props=sname-psy	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=sname-psy	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=sname-psy	_	_	_	_
@@ -26830,6 +27326,14 @@
 5	Jauch	_	_	_	order=MF[SO]VC[V]|props=sname-psy	_	_	_	_
 6	frustriert	_	_	_	order=MF[SO]VC[V]|props=sname-psy	0	verb	_	_
 7	.	_	_	_	order=MF[SO]VC[V]|props=sname-psy	_	_	_	_
+
+1	Weil	_	_	_	order=MF[OS]VC[V]|props=sname-psy	_	_	_	_
+2	Günter	_	_	_	order=MF[OS]VC[V]|props=sname-psy	6	obj	_	_
+3	Jauch	_	_	_	order=MF[OS]VC[V]|props=sname-psy	_	_	_	_
+4	die	_	_	_	order=MF[OS]VC[V]|props=sname-psy	_	_	_	_
+5	Erzählung	_	_	_	order=MF[OS]VC[V]|props=sname-psy	6	nsubj	_	_
+6	frustriert	_	_	_	order=MF[OS]VC[V]|props=sname-psy	0	verb	_	_
+7	.	_	_	_	order=MF[OS]VC[V]|props=sname-psy	_	_	_	_
 
 1	Die	_	_	_	order=VF[S]LK[V]MF[O]|props=sname-psy	_	_	_	_
 2	Rede	_	_	_	order=VF[S]LK[V]MF[O]|props=sname-psy	3	nsubj	_	_
@@ -27006,11 +27510,24 @@
 5	Anke	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=sname-psy	2	obj	_	_
 6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=sname-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=sname-psy	_	_	_	_
+2	reut	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=sname-psy	0	verb	_	_
+3	Anke	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=sname-psy	2	obj	_	_
+4	die	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=sname-psy	_	_	_	_
+5	Umzäunung	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=sname-psy	2	nsubj	_	_
+6	.	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=sname-psy	_	_	_	_
+
 1	Reut	_	_	_	order=LK[V]MF[SO]|props=sname-psy	0	verb	_	_
 2	die	_	_	_	order=LK[V]MF[SO]|props=sname-psy	_	_	_	_
 3	Umzäunung	_	_	_	order=LK[V]MF[SO]|props=sname-psy	1	nsubj	_	_
 4	Anke	_	_	_	order=LK[V]MF[SO]|props=sname-psy	1	obj	_	_
 5	?	_	_	_	order=LK[V]MF[SO]|props=sname-psy	_	_	_	_
+
+1	Reut	_	_	_	order=LK[V]MF[OS]|props=sname-psy	0	verb	_	_
+2	Anke	_	_	_	order=LK[V]MF[OS]|props=sname-psy	1	obj	_	_
+3	die	_	_	_	order=LK[V]MF[OS]|props=sname-psy	_	_	_	_
+4	Umzäunung	_	_	_	order=LK[V]MF[OS]|props=sname-psy	1	nsubj	_	_
+5	?	_	_	_	order=LK[V]MF[OS]|props=sname-psy	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=sname-psy	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=sname-psy	_	_	_	_
@@ -27018,6 +27535,13 @@
 4	Anke	_	_	_	order=MF[SO]VC[V]|props=sname-psy	5	obj	_	_
 5	reut	_	_	_	order=MF[SO]VC[V]|props=sname-psy	0	verb	_	_
 6	.	_	_	_	order=MF[SO]VC[V]|props=sname-psy	_	_	_	_
+
+1	Weil	_	_	_	order=MF[OS]VC[V]|props=sname-psy	_	_	_	_
+2	Anke	_	_	_	order=MF[OS]VC[V]|props=sname-psy	5	obj	_	_
+3	die	_	_	_	order=MF[OS]VC[V]|props=sname-psy	_	_	_	_
+4	Umzäunung	_	_	_	order=MF[OS]VC[V]|props=sname-psy	5	nsubj	_	_
+5	reut	_	_	_	order=MF[OS]VC[V]|props=sname-psy	0	verb	_	_
+6	.	_	_	_	order=MF[OS]VC[V]|props=sname-psy	_	_	_	_
 
 1	Die	_	_	_	order=VF[S]LK[V]MF[O]|props=sname-psy	_	_	_	_
 2	Tour	_	_	_	order=VF[S]LK[V]MF[O]|props=sname-psy	3	nsubj	_	_
@@ -34464,11 +34988,24 @@
 5	Spaziergänger	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=invan-syn	2	obj	_	_
 6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=invan-syn	_	_	_	_
 
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=invan-syn	_	_	_	_
+2	durchweichen	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=invan-syn	0	verb	_	_
+3	Spaziergänger	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=invan-syn	2	obj	_	_
+4	die	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=invan-syn	_	_	_	_
+5	Regenschauer	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=invan-syn	2	nsubj	_	_
+6	.	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=invan-syn	_	_	_	_
+
 1	Durchweichen	_	_	_	order=LK[V]MF[SO]|props=invan-syn	0	verb	_	_
 2	die	_	_	_	order=LK[V]MF[SO]|props=invan-syn	_	_	_	_
 3	Regenschauer	_	_	_	order=LK[V]MF[SO]|props=invan-syn	1	nsubj	_	_
 4	Spaziergänger	_	_	_	order=LK[V]MF[SO]|props=invan-syn	1	obj	_	_
 5	?	_	_	_	order=LK[V]MF[SO]|props=invan-syn	_	_	_	_
+
+1	Durchweichen	_	_	_	order=LK[V]MF[OS]|props=invan-syn	0	verb	_	_
+2	Spaziergänger	_	_	_	order=LK[V]MF[OS]|props=invan-syn	1	obj	_	_
+3	die	_	_	_	order=LK[V]MF[OS]|props=invan-syn	_	_	_	_
+4	Regenschauer	_	_	_	order=LK[V]MF[OS]|props=invan-syn	1	nsubj	_	_
+5	?	_	_	_	order=LK[V]MF[OS]|props=invan-syn	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=invan-syn	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=invan-syn	_	_	_	_
@@ -34476,6 +35013,13 @@
 4	Spaziergänger	_	_	_	order=MF[SO]VC[V]|props=invan-syn	5	obj	_	_
 5	durchweichen	_	_	_	order=MF[SO]VC[V]|props=invan-syn	0	verb	_	_
 6	.	_	_	_	order=MF[SO]VC[V]|props=invan-syn	_	_	_	_
+
+1	Weil	_	_	_	order=MF[OS]VC[V]|props=invan-syn	_	_	_	_
+2	Spaziergänger	_	_	_	order=MF[OS]VC[V]|props=invan-syn	5	obj	_	_
+3	die	_	_	_	order=MF[OS]VC[V]|props=invan-syn	_	_	_	_
+4	Regenschauer	_	_	_	order=MF[OS]VC[V]|props=invan-syn	5	nsubj	_	_
+5	durchweichen	_	_	_	order=MF[OS]VC[V]|props=invan-syn	0	verb	_	_
+6	.	_	_	_	order=MF[OS]VC[V]|props=invan-syn	_	_	_	_
 
 1	Die	_	_	_	order=VF[S]LK[V]MF[O]|props=invan-syn	_	_	_	_
 2	Kameras	_	_	_	order=VF[S]LK[V]MF[O]|props=invan-syn	3	nsubj	_	_
@@ -37384,11 +37928,24 @@
 5	Herren	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=psy-syn	2	obj	_	_
 6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=psy-syn	_	_	_	_
 
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=psy-syn	_	_	_	_
+2	verblüffen	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=psy-syn	0	verb	_	_
+3	Herren	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=psy-syn	2	obj	_	_
+4	die	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=psy-syn	_	_	_	_
+5	Bärte	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=psy-syn	2	nsubj	_	_
+6	.	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=psy-syn	_	_	_	_
+
 1	Verblüffen	_	_	_	order=LK[V]MF[SO]|props=psy-syn	0	verb	_	_
 2	die	_	_	_	order=LK[V]MF[SO]|props=psy-syn	_	_	_	_
 3	Bärte	_	_	_	order=LK[V]MF[SO]|props=psy-syn	1	nsubj	_	_
 4	Herren	_	_	_	order=LK[V]MF[SO]|props=psy-syn	1	obj	_	_
 5	?	_	_	_	order=LK[V]MF[SO]|props=psy-syn	_	_	_	_
+
+1	Verblüffen	_	_	_	order=LK[V]MF[OS]|props=psy-syn	0	verb	_	_
+2	Herren	_	_	_	order=LK[V]MF[OS]|props=psy-syn	1	obj	_	_
+3	die	_	_	_	order=LK[V]MF[OS]|props=psy-syn	_	_	_	_
+4	Bärte	_	_	_	order=LK[V]MF[OS]|props=psy-syn	1	nsubj	_	_
+5	?	_	_	_	order=LK[V]MF[OS]|props=psy-syn	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=psy-syn	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=psy-syn	_	_	_	_
@@ -37396,6 +37953,13 @@
 4	Herren	_	_	_	order=MF[SO]VC[V]|props=psy-syn	5	obj	_	_
 5	verblüffen	_	_	_	order=MF[SO]VC[V]|props=psy-syn	0	verb	_	_
 6	.	_	_	_	order=MF[SO]VC[V]|props=psy-syn	_	_	_	_
+
+1	Weil	_	_	_	order=MF[OS]VC[V]|props=psy-syn	_	_	_	_
+2	Herren	_	_	_	order=MF[OS]VC[V]|props=psy-syn	5	obj	_	_
+3	die	_	_	_	order=MF[OS]VC[V]|props=psy-syn	_	_	_	_
+4	Bärte	_	_	_	order=MF[OS]VC[V]|props=psy-syn	5	nsubj	_	_
+5	verblüffen	_	_	_	order=MF[OS]VC[V]|props=psy-syn	0	verb	_	_
+6	.	_	_	_	order=MF[OS]VC[V]|props=psy-syn	_	_	_	_
 
 1	Die	_	_	_	order=VF[S]LK[V]MF[O]|props=psy-syn	_	_	_	_
 2	Kaffees	_	_	_	order=VF[S]LK[V]MF[O]|props=psy-syn	3	nsubj	_	_
@@ -37416,11 +37980,24 @@
 5	Mamas	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=psy-syn	2	obj	_	_
 6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=psy-syn	_	_	_	_
 
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=psy-syn	_	_	_	_
+2	freuen	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=psy-syn	0	verb	_	_
+3	Mamas	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=psy-syn	2	obj	_	_
+4	die	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=psy-syn	_	_	_	_
+5	Kaffees	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=psy-syn	2	nsubj	_	_
+6	.	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=psy-syn	_	_	_	_
+
 1	Freuen	_	_	_	order=LK[V]MF[SO]|props=psy-syn	0	verb	_	_
 2	die	_	_	_	order=LK[V]MF[SO]|props=psy-syn	_	_	_	_
 3	Kaffees	_	_	_	order=LK[V]MF[SO]|props=psy-syn	1	nsubj	_	_
 4	Mamas	_	_	_	order=LK[V]MF[SO]|props=psy-syn	1	obj	_	_
 5	?	_	_	_	order=LK[V]MF[SO]|props=psy-syn	_	_	_	_
+
+1	Freuen	_	_	_	order=LK[V]MF[OS]|props=psy-syn	0	verb	_	_
+2	Mamas	_	_	_	order=LK[V]MF[OS]|props=psy-syn	1	obj	_	_
+3	die	_	_	_	order=LK[V]MF[OS]|props=psy-syn	_	_	_	_
+4	Kaffees	_	_	_	order=LK[V]MF[OS]|props=psy-syn	1	nsubj	_	_
+5	?	_	_	_	order=LK[V]MF[OS]|props=psy-syn	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=psy-syn	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=psy-syn	_	_	_	_
@@ -37428,6 +38005,13 @@
 4	Mamas	_	_	_	order=MF[SO]VC[V]|props=psy-syn	5	obj	_	_
 5	freuen	_	_	_	order=MF[SO]VC[V]|props=psy-syn	0	verb	_	_
 6	.	_	_	_	order=MF[SO]VC[V]|props=psy-syn	_	_	_	_
+
+1	Weil	_	_	_	order=MF[OS]VC[V]|props=psy-syn	_	_	_	_
+2	Mamas	_	_	_	order=MF[OS]VC[V]|props=psy-syn	5	obj	_	_
+3	die	_	_	_	order=MF[OS]VC[V]|props=psy-syn	_	_	_	_
+4	Kaffees	_	_	_	order=MF[OS]VC[V]|props=psy-syn	5	nsubj	_	_
+5	freuen	_	_	_	order=MF[OS]VC[V]|props=psy-syn	0	verb	_	_
+6	.	_	_	_	order=MF[OS]VC[V]|props=psy-syn	_	_	_	_
 
 1	Die	_	_	_	order=VF[S]LK[V]MF[O]|props=psy-syn	_	_	_	_
 2	Romane	_	_	_	order=VF[S]LK[V]MF[O]|props=psy-syn	3	nsubj	_	_
@@ -37448,11 +38032,24 @@
 5	Schriftsteller	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=psy-syn	2	obj	_	_
 6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=psy-syn	_	_	_	_
 
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=psy-syn	_	_	_	_
+2	demotivieren	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=psy-syn	0	verb	_	_
+3	Schriftsteller	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=psy-syn	2	obj	_	_
+4	die	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=psy-syn	_	_	_	_
+5	Romane	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=psy-syn	2	nsubj	_	_
+6	.	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=psy-syn	_	_	_	_
+
 1	Demotivieren	_	_	_	order=LK[V]MF[SO]|props=psy-syn	0	verb	_	_
 2	die	_	_	_	order=LK[V]MF[SO]|props=psy-syn	_	_	_	_
 3	Romane	_	_	_	order=LK[V]MF[SO]|props=psy-syn	1	nsubj	_	_
 4	Schriftsteller	_	_	_	order=LK[V]MF[SO]|props=psy-syn	1	obj	_	_
 5	?	_	_	_	order=LK[V]MF[SO]|props=psy-syn	_	_	_	_
+
+1	Demotivieren	_	_	_	order=LK[V]MF[OS]|props=psy-syn	0	verb	_	_
+2	Schriftsteller	_	_	_	order=LK[V]MF[OS]|props=psy-syn	1	obj	_	_
+3	die	_	_	_	order=LK[V]MF[OS]|props=psy-syn	_	_	_	_
+4	Romane	_	_	_	order=LK[V]MF[OS]|props=psy-syn	1	nsubj	_	_
+5	?	_	_	_	order=LK[V]MF[OS]|props=psy-syn	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=psy-syn	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=psy-syn	_	_	_	_
@@ -37460,6 +38057,13 @@
 4	Schriftsteller	_	_	_	order=MF[SO]VC[V]|props=psy-syn	5	obj	_	_
 5	demotivieren	_	_	_	order=MF[SO]VC[V]|props=psy-syn	0	verb	_	_
 6	.	_	_	_	order=MF[SO]VC[V]|props=psy-syn	_	_	_	_
+
+1	Weil	_	_	_	order=MF[OS]VC[V]|props=psy-syn	_	_	_	_
+2	Schriftsteller	_	_	_	order=MF[OS]VC[V]|props=psy-syn	5	obj	_	_
+3	die	_	_	_	order=MF[OS]VC[V]|props=psy-syn	_	_	_	_
+4	Romane	_	_	_	order=MF[OS]VC[V]|props=psy-syn	5	nsubj	_	_
+5	demotivieren	_	_	_	order=MF[OS]VC[V]|props=psy-syn	0	verb	_	_
+6	.	_	_	_	order=MF[OS]VC[V]|props=psy-syn	_	_	_	_
 
 1	Die	_	_	_	order=VF[S]LK[V]MF[O]|props=psy-syn	_	_	_	_
 2	Rede	_	_	_	order=VF[S]LK[V]MF[O]|props=psy-syn	3	nsubj	_	_
@@ -37600,11 +38204,24 @@
 5	Kleinbauern	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=psy-syn	2	obj	_	_
 6	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=psy-syn	_	_	_	_
 
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=psy-syn	_	_	_	_
+2	ärgern	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=psy-syn	0	verb	_	_
+3	Kleinbauern	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=psy-syn	2	obj	_	_
+4	die	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=psy-syn	_	_	_	_
+5	Bauzäune	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=psy-syn	2	nsubj	_	_
+6	.	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=psy-syn	_	_	_	_
+
 1	Ärgern	_	_	_	order=LK[V]MF[SO]|props=psy-syn	0	verb	_	_
 2	die	_	_	_	order=LK[V]MF[SO]|props=psy-syn	_	_	_	_
 3	Bauzäune	_	_	_	order=LK[V]MF[SO]|props=psy-syn	1	nsubj	_	_
 4	Kleinbauern	_	_	_	order=LK[V]MF[SO]|props=psy-syn	1	obj	_	_
 5	?	_	_	_	order=LK[V]MF[SO]|props=psy-syn	_	_	_	_
+
+1	Ärgern	_	_	_	order=LK[V]MF[OS]|props=psy-syn	0	verb	_	_
+2	Kleinbauern	_	_	_	order=LK[V]MF[OS]|props=psy-syn	1	obj	_	_
+3	die	_	_	_	order=LK[V]MF[OS]|props=psy-syn	_	_	_	_
+4	Bauzäune	_	_	_	order=LK[V]MF[OS]|props=psy-syn	1	nsubj	_	_
+5	?	_	_	_	order=LK[V]MF[OS]|props=psy-syn	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=psy-syn	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=psy-syn	_	_	_	_
@@ -37612,6 +38229,13 @@
 4	Kleinbauern	_	_	_	order=MF[SO]VC[V]|props=psy-syn	5	obj	_	_
 5	ärgern	_	_	_	order=MF[SO]VC[V]|props=psy-syn	0	verb	_	_
 6	.	_	_	_	order=MF[SO]VC[V]|props=psy-syn	_	_	_	_
+
+1	Weil	_	_	_	order=MF[OS]VC[V]|props=psy-syn	_	_	_	_
+2	Kleinbauern	_	_	_	order=MF[OS]VC[V]|props=psy-syn	5	obj	_	_
+3	die	_	_	_	order=MF[OS]VC[V]|props=psy-syn	_	_	_	_
+4	Bauzäune	_	_	_	order=MF[OS]VC[V]|props=psy-syn	5	nsubj	_	_
+5	ärgern	_	_	_	order=MF[OS]VC[V]|props=psy-syn	0	verb	_	_
+6	.	_	_	_	order=MF[OS]VC[V]|props=psy-syn	_	_	_	_
 
 1	Die	_	_	_	order=VF[S]LK[V]MF[O]|props=psy-syn	_	_	_	_
 2	Tour	_	_	_	order=VF[S]LK[V]MF[O]|props=psy-syn	3	nsubj	_	_
@@ -43853,6 +44477,16 @@
 8	Wanderinnen	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-invan	2	obj	_	_
 9	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-invan	_	_	_	_
 
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-invan	_	_	_	_
+2	wärmen	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-invan	0	verb	_	_
+3	in	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-invan	_	_	_	_
+4	dem	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-invan	_	_	_	_
+5	Jahr	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-invan	_	_	_	_
+6	Wanderinnen	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-invan	2	obj	_	_
+7	die	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-invan	_	_	_	_
+8	Öfen	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-invan	2	nsubj	_	_
+9	.	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-invan	_	_	_	_
+
 1	Wärmen	_	_	_	order=LK[V]MF[SO]|props=pp-invan	0	verb	_	_
 2	in	_	_	_	order=LK[V]MF[SO]|props=pp-invan	_	_	_	_
 3	dem	_	_	_	order=LK[V]MF[SO]|props=pp-invan	_	_	_	_
@@ -43861,6 +44495,15 @@
 6	Öfen	_	_	_	order=LK[V]MF[SO]|props=pp-invan	1	nsubj	_	_
 7	Wanderinnen	_	_	_	order=LK[V]MF[SO]|props=pp-invan	1	obj	_	_
 8	?	_	_	_	order=LK[V]MF[SO]|props=pp-invan	_	_	_	_
+
+1	Wärmen	_	_	_	order=LK[V]MF[OS]|props=pp-invan	0	verb	_	_
+2	in	_	_	_	order=LK[V]MF[OS]|props=pp-invan	_	_	_	_
+3	dem	_	_	_	order=LK[V]MF[OS]|props=pp-invan	_	_	_	_
+4	Jahr	_	_	_	order=LK[V]MF[OS]|props=pp-invan	_	_	_	_
+5	Wanderinnen	_	_	_	order=LK[V]MF[OS]|props=pp-invan	1	obj	_	_
+6	die	_	_	_	order=LK[V]MF[OS]|props=pp-invan	_	_	_	_
+7	Öfen	_	_	_	order=LK[V]MF[OS]|props=pp-invan	1	nsubj	_	_
+8	?	_	_	_	order=LK[V]MF[OS]|props=pp-invan	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=pp-invan	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=pp-invan	_	_	_	_
@@ -43871,6 +44514,16 @@
 7	Jahr	_	_	_	order=MF[SO]VC[V]|props=pp-invan	_	_	_	_
 8	wärmen	_	_	_	order=MF[SO]VC[V]|props=pp-invan	0	verb	_	_
 9	.	_	_	_	order=MF[SO]VC[V]|props=pp-invan	_	_	_	_
+
+1	Weil	_	_	_	order=MF[OS]VC[V]|props=pp-invan	_	_	_	_
+2	Wanderinnen	_	_	_	order=MF[OS]VC[V]|props=pp-invan	8	obj	_	_
+3	die	_	_	_	order=MF[OS]VC[V]|props=pp-invan	_	_	_	_
+4	Öfen	_	_	_	order=MF[OS]VC[V]|props=pp-invan	8	nsubj	_	_
+5	in	_	_	_	order=MF[OS]VC[V]|props=pp-invan	_	_	_	_
+6	dem	_	_	_	order=MF[OS]VC[V]|props=pp-invan	_	_	_	_
+7	Jahr	_	_	_	order=MF[OS]VC[V]|props=pp-invan	_	_	_	_
+8	wärmen	_	_	_	order=MF[OS]VC[V]|props=pp-invan	0	verb	_	_
+9	.	_	_	_	order=MF[OS]VC[V]|props=pp-invan	_	_	_	_
 
 1	Die	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-invan	_	_	_	_
 2	Regenschauer	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-invan	3	nsubj	_	_
@@ -43900,6 +44553,16 @@
 8	Spaziergänger	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-invan	2	obj	_	_
 9	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-invan	_	_	_	_
 
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-invan	_	_	_	_
+2	durchnässen	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-invan	0	verb	_	_
+3	in	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-invan	_	_	_	_
+4	dem	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-invan	_	_	_	_
+5	Jahr	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-invan	_	_	_	_
+6	Spaziergänger	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-invan	2	obj	_	_
+7	die	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-invan	_	_	_	_
+8	Regenschauer	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-invan	2	nsubj	_	_
+9	.	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-invan	_	_	_	_
+
 1	Durchnässen	_	_	_	order=LK[V]MF[SO]|props=pp-invan	0	verb	_	_
 2	in	_	_	_	order=LK[V]MF[SO]|props=pp-invan	_	_	_	_
 3	dem	_	_	_	order=LK[V]MF[SO]|props=pp-invan	_	_	_	_
@@ -43908,6 +44571,15 @@
 6	Regenschauer	_	_	_	order=LK[V]MF[SO]|props=pp-invan	1	nsubj	_	_
 7	Spaziergänger	_	_	_	order=LK[V]MF[SO]|props=pp-invan	1	obj	_	_
 8	?	_	_	_	order=LK[V]MF[SO]|props=pp-invan	_	_	_	_
+
+1	Durchnässen	_	_	_	order=LK[V]MF[OS]|props=pp-invan	0	verb	_	_
+2	in	_	_	_	order=LK[V]MF[OS]|props=pp-invan	_	_	_	_
+3	dem	_	_	_	order=LK[V]MF[OS]|props=pp-invan	_	_	_	_
+4	Jahr	_	_	_	order=LK[V]MF[OS]|props=pp-invan	_	_	_	_
+5	Spaziergänger	_	_	_	order=LK[V]MF[OS]|props=pp-invan	1	obj	_	_
+6	die	_	_	_	order=LK[V]MF[OS]|props=pp-invan	_	_	_	_
+7	Regenschauer	_	_	_	order=LK[V]MF[OS]|props=pp-invan	1	nsubj	_	_
+8	?	_	_	_	order=LK[V]MF[OS]|props=pp-invan	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=pp-invan	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=pp-invan	_	_	_	_
@@ -43918,6 +44590,16 @@
 7	Jahr	_	_	_	order=MF[SO]VC[V]|props=pp-invan	_	_	_	_
 8	durchnässen	_	_	_	order=MF[SO]VC[V]|props=pp-invan	0	verb	_	_
 9	.	_	_	_	order=MF[SO]VC[V]|props=pp-invan	_	_	_	_
+
+1	Weil	_	_	_	order=MF[OS]VC[V]|props=pp-invan	_	_	_	_
+2	Spaziergänger	_	_	_	order=MF[OS]VC[V]|props=pp-invan	8	obj	_	_
+3	die	_	_	_	order=MF[OS]VC[V]|props=pp-invan	_	_	_	_
+4	Regenschauer	_	_	_	order=MF[OS]VC[V]|props=pp-invan	8	nsubj	_	_
+5	in	_	_	_	order=MF[OS]VC[V]|props=pp-invan	_	_	_	_
+6	dem	_	_	_	order=MF[OS]VC[V]|props=pp-invan	_	_	_	_
+7	Jahr	_	_	_	order=MF[OS]VC[V]|props=pp-invan	_	_	_	_
+8	durchnässen	_	_	_	order=MF[OS]VC[V]|props=pp-invan	0	verb	_	_
+9	.	_	_	_	order=MF[OS]VC[V]|props=pp-invan	_	_	_	_
 
 1	Die	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-invan	_	_	_	_
 2	Kameras	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-invan	3	nsubj	_	_
@@ -47554,6 +48236,16 @@
 8	Generäle	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-psy	2	obj	_	_
 9	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	_	_	_	_
+2	fesseln	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	0	verb	_	_
+3	in	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	_	_	_	_
+4	dem	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	_	_	_	_
+5	Jahr	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	_	_	_	_
+6	Generäle	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	2	obj	_	_
+7	die	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	_	_	_	_
+8	Angriffe	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	2	nsubj	_	_
+9	.	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	_	_	_	_
+
 1	Fesseln	_	_	_	order=LK[V]MF[SO]|props=pp-psy	0	verb	_	_
 2	in	_	_	_	order=LK[V]MF[SO]|props=pp-psy	_	_	_	_
 3	dem	_	_	_	order=LK[V]MF[SO]|props=pp-psy	_	_	_	_
@@ -47562,6 +48254,15 @@
 6	Angriffe	_	_	_	order=LK[V]MF[SO]|props=pp-psy	1	nsubj	_	_
 7	Generäle	_	_	_	order=LK[V]MF[SO]|props=pp-psy	1	obj	_	_
 8	?	_	_	_	order=LK[V]MF[SO]|props=pp-psy	_	_	_	_
+
+1	Fesseln	_	_	_	order=LK[V]MF[OS]|props=pp-psy	0	verb	_	_
+2	in	_	_	_	order=LK[V]MF[OS]|props=pp-psy	_	_	_	_
+3	dem	_	_	_	order=LK[V]MF[OS]|props=pp-psy	_	_	_	_
+4	Jahr	_	_	_	order=LK[V]MF[OS]|props=pp-psy	_	_	_	_
+5	Generäle	_	_	_	order=LK[V]MF[OS]|props=pp-psy	1	obj	_	_
+6	die	_	_	_	order=LK[V]MF[OS]|props=pp-psy	_	_	_	_
+7	Angriffe	_	_	_	order=LK[V]MF[OS]|props=pp-psy	1	nsubj	_	_
+8	?	_	_	_	order=LK[V]MF[OS]|props=pp-psy	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=pp-psy	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=pp-psy	_	_	_	_
@@ -47572,6 +48273,16 @@
 7	Jahr	_	_	_	order=MF[SO]VC[V]|props=pp-psy	_	_	_	_
 8	fesseln	_	_	_	order=MF[SO]VC[V]|props=pp-psy	0	verb	_	_
 9	.	_	_	_	order=MF[SO]VC[V]|props=pp-psy	_	_	_	_
+
+1	Weil	_	_	_	order=MF[OS]VC[V]|props=pp-psy	_	_	_	_
+2	Generäle	_	_	_	order=MF[OS]VC[V]|props=pp-psy	8	obj	_	_
+3	die	_	_	_	order=MF[OS]VC[V]|props=pp-psy	_	_	_	_
+4	Angriffe	_	_	_	order=MF[OS]VC[V]|props=pp-psy	8	nsubj	_	_
+5	in	_	_	_	order=MF[OS]VC[V]|props=pp-psy	_	_	_	_
+6	dem	_	_	_	order=MF[OS]VC[V]|props=pp-psy	_	_	_	_
+7	Jahr	_	_	_	order=MF[OS]VC[V]|props=pp-psy	_	_	_	_
+8	fesseln	_	_	_	order=MF[OS]VC[V]|props=pp-psy	0	verb	_	_
+9	.	_	_	_	order=MF[OS]VC[V]|props=pp-psy	_	_	_	_
 
 1	Das	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-psy	_	_	_	_
 2	Doppelleben	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-psy	3	nsubj	_	_
@@ -48105,6 +48816,16 @@
 8	Herren	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-psy	2	obj	_	_
 9	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	_	_	_	_
+2	erstaunen	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	0	verb	_	_
+3	in	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	_	_	_	_
+4	dem	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	_	_	_	_
+5	Jahr	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	_	_	_	_
+6	Herren	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	2	obj	_	_
+7	die	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	_	_	_	_
+8	Bärte	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	2	nsubj	_	_
+9	.	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	_	_	_	_
+
 1	Erstaunen	_	_	_	order=LK[V]MF[SO]|props=pp-psy	0	verb	_	_
 2	in	_	_	_	order=LK[V]MF[SO]|props=pp-psy	_	_	_	_
 3	dem	_	_	_	order=LK[V]MF[SO]|props=pp-psy	_	_	_	_
@@ -48113,6 +48834,15 @@
 6	Bärte	_	_	_	order=LK[V]MF[SO]|props=pp-psy	1	nsubj	_	_
 7	Herren	_	_	_	order=LK[V]MF[SO]|props=pp-psy	1	obj	_	_
 8	?	_	_	_	order=LK[V]MF[SO]|props=pp-psy	_	_	_	_
+
+1	Erstaunen	_	_	_	order=LK[V]MF[OS]|props=pp-psy	0	verb	_	_
+2	in	_	_	_	order=LK[V]MF[OS]|props=pp-psy	_	_	_	_
+3	dem	_	_	_	order=LK[V]MF[OS]|props=pp-psy	_	_	_	_
+4	Jahr	_	_	_	order=LK[V]MF[OS]|props=pp-psy	_	_	_	_
+5	Herren	_	_	_	order=LK[V]MF[OS]|props=pp-psy	1	obj	_	_
+6	die	_	_	_	order=LK[V]MF[OS]|props=pp-psy	_	_	_	_
+7	Bärte	_	_	_	order=LK[V]MF[OS]|props=pp-psy	1	nsubj	_	_
+8	?	_	_	_	order=LK[V]MF[OS]|props=pp-psy	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=pp-psy	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=pp-psy	_	_	_	_
@@ -48123,6 +48853,16 @@
 7	Jahr	_	_	_	order=MF[SO]VC[V]|props=pp-psy	_	_	_	_
 8	erstaunen	_	_	_	order=MF[SO]VC[V]|props=pp-psy	0	verb	_	_
 9	.	_	_	_	order=MF[SO]VC[V]|props=pp-psy	_	_	_	_
+
+1	Weil	_	_	_	order=MF[OS]VC[V]|props=pp-psy	_	_	_	_
+2	Herren	_	_	_	order=MF[OS]VC[V]|props=pp-psy	8	obj	_	_
+3	die	_	_	_	order=MF[OS]VC[V]|props=pp-psy	_	_	_	_
+4	Bärte	_	_	_	order=MF[OS]VC[V]|props=pp-psy	8	nsubj	_	_
+5	in	_	_	_	order=MF[OS]VC[V]|props=pp-psy	_	_	_	_
+6	dem	_	_	_	order=MF[OS]VC[V]|props=pp-psy	_	_	_	_
+7	Jahr	_	_	_	order=MF[OS]VC[V]|props=pp-psy	_	_	_	_
+8	erstaunen	_	_	_	order=MF[OS]VC[V]|props=pp-psy	0	verb	_	_
+9	.	_	_	_	order=MF[OS]VC[V]|props=pp-psy	_	_	_	_
 
 1	Die	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-psy	_	_	_	_
 2	Kaffees	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-psy	3	nsubj	_	_
@@ -48152,6 +48892,16 @@
 8	Mamas	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-psy	2	obj	_	_
 9	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	_	_	_	_
+2	erfreuen	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	0	verb	_	_
+3	in	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	_	_	_	_
+4	dem	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	_	_	_	_
+5	Jahr	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	_	_	_	_
+6	Mamas	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	2	obj	_	_
+7	die	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	_	_	_	_
+8	Kaffees	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	2	nsubj	_	_
+9	.	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	_	_	_	_
+
 1	Erfreuen	_	_	_	order=LK[V]MF[SO]|props=pp-psy	0	verb	_	_
 2	in	_	_	_	order=LK[V]MF[SO]|props=pp-psy	_	_	_	_
 3	dem	_	_	_	order=LK[V]MF[SO]|props=pp-psy	_	_	_	_
@@ -48160,6 +48910,15 @@
 6	Kaffees	_	_	_	order=LK[V]MF[SO]|props=pp-psy	1	nsubj	_	_
 7	Mamas	_	_	_	order=LK[V]MF[SO]|props=pp-psy	1	obj	_	_
 8	?	_	_	_	order=LK[V]MF[SO]|props=pp-psy	_	_	_	_
+
+1	Erfreuen	_	_	_	order=LK[V]MF[OS]|props=pp-psy	0	verb	_	_
+2	in	_	_	_	order=LK[V]MF[OS]|props=pp-psy	_	_	_	_
+3	dem	_	_	_	order=LK[V]MF[OS]|props=pp-psy	_	_	_	_
+4	Jahr	_	_	_	order=LK[V]MF[OS]|props=pp-psy	_	_	_	_
+5	Mamas	_	_	_	order=LK[V]MF[OS]|props=pp-psy	1	obj	_	_
+6	die	_	_	_	order=LK[V]MF[OS]|props=pp-psy	_	_	_	_
+7	Kaffees	_	_	_	order=LK[V]MF[OS]|props=pp-psy	1	nsubj	_	_
+8	?	_	_	_	order=LK[V]MF[OS]|props=pp-psy	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=pp-psy	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=pp-psy	_	_	_	_
@@ -48170,6 +48929,16 @@
 7	Jahr	_	_	_	order=MF[SO]VC[V]|props=pp-psy	_	_	_	_
 8	erfreuen	_	_	_	order=MF[SO]VC[V]|props=pp-psy	0	verb	_	_
 9	.	_	_	_	order=MF[SO]VC[V]|props=pp-psy	_	_	_	_
+
+1	Weil	_	_	_	order=MF[OS]VC[V]|props=pp-psy	_	_	_	_
+2	Mamas	_	_	_	order=MF[OS]VC[V]|props=pp-psy	8	obj	_	_
+3	die	_	_	_	order=MF[OS]VC[V]|props=pp-psy	_	_	_	_
+4	Kaffees	_	_	_	order=MF[OS]VC[V]|props=pp-psy	8	nsubj	_	_
+5	in	_	_	_	order=MF[OS]VC[V]|props=pp-psy	_	_	_	_
+6	dem	_	_	_	order=MF[OS]VC[V]|props=pp-psy	_	_	_	_
+7	Jahr	_	_	_	order=MF[OS]VC[V]|props=pp-psy	_	_	_	_
+8	erfreuen	_	_	_	order=MF[OS]VC[V]|props=pp-psy	0	verb	_	_
+9	.	_	_	_	order=MF[OS]VC[V]|props=pp-psy	_	_	_	_
 
 1	Die	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-psy	_	_	_	_
 2	Romane	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-psy	3	nsubj	_	_
@@ -48199,6 +48968,16 @@
 8	Schriftsteller	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-psy	2	obj	_	_
 9	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	_	_	_	_
+2	frustrieren	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	0	verb	_	_
+3	in	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	_	_	_	_
+4	dem	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	_	_	_	_
+5	Jahr	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	_	_	_	_
+6	Schriftsteller	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	2	obj	_	_
+7	die	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	_	_	_	_
+8	Romane	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	2	nsubj	_	_
+9	.	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	_	_	_	_
+
 1	Frustrieren	_	_	_	order=LK[V]MF[SO]|props=pp-psy	0	verb	_	_
 2	in	_	_	_	order=LK[V]MF[SO]|props=pp-psy	_	_	_	_
 3	dem	_	_	_	order=LK[V]MF[SO]|props=pp-psy	_	_	_	_
@@ -48207,6 +48986,15 @@
 6	Romane	_	_	_	order=LK[V]MF[SO]|props=pp-psy	1	nsubj	_	_
 7	Schriftsteller	_	_	_	order=LK[V]MF[SO]|props=pp-psy	1	obj	_	_
 8	?	_	_	_	order=LK[V]MF[SO]|props=pp-psy	_	_	_	_
+
+1	Frustrieren	_	_	_	order=LK[V]MF[OS]|props=pp-psy	0	verb	_	_
+2	in	_	_	_	order=LK[V]MF[OS]|props=pp-psy	_	_	_	_
+3	dem	_	_	_	order=LK[V]MF[OS]|props=pp-psy	_	_	_	_
+4	Jahr	_	_	_	order=LK[V]MF[OS]|props=pp-psy	_	_	_	_
+5	Schriftsteller	_	_	_	order=LK[V]MF[OS]|props=pp-psy	1	obj	_	_
+6	die	_	_	_	order=LK[V]MF[OS]|props=pp-psy	_	_	_	_
+7	Romane	_	_	_	order=LK[V]MF[OS]|props=pp-psy	1	nsubj	_	_
+8	?	_	_	_	order=LK[V]MF[OS]|props=pp-psy	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=pp-psy	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=pp-psy	_	_	_	_
@@ -48217,6 +49005,16 @@
 7	Jahr	_	_	_	order=MF[SO]VC[V]|props=pp-psy	_	_	_	_
 8	frustrieren	_	_	_	order=MF[SO]VC[V]|props=pp-psy	0	verb	_	_
 9	.	_	_	_	order=MF[SO]VC[V]|props=pp-psy	_	_	_	_
+
+1	Weil	_	_	_	order=MF[OS]VC[V]|props=pp-psy	_	_	_	_
+2	Schriftsteller	_	_	_	order=MF[OS]VC[V]|props=pp-psy	8	obj	_	_
+3	die	_	_	_	order=MF[OS]VC[V]|props=pp-psy	_	_	_	_
+4	Romane	_	_	_	order=MF[OS]VC[V]|props=pp-psy	8	nsubj	_	_
+5	in	_	_	_	order=MF[OS]VC[V]|props=pp-psy	_	_	_	_
+6	dem	_	_	_	order=MF[OS]VC[V]|props=pp-psy	_	_	_	_
+7	Jahr	_	_	_	order=MF[OS]VC[V]|props=pp-psy	_	_	_	_
+8	frustrieren	_	_	_	order=MF[OS]VC[V]|props=pp-psy	0	verb	_	_
+9	.	_	_	_	order=MF[OS]VC[V]|props=pp-psy	_	_	_	_
 
 1	Die	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-psy	_	_	_	_
 2	Rede	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-psy	3	nsubj	_	_
@@ -48414,6 +49212,16 @@
 8	Kleinbauern	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-psy	2	obj	_	_
 9	.	_	_	_	order=VF[ADV]LK[V]MF[SO]|props=pp-psy	_	_	_	_
 
+1	Deshalb	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	_	_	_	_
+2	reuen	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	0	verb	_	_
+3	in	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	_	_	_	_
+4	dem	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	_	_	_	_
+5	Jahr	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	_	_	_	_
+6	Kleinbauern	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	2	obj	_	_
+7	die	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	_	_	_	_
+8	Bauzäune	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	2	nsubj	_	_
+9	.	_	_	_	order=VF[ADV]LK[V]MF[OS]|props=pp-psy	_	_	_	_
+
 1	Reuen	_	_	_	order=LK[V]MF[SO]|props=pp-psy	0	verb	_	_
 2	in	_	_	_	order=LK[V]MF[SO]|props=pp-psy	_	_	_	_
 3	dem	_	_	_	order=LK[V]MF[SO]|props=pp-psy	_	_	_	_
@@ -48422,6 +49230,15 @@
 6	Bauzäune	_	_	_	order=LK[V]MF[SO]|props=pp-psy	1	nsubj	_	_
 7	Kleinbauern	_	_	_	order=LK[V]MF[SO]|props=pp-psy	1	obj	_	_
 8	?	_	_	_	order=LK[V]MF[SO]|props=pp-psy	_	_	_	_
+
+1	Reuen	_	_	_	order=LK[V]MF[OS]|props=pp-psy	0	verb	_	_
+2	in	_	_	_	order=LK[V]MF[OS]|props=pp-psy	_	_	_	_
+3	dem	_	_	_	order=LK[V]MF[OS]|props=pp-psy	_	_	_	_
+4	Jahr	_	_	_	order=LK[V]MF[OS]|props=pp-psy	_	_	_	_
+5	Kleinbauern	_	_	_	order=LK[V]MF[OS]|props=pp-psy	1	obj	_	_
+6	die	_	_	_	order=LK[V]MF[OS]|props=pp-psy	_	_	_	_
+7	Bauzäune	_	_	_	order=LK[V]MF[OS]|props=pp-psy	1	nsubj	_	_
+8	?	_	_	_	order=LK[V]MF[OS]|props=pp-psy	_	_	_	_
 
 1	Weil	_	_	_	order=MF[SO]VC[V]|props=pp-psy	_	_	_	_
 2	die	_	_	_	order=MF[SO]VC[V]|props=pp-psy	_	_	_	_
@@ -48432,6 +49249,16 @@
 7	Jahr	_	_	_	order=MF[SO]VC[V]|props=pp-psy	_	_	_	_
 8	reuen	_	_	_	order=MF[SO]VC[V]|props=pp-psy	0	verb	_	_
 9	.	_	_	_	order=MF[SO]VC[V]|props=pp-psy	_	_	_	_
+
+1	Weil	_	_	_	order=MF[OS]VC[V]|props=pp-psy	_	_	_	_
+2	Kleinbauern	_	_	_	order=MF[OS]VC[V]|props=pp-psy	8	obj	_	_
+3	die	_	_	_	order=MF[OS]VC[V]|props=pp-psy	_	_	_	_
+4	Bauzäune	_	_	_	order=MF[OS]VC[V]|props=pp-psy	8	nsubj	_	_
+5	in	_	_	_	order=MF[OS]VC[V]|props=pp-psy	_	_	_	_
+6	dem	_	_	_	order=MF[OS]VC[V]|props=pp-psy	_	_	_	_
+7	Jahr	_	_	_	order=MF[OS]VC[V]|props=pp-psy	_	_	_	_
+8	reuen	_	_	_	order=MF[OS]VC[V]|props=pp-psy	0	verb	_	_
+9	.	_	_	_	order=MF[OS]VC[V]|props=pp-psy	_	_	_	_
 
 1	Die	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-psy	_	_	_	_
 2	Tour	_	_	_	order=VF[S]LK[V]MF[O]|props=pp-psy	3	nsubj	_	_
