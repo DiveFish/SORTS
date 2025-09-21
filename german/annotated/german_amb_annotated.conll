@@ -22565,7 +22565,6 @@
 4	Herren	Herr	_	NOUN-NN	Morph:apm|NE:O|order:LK[V]MF[SO]|props:base-psy|tf:MF
 5	?	?	_	PUNCT-$.	Morph:null|NE:O|order:LK[V]MF[SO]|props:base-psy|tf:UNK
 
-
 1	Erstaunen	erstaunen	_	VERB-VVFIN	Morph:3pis|NE:O|order:LK[V]MF[OS]|props:base-psy|tf:LK
 2	Herren	Herr	_	NOUN-NN	Morph:apm|NE:O|order:LK[V]MF[OS]|props:base-psy|tf:MF
 3	die	der	_	DET-ART	Morph:npm|NE:O|order:LK[V]MF[OS]|props:base-psy|tf:MF
