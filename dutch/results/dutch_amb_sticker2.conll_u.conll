@@ -44903,36 +44903,6 @@
 4	maakt	maken	VERB	VERB-pv	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
-1	De	de	DET	DET-bep	Definite=Def	2	det	_	_
-2	eerste	één	ADJ	ADJ-rang-nom	_	5	nsubj	_	_
-3	is	zijn	AUX	AUX-pv	Number=Sing|Tense=Pres|VerbForm=Fin	5	cop	_	_
-4	de	de	DET	DET-bep	Definite=Def	5	det	_	_
-5	laatste	laat	ADJ	ADJ-nom	Degree=Sup	0	root	_	_
-6	.	.	PUNCT	PUNCT	_	5	punct	_	_
-
-1	Daarom	daarom	ADV	ADV-bw	_	6	advmod	_	_
-2	is	zijn	AUX	AUX-pv	Number=Sing|Tense=Pres|VerbForm=Fin	6	cop	_	_
-3	de	de	DET	DET-bep	Definite=Def	4	det	_	_
-4	eerste	één	ADJ	ADJ-rang-nom	_	6	nsubj	_	_
-5	de	de	DET	DET-bep	Definite=Def	6	det	_	_
-6	laatste	laat	ADJ	ADJ-nom	Degree=Sup	0	root	_	_
-7	.	.	PUNCT	PUNCT	_	6	punct	_	_
-
-1	Is	zijn	AUX	AUX-pv	Number=Sing|Tense=Pres|VerbForm=Fin	5	cop	_	_
-2	de	de	DET	DET-bep	Definite=Def	3	det	_	_
-3	eerste	één	ADJ	ADJ-rang-nom	_	5	nsubj	_	_
-4	de	de	DET	DET-bep	Definite=Def	5	det	_	_
-5	laatste	laat	ADJ	ADJ-nom	Degree=Sup	0	root	_	_
-6	?	?	PUNCT	PUNCT	_	5	punct	_	_
-
-1	Omdat	omdat	SCONJ	SCONJ	_	5	mark	_	_
-2	de	de	DET	DET-bep	Definite=Def	3	det	_	_
-3	eerste	één	ADJ	ADJ-rang-nom	_	5	nsubj	_	_
-4	de	de	DET	DET-bep	Definite=Def	5	det	_	_
-5	laatste	laat	ADJ	ADJ-nom	Degree=Sup	0	root	_	_
-6	is	zijn	AUX	AUX-pv	Number=Sing|Tense=Pres|VerbForm=Fin	5	cop	_	_
-7	.	.	PUNCT	PUNCT	_	5	punct	_	_
-
 1	De	de	DET	DET-bep	Definite=Def	3	det	_	_
 2	gestage	gestaag	ADJ	ADJ-prenom	Degree=Pos	3	amod	_	_
 3	drup	drup	NOUN	NOUN	Gender=Com|Number=Sing	4	nsubj	_	_
@@ -45316,40 +45286,6 @@
 4	zal	zullen	AUX	AUX-pv	Number=Sing|Tense=Pres|VerbForm=Fin	5	aux	_	_
 5	maken	maken	VERB	VERB-inf	VerbForm=Inf	0	root	_	_
 6	.	.	PUNCT	PUNCT	_	5	punct	_	_
-
-1	De	de	DET	DET-bep	Definite=Def	2	det	_	_
-2	eerste	één	ADJ	ADJ-rang-nom	_	5	nsubj	_	_
-3	zal	zullen	AUX	AUX-pv	Number=Sing|Tense=Pres|VerbForm=Fin	5	cop	_	_
-4	de	de	DET	DET-bep	Definite=Def	5	det	_	_
-5	laatste	laat	ADJ	ADJ-nom	Degree=Sup	0	root	_	_
-6	zijn	zijn	AUX	AUX-inf	VerbForm=Inf	5	cop	_	_
-7	.	.	PUNCT	PUNCT	_	5	punct	_	_
-
-1	Daarom	daarom	ADV	ADV-bw	_	6	advmod	_	_
-2	zal	zullen	AUX	AUX-pv	Number=Sing|Tense=Pres|VerbForm=Fin	6	mark	_	_
-3	de	de	DET	DET-bep	Definite=Def	4	det	_	_
-4	eerste	één	ADJ	ADJ-rang-nom	_	6	nsubj	_	_
-5	de	de	DET	DET-bep	Definite=Def	6	det	_	_
-6	laatste	laat	ADJ	ADJ-nom	Degree=Sup	0	root	_	_
-7	zijn	zijn	AUX	AUX-inf	VerbForm=Inf	6	cop	_	_
-8	.	.	PUNCT	PUNCT	_	6	punct	_	_
-
-1	Zal	zullen	AUX	AUX-pv	Number=Sing|Tense=Pres|VerbForm=Fin	2	aux	_	_
-2	de	de	DET	DET-bep	Definite=Def	3	det	_	_
-3	eerste	één	ADJ	ADJ-rang-nom	_	5	nsubj	_	_
-4	de	de	DET	DET-bep	Definite=Def	5	det	_	_
-5	laatste	laat	ADJ	ADJ-nom	Degree=Sup	0	root	_	_
-6	zijn	zijn	AUX	AUX-inf	VerbForm=Inf	5	cop	_	_
-7	?	?	PUNCT	PUNCT	_	5	punct	_	_
-
-1	Omdat	omdat	SCONJ	SCONJ	_	5	mark	_	_
-2	de	de	DET	DET-bep	Definite=Def	3	det	_	_
-3	eerste	één	ADJ	ADJ-rang-nom	_	5	nsubj	_	_
-4	de	de	DET	DET-bep	Definite=Def	5	det	_	_
-5	laatste	laat	ADJ	ADJ-nom	Degree=Sup	0	root	_	_
-6	zal	zullen	AUX	AUX-pv	Number=Sing|Tense=Pres|VerbForm=Fin	5	aux	_	_
-7	zijn	zijn	AUX	AUX-inf	VerbForm=Inf	5	cop	_	_
-8	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 1	De	de	DET	DET-bep	Definite=Def	3	det	_	_
 2	gestage	gestaag	ADJ	ADJ-prenom	Degree=Pos	3	amod	_	_
@@ -45783,36 +45719,6 @@
 5	maakt	maken	VERB	VERB-pv	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
-1	De	de	DET	DET-bep	Definite=Def	2	det	_	_
-2	eerste	één	ADJ	ADJ-rang-nom	_	5	nsubj	_	_
-3	is	zijn	AUX	AUX-pv	Number=Sing|Tense=Pres|VerbForm=Fin	5	cop	_	_
-4	geen	geen	DET	DET-onbep	_	5	det	_	_
-5	laatste	laat	ADJ	ADJ-nom	Degree=Sup	0	root	_	_
-6	.	.	PUNCT	PUNCT	_	5	punct	_	_
-
-1	Daarom	daarom	ADV	ADV-bw	_	6	advmod	_	_
-2	is	zijn	AUX	AUX-pv	Number=Sing|Tense=Pres|VerbForm=Fin	6	cop	_	_
-3	de	de	DET	DET-bep	Definite=Def	4	det	_	_
-4	eerste	één	ADJ	ADJ-rang-nom	_	0	root	_	_
-5	geen	geen	DET	DET-onbep	_	6	det	_	_
-6	laatste	laat	ADJ	ADJ-nom	Degree=Sup	0	root	_	_
-7	.	.	PUNCT	PUNCT	_	6	punct	_	_
-
-1	Is	zijn	AUX	AUX-pv	Number=Sing|Tense=Pres|VerbForm=Fin	5	cop	_	_
-2	de	de	DET	DET-bep	Definite=Def	3	det	_	_
-3	eerste	één	ADJ	ADJ-rang-nom	_	5	nsubj	_	_
-4	geen	geen	DET	DET-onbep	_	5	det	_	_
-5	laatste	laat	ADJ	ADJ-nom	Degree=Sup	0	root	_	_
-6	?	?	PUNCT	PUNCT	_	5	punct	_	_
-
-1	Omdat	omdat	SCONJ	SCONJ	_	5	mark	_	_
-2	de	de	DET	DET-bep	Definite=Def	3	det	_	_
-3	eerste	één	ADJ	ADJ-rang-nom	_	5	nsubj	_	_
-4	geen	geen	DET	DET-onbep	_	5	det	_	_
-5	laatste	laat	ADJ	ADJ-nom	Degree=Sup	0	root	_	_
-6	is	zijn	AUX	AUX-pv	Number=Sing|Tense=Pres|VerbForm=Fin	5	cop	_	_
-7	.	.	PUNCT	PUNCT	_	5	punct	_	_
-
 1	De	de	DET	DET-bep	Definite=Def	3	det	_	_
 2	gestage	gestaag	ADJ	ADJ-prenom	Degree=Pos	3	amod	_	_
 3	drup	drup	NOUN	NOUN	Gender=Com|Number=Sing	4	nsubj	_	_
@@ -46187,48 +46093,6 @@
 6	schuld	schuld	NOUN	NOUN	Gender=Com|Number=Sing	7	obj	_	_
 7	maakt	maken	VERB	VERB-pv	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	.	.	PUNCT	PUNCT	_	7	punct	_	_
-
-1	De	de	DET	DET-bep	Definite=Def	2	det	_	_
-2	eerste	één	ADJ	ADJ-rang-nom	_	8	nsubj	_	_
-3	is	zijn	AUX	AUX-pv	Number=Sing|Tense=Pres|VerbForm=Fin	8	cop	_	_
-4	gedurende	gedurende	ADP	ADP-init	_	6	case	_	_
-5	een	een	DET	DET-onbep	Definite=Ind	6	det	_	_
-6	week	week	NOUN	NOUN	Gender=Com|Number=Sing	8	obl	_	_
-7	de	de	DET	DET-bep	Definite=Def	8	det	_	_
-8	laatste	laat	ADJ	ADJ-nom	Degree=Sup	0	root	_	_
-9	.	.	PUNCT	PUNCT	_	8	punct	_	_
-
-1	Daarom	daarom	ADV	ADV-bw	_	9	advmod	_	_
-2	is	zijn	AUX	AUX-pv	Number=Sing|Tense=Pres|VerbForm=Fin	9	cop	_	_
-3	de	de	DET	DET-bep	Definite=Def	4	det	_	_
-4	eerste	één	ADJ	ADJ-rang-nom	_	9	nsubj	_	_
-5	gedurende	gedurende	ADP	ADP-init	_	7	case	_	_
-6	een	een	DET	DET-onbep	Definite=Ind	7	det	_	_
-7	week	week	NOUN	NOUN	Gender=Com|Number=Sing	9	obl	_	_
-8	de	de	DET	DET-bep	Definite=Def	9	det	_	_
-9	laatste	laat	ADJ	ADJ-nom	Degree=Sup	0	root	_	_
-10	.	.	PUNCT	PUNCT	_	9	punct	_	_
-
-1	Is	zijn	AUX	AUX-pv	Number=Sing|Tense=Pres|VerbForm=Fin	8	cop	_	_
-2	de	de	DET	DET-bep	Definite=Def	3	det	_	_
-3	eerste	één	ADJ	ADJ-rang-nom	_	8	nsubj	_	_
-4	gedurende	gedurende	ADP	ADP-init	_	6	case	_	_
-5	een	een	DET	DET-onbep	Definite=Ind	6	det	_	_
-6	week	week	NOUN	NOUN	Gender=Com|Number=Sing	8	obl	_	_
-7	de	de	DET	DET-bep	Definite=Def	8	det	_	_
-8	laatste	laat	ADJ	ADJ-nom	Degree=Sup	0	root	_	_
-9	?	?	PUNCT	PUNCT	_	8	punct	_	_
-
-1	Omdat	omdat	SCONJ	SCONJ	_	8	mark	_	_
-2	de	de	DET	DET-bep	Definite=Def	3	det	_	_
-3	eerste	één	ADJ	ADJ-rang-nom	_	8	nsubj	_	_
-4	gedurende	gedurende	ADP	ADP-init	_	6	case	_	_
-5	een	een	DET	DET-onbep	Definite=Ind	6	det	_	_
-6	week	week	NOUN	NOUN	Gender=Com|Number=Sing	8	obl	_	_
-7	de	de	DET	DET-bep	Definite=Def	8	det	_	_
-8	laatste	laat	ADJ	ADJ-nom	Degree=Sup	0	root	_	_
-9	is	zijn	AUX	AUX-pv	Number=Sing|Tense=Pres|VerbForm=Fin	8	cop	_	_
-10	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
 1	De	de	DET	DET-bep	Definite=Def	3	det	_	_
 2	gestage	gestaag	ADJ	ADJ-prenom	Degree=Pos	3	amod	_	_

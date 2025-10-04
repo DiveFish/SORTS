@@ -44903,36 +44903,6 @@
 4	maakt	maken	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:base-idm	0	root	_	_
 5	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:base-idm	4	punct	_	_
 
-1	De	de	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:base-idm	2	det	_	_
-2	eerste	één	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[S]LK[V]MF[O]|props:base-idm	3	nsubj	_	_
-3	is	zijn	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[S]LK[V]MF[O]|props:base-idm	0	root	_	_
-4	de	de	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:base-idm	5	det	_	_
-5	laatste	laatste	NOUN	NOUN	morph:Number=Sing|order:VF[S]LK[V]MF[O]|props:base-idm	3	obj	_	_
-6	.	.	PUNCT	PUNCT	morph:null|order:VF[S]LK[V]MF[O]|props:base-idm	5	punct	_	_
-
-1	Daarom	daarom	ADV	ADV-bw	morph:null|order:VF[ADV]LK[V]MF[SO]|props:base-idm	2	advmod	_	_
-2	is	zijn	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[ADV]LK[V]MF[SO]|props:base-idm	0	root	_	_
-3	de	de	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:base-idm	4	det	_	_
-4	eerste	één	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:base-idm	2	nsubj	_	_
-5	de	de	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:base-idm	6	det	_	_
-6	laatste	laatste	NOUN	NOUN	morph:Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:base-idm	2	obj	_	_
-7	.	.	PUNCT	PUNCT	morph:null|order:VF[ADV]LK[V]MF[SO]|props:base-idm	6	punct	_	_
-
-1	Is	zijn	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:LK[V]MF[SO]|props:base-idm	0	root	_	_
-2	de	de	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:base-idm	3	det	_	_
-3	eerste	één	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:LK[V]MF[SO]|props:base-idm	1	nsubj	_	_
-4	de	de	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:base-idm	5	det	_	_
-5	laatste	laatste	NOUN	NOUN	morph:Number=Sing|order:LK[V]MF[SO]|props:base-idm	1	obj	_	_
-6	?	?	PUNCT	PUNCT	morph:null|order:LK[V]MF[SO]|props:base-idm	5	punct	_	_
-
-1	Omdat	omdat	SCONJ	SCONJ	morph:null|order:MF[SO]VC[V]|props:base-idm	6	mark	_	_
-2	de	de	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:base-idm	3	det	_	_
-3	eerste	één	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:MF[SO]VC[V]|props:base-idm	6	nsubj	_	_
-4	de	de	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:base-idm	5	det	_	_
-5	laatste	laatste	NOUN	NOUN	morph:Number=Sing|order:MF[SO]VC[V]|props:base-idm	6	nsubj	_	_
-6	is	zijn	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:base-idm	0	root	_	_
-7	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:base-idm	6	punct	_	_
-
 1	De	de	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:base-idm	3	det	_	_
 2	gestage	gestaag	ADJ	ADJ-prenom	morph:Degree=Pos|order:VF[S]LK[V]MF[O]|props:base-idm	3	amod	_	_
 3	drup	drup	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[S]LK[V]MF[O]|props:base-idm	4	nsubj	_	_
@@ -45316,40 +45286,6 @@
 4	zal	zullen	AUX	AUX-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:aux-idm	5	aux	_	_
 5	maken	maken	VERB	VERB-inf	morph:VerbForm=Inf|order:MF[SO]VC[V]|props:aux-idm	0	root	_	_
 6	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:aux-idm	5	punct	_	_
-
-1	De	de	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:aux-idm	2	det	_	_
-2	eerste	één	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[S]LK[V]MF[O]|props:aux-idm	6	nsubj	_	_
-3	zal	zullen	AUX	AUX-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[S]LK[V]MF[O]|props:aux-idm	6	aux	_	_
-4	de	de	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:aux-idm	5	det	_	_
-5	laatste	laatste	NOUN	NOUN	morph:Number=Sing|order:VF[S]LK[V]MF[O]|props:aux-idm	6	nsubj	_	_
-6	zijn	zijn	VERB	VERB-inf	morph:VerbForm=Inf|order:VF[S]LK[V]MF[O]|props:aux-idm	0	root	_	_
-7	.	.	PUNCT	PUNCT	morph:null|order:VF[S]LK[V]MF[O]|props:aux-idm	6	punct	_	_
-
-1	Daarom	daarom	ADV	ADV-bw	morph:null|order:VF[ADV]LK[V]MF[SO]|props:aux-idm	7	advmod	_	_
-2	zal	zullen	AUX	AUX-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[ADV]LK[V]MF[SO]|props:aux-idm	7	aux	_	_
-3	de	de	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:aux-idm	4	det	_	_
-4	eerste	één	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:aux-idm	7	obl	_	_
-5	de	de	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:aux-idm	6	det	_	_
-6	laatste	laatste	NOUN	NOUN	morph:Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:aux-idm	7	nsubj	_	_
-7	zijn	zijn	VERB	VERB-inf	morph:VerbForm=Inf|order:VF[ADV]LK[V]MF[SO]|props:aux-idm	0	root	_	_
-8	.	.	PUNCT	PUNCT	morph:null|order:VF[ADV]LK[V]MF[SO]|props:aux-idm	7	punct	_	_
-
-1	Zal	zullen	AUX	AUX-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:LK[V]MF[SO]|props:aux-idm	6	aux	_	_
-2	de	de	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:aux-idm	3	det	_	_
-3	eerste	één	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:LK[V]MF[SO]|props:aux-idm	6	parataxis	_	_
-4	de	de	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:aux-idm	5	det	_	_
-5	laatste	laatste	NOUN	NOUN	morph:Number=Sing|order:LK[V]MF[SO]|props:aux-idm	6	nsubj	_	_
-6	zijn	zijn	VERB	VERB-inf	morph:VerbForm=Inf|order:LK[V]MF[SO]|props:aux-idm	0	root	_	_
-7	?	?	PUNCT	PUNCT	morph:null|order:LK[V]MF[SO]|props:aux-idm	6	punct	_	_
-
-1	Omdat	omdat	SCONJ	SCONJ	morph:null|order:MF[SO]VC[V]|props:aux-idm	7	mark	_	_
-2	de	de	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:aux-idm	3	det	_	_
-3	eerste	één	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:MF[SO]VC[V]|props:aux-idm	7	nsubj	_	_
-4	de	de	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:aux-idm	5	det	_	_
-5	laatste	laatste	NOUN	NOUN	morph:Number=Sing|order:MF[SO]VC[V]|props:aux-idm	7	nsubj	_	_
-6	zal	zullen	AUX	AUX-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:aux-idm	7	aux	_	_
-7	zijn	zijn	VERB	VERB-inf	morph:VerbForm=Inf|order:MF[SO]VC[V]|props:aux-idm	0	root	_	_
-8	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:aux-idm	7	punct	_	_
 
 1	De	de	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:aux-idm	3	det	_	_
 2	gestage	gestaag	ADJ	ADJ-prenom	morph:Degree=Pos|order:VF[S]LK[V]MF[O]|props:aux-idm	3	amod	_	_
@@ -45783,36 +45719,6 @@
 5	maakt	maken	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:oneg-idm	0	root	_	_
 6	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:oneg-idm	5	punct	_	_
 
-1	De	de	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:oneg-idm	2	det	_	_
-2	eerste	één	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[S]LK[V]MF[O]|props:oneg-idm	3	nsubj	_	_
-3	is	zijn	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[S]LK[V]MF[O]|props:oneg-idm	0	root	_	_
-4	geen	geen	DET	DET-onbep	morph:null|order:VF[S]LK[V]MF[O]|props:oneg-idm	5	det	_	_
-5	laatste	laatste	NOUN	NOUN	morph:Number=Sing|order:VF[S]LK[V]MF[O]|props:oneg-idm	3	obl	_	_
-6	.	.	PUNCT	PUNCT	morph:null|order:VF[S]LK[V]MF[O]|props:oneg-idm	5	punct	_	_
-
-1	Daarom	daarom	ADV	ADV-bw	morph:null|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm	2	advmod	_	_
-2	is	zijn	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm	0	root	_	_
-3	de	de	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm	4	det	_	_
-4	eerste	één	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm	2	nsubj	_	_
-5	geen	geen	DET	DET-onbep	morph:null|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm	6	det	_	_
-6	laatste	laatste	NOUN	NOUN	morph:Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm	2	obl	_	_
-7	.	.	PUNCT	PUNCT	morph:null|order:VF[ADV]LK[V]MF[SO]|props:oneg-idm	6	punct	_	_
-
-1	Is	zijn	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:LK[V]MF[SO]|props:oneg-idm	0	root	_	_
-2	de	de	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:oneg-idm	3	det	_	_
-3	eerste	één	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:LK[V]MF[SO]|props:oneg-idm	1	nsubj	_	_
-4	geen	geen	DET	DET-onbep	morph:null|order:LK[V]MF[SO]|props:oneg-idm	5	det	_	_
-5	laatste	laatste	NOUN	NOUN	morph:Number=Sing|order:LK[V]MF[SO]|props:oneg-idm	1	obl	_	_
-6	?	?	PUNCT	PUNCT	morph:null|order:LK[V]MF[SO]|props:oneg-idm	5	punct	_	_
-
-1	Omdat	omdat	SCONJ	SCONJ	morph:null|order:MF[SO]VC[V]|props:oneg-idm	6	mark	_	_
-2	de	de	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:oneg-idm	3	det	_	_
-3	eerste	één	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:MF[SO]VC[V]|props:oneg-idm	6	nsubj	_	_
-4	geen	geen	DET	DET-onbep	morph:null|order:MF[SO]VC[V]|props:oneg-idm	5	det	_	_
-5	laatste	laatste	NOUN	NOUN	morph:Number=Sing|order:MF[SO]VC[V]|props:oneg-idm	6	nsubj	_	_
-6	is	zijn	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:oneg-idm	0	root	_	_
-7	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:oneg-idm	6	punct	_	_
-
 1	De	de	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:oneg-idm	3	det	_	_
 2	gestage	gestaag	ADJ	ADJ-prenom	morph:Degree=Pos|order:VF[S]LK[V]MF[O]|props:oneg-idm	3	amod	_	_
 3	drup	drup	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[S]LK[V]MF[O]|props:oneg-idm	4	nsubj	_	_
@@ -46187,48 +46093,6 @@
 6	schuld	schuld	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:MF[SO]VC[V]|props:pp-idm	7	obj	_	_
 7	maakt	maken	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:pp-idm	0	root	_	_
 8	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:pp-idm	7	punct	_	_
-
-1	De	de	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:pp-idm	2	det	_	_
-2	eerste	één	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[S]LK[V]MF[O]|props:pp-idm	3	nsubj	_	_
-3	is	zijn	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[S]LK[V]MF[O]|props:pp-idm	0	root	_	_
-4	gedurende	gedurende	ADP	ADP-init	morph:null|order:VF[S]LK[V]MF[O]|props:pp-idm	6	case	_	_
-5	een	een	DET	DET-onbep	morph:Definite=Ind|order:VF[S]LK[V]MF[O]|props:pp-idm	6	det	_	_
-6	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[S]LK[V]MF[O]|props:pp-idm	3	obl	_	_
-7	de	de	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:pp-idm	8	det	_	_
-8	laatste	laatste	NOUN	NOUN	morph:Number=Sing|order:VF[S]LK[V]MF[O]|props:pp-idm	3	parataxis	_	_
-9	.	.	PUNCT	PUNCT	morph:null|order:VF[S]LK[V]MF[O]|props:pp-idm	8	punct	_	_
-
-1	Daarom	daarom	ADV	ADV-bw	morph:null|order:VF[ADV]LK[V]MF[SO]|props:pp-idm	2	advmod	_	_
-2	is	zijn	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:VF[ADV]LK[V]MF[SO]|props:pp-idm	0	root	_	_
-3	de	de	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:pp-idm	4	det	_	_
-4	eerste	één	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:pp-idm	2	nsubj	_	_
-5	gedurende	gedurende	ADP	ADP-init	morph:null|order:VF[ADV]LK[V]MF[SO]|props:pp-idm	7	case	_	_
-6	een	een	DET	DET-onbep	morph:Definite=Ind|order:VF[ADV]LK[V]MF[SO]|props:pp-idm	7	det	_	_
-7	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:pp-idm	2	obl	_	_
-8	de	de	DET	DET-bep	morph:Definite=Def|order:VF[ADV]LK[V]MF[SO]|props:pp-idm	9	det	_	_
-9	laatste	laatste	NOUN	NOUN	morph:Number=Sing|order:VF[ADV]LK[V]MF[SO]|props:pp-idm	2	nsubj	_	_
-10	.	.	PUNCT	PUNCT	morph:null|order:VF[ADV]LK[V]MF[SO]|props:pp-idm	9	punct	_	_
-
-1	Is	zijn	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:LK[V]MF[SO]|props:pp-idm	0	root	_	_
-2	de	de	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:pp-idm	3	det	_	_
-3	eerste	één	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:LK[V]MF[SO]|props:pp-idm	1	nsubj	_	_
-4	gedurende	gedurende	ADP	ADP-init	morph:null|order:LK[V]MF[SO]|props:pp-idm	6	case	_	_
-5	een	een	DET	DET-onbep	morph:Definite=Ind|order:LK[V]MF[SO]|props:pp-idm	6	det	_	_
-6	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:LK[V]MF[SO]|props:pp-idm	1	obl	_	_
-7	de	de	DET	DET-bep	morph:Definite=Def|order:LK[V]MF[SO]|props:pp-idm	8	det	_	_
-8	laatste	laatste	NOUN	NOUN	morph:Number=Sing|order:LK[V]MF[SO]|props:pp-idm	1	parataxis	_	_
-9	?	?	PUNCT	PUNCT	morph:null|order:LK[V]MF[SO]|props:pp-idm	8	punct	_	_
-
-1	Omdat	omdat	SCONJ	SCONJ	morph:null|order:MF[SO]VC[V]|props:pp-idm	9	mark	_	_
-2	de	de	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:pp-idm	3	det	_	_
-3	eerste	één	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:MF[SO]VC[V]|props:pp-idm	9	nsubj	_	_
-4	gedurende	gedurende	ADP	ADP-init	morph:null|order:MF[SO]VC[V]|props:pp-idm	6	case	_	_
-5	een	een	DET	DET-onbep	morph:Definite=Ind|order:MF[SO]VC[V]|props:pp-idm	6	det	_	_
-6	week	week	NOUN	NOUN	morph:Gender=Com&Number=Sing|order:MF[SO]VC[V]|props:pp-idm	9	obl	_	_
-7	de	de	DET	DET-bep	morph:Definite=Def|order:MF[SO]VC[V]|props:pp-idm	8	det	_	_
-8	laatste	laatste	NOUN	NOUN	morph:Number=Sing|order:MF[SO]VC[V]|props:pp-idm	9	nsubj	_	_
-9	is	zijn	VERB	VERB-pv	morph:Number=Sing&Tense=Pres&VerbForm=Fin|order:MF[SO]VC[V]|props:pp-idm	0	root	_	_
-10	.	.	PUNCT	PUNCT	morph:null|order:MF[SO]VC[V]|props:pp-idm	9	punct	_	_
 
 1	De	de	DET	DET-bep	morph:Definite=Def|order:VF[S]LK[V]MF[O]|props:pp-idm	3	det	_	_
 2	gestage	gestaag	ADJ	ADJ-prenom	morph:Degree=Pos|order:VF[S]LK[V]MF[O]|props:pp-idm	3	amod	_	_
