@@ -27806,6 +27806,13 @@
 5	faszinieren	faszinieren	_	VERB-VVFIN	Morph:3pis|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[SO]VC[V]|props:semas-psy|tf:UNK
 
+1	Weil	weil	_	SCONJ-KOUS	Morph:null|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:C
+2	Teenager	Teenager	_	NOUN-NN	Morph:apm|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:MF
+3	die	der	_	DET-ART	Morph:npm|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:MF
+4	Stars	Star	_	NOUN-NN	Morph:npm|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:MF
+5	faszinieren	faszinieren	_	VERB-VVFIN	Morph:3pis|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:VC
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:semas-psy|tf:UNK
+
 1	Die	der	_	DET-ART	Morph:npm|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:VF
 2	Söhne	Sohn	_	NOUN-NN	Morph:npm|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:VF
 3	berühren	berühren	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:LK
@@ -37536,6 +37543,13 @@
 4	Generäle	General	_	NOUN-NN	Morph:apm|NE:O|order:VF[S]LK[V]MF[O]|props:psy-syn|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:psy-syn|tf:UNK
 
+1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:psy-syn|tf:VF
+2	bannen	bannen	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:psy-syn|tf:LK
+3	die	der	_	DET-ART	Morph:npm|NE:O|order:VF[ADV]LK[V]MF[SO]|props:psy-syn|tf:MF
+4	Angriffe	Angriff	_	NOUN-NN	Morph:nsn|NE:O|order:VF[ADV]LK[V]MF[SO]|props:psy-syn|tf:MF
+5	Generäle	General	_	NOUN-NN	Morph:apm|NE:O|order:VF[ADV]LK[V]MF[SO]|props:psy-syn|tf:MF
+6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:psy-syn|tf:UNK
+
 1	Bannen	bannen	_	VERB-VVFIN	Morph:3pis|NE:O|order:LK[V]MF[SO]|props:psy-syn|tf:LK
 2	die	der	_	DET-ART	Morph:npm|NE:O|order:LK[V]MF[SO]|props:psy-syn|tf:MF
 3	Angriffe	Angriff	_	NOUN-NN	Morph:npm|NE:O|order:LK[V]MF[SO]|props:psy-syn|tf:MF
@@ -38740,14 +38754,6 @@
 6	waschen	waschen	_	VERB-VVINF	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:VC
 7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:aux-prov|tf:UNK
 
-1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:VF
-2	andere	ander	_	PRON-PIS	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:VF
-3	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:LK
-4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:MF
-5	Hand	Hand	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:MF
-6	waschen	waschen	_	VERB-VVINF	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:VC
-7	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:aux-prov|tf:UNK
-
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:VF
 2	wird	werden	_	AUX-VAFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:LK
 3	eine	eine	_	DET-ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:aux-prov|tf:MF
@@ -39039,13 +39045,6 @@
 4	keine	keine	_	DET-PIAT	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:MF
 5	andere	ander	_	ADJ-ADJA	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:oneg-prov|tf:UNK
-
-1	Keine	keine	_	DET-PIAT	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:VF
-2	andere	ander	_	PRON-PIS	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:VF
-3	wäscht	waschen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:LK
-4	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:MF
-5	Hand	Hand	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:MF
-6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:oneg-prov|tf:UNK
 
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:VF
 2	wäscht	waschen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oneg-prov|tf:LK
@@ -51053,16 +51052,6 @@
 7	die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
 8	andere	ander	_	ADJ-ADJA	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:MF
 9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:pp-prov|tf:UNK
-
-1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:VF
-2	andere	ander	_	PRON-PIS	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:VF
-3	wäscht	waschen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:LK
-4	in	in	_	ADP-APPR	Morph:d|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
-5	dem	das	_	DET-ART	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
-6	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
-7	eine	eine	_	DET-ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
-8	Hand	Hand	_	NOUN-NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:MF
-9	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:pp-prov|tf:UNK
 
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:VF
 2	wäscht	waschen	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:pp-prov|tf:LK

@@ -3950,6 +3950,7 @@ VF[ADV]LK[V]MF[OS]	semas-psy	5	3	Deshalb faszinieren Teenager die Stars .
 LK[V]MF[SO]	semas-psy	3	4	Faszinieren die Stars Teenager ?
 LK[V]MF[OS]	semas-psy	4	2	Faszinieren Teenager die Stars ?
 MF[SO]VC[V]	semas-psy	3	4	Weil die Stars Teenager faszinieren .
+MF[OS]VC[V]	semas-psy	4	2	Weil Teenager die Stars faszinieren .
 VF[S]LK[V]MF[O]	semas-psy	2	4	Die Söhne berühren Mütter .
 VF[ADV]LK[V]MF[SO]	semas-psy	4	5	Deshalb berühren die Söhne Mütter .
 LK[V]MF[SO]	semas-psy	3	4	Berühren die Söhne Mütter ?
@@ -5369,6 +5370,7 @@ VF[ADV]LK[V]MF[SO]	noref-syn	4	5	Deshalb bestreitet die Handwerkerin nichts .
 LK[V]MF[SO]	noref-syn	3	4	Bestreitet die Handwerkerin nichts ?
 MF[SO]VC[V]	noref-syn	3	4	Weil die Handwerkerin nichts bestreitet .
 VF[S]LK[V]MF[O]	psy-syn	2	4	Die Angriffe bannen Generäle .
+VF[ADV]LK[V]MF[SO]	psy-syn	4	5	Deshalb bannen die Angriffe Generäle .
 LK[V]MF[SO]	psy-syn	3	4	Bannen die Angriffe Generäle ?
 MF[SO]VC[V]	psy-syn	3	4	Weil die Angriffe Generäle bannen .
 VF[S]LK[V]MF[O]	psy-syn	2	5	Das Doppelleben ermüdet eine Partnerin .
@@ -5538,7 +5540,6 @@ VF[ADV]LK[V]MF[SO]	aux-prov	3	4	Deshalb wird Arbeit Brot bringen .
 LK[V]MF[SO]	aux-prov	2	3	Wird Arbeit Brot bringen ?
 MF[SO]VC[V]	aux-prov	2	3	Weil Arbeit Brot bringen wird .
 VF[S]LK[V]MF[O]	aux-prov	2	5	Eine Hand wird die andere waschen .
-VF[O]LK[V]MF[S]	aux-prov	5	2	Die andere wird eine Hand waschen .
 VF[ADV]LK[V]MF[SO]	aux-prov	4	6	Deshalb wird eine Hand die andere waschen .
 LK[V]MF[SO]	aux-prov	3	5	Wird eine Hand die andere waschen ?
 MF[SO]VC[V]	aux-prov	3	5	Weil eine Hand die andere waschen wird .
@@ -5578,7 +5579,6 @@ VF[ADV]LK[V]MF[SO]	oneg-prov	3	5	Deshalb bringt Arbeit kein Brot .
 LK[V]MF[SO]	oneg-prov	2	4	Bringt Arbeit kein Brot ?
 MF[SO]VC[V]	oneg-prov	2	4	Weil Arbeit kein Brot bringt .
 VF[S]LK[V]MF[O]	oneg-prov	2	5	Eine Hand wäscht keine andere .
-VF[O]LK[V]MF[S]	oneg-prov	5	2	Keine andere wäscht eine Hand .
 VF[ADV]LK[V]MF[SO]	oneg-prov	4	6	Deshalb wäscht eine Hand keine andere .
 LK[V]MF[SO]	oneg-prov	3	5	Wäscht eine Hand keine andere ?
 MF[SO]VC[V]	oneg-prov	3	5	Weil eine Hand keine andere wäscht .
@@ -6789,7 +6789,6 @@ VF[ADV]LK[V]MF[SO]	pp-prov	6	7	Deshalb bringt in dem Jahr Arbeit Brot .
 LK[V]MF[SO]	pp-prov	5	6	Bringt in dem Jahr Arbeit Brot ?
 MF[SO]VC[V]	pp-prov	2	3	Weil Arbeit Brot in dem Jahr bringt .
 VF[S]LK[V]MF[O]	pp-prov	2	8	Eine Hand wäscht in dem Jahr die andere .
-VF[O]LK[V]MF[S]	pp-prov	8	2	Die andere wäscht in dem Jahr eine Hand .
 VF[ADV]LK[V]MF[SO]	pp-prov	7	9	Deshalb wäscht in dem Jahr eine Hand die andere .
 LK[V]MF[SO]	pp-prov	6	8	Wäscht in dem Jahr eine Hand die andere ?
 MF[SO]VC[V]	pp-prov	3	5	Weil eine Hand die andere in dem Jahr wäscht .
