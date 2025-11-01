@@ -3479,421 +3479,421 @@ VF[O]LK[V]MF[S]	oan-regpol	4	1	Slachtoffers bevrijdt de universiteit .
 VF[ADV]LK[V]MF[SO]	oan-regpol	4	5	Daarom bevrijdt de universiteit slachtoffers .
 LK[V]MF[SO]	oan-regpol	3	4	Bevrijdt de universiteit slachtoffers ?
 MF[SO]VC[V]	oan-regpol	3	4	Omdat de universiteit slachtoffers bevrijdt .
-VF[S]LK[V]MF[O]	base-snp	1	3	AkzoNobel plant aanvallen .
-VF[O]LK[V]MF[S]	base-snp	3	1	Aanvallen plant AkzoNobel .
-VF[ADV]LK[V]MF[SO]	base-snp	3	4	Daarom plant AkzoNobel aanvallen .
-LK[V]MF[SO]	base-snp	2	3	Plant AkzoNobel aanvallen ?
-MF[SO]VC[V]	base-snp	2	3	Omdat AkzoNobel aanvallen plant .
-VF[S]LK[V]MF[O]	base-snp	1	3	Balazs leeft dubbellevens .
-VF[O]LK[V]MF[S]	base-snp	3	1	Dubbellevens leeft Balazs .
-VF[ADV]LK[V]MF[SO]	base-snp	3	4	Daarom leeft Balazs dubbellevens .
-LK[V]MF[SO]	base-snp	2	3	Leeft Balazs dubbellevens ?
-MF[SO]VC[V]	base-snp	2	3	Omdat Balazs dubbellevens leeft .
-VF[S]LK[V]MF[O]	base-snp	1	3	Mercedes synchroniseert opnames .
-VF[O]LK[V]MF[S]	base-snp	3	1	Opnames synchroniseert Mercedes .
-VF[ADV]LK[V]MF[SO]	base-snp	3	4	Daarom synchroniseert Mercedes opnames .
-LK[V]MF[SO]	base-snp	2	3	Synchroniseert Mercedes opnames ?
-MF[SO]VC[V]	base-snp	2	3	Omdat Mercedes opnames synchroniseert .
-VF[S]LK[V]MF[O]	base-snp	1	4	NPO 1 repeteert droombruiloften .
-VF[O]LK[V]MF[S]	base-snp	3	1	Droombruiloften repeteert NPO 1 .
-VF[ADV]LK[V]MF[SO]	base-snp	3	5	Daarom repeteert NPO 1 droombruiloften .
-LK[V]MF[SO]	base-snp	2	4	Repeteert NPO 1 droombruiloften ?
-MF[SO]VC[V]	base-snp	2	4	Omdat NPO 1 droombruiloften repeteert .
-VF[S]LK[V]MF[O]	base-snp	1	3	Degas vernielt kunstwerken .
-VF[O]LK[V]MF[S]	base-snp	3	1	Kunstwerken vernielt Degas .
-VF[ADV]LK[V]MF[SO]	base-snp	3	4	Daarom vernielt Degas kunstwerken .
-LK[V]MF[SO]	base-snp	2	3	Vernielt Degas kunstwerken ?
-MF[SO]VC[V]	base-snp	2	3	Omdat Degas kunstwerken vernielt .
-VF[S]LK[V]MF[O]	base-snp	1	4	Staf Coppens verzint oplossingen .
-VF[O]LK[V]MF[S]	base-snp	3	1	Oplossingen verzint Staf Coppens .
-VF[ADV]LK[V]MF[SO]	base-snp	3	5	Daarom verzint Staf Coppens oplossingen .
-LK[V]MF[SO]	base-snp	2	4	Verzint Staf Coppens oplossingen ?
-MF[SO]VC[V]	base-snp	2	4	Omdat Staf Coppens oplossingen verzint .
-VF[S]LK[V]MF[O]	base-snp	1	3	Harry bestelt tijdschriften .
-VF[O]LK[V]MF[S]	base-snp	3	1	Tijdschriften bestelt Harry .
-VF[ADV]LK[V]MF[SO]	base-snp	3	4	Daarom bestelt Harry tijdschriften .
-LK[V]MF[SO]	base-snp	2	3	Bestelt Harry tijdschriften ?
-MF[SO]VC[V]	base-snp	2	3	Omdat Harry tijdschriften bestelt .
-VF[S]LK[V]MF[O]	base-snp	1	3	Gillette scheert baarden .
-VF[O]LK[V]MF[S]	base-snp	3	1	Baarden scheert Gillette .
-VF[ADV]LK[V]MF[SO]	base-snp	3	4	Daarom scheert Gillette baarden .
-LK[V]MF[SO]	base-snp	2	3	Scheert Gillette baarden ?
-MF[SO]VC[V]	base-snp	2	3	Omdat Gillette baarden scheert .
-VF[S]LK[V]MF[O]	base-snp	1	3	Clooney drinkt kopjes koffie .
-VF[O]LK[V]MF[S]	base-snp	4	1	Kopjes koffie drinkt Clooney .
-VF[ADV]LK[V]MF[SO]	base-snp	3	4	Daarom drinkt Clooney kopjes koffie .
-LK[V]MF[SO]	base-snp	2	3	Drinkt Clooney kopjes koffie ?
-MF[SO]VC[V]	base-snp	2	3	Omdat Clooney kopjes koffie drinkt .
-VF[S]LK[V]MF[O]	base-snp	1	4	Han Voskuil schrijft romans .
-VF[O]LK[V]MF[S]	base-snp	3	1	Romans schrijft Han Voskuil .
-VF[ADV]LK[V]MF[SO]	base-snp	3	5	Daarom schrijft Han Voskuil romans .
-LK[V]MF[SO]	base-snp	2	4	Schrijft Han Voskuil romans ?
-MF[SO]VC[V]	base-snp	2	4	Omdat Han Voskuil romans schrijft .
-VF[S]LK[V]MF[O]	base-snp	1	3	Rutte begint onderhandelingen .
-VF[O]LK[V]MF[S]	base-snp	3	1	Onderhandelingen begint Rutte .
-VF[ADV]LK[V]MF[SO]	base-snp	3	4	Daarom begint Rutte onderhandelingen .
-LK[V]MF[SO]	base-snp	2	3	Begint Rutte onderhandelingen ?
-MF[SO]VC[V]	base-snp	2	3	Omdat Rutte onderhandelingen begint .
-VF[S]LK[V]MF[O]	base-snp	1	3	Vietnam krijgt basissalarissen .
-VF[O]LK[V]MF[S]	base-snp	3	1	Basissalarissen krijgt Vietnam .
-VF[ADV]LK[V]MF[SO]	base-snp	3	4	Daarom krijgt Vietnam basissalarissen .
-LK[V]MF[SO]	base-snp	2	3	Krijgt Vietnam basissalarissen ?
-MF[SO]VC[V]	base-snp	2	3	Omdat Vietnam basissalarissen krijgt .
-VF[S]LK[V]MF[O]	base-snp	1	3	Anouk bouwt hekken .
-VF[O]LK[V]MF[S]	base-snp	3	1	Hekken bouwt Anouk .
-VF[ADV]LK[V]MF[SO]	base-snp	3	4	Daarom bouwt Anouk hekken .
-LK[V]MF[SO]	base-snp	2	3	Bouwt Anouk hekken ?
-MF[SO]VC[V]	base-snp	2	3	Omdat Anouk hekken bouwt .
-VF[S]LK[V]MF[O]	base-snp	1	3	Nijmegen wint toeren .
-VF[O]LK[V]MF[S]	base-snp	3	1	Toeren wint Nijmegen .
-VF[ADV]LK[V]MF[SO]	base-snp	3	4	Daarom wint Nijmegen toeren .
-LK[V]MF[SO]	base-snp	2	3	Wint Nijmegen toeren ?
-MF[SO]VC[V]	base-snp	2	3	Omdat Nijmegen toeren wint .
-VF[S]LK[V]MF[O]	base-snp	1	4	Essent NV regelt constructies .
-VF[O]LK[V]MF[S]	base-snp	3	1	Constructies regelt Essent NV .
-VF[ADV]LK[V]MF[SO]	base-snp	3	5	Daarom regelt Essent NV constructies .
-LK[V]MF[SO]	base-snp	2	4	Regelt Essent NV constructies ?
-MF[SO]VC[V]	base-snp	2	4	Omdat Essent NV constructies regelt .
-VF[S]LK[V]MF[O]	amb-snp	1	4	AkzoNobel plant een aanval .
-VF[O]LK[V]MF[S]	amb-snp	4	2	Een aanval plant AkzoNobel .
-VF[ADV]LK[V]MF[SO]	amb-snp	3	5	Daarom plant AkzoNobel een aanval .
-LK[V]MF[SO]	amb-snp	2	4	Plant AkzoNobel een aanval ?
-MF[SO]VC[V]	amb-snp	2	4	Omdat AkzoNobel een aanval plant .
-VF[S]LK[V]MF[O]	amb-snp	1	4	Balazs leeft een dubbelleven .
-VF[O]LK[V]MF[S]	amb-snp	4	2	Een dubbelleven leeft Balazs .
-VF[ADV]LK[V]MF[SO]	amb-snp	3	5	Daarom leeft Balazs een dubbelleven .
-LK[V]MF[SO]	amb-snp	2	4	Leeft Balazs een dubbelleven ?
-MF[SO]VC[V]	amb-snp	2	4	Omdat Balazs een dubbelleven leeft .
-VF[S]LK[V]MF[O]	amb-snp	1	4	Mercedes synchroniseert een opname .
-VF[O]LK[V]MF[S]	amb-snp	4	2	Een opname synchroniseert Mercedes .
-VF[ADV]LK[V]MF[SO]	amb-snp	3	5	Daarom synchroniseert Mercedes een opname .
-LK[V]MF[SO]	amb-snp	2	4	Synchroniseert Mercedes een opname ?
-MF[SO]VC[V]	amb-snp	2	4	Omdat Mercedes een opname synchroniseert .
-VF[S]LK[V]MF[O]	amb-snp	1	5	NPO 1 repeteert een droombruiloft .
-VF[O]LK[V]MF[S]	amb-snp	4	2	Een droombruiloft repeteert NPO 1 .
-VF[ADV]LK[V]MF[SO]	amb-snp	3	6	Daarom repeteert NPO 1 een droombruiloft .
-LK[V]MF[SO]	amb-snp	2	5	Repeteert NPO 1 een droombruiloft ?
-MF[SO]VC[V]	amb-snp	2	5	Omdat NPO 1 een droombruiloft repeteert .
-VF[S]LK[V]MF[O]	amb-snp	1	4	Degas vernielt een kunstwerk .
-VF[O]LK[V]MF[S]	amb-snp	4	2	Een kunstwerk vernielt Degas .
-VF[ADV]LK[V]MF[SO]	amb-snp	3	5	Daarom vernielt Degas een kunstwerk .
-LK[V]MF[SO]	amb-snp	2	4	Vernielt Degas een kunstwerk ?
-MF[SO]VC[V]	amb-snp	2	4	Omdat Degas een kunstwerk vernielt .
-VF[S]LK[V]MF[O]	amb-snp	1	5	Staf Coppens verzint een oplossing .
-VF[O]LK[V]MF[S]	amb-snp	4	2	Een oplossing verzint Staf Coppens .
-VF[ADV]LK[V]MF[SO]	amb-snp	3	6	Daarom verzint Staf Coppens een oplossing .
-LK[V]MF[SO]	amb-snp	2	5	Verzint Staf Coppens een oplossing ?
-MF[SO]VC[V]	amb-snp	2	5	Omdat Staf Coppens een oplossing verzint .
-VF[S]LK[V]MF[O]	amb-snp	1	4	Harry bestelt een tijdschrift .
-VF[O]LK[V]MF[S]	amb-snp	4	2	Een tijdschrift bestelt Harry .
-VF[ADV]LK[V]MF[SO]	amb-snp	3	5	Daarom bestelt Harry een tijdschrift .
-LK[V]MF[SO]	amb-snp	2	4	Bestelt Harry een tijdschrift ?
-MF[SO]VC[V]	amb-snp	2	4	Omdat Harry een tijdschrift bestelt .
-VF[S]LK[V]MF[O]	amb-snp	1	4	Gillette scheert een baard .
-VF[O]LK[V]MF[S]	amb-snp	4	2	Een baard scheert Gillette .
-VF[ADV]LK[V]MF[SO]	amb-snp	3	5	Daarom scheert Gillette een baard .
-LK[V]MF[SO]	amb-snp	2	4	Scheert Gillette een baard ?
-MF[SO]VC[V]	amb-snp	2	4	Omdat Gillette een baard scheert .
-VF[S]LK[V]MF[O]	amb-snp	1	4	Clooney drinkt een kopje koffie .
-VF[O]LK[V]MF[S]	amb-snp	5	2	Een kopje koffie drinkt Clooney .
-VF[ADV]LK[V]MF[SO]	amb-snp	3	5	Daarom drinkt Clooney een kopje koffie .
-LK[V]MF[SO]	amb-snp	2	4	Drinkt Clooney een kopje koffie ?
-MF[SO]VC[V]	amb-snp	2	4	Omdat Clooney een kopje koffie drinkt .
-VF[S]LK[V]MF[O]	amb-snp	1	5	Han Voskuil schrijft een roman .
-VF[O]LK[V]MF[S]	amb-snp	4	2	Een roman schrijft Han Voskuil .
-VF[ADV]LK[V]MF[SO]	amb-snp	3	6	Daarom schrijft Han Voskuil een roman .
-LK[V]MF[SO]	amb-snp	2	5	Schrijft Han Voskuil een roman ?
-MF[SO]VC[V]	amb-snp	2	5	Omdat Han Voskuil een roman schrijft .
-VF[S]LK[V]MF[O]	amb-snp	1	4	Rutte begint een onderhandeling .
-VF[O]LK[V]MF[S]	amb-snp	4	2	Een onderhandeling begint Rutte .
-VF[ADV]LK[V]MF[SO]	amb-snp	3	5	Daarom begint Rutte een onderhandeling .
-LK[V]MF[SO]	amb-snp	2	4	Begint Rutte een onderhandeling ?
-MF[SO]VC[V]	amb-snp	2	4	Omdat Rutte een onderhandeling begint .
-VF[S]LK[V]MF[O]	amb-snp	1	4	Vietnam krijgt een basissalaris .
-VF[O]LK[V]MF[S]	amb-snp	4	2	Een basissalaris krijgt Vietnam .
-VF[ADV]LK[V]MF[SO]	amb-snp	3	5	Daarom krijgt Vietnam een basissalaris .
-LK[V]MF[SO]	amb-snp	2	4	Krijgt Vietnam een basissalaris ?
-MF[SO]VC[V]	amb-snp	2	4	Omdat Vietnam een basissalaris krijgt .
-VF[S]LK[V]MF[O]	amb-snp	1	4	Anouk bouwt een hek .
-VF[O]LK[V]MF[S]	amb-snp	4	2	Een hek bouwt Anouk .
-VF[ADV]LK[V]MF[SO]	amb-snp	3	5	Daarom bouwt Anouk een hek .
-LK[V]MF[SO]	amb-snp	2	4	Bouwt Anouk een hek ?
-MF[SO]VC[V]	amb-snp	2	4	Omdat Anouk een hek bouwt .
-VF[S]LK[V]MF[O]	amb-snp	1	4	Nijmegen wint een toer .
-VF[O]LK[V]MF[S]	amb-snp	4	2	Een toer wint Nijmegen .
-VF[ADV]LK[V]MF[SO]	amb-snp	3	5	Daarom wint Nijmegen een toer .
-LK[V]MF[SO]	amb-snp	2	4	Wint Nijmegen een toer ?
-MF[SO]VC[V]	amb-snp	2	4	Omdat Nijmegen een toer wint .
-VF[S]LK[V]MF[O]	amb-snp	1	5	Essent NV regelt een constructie .
-VF[O]LK[V]MF[S]	amb-snp	4	2	Een constructie regelt Essent NV .
-VF[ADV]LK[V]MF[SO]	amb-snp	3	6	Daarom regelt Essent NV een constructie .
-LK[V]MF[SO]	amb-snp	2	5	Regelt Essent NV een constructie ?
-MF[SO]VC[V]	amb-snp	2	5	Omdat Essent NV een constructie regelt .
-VF[S]LK[V]MF[O]	aux-snp	1	3	AkzoNobel zal aanvallen plannen .
-VF[O]LK[V]MF[S]	aux-snp	3	1	Aanvallen zal AkzoNobel plannen .
-VF[ADV]LK[V]MF[SO]	aux-snp	3	4	Daarom zal AkzoNobel aanvallen plannen .
-LK[V]MF[SO]	aux-snp	2	3	Zal AkzoNobel aanvallen plannen ?
-MF[SO]VC[V]	aux-snp	2	3	Omdat AkzoNobel aanvallen zal plannen .
-VF[S]LK[V]MF[O]	aux-snp	1	3	Balazs zal dubbellevens leven .
-VF[O]LK[V]MF[S]	aux-snp	3	1	Dubbellevens zal Balazs leven .
-VF[ADV]LK[V]MF[SO]	aux-snp	3	4	Daarom zal Balazs dubbellevens leven .
-LK[V]MF[SO]	aux-snp	2	3	Zal Balazs dubbellevens leven ?
-MF[SO]VC[V]	aux-snp	2	3	Omdat Balazs dubbellevens zal leven .
-VF[S]LK[V]MF[O]	aux-snp	1	3	Mercedes zal opnames synchroniseren .
-VF[O]LK[V]MF[S]	aux-snp	3	1	Opnames zal Mercedes synchroniseren .
-VF[ADV]LK[V]MF[SO]	aux-snp	3	4	Daarom zal Mercedes opnames synchroniseren .
-LK[V]MF[SO]	aux-snp	2	3	Zal Mercedes opnames synchroniseren ?
-MF[SO]VC[V]	aux-snp	2	3	Omdat Mercedes opnames zal synchroniseren .
-VF[S]LK[V]MF[O]	aux-snp	1	4	NPO 1 zal droombruiloften repeteren .
-VF[O]LK[V]MF[S]	aux-snp	3	1	Droombruiloften zal NPO 1 repeteren .
-VF[ADV]LK[V]MF[SO]	aux-snp	3	5	Daarom zal NPO 1 droombruiloften repeteren .
-LK[V]MF[SO]	aux-snp	2	4	Zal NPO 1 droombruiloften repeteren ?
-MF[SO]VC[V]	aux-snp	2	4	Omdat NPO 1 droombruiloften zal repeteren .
-VF[S]LK[V]MF[O]	aux-snp	1	3	Degas zal kunstwerken vernielen .
-VF[O]LK[V]MF[S]	aux-snp	3	1	Kunstwerken zal Degas vernielen .
-VF[ADV]LK[V]MF[SO]	aux-snp	3	4	Daarom zal Degas kunstwerken vernielen .
-LK[V]MF[SO]	aux-snp	2	3	Zal Degas kunstwerken vernielen ?
-MF[SO]VC[V]	aux-snp	2	3	Omdat Degas kunstwerken zal vernielen .
-VF[S]LK[V]MF[O]	aux-snp	1	4	Staf Coppens zal oplossingen verzinnen .
-VF[O]LK[V]MF[S]	aux-snp	3	1	Oplossingen zal Staf Coppens verzinnen .
-VF[ADV]LK[V]MF[SO]	aux-snp	3	5	Daarom zal Staf Coppens oplossingen verzinnen .
-LK[V]MF[SO]	aux-snp	2	4	Zal Staf Coppens oplossingen verzinnen ?
-MF[SO]VC[V]	aux-snp	2	4	Omdat Staf Coppens oplossingen zal verzinnen .
-VF[S]LK[V]MF[O]	aux-snp	1	3	Harry zal tijdschriften bestellen .
-VF[O]LK[V]MF[S]	aux-snp	3	1	Tijdschriften zal Harry bestellen .
-VF[ADV]LK[V]MF[SO]	aux-snp	3	4	Daarom zal Harry tijdschriften bestellen .
-LK[V]MF[SO]	aux-snp	2	3	Zal Harry tijdschriften bestellen ?
-MF[SO]VC[V]	aux-snp	2	3	Omdat Harry tijdschriften zal bestellen .
-VF[S]LK[V]MF[O]	aux-snp	1	3	Gillette zal baarden scheren .
-VF[O]LK[V]MF[S]	aux-snp	3	1	Baarden zal Gillette scheren .
-VF[ADV]LK[V]MF[SO]	aux-snp	3	4	Daarom zal Gillette baarden scheren .
-LK[V]MF[SO]	aux-snp	2	3	Zal Gillette baarden scheren ?
-MF[SO]VC[V]	aux-snp	2	3	Omdat Gillette baarden zal scheren .
-VF[S]LK[V]MF[O]	aux-snp	1	3	Clooney zal kopjes koffie drinken .
-VF[O]LK[V]MF[S]	aux-snp	4	1	Kopjes koffie zal Clooney drinken .
-VF[ADV]LK[V]MF[SO]	aux-snp	3	4	Daarom zal Clooney kopjes koffie drinken .
-LK[V]MF[SO]	aux-snp	2	3	Zal Clooney kopjes koffie drinken ?
-MF[SO]VC[V]	aux-snp	2	3	Omdat Clooney kopjes koffie zal drinken .
-VF[S]LK[V]MF[O]	aux-snp	1	4	Han Voskuil zal romans schrijven .
-VF[O]LK[V]MF[S]	aux-snp	3	1	Romans zal Han Voskuil schrijven .
-VF[ADV]LK[V]MF[SO]	aux-snp	3	5	Daarom zal Han Voskuil romans schrijven .
-LK[V]MF[SO]	aux-snp	2	4	Zal Han Voskuil romans schrijven ?
-MF[SO]VC[V]	aux-snp	2	4	Omdat Han Voskuil romans zal schrijven .
-VF[S]LK[V]MF[O]	aux-snp	1	3	Rutte zal onderhandelingen beginnen .
-VF[O]LK[V]MF[S]	aux-snp	3	1	Onderhandelingen zal Rutte beginnen .
-VF[ADV]LK[V]MF[SO]	aux-snp	3	4	Daarom zal Rutte onderhandelingen beginnen .
-LK[V]MF[SO]	aux-snp	2	3	Zal Rutte onderhandelingen beginnen ?
-MF[SO]VC[V]	aux-snp	2	3	Omdat Rutte onderhandelingen zal beginnen .
-VF[S]LK[V]MF[O]	aux-snp	1	3	Vietnam zal basissalarissen krijgen .
-VF[O]LK[V]MF[S]	aux-snp	3	1	Basissalarissen zal Vietnam krijgen .
-VF[ADV]LK[V]MF[SO]	aux-snp	3	4	Daarom zal Vietnam basissalarissen krijgen .
-LK[V]MF[SO]	aux-snp	2	3	Zal Vietnam basissalarissen krijgen ?
-MF[SO]VC[V]	aux-snp	2	3	Omdat Vietnam basissalarissen zal krijgen .
-VF[S]LK[V]MF[O]	aux-snp	1	3	Anouk zal hekken bouwen .
-VF[O]LK[V]MF[S]	aux-snp	3	1	Hekken zal Anouk bouwen .
-VF[ADV]LK[V]MF[SO]	aux-snp	3	4	Daarom zal Anouk hekken bouwen .
-LK[V]MF[SO]	aux-snp	2	3	Zal Anouk hekken bouwen ?
-MF[SO]VC[V]	aux-snp	2	3	Omdat Anouk hekken zal bouwen .
-VF[S]LK[V]MF[O]	aux-snp	1	3	Nijmegen zal toeren winnen .
-VF[O]LK[V]MF[S]	aux-snp	3	1	Toeren zal Nijmegen winnen .
-VF[ADV]LK[V]MF[SO]	aux-snp	3	4	Daarom zal Nijmegen toeren winnen .
-LK[V]MF[SO]	aux-snp	2	3	Zal Nijmegen toeren winnen ?
-MF[SO]VC[V]	aux-snp	2	3	Omdat Nijmegen toeren zal winnen .
-VF[S]LK[V]MF[O]	aux-snp	1	4	Essent NV zal constructies regelen .
-VF[O]LK[V]MF[S]	aux-snp	3	1	Constructies zal Essent NV regelen .
-VF[ADV]LK[V]MF[SO]	aux-snp	3	5	Daarom zal Essent NV constructies regelen .
-LK[V]MF[SO]	aux-snp	2	4	Zal Essent NV constructies regelen ?
-MF[SO]VC[V]	aux-snp	2	4	Omdat Essent NV constructies zal regelen .
-VF[S]LK[V]MF[O]	opron-snp	1	3	Balazs beleeft hen .
-VF[O]LK[V]MF[S]	opron-snp	3	1	Hen beleeft Balazs .
-VF[ADV]LK[V]MF[SO]	opron-snp	3	4	Daarom beleeft Balazs hen .
-LK[V]MF[SO]	opron-snp	2	3	Beleeft Balazs hen ?
-MF[SO]VC[V]	opron-snp	2	3	Omdat Balazs hen beleeft .
-VF[S]LK[V]MF[O]	opron-snp	1	3	Mercedes synchroniseert hen .
-VF[O]LK[V]MF[S]	opron-snp	3	1	Hen synchroniseert Mercedes .
-VF[ADV]LK[V]MF[SO]	opron-snp	3	4	Daarom synchroniseert Mercedes hen .
-LK[V]MF[SO]	opron-snp	2	3	Synchroniseert Mercedes hen ?
-MF[SO]VC[V]	opron-snp	2	3	Omdat Mercedes hen synchroniseert .
-VF[S]LK[V]MF[O]	opron-snp	1	3	Degas vernielt hen .
-VF[O]LK[V]MF[S]	opron-snp	3	1	Hen vernielt Degas .
-VF[ADV]LK[V]MF[SO]	opron-snp	3	4	Daarom vernielt Degas hen .
-LK[V]MF[SO]	opron-snp	2	3	Vernielt Degas hen ?
-MF[SO]VC[V]	opron-snp	2	3	Omdat Degas hen vernielt .
-VF[S]LK[V]MF[O]	opron-snp	1	4	Staf Coppens verzint hen .
-VF[O]LK[V]MF[S]	opron-snp	3	1	Hen verzint Staf Coppens .
-VF[ADV]LK[V]MF[SO]	opron-snp	3	5	Daarom verzint Staf Coppens hen .
-LK[V]MF[SO]	opron-snp	2	4	Verzint Staf Coppens hen ?
-MF[SO]VC[V]	opron-snp	2	4	Omdat Staf Coppens hen verzint .
-VF[S]LK[V]MF[O]	opron-snp	1	3	Harry bestelt hen .
-VF[O]LK[V]MF[S]	opron-snp	3	1	Hen bestelt Harry .
-VF[ADV]LK[V]MF[SO]	opron-snp	3	4	Daarom bestelt Harry hen .
-LK[V]MF[SO]	opron-snp	2	3	Bestelt Harry hen ?
-MF[SO]VC[V]	opron-snp	2	3	Omdat Harry hen bestelt .
-VF[S]LK[V]MF[O]	opron-snp	1	3	Gillette scheert hen .
-VF[O]LK[V]MF[S]	opron-snp	3	1	Hen scheert Gillette .
-VF[ADV]LK[V]MF[SO]	opron-snp	3	4	Daarom scheert Gillette hen .
-LK[V]MF[SO]	opron-snp	2	3	Scheert Gillette hen ?
-MF[SO]VC[V]	opron-snp	2	3	Omdat Gillette hen scheert .
-VF[S]LK[V]MF[O]	opron-snp	1	4	Han Voskuil schrijft hen .
-VF[O]LK[V]MF[S]	opron-snp	3	1	Hen schrijft Han Voskuil .
-VF[ADV]LK[V]MF[SO]	opron-snp	3	5	Daarom schrijft Han Voskuil hen .
-LK[V]MF[SO]	opron-snp	2	4	Schrijft Han Voskuil hen ?
-MF[SO]VC[V]	opron-snp	2	4	Omdat Han Voskuil hen schrijft .
-VF[S]LK[V]MF[O]	opron-snp	1	3	Vietnam krijgt hen .
-VF[O]LK[V]MF[S]	opron-snp	3	1	Hen krijgt Vietnam .
-VF[ADV]LK[V]MF[SO]	opron-snp	3	4	Daarom krijgt Vietnam hen .
-LK[V]MF[SO]	opron-snp	2	3	Krijgt Vietnam hen ?
-MF[SO]VC[V]	opron-snp	2	3	Omdat Vietnam hen krijgt .
-VF[S]LK[V]MF[O]	opron-snp	1	3	Nijmegen wint hem .
-VF[O]LK[V]MF[S]	opron-snp	3	1	Hem wint Nijmegen .
-VF[ADV]LK[V]MF[SO]	opron-snp	3	4	Daarom wint Nijmegen hem .
-LK[V]MF[SO]	opron-snp	2	3	Wint Nijmegen hem ?
-MF[SO]VC[V]	opron-snp	2	3	Omdat Nijmegen hem wint .
-VF[S]LK[V]MF[O]	oneg-snp	1	4	AkzoNobel plant geen aanvallen .
-VF[O]LK[V]MF[S]	oneg-snp	4	2	Geen aanvallen plant AkzoNobel .
-VF[ADV]LK[V]MF[SO]	oneg-snp	3	5	Daarom plant AkzoNobel geen aanvallen .
-LK[V]MF[SO]	oneg-snp	2	4	Plant AkzoNobel geen aanvallen ?
-MF[SO]VC[V]	oneg-snp	2	4	Omdat AkzoNobel geen aanvallen plant .
-VF[S]LK[V]MF[O]	oneg-snp	1	4	Balazs leeft geen dubbellevens .
-VF[O]LK[V]MF[S]	oneg-snp	4	2	Geen dubbellevens leeft Balazs .
-VF[ADV]LK[V]MF[SO]	oneg-snp	3	5	Daarom leeft Balazs geen dubbellevens .
-LK[V]MF[SO]	oneg-snp	2	4	Leeft Balazs geen dubbellevens ?
-MF[SO]VC[V]	oneg-snp	2	4	Omdat Balazs geen dubbellevens leeft .
-VF[S]LK[V]MF[O]	oneg-snp	1	4	Mercedes synchroniseert geen opnames .
-VF[O]LK[V]MF[S]	oneg-snp	4	2	Geen opnames synchroniseert Mercedes .
-VF[ADV]LK[V]MF[SO]	oneg-snp	3	5	Daarom synchroniseert Mercedes geen opnames .
-LK[V]MF[SO]	oneg-snp	2	4	Synchroniseert Mercedes geen opnames ?
-MF[SO]VC[V]	oneg-snp	2	4	Omdat Mercedes geen opnames synchroniseert .
-VF[S]LK[V]MF[O]	oneg-snp	1	5	NPO 1 repeteert geen droombruiloften .
-VF[O]LK[V]MF[S]	oneg-snp	4	2	Geen droombruiloften repeteert NPO 1 .
-VF[ADV]LK[V]MF[SO]	oneg-snp	3	6	Daarom repeteert NPO 1 geen droombruiloften .
-LK[V]MF[SO]	oneg-snp	2	5	Repeteert NPO 1 geen droombruiloften ?
-MF[SO]VC[V]	oneg-snp	2	5	Omdat NPO 1 geen droombruiloften repeteert .
-VF[S]LK[V]MF[O]	oneg-snp	1	4	Degas vernielt geen kunstwerken .
-VF[O]LK[V]MF[S]	oneg-snp	4	2	Geen kunstwerken vernielt Degas .
-VF[ADV]LK[V]MF[SO]	oneg-snp	3	5	Daarom vernielt Degas geen kunstwerken .
-LK[V]MF[SO]	oneg-snp	2	4	Vernielt Degas geen kunstwerken ?
-MF[SO]VC[V]	oneg-snp	2	4	Omdat Degas geen kunstwerken vernielt .
-VF[S]LK[V]MF[O]	oneg-snp	1	5	Staf Coppens verzint geen oplossingen .
-VF[O]LK[V]MF[S]	oneg-snp	4	2	Geen oplossingen verzint Staf Coppens .
-VF[ADV]LK[V]MF[SO]	oneg-snp	3	6	Daarom verzint Staf Coppens geen oplossingen .
-LK[V]MF[SO]	oneg-snp	2	5	Verzint Staf Coppens geen oplossingen ?
-MF[SO]VC[V]	oneg-snp	2	5	Omdat Staf Coppens geen oplossingen verzint .
-VF[S]LK[V]MF[O]	oneg-snp	1	4	Harry bestelt geen tijdschriften .
-VF[O]LK[V]MF[S]	oneg-snp	4	2	Geen tijdschriften bestelt Harry .
-VF[ADV]LK[V]MF[SO]	oneg-snp	3	5	Daarom bestelt Harry geen tijdschriften .
-LK[V]MF[SO]	oneg-snp	2	4	Bestelt Harry geen tijdschriften ?
-MF[SO]VC[V]	oneg-snp	2	4	Omdat Harry geen tijdschriften bestelt .
-VF[S]LK[V]MF[O]	oneg-snp	1	4	Gillette scheert geen baarden .
-VF[O]LK[V]MF[S]	oneg-snp	4	2	Geen baarden scheert Gillette .
-VF[ADV]LK[V]MF[SO]	oneg-snp	3	5	Daarom scheert Gillette geen baarden .
-LK[V]MF[SO]	oneg-snp	2	4	Scheert Gillette geen baarden ?
-MF[SO]VC[V]	oneg-snp	2	4	Omdat Gillette geen baarden scheert .
-VF[S]LK[V]MF[O]	oneg-snp	1	4	Clooney drinkt geen kopjes koffie .
-VF[O]LK[V]MF[S]	oneg-snp	5	2	Geen kopjes koffie drinkt Clooney .
-VF[ADV]LK[V]MF[SO]	oneg-snp	3	5	Daarom drinkt Clooney geen kopjes koffie .
-LK[V]MF[SO]	oneg-snp	2	4	Drinkt Clooney geen kopjes koffie ?
-MF[SO]VC[V]	oneg-snp	2	4	Omdat Clooney geen kopjes koffie drinkt .
-VF[S]LK[V]MF[O]	oneg-snp	1	5	Han Voskuil schrijft geen romans .
-VF[O]LK[V]MF[S]	oneg-snp	4	2	Geen romans schrijft Han Voskuil .
-VF[ADV]LK[V]MF[SO]	oneg-snp	3	6	Daarom schrijft Han Voskuil geen romans .
-LK[V]MF[SO]	oneg-snp	2	5	Schrijft Han Voskuil geen romans ?
-MF[SO]VC[V]	oneg-snp	2	5	Omdat Han Voskuil geen romans schrijft .
-VF[S]LK[V]MF[O]	oneg-snp	1	4	Rutte begint geen onderhandelingen .
-VF[O]LK[V]MF[S]	oneg-snp	4	2	Geen onderhandelingen begint Rutte .
-VF[ADV]LK[V]MF[SO]	oneg-snp	3	5	Daarom begint Rutte geen onderhandelingen .
-LK[V]MF[SO]	oneg-snp	2	4	Begint Rutte geen onderhandelingen ?
-MF[SO]VC[V]	oneg-snp	2	4	Omdat Rutte geen onderhandelingen begint .
-VF[S]LK[V]MF[O]	oneg-snp	1	4	Vietnam krijgt geen basissalarissen .
-VF[O]LK[V]MF[S]	oneg-snp	4	2	Geen basissalarissen krijgt Vietnam .
-VF[ADV]LK[V]MF[SO]	oneg-snp	3	5	Daarom krijgt Vietnam geen basissalarissen .
-LK[V]MF[SO]	oneg-snp	2	4	Krijgt Vietnam geen basissalarissen ?
-MF[SO]VC[V]	oneg-snp	2	4	Omdat Vietnam geen basissalarissen krijgt .
-VF[S]LK[V]MF[O]	oneg-snp	1	4	Anouk bouwt geen hekken .
-VF[O]LK[V]MF[S]	oneg-snp	4	2	Geen hekken bouwt Anouk .
-VF[ADV]LK[V]MF[SO]	oneg-snp	3	5	Daarom bouwt Anouk geen hekken .
-LK[V]MF[SO]	oneg-snp	2	4	Bouwt Anouk geen hekken ?
-MF[SO]VC[V]	oneg-snp	2	4	Omdat Anouk geen hekken bouwt .
-VF[S]LK[V]MF[O]	oneg-snp	1	4	Nijmegen wint geen toeren .
-VF[O]LK[V]MF[S]	oneg-snp	4	2	Geen toeren wint Nijmegen .
-VF[ADV]LK[V]MF[SO]	oneg-snp	3	5	Daarom wint Nijmegen geen toeren .
-LK[V]MF[SO]	oneg-snp	2	4	Wint Nijmegen geen toeren ?
-MF[SO]VC[V]	oneg-snp	2	4	Omdat Nijmegen geen toeren wint .
-VF[S]LK[V]MF[O]	oneg-snp	1	5	Essent NV regelt geen constructies .
-VF[O]LK[V]MF[S]	oneg-snp	4	2	Geen constructies regelt Essent NV .
-VF[ADV]LK[V]MF[SO]	oneg-snp	3	6	Daarom regelt Essent NV geen constructies .
-LK[V]MF[SO]	oneg-snp	2	5	Regelt Essent NV geen constructies ?
-MF[SO]VC[V]	oneg-snp	2	5	Omdat Essent NV geen constructies regelt .
-VF[S]LK[V]MF[O]	oan-snp	1	3	AkzoNobel benoemt opvolgers .
-VF[O]LK[V]MF[S]	oan-snp	3	1	Opvolgers benoemt AkzoNobel .
-VF[ADV]LK[V]MF[SO]	oan-snp	3	4	Daarom benoemt AkzoNobel opvolgers .
-LK[V]MF[SO]	oan-snp	2	3	Benoemt AkzoNobel opvolgers ?
-MF[SO]VC[V]	oan-snp	2	3	Omdat AkzoNobel opvolgers benoemt .
-VF[S]LK[V]MF[O]	oan-snp	1	3	Balazs interviewt ECB-bazinnen .
-VF[O]LK[V]MF[S]	oan-snp	3	1	ECB-bazinnen interviewt Balazs .
-VF[ADV]LK[V]MF[SO]	oan-snp	3	4	Daarom interviewt Balazs ECB-bazinnen .
-LK[V]MF[SO]	oan-snp	2	3	Interviewt Balazs ECB-bazinnen ?
-MF[SO]VC[V]	oan-snp	2	3	Omdat Balazs ECB-bazinnen interviewt .
-VF[S]LK[V]MF[O]	oan-snp	1	3	Harry voedt spinnen .
-VF[O]LK[V]MF[S]	oan-snp	3	1	Spinnen voedt Harry .
-VF[ADV]LK[V]MF[SO]	oan-snp	3	4	Daarom voedt Harry spinnen .
-LK[V]MF[SO]	oan-snp	2	3	Voedt Harry spinnen ?
-MF[SO]VC[V]	oan-snp	2	3	Omdat Harry spinnen voedt .
-VF[S]LK[V]MF[O]	oan-snp	1	4	Han Voskuil bedient gasten .
-VF[O]LK[V]MF[S]	oan-snp	3	1	Gasten bedient Han Voskuil .
-VF[ADV]LK[V]MF[SO]	oan-snp	3	5	Daarom bedient Han Voskuil gasten .
-LK[V]MF[SO]	oan-snp	2	4	Bedient Han Voskuil gasten ?
-MF[SO]VC[V]	oan-snp	2	4	Omdat Han Voskuil gasten bedient .
-VF[S]LK[V]MF[O]	oan-snp	1	4	NPO 1 accepteert sollicitanten .
-VF[O]LK[V]MF[S]	oan-snp	3	1	Sollicitanten accepteert NPO 1 .
-VF[ADV]LK[V]MF[SO]	oan-snp	3	5	Daarom accepteert NPO 1 sollicitanten .
-LK[V]MF[SO]	oan-snp	2	4	Accepteert NPO 1 sollicitanten ?
-MF[SO]VC[V]	oan-snp	2	4	Omdat NPO 1 sollicitanten accepteert .
-VF[S]LK[V]MF[O]	oan-snp	1	4	Staf Coppens imiteert jazzpianisten .
-VF[O]LK[V]MF[S]	oan-snp	3	1	Jazzpianisten imiteert Staf Coppens .
-VF[ADV]LK[V]MF[SO]	oan-snp	3	5	Daarom imiteert Staf Coppens jazzpianisten .
-LK[V]MF[SO]	oan-snp	2	4	Imiteert Staf Coppens jazzpianisten ?
-MF[SO]VC[V]	oan-snp	2	4	Omdat Staf Coppens jazzpianisten imiteert .
-VF[S]LK[V]MF[O]	oan-snp	1	3	Mercedes huurt verdelgers .
-VF[O]LK[V]MF[S]	oan-snp	3	1	Verdelgers huurt Mercedes .
-VF[ADV]LK[V]MF[SO]	oan-snp	3	4	Daarom huurt Mercedes verdelgers .
-LK[V]MF[SO]	oan-snp	2	3	Huurt Mercedes verdelgers ?
-MF[SO]VC[V]	oan-snp	2	3	Omdat Mercedes verdelgers huurt .
-VF[S]LK[V]MF[O]	oan-snp	1	3	Clooney babysit kinderen .
-VF[O]LK[V]MF[S]	oan-snp	3	1	Kinderen babysit Clooney .
-VF[ADV]LK[V]MF[SO]	oan-snp	3	4	Daarom babysit Clooney kinderen .
-LK[V]MF[SO]	oan-snp	2	3	Babysit Clooney kinderen ?
-MF[SO]VC[V]	oan-snp	2	3	Omdat Clooney kinderen babysit .
-VF[S]LK[V]MF[O]	oan-snp	1	3	Rutte dirigeert orkestmuzikanten .
-VF[O]LK[V]MF[S]	oan-snp	3	1	Orkestmuzikanten dirigeert Rutte .
-VF[ADV]LK[V]MF[SO]	oan-snp	3	4	Daarom dirigeert Rutte orkestmuzikanten .
-LK[V]MF[SO]	oan-snp	2	3	Dirigeert Rutte orkestmuzikanten ?
-MF[SO]VC[V]	oan-snp	2	3	Omdat Rutte orkestmuzikanten dirigeert .
-VF[S]LK[V]MF[O]	oan-snp	1	3	Anouk fotografeert modellen .
-VF[O]LK[V]MF[S]	oan-snp	3	1	Modellen fotografeert Anouk .
-VF[ADV]LK[V]MF[SO]	oan-snp	3	4	Daarom fotografeert Anouk modellen .
-LK[V]MF[SO]	oan-snp	2	3	Fotografeert Anouk modellen ?
-MF[SO]VC[V]	oan-snp	2	3	Omdat Anouk modellen fotografeert .
-VF[S]LK[V]MF[O]	oan-snp	1	4	Essent NV begeleidt cursisten .
-VF[O]LK[V]MF[S]	oan-snp	3	1	Cursisten begeleidt Essent NV .
-VF[ADV]LK[V]MF[SO]	oan-snp	3	5	Daarom begeleidt Essent NV cursisten .
-LK[V]MF[SO]	oan-snp	2	4	Begeleidt Essent NV cursisten ?
-MF[SO]VC[V]	oan-snp	2	4	Omdat Essent NV cursisten begeleidt .
-VF[S]LK[V]MF[O]	oan-snp	1	3	Degas adviseert leerlingen .
-VF[O]LK[V]MF[S]	oan-snp	3	1	Leerlingen adviseert Degas .
-VF[ADV]LK[V]MF[SO]	oan-snp	3	4	Daarom adviseert Degas leerlingen .
-LK[V]MF[SO]	oan-snp	2	3	Adviseert Degas leerlingen ?
-MF[SO]VC[V]	oan-snp	2	3	Omdat Degas leerlingen adviseert .
-VF[S]LK[V]MF[O]	oan-snp	1	3	Nijmegen eist tolken .
-VF[O]LK[V]MF[S]	oan-snp	3	1	Tolken eist Nijmegen .
-VF[ADV]LK[V]MF[SO]	oan-snp	3	4	Daarom eist Nijmegen tolken .
-LK[V]MF[SO]	oan-snp	2	3	Eist Nijmegen tolken ?
-MF[SO]VC[V]	oan-snp	2	3	Omdat Nijmegen tolken eist .
-VF[S]LK[V]MF[O]	oan-snp	1	3	Vietnam bevrijdt slachtoffers .
-VF[O]LK[V]MF[S]	oan-snp	3	1	Slachtoffers bevrijdt Vietnam .
-VF[ADV]LK[V]MF[SO]	oan-snp	3	4	Daarom bevrijdt Vietnam slachtoffers .
-LK[V]MF[SO]	oan-snp	2	3	Bevrijdt Vietnam slachtoffers ?
-MF[SO]VC[V]	oan-snp	2	3	Omdat Vietnam slachtoffers bevrijdt .
+VF[S]LK[V]MF[O]	base-sname	1	3	AkzoNobel plant aanvallen .
+VF[O]LK[V]MF[S]	base-sname	3	1	Aanvallen plant AkzoNobel .
+VF[ADV]LK[V]MF[SO]	base-sname	3	4	Daarom plant AkzoNobel aanvallen .
+LK[V]MF[SO]	base-sname	2	3	Plant AkzoNobel aanvallen ?
+MF[SO]VC[V]	base-sname	2	3	Omdat AkzoNobel aanvallen plant .
+VF[S]LK[V]MF[O]	base-sname	1	3	Balazs leeft dubbellevens .
+VF[O]LK[V]MF[S]	base-sname	3	1	Dubbellevens leeft Balazs .
+VF[ADV]LK[V]MF[SO]	base-sname	3	4	Daarom leeft Balazs dubbellevens .
+LK[V]MF[SO]	base-sname	2	3	Leeft Balazs dubbellevens ?
+MF[SO]VC[V]	base-sname	2	3	Omdat Balazs dubbellevens leeft .
+VF[S]LK[V]MF[O]	base-sname	1	3	Mercedes synchroniseert opnames .
+VF[O]LK[V]MF[S]	base-sname	3	1	Opnames synchroniseert Mercedes .
+VF[ADV]LK[V]MF[SO]	base-sname	3	4	Daarom synchroniseert Mercedes opnames .
+LK[V]MF[SO]	base-sname	2	3	Synchroniseert Mercedes opnames ?
+MF[SO]VC[V]	base-sname	2	3	Omdat Mercedes opnames synchroniseert .
+VF[S]LK[V]MF[O]	base-sname	1	4	NPO 1 repeteert droombruiloften .
+VF[O]LK[V]MF[S]	base-sname	3	1	Droombruiloften repeteert NPO 1 .
+VF[ADV]LK[V]MF[SO]	base-sname	3	5	Daarom repeteert NPO 1 droombruiloften .
+LK[V]MF[SO]	base-sname	2	4	Repeteert NPO 1 droombruiloften ?
+MF[SO]VC[V]	base-sname	2	4	Omdat NPO 1 droombruiloften repeteert .
+VF[S]LK[V]MF[O]	base-sname	1	3	Degas vernielt kunstwerken .
+VF[O]LK[V]MF[S]	base-sname	3	1	Kunstwerken vernielt Degas .
+VF[ADV]LK[V]MF[SO]	base-sname	3	4	Daarom vernielt Degas kunstwerken .
+LK[V]MF[SO]	base-sname	2	3	Vernielt Degas kunstwerken ?
+MF[SO]VC[V]	base-sname	2	3	Omdat Degas kunstwerken vernielt .
+VF[S]LK[V]MF[O]	base-sname	1	4	Staf Coppens verzint oplossingen .
+VF[O]LK[V]MF[S]	base-sname	3	1	Oplossingen verzint Staf Coppens .
+VF[ADV]LK[V]MF[SO]	base-sname	3	5	Daarom verzint Staf Coppens oplossingen .
+LK[V]MF[SO]	base-sname	2	4	Verzint Staf Coppens oplossingen ?
+MF[SO]VC[V]	base-sname	2	4	Omdat Staf Coppens oplossingen verzint .
+VF[S]LK[V]MF[O]	base-sname	1	3	Harry bestelt tijdschriften .
+VF[O]LK[V]MF[S]	base-sname	3	1	Tijdschriften bestelt Harry .
+VF[ADV]LK[V]MF[SO]	base-sname	3	4	Daarom bestelt Harry tijdschriften .
+LK[V]MF[SO]	base-sname	2	3	Bestelt Harry tijdschriften ?
+MF[SO]VC[V]	base-sname	2	3	Omdat Harry tijdschriften bestelt .
+VF[S]LK[V]MF[O]	base-sname	1	3	Gillette scheert baarden .
+VF[O]LK[V]MF[S]	base-sname	3	1	Baarden scheert Gillette .
+VF[ADV]LK[V]MF[SO]	base-sname	3	4	Daarom scheert Gillette baarden .
+LK[V]MF[SO]	base-sname	2	3	Scheert Gillette baarden ?
+MF[SO]VC[V]	base-sname	2	3	Omdat Gillette baarden scheert .
+VF[S]LK[V]MF[O]	base-sname	1	3	Clooney drinkt kopjes koffie .
+VF[O]LK[V]MF[S]	base-sname	4	1	Kopjes koffie drinkt Clooney .
+VF[ADV]LK[V]MF[SO]	base-sname	3	4	Daarom drinkt Clooney kopjes koffie .
+LK[V]MF[SO]	base-sname	2	3	Drinkt Clooney kopjes koffie ?
+MF[SO]VC[V]	base-sname	2	3	Omdat Clooney kopjes koffie drinkt .
+VF[S]LK[V]MF[O]	base-sname	1	4	Han Voskuil schrijft romans .
+VF[O]LK[V]MF[S]	base-sname	3	1	Romans schrijft Han Voskuil .
+VF[ADV]LK[V]MF[SO]	base-sname	3	5	Daarom schrijft Han Voskuil romans .
+LK[V]MF[SO]	base-sname	2	4	Schrijft Han Voskuil romans ?
+MF[SO]VC[V]	base-sname	2	4	Omdat Han Voskuil romans schrijft .
+VF[S]LK[V]MF[O]	base-sname	1	3	Rutte begint onderhandelingen .
+VF[O]LK[V]MF[S]	base-sname	3	1	Onderhandelingen begint Rutte .
+VF[ADV]LK[V]MF[SO]	base-sname	3	4	Daarom begint Rutte onderhandelingen .
+LK[V]MF[SO]	base-sname	2	3	Begint Rutte onderhandelingen ?
+MF[SO]VC[V]	base-sname	2	3	Omdat Rutte onderhandelingen begint .
+VF[S]LK[V]MF[O]	base-sname	1	3	Vietnam krijgt basissalarissen .
+VF[O]LK[V]MF[S]	base-sname	3	1	Basissalarissen krijgt Vietnam .
+VF[ADV]LK[V]MF[SO]	base-sname	3	4	Daarom krijgt Vietnam basissalarissen .
+LK[V]MF[SO]	base-sname	2	3	Krijgt Vietnam basissalarissen ?
+MF[SO]VC[V]	base-sname	2	3	Omdat Vietnam basissalarissen krijgt .
+VF[S]LK[V]MF[O]	base-sname	1	3	Anouk bouwt hekken .
+VF[O]LK[V]MF[S]	base-sname	3	1	Hekken bouwt Anouk .
+VF[ADV]LK[V]MF[SO]	base-sname	3	4	Daarom bouwt Anouk hekken .
+LK[V]MF[SO]	base-sname	2	3	Bouwt Anouk hekken ?
+MF[SO]VC[V]	base-sname	2	3	Omdat Anouk hekken bouwt .
+VF[S]LK[V]MF[O]	base-sname	1	3	Nijmegen wint toeren .
+VF[O]LK[V]MF[S]	base-sname	3	1	Toeren wint Nijmegen .
+VF[ADV]LK[V]MF[SO]	base-sname	3	4	Daarom wint Nijmegen toeren .
+LK[V]MF[SO]	base-sname	2	3	Wint Nijmegen toeren ?
+MF[SO]VC[V]	base-sname	2	3	Omdat Nijmegen toeren wint .
+VF[S]LK[V]MF[O]	base-sname	1	4	Essent NV regelt constructies .
+VF[O]LK[V]MF[S]	base-sname	3	1	Constructies regelt Essent NV .
+VF[ADV]LK[V]MF[SO]	base-sname	3	5	Daarom regelt Essent NV constructies .
+LK[V]MF[SO]	base-sname	2	4	Regelt Essent NV constructies ?
+MF[SO]VC[V]	base-sname	2	4	Omdat Essent NV constructies regelt .
+VF[S]LK[V]MF[O]	amb-sname	1	4	AkzoNobel plant een aanval .
+VF[O]LK[V]MF[S]	amb-sname	4	2	Een aanval plant AkzoNobel .
+VF[ADV]LK[V]MF[SO]	amb-sname	3	5	Daarom plant AkzoNobel een aanval .
+LK[V]MF[SO]	amb-sname	2	4	Plant AkzoNobel een aanval ?
+MF[SO]VC[V]	amb-sname	2	4	Omdat AkzoNobel een aanval plant .
+VF[S]LK[V]MF[O]	amb-sname	1	4	Balazs leeft een dubbelleven .
+VF[O]LK[V]MF[S]	amb-sname	4	2	Een dubbelleven leeft Balazs .
+VF[ADV]LK[V]MF[SO]	amb-sname	3	5	Daarom leeft Balazs een dubbelleven .
+LK[V]MF[SO]	amb-sname	2	4	Leeft Balazs een dubbelleven ?
+MF[SO]VC[V]	amb-sname	2	4	Omdat Balazs een dubbelleven leeft .
+VF[S]LK[V]MF[O]	amb-sname	1	4	Mercedes synchroniseert een opname .
+VF[O]LK[V]MF[S]	amb-sname	4	2	Een opname synchroniseert Mercedes .
+VF[ADV]LK[V]MF[SO]	amb-sname	3	5	Daarom synchroniseert Mercedes een opname .
+LK[V]MF[SO]	amb-sname	2	4	Synchroniseert Mercedes een opname ?
+MF[SO]VC[V]	amb-sname	2	4	Omdat Mercedes een opname synchroniseert .
+VF[S]LK[V]MF[O]	amb-sname	1	5	NPO 1 repeteert een droombruiloft .
+VF[O]LK[V]MF[S]	amb-sname	4	2	Een droombruiloft repeteert NPO 1 .
+VF[ADV]LK[V]MF[SO]	amb-sname	3	6	Daarom repeteert NPO 1 een droombruiloft .
+LK[V]MF[SO]	amb-sname	2	5	Repeteert NPO 1 een droombruiloft ?
+MF[SO]VC[V]	amb-sname	2	5	Omdat NPO 1 een droombruiloft repeteert .
+VF[S]LK[V]MF[O]	amb-sname	1	4	Degas vernielt een kunstwerk .
+VF[O]LK[V]MF[S]	amb-sname	4	2	Een kunstwerk vernielt Degas .
+VF[ADV]LK[V]MF[SO]	amb-sname	3	5	Daarom vernielt Degas een kunstwerk .
+LK[V]MF[SO]	amb-sname	2	4	Vernielt Degas een kunstwerk ?
+MF[SO]VC[V]	amb-sname	2	4	Omdat Degas een kunstwerk vernielt .
+VF[S]LK[V]MF[O]	amb-sname	1	5	Staf Coppens verzint een oplossing .
+VF[O]LK[V]MF[S]	amb-sname	4	2	Een oplossing verzint Staf Coppens .
+VF[ADV]LK[V]MF[SO]	amb-sname	3	6	Daarom verzint Staf Coppens een oplossing .
+LK[V]MF[SO]	amb-sname	2	5	Verzint Staf Coppens een oplossing ?
+MF[SO]VC[V]	amb-sname	2	5	Omdat Staf Coppens een oplossing verzint .
+VF[S]LK[V]MF[O]	amb-sname	1	4	Harry bestelt een tijdschrift .
+VF[O]LK[V]MF[S]	amb-sname	4	2	Een tijdschrift bestelt Harry .
+VF[ADV]LK[V]MF[SO]	amb-sname	3	5	Daarom bestelt Harry een tijdschrift .
+LK[V]MF[SO]	amb-sname	2	4	Bestelt Harry een tijdschrift ?
+MF[SO]VC[V]	amb-sname	2	4	Omdat Harry een tijdschrift bestelt .
+VF[S]LK[V]MF[O]	amb-sname	1	4	Gillette scheert een baard .
+VF[O]LK[V]MF[S]	amb-sname	4	2	Een baard scheert Gillette .
+VF[ADV]LK[V]MF[SO]	amb-sname	3	5	Daarom scheert Gillette een baard .
+LK[V]MF[SO]	amb-sname	2	4	Scheert Gillette een baard ?
+MF[SO]VC[V]	amb-sname	2	4	Omdat Gillette een baard scheert .
+VF[S]LK[V]MF[O]	amb-sname	1	4	Clooney drinkt een kopje koffie .
+VF[O]LK[V]MF[S]	amb-sname	5	2	Een kopje koffie drinkt Clooney .
+VF[ADV]LK[V]MF[SO]	amb-sname	3	5	Daarom drinkt Clooney een kopje koffie .
+LK[V]MF[SO]	amb-sname	2	4	Drinkt Clooney een kopje koffie ?
+MF[SO]VC[V]	amb-sname	2	4	Omdat Clooney een kopje koffie drinkt .
+VF[S]LK[V]MF[O]	amb-sname	1	5	Han Voskuil schrijft een roman .
+VF[O]LK[V]MF[S]	amb-sname	4	2	Een roman schrijft Han Voskuil .
+VF[ADV]LK[V]MF[SO]	amb-sname	3	6	Daarom schrijft Han Voskuil een roman .
+LK[V]MF[SO]	amb-sname	2	5	Schrijft Han Voskuil een roman ?
+MF[SO]VC[V]	amb-sname	2	5	Omdat Han Voskuil een roman schrijft .
+VF[S]LK[V]MF[O]	amb-sname	1	4	Rutte begint een onderhandeling .
+VF[O]LK[V]MF[S]	amb-sname	4	2	Een onderhandeling begint Rutte .
+VF[ADV]LK[V]MF[SO]	amb-sname	3	5	Daarom begint Rutte een onderhandeling .
+LK[V]MF[SO]	amb-sname	2	4	Begint Rutte een onderhandeling ?
+MF[SO]VC[V]	amb-sname	2	4	Omdat Rutte een onderhandeling begint .
+VF[S]LK[V]MF[O]	amb-sname	1	4	Vietnam krijgt een basissalaris .
+VF[O]LK[V]MF[S]	amb-sname	4	2	Een basissalaris krijgt Vietnam .
+VF[ADV]LK[V]MF[SO]	amb-sname	3	5	Daarom krijgt Vietnam een basissalaris .
+LK[V]MF[SO]	amb-sname	2	4	Krijgt Vietnam een basissalaris ?
+MF[SO]VC[V]	amb-sname	2	4	Omdat Vietnam een basissalaris krijgt .
+VF[S]LK[V]MF[O]	amb-sname	1	4	Anouk bouwt een hek .
+VF[O]LK[V]MF[S]	amb-sname	4	2	Een hek bouwt Anouk .
+VF[ADV]LK[V]MF[SO]	amb-sname	3	5	Daarom bouwt Anouk een hek .
+LK[V]MF[SO]	amb-sname	2	4	Bouwt Anouk een hek ?
+MF[SO]VC[V]	amb-sname	2	4	Omdat Anouk een hek bouwt .
+VF[S]LK[V]MF[O]	amb-sname	1	4	Nijmegen wint een toer .
+VF[O]LK[V]MF[S]	amb-sname	4	2	Een toer wint Nijmegen .
+VF[ADV]LK[V]MF[SO]	amb-sname	3	5	Daarom wint Nijmegen een toer .
+LK[V]MF[SO]	amb-sname	2	4	Wint Nijmegen een toer ?
+MF[SO]VC[V]	amb-sname	2	4	Omdat Nijmegen een toer wint .
+VF[S]LK[V]MF[O]	amb-sname	1	5	Essent NV regelt een constructie .
+VF[O]LK[V]MF[S]	amb-sname	4	2	Een constructie regelt Essent NV .
+VF[ADV]LK[V]MF[SO]	amb-sname	3	6	Daarom regelt Essent NV een constructie .
+LK[V]MF[SO]	amb-sname	2	5	Regelt Essent NV een constructie ?
+MF[SO]VC[V]	amb-sname	2	5	Omdat Essent NV een constructie regelt .
+VF[S]LK[V]MF[O]	aux-sname	1	3	AkzoNobel zal aanvallen plannen .
+VF[O]LK[V]MF[S]	aux-sname	3	1	Aanvallen zal AkzoNobel plannen .
+VF[ADV]LK[V]MF[SO]	aux-sname	3	4	Daarom zal AkzoNobel aanvallen plannen .
+LK[V]MF[SO]	aux-sname	2	3	Zal AkzoNobel aanvallen plannen ?
+MF[SO]VC[V]	aux-sname	2	3	Omdat AkzoNobel aanvallen zal plannen .
+VF[S]LK[V]MF[O]	aux-sname	1	3	Balazs zal dubbellevens leven .
+VF[O]LK[V]MF[S]	aux-sname	3	1	Dubbellevens zal Balazs leven .
+VF[ADV]LK[V]MF[SO]	aux-sname	3	4	Daarom zal Balazs dubbellevens leven .
+LK[V]MF[SO]	aux-sname	2	3	Zal Balazs dubbellevens leven ?
+MF[SO]VC[V]	aux-sname	2	3	Omdat Balazs dubbellevens zal leven .
+VF[S]LK[V]MF[O]	aux-sname	1	3	Mercedes zal opnames synchroniseren .
+VF[O]LK[V]MF[S]	aux-sname	3	1	Opnames zal Mercedes synchroniseren .
+VF[ADV]LK[V]MF[SO]	aux-sname	3	4	Daarom zal Mercedes opnames synchroniseren .
+LK[V]MF[SO]	aux-sname	2	3	Zal Mercedes opnames synchroniseren ?
+MF[SO]VC[V]	aux-sname	2	3	Omdat Mercedes opnames zal synchroniseren .
+VF[S]LK[V]MF[O]	aux-sname	1	4	NPO 1 zal droombruiloften repeteren .
+VF[O]LK[V]MF[S]	aux-sname	3	1	Droombruiloften zal NPO 1 repeteren .
+VF[ADV]LK[V]MF[SO]	aux-sname	3	5	Daarom zal NPO 1 droombruiloften repeteren .
+LK[V]MF[SO]	aux-sname	2	4	Zal NPO 1 droombruiloften repeteren ?
+MF[SO]VC[V]	aux-sname	2	4	Omdat NPO 1 droombruiloften zal repeteren .
+VF[S]LK[V]MF[O]	aux-sname	1	3	Degas zal kunstwerken vernielen .
+VF[O]LK[V]MF[S]	aux-sname	3	1	Kunstwerken zal Degas vernielen .
+VF[ADV]LK[V]MF[SO]	aux-sname	3	4	Daarom zal Degas kunstwerken vernielen .
+LK[V]MF[SO]	aux-sname	2	3	Zal Degas kunstwerken vernielen ?
+MF[SO]VC[V]	aux-sname	2	3	Omdat Degas kunstwerken zal vernielen .
+VF[S]LK[V]MF[O]	aux-sname	1	4	Staf Coppens zal oplossingen verzinnen .
+VF[O]LK[V]MF[S]	aux-sname	3	1	Oplossingen zal Staf Coppens verzinnen .
+VF[ADV]LK[V]MF[SO]	aux-sname	3	5	Daarom zal Staf Coppens oplossingen verzinnen .
+LK[V]MF[SO]	aux-sname	2	4	Zal Staf Coppens oplossingen verzinnen ?
+MF[SO]VC[V]	aux-sname	2	4	Omdat Staf Coppens oplossingen zal verzinnen .
+VF[S]LK[V]MF[O]	aux-sname	1	3	Harry zal tijdschriften bestellen .
+VF[O]LK[V]MF[S]	aux-sname	3	1	Tijdschriften zal Harry bestellen .
+VF[ADV]LK[V]MF[SO]	aux-sname	3	4	Daarom zal Harry tijdschriften bestellen .
+LK[V]MF[SO]	aux-sname	2	3	Zal Harry tijdschriften bestellen ?
+MF[SO]VC[V]	aux-sname	2	3	Omdat Harry tijdschriften zal bestellen .
+VF[S]LK[V]MF[O]	aux-sname	1	3	Gillette zal baarden scheren .
+VF[O]LK[V]MF[S]	aux-sname	3	1	Baarden zal Gillette scheren .
+VF[ADV]LK[V]MF[SO]	aux-sname	3	4	Daarom zal Gillette baarden scheren .
+LK[V]MF[SO]	aux-sname	2	3	Zal Gillette baarden scheren ?
+MF[SO]VC[V]	aux-sname	2	3	Omdat Gillette baarden zal scheren .
+VF[S]LK[V]MF[O]	aux-sname	1	3	Clooney zal kopjes koffie drinken .
+VF[O]LK[V]MF[S]	aux-sname	4	1	Kopjes koffie zal Clooney drinken .
+VF[ADV]LK[V]MF[SO]	aux-sname	3	4	Daarom zal Clooney kopjes koffie drinken .
+LK[V]MF[SO]	aux-sname	2	3	Zal Clooney kopjes koffie drinken ?
+MF[SO]VC[V]	aux-sname	2	3	Omdat Clooney kopjes koffie zal drinken .
+VF[S]LK[V]MF[O]	aux-sname	1	4	Han Voskuil zal romans schrijven .
+VF[O]LK[V]MF[S]	aux-sname	3	1	Romans zal Han Voskuil schrijven .
+VF[ADV]LK[V]MF[SO]	aux-sname	3	5	Daarom zal Han Voskuil romans schrijven .
+LK[V]MF[SO]	aux-sname	2	4	Zal Han Voskuil romans schrijven ?
+MF[SO]VC[V]	aux-sname	2	4	Omdat Han Voskuil romans zal schrijven .
+VF[S]LK[V]MF[O]	aux-sname	1	3	Rutte zal onderhandelingen beginnen .
+VF[O]LK[V]MF[S]	aux-sname	3	1	Onderhandelingen zal Rutte beginnen .
+VF[ADV]LK[V]MF[SO]	aux-sname	3	4	Daarom zal Rutte onderhandelingen beginnen .
+LK[V]MF[SO]	aux-sname	2	3	Zal Rutte onderhandelingen beginnen ?
+MF[SO]VC[V]	aux-sname	2	3	Omdat Rutte onderhandelingen zal beginnen .
+VF[S]LK[V]MF[O]	aux-sname	1	3	Vietnam zal basissalarissen krijgen .
+VF[O]LK[V]MF[S]	aux-sname	3	1	Basissalarissen zal Vietnam krijgen .
+VF[ADV]LK[V]MF[SO]	aux-sname	3	4	Daarom zal Vietnam basissalarissen krijgen .
+LK[V]MF[SO]	aux-sname	2	3	Zal Vietnam basissalarissen krijgen ?
+MF[SO]VC[V]	aux-sname	2	3	Omdat Vietnam basissalarissen zal krijgen .
+VF[S]LK[V]MF[O]	aux-sname	1	3	Anouk zal hekken bouwen .
+VF[O]LK[V]MF[S]	aux-sname	3	1	Hekken zal Anouk bouwen .
+VF[ADV]LK[V]MF[SO]	aux-sname	3	4	Daarom zal Anouk hekken bouwen .
+LK[V]MF[SO]	aux-sname	2	3	Zal Anouk hekken bouwen ?
+MF[SO]VC[V]	aux-sname	2	3	Omdat Anouk hekken zal bouwen .
+VF[S]LK[V]MF[O]	aux-sname	1	3	Nijmegen zal toeren winnen .
+VF[O]LK[V]MF[S]	aux-sname	3	1	Toeren zal Nijmegen winnen .
+VF[ADV]LK[V]MF[SO]	aux-sname	3	4	Daarom zal Nijmegen toeren winnen .
+LK[V]MF[SO]	aux-sname	2	3	Zal Nijmegen toeren winnen ?
+MF[SO]VC[V]	aux-sname	2	3	Omdat Nijmegen toeren zal winnen .
+VF[S]LK[V]MF[O]	aux-sname	1	4	Essent NV zal constructies regelen .
+VF[O]LK[V]MF[S]	aux-sname	3	1	Constructies zal Essent NV regelen .
+VF[ADV]LK[V]MF[SO]	aux-sname	3	5	Daarom zal Essent NV constructies regelen .
+LK[V]MF[SO]	aux-sname	2	4	Zal Essent NV constructies regelen ?
+MF[SO]VC[V]	aux-sname	2	4	Omdat Essent NV constructies zal regelen .
+VF[S]LK[V]MF[O]	opron-sname	1	3	Balazs beleeft hen .
+VF[O]LK[V]MF[S]	opron-sname	3	1	Hen beleeft Balazs .
+VF[ADV]LK[V]MF[SO]	opron-sname	3	4	Daarom beleeft Balazs hen .
+LK[V]MF[SO]	opron-sname	2	3	Beleeft Balazs hen ?
+MF[SO]VC[V]	opron-sname	2	3	Omdat Balazs hen beleeft .
+VF[S]LK[V]MF[O]	opron-sname	1	3	Mercedes synchroniseert hen .
+VF[O]LK[V]MF[S]	opron-sname	3	1	Hen synchroniseert Mercedes .
+VF[ADV]LK[V]MF[SO]	opron-sname	3	4	Daarom synchroniseert Mercedes hen .
+LK[V]MF[SO]	opron-sname	2	3	Synchroniseert Mercedes hen ?
+MF[SO]VC[V]	opron-sname	2	3	Omdat Mercedes hen synchroniseert .
+VF[S]LK[V]MF[O]	opron-sname	1	3	Degas vernielt hen .
+VF[O]LK[V]MF[S]	opron-sname	3	1	Hen vernielt Degas .
+VF[ADV]LK[V]MF[SO]	opron-sname	3	4	Daarom vernielt Degas hen .
+LK[V]MF[SO]	opron-sname	2	3	Vernielt Degas hen ?
+MF[SO]VC[V]	opron-sname	2	3	Omdat Degas hen vernielt .
+VF[S]LK[V]MF[O]	opron-sname	1	4	Staf Coppens verzint hen .
+VF[O]LK[V]MF[S]	opron-sname	3	1	Hen verzint Staf Coppens .
+VF[ADV]LK[V]MF[SO]	opron-sname	3	5	Daarom verzint Staf Coppens hen .
+LK[V]MF[SO]	opron-sname	2	4	Verzint Staf Coppens hen ?
+MF[SO]VC[V]	opron-sname	2	4	Omdat Staf Coppens hen verzint .
+VF[S]LK[V]MF[O]	opron-sname	1	3	Harry bestelt hen .
+VF[O]LK[V]MF[S]	opron-sname	3	1	Hen bestelt Harry .
+VF[ADV]LK[V]MF[SO]	opron-sname	3	4	Daarom bestelt Harry hen .
+LK[V]MF[SO]	opron-sname	2	3	Bestelt Harry hen ?
+MF[SO]VC[V]	opron-sname	2	3	Omdat Harry hen bestelt .
+VF[S]LK[V]MF[O]	opron-sname	1	3	Gillette scheert hen .
+VF[O]LK[V]MF[S]	opron-sname	3	1	Hen scheert Gillette .
+VF[ADV]LK[V]MF[SO]	opron-sname	3	4	Daarom scheert Gillette hen .
+LK[V]MF[SO]	opron-sname	2	3	Scheert Gillette hen ?
+MF[SO]VC[V]	opron-sname	2	3	Omdat Gillette hen scheert .
+VF[S]LK[V]MF[O]	opron-sname	1	4	Han Voskuil schrijft hen .
+VF[O]LK[V]MF[S]	opron-sname	3	1	Hen schrijft Han Voskuil .
+VF[ADV]LK[V]MF[SO]	opron-sname	3	5	Daarom schrijft Han Voskuil hen .
+LK[V]MF[SO]	opron-sname	2	4	Schrijft Han Voskuil hen ?
+MF[SO]VC[V]	opron-sname	2	4	Omdat Han Voskuil hen schrijft .
+VF[S]LK[V]MF[O]	opron-sname	1	3	Vietnam krijgt hen .
+VF[O]LK[V]MF[S]	opron-sname	3	1	Hen krijgt Vietnam .
+VF[ADV]LK[V]MF[SO]	opron-sname	3	4	Daarom krijgt Vietnam hen .
+LK[V]MF[SO]	opron-sname	2	3	Krijgt Vietnam hen ?
+MF[SO]VC[V]	opron-sname	2	3	Omdat Vietnam hen krijgt .
+VF[S]LK[V]MF[O]	opron-sname	1	3	Nijmegen wint hem .
+VF[O]LK[V]MF[S]	opron-sname	3	1	Hem wint Nijmegen .
+VF[ADV]LK[V]MF[SO]	opron-sname	3	4	Daarom wint Nijmegen hem .
+LK[V]MF[SO]	opron-sname	2	3	Wint Nijmegen hem ?
+MF[SO]VC[V]	opron-sname	2	3	Omdat Nijmegen hem wint .
+VF[S]LK[V]MF[O]	oneg-sname	1	4	AkzoNobel plant geen aanvallen .
+VF[O]LK[V]MF[S]	oneg-sname	4	2	Geen aanvallen plant AkzoNobel .
+VF[ADV]LK[V]MF[SO]	oneg-sname	3	5	Daarom plant AkzoNobel geen aanvallen .
+LK[V]MF[SO]	oneg-sname	2	4	Plant AkzoNobel geen aanvallen ?
+MF[SO]VC[V]	oneg-sname	2	4	Omdat AkzoNobel geen aanvallen plant .
+VF[S]LK[V]MF[O]	oneg-sname	1	4	Balazs leeft geen dubbellevens .
+VF[O]LK[V]MF[S]	oneg-sname	4	2	Geen dubbellevens leeft Balazs .
+VF[ADV]LK[V]MF[SO]	oneg-sname	3	5	Daarom leeft Balazs geen dubbellevens .
+LK[V]MF[SO]	oneg-sname	2	4	Leeft Balazs geen dubbellevens ?
+MF[SO]VC[V]	oneg-sname	2	4	Omdat Balazs geen dubbellevens leeft .
+VF[S]LK[V]MF[O]	oneg-sname	1	4	Mercedes synchroniseert geen opnames .
+VF[O]LK[V]MF[S]	oneg-sname	4	2	Geen opnames synchroniseert Mercedes .
+VF[ADV]LK[V]MF[SO]	oneg-sname	3	5	Daarom synchroniseert Mercedes geen opnames .
+LK[V]MF[SO]	oneg-sname	2	4	Synchroniseert Mercedes geen opnames ?
+MF[SO]VC[V]	oneg-sname	2	4	Omdat Mercedes geen opnames synchroniseert .
+VF[S]LK[V]MF[O]	oneg-sname	1	5	NPO 1 repeteert geen droombruiloften .
+VF[O]LK[V]MF[S]	oneg-sname	4	2	Geen droombruiloften repeteert NPO 1 .
+VF[ADV]LK[V]MF[SO]	oneg-sname	3	6	Daarom repeteert NPO 1 geen droombruiloften .
+LK[V]MF[SO]	oneg-sname	2	5	Repeteert NPO 1 geen droombruiloften ?
+MF[SO]VC[V]	oneg-sname	2	5	Omdat NPO 1 geen droombruiloften repeteert .
+VF[S]LK[V]MF[O]	oneg-sname	1	4	Degas vernielt geen kunstwerken .
+VF[O]LK[V]MF[S]	oneg-sname	4	2	Geen kunstwerken vernielt Degas .
+VF[ADV]LK[V]MF[SO]	oneg-sname	3	5	Daarom vernielt Degas geen kunstwerken .
+LK[V]MF[SO]	oneg-sname	2	4	Vernielt Degas geen kunstwerken ?
+MF[SO]VC[V]	oneg-sname	2	4	Omdat Degas geen kunstwerken vernielt .
+VF[S]LK[V]MF[O]	oneg-sname	1	5	Staf Coppens verzint geen oplossingen .
+VF[O]LK[V]MF[S]	oneg-sname	4	2	Geen oplossingen verzint Staf Coppens .
+VF[ADV]LK[V]MF[SO]	oneg-sname	3	6	Daarom verzint Staf Coppens geen oplossingen .
+LK[V]MF[SO]	oneg-sname	2	5	Verzint Staf Coppens geen oplossingen ?
+MF[SO]VC[V]	oneg-sname	2	5	Omdat Staf Coppens geen oplossingen verzint .
+VF[S]LK[V]MF[O]	oneg-sname	1	4	Harry bestelt geen tijdschriften .
+VF[O]LK[V]MF[S]	oneg-sname	4	2	Geen tijdschriften bestelt Harry .
+VF[ADV]LK[V]MF[SO]	oneg-sname	3	5	Daarom bestelt Harry geen tijdschriften .
+LK[V]MF[SO]	oneg-sname	2	4	Bestelt Harry geen tijdschriften ?
+MF[SO]VC[V]	oneg-sname	2	4	Omdat Harry geen tijdschriften bestelt .
+VF[S]LK[V]MF[O]	oneg-sname	1	4	Gillette scheert geen baarden .
+VF[O]LK[V]MF[S]	oneg-sname	4	2	Geen baarden scheert Gillette .
+VF[ADV]LK[V]MF[SO]	oneg-sname	3	5	Daarom scheert Gillette geen baarden .
+LK[V]MF[SO]	oneg-sname	2	4	Scheert Gillette geen baarden ?
+MF[SO]VC[V]	oneg-sname	2	4	Omdat Gillette geen baarden scheert .
+VF[S]LK[V]MF[O]	oneg-sname	1	4	Clooney drinkt geen kopjes koffie .
+VF[O]LK[V]MF[S]	oneg-sname	5	2	Geen kopjes koffie drinkt Clooney .
+VF[ADV]LK[V]MF[SO]	oneg-sname	3	5	Daarom drinkt Clooney geen kopjes koffie .
+LK[V]MF[SO]	oneg-sname	2	4	Drinkt Clooney geen kopjes koffie ?
+MF[SO]VC[V]	oneg-sname	2	4	Omdat Clooney geen kopjes koffie drinkt .
+VF[S]LK[V]MF[O]	oneg-sname	1	5	Han Voskuil schrijft geen romans .
+VF[O]LK[V]MF[S]	oneg-sname	4	2	Geen romans schrijft Han Voskuil .
+VF[ADV]LK[V]MF[SO]	oneg-sname	3	6	Daarom schrijft Han Voskuil geen romans .
+LK[V]MF[SO]	oneg-sname	2	5	Schrijft Han Voskuil geen romans ?
+MF[SO]VC[V]	oneg-sname	2	5	Omdat Han Voskuil geen romans schrijft .
+VF[S]LK[V]MF[O]	oneg-sname	1	4	Rutte begint geen onderhandelingen .
+VF[O]LK[V]MF[S]	oneg-sname	4	2	Geen onderhandelingen begint Rutte .
+VF[ADV]LK[V]MF[SO]	oneg-sname	3	5	Daarom begint Rutte geen onderhandelingen .
+LK[V]MF[SO]	oneg-sname	2	4	Begint Rutte geen onderhandelingen ?
+MF[SO]VC[V]	oneg-sname	2	4	Omdat Rutte geen onderhandelingen begint .
+VF[S]LK[V]MF[O]	oneg-sname	1	4	Vietnam krijgt geen basissalarissen .
+VF[O]LK[V]MF[S]	oneg-sname	4	2	Geen basissalarissen krijgt Vietnam .
+VF[ADV]LK[V]MF[SO]	oneg-sname	3	5	Daarom krijgt Vietnam geen basissalarissen .
+LK[V]MF[SO]	oneg-sname	2	4	Krijgt Vietnam geen basissalarissen ?
+MF[SO]VC[V]	oneg-sname	2	4	Omdat Vietnam geen basissalarissen krijgt .
+VF[S]LK[V]MF[O]	oneg-sname	1	4	Anouk bouwt geen hekken .
+VF[O]LK[V]MF[S]	oneg-sname	4	2	Geen hekken bouwt Anouk .
+VF[ADV]LK[V]MF[SO]	oneg-sname	3	5	Daarom bouwt Anouk geen hekken .
+LK[V]MF[SO]	oneg-sname	2	4	Bouwt Anouk geen hekken ?
+MF[SO]VC[V]	oneg-sname	2	4	Omdat Anouk geen hekken bouwt .
+VF[S]LK[V]MF[O]	oneg-sname	1	4	Nijmegen wint geen toeren .
+VF[O]LK[V]MF[S]	oneg-sname	4	2	Geen toeren wint Nijmegen .
+VF[ADV]LK[V]MF[SO]	oneg-sname	3	5	Daarom wint Nijmegen geen toeren .
+LK[V]MF[SO]	oneg-sname	2	4	Wint Nijmegen geen toeren ?
+MF[SO]VC[V]	oneg-sname	2	4	Omdat Nijmegen geen toeren wint .
+VF[S]LK[V]MF[O]	oneg-sname	1	5	Essent NV regelt geen constructies .
+VF[O]LK[V]MF[S]	oneg-sname	4	2	Geen constructies regelt Essent NV .
+VF[ADV]LK[V]MF[SO]	oneg-sname	3	6	Daarom regelt Essent NV geen constructies .
+LK[V]MF[SO]	oneg-sname	2	5	Regelt Essent NV geen constructies ?
+MF[SO]VC[V]	oneg-sname	2	5	Omdat Essent NV geen constructies regelt .
+VF[S]LK[V]MF[O]	oan-sname	1	3	AkzoNobel benoemt opvolgers .
+VF[O]LK[V]MF[S]	oan-sname	3	1	Opvolgers benoemt AkzoNobel .
+VF[ADV]LK[V]MF[SO]	oan-sname	3	4	Daarom benoemt AkzoNobel opvolgers .
+LK[V]MF[SO]	oan-sname	2	3	Benoemt AkzoNobel opvolgers ?
+MF[SO]VC[V]	oan-sname	2	3	Omdat AkzoNobel opvolgers benoemt .
+VF[S]LK[V]MF[O]	oan-sname	1	3	Balazs interviewt ECB-bazinnen .
+VF[O]LK[V]MF[S]	oan-sname	3	1	ECB-bazinnen interviewt Balazs .
+VF[ADV]LK[V]MF[SO]	oan-sname	3	4	Daarom interviewt Balazs ECB-bazinnen .
+LK[V]MF[SO]	oan-sname	2	3	Interviewt Balazs ECB-bazinnen ?
+MF[SO]VC[V]	oan-sname	2	3	Omdat Balazs ECB-bazinnen interviewt .
+VF[S]LK[V]MF[O]	oan-sname	1	3	Harry voedt spinnen .
+VF[O]LK[V]MF[S]	oan-sname	3	1	Spinnen voedt Harry .
+VF[ADV]LK[V]MF[SO]	oan-sname	3	4	Daarom voedt Harry spinnen .
+LK[V]MF[SO]	oan-sname	2	3	Voedt Harry spinnen ?
+MF[SO]VC[V]	oan-sname	2	3	Omdat Harry spinnen voedt .
+VF[S]LK[V]MF[O]	oan-sname	1	4	Han Voskuil bedient gasten .
+VF[O]LK[V]MF[S]	oan-sname	3	1	Gasten bedient Han Voskuil .
+VF[ADV]LK[V]MF[SO]	oan-sname	3	5	Daarom bedient Han Voskuil gasten .
+LK[V]MF[SO]	oan-sname	2	4	Bedient Han Voskuil gasten ?
+MF[SO]VC[V]	oan-sname	2	4	Omdat Han Voskuil gasten bedient .
+VF[S]LK[V]MF[O]	oan-sname	1	4	NPO 1 accepteert sollicitanten .
+VF[O]LK[V]MF[S]	oan-sname	3	1	Sollicitanten accepteert NPO 1 .
+VF[ADV]LK[V]MF[SO]	oan-sname	3	5	Daarom accepteert NPO 1 sollicitanten .
+LK[V]MF[SO]	oan-sname	2	4	Accepteert NPO 1 sollicitanten ?
+MF[SO]VC[V]	oan-sname	2	4	Omdat NPO 1 sollicitanten accepteert .
+VF[S]LK[V]MF[O]	oan-sname	1	4	Staf Coppens imiteert jazzpianisten .
+VF[O]LK[V]MF[S]	oan-sname	3	1	Jazzpianisten imiteert Staf Coppens .
+VF[ADV]LK[V]MF[SO]	oan-sname	3	5	Daarom imiteert Staf Coppens jazzpianisten .
+LK[V]MF[SO]	oan-sname	2	4	Imiteert Staf Coppens jazzpianisten ?
+MF[SO]VC[V]	oan-sname	2	4	Omdat Staf Coppens jazzpianisten imiteert .
+VF[S]LK[V]MF[O]	oan-sname	1	3	Mercedes huurt verdelgers .
+VF[O]LK[V]MF[S]	oan-sname	3	1	Verdelgers huurt Mercedes .
+VF[ADV]LK[V]MF[SO]	oan-sname	3	4	Daarom huurt Mercedes verdelgers .
+LK[V]MF[SO]	oan-sname	2	3	Huurt Mercedes verdelgers ?
+MF[SO]VC[V]	oan-sname	2	3	Omdat Mercedes verdelgers huurt .
+VF[S]LK[V]MF[O]	oan-sname	1	3	Clooney babysit kinderen .
+VF[O]LK[V]MF[S]	oan-sname	3	1	Kinderen babysit Clooney .
+VF[ADV]LK[V]MF[SO]	oan-sname	3	4	Daarom babysit Clooney kinderen .
+LK[V]MF[SO]	oan-sname	2	3	Babysit Clooney kinderen ?
+MF[SO]VC[V]	oan-sname	2	3	Omdat Clooney kinderen babysit .
+VF[S]LK[V]MF[O]	oan-sname	1	3	Rutte dirigeert orkestmuzikanten .
+VF[O]LK[V]MF[S]	oan-sname	3	1	Orkestmuzikanten dirigeert Rutte .
+VF[ADV]LK[V]MF[SO]	oan-sname	3	4	Daarom dirigeert Rutte orkestmuzikanten .
+LK[V]MF[SO]	oan-sname	2	3	Dirigeert Rutte orkestmuzikanten ?
+MF[SO]VC[V]	oan-sname	2	3	Omdat Rutte orkestmuzikanten dirigeert .
+VF[S]LK[V]MF[O]	oan-sname	1	3	Anouk fotografeert modellen .
+VF[O]LK[V]MF[S]	oan-sname	3	1	Modellen fotografeert Anouk .
+VF[ADV]LK[V]MF[SO]	oan-sname	3	4	Daarom fotografeert Anouk modellen .
+LK[V]MF[SO]	oan-sname	2	3	Fotografeert Anouk modellen ?
+MF[SO]VC[V]	oan-sname	2	3	Omdat Anouk modellen fotografeert .
+VF[S]LK[V]MF[O]	oan-sname	1	4	Essent NV begeleidt cursisten .
+VF[O]LK[V]MF[S]	oan-sname	3	1	Cursisten begeleidt Essent NV .
+VF[ADV]LK[V]MF[SO]	oan-sname	3	5	Daarom begeleidt Essent NV cursisten .
+LK[V]MF[SO]	oan-sname	2	4	Begeleidt Essent NV cursisten ?
+MF[SO]VC[V]	oan-sname	2	4	Omdat Essent NV cursisten begeleidt .
+VF[S]LK[V]MF[O]	oan-sname	1	3	Degas adviseert leerlingen .
+VF[O]LK[V]MF[S]	oan-sname	3	1	Leerlingen adviseert Degas .
+VF[ADV]LK[V]MF[SO]	oan-sname	3	4	Daarom adviseert Degas leerlingen .
+LK[V]MF[SO]	oan-sname	2	3	Adviseert Degas leerlingen ?
+MF[SO]VC[V]	oan-sname	2	3	Omdat Degas leerlingen adviseert .
+VF[S]LK[V]MF[O]	oan-sname	1	3	Nijmegen eist tolken .
+VF[O]LK[V]MF[S]	oan-sname	3	1	Tolken eist Nijmegen .
+VF[ADV]LK[V]MF[SO]	oan-sname	3	4	Daarom eist Nijmegen tolken .
+LK[V]MF[SO]	oan-sname	2	3	Eist Nijmegen tolken ?
+MF[SO]VC[V]	oan-sname	2	3	Omdat Nijmegen tolken eist .
+VF[S]LK[V]MF[O]	oan-sname	1	3	Vietnam bevrijdt slachtoffers .
+VF[O]LK[V]MF[S]	oan-sname	3	1	Slachtoffers bevrijdt Vietnam .
+VF[ADV]LK[V]MF[SO]	oan-sname	3	4	Daarom bevrijdt Vietnam slachtoffers .
+LK[V]MF[SO]	oan-sname	2	3	Bevrijdt Vietnam slachtoffers ?
+MF[SO]VC[V]	oan-sname	2	3	Omdat Vietnam slachtoffers bevrijdt .
 VF[S]LK[V]MF[O]	base-semas	2	4	De sterke beschermt zwakken .
 VF[O]LK[V]MF[S]	base-semas	4	1	Zwakken beschermt de sterke .
 VF[ADV]LK[V]MF[SO]	base-semas	4	5	Daarom beschermt de sterke zwakken .
@@ -5524,81 +5524,81 @@ VF[O]LK[V]MF[S]	regpol-psy	5	2	Een concern vermaken de constructies .
 VF[ADV]LK[V]MF[SO]	regpol-psy	4	6	Daarom vermaken de constructies een concern .
 LK[V]MF[SO]	regpol-psy	3	5	Vermaken de constructies een concern ?
 MF[SO]VC[V]	regpol-psy	3	5	Omdat de constructies een concern vermaken .
-VF[S]LK[V]MF[O]	snp-psy	2	4	De aanvallen boeien Mercedes .
-VF[O]LK[V]MF[S]	snp-psy	4	1	Mercedes boeien de aanvallen .
-VF[ADV]LK[V]MF[SO]	snp-psy	4	5	Daarom boeien de aanvallen Mercedes .
-LK[V]MF[SO]	snp-psy	3	4	Boeien de aanvallen Mercedes ?
-MF[SO]VC[V]	snp-psy	3	4	Omdat de aanvallen Mercedes boeien .
-VF[S]LK[V]MF[O]	snp-psy	2	4	De dubbellevens vervelen AkzoNobel .
-VF[O]LK[V]MF[S]	snp-psy	4	1	AkzoNobel vervelen de dubbellevens .
-VF[ADV]LK[V]MF[SO]	snp-psy	4	5	Daarom vervelen de dubbellevens AkzoNobel .
-LK[V]MF[SO]	snp-psy	3	4	Vervelen de dubbellevens AkzoNobel ?
-MF[SO]VC[V]	snp-psy	3	4	Omdat de dubbellevens AkzoNobel vervelen .
-VF[S]LK[V]MF[O]	snp-psy	2	4	De droombruiloften ontstemmen Harry .
-VF[O]LK[V]MF[S]	snp-psy	4	1	Harry ontstemmen de droombruiloften .
-VF[ADV]LK[V]MF[SO]	snp-psy	4	5	Daarom ontstemmen de droombruiloften Harry .
-LK[V]MF[SO]	snp-psy	3	4	Ontstemmen de droombruiloften Harry ?
-MF[SO]VC[V]	snp-psy	3	4	Omdat de droombruiloften Harry ontstemmen .
-VF[S]LK[V]MF[O]	snp-psy	2	4	De kunstwerken fascineren Balazs .
-VF[O]LK[V]MF[S]	snp-psy	4	1	Balazs fascineren de kunstwerken .
-VF[ADV]LK[V]MF[SO]	snp-psy	4	5	Daarom fascineren de kunstwerken Balazs .
-LK[V]MF[SO]	snp-psy	3	4	Fascineren de kunstwerken Balazs ?
-MF[SO]VC[V]	snp-psy	3	4	Omdat de kunstwerken Balazs fascineren .
-VF[S]LK[V]MF[O]	snp-psy	2	4	De oplossingen motiveren Clooney .
-VF[O]LK[V]MF[S]	snp-psy	4	1	Clooney motiveren de oplossingen .
-VF[ADV]LK[V]MF[SO]	snp-psy	4	5	Daarom motiveren de oplossingen Clooney .
-LK[V]MF[SO]	snp-psy	3	4	Motiveren de oplossingen Clooney ?
-MF[SO]VC[V]	snp-psy	3	4	Omdat de oplossingen Clooney motiveren .
-VF[S]LK[V]MF[O]	snp-psy	2	4	De tijdschriften beangstigen Han Voskuil .
-VF[O]LK[V]MF[S]	snp-psy	5	1	Han Voskuil beangstigen de tijdschriften .
-VF[ADV]LK[V]MF[SO]	snp-psy	4	5	Daarom beangstigen de tijdschriften Han Voskuil .
-LK[V]MF[SO]	snp-psy	3	4	Beangstigen de tijdschriften Han Voskuil ?
-MF[SO]VC[V]	snp-psy	3	4	Omdat de tijdschriften Han Voskuil beangstigen .
-VF[S]LK[V]MF[O]	snp-psy	2	4	De baarden verbazen Gillette .
-VF[O]LK[V]MF[S]	snp-psy	4	1	Gillette verbazen de baarden .
-VF[ADV]LK[V]MF[SO]	snp-psy	4	5	Daarom verbazen de baarden Gillette .
-LK[V]MF[SO]	snp-psy	3	4	Verbazen de baarden Gillette ?
-MF[SO]VC[V]	snp-psy	3	4	Omdat de baarden Gillette verbazen .
-VF[S]LK[V]MF[O]	snp-psy	2	5	De kopjes koffie bevallen NPO 1 .
-VF[O]LK[V]MF[S]	snp-psy	5	1	NPO 1 bevallen de kopjes koffie .
-VF[ADV]LK[V]MF[SO]	snp-psy	4	6	Daarom bevallen de kopjes koffie NPO 1 .
-LK[V]MF[SO]	snp-psy	3	5	Bevallen de kopjes koffie NPO 1 ?
-MF[SO]VC[V]	snp-psy	3	5	Omdat de kopjes koffie NPO 1 bevallen .
-VF[S]LK[V]MF[O]	snp-psy	2	4	De romans frustreren Staf Coppens .
-VF[O]LK[V]MF[S]	snp-psy	5	1	Staf Coppens frustreren de romans .
-VF[ADV]LK[V]MF[SO]	snp-psy	4	5	Daarom frustreren de romans Staf Coppens .
-LK[V]MF[SO]	snp-psy	3	4	Frustreren de romans Staf Coppens ?
-MF[SO]VC[V]	snp-psy	3	4	Omdat de romans Staf Coppens frustreren .
-VF[S]LK[V]MF[O]	snp-psy	2	4	De onderhandelingen agiteren Rutte .
-VF[O]LK[V]MF[S]	snp-psy	4	1	Rutte agiteren de onderhandelingen .
-VF[ADV]LK[V]MF[SO]	snp-psy	4	5	Daarom agiteren de onderhandelingen Rutte .
-LK[V]MF[SO]	snp-psy	3	4	Agiteren de onderhandelingen Rutte ?
-MF[SO]VC[V]	snp-psy	3	4	Omdat de onderhandelingen Rutte agiteren .
-VF[S]LK[V]MF[O]	snp-psy	2	4	De opnames inspireren Degas .
-VF[O]LK[V]MF[S]	snp-psy	4	1	Degas inspireren de opnames .
-VF[ADV]LK[V]MF[SO]	snp-psy	4	5	Daarom inspireren de opnames Degas .
-LK[V]MF[SO]	snp-psy	3	4	Inspireren de opnames Degas ?
-MF[SO]VC[V]	snp-psy	3	4	Omdat de opnames Degas inspireren .
-VF[S]LK[V]MF[O]	snp-psy	2	4	De basissalarissen beschamen Vietnam .
-VF[O]LK[V]MF[S]	snp-psy	4	1	Vietnam beschamen de basissalarissen .
-VF[ADV]LK[V]MF[SO]	snp-psy	4	5	Daarom beschamen de basissalarissen Vietnam .
-LK[V]MF[SO]	snp-psy	3	4	Beschamen de basissalarissen Vietnam ?
-MF[SO]VC[V]	snp-psy	3	4	Omdat de basissalarissen Vietnam beschamen .
-VF[S]LK[V]MF[O]	snp-psy	2	4	De hekken ergeren Anouk .
-VF[O]LK[V]MF[S]	snp-psy	4	1	Anouk ergeren de hekken .
-VF[ADV]LK[V]MF[SO]	snp-psy	4	5	Daarom ergeren de hekken Anouk .
-LK[V]MF[SO]	snp-psy	3	4	Ergeren de hekken Anouk ?
-MF[SO]VC[V]	snp-psy	3	4	Omdat de hekken Anouk ergeren .
-VF[S]LK[V]MF[O]	snp-psy	2	4	De toeren amuseren Nijmegen .
-VF[O]LK[V]MF[S]	snp-psy	4	1	Nijmegen amuseren de toeren .
-VF[ADV]LK[V]MF[SO]	snp-psy	4	5	Daarom amuseren de toeren Nijmegen .
-LK[V]MF[SO]	snp-psy	3	4	Amuseren de toeren Nijmegen ?
-MF[SO]VC[V]	snp-psy	3	4	Omdat de toeren Nijmegen amuseren .
-VF[S]LK[V]MF[O]	snp-psy	2	4	De constructies vermaken Essent NV .
-VF[O]LK[V]MF[S]	snp-psy	5	1	Essent NV vermaken de constructies .
-VF[ADV]LK[V]MF[SO]	snp-psy	4	5	Daarom vermaken de constructies Essent NV .
-LK[V]MF[SO]	snp-psy	3	4	Vermaken de constructies Essent NV ?
-MF[SO]VC[V]	snp-psy	3	4	Omdat de constructies Essent NV vermaken .
+VF[S]LK[V]MF[O]	sname-psy	2	4	De aanvallen boeien Mercedes .
+VF[O]LK[V]MF[S]	sname-psy	4	1	Mercedes boeien de aanvallen .
+VF[ADV]LK[V]MF[SO]	sname-psy	4	5	Daarom boeien de aanvallen Mercedes .
+LK[V]MF[SO]	sname-psy	3	4	Boeien de aanvallen Mercedes ?
+MF[SO]VC[V]	sname-psy	3	4	Omdat de aanvallen Mercedes boeien .
+VF[S]LK[V]MF[O]	sname-psy	2	4	De dubbellevens vervelen AkzoNobel .
+VF[O]LK[V]MF[S]	sname-psy	4	1	AkzoNobel vervelen de dubbellevens .
+VF[ADV]LK[V]MF[SO]	sname-psy	4	5	Daarom vervelen de dubbellevens AkzoNobel .
+LK[V]MF[SO]	sname-psy	3	4	Vervelen de dubbellevens AkzoNobel ?
+MF[SO]VC[V]	sname-psy	3	4	Omdat de dubbellevens AkzoNobel vervelen .
+VF[S]LK[V]MF[O]	sname-psy	2	4	De droombruiloften ontstemmen Harry .
+VF[O]LK[V]MF[S]	sname-psy	4	1	Harry ontstemmen de droombruiloften .
+VF[ADV]LK[V]MF[SO]	sname-psy	4	5	Daarom ontstemmen de droombruiloften Harry .
+LK[V]MF[SO]	sname-psy	3	4	Ontstemmen de droombruiloften Harry ?
+MF[SO]VC[V]	sname-psy	3	4	Omdat de droombruiloften Harry ontstemmen .
+VF[S]LK[V]MF[O]	sname-psy	2	4	De kunstwerken fascineren Balazs .
+VF[O]LK[V]MF[S]	sname-psy	4	1	Balazs fascineren de kunstwerken .
+VF[ADV]LK[V]MF[SO]	sname-psy	4	5	Daarom fascineren de kunstwerken Balazs .
+LK[V]MF[SO]	sname-psy	3	4	Fascineren de kunstwerken Balazs ?
+MF[SO]VC[V]	sname-psy	3	4	Omdat de kunstwerken Balazs fascineren .
+VF[S]LK[V]MF[O]	sname-psy	2	4	De oplossingen motiveren Clooney .
+VF[O]LK[V]MF[S]	sname-psy	4	1	Clooney motiveren de oplossingen .
+VF[ADV]LK[V]MF[SO]	sname-psy	4	5	Daarom motiveren de oplossingen Clooney .
+LK[V]MF[SO]	sname-psy	3	4	Motiveren de oplossingen Clooney ?
+MF[SO]VC[V]	sname-psy	3	4	Omdat de oplossingen Clooney motiveren .
+VF[S]LK[V]MF[O]	sname-psy	2	4	De tijdschriften beangstigen Han Voskuil .
+VF[O]LK[V]MF[S]	sname-psy	5	1	Han Voskuil beangstigen de tijdschriften .
+VF[ADV]LK[V]MF[SO]	sname-psy	4	5	Daarom beangstigen de tijdschriften Han Voskuil .
+LK[V]MF[SO]	sname-psy	3	4	Beangstigen de tijdschriften Han Voskuil ?
+MF[SO]VC[V]	sname-psy	3	4	Omdat de tijdschriften Han Voskuil beangstigen .
+VF[S]LK[V]MF[O]	sname-psy	2	4	De baarden verbazen Gillette .
+VF[O]LK[V]MF[S]	sname-psy	4	1	Gillette verbazen de baarden .
+VF[ADV]LK[V]MF[SO]	sname-psy	4	5	Daarom verbazen de baarden Gillette .
+LK[V]MF[SO]	sname-psy	3	4	Verbazen de baarden Gillette ?
+MF[SO]VC[V]	sname-psy	3	4	Omdat de baarden Gillette verbazen .
+VF[S]LK[V]MF[O]	sname-psy	2	5	De kopjes koffie bevallen NPO 1 .
+VF[O]LK[V]MF[S]	sname-psy	5	1	NPO 1 bevallen de kopjes koffie .
+VF[ADV]LK[V]MF[SO]	sname-psy	4	6	Daarom bevallen de kopjes koffie NPO 1 .
+LK[V]MF[SO]	sname-psy	3	5	Bevallen de kopjes koffie NPO 1 ?
+MF[SO]VC[V]	sname-psy	3	5	Omdat de kopjes koffie NPO 1 bevallen .
+VF[S]LK[V]MF[O]	sname-psy	2	4	De romans frustreren Staf Coppens .
+VF[O]LK[V]MF[S]	sname-psy	5	1	Staf Coppens frustreren de romans .
+VF[ADV]LK[V]MF[SO]	sname-psy	4	5	Daarom frustreren de romans Staf Coppens .
+LK[V]MF[SO]	sname-psy	3	4	Frustreren de romans Staf Coppens ?
+MF[SO]VC[V]	sname-psy	3	4	Omdat de romans Staf Coppens frustreren .
+VF[S]LK[V]MF[O]	sname-psy	2	4	De onderhandelingen agiteren Rutte .
+VF[O]LK[V]MF[S]	sname-psy	4	1	Rutte agiteren de onderhandelingen .
+VF[ADV]LK[V]MF[SO]	sname-psy	4	5	Daarom agiteren de onderhandelingen Rutte .
+LK[V]MF[SO]	sname-psy	3	4	Agiteren de onderhandelingen Rutte ?
+MF[SO]VC[V]	sname-psy	3	4	Omdat de onderhandelingen Rutte agiteren .
+VF[S]LK[V]MF[O]	sname-psy	2	4	De opnames inspireren Degas .
+VF[O]LK[V]MF[S]	sname-psy	4	1	Degas inspireren de opnames .
+VF[ADV]LK[V]MF[SO]	sname-psy	4	5	Daarom inspireren de opnames Degas .
+LK[V]MF[SO]	sname-psy	3	4	Inspireren de opnames Degas ?
+MF[SO]VC[V]	sname-psy	3	4	Omdat de opnames Degas inspireren .
+VF[S]LK[V]MF[O]	sname-psy	2	4	De basissalarissen beschamen Vietnam .
+VF[O]LK[V]MF[S]	sname-psy	4	1	Vietnam beschamen de basissalarissen .
+VF[ADV]LK[V]MF[SO]	sname-psy	4	5	Daarom beschamen de basissalarissen Vietnam .
+LK[V]MF[SO]	sname-psy	3	4	Beschamen de basissalarissen Vietnam ?
+MF[SO]VC[V]	sname-psy	3	4	Omdat de basissalarissen Vietnam beschamen .
+VF[S]LK[V]MF[O]	sname-psy	2	4	De hekken ergeren Anouk .
+VF[O]LK[V]MF[S]	sname-psy	4	1	Anouk ergeren de hekken .
+VF[ADV]LK[V]MF[SO]	sname-psy	4	5	Daarom ergeren de hekken Anouk .
+LK[V]MF[SO]	sname-psy	3	4	Ergeren de hekken Anouk ?
+MF[SO]VC[V]	sname-psy	3	4	Omdat de hekken Anouk ergeren .
+VF[S]LK[V]MF[O]	sname-psy	2	4	De toeren amuseren Nijmegen .
+VF[O]LK[V]MF[S]	sname-psy	4	1	Nijmegen amuseren de toeren .
+VF[ADV]LK[V]MF[SO]	sname-psy	4	5	Daarom amuseren de toeren Nijmegen .
+LK[V]MF[SO]	sname-psy	3	4	Amuseren de toeren Nijmegen ?
+MF[SO]VC[V]	sname-psy	3	4	Omdat de toeren Nijmegen amuseren .
+VF[S]LK[V]MF[O]	sname-psy	2	4	De constructies vermaken Essent NV .
+VF[O]LK[V]MF[S]	sname-psy	5	1	Essent NV vermaken de constructies .
+VF[ADV]LK[V]MF[SO]	sname-psy	4	5	Daarom vermaken de constructies Essent NV .
+LK[V]MF[SO]	sname-psy	3	4	Vermaken de constructies Essent NV ?
+MF[SO]VC[V]	sname-psy	3	4	Omdat de constructies Essent NV vermaken .
 VF[S]LK[V]MF[O]	semas-psy	2	4	De zwakke verveelt sterken .
 VF[O]LK[V]MF[S]	semas-psy	4	1	Sterken verveelt de zwakke .
 VF[ADV]LK[V]MF[SO]	semas-psy	4	5	Daarom verveelt de zwakke sterken .
@@ -6339,56 +6339,56 @@ VF[O]LK[V]MF[S]	regpol-vlight	5	2	Hun houding bepalen de concerns .
 VF[ADV]LK[V]MF[SO]	regpol-vlight	4	6	Daarom bepalen de concerns hun houding .
 LK[V]MF[SO]	regpol-vlight	3	5	Bepalen de concerns hun houding ?
 MF[SO]VC[V]	regpol-vlight	3	5	Omdat de concerns hun houding bepalen .
-VF[S]LK[V]MF[O]	snp-vlight	1	3	Mercedes maakt fouten .
-VF[O]LK[V]MF[S]	snp-vlight	3	1	Fouten maakt Mercedes .
-VF[ADV]LK[V]MF[SO]	snp-vlight	3	4	Daarom maakt Mercedes fouten .
-LK[V]MF[SO]	snp-vlight	2	3	Maakt Mercedes fouten ?
-MF[SO]VC[V]	snp-vlight	2	3	Omdat Mercedes fouten maakt .
-VF[S]LK[V]MF[O]	snp-vlight	1	3	AkzoNobel begaat misdaden .
-VF[O]LK[V]MF[S]	snp-vlight	3	1	Misdaden begaat AkzoNobel .
-VF[ADV]LK[V]MF[SO]	snp-vlight	3	4	Daarom begaat AkzoNobel misdaden .
-LK[V]MF[SO]	snp-vlight	2	3	Begaat AkzoNobel misdaden ?
-MF[SO]VC[V]	snp-vlight	2	3	Omdat AkzoNobel misdaden begaat .
-VF[S]LK[V]MF[O]	snp-vlight	1	3	Harry neemt beslissingen .
-VF[O]LK[V]MF[S]	snp-vlight	3	1	Beslissingen neemt Harry .
-VF[ADV]LK[V]MF[SO]	snp-vlight	3	4	Daarom neemt Harry beslissingen .
-LK[V]MF[SO]	snp-vlight	2	3	Neemt Harry beslissingen ?
-MF[SO]VC[V]	snp-vlight	2	3	Omdat Harry beslissingen neemt .
-VF[S]LK[V]MF[O]	snp-vlight	1	3	Balazs plaatst bestellingen .
-VF[O]LK[V]MF[S]	snp-vlight	3	1	Bestellingen plaatst Balazs .
-VF[ADV]LK[V]MF[SO]	snp-vlight	3	4	Daarom plaatst Balazs bestellingen .
-LK[V]MF[SO]	snp-vlight	2	3	Plaatst Balazs bestellingen ?
-MF[SO]VC[V]	snp-vlight	2	3	Omdat Balazs bestellingen plaatst .
-VF[S]LK[V]MF[O]	snp-vlight	1	3	Clooney stelt vragen .
-VF[O]LK[V]MF[S]	snp-vlight	3	1	Vragen stelt Clooney .
-VF[ADV]LK[V]MF[SO]	snp-vlight	3	4	Daarom stelt Clooney vragen .
-LK[V]MF[SO]	snp-vlight	2	3	Stelt Clooney vragen ?
-MF[SO]VC[V]	snp-vlight	2	3	Omdat Clooney vragen stelt .
-VF[S]LK[V]MF[O]	snp-vlight	1	4	Han Voskuil doet verzoeken .
-VF[O]LK[V]MF[S]	snp-vlight	3	1	Verzoeken doet Han Voskuil .
-VF[ADV]LK[V]MF[SO]	snp-vlight	3	5	Daarom doet Han Voskuil verzoeken .
-LK[V]MF[SO]	snp-vlight	2	4	Doet Han Voskuil verzoeken ?
-MF[SO]VC[V]	snp-vlight	2	4	Omdat Han Voskuil verzoeken doet .
-VF[S]LK[V]MF[O]	snp-vlight	1	3	Rutte maakt opmerkingen .
-VF[O]LK[V]MF[S]	snp-vlight	3	1	Opmerkingen maakt Rutte .
-VF[ADV]LK[V]MF[SO]	snp-vlight	3	4	Daarom maakt Rutte opmerkingen .
-LK[V]MF[SO]	snp-vlight	2	3	Maakt Rutte opmerkingen ?
-MF[SO]VC[V]	snp-vlight	2	3	Omdat Rutte opmerkingen maakt .
-VF[S]LK[V]MF[O]	snp-vlight	1	3	Anouk verdeelt rollen .
-VF[O]LK[V]MF[S]	snp-vlight	3	1	Rollen verdeelt Anouk .
-VF[ADV]LK[V]MF[SO]	snp-vlight	3	4	Daarom verdeelt Anouk rollen .
-LK[V]MF[SO]	snp-vlight	2	3	Verdeelt Anouk rollen ?
-MF[SO]VC[V]	snp-vlight	2	3	Omdat Anouk rollen verdeelt .
-VF[S]LK[V]MF[O]	snp-vlight	1	3	Nijmegen vervult wensen .
-VF[O]LK[V]MF[S]	snp-vlight	3	1	Wensen vervult Nijmegen .
-VF[ADV]LK[V]MF[SO]	snp-vlight	3	4	Daarom vervult Nijmegen wensen .
-LK[V]MF[SO]	snp-vlight	2	3	Vervult Nijmegen wensen ?
-MF[SO]VC[V]	snp-vlight	2	3	Omdat Nijmegen wensen vervult .
-VF[S]LK[V]MF[O]	snp-vlight	1	5	Essent NV bepaalt zijn houdingen .
-VF[O]LK[V]MF[S]	snp-vlight	4	2	Zijn houdingen bepaalt Essent NV .
-VF[ADV]LK[V]MF[SO]	snp-vlight	3	6	Daarom bepaalt Essent NV zijn houdingen .
-LK[V]MF[SO]	snp-vlight	2	5	Bepaalt Essent NV zijn houdingen ?
-MF[SO]VC[V]	snp-vlight	2	5	Omdat Essent NV zijn houdingen bepaalt .
+VF[S]LK[V]MF[O]	sname-vlight	1	3	Mercedes maakt fouten .
+VF[O]LK[V]MF[S]	sname-vlight	3	1	Fouten maakt Mercedes .
+VF[ADV]LK[V]MF[SO]	sname-vlight	3	4	Daarom maakt Mercedes fouten .
+LK[V]MF[SO]	sname-vlight	2	3	Maakt Mercedes fouten ?
+MF[SO]VC[V]	sname-vlight	2	3	Omdat Mercedes fouten maakt .
+VF[S]LK[V]MF[O]	sname-vlight	1	3	AkzoNobel begaat misdaden .
+VF[O]LK[V]MF[S]	sname-vlight	3	1	Misdaden begaat AkzoNobel .
+VF[ADV]LK[V]MF[SO]	sname-vlight	3	4	Daarom begaat AkzoNobel misdaden .
+LK[V]MF[SO]	sname-vlight	2	3	Begaat AkzoNobel misdaden ?
+MF[SO]VC[V]	sname-vlight	2	3	Omdat AkzoNobel misdaden begaat .
+VF[S]LK[V]MF[O]	sname-vlight	1	3	Harry neemt beslissingen .
+VF[O]LK[V]MF[S]	sname-vlight	3	1	Beslissingen neemt Harry .
+VF[ADV]LK[V]MF[SO]	sname-vlight	3	4	Daarom neemt Harry beslissingen .
+LK[V]MF[SO]	sname-vlight	2	3	Neemt Harry beslissingen ?
+MF[SO]VC[V]	sname-vlight	2	3	Omdat Harry beslissingen neemt .
+VF[S]LK[V]MF[O]	sname-vlight	1	3	Balazs plaatst bestellingen .
+VF[O]LK[V]MF[S]	sname-vlight	3	1	Bestellingen plaatst Balazs .
+VF[ADV]LK[V]MF[SO]	sname-vlight	3	4	Daarom plaatst Balazs bestellingen .
+LK[V]MF[SO]	sname-vlight	2	3	Plaatst Balazs bestellingen ?
+MF[SO]VC[V]	sname-vlight	2	3	Omdat Balazs bestellingen plaatst .
+VF[S]LK[V]MF[O]	sname-vlight	1	3	Clooney stelt vragen .
+VF[O]LK[V]MF[S]	sname-vlight	3	1	Vragen stelt Clooney .
+VF[ADV]LK[V]MF[SO]	sname-vlight	3	4	Daarom stelt Clooney vragen .
+LK[V]MF[SO]	sname-vlight	2	3	Stelt Clooney vragen ?
+MF[SO]VC[V]	sname-vlight	2	3	Omdat Clooney vragen stelt .
+VF[S]LK[V]MF[O]	sname-vlight	1	4	Han Voskuil doet verzoeken .
+VF[O]LK[V]MF[S]	sname-vlight	3	1	Verzoeken doet Han Voskuil .
+VF[ADV]LK[V]MF[SO]	sname-vlight	3	5	Daarom doet Han Voskuil verzoeken .
+LK[V]MF[SO]	sname-vlight	2	4	Doet Han Voskuil verzoeken ?
+MF[SO]VC[V]	sname-vlight	2	4	Omdat Han Voskuil verzoeken doet .
+VF[S]LK[V]MF[O]	sname-vlight	1	3	Rutte maakt opmerkingen .
+VF[O]LK[V]MF[S]	sname-vlight	3	1	Opmerkingen maakt Rutte .
+VF[ADV]LK[V]MF[SO]	sname-vlight	3	4	Daarom maakt Rutte opmerkingen .
+LK[V]MF[SO]	sname-vlight	2	3	Maakt Rutte opmerkingen ?
+MF[SO]VC[V]	sname-vlight	2	3	Omdat Rutte opmerkingen maakt .
+VF[S]LK[V]MF[O]	sname-vlight	1	3	Anouk verdeelt rollen .
+VF[O]LK[V]MF[S]	sname-vlight	3	1	Rollen verdeelt Anouk .
+VF[ADV]LK[V]MF[SO]	sname-vlight	3	4	Daarom verdeelt Anouk rollen .
+LK[V]MF[SO]	sname-vlight	2	3	Verdeelt Anouk rollen ?
+MF[SO]VC[V]	sname-vlight	2	3	Omdat Anouk rollen verdeelt .
+VF[S]LK[V]MF[O]	sname-vlight	1	3	Nijmegen vervult wensen .
+VF[O]LK[V]MF[S]	sname-vlight	3	1	Wensen vervult Nijmegen .
+VF[ADV]LK[V]MF[SO]	sname-vlight	3	4	Daarom vervult Nijmegen wensen .
+LK[V]MF[SO]	sname-vlight	2	3	Vervult Nijmegen wensen ?
+MF[SO]VC[V]	sname-vlight	2	3	Omdat Nijmegen wensen vervult .
+VF[S]LK[V]MF[O]	sname-vlight	1	5	Essent NV bepaalt zijn houdingen .
+VF[O]LK[V]MF[S]	sname-vlight	4	2	Zijn houdingen bepaalt Essent NV .
+VF[ADV]LK[V]MF[SO]	sname-vlight	3	6	Daarom bepaalt Essent NV zijn houdingen .
+LK[V]MF[SO]	sname-vlight	2	5	Bepaalt Essent NV zijn houdingen ?
+MF[SO]VC[V]	sname-vlight	2	5	Omdat Essent NV zijn houdingen bepaalt .
 VF[S]LK[V]MF[O]	base-syn	2	4	De generaal beraamt aanvallen .
 VF[O]LK[V]MF[S]	base-syn	4	1	Aanvallen beraamt de generaal .
 VF[ADV]LK[V]MF[SO]	base-syn	4	5	Daarom beraamt de generaal aanvallen .
@@ -7214,81 +7214,81 @@ VF[O]LK[V]MF[S]	regpol-syn	4	1	Constructies overziet het concern .
 VF[ADV]LK[V]MF[SO]	regpol-syn	4	5	Daarom overziet het concern constructies .
 LK[V]MF[SO]	regpol-syn	3	4	Overziet het concern constructies ?
 MF[SO]VC[V]	regpol-syn	3	4	Omdat het concern constructies overziet .
-VF[S]LK[V]MF[O]	snp-syn	1	3	AkzoNobel beraamt aanvallen .
-VF[O]LK[V]MF[S]	snp-syn	3	1	Aanvallen beraamt AkzoNobel .
-VF[ADV]LK[V]MF[SO]	snp-syn	3	4	Daarom beraamt AkzoNobel aanvallen .
-LK[V]MF[SO]	snp-syn	2	3	Beraamt AkzoNobel aanvallen ?
-MF[SO]VC[V]	snp-syn	2	3	Omdat AkzoNobel aanvallen beraamt .
-VF[S]LK[V]MF[O]	snp-syn	1	3	Balazs leidt dubbellevens .
-VF[O]LK[V]MF[S]	snp-syn	3	1	Dubbellevens leidt Balazs .
-VF[ADV]LK[V]MF[SO]	snp-syn	3	4	Daarom leidt Balazs dubbellevens .
-LK[V]MF[SO]	snp-syn	2	3	Leidt Balazs dubbellevens ?
-MF[SO]VC[V]	snp-syn	2	3	Omdat Balazs dubbellevens leidt .
-VF[S]LK[V]MF[O]	snp-syn	1	3	Mercedes dubt opnames .
-VF[O]LK[V]MF[S]	snp-syn	3	1	Opnames dubt Mercedes .
-VF[ADV]LK[V]MF[SO]	snp-syn	3	4	Daarom dubt Mercedes opnames .
-LK[V]MF[SO]	snp-syn	2	3	Dubt Mercedes opnames ?
-MF[SO]VC[V]	snp-syn	2	3	Omdat Mercedes opnames dubt .
-VF[S]LK[V]MF[O]	snp-syn	1	4	NPO 1 ensceneert droombruiloften .
-VF[O]LK[V]MF[S]	snp-syn	3	1	Droombruiloften ensceneert NPO 1 .
-VF[ADV]LK[V]MF[SO]	snp-syn	3	5	Daarom ensceneert NPO 1 droombruiloften .
-LK[V]MF[SO]	snp-syn	2	4	Ensceneert NPO 1 droombruiloften ?
-MF[SO]VC[V]	snp-syn	2	4	Omdat NPO 1 droombruiloften ensceneert .
-VF[S]LK[V]MF[O]	snp-syn	1	3	Degas sloopt kunstwerken .
-VF[O]LK[V]MF[S]	snp-syn	3	1	Kunstwerken sloopt Degas .
-VF[ADV]LK[V]MF[SO]	snp-syn	3	4	Daarom sloopt Degas kunstwerken .
-LK[V]MF[SO]	snp-syn	2	3	Sloopt Degas kunstwerken ?
-MF[SO]VC[V]	snp-syn	2	3	Omdat Degas kunstwerken sloopt .
-VF[S]LK[V]MF[O]	snp-syn	1	4	Staf Coppens raadt oplossingen .
-VF[O]LK[V]MF[S]	snp-syn	3	1	Oplossingen raadt Staf Coppens .
-VF[ADV]LK[V]MF[SO]	snp-syn	3	5	Daarom raadt Staf Coppens oplossingen .
-LK[V]MF[SO]	snp-syn	2	4	Raadt Staf Coppens oplossingen ?
-MF[SO]VC[V]	snp-syn	2	4	Omdat Staf Coppens oplossingen raadt .
-VF[S]LK[V]MF[O]	snp-syn	1	3	Harry koopt tijdschriften .
-VF[O]LK[V]MF[S]	snp-syn	3	1	Tijdschriften koopt Harry .
-VF[ADV]LK[V]MF[SO]	snp-syn	3	4	Daarom koopt Harry tijdschriften .
-LK[V]MF[SO]	snp-syn	2	3	Koopt Harry tijdschriften ?
-MF[SO]VC[V]	snp-syn	2	3	Omdat Harry tijdschriften koopt .
-VF[S]LK[V]MF[O]	snp-syn	1	3	Gillette knipt baarden .
-VF[O]LK[V]MF[S]	snp-syn	3	1	Baarden knipt Gillette .
-VF[ADV]LK[V]MF[SO]	snp-syn	3	4	Daarom knipt Gillette baarden .
-LK[V]MF[SO]	snp-syn	2	3	Knipt Gillette baarden ?
-MF[SO]VC[V]	snp-syn	2	3	Omdat Gillette baarden knipt .
-VF[S]LK[V]MF[O]	snp-syn	1	3	Clooney slurpt kopjes koffie .
-VF[O]LK[V]MF[S]	snp-syn	4	1	Kopjes koffie slurpt Clooney .
-VF[ADV]LK[V]MF[SO]	snp-syn	3	4	Daarom slurpt Clooney kopjes koffie .
-LK[V]MF[SO]	snp-syn	2	3	Slurpt Clooney kopjes koffie ?
-MF[SO]VC[V]	snp-syn	2	3	Omdat Clooney kopjes koffie slurpt .
-VF[S]LK[V]MF[O]	snp-syn	1	4	Han Voskuil pent romans .
-VF[O]LK[V]MF[S]	snp-syn	3	1	Romans pent Han Voskuil .
-VF[ADV]LK[V]MF[SO]	snp-syn	3	5	Daarom pent Han Voskuil romans .
-LK[V]MF[SO]	snp-syn	2	4	Pent Han Voskuil romans ?
-MF[SO]VC[V]	snp-syn	2	4	Omdat Han Voskuil romans pent .
-VF[S]LK[V]MF[O]	snp-syn	1	3	Rutte start onderhandelingen .
-VF[O]LK[V]MF[S]	snp-syn	3	1	Onderhandelingen start Rutte .
-VF[ADV]LK[V]MF[SO]	snp-syn	3	4	Daarom start Rutte onderhandelingen .
-LK[V]MF[SO]	snp-syn	2	3	Start Rutte onderhandelingen ?
-MF[SO]VC[V]	snp-syn	2	3	Omdat Rutte onderhandelingen start .
-VF[S]LK[V]MF[O]	snp-syn	1	3	Vietnam ontvangt basissalarissen .
-VF[O]LK[V]MF[S]	snp-syn	3	1	Basissalarissen ontvangt Vietnam .
-VF[ADV]LK[V]MF[SO]	snp-syn	3	4	Daarom ontvangt Vietnam basissalarissen .
-LK[V]MF[SO]	snp-syn	2	3	Ontvangt Vietnam basissalarissen ?
-MF[SO]VC[V]	snp-syn	2	3	Omdat Vietnam basissalarissen ontvangt .
-VF[S]LK[V]MF[O]	snp-syn	1	3	Anouk construeert hekken .
-VF[O]LK[V]MF[S]	snp-syn	3	1	Hekken construeert Anouk .
-VF[ADV]LK[V]MF[SO]	snp-syn	3	4	Daarom construeert Anouk hekken .
-LK[V]MF[SO]	snp-syn	2	3	Construeert Anouk hekken ?
-MF[SO]VC[V]	snp-syn	2	3	Omdat Anouk hekken construeert .
-VF[S]LK[V]MF[O]	snp-syn	1	3	Nijmegen behaalt toeren .
-VF[O]LK[V]MF[S]	snp-syn	3	1	Toeren behaalt Nijmegen .
-VF[ADV]LK[V]MF[SO]	snp-syn	3	4	Daarom behaalt Nijmegen toeren .
-LK[V]MF[SO]	snp-syn	2	3	Behaalt Nijmegen toeren ?
-MF[SO]VC[V]	snp-syn	2	3	Omdat Nijmegen toeren behaalt .
-VF[S]LK[V]MF[O]	snp-syn	1	4	Essent NV overziet constructies .
-VF[O]LK[V]MF[S]	snp-syn	3	1	Constructies overziet Essent NV .
-VF[ADV]LK[V]MF[SO]	snp-syn	3	5	Daarom overziet Essent NV constructies .
-LK[V]MF[SO]	snp-syn	2	4	Overziet Essent NV constructies ?
-MF[SO]VC[V]	snp-syn	2	4	Omdat Essent NV constructies overziet .
+VF[S]LK[V]MF[O]	sname-syn	1	3	AkzoNobel beraamt aanvallen .
+VF[O]LK[V]MF[S]	sname-syn	3	1	Aanvallen beraamt AkzoNobel .
+VF[ADV]LK[V]MF[SO]	sname-syn	3	4	Daarom beraamt AkzoNobel aanvallen .
+LK[V]MF[SO]	sname-syn	2	3	Beraamt AkzoNobel aanvallen ?
+MF[SO]VC[V]	sname-syn	2	3	Omdat AkzoNobel aanvallen beraamt .
+VF[S]LK[V]MF[O]	sname-syn	1	3	Balazs leidt dubbellevens .
+VF[O]LK[V]MF[S]	sname-syn	3	1	Dubbellevens leidt Balazs .
+VF[ADV]LK[V]MF[SO]	sname-syn	3	4	Daarom leidt Balazs dubbellevens .
+LK[V]MF[SO]	sname-syn	2	3	Leidt Balazs dubbellevens ?
+MF[SO]VC[V]	sname-syn	2	3	Omdat Balazs dubbellevens leidt .
+VF[S]LK[V]MF[O]	sname-syn	1	3	Mercedes dubt opnames .
+VF[O]LK[V]MF[S]	sname-syn	3	1	Opnames dubt Mercedes .
+VF[ADV]LK[V]MF[SO]	sname-syn	3	4	Daarom dubt Mercedes opnames .
+LK[V]MF[SO]	sname-syn	2	3	Dubt Mercedes opnames ?
+MF[SO]VC[V]	sname-syn	2	3	Omdat Mercedes opnames dubt .
+VF[S]LK[V]MF[O]	sname-syn	1	4	NPO 1 ensceneert droombruiloften .
+VF[O]LK[V]MF[S]	sname-syn	3	1	Droombruiloften ensceneert NPO 1 .
+VF[ADV]LK[V]MF[SO]	sname-syn	3	5	Daarom ensceneert NPO 1 droombruiloften .
+LK[V]MF[SO]	sname-syn	2	4	Ensceneert NPO 1 droombruiloften ?
+MF[SO]VC[V]	sname-syn	2	4	Omdat NPO 1 droombruiloften ensceneert .
+VF[S]LK[V]MF[O]	sname-syn	1	3	Degas sloopt kunstwerken .
+VF[O]LK[V]MF[S]	sname-syn	3	1	Kunstwerken sloopt Degas .
+VF[ADV]LK[V]MF[SO]	sname-syn	3	4	Daarom sloopt Degas kunstwerken .
+LK[V]MF[SO]	sname-syn	2	3	Sloopt Degas kunstwerken ?
+MF[SO]VC[V]	sname-syn	2	3	Omdat Degas kunstwerken sloopt .
+VF[S]LK[V]MF[O]	sname-syn	1	4	Staf Coppens raadt oplossingen .
+VF[O]LK[V]MF[S]	sname-syn	3	1	Oplossingen raadt Staf Coppens .
+VF[ADV]LK[V]MF[SO]	sname-syn	3	5	Daarom raadt Staf Coppens oplossingen .
+LK[V]MF[SO]	sname-syn	2	4	Raadt Staf Coppens oplossingen ?
+MF[SO]VC[V]	sname-syn	2	4	Omdat Staf Coppens oplossingen raadt .
+VF[S]LK[V]MF[O]	sname-syn	1	3	Harry koopt tijdschriften .
+VF[O]LK[V]MF[S]	sname-syn	3	1	Tijdschriften koopt Harry .
+VF[ADV]LK[V]MF[SO]	sname-syn	3	4	Daarom koopt Harry tijdschriften .
+LK[V]MF[SO]	sname-syn	2	3	Koopt Harry tijdschriften ?
+MF[SO]VC[V]	sname-syn	2	3	Omdat Harry tijdschriften koopt .
+VF[S]LK[V]MF[O]	sname-syn	1	3	Gillette knipt baarden .
+VF[O]LK[V]MF[S]	sname-syn	3	1	Baarden knipt Gillette .
+VF[ADV]LK[V]MF[SO]	sname-syn	3	4	Daarom knipt Gillette baarden .
+LK[V]MF[SO]	sname-syn	2	3	Knipt Gillette baarden ?
+MF[SO]VC[V]	sname-syn	2	3	Omdat Gillette baarden knipt .
+VF[S]LK[V]MF[O]	sname-syn	1	3	Clooney slurpt kopjes koffie .
+VF[O]LK[V]MF[S]	sname-syn	4	1	Kopjes koffie slurpt Clooney .
+VF[ADV]LK[V]MF[SO]	sname-syn	3	4	Daarom slurpt Clooney kopjes koffie .
+LK[V]MF[SO]	sname-syn	2	3	Slurpt Clooney kopjes koffie ?
+MF[SO]VC[V]	sname-syn	2	3	Omdat Clooney kopjes koffie slurpt .
+VF[S]LK[V]MF[O]	sname-syn	1	4	Han Voskuil pent romans .
+VF[O]LK[V]MF[S]	sname-syn	3	1	Romans pent Han Voskuil .
+VF[ADV]LK[V]MF[SO]	sname-syn	3	5	Daarom pent Han Voskuil romans .
+LK[V]MF[SO]	sname-syn	2	4	Pent Han Voskuil romans ?
+MF[SO]VC[V]	sname-syn	2	4	Omdat Han Voskuil romans pent .
+VF[S]LK[V]MF[O]	sname-syn	1	3	Rutte start onderhandelingen .
+VF[O]LK[V]MF[S]	sname-syn	3	1	Onderhandelingen start Rutte .
+VF[ADV]LK[V]MF[SO]	sname-syn	3	4	Daarom start Rutte onderhandelingen .
+LK[V]MF[SO]	sname-syn	2	3	Start Rutte onderhandelingen ?
+MF[SO]VC[V]	sname-syn	2	3	Omdat Rutte onderhandelingen start .
+VF[S]LK[V]MF[O]	sname-syn	1	3	Vietnam ontvangt basissalarissen .
+VF[O]LK[V]MF[S]	sname-syn	3	1	Basissalarissen ontvangt Vietnam .
+VF[ADV]LK[V]MF[SO]	sname-syn	3	4	Daarom ontvangt Vietnam basissalarissen .
+LK[V]MF[SO]	sname-syn	2	3	Ontvangt Vietnam basissalarissen ?
+MF[SO]VC[V]	sname-syn	2	3	Omdat Vietnam basissalarissen ontvangt .
+VF[S]LK[V]MF[O]	sname-syn	1	3	Anouk construeert hekken .
+VF[O]LK[V]MF[S]	sname-syn	3	1	Hekken construeert Anouk .
+VF[ADV]LK[V]MF[SO]	sname-syn	3	4	Daarom construeert Anouk hekken .
+LK[V]MF[SO]	sname-syn	2	3	Construeert Anouk hekken ?
+MF[SO]VC[V]	sname-syn	2	3	Omdat Anouk hekken construeert .
+VF[S]LK[V]MF[O]	sname-syn	1	3	Nijmegen behaalt toeren .
+VF[O]LK[V]MF[S]	sname-syn	3	1	Toeren behaalt Nijmegen .
+VF[ADV]LK[V]MF[SO]	sname-syn	3	4	Daarom behaalt Nijmegen toeren .
+LK[V]MF[SO]	sname-syn	2	3	Behaalt Nijmegen toeren ?
+MF[SO]VC[V]	sname-syn	2	3	Omdat Nijmegen toeren behaalt .
+VF[S]LK[V]MF[O]	sname-syn	1	4	Essent NV overziet constructies .
+VF[O]LK[V]MF[S]	sname-syn	3	1	Constructies overziet Essent NV .
+VF[ADV]LK[V]MF[SO]	sname-syn	3	5	Daarom overziet Essent NV constructies .
+LK[V]MF[SO]	sname-syn	2	4	Overziet Essent NV constructies ?
+MF[SO]VC[V]	sname-syn	2	4	Omdat Essent NV constructies overziet .
 VF[S]LK[V]MF[O]	semas-syn	2	5	De sterken behoeden een zwakke .
 VF[O]LK[V]MF[S]	semas-syn	5	2	Een zwakke behoeden de sterken .
 VF[ADV]LK[V]MF[SO]	semas-syn	4	6	Daarom behoeden de sterken een zwakke .
@@ -7661,81 +7661,81 @@ VF[O]LK[V]MF[S]	pp-oan	5	2	Een slachtoffer bevrijden de brandweermannen in een w
 VF[ADV]LK[V]MF[SO]	pp-oan	4	9	Daarom bevrijden de brandweermannen in een week een slachtoffer .
 LK[V]MF[SO]	pp-oan	3	8	Bevrijden de brandweermannen in een week een slachtoffer ?
 MF[SO]VC[V]	pp-oan	3	8	Omdat de brandweermannen in een week een slachtoffer bevrijden .
-VF[S]LK[V]MF[O]	pp-snp	1	6	AkzoNobel plant in een week aanvallen .
-VF[O]LK[V]MF[S]	pp-snp	3	1	Aanvallen plant AkzoNobel in een week .
-VF[ADV]LK[V]MF[SO]	pp-snp	3	7	Daarom plant AkzoNobel in een week aanvallen .
-LK[V]MF[SO]	pp-snp	2	6	Plant AkzoNobel in een week aanvallen ?
-MF[SO]VC[V]	pp-snp	2	6	Omdat AkzoNobel in een week aanvallen plant .
-VF[S]LK[V]MF[O]	pp-snp	1	6	Balazs leeft gedurende een week dubbellevens .
-VF[O]LK[V]MF[S]	pp-snp	3	1	Dubbellevens leeft Balazs gedurende een week .
-VF[ADV]LK[V]MF[SO]	pp-snp	3	7	Daarom leeft Balazs gedurende een week dubbellevens .
-LK[V]MF[SO]	pp-snp	2	6	Leeft Balazs gedurende een week dubbellevens ?
-MF[SO]VC[V]	pp-snp	2	6	Omdat Balazs gedurende een week dubbellevens leeft .
-VF[S]LK[V]MF[O]	pp-snp	1	6	Mercedes synchroniseert in een week opnames .
-VF[O]LK[V]MF[S]	pp-snp	3	1	Opnames synchroniseert Mercedes in een week .
-VF[ADV]LK[V]MF[SO]	pp-snp	3	7	Daarom synchroniseert Mercedes in een week opnames .
-LK[V]MF[SO]	pp-snp	2	6	Synchroniseert Mercedes in een week opnames ?
-MF[SO]VC[V]	pp-snp	2	6	Omdat Mercedes in een week opnames synchroniseert .
-VF[S]LK[V]MF[O]	pp-snp	1	7	NPO 1 repeteert in een week droombruiloften .
-VF[O]LK[V]MF[S]	pp-snp	3	1	Droombruiloften repeteert NPO 1 in een week .
-VF[ADV]LK[V]MF[SO]	pp-snp	3	8	Daarom repeteert NPO 1 in een week droombruiloften .
-LK[V]MF[SO]	pp-snp	2	7	Repeteert NPO 1 in een week droombruiloften ?
-MF[SO]VC[V]	pp-snp	2	7	Omdat NPO 1 in een week droombruiloften repeteert .
-VF[S]LK[V]MF[O]	pp-snp	1	6	Degas vernielt gedurende een week kunstwerken .
-VF[O]LK[V]MF[S]	pp-snp	3	1	Kunstwerken vernielt Degas gedurende een week .
-VF[ADV]LK[V]MF[SO]	pp-snp	3	7	Daarom vernielt Degas gedurende een week kunstwerken .
-LK[V]MF[SO]	pp-snp	2	6	Vernielt Degas gedurende een week kunstwerken ?
-MF[SO]VC[V]	pp-snp	2	6	Omdat Degas gedurende een week kunstwerken vernielt .
-VF[S]LK[V]MF[O]	pp-snp	1	7	Staf Coppens verzint in een week oplossingen .
-VF[O]LK[V]MF[S]	pp-snp	3	1	Oplossingen verzint Staf Coppens in een week .
-VF[ADV]LK[V]MF[SO]	pp-snp	3	8	Daarom verzint Staf Coppens in een week oplossingen .
-LK[V]MF[SO]	pp-snp	2	7	Verzint Staf Coppens in een week oplossingen ?
-MF[SO]VC[V]	pp-snp	2	7	Omdat Staf Coppens in een week oplossingen verzint .
-VF[S]LK[V]MF[O]	pp-snp	1	6	Harry bestelt in een week tijdschriften .
-VF[O]LK[V]MF[S]	pp-snp	3	1	Tijdschriften bestelt Harry in een week .
-VF[ADV]LK[V]MF[SO]	pp-snp	3	7	Daarom bestelt Harry in een week tijdschriften .
-LK[V]MF[SO]	pp-snp	2	6	Bestelt Harry in een week tijdschriften ?
-MF[SO]VC[V]	pp-snp	2	6	Omdat Harry in een week tijdschriften bestelt .
-VF[S]LK[V]MF[O]	pp-snp	1	6	Gillette scheert gedurende een week baarden .
-VF[O]LK[V]MF[S]	pp-snp	3	1	Baarden scheert Gillette gedurende een week .
-VF[ADV]LK[V]MF[SO]	pp-snp	3	7	Daarom scheert Gillette gedurende een week baarden .
-LK[V]MF[SO]	pp-snp	2	6	Scheert Gillette gedurende een week baarden ?
-MF[SO]VC[V]	pp-snp	2	6	Omdat Gillette gedurende een week baarden scheert .
-VF[S]LK[V]MF[O]	pp-snp	1	6	Clooney drinkt over een week kopjes koffie .
-VF[O]LK[V]MF[S]	pp-snp	4	1	Kopjes koffie drinkt Clooney over een week .
-VF[ADV]LK[V]MF[SO]	pp-snp	3	7	Daarom drinkt Clooney over een week kopjes koffie .
-LK[V]MF[SO]	pp-snp	2	6	Drinkt Clooney over een week kopjes koffie ?
-MF[SO]VC[V]	pp-snp	2	6	Omdat Clooney over een week kopjes koffie drinkt .
-VF[S]LK[V]MF[O]	pp-snp	1	7	Han Voskuil schrijft in een week romans .
-VF[O]LK[V]MF[S]	pp-snp	3	1	Romans schrijft Han Voskuil in een week .
-VF[ADV]LK[V]MF[SO]	pp-snp	3	8	Daarom schrijft Han Voskuil in een week romans .
-LK[V]MF[SO]	pp-snp	2	7	Schrijft Han Voskuil in een week romans ?
-MF[SO]VC[V]	pp-snp	2	7	Omdat Han Voskuil in een week romans schrijft .
-VF[S]LK[V]MF[O]	pp-snp	1	6	Rutte begint over een week onderhandelingen .
-VF[O]LK[V]MF[S]	pp-snp	3	1	Onderhandelingen begint Rutte over een week .
-VF[ADV]LK[V]MF[SO]	pp-snp	3	7	Daarom begint Rutte over een week onderhandelingen .
-LK[V]MF[SO]	pp-snp	2	6	Begint Rutte over een week onderhandelingen ?
-MF[SO]VC[V]	pp-snp	2	6	Omdat Rutte over een week onderhandelingen begint .
-VF[S]LK[V]MF[O]	pp-snp	1	6	Vietnam krijgt over een week basissalarissen .
-VF[O]LK[V]MF[S]	pp-snp	3	1	Basissalarissen krijgt Vietnam over een week .
-VF[ADV]LK[V]MF[SO]	pp-snp	3	7	Daarom krijgt Vietnam over een week basissalarissen .
-LK[V]MF[SO]	pp-snp	2	6	Krijgt Vietnam over een week basissalarissen ?
-MF[SO]VC[V]	pp-snp	2	6	Omdat Vietnam over een week basissalarissen krijgt .
-VF[S]LK[V]MF[O]	pp-snp	1	6	Anouk bouwt in een week hekken .
-VF[O]LK[V]MF[S]	pp-snp	3	1	Hekken bouwt Anouk in een week .
-VF[ADV]LK[V]MF[SO]	pp-snp	3	7	Daarom bouwt Anouk in een week hekken .
-LK[V]MF[SO]	pp-snp	2	6	Bouwt Anouk in een week hekken ?
-MF[SO]VC[V]	pp-snp	2	6	Omdat Anouk in een week hekken bouwt .
-VF[S]LK[V]MF[O]	pp-snp	1	6	Nijmegen wint in een week toeren .
-VF[O]LK[V]MF[S]	pp-snp	3	1	Toeren wint Nijmegen in een week .
-VF[ADV]LK[V]MF[SO]	pp-snp	3	7	Daarom wint Nijmegen in een week toeren .
-LK[V]MF[SO]	pp-snp	2	6	Wint Nijmegen in een week toeren ?
-MF[SO]VC[V]	pp-snp	2	6	Omdat Nijmegen in een week toeren wint .
-VF[S]LK[V]MF[O]	pp-snp	1	7	Essent NV regelt in een week constructies .
-VF[O]LK[V]MF[S]	pp-snp	3	1	Constructies regelt Essent NV in een week .
-VF[ADV]LK[V]MF[SO]	pp-snp	3	8	Daarom regelt Essent NV in een week constructies .
-LK[V]MF[SO]	pp-snp	2	7	Regelt Essent NV in een week constructies ?
-MF[SO]VC[V]	pp-snp	2	7	Omdat Essent NV in een week constructies regelt .
+VF[S]LK[V]MF[O]	pp-sname	1	6	AkzoNobel plant in een week aanvallen .
+VF[O]LK[V]MF[S]	pp-sname	3	1	Aanvallen plant AkzoNobel in een week .
+VF[ADV]LK[V]MF[SO]	pp-sname	3	7	Daarom plant AkzoNobel in een week aanvallen .
+LK[V]MF[SO]	pp-sname	2	6	Plant AkzoNobel in een week aanvallen ?
+MF[SO]VC[V]	pp-sname	2	6	Omdat AkzoNobel in een week aanvallen plant .
+VF[S]LK[V]MF[O]	pp-sname	1	6	Balazs leeft gedurende een week dubbellevens .
+VF[O]LK[V]MF[S]	pp-sname	3	1	Dubbellevens leeft Balazs gedurende een week .
+VF[ADV]LK[V]MF[SO]	pp-sname	3	7	Daarom leeft Balazs gedurende een week dubbellevens .
+LK[V]MF[SO]	pp-sname	2	6	Leeft Balazs gedurende een week dubbellevens ?
+MF[SO]VC[V]	pp-sname	2	6	Omdat Balazs gedurende een week dubbellevens leeft .
+VF[S]LK[V]MF[O]	pp-sname	1	6	Mercedes synchroniseert in een week opnames .
+VF[O]LK[V]MF[S]	pp-sname	3	1	Opnames synchroniseert Mercedes in een week .
+VF[ADV]LK[V]MF[SO]	pp-sname	3	7	Daarom synchroniseert Mercedes in een week opnames .
+LK[V]MF[SO]	pp-sname	2	6	Synchroniseert Mercedes in een week opnames ?
+MF[SO]VC[V]	pp-sname	2	6	Omdat Mercedes in een week opnames synchroniseert .
+VF[S]LK[V]MF[O]	pp-sname	1	7	NPO 1 repeteert in een week droombruiloften .
+VF[O]LK[V]MF[S]	pp-sname	3	1	Droombruiloften repeteert NPO 1 in een week .
+VF[ADV]LK[V]MF[SO]	pp-sname	3	8	Daarom repeteert NPO 1 in een week droombruiloften .
+LK[V]MF[SO]	pp-sname	2	7	Repeteert NPO 1 in een week droombruiloften ?
+MF[SO]VC[V]	pp-sname	2	7	Omdat NPO 1 in een week droombruiloften repeteert .
+VF[S]LK[V]MF[O]	pp-sname	1	6	Degas vernielt gedurende een week kunstwerken .
+VF[O]LK[V]MF[S]	pp-sname	3	1	Kunstwerken vernielt Degas gedurende een week .
+VF[ADV]LK[V]MF[SO]	pp-sname	3	7	Daarom vernielt Degas gedurende een week kunstwerken .
+LK[V]MF[SO]	pp-sname	2	6	Vernielt Degas gedurende een week kunstwerken ?
+MF[SO]VC[V]	pp-sname	2	6	Omdat Degas gedurende een week kunstwerken vernielt .
+VF[S]LK[V]MF[O]	pp-sname	1	7	Staf Coppens verzint in een week oplossingen .
+VF[O]LK[V]MF[S]	pp-sname	3	1	Oplossingen verzint Staf Coppens in een week .
+VF[ADV]LK[V]MF[SO]	pp-sname	3	8	Daarom verzint Staf Coppens in een week oplossingen .
+LK[V]MF[SO]	pp-sname	2	7	Verzint Staf Coppens in een week oplossingen ?
+MF[SO]VC[V]	pp-sname	2	7	Omdat Staf Coppens in een week oplossingen verzint .
+VF[S]LK[V]MF[O]	pp-sname	1	6	Harry bestelt in een week tijdschriften .
+VF[O]LK[V]MF[S]	pp-sname	3	1	Tijdschriften bestelt Harry in een week .
+VF[ADV]LK[V]MF[SO]	pp-sname	3	7	Daarom bestelt Harry in een week tijdschriften .
+LK[V]MF[SO]	pp-sname	2	6	Bestelt Harry in een week tijdschriften ?
+MF[SO]VC[V]	pp-sname	2	6	Omdat Harry in een week tijdschriften bestelt .
+VF[S]LK[V]MF[O]	pp-sname	1	6	Gillette scheert gedurende een week baarden .
+VF[O]LK[V]MF[S]	pp-sname	3	1	Baarden scheert Gillette gedurende een week .
+VF[ADV]LK[V]MF[SO]	pp-sname	3	7	Daarom scheert Gillette gedurende een week baarden .
+LK[V]MF[SO]	pp-sname	2	6	Scheert Gillette gedurende een week baarden ?
+MF[SO]VC[V]	pp-sname	2	6	Omdat Gillette gedurende een week baarden scheert .
+VF[S]LK[V]MF[O]	pp-sname	1	6	Clooney drinkt over een week kopjes koffie .
+VF[O]LK[V]MF[S]	pp-sname	4	1	Kopjes koffie drinkt Clooney over een week .
+VF[ADV]LK[V]MF[SO]	pp-sname	3	7	Daarom drinkt Clooney over een week kopjes koffie .
+LK[V]MF[SO]	pp-sname	2	6	Drinkt Clooney over een week kopjes koffie ?
+MF[SO]VC[V]	pp-sname	2	6	Omdat Clooney over een week kopjes koffie drinkt .
+VF[S]LK[V]MF[O]	pp-sname	1	7	Han Voskuil schrijft in een week romans .
+VF[O]LK[V]MF[S]	pp-sname	3	1	Romans schrijft Han Voskuil in een week .
+VF[ADV]LK[V]MF[SO]	pp-sname	3	8	Daarom schrijft Han Voskuil in een week romans .
+LK[V]MF[SO]	pp-sname	2	7	Schrijft Han Voskuil in een week romans ?
+MF[SO]VC[V]	pp-sname	2	7	Omdat Han Voskuil in een week romans schrijft .
+VF[S]LK[V]MF[O]	pp-sname	1	6	Rutte begint over een week onderhandelingen .
+VF[O]LK[V]MF[S]	pp-sname	3	1	Onderhandelingen begint Rutte over een week .
+VF[ADV]LK[V]MF[SO]	pp-sname	3	7	Daarom begint Rutte over een week onderhandelingen .
+LK[V]MF[SO]	pp-sname	2	6	Begint Rutte over een week onderhandelingen ?
+MF[SO]VC[V]	pp-sname	2	6	Omdat Rutte over een week onderhandelingen begint .
+VF[S]LK[V]MF[O]	pp-sname	1	6	Vietnam krijgt over een week basissalarissen .
+VF[O]LK[V]MF[S]	pp-sname	3	1	Basissalarissen krijgt Vietnam over een week .
+VF[ADV]LK[V]MF[SO]	pp-sname	3	7	Daarom krijgt Vietnam over een week basissalarissen .
+LK[V]MF[SO]	pp-sname	2	6	Krijgt Vietnam over een week basissalarissen ?
+MF[SO]VC[V]	pp-sname	2	6	Omdat Vietnam over een week basissalarissen krijgt .
+VF[S]LK[V]MF[O]	pp-sname	1	6	Anouk bouwt in een week hekken .
+VF[O]LK[V]MF[S]	pp-sname	3	1	Hekken bouwt Anouk in een week .
+VF[ADV]LK[V]MF[SO]	pp-sname	3	7	Daarom bouwt Anouk in een week hekken .
+LK[V]MF[SO]	pp-sname	2	6	Bouwt Anouk in een week hekken ?
+MF[SO]VC[V]	pp-sname	2	6	Omdat Anouk in een week hekken bouwt .
+VF[S]LK[V]MF[O]	pp-sname	1	6	Nijmegen wint in een week toeren .
+VF[O]LK[V]MF[S]	pp-sname	3	1	Toeren wint Nijmegen in een week .
+VF[ADV]LK[V]MF[SO]	pp-sname	3	7	Daarom wint Nijmegen in een week toeren .
+LK[V]MF[SO]	pp-sname	2	6	Wint Nijmegen in een week toeren ?
+MF[SO]VC[V]	pp-sname	2	6	Omdat Nijmegen in een week toeren wint .
+VF[S]LK[V]MF[O]	pp-sname	1	7	Essent NV regelt in een week constructies .
+VF[O]LK[V]MF[S]	pp-sname	3	1	Constructies regelt Essent NV in een week .
+VF[ADV]LK[V]MF[SO]	pp-sname	3	8	Daarom regelt Essent NV in een week constructies .
+LK[V]MF[SO]	pp-sname	2	7	Regelt Essent NV in een week constructies ?
+MF[SO]VC[V]	pp-sname	2	7	Omdat Essent NV in een week constructies regelt .
 VF[S]LK[V]MF[O]	pp-noref	2	7	De generaals plannen in een week niets .
 VF[O]LK[V]MF[S]	pp-noref	4	1	Niets plannen de generaals in een week .
 VF[ADV]LK[V]MF[SO]	pp-noref	4	8	Daarom plannen de generaals in een week niets .
