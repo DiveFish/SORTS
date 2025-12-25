@@ -30,6 +30,9 @@ def process_single_file(file_path):
         cols_in_file = None
         invalid_features = []
 
+        # NEW: store topological fields if TF feature present
+        topo_fields = []
+
         for line in f:
             line = line.strip()
 
@@ -44,6 +47,27 @@ def process_single_file(file_path):
                 # Word order mismatch
                 if len(orders) > 1:
                     mismatches.append(f"order: {format_values(orders)}")
+
+                # --- Topological Field Order Check (based on tf:<FIELD>) ---
+                # Collect all topological fields in order of appearance
+                tf_fields = [extract_feature(feats, "tf") for feats in topo_fields]
+                tf_fields = [f for f in tf_fields if f and f != "UNK"]
+
+                if tf_fields:
+                    # Define the canonical order
+                    hierarchy = ["C", "VF", "LK", "MF", "RK", "VC", "NF"]
+                    field_positions = {f: i for i, f in enumerate(hierarchy)}
+
+                    # Convert each tf value to its numeric position in the hierarchy
+                    numeric_order = [field_positions.get(f, -1) for f in tf_fields]
+
+                    # Check that the numeric sequence never decreases (i.e. fields appear in the correct order)
+                    for i in range(1, len(numeric_order)):
+                        if numeric_order[i] < numeric_order[i - 1]:
+                            mismatches.append(
+                                f"topological field order error: {tf_fields[i]} precedes {tf_fields[i - 1]}"
+                            )
+                            break  # only report the first issue
 
                 # ID checks
                 if indices:
@@ -115,6 +139,7 @@ def process_single_file(file_path):
                 deprels = []
                 head_errors = []
                 invalid_features = []
+                topo_fields = []  # reset topo field tracker
                 continue
 
             # Parse line
@@ -131,6 +156,8 @@ def process_single_file(file_path):
             token = cols[1] if len(cols) > 1 else "[MISSING]"
             feats = cols[5] if len(cols) > 5 else ""
             sentence_tokens.append(token)
+
+            topo_fields.append(feats)
 
             # ID
             try:
@@ -178,12 +205,14 @@ def process_single_file(file_path):
 
 def process_directory(directory_path):
     for filename in os.listdir(directory_path):
+        print(filename)
         if filename.endswith(".conll"):
             full_path = os.path.join(directory_path, filename)
             process_single_file(full_path)
 
 
 if __name__ == "__main__":
-    directory = "/Users/patricia/Code/SORTS/german/annotated/"
+    directory = "/Users/patricia/Code/SORTS/german/gold/"
+    # directory = "/Users/patricia/Code/SORTS/german/results_2025/"  # Maybe good to get an idea of the errors made
     print("Checked directory: " + directory)
     process_directory(directory)
