@@ -26074,7 +26074,7 @@
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:regpol-psy|tf:UNK
 
 1	Läden	Laden	_	NOUN-VVFIN	Morph:npm|NE:O|order:VF[O]LK[V]MF[S]|props:regpol-psy|tf:LK
-2	langweilen	langweilen	_	VERB-VVINF	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:regpol-psy|tf:VC
+2	langweilen	langweilen	_	VERB-VVINF	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:regpol-psy|tf:LK
 3	die	das	_	DET-ART	Morph:apn|NE:O|order:VF[O]LK[V]MF[S]|props:regpol-psy|tf:MF
 4	Doppelleben	Doppelleben	_	NOUN-NN	Morph:apn|NE:O|order:VF[O]LK[V]MF[S]|props:regpol-psy|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:regpol-psy|tf:UNK
@@ -26859,7 +26859,7 @@
 5	belustigen	belustigen	_	VERB-VVFIN	Morph:3pis|NE:O|order:MF[OS]VC[V]|props:regpol-psy|tf:VC
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|order:MF[OS]VC[V]|props:regpol-psy|tf:UNK
 
-1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:MF
+1	Die	die	_	DET-ART	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:VF
 2	Attacke	Attacke	_	NOUN-NN	Morph:nsf|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:VF
 3	fesselt	fesseln	_	VERB-VVFIN	Morph:3sis|NE:O|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:LK
 4	Daimler	Daimler	_	PROPN-NE	Morph:as*|NE:B-ORG|order:VF[S]LK[V]MF[O]|props:sname-psy|tf:MF
@@ -27772,6 +27772,12 @@
 3	faszinieren	faszinieren	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:LK
 4	Teenager	Teenager	_	NOUN-NN	Morph:apm|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:MF
 5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:UNK
+
+1	Teenager	Teenager	_	NOUN-NN	Morph:apm|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:VF
+2	faszinieren	faszinieren	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:LK
+3	die	der	_	DET-ART	Morph:npm|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:MF
+4	Stars	Star	_	NOUN-NN	Morph:npm|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:MF
+5	.	.	_	PUNCT-$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:UNK
 
 1	Deshalb	deshalb	_	ADV-PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:VF
 2	faszinieren	faszinieren	_	VERB-VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:LK

@@ -27773,6 +27773,12 @@
 4	Teenager	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	3	obj	_	_
 5	.	_	_	_	order:VF[S]LK[V]MF[O]|props:semas-psy	3	punct	_	_
 
+1	Teenager	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	2	obj	_	_
+2	faszinieren	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	0	verb	_	_
+3	die	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	4	det	_	_
+4	Stars	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	2	nsubj	_	_
+5	.	_	_	_	order:VF[O]LK[V]MF[S]|props:semas-psy	2	punct	_	_
+
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	2	advmod	_	_
 2	faszinieren	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	0	root	_	_
 3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:semas-psy	4	det	_	_
@@ -27808,7 +27814,7 @@
 
 1	Weil	_	_	_	order:MF[OS]VC[V]|props:semas-psy	5	mark	_	_
 2	Teenager	_	_	_	order:MF[OS]VC[V]|props:semas-psy	5	obj	_	_
-3	die	_	_	_	order:MF[OS]VC[V]|props:semas-psy	3	det	_	_
+3	die	_	_	_	order:MF[OS]VC[V]|props:semas-psy	4	det	_	_
 4	Stars	_	_	_	order:MF[OS]VC[V]|props:semas-psy	5	nsubj	_	_
 5	faszinieren	_	_	_	order:MF[OS]VC[V]|props:semas-psy	0	root	_	_
 6	.	_	_	_	order:MF[OS]VC[V]|props:semas-psy	5	punct	_	_
@@ -34293,13 +34299,6 @@
 5	EZB-Chefin	_	_	_	order:VF[S]LK[V]MF[O]|props:oan-syn	3	obj	_	_
 6	.	_	_	_	order:VF[S]LK[V]MF[O]|props:oan-syn	3	punct	_	_
 
-1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:oan-syn	2	det	_	_
-2	EZB-Chefin	_	_	_	order:VF[O]LK[V]MF[S]|props:oan-syn	3	obj	_	_
-3	interviewt	_	_	_	order:VF[O]LK[V]MF[S]|props:oan-syn	0	root	_	_
-4	die	_	_	_	order:VF[O]LK[V]MF[S]|props:oan-syn	5	det	_	_
-5	Fernsehreporterin	_	_	_	order:VF[O]LK[V]MF[S]|props:oan-syn	3	nsubj	_	_
-6	.	_	_	_	order:VF[O]LK[V]MF[S]|props:oan-syn	3	punct	_	_
-
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oan-syn	2	advmod	_	_
 2	interviewt	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oan-syn	0	root	_	_
 3	die	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oan-syn	4	det	_	_
@@ -34475,13 +34474,6 @@
 4	eine	_	_	_	order:VF[S]LK[V]MF[O]|props:oan-syn	5	det	_	_
 5	Kammerjägerin	_	_	_	order:VF[S]LK[V]MF[O]|props:oan-syn	3	obj	_	_
 6	.	_	_	_	order:VF[S]LK[V]MF[O]|props:oan-syn	3	punct	_	_
-
-1	Eine	_	_	_	order:VF[O]LK[V]MF[S]|props:oan-syn	2	det	_	_
-2	Kammerjägerin	_	_	_	order:VF[O]LK[V]MF[S]|props:oan-syn	3	obj	_	_
-3	betraut	_	_	_	order:VF[O]LK[V]MF[S]|props:oan-syn	0	root	_	_
-4	die	_	_	_	order:VF[O]LK[V]MF[S]|props:oan-syn	5	det	_	_
-5	Mieterin	_	_	_	order:VF[O]LK[V]MF[S]|props:oan-syn	3	nsubj	_	_
-6	.	_	_	_	order:VF[O]LK[V]MF[S]|props:oan-syn	3	punct	_	_
 
 1	Deshalb	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oan-syn	2	advmod	_	_
 2	betraut	_	_	_	order:VF[ADV]LK[V]MF[SO]|props:oan-syn	0	root	_	_

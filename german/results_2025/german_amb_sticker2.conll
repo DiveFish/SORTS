@@ -27773,6 +27773,12 @@
 4	Teenager	Teenager	NOUN	NN	Morph:apm|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:MF	3	obj	_	_
 5	.	.	PUNCT	$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:semas-psy|tf:UNK	3	punct	_	_
 
+1	Teenager	Teenager	NOUN	NN	Morph:npm|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:VF	2	nsubj	_	_
+2	faszinieren	faszinieren	VERB	VVFIN	Morph:3pis|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:LK	0	root	_	_
+3	die	der	DET	ART	Morph:apm|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:MF	4	det	_	_
+4	Stars	Star	NOUN	NN	Morph:apm|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:MF	2	obj	_	_
+5	.	.	PUNCT	$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:semas-psy|tf:UNK	2	punct	_	_
+
 1	Deshalb	deshalb	ADV	PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:VF	2	advmod	_	_
 2	faszinieren	faszinieren	VERB	VVFIN	Morph:3pis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:LK	0	root	_	_
 3	die	der	DET	ART	Morph:npm|NE:O|order:VF[ADV]LK[V]MF[SO]|props:semas-psy|tf:MF	4	det	_	_
@@ -34293,13 +34299,6 @@
 5	EZB-Chefin	EZB-Chefin	NOUN	NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:oan-syn|tf:MF	3	obj	_	_
 6	.	.	PUNCT	$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:oan-syn|tf:UNK	3	punct	_	_
 
-1	Eine	eine	DET	ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:oan-syn|tf:VF	2	det	_	_
-2	EZB-Chefin	EZB-Chefin	NOUN	NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:oan-syn|tf:VF	3	nsubj	_	_
-3	interviewt	interviewen	VERB	VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:oan-syn|tf:LK	0	root	_	_
-4	die	die	DET	ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:oan-syn|tf:MF	5	det	_	_
-5	Fernsehreporterin	Fernsehreporterin	NOUN	NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:oan-syn|tf:MF	3	obj	_	_
-6	.	.	PUNCT	$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:oan-syn|tf:UNK	3	punct	_	_
-
 1	Deshalb	deshalb	ADV	PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oan-syn|tf:VF	2	advmod	_	_
 2	interviewt	interviewen	VERB	VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oan-syn|tf:LK	0	root	_	_
 3	die	die	DET	ART	Morph:nsf|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oan-syn|tf:MF	4	det	_	_
@@ -34475,13 +34474,6 @@
 4	eine	eine	DET	ART	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:oan-syn|tf:MF	5	det	_	_
 5	Kammerjägerin	Kammerjägerin	NOUN	NN	Morph:asf|NE:O|order:VF[S]LK[V]MF[O]|props:oan-syn|tf:MF	3	obj	_	_
 6	.	.	PUNCT	$.	Morph:null|NE:O|order:VF[S]LK[V]MF[O]|props:oan-syn|tf:UNK	3	punct	_	_
-
-1	Eine	eine	DET	ART	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:oan-syn|tf:VF	2	det	_	_
-2	Kammerjägerin	Kammerjägerin	NOUN	NN	Morph:nsf|NE:O|order:VF[O]LK[V]MF[S]|props:oan-syn|tf:VF	3	nsubj	_	_
-3	betraut	betrauen	VERB	VVFIN	Morph:3sis|NE:O|order:VF[O]LK[V]MF[S]|props:oan-syn|tf:LK	0	root	_	_
-4	die	die	DET	ART	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:oan-syn|tf:MF	5	det	_	_
-5	Mieterin	Mieterin	NOUN	NN	Morph:asf|NE:O|order:VF[O]LK[V]MF[S]|props:oan-syn|tf:MF	3	obj	_	_
-6	.	.	PUNCT	$.	Morph:null|NE:O|order:VF[O]LK[V]MF[S]|props:oan-syn|tf:UNK	3	punct	_	_
 
 1	Deshalb	deshalb	ADV	PROP	Morph:null|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oan-syn|tf:VF	2	advmod	_	_
 2	betraut	betrauen	VERB	VVFIN	Morph:3sis|NE:O|order:VF[ADV]LK[V]MF[SO]|props:oan-syn|tf:LK	0	root	_	_

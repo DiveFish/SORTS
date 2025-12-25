@@ -3945,6 +3945,7 @@ VF[ADV]LK[V]MF[SO]	semas-psy	4	6	Deshalb erzürnt die Abnehmerin eine Produzenti
 LK[V]MF[SO]	semas-psy	3	5	Erzürnt die Abnehmerin eine Produzentin ?
 MF[SO]VC[V]	semas-psy	3	5	Weil die Abnehmerin eine Produzentin erzürnt .
 VF[S]LK[V]MF[O]	semas-psy	2	4	Die Stars faszinieren Teenager .
+VF[O]LK[V]MF[S]	semas-psy	4	1	Teenager faszinieren die Stars .
 VF[ADV]LK[V]MF[SO]	semas-psy	4	5	Deshalb faszinieren die Stars Teenager .
 VF[ADV]LK[V]MF[OS]	semas-psy	5	3	Deshalb faszinieren Teenager die Stars .
 LK[V]MF[SO]	semas-psy	3	4	Faszinieren die Stars Teenager ?
@@ -4901,7 +4902,6 @@ VF[ADV]LK[V]MF[SO]	oan-syn	4	5	Deshalb berufen die Aufsichtsratsvorstände Vertr
 LK[V]MF[SO]	oan-syn	3	4	Berufen die Aufsichtsratsvorstände Vertreter ?
 MF[SO]VC[V]	oan-syn	3	4	Weil die Aufsichtsratsvorstände Vertreter berufen .
 VF[S]LK[V]MF[O]	oan-syn	2	5	Die Fernsehreporterin interviewt eine EZB-Chefin .
-VF[O]LK[V]MF[S]	oan-syn	5	2	Eine EZB-Chefin interviewt die Fernsehreporterin .
 VF[ADV]LK[V]MF[SO]	oan-syn	4	6	Deshalb interviewt die Fernsehreporterin eine EZB-Chefin .
 LK[V]MF[SO]	oan-syn	3	5	Interviewt die Fernsehreporterin eine EZB-Chefin ?
 MF[SO]VC[V]	oan-syn	3	5	Weil die Fernsehreporterin eine EZB-Chefin interviewt .
@@ -4926,7 +4926,6 @@ VF[ADV]LK[V]MF[SO]	oan-syn	4	6	Deshalb imitiert die Komponistin eine Jazz-Pianis
 LK[V]MF[SO]	oan-syn	3	5	Imitiert die Komponistin eine Jazz-Pianistin ?
 MF[SO]VC[V]	oan-syn	3	5	Weil die Komponistin eine Jazz-Pianistin imitiert .
 VF[S]LK[V]MF[O]	oan-syn	2	5	Die Mieterin betraut eine Kammerjägerin .
-VF[O]LK[V]MF[S]	oan-syn	5	2	Eine Kammerjägerin betraut die Mieterin .
 VF[ADV]LK[V]MF[SO]	oan-syn	4	6	Deshalb betraut die Mieterin eine Kammerjägerin .
 LK[V]MF[SO]	oan-syn	3	5	Betraut die Mieterin eine Kammerjägerin ?
 MF[SO]VC[V]	oan-syn	3	5	Weil die Mieterin eine Kammerjägerin betraut .
