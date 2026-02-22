@@ -300,227 +300,182 @@ VF[ADV]LK[V]MF[SO]	aux-spron	3	4	Daarom zullen jullie constructies regelen .
 LK[V]MF[SO]	aux-spron	2	3	Zullen jullie constructies regelen ?
 MF[SO]VC[V]	aux-spron	2	3	Omdat jullie constructies zullen regelen .
 VF[S]LK[V]MF[O]	base-opron	2	4	De generaal plant het .
-VF[O]LK[V]MF[S]	base-opron	4	1	Het plant de generaal .
 VF[ADV]LK[V]MF[SO]	base-opron	4	5	Daarom plant de generaal het .
 LK[V]MF[SO]	base-opron	3	4	Plant de generaal het ?
 MF[SO]VC[V]	base-opron	3	4	Omdat de generaal het plant .
 VF[S]LK[V]MF[O]	base-opron	2	4	De partner beleeft het .
-VF[O]LK[V]MF[S]	base-opron	4	1	Het beleeft de partner .
 VF[ADV]LK[V]MF[SO]	base-opron	4	5	Daarom beleeft de partner het .
 LK[V]MF[SO]	base-opron	3	4	Beleeft de partner het ?
 MF[SO]VC[V]	base-opron	3	4	Omdat de partner het beleeft .
 VF[S]LK[V]MF[O]	base-opron	2	4	De journalist synchroniseert het .
-VF[O]LK[V]MF[S]	base-opron	4	1	Het synchroniseert de journalist .
 VF[ADV]LK[V]MF[SO]	base-opron	4	5	Daarom synchroniseert de journalist het .
 LK[V]MF[SO]	base-opron	3	4	Synchroniseert de journalist het ?
 MF[SO]VC[V]	base-opron	3	4	Omdat de journalist het synchroniseert .
 VF[S]LK[V]MF[O]	base-opron	2	4	De vriendin repeteert het .
-VF[O]LK[V]MF[S]	base-opron	4	1	Het repeteert de vriendin .
 VF[ADV]LK[V]MF[SO]	base-opron	4	5	Daarom repeteert de vriendin het .
 LK[V]MF[SO]	base-opron	3	4	Repeteert de vriendin het ?
 MF[SO]VC[V]	base-opron	3	4	Omdat de vriendin het repeteert .
 VF[S]LK[V]MF[O]	base-opron	2	4	De voorbijganger vernielt het .
-VF[O]LK[V]MF[S]	base-opron	4	1	Het vernielt de voorbijganger .
 VF[ADV]LK[V]MF[SO]	base-opron	4	5	Daarom vernielt de voorbijganger het .
 LK[V]MF[SO]	base-opron	3	4	Vernielt de voorbijganger het ?
 MF[SO]VC[V]	base-opron	3	4	Omdat de voorbijganger het vernielt .
 VF[S]LK[V]MF[O]	base-opron	2	4	Het kind verzint het .
-VF[O]LK[V]MF[S]	base-opron	4	1	Het verzint het kind .
 VF[ADV]LK[V]MF[SO]	base-opron	4	5	Daarom verzint het kind het .
 LK[V]MF[SO]	base-opron	3	4	Verzint het kind het ?
 MF[SO]VC[V]	base-opron	3	4	Omdat het kind het verzint .
 VF[S]LK[V]MF[O]	base-opron	2	4	De lezer bestelt het .
-VF[O]LK[V]MF[S]	base-opron	4	1	Het bestelt de lezer .
 VF[ADV]LK[V]MF[SO]	base-opron	4	5	Daarom bestelt de lezer het .
 LK[V]MF[SO]	base-opron	3	4	Bestelt de lezer het ?
 MF[SO]VC[V]	base-opron	3	4	Omdat de lezer het bestelt .
 VF[S]LK[V]MF[O]	base-opron	2	4	De man scheert het .
-VF[O]LK[V]MF[S]	base-opron	4	1	Het scheert de man .
 VF[ADV]LK[V]MF[SO]	base-opron	4	5	Daarom scheert de man het .
 LK[V]MF[SO]	base-opron	3	4	Scheert de man het ?
 MF[SO]VC[V]	base-opron	3	4	Omdat de man het scheert .
 VF[S]LK[V]MF[O]	base-opron	2	4	De moeder drinkt het .
-VF[O]LK[V]MF[S]	base-opron	4	1	Het drinkt de moeder .
 VF[ADV]LK[V]MF[SO]	base-opron	4	5	Daarom drinkt de moeder het .
 LK[V]MF[SO]	base-opron	3	4	Drinkt de moeder het ?
 MF[SO]VC[V]	base-opron	3	4	Omdat de moeder het drinkt .
 VF[S]LK[V]MF[O]	base-opron	2	4	De schrijver schrijft het .
-VF[O]LK[V]MF[S]	base-opron	4	1	Het schrijft de schrijver .
 VF[ADV]LK[V]MF[SO]	base-opron	4	5	Daarom schrijft de schrijver het .
 LK[V]MF[SO]	base-opron	3	4	Schrijft de schrijver het ?
 MF[SO]VC[V]	base-opron	3	4	Omdat de schrijver het schrijft .
 VF[S]LK[V]MF[O]	base-opron	2	4	De politicus begint het .
-VF[O]LK[V]MF[S]	base-opron	4	1	Het begint de politicus .
 VF[ADV]LK[V]MF[SO]	base-opron	4	5	Daarom begint de politicus het .
 LK[V]MF[SO]	base-opron	3	4	Begint de politicus het ?
 MF[SO]VC[V]	base-opron	3	4	Omdat de politicus het begint .
 VF[S]LK[V]MF[O]	base-opron	2	4	Het parlementslid krijgt het .
-VF[O]LK[V]MF[S]	base-opron	4	1	Het krijgt het parlementslid .
 VF[ADV]LK[V]MF[SO]	base-opron	4	5	Daarom krijgt het parlementslid het .
 LK[V]MF[SO]	base-opron	3	4	Krijgt het parlementslid het ?
 MF[SO]VC[V]	base-opron	3	4	Omdat het parlementslid het krijgt .
 VF[S]LK[V]MF[O]	base-opron	2	4	De boer bouwt het .
-VF[O]LK[V]MF[S]	base-opron	4	1	Het bouwt de boer .
 VF[ADV]LK[V]MF[SO]	base-opron	4	5	Daarom bouwt de boer het .
 LK[V]MF[SO]	base-opron	3	4	Bouwt de boer het ?
 MF[SO]VC[V]	base-opron	3	4	Omdat de boer het bouwt .
 VF[S]LK[V]MF[O]	base-opron	2	4	De sportvrouw wint het .
-VF[O]LK[V]MF[S]	base-opron	4	1	Het wint de sportvrouw .
 VF[ADV]LK[V]MF[SO]	base-opron	4	5	Daarom wint de sportvrouw het .
 LK[V]MF[SO]	base-opron	3	4	Wint de sportvrouw het ?
 MF[SO]VC[V]	base-opron	3	4	Omdat de sportvrouw het wint .
 VF[S]LK[V]MF[O]	base-opron	2	4	De aannemer regelt het .
-VF[O]LK[V]MF[S]	base-opron	4	1	Het regelt de aannemer .
 VF[ADV]LK[V]MF[SO]	base-opron	4	5	Daarom regelt de aannemer het .
 LK[V]MF[SO]	base-opron	3	4	Regelt de aannemer het ?
 MF[SO]VC[V]	base-opron	3	4	Omdat de aannemer het regelt .
 VF[S]LK[V]MF[O]	aux-opron	2	4	De generaal zal het plannen .
-VF[O]LK[V]MF[S]	aux-opron	4	1	Het zal de generaal plannen .
 VF[ADV]LK[V]MF[SO]	aux-opron	4	5	Daarom zal de generaal het plannen .
 LK[V]MF[SO]	aux-opron	3	4	Zal de generaal het plannen ?
 MF[SO]VC[V]	aux-opron	3	4	Omdat de generaal het zal plannen .
 VF[S]LK[V]MF[O]	aux-opron	2	4	De partner zal het beleven .
-VF[O]LK[V]MF[S]	aux-opron	4	1	Het zal de partner beleven .
 VF[ADV]LK[V]MF[SO]	aux-opron	4	5	Daarom zal de partner het beleven .
 LK[V]MF[SO]	aux-opron	3	4	Zal de partner het beleven ?
 MF[SO]VC[V]	aux-opron	3	4	Omdat de partner het zal beleven .
 VF[S]LK[V]MF[O]	aux-opron	2	4	De journalist zal het synchroniseren .
-VF[O]LK[V]MF[S]	aux-opron	4	1	Het zal de journalist synchroniseren .
 VF[ADV]LK[V]MF[SO]	aux-opron	4	5	Daarom zal de journalist het synchroniseren .
 LK[V]MF[SO]	aux-opron	3	4	Zal de journalist het synchroniseren ?
 MF[SO]VC[V]	aux-opron	3	4	Omdat de journalist het zal synchroniseren .
 VF[S]LK[V]MF[O]	aux-opron	2	4	De vriendin zal het repeteren .
-VF[O]LK[V]MF[S]	aux-opron	4	1	Het zal de vriendin repeteren .
 VF[ADV]LK[V]MF[SO]	aux-opron	4	5	Daarom zal de vriendin het repeteren .
 LK[V]MF[SO]	aux-opron	3	4	Zal de vriendin het repeteren ?
 MF[SO]VC[V]	aux-opron	3	4	Omdat de vriendin het zal repeteren .
 VF[S]LK[V]MF[O]	aux-opron	2	4	De voorbijganger zal het vernielen .
-VF[O]LK[V]MF[S]	aux-opron	4	1	Het zal de voorbijganger vernielen .
 VF[ADV]LK[V]MF[SO]	aux-opron	4	5	Daarom zal de voorbijganger het vernielen .
 LK[V]MF[SO]	aux-opron	3	4	Zal de voorbijganger het vernielen ?
 MF[SO]VC[V]	aux-opron	3	4	Omdat de voorbijganger het zal vernielen .
 VF[S]LK[V]MF[O]	aux-opron	2	4	Het kind zal het verzinnen .
-VF[O]LK[V]MF[S]	aux-opron	4	1	Het zal het kind verzinnen .
 VF[ADV]LK[V]MF[SO]	aux-opron	4	5	Daarom zal het kind het verzinnen .
 LK[V]MF[SO]	aux-opron	3	4	Zal het kind het verzinnen ?
 MF[SO]VC[V]	aux-opron	3	4	Omdat het kind het zal verzinnen .
 VF[S]LK[V]MF[O]	aux-opron	2	4	De lezer zal het bestellen .
-VF[O]LK[V]MF[S]	aux-opron	4	1	Het zal de lezer bestellen .
 VF[ADV]LK[V]MF[SO]	aux-opron	4	5	Daarom zal de lezer het bestellen .
 LK[V]MF[SO]	aux-opron	3	4	Zal de lezer het bestellen ?
 MF[SO]VC[V]	aux-opron	3	4	Omdat de lezer het zal bestellen .
 VF[S]LK[V]MF[O]	aux-opron	2	4	De man zal het scheren .
-VF[O]LK[V]MF[S]	aux-opron	4	1	Het zal de man scheren .
 VF[ADV]LK[V]MF[SO]	aux-opron	4	5	Daarom zal de man het scheren .
 LK[V]MF[SO]	aux-opron	3	4	Zal de man het scheren ?
 MF[SO]VC[V]	aux-opron	3	4	Omdat de man het zal scheren .
 VF[S]LK[V]MF[O]	aux-opron	2	4	De moeder zal het drinken .
-VF[O]LK[V]MF[S]	aux-opron	4	1	Het zal de moeder drinken .
 VF[ADV]LK[V]MF[SO]	aux-opron	4	5	Daarom zal de moeder het drinken .
 LK[V]MF[SO]	aux-opron	3	4	Zal de moeder het drinken ?
 MF[SO]VC[V]	aux-opron	3	4	Omdat de moeder het zal drinken .
 VF[S]LK[V]MF[O]	aux-opron	2	4	De schrijver zal het schrijven .
-VF[O]LK[V]MF[S]	aux-opron	4	1	Het zal de schrijver schrijven .
 VF[ADV]LK[V]MF[SO]	aux-opron	4	5	Daarom zal de schrijver het schrijven .
 LK[V]MF[SO]	aux-opron	3	4	Zal de schrijver het schrijven ?
 MF[SO]VC[V]	aux-opron	3	4	Omdat de schrijver het zal schrijven .
 VF[S]LK[V]MF[O]	aux-opron	2	4	De politicus zal het beginnen .
-VF[O]LK[V]MF[S]	aux-opron	4	1	Het zal de politicus beginnen .
 VF[ADV]LK[V]MF[SO]	aux-opron	4	5	Daarom zal de politicus het beginnen .
 LK[V]MF[SO]	aux-opron	3	4	Zal de politicus het beginnen ?
 MF[SO]VC[V]	aux-opron	3	4	Omdat de politicus het zal beginnen .
 VF[S]LK[V]MF[O]	aux-opron	2	4	Het parlementslid zal het krijgen .
-VF[O]LK[V]MF[S]	aux-opron	4	1	Het zal het parlementslid krijgen .
 VF[ADV]LK[V]MF[SO]	aux-opron	4	5	Daarom zal het parlementslid het krijgen .
 LK[V]MF[SO]	aux-opron	3	4	Zal het parlementslid het krijgen ?
 MF[SO]VC[V]	aux-opron	3	4	Omdat het parlementslid het zal krijgen .
 VF[S]LK[V]MF[O]	aux-opron	2	4	De boer zal het bouwen .
-VF[O]LK[V]MF[S]	aux-opron	4	1	Het zal de boer bouwen .
 VF[ADV]LK[V]MF[SO]	aux-opron	4	5	Daarom zal de boer het bouwen .
 LK[V]MF[SO]	aux-opron	3	4	Zal de boer het bouwen ?
 MF[SO]VC[V]	aux-opron	3	4	Omdat de boer het zal bouwen .
 VF[S]LK[V]MF[O]	aux-opron	2	4	De sportvrouw zal het winnen .
-VF[O]LK[V]MF[S]	aux-opron	4	1	Het zal de sportvrouw winnen .
 VF[ADV]LK[V]MF[SO]	aux-opron	4	5	Daarom zal de sportvrouw het winnen .
 LK[V]MF[SO]	aux-opron	3	4	Zal de sportvrouw het winnen ?
 MF[SO]VC[V]	aux-opron	3	4	Omdat de sportvrouw het zal winnen .
 VF[S]LK[V]MF[O]	aux-opron	2	4	De aannemer zal het regelen .
-VF[O]LK[V]MF[S]	aux-opron	4	1	Het zal de aannemer regelen .
 VF[ADV]LK[V]MF[SO]	aux-opron	4	5	Daarom zal de aannemer het regelen .
 LK[V]MF[SO]	aux-opron	3	4	Zal de aannemer het regelen ?
 MF[SO]VC[V]	aux-opron	3	4	Omdat de aannemer het zal regelen .
 VF[S]LK[V]MF[O]	spron-opron	1	3	Ze plant het .
-VF[O]LK[V]MF[S]	spron-opron	3	1	Het plant ze .
 VF[ADV]LK[V]MF[SO]	spron-opron	3	4	Daarom plant ze het .
 LK[V]MF[SO]	spron-opron	2	3	Plant ze het ?
 MF[SO]VC[V]	spron-opron	2	3	Omdat ze het plant .
 VF[S]LK[V]MF[O]	spron-opron	1	3	Ze beleeft het .
-VF[O]LK[V]MF[S]	spron-opron	3	1	Het beleeft ze .
 VF[ADV]LK[V]MF[SO]	spron-opron	3	4	Daarom beleeft ze het .
 LK[V]MF[SO]	spron-opron	2	3	Beleeft ze het ?
 MF[SO]VC[V]	spron-opron	2	3	Omdat ze het beleeft .
 VF[S]LK[V]MF[O]	spron-opron	1	3	Ze synchroniseert het .
-VF[O]LK[V]MF[S]	spron-opron	3	1	Het synchroniseert ze .
 VF[ADV]LK[V]MF[SO]	spron-opron	3	4	Daarom synchroniseert ze het .
 LK[V]MF[SO]	spron-opron	2	3	Synchroniseert ze het ?
 MF[SO]VC[V]	spron-opron	2	3	Omdat ze het synchroniseert .
 VF[S]LK[V]MF[O]	spron-opron	1	3	Ze repeteert het .
-VF[O]LK[V]MF[S]	spron-opron	3	1	Het repeteert ze .
 VF[ADV]LK[V]MF[SO]	spron-opron	3	4	Daarom repeteert ze het .
 LK[V]MF[SO]	spron-opron	2	3	Repeteert ze het ?
 MF[SO]VC[V]	spron-opron	2	3	Omdat ze het repeteert .
 VF[S]LK[V]MF[O]	spron-opron	1	3	Jullie vernielen ze .
-VF[O]LK[V]MF[S]	spron-opron	3	1	Ze vernielen jullie .
 VF[ADV]LK[V]MF[SO]	spron-opron	3	4	Daarom vernielen jullie ze .
 LK[V]MF[SO]	spron-opron	2	3	Vernielen jullie ze ?
 MF[SO]VC[V]	spron-opron	2	3	Omdat jullie ze vernielen .
 VF[S]LK[V]MF[O]	spron-opron	1	3	Ze verzint het .
-VF[O]LK[V]MF[S]	spron-opron	3	1	Het verzint ze .
 VF[ADV]LK[V]MF[SO]	spron-opron	3	4	Daarom verzint ze het .
 LK[V]MF[SO]	spron-opron	2	3	Verzint ze het ?
 MF[SO]VC[V]	spron-opron	2	3	Omdat ze het verzint .
 VF[S]LK[V]MF[O]	spron-opron	1	3	Ze bestelt het .
-VF[O]LK[V]MF[S]	spron-opron	3	1	Het bestelt ze .
 VF[ADV]LK[V]MF[SO]	spron-opron	3	4	Daarom bestelt ze het .
 LK[V]MF[SO]	spron-opron	2	3	Bestelt ze het ?
 MF[SO]VC[V]	spron-opron	2	3	Omdat ze het bestelt .
 VF[S]LK[V]MF[O]	spron-opron	1	3	Ze scheert het .
-VF[O]LK[V]MF[S]	spron-opron	3	1	Het scheert ze .
 VF[ADV]LK[V]MF[SO]	spron-opron	3	4	Daarom scheert ze het .
 LK[V]MF[SO]	spron-opron	2	3	Scheert ze het ?
 MF[SO]VC[V]	spron-opron	2	3	Omdat ze het scheert .
 VF[S]LK[V]MF[O]	spron-opron	1	3	Ze drinkt het .
-VF[O]LK[V]MF[S]	spron-opron	3	1	Het drinkt ze .
 VF[ADV]LK[V]MF[SO]	spron-opron	3	4	Daarom drinkt ze het .
 LK[V]MF[SO]	spron-opron	2	3	Drinkt ze het ?
 MF[SO]VC[V]	spron-opron	2	3	Omdat ze het drinkt .
 VF[S]LK[V]MF[O]	spron-opron	1	3	Ze schrijft het .
-VF[O]LK[V]MF[S]	spron-opron	3	1	Het schrijft ze .
 VF[ADV]LK[V]MF[SO]	spron-opron	3	4	Daarom schrijft ze het .
 LK[V]MF[SO]	spron-opron	2	3	Schrijft ze het ?
 MF[SO]VC[V]	spron-opron	2	3	Omdat ze het schrijft .
 VF[S]LK[V]MF[O]	spron-opron	1	3	Ze begint het .
-VF[O]LK[V]MF[S]	spron-opron	3	1	Het begint ze .
 VF[ADV]LK[V]MF[SO]	spron-opron	3	4	Daarom begint ze het .
 LK[V]MF[SO]	spron-opron	2	3	Begint ze het ?
 MF[SO]VC[V]	spron-opron	2	3	Omdat ze het begint .
 VF[S]LK[V]MF[O]	spron-opron	1	3	Ze krijgt het .
-VF[O]LK[V]MF[S]	spron-opron	3	1	Het krijgt ze .
 VF[ADV]LK[V]MF[SO]	spron-opron	3	4	Daarom krijgt ze het .
 LK[V]MF[SO]	spron-opron	2	3	Krijgt ze het ?
 MF[SO]VC[V]	spron-opron	2	3	Omdat ze het krijgt .
 VF[S]LK[V]MF[O]	spron-opron	1	3	Ze bouwt het .
-VF[O]LK[V]MF[S]	spron-opron	3	1	Het bouwt ze .
 VF[ADV]LK[V]MF[SO]	spron-opron	3	4	Daarom bouwt ze het .
 LK[V]MF[SO]	spron-opron	2	3	Bouwt ze het ?
 MF[SO]VC[V]	spron-opron	2	3	Omdat ze het bouwt .
 VF[S]LK[V]MF[O]	spron-opron	1	3	Ze wint het .
-VF[O]LK[V]MF[S]	spron-opron	3	1	Het wint ze .
 VF[ADV]LK[V]MF[SO]	spron-opron	3	4	Daarom wint ze het .
 LK[V]MF[SO]	spron-opron	2	3	Wint ze het ?
 MF[SO]VC[V]	spron-opron	2	3	Omdat ze het wint .
 VF[S]LK[V]MF[O]	spron-opron	1	3	Ze regelt het .
-VF[O]LK[V]MF[S]	spron-opron	3	1	Het regelt ze .
 VF[ADV]LK[V]MF[SO]	spron-opron	3	4	Daarom regelt ze het .
 LK[V]MF[SO]	spron-opron	2	3	Regelt ze het ?
 MF[SO]VC[V]	spron-opron	2	3	Omdat ze het regelt .
@@ -975,77 +930,62 @@ VF[ADV]LK[V]MF[SO]	spron-pp	3	7	Daarom regelen ze in een week constructies .
 LK[V]MF[SO]	spron-pp	2	6	Regelen ze in een week constructies ?
 MF[SO]VC[V]	spron-pp	2	6	Omdat ze in een week constructies regelen .
 VF[S]LK[V]MF[O]	opron-pp	2	4	De generaal plant het in een week .
-VF[O]LK[V]MF[S]	opron-pp	4	1	Het plant de generaal in een week .
 VF[ADV]LK[V]MF[SO]	opron-pp	4	5	Daarom plant de generaal het in een week .
 LK[V]MF[SO]	opron-pp	3	4	Plant de generaal het in een week ?
 MF[SO]VC[V]	opron-pp	3	4	Omdat de generaal het in een week plant .
 VF[S]LK[V]MF[O]	opron-pp	2	4	De partner beleeft het gedurende een week .
-VF[O]LK[V]MF[S]	opron-pp	4	1	Het beleeft de partner gedurende een week .
 VF[ADV]LK[V]MF[SO]	opron-pp	4	5	Daarom beleeft de partner het gedurende een week .
 LK[V]MF[SO]	opron-pp	3	4	Beleeft de partner het gedurende een week ?
 MF[SO]VC[V]	opron-pp	3	4	Omdat de partner het gedurende een week beleeft .
 VF[S]LK[V]MF[O]	opron-pp	2	4	De journalist synchroniseert het in een week .
-VF[O]LK[V]MF[S]	opron-pp	4	1	Het synchroniseert de journalist in een week .
 VF[ADV]LK[V]MF[SO]	opron-pp	4	5	Daarom synchroniseert de journalist het in een week .
 LK[V]MF[SO]	opron-pp	3	4	Synchroniseert de journalist het in een week ?
 MF[SO]VC[V]	opron-pp	3	4	Omdat de journalist het in een week synchroniseert .
 VF[S]LK[V]MF[O]	opron-pp	2	4	De vriendin repeteert het in een week .
-VF[O]LK[V]MF[S]	opron-pp	4	1	Het repeteert de vriendin in een week .
 VF[ADV]LK[V]MF[SO]	opron-pp	4	5	Daarom repeteert de vriendin het in een week .
 LK[V]MF[SO]	opron-pp	3	4	Repeteert de vriendin het in een week ?
 MF[SO]VC[V]	opron-pp	3	4	Omdat de vriendin het in een week repeteert .
 VF[S]LK[V]MF[O]	opron-pp	2	4	De voorbijganger vernielt het gedurende een week .
-VF[O]LK[V]MF[S]	opron-pp	4	1	Het vernielt de voorbijganger gedurende een week .
 VF[ADV]LK[V]MF[SO]	opron-pp	4	5	Daarom vernielt de voorbijganger het gedurende een week .
 LK[V]MF[SO]	opron-pp	3	4	Vernielt de voorbijganger het gedurende een week ?
 MF[SO]VC[V]	opron-pp	3	4	Omdat de voorbijganger het gedurende een week vernielt .
 VF[S]LK[V]MF[O]	opron-pp	2	4	Het kind verzint het in een week .
-VF[O]LK[V]MF[S]	opron-pp	4	1	Het verzint het kind in een week .
 VF[ADV]LK[V]MF[SO]	opron-pp	4	5	Daarom verzint het kind het in een week .
 LK[V]MF[SO]	opron-pp	3	4	Verzint het kind het in een week ?
 MF[SO]VC[V]	opron-pp	3	4	Omdat het kind het in een week verzint .
 VF[S]LK[V]MF[O]	opron-pp	2	4	De lezer bestelt het in een week .
-VF[O]LK[V]MF[S]	opron-pp	4	1	Het bestelt de lezer in een week .
 VF[ADV]LK[V]MF[SO]	opron-pp	4	5	Daarom bestelt de lezer het in een week .
 LK[V]MF[SO]	opron-pp	3	4	Bestelt de lezer het in een week ?
 MF[SO]VC[V]	opron-pp	3	4	Omdat de lezer het in een week bestelt .
 VF[S]LK[V]MF[O]	opron-pp	2	4	De man scheert het gedurende een week .
-VF[O]LK[V]MF[S]	opron-pp	4	1	Het scheert de man gedurende een week .
 VF[ADV]LK[V]MF[SO]	opron-pp	4	5	Daarom scheert de man het gedurende een week .
 LK[V]MF[SO]	opron-pp	3	4	Scheert de man het gedurende een week ?
 MF[SO]VC[V]	opron-pp	3	4	Omdat de man het gedurende een week scheert .
 VF[S]LK[V]MF[O]	opron-pp	2	4	De moeder drinkt het over een week .
-VF[O]LK[V]MF[S]	opron-pp	4	1	Het drinkt de moeder over een week .
 VF[ADV]LK[V]MF[SO]	opron-pp	4	5	Daarom drinkt de moeder het over een week .
 LK[V]MF[SO]	opron-pp	3	4	Drinkt de moeder het over een week ?
 MF[SO]VC[V]	opron-pp	3	4	Omdat de moeder het over een week drinkt .
 VF[S]LK[V]MF[O]	opron-pp	2	4	De schrijver schrijft het in een week .
-VF[O]LK[V]MF[S]	opron-pp	4	1	Het schrijft de schrijver in een week .
 VF[ADV]LK[V]MF[SO]	opron-pp	4	5	Daarom schrijft de schrijver het in een week .
 LK[V]MF[SO]	opron-pp	3	4	Schrijft de schrijver het in een week ?
 MF[SO]VC[V]	opron-pp	3	4	Omdat de schrijver het in een week schrijft .
 VF[S]LK[V]MF[O]	opron-pp	2	4	De politicus begint het over een week .
-VF[O]LK[V]MF[S]	opron-pp	4	1	Het begint de politicus over een week .
 VF[ADV]LK[V]MF[SO]	opron-pp	4	5	Daarom begint de politicus het over een week .
 LK[V]MF[SO]	opron-pp	3	4	Begint de politicus het over een week ?
 MF[SO]VC[V]	opron-pp	3	4	Omdat de politicus het over een week begint .
 VF[S]LK[V]MF[O]	opron-pp	2	4	Het parlementslid krijgt het over een week .
-VF[O]LK[V]MF[S]	opron-pp	4	1	Het krijgt het parlementslid over een week .
 VF[ADV]LK[V]MF[SO]	opron-pp	4	5	Daarom krijgt het parlementslid het over een week .
 LK[V]MF[SO]	opron-pp	3	4	Krijgt het parlementslid het over een week ?
 MF[SO]VC[V]	opron-pp	3	4	Omdat het parlementslid het over een week krijgt .
 VF[S]LK[V]MF[O]	opron-pp	2	4	De boer bouwt het in een week .
-VF[O]LK[V]MF[S]	opron-pp	4	1	Het bouwt de boer in een week .
 VF[ADV]LK[V]MF[SO]	opron-pp	4	5	Daarom bouwt de boer het in een week .
 LK[V]MF[SO]	opron-pp	3	4	Bouwt de boer het in een week ?
 MF[SO]VC[V]	opron-pp	3	4	Omdat de boer het in een week bouwt .
 VF[S]LK[V]MF[O]	opron-pp	2	4	De sportvrouw wint het in een week .
-VF[O]LK[V]MF[S]	opron-pp	4	1	Het wint de sportvrouw in een week .
 VF[ADV]LK[V]MF[SO]	opron-pp	4	5	Daarom wint de sportvrouw het in een week .
 LK[V]MF[SO]	opron-pp	3	4	Wint de sportvrouw het in een week ?
 MF[SO]VC[V]	opron-pp	3	4	Omdat de sportvrouw het in een week wint .
 VF[S]LK[V]MF[O]	opron-pp	2	4	De aannemer regelt het in een week .
-VF[O]LK[V]MF[S]	opron-pp	4	1	Het regelt de aannemer in een week .
 VF[ADV]LK[V]MF[SO]	opron-pp	4	5	Daarom regelt de aannemer het in een week .
 LK[V]MF[SO]	opron-pp	3	4	Regelt de aannemer het in een week ?
 MF[SO]VC[V]	opron-pp	3	4	Omdat de aannemer het in een week regelt .
@@ -1275,42 +1215,34 @@ VF[ADV]LK[V]MF[SO]	aux-sinan	4	6	Daarom zal de film een overval tonen .
 LK[V]MF[SO]	aux-sinan	3	5	Zal de film een overval tonen ?
 MF[SO]VC[V]	aux-sinan	3	5	Omdat de film een overval zal tonen .
 VF[S]LK[V]MF[O]	opron-sinan	2	4	Het quotum egaliseert het .
-VF[O]LK[V]MF[S]	opron-sinan	4	1	Het egaliseert het quotum .
 VF[ADV]LK[V]MF[SO]	opron-sinan	4	5	Daarom egaliseert het quotum het .
 LK[V]MF[SO]	opron-sinan	3	4	Egaliseert het quotum het ?
 MF[SO]VC[V]	opron-sinan	3	4	Omdat het quotum het egaliseert .
 VF[S]LK[V]MF[O]	opron-sinan	2	4	De cycloon raakt het .
-VF[O]LK[V]MF[S]	opron-sinan	4	1	Het raakt de cycloon .
 VF[ADV]LK[V]MF[SO]	opron-sinan	4	5	Daarom raakt de cycloon het .
 LK[V]MF[SO]	opron-sinan	3	4	Raakt de cycloon het ?
 MF[SO]VC[V]	opron-sinan	3	4	Omdat de cycloon het raakt .
 VF[S]LK[V]MF[O]	opron-sinan	2	4	Het gas schaadt het .
-VF[O]LK[V]MF[S]	opron-sinan	4	1	Het schaadt het gas .
 VF[ADV]LK[V]MF[SO]	opron-sinan	4	5	Daarom schaadt het gas het .
 LK[V]MF[SO]	opron-sinan	3	4	Schaadt het gas het ?
 MF[SO]VC[V]	opron-sinan	3	4	Omdat het gas het schaadt .
 VF[S]LK[V]MF[O]	opron-sinan	2	4	Het muurreliëf roept het .
-VF[O]LK[V]MF[S]	opron-sinan	4	1	Het roept het muurreliëf .
 VF[ADV]LK[V]MF[SO]	opron-sinan	4	5	Daarom roept het muurreliëf het .
 LK[V]MF[SO]	opron-sinan	3	4	Roept het muurreliëf het ?
 MF[SO]VC[V]	opron-sinan	3	4	Omdat het muurreliëf het roept .
 VF[S]LK[V]MF[O]	opron-sinan	2	4	De aanvraag eist het .
-VF[O]LK[V]MF[S]	opron-sinan	4	1	Het eist de aanvraag .
 VF[ADV]LK[V]MF[SO]	opron-sinan	4	5	Daarom eist de aanvraag het .
 LK[V]MF[SO]	opron-sinan	3	4	Eist de aanvraag het ?
 MF[SO]VC[V]	opron-sinan	3	4	Omdat de aanvraag het eist .
 VF[S]LK[V]MF[O]	opron-sinan	2	4	De orkaan vernietigt het .
-VF[O]LK[V]MF[S]	opron-sinan	4	1	Het vernietigt de orkaan .
 VF[ADV]LK[V]MF[SO]	opron-sinan	4	5	Daarom vernietigt de orkaan het .
 LK[V]MF[SO]	opron-sinan	3	4	Vernietigt de orkaan het ?
 MF[SO]VC[V]	opron-sinan	3	4	Omdat de orkaan het vernietigt .
 VF[S]LK[V]MF[O]	opron-sinan	2	4	De training ontplooit het .
-VF[O]LK[V]MF[S]	opron-sinan	4	1	Het ontplooit de training .
 VF[ADV]LK[V]MF[SO]	opron-sinan	4	5	Daarom ontplooit de training het .
 LK[V]MF[SO]	opron-sinan	3	4	Ontplooit de training het ?
 MF[SO]VC[V]	opron-sinan	3	4	Omdat de training het ontplooit .
 VF[S]LK[V]MF[O]	opron-sinan	2	4	De film toont het .
-VF[O]LK[V]MF[S]	opron-sinan	4	1	Het toont de film .
 VF[ADV]LK[V]MF[SO]	opron-sinan	4	5	Daarom toont de film het .
 LK[V]MF[SO]	opron-sinan	3	4	Toont de film het ?
 MF[SO]VC[V]	opron-sinan	3	4	Omdat de film het toont .
@@ -1465,322 +1397,258 @@ VF[ADV]LK[V]MF[SO]	pp-sinan	4	9	Daarom toont de film gedurende een week een over
 LK[V]MF[SO]	pp-sinan	3	8	Toont de film gedurende een week een overval ?
 MF[SO]VC[V]	pp-sinan	3	8	Omdat de film gedurende een week een overval toont .
 VF[S]LK[V]MF[O]	base-oan	2	4	De bestuursvoorzitters benoemen opvolgers .
-VF[O]LK[V]MF[S]	base-oan	4	1	Opvolgers benoemen de bestuursvoorzitters .
 VF[ADV]LK[V]MF[SO]	base-oan	4	5	Daarom benoemen de bestuursvoorzitters opvolgers .
 LK[V]MF[SO]	base-oan	3	4	Benoemen de bestuursvoorzitters opvolgers ?
 MF[SO]VC[V]	base-oan	3	4	Omdat de bestuursvoorzitters opvolgers benoemen .
 VF[S]LK[V]MF[O]	base-oan	2	5	De televisiereporter interviewt een ECB-bazin .
-VF[O]LK[V]MF[S]	base-oan	5	2	Een ECB-bazin interviewt de televisiereporter .
 VF[ADV]LK[V]MF[SO]	base-oan	4	6	Daarom interviewt de televisiereporter een ECB-bazin .
 LK[V]MF[SO]	base-oan	3	5	Interviewt de televisiereporter een ECB-bazin ?
 MF[SO]VC[V]	base-oan	3	5	Omdat de televisiereporter een ECB-bazin interviewt .
 VF[S]LK[V]MF[O]	base-oan	2	4	De fokkers voeden spinnen .
-VF[O]LK[V]MF[S]	base-oan	4	1	Spinnen voeden de fokkers .
 VF[ADV]LK[V]MF[SO]	base-oan	4	5	Daarom voeden de fokkers spinnen .
 LK[V]MF[SO]	base-oan	3	4	Voeden de fokkers spinnen ?
 MF[SO]VC[V]	base-oan	3	4	Omdat de fokkers spinnen voeden .
 VF[S]LK[V]MF[O]	base-oan	2	4	De katten krabben hondeneigenaars .
-VF[O]LK[V]MF[S]	base-oan	4	1	Hondeneigenaars krabben de katten .
 VF[ADV]LK[V]MF[SO]	base-oan	4	5	Daarom krabben de katten hondeneigenaars .
 LK[V]MF[SO]	base-oan	3	4	Krabben de katten hondeneigenaars ?
 MF[SO]VC[V]	base-oan	3	4	Omdat de katten hondeneigenaars krabben .
 VF[S]LK[V]MF[O]	base-oan	2	4	De obers bedienen gasten .
-VF[O]LK[V]MF[S]	base-oan	4	1	Gasten bedienen de obers .
 VF[ADV]LK[V]MF[SO]	base-oan	4	5	Daarom bedienen de obers gasten .
 LK[V]MF[SO]	base-oan	3	4	Bedienen de obers gasten ?
 MF[SO]VC[V]	base-oan	3	4	Omdat de obers gasten bedienen .
 VF[S]LK[V]MF[O]	base-oan	2	5	De HR-manager accepteert een sollicitant .
-VF[O]LK[V]MF[S]	base-oan	5	2	Een sollicitant accepteert de HR-manager .
 VF[ADV]LK[V]MF[SO]	base-oan	4	6	Daarom accepteert de HR-manager een sollicitant .
 LK[V]MF[SO]	base-oan	3	5	Accepteert de HR-manager een sollicitant ?
 MF[SO]VC[V]	base-oan	3	5	Omdat de HR-manager een sollicitant accepteert .
 VF[S]LK[V]MF[O]	base-oan	2	5	De acteur imiteert een jazzpianist .
-VF[O]LK[V]MF[S]	base-oan	5	2	Een jazzpianist imiteert de acteur .
 VF[ADV]LK[V]MF[SO]	base-oan	4	6	Daarom imiteert de acteur een jazzpianist .
 LK[V]MF[SO]	base-oan	3	5	Imiteert de acteur een jazzpianist ?
 MF[SO]VC[V]	base-oan	3	5	Omdat de acteur een jazzpianist imiteert .
 VF[S]LK[V]MF[O]	base-oan	2	4	De huurders huren verdelgers .
-VF[O]LK[V]MF[S]	base-oan	4	1	Verdelgers huren de huurders .
 VF[ADV]LK[V]MF[SO]	base-oan	4	5	Daarom huren de huurders verdelgers .
 LK[V]MF[SO]	base-oan	3	4	Huren de huurders verdelgers ?
 MF[SO]VC[V]	base-oan	3	4	Omdat de huurders verdelgers huren .
 VF[S]LK[V]MF[O]	base-oan	2	4	De 18-jarigen babysitten kinderen .
-VF[O]LK[V]MF[S]	base-oan	4	1	Kinderen babysitten de 18-jarigen .
 VF[ADV]LK[V]MF[SO]	base-oan	4	5	Daarom babysitten de 18-jarigen kinderen .
 LK[V]MF[SO]	base-oan	3	4	Babysitten de 18-jarigen kinderen ?
 MF[SO]VC[V]	base-oan	3	4	Omdat de 18-jarigen kinderen babysitten .
 VF[S]LK[V]MF[O]	base-oan	2	5	De Zwitser dirigeert een orkestmuzikant .
-VF[O]LK[V]MF[S]	base-oan	5	2	Een orkestmuzikant dirigeert de Zwitser .
 VF[ADV]LK[V]MF[SO]	base-oan	4	6	Daarom dirigeert de Zwitser een orkestmuzikant .
 LK[V]MF[SO]	base-oan	3	5	Dirigeert de Zwitser een orkestmuzikant ?
 MF[SO]VC[V]	base-oan	3	5	Omdat de Zwitser een orkestmuzikant dirigeert .
 VF[S]LK[V]MF[O]	base-oan	2	5	De fotograaf fotografeert een model .
-VF[O]LK[V]MF[S]	base-oan	5	2	Een model fotografeert de fotograaf .
 VF[ADV]LK[V]MF[SO]	base-oan	4	6	Daarom fotografeert de fotograaf een model .
 LK[V]MF[SO]	base-oan	3	5	Fotografeert de fotograaf een model ?
 MF[SO]VC[V]	base-oan	3	5	Omdat de fotograaf een model fotografeert .
 VF[S]LK[V]MF[O]	base-oan	2	4	De ingenieurs begeleiden cursisten .
-VF[O]LK[V]MF[S]	base-oan	4	1	Cursisten begeleiden de ingenieurs .
 VF[ADV]LK[V]MF[SO]	base-oan	4	5	Daarom begeleiden de ingenieurs cursisten .
 LK[V]MF[SO]	base-oan	3	4	Begeleiden de ingenieurs cursisten ?
 MF[SO]VC[V]	base-oan	3	4	Omdat de ingenieurs cursisten begeleiden .
 VF[S]LK[V]MF[O]	base-oan	2	5	De deskundige adviseert een burgemeester .
-VF[O]LK[V]MF[S]	base-oan	5	2	Een burgemeester adviseert de deskundige .
 VF[ADV]LK[V]MF[SO]	base-oan	4	6	Daarom adviseert de deskundige een burgemeester .
 LK[V]MF[SO]	base-oan	3	5	Adviseert de deskundige een burgemeester ?
 MF[SO]VC[V]	base-oan	3	5	Omdat de deskundige een burgemeester adviseert .
 VF[S]LK[V]MF[O]	base-oan	2	4	De reizigers eisen tolken .
-VF[O]LK[V]MF[S]	base-oan	4	1	Tolken eisen de reizigers .
 VF[ADV]LK[V]MF[SO]	base-oan	4	5	Daarom eisen de reizigers tolken .
 LK[V]MF[SO]	base-oan	3	4	Eisen de reizigers tolken ?
 MF[SO]VC[V]	base-oan	3	4	Omdat de reizigers tolken eisen .
 VF[S]LK[V]MF[O]	base-oan	2	4	De brandweermannen bevrijden slachtoffers .
-VF[O]LK[V]MF[S]	base-oan	4	1	Slachtoffers bevrijden de brandweermannen .
 VF[ADV]LK[V]MF[SO]	base-oan	4	5	Daarom bevrijden de brandweermannen slachtoffers .
 LK[V]MF[SO]	base-oan	3	4	Bevrijden de brandweermannen slachtoffers ?
 MF[SO]VC[V]	base-oan	3	4	Omdat de brandweermannen slachtoffers bevrijden .
 VF[S]LK[V]MF[O]	aux-oan	2	4	De bestuursvoorzitters zullen opvolgers benoemen .
-VF[O]LK[V]MF[S]	aux-oan	4	1	Opvolgers zullen de bestuursvoorzitters benoemen .
 VF[ADV]LK[V]MF[SO]	aux-oan	4	5	Daarom zullen de bestuursvoorzitters opvolgers benoemen .
 LK[V]MF[SO]	aux-oan	3	4	Zullen de bestuursvoorzitters opvolgers benoemen ?
 MF[SO]VC[V]	aux-oan	3	4	Omdat de bestuursvoorzitters opvolgers zullen benoemen .
 VF[S]LK[V]MF[O]	aux-oan	2	5	De televisiereporter zal een ECB-bazin interviewen .
-VF[O]LK[V]MF[S]	aux-oan	5	2	Een ECB-bazin zal de televisiereporter interviewen .
 VF[ADV]LK[V]MF[SO]	aux-oan	4	6	Daarom zal de televisiereporter een ECB-bazin interviewen .
 LK[V]MF[SO]	aux-oan	3	5	Zal de televisiereporter een ECB-bazin interviewen ?
 MF[SO]VC[V]	aux-oan	3	5	Omdat de televisiereporter een ECB-bazin zal interviewen .
 VF[S]LK[V]MF[O]	aux-oan	2	4	De fokkers zullen spinnen voeden .
-VF[O]LK[V]MF[S]	aux-oan	4	1	Spinnen zullen de fokkers voeden .
 VF[ADV]LK[V]MF[SO]	aux-oan	4	5	Daarom zullen de fokkers spinnen voeden .
 LK[V]MF[SO]	aux-oan	3	4	Zullen de fokkers spinnen voeden ?
 MF[SO]VC[V]	aux-oan	3	4	Omdat de fokkers spinnen zullen voeden .
 VF[S]LK[V]MF[O]	aux-oan	2	4	De katten zullen hondeneigenaars krabben .
-VF[O]LK[V]MF[S]	aux-oan	4	1	Hondeneigenaars zullen de katten krabben .
 VF[ADV]LK[V]MF[SO]	aux-oan	4	5	Daarom zullen de katten hondeneigenaars krabben .
 LK[V]MF[SO]	aux-oan	3	4	Zullen de katten hondeneigenaars krabben ?
 MF[SO]VC[V]	aux-oan	3	4	Omdat de katten hondeneigenaars zullen krabben .
 VF[S]LK[V]MF[O]	aux-oan	2	4	De obers zullen gasten bedienen .
-VF[O]LK[V]MF[S]	aux-oan	4	1	Gasten zullen de obers bedienen .
 VF[ADV]LK[V]MF[SO]	aux-oan	4	5	Daarom zullen de obers gasten bedienen .
 LK[V]MF[SO]	aux-oan	3	4	Zullen de obers gasten bedienen ?
 MF[SO]VC[V]	aux-oan	3	4	Omdat de obers gasten zullen bedienen .
 VF[S]LK[V]MF[O]	aux-oan	2	5	De HR-manager zal een sollicitant accepteren .
-VF[O]LK[V]MF[S]	aux-oan	5	2	Een sollicitant zal de HR-manager accepteren .
 VF[ADV]LK[V]MF[SO]	aux-oan	4	6	Daarom zal de HR-manager een sollicitant accepteren .
 LK[V]MF[SO]	aux-oan	3	5	Zal de HR-manager een sollicitant accepteren ?
 MF[SO]VC[V]	aux-oan	3	5	Omdat de HR-manager een sollicitant zal accepteren .
 VF[S]LK[V]MF[O]	aux-oan	2	5	De acteur zal een jazzpianist imiteren .
-VF[O]LK[V]MF[S]	aux-oan	5	2	Een jazzpianist zal de acteur imiteren .
 VF[ADV]LK[V]MF[SO]	aux-oan	4	6	Daarom zal de acteur een jazzpianist imiteren .
 LK[V]MF[SO]	aux-oan	3	5	Zal de acteur een jazzpianist imiteren ?
 MF[SO]VC[V]	aux-oan	3	5	Omdat de acteur een jazzpianist zal imiteren .
 VF[S]LK[V]MF[O]	aux-oan	2	4	De huurders zullen verdelgers huren .
-VF[O]LK[V]MF[S]	aux-oan	4	1	Verdelgers zullen de huurders huren .
 VF[ADV]LK[V]MF[SO]	aux-oan	4	5	Daarom zullen de huurders verdelgers huren .
 LK[V]MF[SO]	aux-oan	3	4	Zullen de huurders verdelgers huren ?
 MF[SO]VC[V]	aux-oan	3	4	Omdat de huurders verdelgers zullen huren .
 VF[S]LK[V]MF[O]	aux-oan	2	4	De 18-jarigen zullen kinderen babysitten .
-VF[O]LK[V]MF[S]	aux-oan	4	1	Kinderen zullen de 18-jarigen babysitten .
 VF[ADV]LK[V]MF[SO]	aux-oan	4	5	Daarom zullen de 18-jarigen kinderen babysitten .
 LK[V]MF[SO]	aux-oan	3	4	Zullen de 18-jarigen kinderen babysitten ?
 MF[SO]VC[V]	aux-oan	3	4	Omdat de 18-jarigen kinderen zullen babysitten .
 VF[S]LK[V]MF[O]	aux-oan	2	5	De Zwitser zal een orkestmuzikant dirigeren .
-VF[O]LK[V]MF[S]	aux-oan	5	2	Een orkestmuzikant zal de Zwitser dirigeren .
 VF[ADV]LK[V]MF[SO]	aux-oan	4	6	Daarom zal de Zwitser een orkestmuzikant dirigeren .
 LK[V]MF[SO]	aux-oan	3	5	Zal de Zwitser een orkestmuzikant dirigeren ?
 MF[SO]VC[V]	aux-oan	3	5	Omdat de Zwitser een orkestmuzikant zal dirigeren .
 VF[S]LK[V]MF[O]	aux-oan	2	5	De fotograaf zal een model fotograferen .
-VF[O]LK[V]MF[S]	aux-oan	5	2	Een model zal de fotograaf fotograferen .
 VF[ADV]LK[V]MF[SO]	aux-oan	4	6	Daarom zal de fotograaf een model fotograferen .
 LK[V]MF[SO]	aux-oan	3	5	Zal de fotograaf een model fotograferen ?
 MF[SO]VC[V]	aux-oan	3	5	Omdat de fotograaf een model zal fotograferen .
 VF[S]LK[V]MF[O]	aux-oan	2	4	De ingenieurs zullen cursisten begeleiden .
-VF[O]LK[V]MF[S]	aux-oan	4	1	Cursisten zullen de ingenieurs begeleiden .
 VF[ADV]LK[V]MF[SO]	aux-oan	4	5	Daarom zullen de ingenieurs cursisten begeleiden .
 LK[V]MF[SO]	aux-oan	3	4	Zullen de ingenieurs cursisten begeleiden ?
 MF[SO]VC[V]	aux-oan	3	4	Omdat de ingenieurs cursisten zullen begeleiden .
 VF[S]LK[V]MF[O]	aux-oan	2	5	De deskundige zal een burgemeester adviseren .
-VF[O]LK[V]MF[S]	aux-oan	5	2	Een burgemeester zal de deskundige adviseren .
 VF[ADV]LK[V]MF[SO]	aux-oan	4	6	Daarom zal de deskundige een burgemeester adviseren .
 LK[V]MF[SO]	aux-oan	3	5	Zal de deskundige een burgemeester adviseren ?
 MF[SO]VC[V]	aux-oan	3	5	Omdat de deskundige een burgemeester zal adviseren .
 VF[S]LK[V]MF[O]	aux-oan	2	4	De reizigers zullen tolken eisen .
-VF[O]LK[V]MF[S]	aux-oan	4	1	Tolken zullen de reizigers eisen .
 VF[ADV]LK[V]MF[SO]	aux-oan	4	5	Daarom zullen de reizigers tolken eisen .
 LK[V]MF[SO]	aux-oan	3	4	Zullen de reizigers tolken eisen ?
 MF[SO]VC[V]	aux-oan	3	4	Omdat de reizigers tolken zullen eisen .
 VF[S]LK[V]MF[O]	aux-oan	2	4	De brandweermannen zullen slachtoffers bevrijden .
-VF[O]LK[V]MF[S]	aux-oan	4	1	Slachtoffers zullen de brandweermannen bevrijden .
 VF[ADV]LK[V]MF[SO]	aux-oan	4	5	Daarom zullen de brandweermannen slachtoffers bevrijden .
 LK[V]MF[SO]	aux-oan	3	4	Zullen de brandweermannen slachtoffers bevrijden ?
 MF[SO]VC[V]	aux-oan	3	4	Omdat de brandweermannen slachtoffers zullen bevrijden .
 VF[S]LK[V]MF[O]	spron-oan	1	3	Ze benoemen opvolgers .
-VF[O]LK[V]MF[S]	spron-oan	3	1	Opvolgers benoemen ze .
 VF[ADV]LK[V]MF[SO]	spron-oan	3	4	Daarom benoemen ze opvolgers .
 LK[V]MF[SO]	spron-oan	2	3	Benoemen ze opvolgers ?
 MF[SO]VC[V]	spron-oan	2	3	Omdat ze opvolgers benoemen .
 VF[S]LK[V]MF[O]	spron-oan	1	3	Jullie interviewen ECB-bazinnen .
-VF[O]LK[V]MF[S]	spron-oan	3	1	ECB-bazinnen interviewen jullie .
 VF[ADV]LK[V]MF[SO]	spron-oan	3	4	Daarom interviewen jullie ECB-bazinnen .
 LK[V]MF[SO]	spron-oan	2	3	Interviewen jullie ECB-bazinnen ?
 MF[SO]VC[V]	spron-oan	2	3	Omdat jullie ECB-bazinnen interviewen .
 VF[S]LK[V]MF[O]	spron-oan	1	3	Ze voeden spinnen .
-VF[O]LK[V]MF[S]	spron-oan	3	1	Spinnen voeden ze .
 VF[ADV]LK[V]MF[SO]	spron-oan	3	4	Daarom voeden ze spinnen .
 LK[V]MF[SO]	spron-oan	2	3	Voeden ze spinnen ?
 MF[SO]VC[V]	spron-oan	2	3	Omdat ze spinnen voeden .
 VF[S]LK[V]MF[O]	spron-oan	1	3	Ze krabben hondeneigenaars .
-VF[O]LK[V]MF[S]	spron-oan	3	1	Hondeneigenaars krabben ze .
 VF[ADV]LK[V]MF[SO]	spron-oan	3	4	Daarom krabben ze hondeneigenaars .
 LK[V]MF[SO]	spron-oan	2	3	Krabben ze hondeneigenaars ?
 MF[SO]VC[V]	spron-oan	2	3	Omdat ze hondeneigenaars krabben .
 VF[S]LK[V]MF[O]	spron-oan	1	3	Ze bedienen gasten .
-VF[O]LK[V]MF[S]	spron-oan	3	1	Gasten bedienen ze .
 VF[ADV]LK[V]MF[SO]	spron-oan	3	4	Daarom bedienen ze gasten .
 LK[V]MF[SO]	spron-oan	2	3	Bedienen ze gasten ?
 MF[SO]VC[V]	spron-oan	2	3	Omdat ze gasten bedienen .
 VF[S]LK[V]MF[O]	spron-oan	1	3	Jullie accepteren sollicitanten .
-VF[O]LK[V]MF[S]	spron-oan	3	1	Sollicitanten accepteren jullie .
 VF[ADV]LK[V]MF[SO]	spron-oan	3	4	Daarom accepteren jullie sollicitanten .
 LK[V]MF[SO]	spron-oan	2	3	Accepteren jullie sollicitanten ?
 MF[SO]VC[V]	spron-oan	2	3	Omdat jullie sollicitanten accepteren .
 VF[S]LK[V]MF[O]	spron-oan	1	3	Ze huren verdelgers .
-VF[O]LK[V]MF[S]	spron-oan	3	1	Verdelgers huren ze .
 VF[ADV]LK[V]MF[SO]	spron-oan	3	4	Daarom huren ze verdelgers .
 LK[V]MF[SO]	spron-oan	2	3	Huren ze verdelgers ?
 MF[SO]VC[V]	spron-oan	2	3	Omdat ze verdelgers huren .
 VF[S]LK[V]MF[O]	spron-oan	1	3	Ze babysitten kinderen .
-VF[O]LK[V]MF[S]	spron-oan	3	1	Kinderen babysitten ze .
 VF[ADV]LK[V]MF[SO]	spron-oan	3	4	Daarom babysitten ze kinderen .
 LK[V]MF[SO]	spron-oan	2	3	Babysitten ze kinderen ?
 MF[SO]VC[V]	spron-oan	2	3	Omdat ze kinderen babysitten .
 VF[S]LK[V]MF[O]	spron-oan	1	3	Ze dirigeren orkestmuzikanten .
-VF[O]LK[V]MF[S]	spron-oan	3	1	Orkestmuzikanten dirigeren ze .
 VF[ADV]LK[V]MF[SO]	spron-oan	3	4	Daarom dirigeren ze orkestmuzikanten .
 LK[V]MF[SO]	spron-oan	2	3	Dirigeren ze orkestmuzikanten ?
 MF[SO]VC[V]	spron-oan	2	3	Omdat ze orkestmuzikanten dirigeren .
 VF[S]LK[V]MF[O]	spron-oan	1	3	Jullie fotograferen modellen .
-VF[O]LK[V]MF[S]	spron-oan	3	1	Modellen fotograferen jullie .
 VF[ADV]LK[V]MF[SO]	spron-oan	3	4	Daarom fotograferen jullie modellen .
 LK[V]MF[SO]	spron-oan	2	3	Fotograferen jullie modellen ?
 MF[SO]VC[V]	spron-oan	2	3	Omdat jullie modellen fotograferen .
 VF[S]LK[V]MF[O]	spron-oan	1	3	Ze begeleiden cursisten .
-VF[O]LK[V]MF[S]	spron-oan	3	1	Cursisten begeleiden ze .
 VF[ADV]LK[V]MF[SO]	spron-oan	3	4	Daarom begeleiden ze cursisten .
 LK[V]MF[SO]	spron-oan	2	3	Begeleiden ze cursisten ?
 MF[SO]VC[V]	spron-oan	2	3	Omdat ze cursisten begeleiden .
 VF[S]LK[V]MF[O]	spron-oan	1	3	Jullie bevrijden slachtoffers .
-VF[O]LK[V]MF[S]	spron-oan	3	1	Slachtoffers bevrijden jullie .
 VF[ADV]LK[V]MF[SO]	spron-oan	3	4	Daarom bevrijden jullie slachtoffers .
 LK[V]MF[SO]	spron-oan	2	3	Bevrijden jullie slachtoffers ?
 MF[SO]VC[V]	spron-oan	2	3	Omdat jullie slachtoffers bevrijden .
 VF[S]LK[V]MF[O]	oneg-oan	2	5	De bestuursvoorzitters benoemen geen opvolgers .
-VF[O]LK[V]MF[S]	oneg-oan	5	2	Geen opvolgers benoemen de bestuursvoorzitters .
 VF[ADV]LK[V]MF[SO]	oneg-oan	4	6	Daarom benoemen de bestuursvoorzitters geen opvolgers .
 LK[V]MF[SO]	oneg-oan	3	5	Benoemen de bestuursvoorzitters geen opvolgers ?
 MF[SO]VC[V]	oneg-oan	3	5	Omdat de bestuursvoorzitters geen opvolgers benoemen .
 VF[S]LK[V]MF[O]	oneg-oan	2	5	De televisiereporter interviewt geen ECB-bazin .
-VF[O]LK[V]MF[S]	oneg-oan	5	2	Geen ECB-bazin interviewt de televisiereporter .
 VF[ADV]LK[V]MF[SO]	oneg-oan	4	6	Daarom interviewt de televisiereporter geen ECB-bazin .
 LK[V]MF[SO]	oneg-oan	3	5	Interviewt de televisiereporter geen ECB-bazin ?
 MF[SO]VC[V]	oneg-oan	3	5	Omdat de televisiereporter geen ECB-bazin interviewt .
 VF[S]LK[V]MF[O]	oneg-oan	2	5	De fokkers voeden geen spinnen .
-VF[O]LK[V]MF[S]	oneg-oan	5	2	Geen spinnen voeden de fokkers .
 VF[ADV]LK[V]MF[SO]	oneg-oan	4	6	Daarom voeden de fokkers geen spinnen .
 LK[V]MF[SO]	oneg-oan	3	5	Voeden de fokkers geen spinnen ?
 MF[SO]VC[V]	oneg-oan	3	5	Omdat de fokkers geen spinnen voeden .
 VF[S]LK[V]MF[O]	oneg-oan	2	5	De katten krabben geen hondeneigenaars .
-VF[O]LK[V]MF[S]	oneg-oan	5	2	Geen hondeneigenaars krabben de katten .
 VF[ADV]LK[V]MF[SO]	oneg-oan	4	6	Daarom krabben de katten geen hondeneigenaars .
 LK[V]MF[SO]	oneg-oan	3	5	Krabben de katten geen hondeneigenaars ?
 MF[SO]VC[V]	oneg-oan	3	5	Omdat de katten geen hondeneigenaars krabben .
 VF[S]LK[V]MF[O]	oneg-oan	2	5	De obers bedienen geen gasten .
-VF[O]LK[V]MF[S]	oneg-oan	5	2	Geen gasten bedienen de obers .
 VF[ADV]LK[V]MF[SO]	oneg-oan	4	6	Daarom bedienen de obers geen gasten .
 LK[V]MF[SO]	oneg-oan	3	5	Bedienen de obers geen gasten ?
 MF[SO]VC[V]	oneg-oan	3	5	Omdat de obers geen gasten bedienen .
 VF[S]LK[V]MF[O]	oneg-oan	2	5	De HR-manager accepteert geen sollicitant .
-VF[O]LK[V]MF[S]	oneg-oan	5	2	Geen sollicitant accepteert de HR-manager .
 VF[ADV]LK[V]MF[SO]	oneg-oan	4	6	Daarom accepteert de HR-manager geen sollicitant .
 LK[V]MF[SO]	oneg-oan	3	5	Accepteert de HR-manager geen sollicitant ?
 MF[SO]VC[V]	oneg-oan	3	5	Omdat de HR-manager geen sollicitant accepteert .
 VF[S]LK[V]MF[O]	oneg-oan	2	5	De acteur imiteert geen jazzpianist .
-VF[O]LK[V]MF[S]	oneg-oan	5	2	Geen jazzpianist imiteert de acteur .
 VF[ADV]LK[V]MF[SO]	oneg-oan	4	6	Daarom imiteert de acteur geen jazzpianist .
 LK[V]MF[SO]	oneg-oan	3	5	Imiteert de acteur geen jazzpianist ?
 MF[SO]VC[V]	oneg-oan	3	5	Omdat de acteur geen jazzpianist imiteert .
 VF[S]LK[V]MF[O]	oneg-oan	2	5	De huurders huren geen verdelgers .
-VF[O]LK[V]MF[S]	oneg-oan	5	2	Geen verdelgers huren de huurders .
 VF[ADV]LK[V]MF[SO]	oneg-oan	4	6	Daarom huren de huurders geen verdelgers .
 LK[V]MF[SO]	oneg-oan	3	5	Huren de huurders geen verdelgers ?
 MF[SO]VC[V]	oneg-oan	3	5	Omdat de huurders geen verdelgers huren .
 VF[S]LK[V]MF[O]	oneg-oan	2	5	De 18-jarigen babysitten geen kinderen .
-VF[O]LK[V]MF[S]	oneg-oan	5	2	Geen kinderen babysitten de 18-jarigen .
 VF[ADV]LK[V]MF[SO]	oneg-oan	4	6	Daarom babysitten de 18-jarigen geen kinderen .
 LK[V]MF[SO]	oneg-oan	3	5	Babysitten de 18-jarigen geen kinderen ?
 MF[SO]VC[V]	oneg-oan	3	5	Omdat de 18-jarigen geen kinderen babysitten .
 VF[S]LK[V]MF[O]	oneg-oan	2	5	De Zwitser dirigeert geen orkestmuzikant .
-VF[O]LK[V]MF[S]	oneg-oan	5	2	Geen orkestmuzikant dirigeert de Zwitser .
 VF[ADV]LK[V]MF[SO]	oneg-oan	4	6	Daarom dirigeert de Zwitser geen orkestmuzikant .
 LK[V]MF[SO]	oneg-oan	3	5	Dirigeert de Zwitser geen orkestmuzikant ?
 MF[SO]VC[V]	oneg-oan	3	5	Omdat de Zwitser geen orkestmuzikant dirigeert .
 VF[S]LK[V]MF[O]	oneg-oan	2	5	De fotograaf fotografeert geen model .
-VF[O]LK[V]MF[S]	oneg-oan	5	2	Geen model fotografeert de fotograaf .
 VF[ADV]LK[V]MF[SO]	oneg-oan	4	6	Daarom fotografeert de fotograaf geen model .
 LK[V]MF[SO]	oneg-oan	3	5	Fotografeert de fotograaf geen model ?
 MF[SO]VC[V]	oneg-oan	3	5	Omdat de fotograaf geen model fotografeert .
 VF[S]LK[V]MF[O]	oneg-oan	2	5	De ingenieurs begeleiden geen cursisten .
-VF[O]LK[V]MF[S]	oneg-oan	5	2	Geen cursisten begeleiden de ingenieurs .
 VF[ADV]LK[V]MF[SO]	oneg-oan	4	6	Daarom begeleiden de ingenieurs geen cursisten .
 LK[V]MF[SO]	oneg-oan	3	5	Begeleiden de ingenieurs geen cursisten ?
 MF[SO]VC[V]	oneg-oan	3	5	Omdat de ingenieurs geen cursisten begeleiden .
 VF[S]LK[V]MF[O]	oneg-oan	2	5	De deskundige adviseert geen burgemeester .
-VF[O]LK[V]MF[S]	oneg-oan	5	2	Geen burgemeester adviseert de deskundige .
 VF[ADV]LK[V]MF[SO]	oneg-oan	4	6	Daarom adviseert de deskundige geen burgemeester .
 LK[V]MF[SO]	oneg-oan	3	5	Adviseert de deskundige geen burgemeester ?
 MF[SO]VC[V]	oneg-oan	3	5	Omdat de deskundige geen burgemeester adviseert .
 VF[S]LK[V]MF[O]	oneg-oan	2	5	De reizigers eisen geen tolken .
-VF[O]LK[V]MF[S]	oneg-oan	5	2	Geen tolken eisen de reizigers .
 VF[ADV]LK[V]MF[SO]	oneg-oan	4	6	Daarom eisen de reizigers geen tolken .
 LK[V]MF[SO]	oneg-oan	3	5	Eisen de reizigers geen tolken ?
 MF[SO]VC[V]	oneg-oan	3	5	Omdat de reizigers geen tolken eisen .
 VF[S]LK[V]MF[O]	oneg-oan	2	5	De brandweermannen bevrijden geen slachtoffers .
-VF[O]LK[V]MF[S]	oneg-oan	5	2	Geen slachtoffers bevrijden de brandweermannen .
 VF[ADV]LK[V]MF[SO]	oneg-oan	4	6	Daarom bevrijden de brandweermannen geen slachtoffers .
 LK[V]MF[SO]	oneg-oan	3	5	Bevrijden de brandweermannen geen slachtoffers ?
 MF[SO]VC[V]	oneg-oan	3	5	Omdat de brandweermannen geen slachtoffers bevrijden .
 VF[S]LK[V]MF[O]	sinan-oan	2	5	Het quotum egaliseert een man .
-VF[O]LK[V]MF[S]	sinan-oan	5	2	Een man egaliseert het quotum .
 VF[ADV]LK[V]MF[SO]	sinan-oan	4	6	Daarom egaliseert het quotum een man .
 LK[V]MF[SO]	sinan-oan	3	5	Egaliseert het quotum een man ?
 MF[SO]VC[V]	sinan-oan	3	5	Omdat het quotum een man egaliseert .
 VF[S]LK[V]MF[O]	sinan-oan	2	4	De cyclonen raken kustbewoners .
-VF[O]LK[V]MF[S]	sinan-oan	4	1	Kustbewoners raken de cyclonen .
 VF[ADV]LK[V]MF[SO]	sinan-oan	4	5	Daarom raken de cyclonen kustbewoners .
 LK[V]MF[SO]	sinan-oan	3	4	Raken de cyclonen kustbewoners ?
 MF[SO]VC[V]	sinan-oan	3	4	Omdat de cyclonen kustbewoners raken .
 VF[S]LK[V]MF[O]	sinan-oan	2	4	De gassen schaden dokters .
-VF[O]LK[V]MF[S]	sinan-oan	4	1	Dokters schaden de gassen .
 VF[ADV]LK[V]MF[SO]	sinan-oan	4	5	Daarom schaden de gassen dokters .
 LK[V]MF[SO]	sinan-oan	3	4	Schaden de gassen dokters ?
 MF[SO]VC[V]	sinan-oan	3	4	Omdat de gassen dokters schaden .
 VF[S]LK[V]MF[O]	sinan-oan	2	4	De muurreliëfs roepen schilders .
-VF[O]LK[V]MF[S]	sinan-oan	4	1	Schilders roepen de muurreliëfs .
 VF[ADV]LK[V]MF[SO]	sinan-oan	4	5	Daarom roepen de muurreliëfs schilders .
 LK[V]MF[SO]	sinan-oan	3	4	Roepen de muurreliëfs schilders ?
 MF[SO]VC[V]	sinan-oan	3	4	Omdat de muurreliëfs schilders roepen .
 VF[S]LK[V]MF[O]	sinan-oan	2	5	De video-installatie vormt een waarnemer .
-VF[O]LK[V]MF[S]	sinan-oan	5	2	Een waarnemer vormt de video-installatie .
 VF[ADV]LK[V]MF[SO]	sinan-oan	4	6	Daarom vormt de video-installatie een waarnemer .
 LK[V]MF[SO]	sinan-oan	3	5	Vormt de video-installatie een waarnemer ?
 MF[SO]VC[V]	sinan-oan	3	5	Omdat de video-installatie een waarnemer vormt .
 VF[S]LK[V]MF[O]	sinan-oan	2	4	De werken brengen gastarbeiders .
-VF[O]LK[V]MF[S]	sinan-oan	4	1	Gastarbeiders brengen de werken .
 VF[ADV]LK[V]MF[SO]	sinan-oan	4	5	Daarom brengen de werken gastarbeiders .
 LK[V]MF[SO]	sinan-oan	3	4	Brengen de werken gastarbeiders ?
 MF[SO]VC[V]	sinan-oan	3	4	Omdat de werken gastarbeiders brengen .
 VF[S]LK[V]MF[O]	sinan-oan	2	4	De orkanen vernietigen aannemers .
-VF[O]LK[V]MF[S]	sinan-oan	4	1	Aannemers vernietigen de orkanen .
 VF[ADV]LK[V]MF[SO]	sinan-oan	4	5	Daarom vernietigen de orkanen aannemers .
 LK[V]MF[SO]	sinan-oan	3	4	Vernietigen de orkanen aannemers ?
 MF[SO]VC[V]	sinan-oan	3	4	Omdat de orkanen aannemers vernietigen .
@@ -1935,112 +1803,90 @@ VF[ADV]LK[V]MF[SO]	aux-invan	4	6	Daarom zal de klimaatverandering een bij bedrei
 LK[V]MF[SO]	aux-invan	3	5	Zal de klimaatverandering een bij bedreigen ?
 MF[SO]VC[V]	aux-invan	3	5	Omdat de klimaatverandering een bij zal bedreigen .
 VF[S]LK[V]MF[O]	spron-invan	1	4	Het overvalt een badmeester .
-VF[O]LK[V]MF[S]	spron-invan	4	2	Een badmeester overvalt het .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	5	Daarom overvalt het een badmeester .
 LK[V]MF[SO]	spron-invan	2	4	Overvalt het een badmeester ?
 MF[SO]VC[V]	spron-invan	2	4	Omdat het een badmeester overvalt .
 VF[S]LK[V]MF[O]	spron-invan	1	3	Ze beknellen hardlopers .
-VF[O]LK[V]MF[S]	spron-invan	3	1	Hardlopers beknellen ze .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	4	Daarom beknellen ze hardlopers .
 LK[V]MF[SO]	spron-invan	2	3	Beknellen ze hardlopers ?
 MF[SO]VC[V]	spron-invan	2	3	Omdat ze hardlopers beknellen .
 VF[S]LK[V]MF[O]	spron-invan	1	3	Ze stimuleren uitstellers .
-VF[O]LK[V]MF[S]	spron-invan	3	1	Uitstellers stimuleren ze .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	4	Daarom stimuleren ze uitstellers .
 LK[V]MF[SO]	spron-invan	2	3	Stimuleren ze uitstellers ?
 MF[SO]VC[V]	spron-invan	2	3	Omdat ze uitstellers stimuleren .
 VF[S]LK[V]MF[O]	spron-invan	1	3	Ze verwarmen wandelaars .
-VF[O]LK[V]MF[S]	spron-invan	3	1	Wandelaars verwarmen ze .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	4	Daarom verwarmen ze wandelaars .
 LK[V]MF[SO]	spron-invan	2	3	Verwarmen ze wandelaars ?
 MF[SO]VC[V]	spron-invan	2	3	Omdat ze wandelaars verwarmen .
 VF[S]LK[V]MF[O]	spron-invan	1	3	Ze doordrenken fietsers .
-VF[O]LK[V]MF[S]	spron-invan	3	1	Fietsers doordrenken ze .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	4	Daarom doordrenken ze fietsers .
 LK[V]MF[SO]	spron-invan	2	3	Doordrenken ze fietsers ?
 MF[SO]VC[V]	spron-invan	2	3	Omdat ze fietsers doordrenken .
 VF[S]LK[V]MF[O]	spron-invan	1	3	Ze betreffen huiseigenaars .
-VF[O]LK[V]MF[S]	spron-invan	3	1	Huiseigenaars betreffen ze .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	4	Daarom betreffen ze huiseigenaars .
 LK[V]MF[SO]	spron-invan	2	3	Betreffen ze huiseigenaars ?
 MF[SO]VC[V]	spron-invan	2	3	Omdat ze huiseigenaars betreffen .
 VF[S]LK[V]MF[O]	spron-invan	1	3	Ze kenmerken groentjes .
-VF[O]LK[V]MF[S]	spron-invan	3	1	Groentjes kenmerken ze .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	4	Daarom kenmerken ze groentjes .
 LK[V]MF[SO]	spron-invan	2	3	Kenmerken ze groentjes ?
 MF[SO]VC[V]	spron-invan	2	3	Omdat ze groentjes kenmerken .
 VF[S]LK[V]MF[O]	spron-invan	1	3	Ze verblinden zwemsters .
-VF[O]LK[V]MF[S]	spron-invan	3	1	Zwemsters verblinden ze .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	4	Daarom verblinden ze zwemsters .
 LK[V]MF[SO]	spron-invan	2	3	Verblinden ze zwemsters ?
 MF[SO]VC[V]	spron-invan	2	3	Omdat ze zwemsters verblinden .
 VF[S]LK[V]MF[O]	spron-invan	1	3	Ze vervoeren passagiers .
-VF[O]LK[V]MF[S]	spron-invan	3	1	Passagiers vervoeren ze .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	4	Daarom vervoeren ze passagiers .
 LK[V]MF[SO]	spron-invan	2	3	Vervoeren ze passagiers ?
 MF[SO]VC[V]	spron-invan	2	3	Omdat ze passagiers vervoeren .
 VF[S]LK[V]MF[O]	spron-invan	1	4	Het staat een entertainer .
-VF[O]LK[V]MF[S]	spron-invan	4	2	Een entertainer staat het .
 VF[ADV]LK[V]MF[SO]	spron-invan	3	5	Daarom staat het een entertainer .
 LK[V]MF[SO]	spron-invan	2	4	Staat het een entertainer ?
 MF[SO]VC[V]	spron-invan	2	4	Omdat het een entertainer staat .
 VF[S]LK[V]MF[O]	opron-invan	2	4	De druktes overvallen jullie .
-VF[O]LK[V]MF[S]	opron-invan	4	1	Jullie overvallen de druktes .
 VF[ADV]LK[V]MF[SO]	opron-invan	4	5	Daarom overvallen de druktes jullie .
 LK[V]MF[SO]	opron-invan	3	4	Overvallen de druktes jullie ?
 MF[SO]VC[V]	opron-invan	3	4	Omdat de druktes jullie overvallen .
 VF[S]LK[V]MF[O]	opron-invan	2	4	De schulden raken jullie .
-VF[O]LK[V]MF[S]	opron-invan	4	1	Jullie raken de schulden .
 VF[ADV]LK[V]MF[SO]	opron-invan	4	5	Daarom raken de schulden jullie .
 LK[V]MF[SO]	opron-invan	3	4	Raken de schulden jullie ?
 MF[SO]VC[V]	opron-invan	3	4	Omdat de schulden jullie raken .
 VF[S]LK[V]MF[O]	opron-invan	2	4	De schoenen beknellen ze .
-VF[O]LK[V]MF[S]	opron-invan	4	1	Ze beknellen de schoenen .
 VF[ADV]LK[V]MF[SO]	opron-invan	4	5	Daarom beknellen de schoenen ze .
 LK[V]MF[SO]	opron-invan	3	4	Beknellen de schoenen ze ?
 MF[SO]VC[V]	opron-invan	3	4	Omdat de schoenen ze beknellen .
 VF[S]LK[V]MF[O]	opron-invan	2	4	De deadlines stimuleren jullie .
-VF[O]LK[V]MF[S]	opron-invan	4	1	Jullie stimuleren de deadlines .
 VF[ADV]LK[V]MF[SO]	opron-invan	4	5	Daarom stimuleren de deadlines jullie .
 LK[V]MF[SO]	opron-invan	3	4	Stimuleren de deadlines jullie ?
 MF[SO]VC[V]	opron-invan	3	4	Omdat de deadlines jullie stimuleren .
 VF[S]LK[V]MF[O]	opron-invan	2	4	De kachels verwarmen ze .
-VF[O]LK[V]MF[S]	opron-invan	4	1	Ze verwarmen de kachels .
 VF[ADV]LK[V]MF[SO]	opron-invan	4	5	Daarom verwarmen de kachels ze .
 LK[V]MF[SO]	opron-invan	3	4	Verwarmen de kachels ze ?
 MF[SO]VC[V]	opron-invan	3	4	Omdat de kachels ze verwarmen .
 VF[S]LK[V]MF[O]	opron-invan	2	4	De buien doordrenken ze .
-VF[O]LK[V]MF[S]	opron-invan	4	1	Ze doordrenken de buien .
 VF[ADV]LK[V]MF[SO]	opron-invan	4	5	Daarom doordrenken de buien ze .
 LK[V]MF[SO]	opron-invan	3	4	Doordrenken de buien ze ?
 MF[SO]VC[V]	opron-invan	3	4	Omdat de buien ze doordrenken .
 VF[S]LK[V]MF[O]	opron-invan	2	4	De navigatiesystemen begeleiden jullie .
-VF[O]LK[V]MF[S]	opron-invan	4	1	Jullie begeleiden de navigatiesystemen .
 VF[ADV]LK[V]MF[SO]	opron-invan	4	5	Daarom begeleiden de navigatiesystemen jullie .
 LK[V]MF[SO]	opron-invan	3	4	Begeleiden de navigatiesystemen jullie ?
 MF[SO]VC[V]	opron-invan	3	4	Omdat de navigatiesystemen jullie begeleiden .
 VF[S]LK[V]MF[O]	opron-invan	2	4	De zon verblindt het .
-VF[O]LK[V]MF[S]	opron-invan	4	1	Het verblindt de zon .
 VF[ADV]LK[V]MF[SO]	opron-invan	4	5	Daarom verblindt de zon het .
 LK[V]MF[SO]	opron-invan	3	4	Verblindt de zon het ?
 MF[SO]VC[V]	opron-invan	3	4	Omdat de zon het verblindt .
 VF[S]LK[V]MF[O]	opron-invan	2	4	De treinen vervoeren ze .
-VF[O]LK[V]MF[S]	opron-invan	4	1	Ze vervoeren de treinen .
 VF[ADV]LK[V]MF[SO]	opron-invan	4	5	Daarom vervoeren de treinen ze .
 LK[V]MF[SO]	opron-invan	3	4	Vervoeren de treinen ze ?
 MF[SO]VC[V]	opron-invan	3	4	Omdat de treinen ze vervoeren .
 VF[S]LK[V]MF[O]	opron-invan	2	4	De rugleuningen ondersteunen ze .
-VF[O]LK[V]MF[S]	opron-invan	4	1	Ze ondersteunen de rugleuningen .
 VF[ADV]LK[V]MF[SO]	opron-invan	4	5	Daarom ondersteunen de rugleuningen ze .
 LK[V]MF[SO]	opron-invan	3	4	Ondersteunen de rugleuningen ze ?
 MF[SO]VC[V]	opron-invan	3	4	Omdat de rugleuningen ze ondersteunen .
 VF[S]LK[V]MF[O]	opron-invan	2	4	De broeken staan ze .
-VF[O]LK[V]MF[S]	opron-invan	4	1	Ze staan de broeken .
 VF[ADV]LK[V]MF[SO]	opron-invan	4	5	Daarom staan de broeken ze .
 LK[V]MF[SO]	opron-invan	3	4	Staan de broeken ze ?
 MF[SO]VC[V]	opron-invan	3	4	Omdat de broeken ze staan .
 VF[S]LK[V]MF[O]	opron-invan	2	4	De klimaatverandering bedreigt het .
-VF[O]LK[V]MF[S]	opron-invan	4	1	Het bedreigt de klimaatverandering .
 VF[ADV]LK[V]MF[SO]	opron-invan	4	5	Daarom bedreigt de klimaatverandering het .
 LK[V]MF[SO]	opron-invan	3	4	Bedreigt de klimaatverandering het ?
 MF[SO]VC[V]	opron-invan	3	4	Omdat de klimaatverandering het bedreigt .
@@ -2345,72 +2191,58 @@ VF[ADV]LK[V]MF[SO]	aux-regpol	4	5	Daarom zullen de concerns constructies regelen
 LK[V]MF[SO]	aux-regpol	3	4	Zullen de concerns constructies regelen ?
 MF[SO]VC[V]	aux-regpol	3	4	Omdat de concerns constructies zullen regelen .
 VF[S]LK[V]MF[O]	opron-regpol	2	4	Het kantoor plant het .
-VF[O]LK[V]MF[S]	opron-regpol	4	1	Het plant het kantoor .
 VF[ADV]LK[V]MF[SO]	opron-regpol	4	5	Daarom plant het kantoor het .
 LK[V]MF[SO]	opron-regpol	3	4	Plant het kantoor het ?
 MF[SO]VC[V]	opron-regpol	3	4	Omdat het kantoor het plant .
 VF[S]LK[V]MF[O]	opron-regpol	2	4	Het restaurant beleeft het .
-VF[O]LK[V]MF[S]	opron-regpol	4	1	Het beleeft het restaurant .
 VF[ADV]LK[V]MF[SO]	opron-regpol	4	5	Daarom beleeft het restaurant het .
 LK[V]MF[SO]	opron-regpol	3	4	Beleeft het restaurant het ?
 MF[SO]VC[V]	opron-regpol	3	4	Omdat het restaurant het beleeft .
 VF[S]LK[V]MF[O]	opron-regpol	2	4	Het reclamebureau synchroniseert het .
-VF[O]LK[V]MF[S]	opron-regpol	4	1	Het synchroniseert het reclamebureau .
 VF[ADV]LK[V]MF[SO]	opron-regpol	4	5	Daarom synchroniseert het reclamebureau het .
 LK[V]MF[SO]	opron-regpol	3	4	Synchroniseert het reclamebureau het ?
 MF[SO]VC[V]	opron-regpol	3	4	Omdat het reclamebureau het synchroniseert .
 VF[S]LK[V]MF[O]	opron-regpol	2	4	De gemeente repeteert het .
-VF[O]LK[V]MF[S]	opron-regpol	4	1	Het repeteert de gemeente .
 VF[ADV]LK[V]MF[SO]	opron-regpol	4	5	Daarom repeteert de gemeente het .
 LK[V]MF[SO]	opron-regpol	3	4	Repeteert de gemeente het ?
 MF[SO]VC[V]	opron-regpol	3	4	Omdat de gemeente het repeteert .
 VF[S]LK[V]MF[O]	opron-regpol	2	4	Het bureau verzint het .
-VF[O]LK[V]MF[S]	opron-regpol	4	1	Het verzint het bureau .
 VF[ADV]LK[V]MF[SO]	opron-regpol	4	5	Daarom verzint het bureau het .
 LK[V]MF[SO]	opron-regpol	3	4	Verzint het bureau het ?
 MF[SO]VC[V]	opron-regpol	3	4	Omdat het bureau het verzint .
 VF[S]LK[V]MF[O]	opron-regpol	2	4	De praktijk bestelt het .
-VF[O]LK[V]MF[S]	opron-regpol	4	1	Het bestelt de praktijk .
 VF[ADV]LK[V]MF[SO]	opron-regpol	4	5	Daarom bestelt de praktijk het .
 LK[V]MF[SO]	opron-regpol	3	4	Bestelt de praktijk het ?
 MF[SO]VC[V]	opron-regpol	3	4	Omdat de praktijk het bestelt .
 VF[S]LK[V]MF[O]	opron-regpol	2	4	Het kapsalon scheert het .
-VF[O]LK[V]MF[S]	opron-regpol	4	1	Het scheert het kapsalon .
 VF[ADV]LK[V]MF[SO]	opron-regpol	4	5	Daarom scheert het kapsalon het .
 LK[V]MF[SO]	opron-regpol	3	4	Scheert het kapsalon het ?
 MF[SO]VC[V]	opron-regpol	3	4	Omdat het kapsalon het scheert .
 VF[S]LK[V]MF[O]	opron-regpol	2	4	De redactie drinkt het .
-VF[O]LK[V]MF[S]	opron-regpol	4	1	Het drinkt de redactie .
 VF[ADV]LK[V]MF[SO]	opron-regpol	4	5	Daarom drinkt de redactie het .
 LK[V]MF[SO]	opron-regpol	3	4	Drinkt de redactie het ?
 MF[SO]VC[V]	opron-regpol	3	4	Omdat de redactie het drinkt .
 VF[S]LK[V]MF[O]	opron-regpol	2	4	Het instituut schrijft het .
-VF[O]LK[V]MF[S]	opron-regpol	4	1	Het schrijft het instituut .
 VF[ADV]LK[V]MF[SO]	opron-regpol	4	5	Daarom schrijft het instituut het .
 LK[V]MF[SO]	opron-regpol	3	4	Schrijft het instituut het ?
 MF[SO]VC[V]	opron-regpol	3	4	Omdat het instituut het schrijft .
 VF[S]LK[V]MF[O]	opron-regpol	2	4	Het districtskantoor begint het .
-VF[O]LK[V]MF[S]	opron-regpol	4	1	Het begint het districtskantoor .
 VF[ADV]LK[V]MF[SO]	opron-regpol	4	5	Daarom begint het districtskantoor het .
 LK[V]MF[SO]	opron-regpol	3	4	Begint het districtskantoor het ?
 MF[SO]VC[V]	opron-regpol	3	4	Omdat het districtskantoor het begint .
 VF[S]LK[V]MF[O]	opron-regpol	2	4	De school krijgt het .
-VF[O]LK[V]MF[S]	opron-regpol	4	1	Het krijgt de school .
 VF[ADV]LK[V]MF[SO]	opron-regpol	4	5	Daarom krijgt de school het .
 LK[V]MF[SO]	opron-regpol	3	4	Krijgt de school het ?
 MF[SO]VC[V]	opron-regpol	3	4	Omdat de school het krijgt .
 VF[S]LK[V]MF[O]	opron-regpol	2	4	De garage bouwt het .
-VF[O]LK[V]MF[S]	opron-regpol	4	1	Het bouwt de garage .
 VF[ADV]LK[V]MF[SO]	opron-regpol	4	5	Daarom bouwt de garage het .
 LK[V]MF[SO]	opron-regpol	3	4	Bouwt de garage het ?
 MF[SO]VC[V]	opron-regpol	3	4	Omdat de garage het bouwt .
 VF[S]LK[V]MF[O]	opron-regpol	2	4	De universiteit wint het .
-VF[O]LK[V]MF[S]	opron-regpol	4	1	Het wint de universiteit .
 VF[ADV]LK[V]MF[SO]	opron-regpol	4	5	Daarom wint de universiteit het .
 LK[V]MF[SO]	opron-regpol	3	4	Wint de universiteit het ?
 MF[SO]VC[V]	opron-regpol	3	4	Omdat de universiteit het wint .
 VF[S]LK[V]MF[O]	opron-regpol	2	4	Het concern regelt het .
-VF[O]LK[V]MF[S]	opron-regpol	4	1	Het regelt het concern .
 VF[ADV]LK[V]MF[SO]	opron-regpol	4	5	Daarom regelt het concern het .
 LK[V]MF[SO]	opron-regpol	3	4	Regelt het concern het ?
 MF[SO]VC[V]	opron-regpol	3	4	Omdat het concern het regelt .
@@ -2565,72 +2397,58 @@ VF[ADV]LK[V]MF[SO]	pp-regpol	4	8	Daarom regelen de concerns in een week construc
 LK[V]MF[SO]	pp-regpol	3	7	Regelen de concerns in een week constructies ?
 MF[SO]VC[V]	pp-regpol	3	7	Omdat de concerns in een week constructies regelen .
 VF[S]LK[V]MF[O]	oan-regpol	2	4	De kapsalons benoemen opvolgers .
-VF[O]LK[V]MF[S]	oan-regpol	4	1	Opvolgers benoemen de kapsalons .
 VF[ADV]LK[V]MF[SO]	oan-regpol	4	5	Daarom benoemen de kapsalons opvolgers .
 LK[V]MF[SO]	oan-regpol	3	4	Benoemen de kapsalons opvolgers ?
 MF[SO]VC[V]	oan-regpol	3	4	Omdat de kapsalons opvolgers benoemen .
 VF[S]LK[V]MF[O]	oan-regpol	2	4	De kantoren interviewen ECB-bazinnen .
-VF[O]LK[V]MF[S]	oan-regpol	4	1	ECB-bazinnen interviewen de kantoren .
 VF[ADV]LK[V]MF[SO]	oan-regpol	4	5	Daarom interviewen de kantoren ECB-bazinnen .
 LK[V]MF[SO]	oan-regpol	3	4	Interviewen de kantoren ECB-bazinnen ?
 MF[SO]VC[V]	oan-regpol	3	4	Omdat de kantoren ECB-bazinnen interviewen .
 VF[S]LK[V]MF[O]	oan-regpol	2	4	De dorpen voeden spinnen .
-VF[O]LK[V]MF[S]	oan-regpol	4	1	Spinnen voeden de dorpen .
 VF[ADV]LK[V]MF[SO]	oan-regpol	4	5	Daarom voeden de dorpen spinnen .
 LK[V]MF[SO]	oan-regpol	3	4	Voeden de dorpen spinnen ?
 MF[SO]VC[V]	oan-regpol	3	4	Omdat de dorpen spinnen voeden .
 VF[S]LK[V]MF[O]	oan-regpol	2	4	De restaurants bedienen gasten .
-VF[O]LK[V]MF[S]	oan-regpol	4	1	Gasten bedienen de restaurants .
 VF[ADV]LK[V]MF[SO]	oan-regpol	4	5	Daarom bedienen de restaurants gasten .
 LK[V]MF[SO]	oan-regpol	3	4	Bedienen de restaurants gasten ?
 MF[SO]VC[V]	oan-regpol	3	4	Omdat de restaurants gasten bedienen .
 VF[S]LK[V]MF[O]	oan-regpol	2	5	De praktijk accepteert een sollicitant .
-VF[O]LK[V]MF[S]	oan-regpol	5	2	Een sollicitant accepteert de praktijk .
 VF[ADV]LK[V]MF[SO]	oan-regpol	4	6	Daarom accepteert de praktijk een sollicitant .
 LK[V]MF[SO]	oan-regpol	3	5	Accepteert de praktijk een sollicitant ?
 MF[SO]VC[V]	oan-regpol	3	5	Omdat de praktijk een sollicitant accepteert .
 VF[S]LK[V]MF[O]	oan-regpol	2	5	Het reclamebureau imiteert een jazzpianist .
-VF[O]LK[V]MF[S]	oan-regpol	5	2	Een jazzpianist imiteert het reclamebureau .
 VF[ADV]LK[V]MF[SO]	oan-regpol	4	6	Daarom imiteert het reclamebureau een jazzpianist .
 LK[V]MF[SO]	oan-regpol	3	5	Imiteert het reclamebureau een jazzpianist ?
 MF[SO]VC[V]	oan-regpol	3	5	Omdat het reclamebureau een jazzpianist imiteert .
 VF[S]LK[V]MF[O]	oan-regpol	2	5	De gemeente huurt een verdelger .
-VF[O]LK[V]MF[S]	oan-regpol	5	2	Een verdelger huurt de gemeente .
 VF[ADV]LK[V]MF[SO]	oan-regpol	4	6	Daarom huurt de gemeente een verdelger .
 LK[V]MF[SO]	oan-regpol	3	5	Huurt de gemeente een verdelger ?
 MF[SO]VC[V]	oan-regpol	3	5	Omdat de gemeente een verdelger huurt .
 VF[S]LK[V]MF[O]	oan-regpol	2	5	De redactie babysit een kind .
-VF[O]LK[V]MF[S]	oan-regpol	5	2	Een kind babysit de redactie .
 VF[ADV]LK[V]MF[SO]	oan-regpol	4	6	Daarom babysit de redactie een kind .
 LK[V]MF[SO]	oan-regpol	3	5	Babysit de redactie een kind ?
 MF[SO]VC[V]	oan-regpol	3	5	Omdat de redactie een kind babysit .
 VF[S]LK[V]MF[O]	oan-regpol	2	5	Het instituut dirigeert een orkestmuzikant .
-VF[O]LK[V]MF[S]	oan-regpol	5	2	Een orkestmuzikant dirigeert het instituut .
 VF[ADV]LK[V]MF[SO]	oan-regpol	4	6	Daarom dirigeert het instituut een orkestmuzikant .
 LK[V]MF[SO]	oan-regpol	3	5	Dirigeert het instituut een orkestmuzikant ?
 MF[SO]VC[V]	oan-regpol	3	5	Omdat het instituut een orkestmuzikant dirigeert .
 VF[S]LK[V]MF[O]	oan-regpol	2	5	De kunstacademie fotografeert een model .
-VF[O]LK[V]MF[S]	oan-regpol	5	2	Een model fotografeert de kunstacademie .
 VF[ADV]LK[V]MF[SO]	oan-regpol	4	6	Daarom fotografeert de kunstacademie een model .
 LK[V]MF[SO]	oan-regpol	3	5	Fotografeert de kunstacademie een model ?
 MF[SO]VC[V]	oan-regpol	3	5	Omdat de kunstacademie een model fotografeert .
 VF[S]LK[V]MF[O]	oan-regpol	2	4	De districtskantoren begeleiden cursisten .
-VF[O]LK[V]MF[S]	oan-regpol	4	1	Cursisten begeleiden de districtskantoren .
 VF[ADV]LK[V]MF[SO]	oan-regpol	4	5	Daarom begeleiden de districtskantoren cursisten .
 LK[V]MF[SO]	oan-regpol	3	4	Begeleiden de districtskantoren cursisten ?
 MF[SO]VC[V]	oan-regpol	3	4	Omdat de districtskantoren cursisten begeleiden .
 VF[S]LK[V]MF[O]	oan-regpol	2	4	De adviesbureaus adviseren burgemeesters .
-VF[O]LK[V]MF[S]	oan-regpol	4	1	Burgemeesters adviseren de adviesbureaus .
 VF[ADV]LK[V]MF[SO]	oan-regpol	4	5	Daarom adviseren de adviesbureaus burgemeesters .
 LK[V]MF[SO]	oan-regpol	3	4	Adviseren de adviesbureaus burgemeesters ?
 MF[SO]VC[V]	oan-regpol	3	4	Omdat de adviesbureaus burgemeesters adviseren .
 VF[S]LK[V]MF[O]	oan-regpol	2	5	Het concern eist een tolk .
-VF[O]LK[V]MF[S]	oan-regpol	5	2	Een tolk eist het concern .
 VF[ADV]LK[V]MF[SO]	oan-regpol	4	6	Daarom eist het concern een tolk .
 LK[V]MF[SO]	oan-regpol	3	5	Eist het concern een tolk ?
 MF[SO]VC[V]	oan-regpol	3	5	Omdat het concern een tolk eist .
 VF[S]LK[V]MF[O]	oan-regpol	2	5	De universiteit bevrijdt een slachtoffer .
-VF[O]LK[V]MF[S]	oan-regpol	5	2	Een slachtoffer bevrijdt de universiteit .
 VF[ADV]LK[V]MF[SO]	oan-regpol	4	6	Daarom bevrijdt de universiteit een slachtoffer .
 LK[V]MF[SO]	oan-regpol	3	5	Bevrijdt de universiteit een slachtoffer ?
 MF[SO]VC[V]	oan-regpol	3	5	Omdat de universiteit een slachtoffer bevrijdt .
@@ -2785,77 +2603,62 @@ VF[ADV]LK[V]MF[SO]	aux-sname	3	6	Daarom zal Essent NV een constructie regelen .
 LK[V]MF[SO]	aux-sname	2	5	Zal Essent NV een constructie regelen ?
 MF[SO]VC[V]	aux-sname	2	5	Omdat Essent NV een constructie zal regelen .
 VF[S]LK[V]MF[O]	opron-sname	1	3	AkzoNobel plant het .
-VF[O]LK[V]MF[S]	opron-sname	3	1	Het plant AkzoNobel .
 VF[ADV]LK[V]MF[SO]	opron-sname	3	4	Daarom plant AkzoNobel het .
 LK[V]MF[SO]	opron-sname	2	3	Plant AkzoNobel het ?
 MF[SO]VC[V]	opron-sname	2	3	Omdat AkzoNobel het plant .
 VF[S]LK[V]MF[O]	opron-sname	1	3	Balazs leeft het .
-VF[O]LK[V]MF[S]	opron-sname	3	1	Het leeft Balazs .
 VF[ADV]LK[V]MF[SO]	opron-sname	3	4	Daarom leeft Balazs het .
 LK[V]MF[SO]	opron-sname	2	3	Leeft Balazs het ?
 MF[SO]VC[V]	opron-sname	2	3	Omdat Balazs het leeft .
 VF[S]LK[V]MF[O]	opron-sname	1	3	Mercedes synchroniseert het .
-VF[O]LK[V]MF[S]	opron-sname	3	1	Het synchroniseert Mercedes .
 VF[ADV]LK[V]MF[SO]	opron-sname	3	4	Daarom synchroniseert Mercedes het .
 LK[V]MF[SO]	opron-sname	2	3	Synchroniseert Mercedes het ?
 MF[SO]VC[V]	opron-sname	2	3	Omdat Mercedes het synchroniseert .
 VF[S]LK[V]MF[O]	opron-sname	1	4	NPO 1 repeteert het .
-VF[O]LK[V]MF[S]	opron-sname	3	1	Het repeteert NPO 1 .
 VF[ADV]LK[V]MF[SO]	opron-sname	3	5	Daarom repeteert NPO 1 het .
 LK[V]MF[SO]	opron-sname	2	4	Repeteert NPO 1 het ?
 MF[SO]VC[V]	opron-sname	2	4	Omdat NPO 1 het repeteert .
 VF[S]LK[V]MF[O]	opron-sname	1	3	Degas vernielt het .
-VF[O]LK[V]MF[S]	opron-sname	3	1	Het vernielt Degas .
 VF[ADV]LK[V]MF[SO]	opron-sname	3	4	Daarom vernielt Degas het .
 LK[V]MF[SO]	opron-sname	2	3	Vernielt Degas het ?
 MF[SO]VC[V]	opron-sname	2	3	Omdat Degas het vernielt .
 VF[S]LK[V]MF[O]	opron-sname	1	4	Staf Coppens verzint het .
-VF[O]LK[V]MF[S]	opron-sname	3	1	Het verzint Staf Coppens .
 VF[ADV]LK[V]MF[SO]	opron-sname	3	5	Daarom verzint Staf Coppens het .
 LK[V]MF[SO]	opron-sname	2	4	Verzint Staf Coppens het ?
 MF[SO]VC[V]	opron-sname	2	4	Omdat Staf Coppens het verzint .
 VF[S]LK[V]MF[O]	opron-sname	1	3	Harry bestelt het .
-VF[O]LK[V]MF[S]	opron-sname	3	1	Het bestelt Harry .
 VF[ADV]LK[V]MF[SO]	opron-sname	3	4	Daarom bestelt Harry het .
 LK[V]MF[SO]	opron-sname	2	3	Bestelt Harry het ?
 MF[SO]VC[V]	opron-sname	2	3	Omdat Harry het bestelt .
 VF[S]LK[V]MF[O]	opron-sname	1	3	Gillette scheert het .
-VF[O]LK[V]MF[S]	opron-sname	3	1	Het scheert Gillette .
 VF[ADV]LK[V]MF[SO]	opron-sname	3	4	Daarom scheert Gillette het .
 LK[V]MF[SO]	opron-sname	2	3	Scheert Gillette het ?
 MF[SO]VC[V]	opron-sname	2	3	Omdat Gillette het scheert .
 VF[S]LK[V]MF[O]	opron-sname	1	3	Clooney drinkt het .
-VF[O]LK[V]MF[S]	opron-sname	3	1	Het drinkt Clooney .
 VF[ADV]LK[V]MF[SO]	opron-sname	3	4	Daarom drinkt Clooney het .
 LK[V]MF[SO]	opron-sname	2	3	Drinkt Clooney het ?
 MF[SO]VC[V]	opron-sname	2	3	Omdat Clooney het drinkt .
 VF[S]LK[V]MF[O]	opron-sname	1	4	Han Voskuil schrijft het .
-VF[O]LK[V]MF[S]	opron-sname	3	1	Het schrijft Han Voskuil .
 VF[ADV]LK[V]MF[SO]	opron-sname	3	5	Daarom schrijft Han Voskuil het .
 LK[V]MF[SO]	opron-sname	2	4	Schrijft Han Voskuil het ?
 MF[SO]VC[V]	opron-sname	2	4	Omdat Han Voskuil het schrijft .
 VF[S]LK[V]MF[O]	opron-sname	1	3	Rutte begint het .
-VF[O]LK[V]MF[S]	opron-sname	3	1	Het begint Rutte .
 VF[ADV]LK[V]MF[SO]	opron-sname	3	4	Daarom begint Rutte het .
 LK[V]MF[SO]	opron-sname	2	3	Begint Rutte het ?
 MF[SO]VC[V]	opron-sname	2	3	Omdat Rutte het begint .
 VF[S]LK[V]MF[O]	opron-sname	1	3	Vietnam krijgt het .
-VF[O]LK[V]MF[S]	opron-sname	3	1	Het krijgt Vietnam .
 VF[ADV]LK[V]MF[SO]	opron-sname	3	4	Daarom krijgt Vietnam het .
 LK[V]MF[SO]	opron-sname	2	3	Krijgt Vietnam het ?
 MF[SO]VC[V]	opron-sname	2	3	Omdat Vietnam het krijgt .
 VF[S]LK[V]MF[O]	opron-sname	1	3	Anouk bouwt het .
-VF[O]LK[V]MF[S]	opron-sname	3	1	Het bouwt Anouk .
 VF[ADV]LK[V]MF[SO]	opron-sname	3	4	Daarom bouwt Anouk het .
 LK[V]MF[SO]	opron-sname	2	3	Bouwt Anouk het ?
 MF[SO]VC[V]	opron-sname	2	3	Omdat Anouk het bouwt .
 VF[S]LK[V]MF[O]	opron-sname	1	3	Nijmegen wint het .
-VF[O]LK[V]MF[S]	opron-sname	3	1	Het wint Nijmegen .
 VF[ADV]LK[V]MF[SO]	opron-sname	3	4	Daarom wint Nijmegen het .
 LK[V]MF[SO]	opron-sname	2	3	Wint Nijmegen het ?
 MF[SO]VC[V]	opron-sname	2	3	Omdat Nijmegen het wint .
 VF[S]LK[V]MF[O]	opron-sname	1	4	Essent NV regelt het .
-VF[O]LK[V]MF[S]	opron-sname	3	1	Het regelt Essent NV .
 VF[ADV]LK[V]MF[SO]	opron-sname	3	5	Daarom regelt Essent NV het .
 LK[V]MF[SO]	opron-sname	2	4	Regelt Essent NV het ?
 MF[SO]VC[V]	opron-sname	2	4	Omdat Essent NV het regelt .
@@ -2935,72 +2738,58 @@ VF[ADV]LK[V]MF[SO]	oneg-sname	3	6	Daarom regelt Essent NV geen constructie .
 LK[V]MF[SO]	oneg-sname	2	5	Regelt Essent NV geen constructie ?
 MF[SO]VC[V]	oneg-sname	2	5	Omdat Essent NV geen constructie regelt .
 VF[S]LK[V]MF[O]	oan-sname	1	4	AkzoNobel benoemt een opvolger .
-VF[O]LK[V]MF[S]	oan-sname	4	2	Een opvolger benoemt AkzoNobel .
 VF[ADV]LK[V]MF[SO]	oan-sname	3	5	Daarom benoemt AkzoNobel een opvolger .
 LK[V]MF[SO]	oan-sname	2	4	Benoemt AkzoNobel een opvolger ?
 MF[SO]VC[V]	oan-sname	2	4	Omdat AkzoNobel een opvolger benoemt .
 VF[S]LK[V]MF[O]	oan-sname	1	4	Balazs interviewt een ECB-bazin .
-VF[O]LK[V]MF[S]	oan-sname	4	2	Een ECB-bazin interviewt Balazs .
 VF[ADV]LK[V]MF[SO]	oan-sname	3	5	Daarom interviewt Balazs een ECB-bazin .
 LK[V]MF[SO]	oan-sname	2	4	Interviewt Balazs een ECB-bazin ?
 MF[SO]VC[V]	oan-sname	2	4	Omdat Balazs een ECB-bazin interviewt .
 VF[S]LK[V]MF[O]	oan-sname	1	4	Harry voedt een spin .
-VF[O]LK[V]MF[S]	oan-sname	4	2	Een spin voedt Harry .
 VF[ADV]LK[V]MF[SO]	oan-sname	3	5	Daarom voedt Harry een spin .
 LK[V]MF[SO]	oan-sname	2	4	Voedt Harry een spin ?
 MF[SO]VC[V]	oan-sname	2	4	Omdat Harry een spin voedt .
 VF[S]LK[V]MF[O]	oan-sname	1	5	Han Voskuil bedient een gast .
-VF[O]LK[V]MF[S]	oan-sname	4	2	Een gast bedient Han Voskuil .
 VF[ADV]LK[V]MF[SO]	oan-sname	3	6	Daarom bedient Han Voskuil een gast .
 LK[V]MF[SO]	oan-sname	2	5	Bedient Han Voskuil een gast ?
 MF[SO]VC[V]	oan-sname	2	5	Omdat Han Voskuil een gast bedient .
 VF[S]LK[V]MF[O]	oan-sname	1	5	NPO 1 accepteert een sollicitant .
-VF[O]LK[V]MF[S]	oan-sname	4	2	Een sollicitant accepteert NPO 1 .
 VF[ADV]LK[V]MF[SO]	oan-sname	3	6	Daarom accepteert NPO 1 een sollicitant .
 LK[V]MF[SO]	oan-sname	2	5	Accepteert NPO 1 een sollicitant ?
 MF[SO]VC[V]	oan-sname	2	5	Omdat NPO 1 een sollicitant accepteert .
 VF[S]LK[V]MF[O]	oan-sname	1	5	Staf Coppens imiteert een jazzpianist .
-VF[O]LK[V]MF[S]	oan-sname	4	2	Een jazzpianist imiteert Staf Coppens .
 VF[ADV]LK[V]MF[SO]	oan-sname	3	6	Daarom imiteert Staf Coppens een jazzpianist .
 LK[V]MF[SO]	oan-sname	2	5	Imiteert Staf Coppens een jazzpianist ?
 MF[SO]VC[V]	oan-sname	2	5	Omdat Staf Coppens een jazzpianist imiteert .
 VF[S]LK[V]MF[O]	oan-sname	1	4	Mercedes huurt een verdelger .
-VF[O]LK[V]MF[S]	oan-sname	4	2	Een verdelger huurt Mercedes .
 VF[ADV]LK[V]MF[SO]	oan-sname	3	5	Daarom huurt Mercedes een verdelger .
 LK[V]MF[SO]	oan-sname	2	4	Huurt Mercedes een verdelger ?
 MF[SO]VC[V]	oan-sname	2	4	Omdat Mercedes een verdelger huurt .
 VF[S]LK[V]MF[O]	oan-sname	1	4	Clooney babysit een kind .
-VF[O]LK[V]MF[S]	oan-sname	4	2	Een kind babysit Clooney .
 VF[ADV]LK[V]MF[SO]	oan-sname	3	5	Daarom babysit Clooney een kind .
 LK[V]MF[SO]	oan-sname	2	4	Babysit Clooney een kind ?
 MF[SO]VC[V]	oan-sname	2	4	Omdat Clooney een kind babysit .
 VF[S]LK[V]MF[O]	oan-sname	1	4	Rutte dirigeert een orkestmuzikant .
-VF[O]LK[V]MF[S]	oan-sname	4	2	Een orkestmuzikant dirigeert Rutte .
 VF[ADV]LK[V]MF[SO]	oan-sname	3	5	Daarom dirigeert Rutte een orkestmuzikant .
 LK[V]MF[SO]	oan-sname	2	4	Dirigeert Rutte een orkestmuzikant ?
 MF[SO]VC[V]	oan-sname	2	4	Omdat Rutte een orkestmuzikant dirigeert .
 VF[S]LK[V]MF[O]	oan-sname	1	4	Anouk fotografeert een model .
-VF[O]LK[V]MF[S]	oan-sname	4	2	Een model fotografeert Anouk .
 VF[ADV]LK[V]MF[SO]	oan-sname	3	5	Daarom fotografeert Anouk een model .
 LK[V]MF[SO]	oan-sname	2	4	Fotografeert Anouk een model ?
 MF[SO]VC[V]	oan-sname	2	4	Omdat Anouk een model fotografeert .
 VF[S]LK[V]MF[O]	oan-sname	1	5	Essent NV begeleidt een cursist .
-VF[O]LK[V]MF[S]	oan-sname	4	2	Een cursist begeleidt Essent NV .
 VF[ADV]LK[V]MF[SO]	oan-sname	3	6	Daarom begeleidt Essent NV een cursist .
 LK[V]MF[SO]	oan-sname	2	5	Begeleidt Essent NV een cursist ?
 MF[SO]VC[V]	oan-sname	2	5	Omdat Essent NV een cursist begeleidt .
 VF[S]LK[V]MF[O]	oan-sname	1	4	Degas adviseert een leerling .
-VF[O]LK[V]MF[S]	oan-sname	4	2	Een leerling adviseert Degas .
 VF[ADV]LK[V]MF[SO]	oan-sname	3	5	Daarom adviseert Degas een leerling .
 LK[V]MF[SO]	oan-sname	2	4	Adviseert Degas een leerling ?
 MF[SO]VC[V]	oan-sname	2	4	Omdat Degas een leerling adviseert .
 VF[S]LK[V]MF[O]	oan-sname	1	4	Nijmegen eist een tolk .
-VF[O]LK[V]MF[S]	oan-sname	4	2	Een tolk eist Nijmegen .
 VF[ADV]LK[V]MF[SO]	oan-sname	3	5	Daarom eist Nijmegen een tolk .
 LK[V]MF[SO]	oan-sname	2	4	Eist Nijmegen een tolk ?
 MF[SO]VC[V]	oan-sname	2	4	Omdat Nijmegen een tolk eist .
 VF[S]LK[V]MF[O]	oan-sname	1	4	Vietnam bevrijdt een slachtoffer .
-VF[O]LK[V]MF[S]	oan-sname	4	2	Een slachtoffer bevrijdt Vietnam .
 VF[ADV]LK[V]MF[SO]	oan-sname	3	5	Daarom bevrijdt Vietnam een slachtoffer .
 LK[V]MF[SO]	oan-sname	2	4	Bevrijdt Vietnam een slachtoffer ?
 MF[SO]VC[V]	oan-sname	2	4	Omdat Vietnam een slachtoffer bevrijdt .
@@ -3995,77 +3784,62 @@ VF[ADV]LK[V]MF[SO]	aux-psy	4	5	Daarom zullen de constructies aannemers vermaken 
 LK[V]MF[SO]	aux-psy	3	4	Zullen de constructies aannemers vermaken ?
 MF[SO]VC[V]	aux-psy	3	4	Omdat de constructies aannemers zullen vermaken .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Het boeit een generaal .
-VF[O]LK[V]MF[S]	spron-psy	4	2	Een generaal boeit het .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Daarom boeit het een generaal .
 LK[V]MF[SO]	spron-psy	2	4	Boeit het een generaal ?
 MF[SO]VC[V]	spron-psy	2	4	Omdat het een generaal boeit .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Het verveelt een partner .
-VF[O]LK[V]MF[S]	spron-psy	4	2	Een partner verveelt het .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Daarom verveelt het een partner .
 LK[V]MF[SO]	spron-psy	2	4	Verveelt het een partner ?
 MF[SO]VC[V]	spron-psy	2	4	Omdat het een partner verveelt .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Het inspireert een journalist .
-VF[O]LK[V]MF[S]	spron-psy	4	2	Een journalist inspireert het .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Daarom inspireert het een journalist .
 LK[V]MF[SO]	spron-psy	2	4	Inspireert het een journalist ?
 MF[SO]VC[V]	spron-psy	2	4	Omdat het een journalist inspireert .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Het ontstemt een vriendin .
-VF[O]LK[V]MF[S]	spron-psy	4	2	Een vriendin ontstemt het .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Daarom ontstemt het een vriendin .
 LK[V]MF[SO]	spron-psy	2	4	Ontstemt het een vriendin ?
 MF[SO]VC[V]	spron-psy	2	4	Omdat het een vriendin ontstemt .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Het fascineert een voorbijganger .
-VF[O]LK[V]MF[S]	spron-psy	4	2	Een voorbijganger fascineert het .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Daarom fascineert het een voorbijganger .
 LK[V]MF[SO]	spron-psy	2	4	Fascineert het een voorbijganger ?
 MF[SO]VC[V]	spron-psy	2	4	Omdat het een voorbijganger fascineert .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Het motiveert een kind .
-VF[O]LK[V]MF[S]	spron-psy	4	2	Een kind motiveert het .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Daarom motiveert het een kind .
 LK[V]MF[SO]	spron-psy	2	4	Motiveert het een kind ?
 MF[SO]VC[V]	spron-psy	2	4	Omdat het een kind motiveert .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Het beangstigt een lezer .
-VF[O]LK[V]MF[S]	spron-psy	4	2	Een lezer beangstigt het .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Daarom beangstigt het een lezer .
 LK[V]MF[SO]	spron-psy	2	4	Beangstigt het een lezer ?
 MF[SO]VC[V]	spron-psy	2	4	Omdat het een lezer beangstigt .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Het verbaast een man .
-VF[O]LK[V]MF[S]	spron-psy	4	2	Een man verbaast het .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Daarom verbaast het een man .
 LK[V]MF[SO]	spron-psy	2	4	Verbaast het een man ?
 MF[SO]VC[V]	spron-psy	2	4	Omdat het een man verbaast .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Het bevalt een moeder .
-VF[O]LK[V]MF[S]	spron-psy	4	2	Een moeder bevalt het .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Daarom bevalt het een moeder .
 LK[V]MF[SO]	spron-psy	2	4	Bevalt het een moeder ?
 MF[SO]VC[V]	spron-psy	2	4	Omdat het een moeder bevalt .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Het frustreert een schrijver .
-VF[O]LK[V]MF[S]	spron-psy	4	2	Een schrijver frustreert het .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Daarom frustreert het een schrijver .
 LK[V]MF[SO]	spron-psy	2	4	Frustreert het een schrijver ?
 MF[SO]VC[V]	spron-psy	2	4	Omdat het een schrijver frustreert .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Het agiteert een politicus .
-VF[O]LK[V]MF[S]	spron-psy	4	2	Een politicus agiteert het .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Daarom agiteert het een politicus .
 LK[V]MF[SO]	spron-psy	2	4	Agiteert het een politicus ?
 MF[SO]VC[V]	spron-psy	2	4	Omdat het een politicus agiteert .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Het beschaamt een parlementslid .
-VF[O]LK[V]MF[S]	spron-psy	4	2	Een parlementslid beschaamt het .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Daarom beschaamt het een parlementslid .
 LK[V]MF[SO]	spron-psy	2	4	Beschaamt het een parlementslid ?
 MF[SO]VC[V]	spron-psy	2	4	Omdat het een parlementslid beschaamt .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Het ergert een boer .
-VF[O]LK[V]MF[S]	spron-psy	4	2	Een boer ergert het .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Daarom ergert het een boer .
 LK[V]MF[SO]	spron-psy	2	4	Ergert het een boer ?
 MF[SO]VC[V]	spron-psy	2	4	Omdat het een boer ergert .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Het amuseert een sportvrouw .
-VF[O]LK[V]MF[S]	spron-psy	4	2	Een sportvrouw amuseert het .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Daarom amuseert het een sportvrouw .
 LK[V]MF[SO]	spron-psy	2	4	Amuseert het een sportvrouw ?
 MF[SO]VC[V]	spron-psy	2	4	Omdat het een sportvrouw amuseert .
 VF[S]LK[V]MF[O]	spron-psy	1	4	Het vermaakt een aannemer .
-VF[O]LK[V]MF[S]	spron-psy	4	2	Een aannemer vermaakt het .
 VF[ADV]LK[V]MF[SO]	spron-psy	3	5	Daarom vermaakt het een aannemer .
 LK[V]MF[SO]	spron-psy	2	4	Vermaakt het een aannemer ?
 MF[SO]VC[V]	spron-psy	2	4	Omdat het een aannemer vermaakt .
@@ -5320,77 +5094,62 @@ VF[ADV]LK[V]MF[SO]	spron-syn	3	4	Daarom overzien ze constructies .
 LK[V]MF[SO]	spron-syn	2	3	Overzien ze constructies ?
 MF[SO]VC[V]	spron-syn	2	3	Omdat ze constructies overzien .
 VF[S]LK[V]MF[O]	opron-syn	2	4	De generaal beraamt het .
-VF[O]LK[V]MF[S]	opron-syn	4	1	Het beraamt de generaal .
 VF[ADV]LK[V]MF[SO]	opron-syn	4	5	Daarom beraamt de generaal het .
 LK[V]MF[SO]	opron-syn	3	4	Beraamt de generaal het ?
 MF[SO]VC[V]	opron-syn	3	4	Omdat de generaal het beraamt .
 VF[S]LK[V]MF[O]	opron-syn	2	4	De partner leidt het .
-VF[O]LK[V]MF[S]	opron-syn	4	1	Het leidt de partner .
 VF[ADV]LK[V]MF[SO]	opron-syn	4	5	Daarom leidt de partner het .
 LK[V]MF[SO]	opron-syn	3	4	Leidt de partner het ?
 MF[SO]VC[V]	opron-syn	3	4	Omdat de partner het leidt .
 VF[S]LK[V]MF[O]	opron-syn	2	4	De journalist dubt het .
-VF[O]LK[V]MF[S]	opron-syn	4	1	Het dubt de journalist .
 VF[ADV]LK[V]MF[SO]	opron-syn	4	5	Daarom dubt de journalist het .
 LK[V]MF[SO]	opron-syn	3	4	Dubt de journalist het ?
 MF[SO]VC[V]	opron-syn	3	4	Omdat de journalist het dubt .
 VF[S]LK[V]MF[O]	opron-syn	2	4	De vriendin ensceneert het .
-VF[O]LK[V]MF[S]	opron-syn	4	1	Het ensceneert de vriendin .
 VF[ADV]LK[V]MF[SO]	opron-syn	4	5	Daarom ensceneert de vriendin het .
 LK[V]MF[SO]	opron-syn	3	4	Ensceneert de vriendin het ?
 MF[SO]VC[V]	opron-syn	3	4	Omdat de vriendin het ensceneert .
 VF[S]LK[V]MF[O]	opron-syn	2	4	De voorbijganger sloopt het .
-VF[O]LK[V]MF[S]	opron-syn	4	1	Het sloopt de voorbijganger .
 VF[ADV]LK[V]MF[SO]	opron-syn	4	5	Daarom sloopt de voorbijganger het .
 LK[V]MF[SO]	opron-syn	3	4	Sloopt de voorbijganger het ?
 MF[SO]VC[V]	opron-syn	3	4	Omdat de voorbijganger het sloopt .
 VF[S]LK[V]MF[O]	opron-syn	2	4	Het kind raadt het .
-VF[O]LK[V]MF[S]	opron-syn	4	1	Het raadt het kind .
 VF[ADV]LK[V]MF[SO]	opron-syn	4	5	Daarom raadt het kind het .
 LK[V]MF[SO]	opron-syn	3	4	Raadt het kind het ?
 MF[SO]VC[V]	opron-syn	3	4	Omdat het kind het raadt .
 VF[S]LK[V]MF[O]	opron-syn	2	4	De lezers kopen ze .
-VF[O]LK[V]MF[S]	opron-syn	4	1	Ze kopen de lezers .
 VF[ADV]LK[V]MF[SO]	opron-syn	4	5	Daarom kopen de lezers ze .
 LK[V]MF[SO]	opron-syn	3	4	Kopen de lezers ze ?
 MF[SO]VC[V]	opron-syn	3	4	Omdat de lezers ze kopen .
 VF[S]LK[V]MF[O]	opron-syn	2	4	De kappers knippen ze .
-VF[O]LK[V]MF[S]	opron-syn	4	1	Ze knippen de kappers .
 VF[ADV]LK[V]MF[SO]	opron-syn	4	5	Daarom knippen de kappers ze .
 LK[V]MF[SO]	opron-syn	3	4	Knippen de kappers ze ?
 MF[SO]VC[V]	opron-syn	3	4	Omdat de kappers ze knippen .
 VF[S]LK[V]MF[O]	opron-syn	2	4	De moeder slurpt het .
-VF[O]LK[V]MF[S]	opron-syn	4	1	Het slurpt de moeder .
 VF[ADV]LK[V]MF[SO]	opron-syn	4	5	Daarom slurpt de moeder het .
 LK[V]MF[SO]	opron-syn	3	4	Slurpt de moeder het ?
 MF[SO]VC[V]	opron-syn	3	4	Omdat de moeder het slurpt .
 VF[S]LK[V]MF[O]	opron-syn	2	4	De schrijver pent het .
-VF[O]LK[V]MF[S]	opron-syn	4	1	Het pent de schrijver .
 VF[ADV]LK[V]MF[SO]	opron-syn	4	5	Daarom pent de schrijver het .
 LK[V]MF[SO]	opron-syn	3	4	Pent de schrijver het ?
 MF[SO]VC[V]	opron-syn	3	4	Omdat de schrijver het pent .
 VF[S]LK[V]MF[O]	opron-syn	2	4	De politicus start het .
-VF[O]LK[V]MF[S]	opron-syn	4	1	Het start de politicus .
 VF[ADV]LK[V]MF[SO]	opron-syn	4	5	Daarom start de politicus het .
 LK[V]MF[SO]	opron-syn	3	4	Start de politicus het ?
 MF[SO]VC[V]	opron-syn	3	4	Omdat de politicus het start .
 VF[S]LK[V]MF[O]	opron-syn	2	4	Het parlementslid ontvangt het .
-VF[O]LK[V]MF[S]	opron-syn	4	1	Het ontvangt het parlementslid .
 VF[ADV]LK[V]MF[SO]	opron-syn	4	5	Daarom ontvangt het parlementslid het .
 LK[V]MF[SO]	opron-syn	3	4	Ontvangt het parlementslid het ?
 MF[SO]VC[V]	opron-syn	3	4	Omdat het parlementslid het ontvangt .
 VF[S]LK[V]MF[O]	opron-syn	2	4	De boeren construeren ze .
-VF[O]LK[V]MF[S]	opron-syn	4	1	Ze construeren de boeren .
 VF[ADV]LK[V]MF[SO]	opron-syn	4	5	Daarom construeren de boeren ze .
 LK[V]MF[SO]	opron-syn	3	4	Construeren de boeren ze ?
 MF[SO]VC[V]	opron-syn	3	4	Omdat de boeren ze construeren .
 VF[S]LK[V]MF[O]	opron-syn	2	4	De sportvrouwen behalen ze .
-VF[O]LK[V]MF[S]	opron-syn	4	1	Ze behalen de sportvrouwen .
 VF[ADV]LK[V]MF[SO]	opron-syn	4	5	Daarom behalen de sportvrouwen ze .
 LK[V]MF[SO]	opron-syn	3	4	Behalen de sportvrouwen ze ?
 MF[SO]VC[V]	opron-syn	3	4	Omdat de sportvrouwen ze behalen .
 VF[S]LK[V]MF[O]	opron-syn	2	4	De aannemer overziet het .
-VF[O]LK[V]MF[S]	opron-syn	4	1	Het overziet de aannemer .
 VF[ADV]LK[V]MF[SO]	opron-syn	4	5	Daarom overziet de aannemer het .
 LK[V]MF[SO]	opron-syn	3	4	Overziet de aannemer het ?
 MF[SO]VC[V]	opron-syn	3	4	Omdat de aannemer het overziet .
@@ -5620,77 +5379,62 @@ VF[ADV]LK[V]MF[SO]	sinan-syn	4	6	Daarom demonstreert de film een overval .
 LK[V]MF[SO]	sinan-syn	3	5	Demonstreert de film een overval ?
 MF[SO]VC[V]	sinan-syn	3	5	Omdat de film een overval demonstreert .
 VF[S]LK[V]MF[O]	oan-syn	2	4	De bestuursvoorzitters bepalen opvolgers .
-VF[O]LK[V]MF[S]	oan-syn	4	1	Opvolgers bepalen de bestuursvoorzitters .
 VF[ADV]LK[V]MF[SO]	oan-syn	4	5	Daarom bepalen de bestuursvoorzitters opvolgers .
 LK[V]MF[SO]	oan-syn	3	4	Bepalen de bestuursvoorzitters opvolgers ?
 MF[SO]VC[V]	oan-syn	3	4	Omdat de bestuursvoorzitters opvolgers bepalen .
 VF[S]LK[V]MF[O]	oan-syn	2	5	De televisiereporter ondervraagt een ECB-bazin .
-VF[O]LK[V]MF[S]	oan-syn	5	2	Een ECB-bazin ondervraagt de televisiereporter .
 VF[ADV]LK[V]MF[SO]	oan-syn	4	6	Daarom ondervraagt de televisiereporter een ECB-bazin .
 LK[V]MF[SO]	oan-syn	3	5	Ondervraagt de televisiereporter een ECB-bazin ?
 MF[SO]VC[V]	oan-syn	3	5	Omdat de televisiereporter een ECB-bazin ondervraagt .
 VF[S]LK[V]MF[O]	oan-syn	2	4	De fokkers voederen spinnen .
-VF[O]LK[V]MF[S]	oan-syn	4	1	Spinnen voederen de fokkers .
 VF[ADV]LK[V]MF[SO]	oan-syn	4	5	Daarom voederen de fokkers spinnen .
 LK[V]MF[SO]	oan-syn	3	4	Voederen de fokkers spinnen ?
 MF[SO]VC[V]	oan-syn	3	4	Omdat de fokkers spinnen voederen .
 VF[S]LK[V]MF[O]	oan-syn	2	4	De katten krassen hondeneigenaars .
-VF[O]LK[V]MF[S]	oan-syn	4	1	Hondeneigenaars krassen de katten .
 VF[ADV]LK[V]MF[SO]	oan-syn	4	5	Daarom krassen de katten hondeneigenaars .
 LK[V]MF[SO]	oan-syn	3	4	Krassen de katten hondeneigenaars ?
 MF[SO]VC[V]	oan-syn	3	4	Omdat de katten hondeneigenaars krassen .
 VF[S]LK[V]MF[O]	oan-syn	2	4	De obers serveren gasten .
-VF[O]LK[V]MF[S]	oan-syn	4	1	Gasten serveren de obers .
 VF[ADV]LK[V]MF[SO]	oan-syn	4	5	Daarom serveren de obers gasten .
 LK[V]MF[SO]	oan-syn	3	4	Serveren de obers gasten ?
 MF[SO]VC[V]	oan-syn	3	4	Omdat de obers gasten serveren .
 VF[S]LK[V]MF[O]	oan-syn	2	5	De HR-manager kiest een sollicitant .
-VF[O]LK[V]MF[S]	oan-syn	5	2	Een sollicitant kiest de HR-manager .
 VF[ADV]LK[V]MF[SO]	oan-syn	4	6	Daarom kiest de HR-manager een sollicitant .
 LK[V]MF[SO]	oan-syn	3	5	Kiest de HR-manager een sollicitant ?
 MF[SO]VC[V]	oan-syn	3	5	Omdat de HR-manager een sollicitant kiest .
 VF[S]LK[V]MF[O]	oan-syn	2	5	De acteur kopieert een jazzpianist .
-VF[O]LK[V]MF[S]	oan-syn	5	2	Een jazzpianist kopieert de acteur .
 VF[ADV]LK[V]MF[SO]	oan-syn	4	6	Daarom kopieert de acteur een jazzpianist .
 LK[V]MF[SO]	oan-syn	3	5	Kopieert de acteur een jazzpianist ?
 MF[SO]VC[V]	oan-syn	3	5	Omdat de acteur een jazzpianist kopieert .
 VF[S]LK[V]MF[O]	oan-syn	2	4	De huurders contracteren verdelgers .
-VF[O]LK[V]MF[S]	oan-syn	4	1	Verdelgers contracteren de huurders .
 VF[ADV]LK[V]MF[SO]	oan-syn	4	5	Daarom contracteren de huurders verdelgers .
 LK[V]MF[SO]	oan-syn	3	4	Contracteren de huurders verdelgers ?
 MF[SO]VC[V]	oan-syn	3	4	Omdat de huurders verdelgers contracteren .
 VF[S]LK[V]MF[O]	oan-syn	2	4	De 18-jarigen verzorgen kinderen .
-VF[O]LK[V]MF[S]	oan-syn	4	1	Kinderen verzorgen de 18-jarigen .
 VF[ADV]LK[V]MF[SO]	oan-syn	4	5	Daarom verzorgen de 18-jarigen kinderen .
 LK[V]MF[SO]	oan-syn	3	4	Verzorgen de 18-jarigen kinderen ?
 MF[SO]VC[V]	oan-syn	3	4	Omdat de 18-jarigen kinderen verzorgen .
 VF[S]LK[V]MF[O]	oan-syn	2	5	De Zwitser leidt een orkestmuzikant .
-VF[O]LK[V]MF[S]	oan-syn	5	2	Een orkestmuzikant leidt de Zwitser .
 VF[ADV]LK[V]MF[SO]	oan-syn	4	6	Daarom leidt de Zwitser een orkestmuzikant .
 LK[V]MF[SO]	oan-syn	3	5	Leidt de Zwitser een orkestmuzikant ?
 MF[SO]VC[V]	oan-syn	3	5	Omdat de Zwitser een orkestmuzikant leidt .
 VF[S]LK[V]MF[O]	oan-syn	2	5	De fotograaf portretteert een model .
-VF[O]LK[V]MF[S]	oan-syn	5	2	Een model portretteert de fotograaf .
 VF[ADV]LK[V]MF[SO]	oan-syn	4	6	Daarom portretteert de fotograaf een model .
 LK[V]MF[SO]	oan-syn	3	5	Portretteert de fotograaf een model ?
 MF[SO]VC[V]	oan-syn	3	5	Omdat de fotograaf een model portretteert .
 VF[S]LK[V]MF[O]	oan-syn	2	4	De ingenieurs trainen cursisten .
-VF[O]LK[V]MF[S]	oan-syn	4	1	Cursisten trainen de ingenieurs .
 VF[ADV]LK[V]MF[SO]	oan-syn	4	5	Daarom trainen de ingenieurs cursisten .
 LK[V]MF[SO]	oan-syn	3	4	Trainen de ingenieurs cursisten ?
 MF[SO]VC[V]	oan-syn	3	4	Omdat de ingenieurs cursisten trainen .
 VF[S]LK[V]MF[O]	oan-syn	2	5	De deskundige begeleidt een burgemeester .
-VF[O]LK[V]MF[S]	oan-syn	5	2	Een burgemeester begeleidt de deskundige .
 VF[ADV]LK[V]MF[SO]	oan-syn	4	6	Daarom begeleidt de deskundige een burgemeester .
 LK[V]MF[SO]	oan-syn	3	5	Begeleidt de deskundige een burgemeester ?
 MF[SO]VC[V]	oan-syn	3	5	Omdat de deskundige een burgemeester begeleidt .
 VF[S]LK[V]MF[O]	oan-syn	2	4	De reizigers vragen tolken .
-VF[O]LK[V]MF[S]	oan-syn	4	1	Tolken vragen de reizigers .
 VF[ADV]LK[V]MF[SO]	oan-syn	4	5	Daarom vragen de reizigers tolken .
 LK[V]MF[SO]	oan-syn	3	4	Vragen de reizigers tolken ?
 MF[SO]VC[V]	oan-syn	3	4	Omdat de reizigers tolken vragen .
 VF[S]LK[V]MF[O]	oan-syn	2	4	De brandweermannen redden slachtoffers .
-VF[O]LK[V]MF[S]	oan-syn	4	1	Slachtoffers redden de brandweermannen .
 VF[ADV]LK[V]MF[SO]	oan-syn	4	5	Daarom redden de brandweermannen slachtoffers .
 LK[V]MF[SO]	oan-syn	3	4	Redden de brandweermannen slachtoffers ?
 MF[SO]VC[V]	oan-syn	3	4	Omdat de brandweermannen slachtoffers redden .
@@ -6349,77 +6093,62 @@ VF[ADV]LK[V]MF[SO]	pp-prov	3	8	Daarom heelt tijd gedurende een week elke wond .
 LK[V]MF[SO]	pp-prov	2	7	Heelt tijd gedurende een week elke wond ?
 MF[SO]VC[V]	pp-prov	2	7	Omdat tijd gedurende een week elke wond heelt .
 VF[S]LK[V]MF[O]	pp-oan	2	7	De bestuursvoorzitters benoemen in een week opvolgers .
-VF[O]LK[V]MF[S]	pp-oan	4	1	Opvolgers benoemen de bestuursvoorzitters in een week .
 VF[ADV]LK[V]MF[SO]	pp-oan	4	8	Daarom benoemen de bestuursvoorzitters in een week opvolgers .
 LK[V]MF[SO]	pp-oan	3	7	Benoemen de bestuursvoorzitters in een week opvolgers ?
 MF[SO]VC[V]	pp-oan	3	7	Omdat de bestuursvoorzitters in een week opvolgers benoemen .
 VF[S]LK[V]MF[O]	pp-oan	2	8	De televisiereporter interviewt over een week een ECB-bazin .
-VF[O]LK[V]MF[S]	pp-oan	5	2	Een ECB-bazin interviewt de televisiereporter over een week .
 VF[ADV]LK[V]MF[SO]	pp-oan	4	9	Daarom interviewt de televisiereporter over een week een ECB-bazin .
 LK[V]MF[SO]	pp-oan	3	8	Interviewt de televisiereporter over een week een ECB-bazin ?
 MF[SO]VC[V]	pp-oan	3	8	Omdat de televisiereporter over een week een ECB-bazin interviewt .
 VF[S]LK[V]MF[O]	pp-oan	2	7	De fokkers voeden gedurende een week spinnen .
-VF[O]LK[V]MF[S]	pp-oan	4	1	Spinnen voeden de fokkers gedurende een week .
 VF[ADV]LK[V]MF[SO]	pp-oan	4	8	Daarom voeden de fokkers gedurende een week spinnen .
 LK[V]MF[SO]	pp-oan	3	7	Voeden de fokkers gedurende een week spinnen ?
 MF[SO]VC[V]	pp-oan	3	7	Omdat de fokkers gedurende een week spinnen voeden .
 VF[S]LK[V]MF[O]	pp-oan	2	7	De katten krabben gedurende een week hondeneigenaars .
-VF[O]LK[V]MF[S]	pp-oan	4	1	Hondeneigenaars krabben de katten gedurende een week .
 VF[ADV]LK[V]MF[SO]	pp-oan	4	8	Daarom krabben de katten gedurende een week hondeneigenaars .
 LK[V]MF[SO]	pp-oan	3	7	Krabben de katten gedurende een week hondeneigenaars ?
 MF[SO]VC[V]	pp-oan	3	7	Omdat de katten gedurende een week hondeneigenaars krabben .
 VF[S]LK[V]MF[O]	pp-oan	2	7	De obers bedienen gedurende een week gasten .
-VF[O]LK[V]MF[S]	pp-oan	4	1	Gasten bedienen de obers gedurende een week .
 VF[ADV]LK[V]MF[SO]	pp-oan	4	8	Daarom bedienen de obers gedurende een week gasten .
 LK[V]MF[SO]	pp-oan	3	7	Bedienen de obers gedurende een week gasten ?
 MF[SO]VC[V]	pp-oan	3	7	Omdat de obers gedurende een week gasten bedienen .
 VF[S]LK[V]MF[O]	pp-oan	2	8	De HR-manager accepteert na een week een sollicitant .
-VF[O]LK[V]MF[S]	pp-oan	5	2	Een sollicitant accepteert de HR-manager na een week .
 VF[ADV]LK[V]MF[SO]	pp-oan	4	9	Daarom accepteert de HR-manager na een week een sollicitant .
 LK[V]MF[SO]	pp-oan	3	8	Accepteert de HR-manager na een week een sollicitant ?
 MF[SO]VC[V]	pp-oan	3	8	Omdat de HR-manager na een week een sollicitant accepteert .
 VF[S]LK[V]MF[O]	pp-oan	2	8	De acteur imiteert over een week een jazzpianist .
-VF[O]LK[V]MF[S]	pp-oan	5	2	Een jazzpianist imiteert de acteur over een week .
 VF[ADV]LK[V]MF[SO]	pp-oan	4	9	Daarom imiteert de acteur over een week een jazzpianist .
 LK[V]MF[SO]	pp-oan	3	8	Imiteert de acteur over een week een jazzpianist ?
 MF[SO]VC[V]	pp-oan	3	8	Omdat de acteur over een week een jazzpianist imiteert .
 VF[S]LK[V]MF[O]	pp-oan	2	7	De huurders huren gedurende een week verdelgers .
-VF[O]LK[V]MF[S]	pp-oan	4	1	Verdelgers huren de huurders gedurende een week .
 VF[ADV]LK[V]MF[SO]	pp-oan	4	8	Daarom huren de huurders gedurende een week verdelgers .
 LK[V]MF[SO]	pp-oan	3	7	Huren de huurders gedurende een week verdelgers ?
 MF[SO]VC[V]	pp-oan	3	7	Omdat de huurders gedurende een week verdelgers huren .
 VF[S]LK[V]MF[O]	pp-oan	2	7	De 18-jarigen babysitten gedurende een week kinderen .
-VF[O]LK[V]MF[S]	pp-oan	4	1	Kinderen babysitten de 18-jarigen gedurende een week .
 VF[ADV]LK[V]MF[SO]	pp-oan	4	8	Daarom babysitten de 18-jarigen gedurende een week kinderen .
 LK[V]MF[SO]	pp-oan	3	7	Babysitten de 18-jarigen gedurende een week kinderen ?
 MF[SO]VC[V]	pp-oan	3	7	Omdat de 18-jarigen gedurende een week kinderen babysitten .
 VF[S]LK[V]MF[O]	pp-oan	2	8	De Zwitser dirigeert gedurende een week een orkestmuzikant .
-VF[O]LK[V]MF[S]	pp-oan	5	2	Een orkestmuzikant dirigeert de Zwitser gedurende een week .
 VF[ADV]LK[V]MF[SO]	pp-oan	4	9	Daarom dirigeert de Zwitser gedurende een week een orkestmuzikant .
 LK[V]MF[SO]	pp-oan	3	8	Dirigeert de Zwitser gedurende een week een orkestmuzikant ?
 MF[SO]VC[V]	pp-oan	3	8	Omdat de Zwitser gedurende een week een orkestmuzikant dirigeert .
 VF[S]LK[V]MF[O]	pp-oan	2	8	De fotograaf fotografeert gedurende een week een model .
-VF[O]LK[V]MF[S]	pp-oan	5	2	Een model fotografeert de fotograaf gedurende een week .
 VF[ADV]LK[V]MF[SO]	pp-oan	4	9	Daarom fotografeert de fotograaf gedurende een week een model .
 LK[V]MF[SO]	pp-oan	3	8	Fotografeert de fotograaf gedurende een week een model ?
 MF[SO]VC[V]	pp-oan	3	8	Omdat de fotograaf gedurende een week een model fotografeert .
 VF[S]LK[V]MF[O]	pp-oan	2	7	De ingenieurs begeleiden gedurende een week cursisten .
-VF[O]LK[V]MF[S]	pp-oan	4	1	Cursisten begeleiden de ingenieurs gedurende een week .
 VF[ADV]LK[V]MF[SO]	pp-oan	4	8	Daarom begeleiden de ingenieurs gedurende een week cursisten .
 LK[V]MF[SO]	pp-oan	3	7	Begeleiden de ingenieurs gedurende een week cursisten ?
 MF[SO]VC[V]	pp-oan	3	7	Omdat de ingenieurs gedurende een week cursisten begeleiden .
 VF[S]LK[V]MF[O]	pp-oan	2	8	De deskundige adviseert gedurende een week een burgemeester .
-VF[O]LK[V]MF[S]	pp-oan	5	2	Een burgemeester adviseert de deskundige gedurende een week .
 VF[ADV]LK[V]MF[SO]	pp-oan	4	9	Daarom adviseert de deskundige gedurende een week een burgemeester .
 LK[V]MF[SO]	pp-oan	3	8	Adviseert de deskundige gedurende een week een burgemeester ?
 MF[SO]VC[V]	pp-oan	3	8	Omdat de deskundige gedurende een week een burgemeester adviseert .
 VF[S]LK[V]MF[O]	pp-oan	2	7	De reizigers eisen gedurende een week tolken .
-VF[O]LK[V]MF[S]	pp-oan	4	1	Tolken eisen de reizigers gedurende een week .
 VF[ADV]LK[V]MF[SO]	pp-oan	4	8	Daarom eisen de reizigers gedurende een week tolken .
 LK[V]MF[SO]	pp-oan	3	7	Eisen de reizigers gedurende een week tolken ?
 MF[SO]VC[V]	pp-oan	3	7	Omdat de reizigers gedurende een week tolken eisen .
 VF[S]LK[V]MF[O]	pp-oan	2	7	De brandweermannen bevrijden in een week slachtoffers .
-VF[O]LK[V]MF[S]	pp-oan	4	1	Slachtoffers bevrijden de brandweermannen in een week .
 VF[ADV]LK[V]MF[SO]	pp-oan	4	8	Daarom bevrijden de brandweermannen in een week slachtoffers .
 LK[V]MF[SO]	pp-oan	3	7	Bevrijden de brandweermannen in een week slachtoffers ?
 MF[SO]VC[V]	pp-oan	3	7	Omdat de brandweermannen in een week slachtoffers bevrijden .
